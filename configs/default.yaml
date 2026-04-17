@@ -1,0 +1,63 @@
+budgets:
+  context_tokens_per_session: 120000
+  inference_calls_per_session: 80
+  wall_clock_minutes: 45
+  dream_cycles_per_day: 3
+  exploration_reserve_pct: 15
+
+pressure:
+  weights:
+    uncertainty: 1.4
+    impact: 1.2
+    contradiction: 1.0
+    deadline: 0.8
+    blockers: 0.6
+    recent_failures: 0.5
+    known_solution: -0.9
+  thresholds:
+    incubate: 0.72
+    monitor: 0.45
+    archive: 0.35
+    archive_cycles: 3
+
+urgency:
+  weights:
+    impact: 1.0
+    severity: 1.0
+    elapsed_days: 0.5
+    deadline_pressure: 1.5
+    dependency_centrality: 0.8
+    escalation: 0.6
+    deterioration: 0.7
+    reversibility: -0.5
+
+goal_pipeline:
+  min_recurrence: 5
+  min_incubation_cycles: 3
+  commitment_threshold: 0.65
+  social_resistance_weight: 0.3
+  switch_cost_weight: 0.2
+
+crystallization:
+  weights:
+    compression: 0.30
+    constraint_satisfaction: 0.25
+    novelty: 0.20
+    cross_domain_distance: 0.15
+    verifier_agreement: 0.10
+  gates:
+    min_verifier: 0.80
+    min_constraint: 0.70
+    min_compression: 0.55
+    novelty_range: [0.35, 0.90]
+
+affect:
+  distress_decay: 0.95
+  relief_decay: 0.90
+  wireheading_penalty: 0.5
+  slack_loss_threshold: 0.7
+
+model:
+  backend: mock  # mock | ollama
+  ollama_model: llama3.1:8b-instruct
+  temperature: 0.7

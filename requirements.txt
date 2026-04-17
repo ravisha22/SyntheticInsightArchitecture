@@ -1,0 +1,7 @@
+# sqlite3  # built-in
+pyyaml
+networkx
+numpy
+sentence-transformers  # optional, for embeddings
+requests  # optional, for ollama
+pytest
