@@ -1,0 +1,29 @@
+# Data
+data/raw/
+data/processed/*.pkl
+data/processed/*.pt
+
+# Models
+models/*.pt
+models/*.pth
+models/*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.pem
+*.key
