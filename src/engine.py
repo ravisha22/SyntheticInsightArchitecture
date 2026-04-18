@@ -87,8 +87,48 @@ class SIAEngine:
         # 6. Report cycle state
         return self.get_state_summary()
     
+    # Stop words that appear in almost every issue and carry no signal
+    STOP_WORDS = frozenset({
+        "the", "a", "an", "is", "are", "was", "were", "be", "been", "being",
+        "have", "has", "had", "do", "does", "did", "will", "would", "could",
+        "should", "may", "might", "shall", "can", "need", "must", "to", "of",
+        "in", "for", "on", "with", "at", "by", "from", "as", "into", "through",
+        "during", "before", "after", "above", "below", "between", "out", "off",
+        "over", "under", "again", "further", "then", "once", "here", "there",
+        "when", "where", "why", "how", "all", "each", "every", "both", "few",
+        "more", "most", "other", "some", "such", "no", "nor", "not", "only",
+        "own", "same", "so", "than", "too", "very", "just", "don", "doesn",
+        "didn", "won", "wouldn", "shouldn", "couldn", "isn", "aren", "wasn",
+        "weren", "hasn", "haven", "hadn", "it", "its", "this", "that", "these",
+        "those", "i", "me", "my", "we", "our", "you", "your", "he", "him",
+        "she", "her", "they", "them", "their", "what", "which", "who", "whom",
+        "and", "but", "or", "if", "while", "because", "until", "about",
+        "pandas", "dataframe", "series", "column", "row", "data", "value",
+        "values", "using", "like", "also", "e.g", "etc", "use", "used",
+        "get", "set", "one", "two", "new", "see", "way", "make", "still",
+        "even", "work", "works", "bug", "issue", "error", "expected", "actual",
+        "0", "1", "2", "3", "4", "5", "128", "64", "none", "true", "false",
+    })
+
+    def _clean_tokenize(self, text):
+        """Extract meaningful tokens from text, stripping punctuation."""
+        import re
+        # Split on non-alphanumeric, lowercase, filter stop words and short tokens
+        tokens = re.findall(r'[a-zA-Z_][a-zA-Z0-9_-]*', text.lower())
+        return {t for t in tokens if t not in self.STOP_WORDS and len(t) > 2}
+
+    def _split_tag(self, tag):
+        """Split multi-word tags into individual tokens."""
+        import re
+        tokens = re.findall(r'[a-zA-Z_][a-zA-Z0-9_-]*', tag.lower())
+        return {t for t in tokens if t not in self.STOP_WORDS and len(t) > 2}
+
     def _cluster_seeds(self):
-        """Find seeds with overlapping tags and bump their recurrence."""
+        """Find seeds with overlapping tags and bump recurrence.
+        
+        Uses STRONG matching: requires minimum tag overlap ratio,
+        filters stop words, and links to tensions only on meaningful terms.
+        """
         seeds = self.conn.execute(
             "SELECT * FROM goal_seeds WHERE stage IN ('seed', 'accumulating')"
         ).fetchall()
@@ -96,48 +136,104 @@ class SIAEngine:
         if len(seeds) < 2:
             return
         
-        # Build tag-to-seed index
-        tag_index = {}
+        # Build tag sets per seed — split multi-word labels into individual tokens
+        seed_tags = {}
         for seed in seeds:
-            tags = json.loads(seed["tags"]) if seed["tags"] else []
-            for tag in tags:
-                tag_index.setdefault(tag, []).append(seed["id"])
+            raw_tags = json.loads(seed["tags"]) if seed["tags"] else []
+            clean = set()
+            for tag in raw_tags:
+                clean.update(self._split_tag(tag))
+            seed_tags[seed["id"]] = clean
         
-        # Find seeds that share tags — each shared tag = evidence of recurrence
+        # Cluster seeds by tag overlap — require >= 2 shared meaningful tags
+        min_shared = self.config.get("goal_pipeline", {}).get("min_shared_tags", 2)
         boosted = set()
-        for tag, seed_ids in tag_index.items():
-            if len(seed_ids) > 1:
-                for sid in seed_ids:
-                    if sid not in boosted:
-                        self.goals.update_recurrence(sid, self.cycle)
-                        boosted.add(sid)
+        seed_list = list(seed_tags.items())
+        for i in range(len(seed_list)):
+            for j in range(i + 1, len(seed_list)):
+                sid_a, tags_a = seed_list[i]
+                sid_b, tags_b = seed_list[j]
+                shared = tags_a & tags_b
+                if len(shared) >= min_shared:
+                    for sid in (sid_a, sid_b):
+                        if sid not in boosted:
+                            self.goals.update_recurrence(sid, self.cycle)
+                            boosted.add(sid)
         
-        # Also link seeds to related tensions by keyword overlap
+        # Link seeds to tensions — match seed tags against tension title+description words
         tensions = self.conn.execute(
             "SELECT id, title, description FROM tensions WHERE status IN ('open', 'incubating')"
         ).fetchall()
         
+        total_tensions = len(tensions)
+        
         for seed in seeds:
-            tags = set(json.loads(seed["tags"]) if seed["tags"] else [])
+            tags = seed_tags.get(seed["id"], set())
+            if not tags:
+                continue
+            matched_count = 0
             for t in tensions:
-                t_words = set((t["title"] + " " + (t["description"] or "")).lower().split())
-                if tags & t_words:
+                t_words = self._clean_tokenize(
+                    (t["title"] or "") + " " + (t["description"] or "")
+                )
+                overlap = tags & t_words
+                if len(overlap) >= 1:  # 1 meaningful match to link
                     self.conn.execute(
                         "INSERT OR IGNORE INTO seed_tensions (seed_id, tension_id) VALUES (?, ?)",
                         (seed["id"], t["id"])
                     )
+                    matched_count += 1
+            
+            # Store hit rate for evidence quality gating
+            hit_rate = matched_count / total_tensions if total_tensions > 0 else 0.0
+            self.conn.execute(
+                "UPDATE goal_seeds SET social_resistance = ? WHERE id = ?",
+                (1.0 - hit_rate, seed["id"])
+            )
+        
         self.conn.commit()
     
     def _compute_seed_coherence(self, seed: dict) -> float:
-        """How coherent is this seed cluster? Based on linked tension count and tag overlap."""
+        """How coherent is this seed cluster?
+        
+        Coherence combines:
+        - linked tension count (but penalized if it links to EVERYTHING)
+        - recurrence from independent tag clustering
+        - exclusivity: a seed that matches 90% of tensions is generic, not insightful
+        """
         linked = self.conn.execute(
             "SELECT COUNT(*) as c FROM seed_tensions WHERE seed_id = ?",
             (seed["id"],)
         ).fetchone()["c"]
         
+        total_tensions = self.conn.execute(
+            "SELECT COUNT(*) as c FROM tensions WHERE status IN ('open', 'incubating')"
+        ).fetchone()["c"]
+        
+        if total_tensions == 0:
+            return 0.0
+        
+        # Hit rate: fraction of tensions this seed is linked to
+        hit_rate = linked / total_tensions
+        
+        # Exclusivity penalty: seeds that match everything are generic
+        # Sweet spot is 20-60% of tensions — specific enough to be meaningful
+        if hit_rate > 0.8:
+            exclusivity = 0.2  # very generic, penalize heavily
+        elif hit_rate > 0.6:
+            exclusivity = 0.5
+        elif hit_rate > 0.3:
+            exclusivity = 0.9  # sweet spot
+        elif hit_rate > 0.1:
+            exclusivity = 0.7  # somewhat narrow but valid
+        else:
+            exclusivity = 0.3  # too narrow, weak evidence
+        
         recurrence = seed["recurrence"]
-        # Coherence grows with linked tensions and recurrence
-        return min((linked * 0.2 + recurrence * 0.15), 1.0)
+        
+        # Coherence = evidence strength × exclusivity
+        raw_coherence = (linked * 0.15 + recurrence * 0.1) * exclusivity
+        return min(raw_coherence, 1.0)
     
     def _run_creative_pipeline(self):
         """Serendipity → Dream → Collision → Crystallization."""

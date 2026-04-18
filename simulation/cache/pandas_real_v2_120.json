@@ -1,0 +1,1529 @@
+{
+  "issues": [
+    {
+      "number": 30593,
+      "title": "Pandas date_range does not work when using periods and adding holiday",
+      "body": "This code works fine    ````  pd.date_range(start='2020-11-25 10:00',periods=14,                freq=pd.offsets.CustomBusinessHour(start='10:00'))  ````    but if I add holidays then it produces more than 14 periods      ````  pd.date_range(start='2020-11-25 10:00',periods=14,                freq=pd.offsets.CustomBusinessHour(start='10:00',holidays=['2020-11-26']))  ````    Output:    ````  DatetimeIndex(['2020-11-25 10:00:00', '2020-11-25 11:00:00',                 '2020-11-25 12:00:00', '2020-",
+      "labels": [
+        "Bug",
+        "Timedelta"
+      ],
+      "created_at": "2020-01-01T02:01:00Z",
+      "closed_at": "2020-01-05T21:39:10Z",
+      "comments": 3
+    },
+    {
+      "number": 30618,
+      "title": "'Categorical' from output of 'factorize' has different encoding",
+      "body": "If I call `pd.Categorical` using the results of `pd.factorize`, sometimes the encodings produced by them will be different:  ```python  import pandas as pd, numpy as np    df = pd.DataFrame({      \"col1\" : [\"S\",\"C\",\"S\",\"S\",\"Q\"]      })  df[\"col1\"] = pd.Categorical(df[\"col1\"])  encoded, factors = pd.factorize(df[\"col1\"])  recoded = pd.Categorical(df[\"col1\"], factors).codes  ```  I would expect in this case  that all three objects (`encoded`, `recoded`, and the original) will have the same encodin",
+      "labels": [
+        "Bug",
+        "Algos",
+        "Categorical",
+        "Closing Candidate"
+      ],
+      "created_at": "2020-01-02T15:10:35Z",
+      "closed_at": "2023-11-21T17:45:47Z",
+      "comments": 6
+    },
+    {
+      "number": 30657,
+      "title": "Index comparison doesn't return index",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd    s = pd.Series([1, 2, 3, 4, 5])  t = s.copy()    print(s.index == t.index)  # np.array([True, True, True, True, True])  ```  #### Problem description  Comparing two indices returns an `np.ndarray`, and not another index. The behavior is different from series and dataframes. Is it a bug?    #### Expected Output  The output I expect should be achievable with  ```python  pd.Index(s.index == t.index)  ```    Po",
+      "labels": [
+        "Indexing"
+      ],
+      "created_at": "2020-01-03T19:46:08Z",
+      "closed_at": "2020-01-04T03:43:42Z",
+      "comments": 3
+    },
+    {
+      "number": 30667,
+      "title": "groupby.apply fails with ValueError: cannot reindex from a duplicate axis",
+      "body": "#### Code Sample    ```python  import pandas as pd    df=pd.DataFrame([['x','p'],['x','p'],['x','q']], columns=['X','Y'], index=[1,2,2])  print(df)  df=df.groupby(['Y']).apply(lambda x: x)    df=pd.DataFrame([['x','p'],['x','p'],['x','o']], columns=['X','Y'], index=[1,2,2])  print(df)  df=df.groupby(['Y']).apply(lambda x: x)  ```  #### Problem description    On dataframe:  ```     X  Y  1  x  p  2  x  p  2  x  q  ```  `groupby.apply` on column `Y` works.  but throws duplicate axis exception with",
+      "labels": [
+        "Bug",
+        "Groupby"
+      ],
+      "created_at": "2020-01-03T22:19:43Z",
+      "closed_at": "2020-01-20T16:28:01Z",
+      "comments": 1
+    },
+    {
+      "number": 30726,
+      "title": "Rolling min/max gives malloc error",
+      "body": "#### Code Sample    ```python  import pandas as pd  import numpy as np  import skimage  from scipy import signal    for orient in [0, 1]:      th = int(input_img.shape[orient] / 100)        peaks, info = signal.find_peaks(1 - bw_img.mean(orient), prominence=.35, width=2)      for pk, w in zip(peaks, info['widths']):          w *= 2          if orient == 0:              sign = bw_img[:, pk]          else:              sign = bw_img[pk, :]          sign = pd.Series(sign).rolling(th).max()    ```  ",
+      "labels": [
+        "Performance",
+        "Window"
+      ],
+      "created_at": "2020-01-06T09:43:32Z",
+      "closed_at": "2020-04-28T14:48:41Z",
+      "comments": 6
+    },
+    {
+      "number": 30732,
+      "title": "to_csv swallows exception when writing to S3",
+      "body": "I'm not sure if this issue belongs to `pandas` or `s3fs`.    When writing to non-existing bucket or bucket without proper permissions no exception is raised. E.g. the following code will be executed normally:  ```python  df = pd.DataFrame({'col1': [1, 2], 'col2': [3, 4]})  df.to_csv('s3://very.weird.and.certainly.nonexistent.bucket/data.csv')  # No exception  ```    In contrast, when writing to a local file without proper permissions results in an exception as it should be:  ```python  dff.to_cs",
+      "labels": [
+        "Bug",
+        "IO CSV",
+        "IO Network"
+      ],
+      "created_at": "2020-01-06T12:07:37Z",
+      "closed_at": "2020-09-05T00:01:23Z",
+      "comments": 3
+    },
+    {
+      "number": 30736,
+      "title": "Inconsistency/bug when selecting from a data-frame using an unsorted DatetimeIndex",
+      "body": "#### The following is a MWE of the error:    ```python  # Create an index  from_, to_ = pd.to_datetime(['2016-01-01', '2016-06-01'])  index = pd.date_range(from_, to_, freq='1min')  hour = pd.Timedelta('1h')    # Disorder the index:  index = pd.to_datetime(np.random.choice(index, len(index), replace=False))    # Create a DF using that index  df = pd.DataFrame(np.arange(2*len(index)).reshape(-1, 2), index = index)    # Now, select date-range:  df[from_:to_]                      # ----> Fine! (Uno",
+      "labels": [
+        "Indexing",
+        "Usage Question"
+      ],
+      "created_at": "2020-01-06T13:19:52Z",
+      "closed_at": "2021-07-25T04:40:36Z",
+      "comments": 2
+    },
+    {
+      "number": 30738,
+      "title": "API: positional indexing with IntegerArray",
+      "body": "Currently, the following does not work (but probably should):    ```  In [12]: arr1 = pd.array([1, 2, 3])     In [13]: arr2 = pd.array([0, 2])    In [14]: arr1[arr2]    ---------------------------------------------------------------------------  IndexError                                Traceback (most recent call last)  <ipython-input-14-1646c66d4d26> in <module>  ----> 1 arr1[arr2]    ~/scipy/pandas/pandas/core/arrays/integer.py in __getitem__(self, item)      375             item = check_bool",
+      "labels": [
+        "Indexing",
+        "Missing-data",
+        "API Design",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-01-06T13:47:43Z",
+      "closed_at": "2020-01-29T12:04:57Z",
+      "comments": 0
+    },
+    {
+      "number": 30740,
+      "title": "DataFrame.unstack() with list of levels ignores fill_value",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  >>> import pandas as pd  >>> df = (  ...     pd.DataFrame(  ...         {  ...             \"name\": [\"Alice\", \"Bob\"],  ...             \"score\": [9.5, 8],  ...             \"employed\": [False, True],  ...             \"kids\": [0, 0],  ...             \"gender\": [\"female\", \"male\"],  ...         }  ...     )  ...     .set_index([\"name\", \"employed\", \"kids\", \"gender\"])  ...     .unstack([\"gender\"], fill_value=0)  ... )  >>> df.unstack([\"",
+      "labels": [
+        "Bug",
+        "Missing-data",
+        "Reshaping"
+      ],
+      "created_at": "2020-01-06T14:59:27Z",
+      "closed_at": "2020-01-09T19:19:07Z",
+      "comments": 1
+    },
+    {
+      "number": 30742,
+      "title": "PERF: regression in getattr for IntervalIndex",
+      "body": "Master:    ```  In [14]: idx = pd.interval_range(0, 1000, 1000)     In [15]: %timeit getattr(idx, '_ndarray_values', idx)  1.29 ms \u00b1 30.6 \u00b5s per loop (mean \u00b1 std. dev. of 7 runs, 1000 loops each)    In [16]: %timeit idx.closed  321 ns \u00b1 2.66 ns per loop (mean \u00b1 std. dev. of 7 runs, 1000000 loops each)  ```    while on 0.25.3:    ```  In [13]: idx = pd.interval_range(0, 1000, 1000)     In [14]: %timeit getattr(idx, '_ndarray_values', idx)    90.5 ns \u00b1 2.09 ns per loop (mean \u00b1 std. dev. of 7 runs,",
+      "labels": [
+        "Performance",
+        "Interval"
+      ],
+      "created_at": "2020-01-06T15:30:03Z",
+      "closed_at": "2023-02-15T02:57:15Z",
+      "comments": 20
+    },
+    {
+      "number": 30744,
+      "title": "PERF: Categorical indexing performance regression",
+      "body": "Recent regression in the `categoricals.CategoricalSlicing.time_getitem_list` benchmark: https://pandas.pydata.org/speed/pandas/#categoricals.CategoricalSlicing.time_getitem_list?commits=6efc2379-b9de33e3    Reproducible example for this benchmark:    ```  N = 10 ** 6  categories = [\"a\", \"b\", \"c\"]  values = [0] * N + [1] * N + [2] * N  data = pd.Categorical.from_codes(values, categories=categories)    list_ = list(range(10000))    %timeit data[list_]  ```    Now, this slowdown is due to the chang",
+      "labels": [
+        "Performance"
+      ],
+      "created_at": "2020-01-06T16:28:56Z",
+      "closed_at": "2020-01-06T19:28:11Z",
+      "comments": 4
+    },
+    {
+      "number": 30790,
+      "title": "PERF: performance regression in 1.0 compared to 0.25",
+      "body": "I ran a full benchmark on a separate machine locally, comparing current master against 0.25.3.    Some identified cases:    - [x] Indexing slowdown due to `extract_array`, reproducer below at https://github.com/pandas-dev/pandas/issues/30790#issuecomment-572928516  - [ ] `Index.__new__`, reproducer below at https://github.com/pandas-dev/pandas/issues/30790#issuecomment-571959377  - [ ] IntervalIndex (or all ExtensionIndex?) attribute access: https://github.com/pandas-dev/pandas/issues/30742  - [",
+      "labels": [
+        "Performance"
+      ],
+      "created_at": "2020-01-07T18:06:36Z",
+      "closed_at": "2020-11-25T21:43:34Z",
+      "comments": 27
+    },
+    {
+      "number": 30867,
+      "title": "Multi-dimensional Index indexing followups",
+      "body": "* Avoid DeprecationWarning followed by exception: https://github.com/pandas-dev/pandas/pull/30588#discussion_r364930269  * Update tests to filter warnings in plotting https://github.com/pandas-dev/pandas/pull/30588/files/74dffbedacb34bde7e5a8fb2396e0fef9efac499#diff-4b6d08e53050950f83ea75e432302f89  * Change CategoricalIndex behavior to raise, matching IntervalIndex https://github.com/pandas-dev/pandas/pull/30588#discussion_r364924210  * Deprecate it in `Series.__getitem__` as well, similar to `",
+      "labels": [
+        "Indexing",
+        "Deprecate",
+        "Index",
+        "Warnings"
+      ],
+      "created_at": "2020-01-09T21:18:52Z",
+      "closed_at": "2023-03-29T17:51:22Z",
+      "comments": 12
+    },
+    {
+      "number": 30868,
+      "title": "local test failure: test_maybe_promote_datetimetz_with_datetimetz",
+      "body": "```  pandas/tests/arithmetic/test_datetime64.py::TestDatetime64ArrayLikeComparisons::test_dt64arr_cmp_arraylike_invalid[tzlocal()-other0] FAILED [  4%]  pandas/tests/arithmetic/test_datetime64.py::TestDatetime64ArrayLikeComparisons::test_dt64arr_cmp_arraylike_invalid[tzlocal()-other1] FAILED [  8%]  pandas/tests/arithmetic/test_datetime64.py::TestDatetime64ArrayLikeComparisons::test_dt64arr_cmp_arraylike_invalid[tzlocal()-other2] FAILED [ 12%]  pandas/tests/arithmetic/test_datetime64.py::TestDat",
+      "labels": [
+        "Bug",
+        "Windows",
+        "Timezones",
+        "Unreliable Test",
+        "Closing Candidate"
+      ],
+      "created_at": "2020-01-09T21:20:56Z",
+      "closed_at": "2023-11-21T17:51:36Z",
+      "comments": 3
+    },
+    {
+      "number": 30880,
+      "title": "Multiple aggregations with the same name get overwritten",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```  import pandas as pd  import numpy as np  from functools import partial    df = pd.DataFrame(      np.random.randn(1000, 3),       index=pd.date_range('1/1/2012', freq='S', periods=1000),       columns=['A', 'B', 'C']  )  dfg = df.resample('3T').agg(      {'A': [          partial(np.quantile, q=.9999),           partial(np.quantile, q=.1111),      ]}  )  ```  returns  ```                              A                                 q",
+      "labels": [
+        "Bug",
+        "Groupby",
+        "Apply"
+      ],
+      "created_at": "2020-01-10T10:00:41Z",
+      "closed_at": "2020-07-14T20:34:56Z",
+      "comments": 0
+    },
+    {
+      "number": 30892,
+      "title": "value assignment bug for multi-indexed dataframes in v1.0.0rc0",
+      "body": "#### Problem Description  in new pre-release 1.0.0.rc0, sliced value assignment for multi-indexed dataframe with duplicated datetime indices would fail    ```python  import pandas as pd  x = pd.DataFrame([[1,2,3],['a','a','c']],index=['c1','index2'],                   columns=pd.to_datetime(['20190101','20190101','20190102'])).T  x['c2'] = np.nan  x.index.name = 'index1'  x.set_index(['index2'],append=True,inplace=True)      In [0]: x  Out[0]:                   c1  c2  index1   index2         20",
+      "labels": [
+        "Indexing",
+        "Regression"
+      ],
+      "created_at": "2020-01-10T16:52:11Z",
+      "closed_at": "2020-01-28T01:59:32Z",
+      "comments": 4
+    },
+    {
+      "number": 30956,
+      "title": "BUG: rpow with -1 and pd.NA should return pd.NA",
+      "body": "In https://github.com/pandas-dev/pandas/pull/30097, we added special cases for 1 and -1 not propagating pd.NA:    ```  In [59]: 1 ** pd.NA    Out[59]: 1    In [60]: (-1) ** pd.NA  Out[60]: -1  ```    But for -1 this should probably be pd.NA as result in the end, see https://mail.python.org/pipermail/pandas-dev/2020-January/001174.html    ```  In [58]: (-1) ** np.array([2, 3, 2.5])   /home/joris/miniconda3/envs/dev/bin/ipython:1: RuntimeWarning: invalid value encountered in power    #!/home/joris",
+      "labels": [
+        "Bug"
+      ],
+      "created_at": "2020-01-13T09:30:48Z",
+      "closed_at": "2020-01-13T19:03:26Z",
+      "comments": 2
+    },
+    {
+      "number": 30958,
+      "title": "pd.Series.sum() returns nan for Int64 with pd.NA",
+      "body": "#### Code Sample, a copy-pastable example if possible    I'm not sure this is a bug or intended behavior. If intended, I'm glad to be pointed to how API design was discussed and decided.    On `1.0.0 rc0`, `pd.Series.sum()`returns `nan` when using `skipna=False` for `'Int64'` with `pd.NA`.     ```python  >>> pd.Series([1, 2, pd.NA]).sum(skipna=False)  <NA>  >>> pd.Series([1, 2, pd.NA], dtype='Int64').sum(skipna=False)  nan    >>> pd.Series([1, 2, np.nan]).sum(skipna=False)  nan  >>> pd.Series([1",
+      "labels": [
+        "Bug",
+        "Missing-data",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-01-13T10:02:21Z",
+      "closed_at": "2020-01-18T15:35:40Z",
+      "comments": 1
+    },
+    {
+      "number": 30988,
+      "title": "BUG: assigment of list with boolean mask scrambles values",
+      "body": "From [gitter](https://gitter.im/pydata/pandas?at=5e0a26d5d5a7f357e6a84f42) (didn't see it reported in an issue):    ```  x = pd.Series([None] * 10)  y = [False] * 3 + [True] * 5 + [False] * 2  x[y] = list(range(5))  x  ```    gives:  ```  0    None  1    None  2    None  3       3  4       4  5       0  6       1  7       2  8    None  9    None  dtype: object  ```    For some reason, the assigned values are not in the correct order.    With an array, it works fine (but I think we support list a",
+      "labels": [
+        "Bug",
+        "Indexing"
+      ],
+      "created_at": "2020-01-13T22:05:39Z",
+      "closed_at": "2020-01-14T12:01:53Z",
+      "comments": 4
+    },
+    {
+      "number": 30994,
+      "title": "API: DatetimeIndex.get_loc(datetime) should require tzawareness compat?",
+      "body": "```  dti = pd.date_range(\"2016-01-01\", periods=3)  dti2 = dti.tz_localize(\"UTC\").tz_convert(\"US/Pacific\")    >>> dti.get_loc(dti2[0])  0  >>> dti2.get_loc(dti[0])  KeyError: Timestamp('2016-01-01 00:00:00-0800', tz='US/Pacific', freq='D')    ser = pd.Series(range(3), index=dti)  ser2 = pd.Series(range(3), index=dti2)    >>> ser.loc[dti2[1]]  1  >>> ser2.loc[dti[1]]  KeyError: Timestamp('2016-01-02 00:00:00-0800', tz='US/Pacific', freq='D')  ```    get_loc is effectively an equality check, so I t",
+      "labels": [
+        "Indexing",
+        "Timezones",
+        "Needs Discussion"
+      ],
+      "created_at": "2020-01-14T04:46:06Z",
+      "closed_at": "2020-10-11T19:16:24Z",
+      "comments": 6
+    },
+    {
+      "number": 31016,
+      "title": "BUG: pivot_table with multi-index columns only and margins=True gives wrong output or fails",
+      "body": "Discovered in #31013 , when `pivot_table` only defines `columns` with single column and with `margins` set to `True`, it will fail.    ```python  >>> df = pd.DataFrame({\"A\": [\"foo\", \"foo\", \"foo\", \"foo\", \"foo\",\"bar\", \"bar\", \"bar\", \"bar\"],                      \"B\": [\"one\", \"one\", \"one\", \"two\", \"two\",\"one\", \"one\", \"two\", \"two\"],                      \"C\": [\"small\", \"large\", \"large\", \"small\",\"small\", \"large\", \"small\", \"small\",\"large\"],                      \"D\": [1, 2, 2, 3, 3, 4, 5, 6, 7],           ",
+      "labels": [
+        "Bug",
+        "Reshaping"
+      ],
+      "created_at": "2020-01-14T20:40:53Z",
+      "closed_at": "2020-01-20T20:08:12Z",
+      "comments": 1
+    },
+    {
+      "number": 31043,
+      "title": "BUG: nonexistent Timestamp pre-summer/winter DST change with dateutil timezone",
+      "body": "#### Code Sample, a copy-pastable example if possible    This is fine:  ```  >>> pd.__version__  '0.26.0.dev0+1790.gdd94e0db9'  >>> epoch =  1552211999999999871  >>> t = pd.Timestamp(epoch, tz='dateutil/US/Pacific')  >>> t  Timestamp('2019-03-10 01:59:59.999999871-0800', tz='dateutil/US/Pacific')  >>> t.value  1552211999999999871  >>> pd.Timestamp(t)  Timestamp('2019-03-10 01:59:59.999999871-0800', tz='dateutil/US/Pacific')  >>> pd.Timestamp(t).value  1552211999999999871  ```  This is also fine:",
+      "labels": [
+        "Bug",
+        "Timezones"
+      ],
+      "created_at": "2020-01-15T13:48:10Z",
+      "closed_at": "2020-01-24T03:33:00Z",
+      "comments": 4
+    },
+    {
+      "number": 31054,
+      "title": "DOC: intended series.loc behavior undocumented for boolean series",
+      "body": "#### series.loc when passed a boolean series  How will series.loc behave when passed a boolean series whose index contains the same values, but in a different order, than the focal series' index?    ```python  s1 = pd.Series(list('ab'))  mask = [True, False]  s2 = pd.Series(mask, pd.Index([1,0]))    print(s1.loc[mask])  print(s1.loc[s2])  ```  0    a  dtype: object  1    b  dtype: object    #### Problem description    I expected the index of `s2` to be ignored, in effect treating `s2` as a boole",
+      "labels": [
+        "Docs",
+        "Indexing"
+      ],
+      "created_at": "2020-01-15T21:05:39Z",
+      "closed_at": "2020-08-02T10:18:02Z",
+      "comments": 1
+    },
+    {
+      "number": 31074,
+      "title": "Pandas .plot() on regularly spaced timeseries result in slow plotting/interaction",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import numpy as np  import matplotlib.pyplot as plt  import datetime as dt  import pandas as pd    N = 100000  y = np.linspace(0, 10, N)    base_dt = dt.datetime(2000,1,1)  dt_range = [base_dt + dt.timedelta(minutes=x) for x in range(N)]    plt.figure('pyplot timeseries')  plt.plot(dt_range,y)    s = pd.Series(index=dt_range, data=y)  plt.figure('Pandas plot timeseries')  s.plot()    s2 = pd.Series(data=y)  plt.figure('Pandas pl",
+      "labels": [
+        "Visualization",
+        "Performance"
+      ],
+      "created_at": "2020-01-16T15:24:25Z",
+      "closed_at": "2024-01-28T01:36:10Z",
+      "comments": 3
+    },
+    {
+      "number": 31102,
+      "title": "BUG: Cannot astype from IntegerArray to BooleanArray with missing values",
+      "body": "For the boolean -> integer array conversion, I added a special path for that. But `astype`ing integer to boolean is currently not working:    ```  In [23]: a = pd.array([1, 0, pd.NA])      In [24]: a    Out[24]:   <IntegerArray>  [1, 0, <NA>]  Length: 3, dtype: Int64    In [25]: a.astype(\"boolean\")    ---------------------------------------------------------------------------  ValueError                                Traceback (most recent call last)  <ipython-input-25-41973ed53ee3> in <module>",
+      "labels": [
+        "Bug",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-01-17T13:08:47Z",
+      "closed_at": "2020-01-23T15:26:39Z",
+      "comments": 2
+    },
+    {
+      "number": 31108,
+      "title": "API: inconsistency in casting back to its EA dtype (try_cast_to_ea)",
+      "body": "With the current logic we have in `try_cast_to_ea`:    https://github.com/pandas-dev/pandas/blob/a72eef5a86979232337149961d2122f0b555c876/pandas/core/arrays/base.py#L49-L54    it's easy to get inconsistencies, and it depends critically on what `_from_sequence` accepts as valid scalar.     For example, we now have this    ```  >>> s = pd.Series([0, 1, 2], dtype=\"Int64\")   >>> s.combine(0, lambda x, y: x == y)        0     True  1    False  2    False  dtype: bool  ```    However, if the IntegerAr",
+      "labels": [
+        "Bug",
+        "ExtensionArray",
+        "API - Consistency"
+      ],
+      "created_at": "2020-01-17T15:59:47Z",
+      "closed_at": "2023-10-16T18:50:30Z",
+      "comments": 1
+    },
+    {
+      "number": 31117,
+      "title": "REF: IntervalIndex.get_value partial slicing",
+      "body": "In trying to refactor IntervalIndex.get_loc/get_value to more closely follow the other implementations, I stumbled on a behavior in a test case that surprised me:    ```  idx = IntervalIndex.from_tuples([(1, 5), (3, 7)])  s = Series(range(len(idx)), index=idx)  key = [4]    >>> idx.get_loc(key)  # <-- behaves like all the other get_locs in requiring scalar  KeyError: [4]    >>> idx.get_value(s, key)   # <-- surprising  (1, 5]    0  (3, 7]    1  dtype: int64  ```    All of the other FooIndex.get_",
+      "labels": [
+        "Indexing",
+        "Interval",
+        "Needs Tests"
+      ],
+      "created_at": "2020-01-18T03:46:12Z",
+      "closed_at": "2020-05-09T20:22:04Z",
+      "comments": 3
+    },
+    {
+      "number": 31142,
+      "title": "Series.combine with fill_value gives unexpected results",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd    a = pd.Series([1, 2, 3], index=[\"a\", \"b\", \"c\"])  b = pd.Series([10, 20, 30], index=[0, \"e\", \"f\"])  c = b.combine(a, lambda x,y: x+y, fill_value=0)  print(c)  ```  #### Problem description  This gives the output:  0    11  a     1  b     2  c     3  e    20  f    30  dtype: int64  #### Expected Output  0    10  a     1  b     2  c     3  e    20  f    30  dtype: int64    With higher numbers in the index it ",
+      "labels": [
+        "Bug",
+        "Needs Tests",
+        "combine/combine_first/update"
+      ],
+      "created_at": "2020-01-19T21:44:52Z",
+      "closed_at": "2026-03-16T18:41:21Z",
+      "comments": 9
+    },
+    {
+      "number": 31170,
+      "title": "pandas read_csv() doesn't work with StreamingBody object where python engine is required",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  >>> import boto3  >>> import s3fs  >>> import pandas as pd  >>>   >>> s3 = boto3.client(\"s3\")  >>> response = s3.get_object(Bucket=\"df-raw-869771\", Key=\"csv/customer-01.csv\")  >>>   >>> pd.read_csv(response[\"Body\"])         customer_id|store_id|first_name|last_name|email|address_id|activebool|dw_insert_date|dw_update_date|active  0     9|2|MARGARET|MOORE|MARGARET.MOORE@sakilacustom...                                             ",
+      "labels": [
+        "Bug",
+        "IO CSV",
+        "IO Network"
+      ],
+      "created_at": "2020-01-21T02:22:30Z",
+      "closed_at": "2023-04-28T23:40:18Z",
+      "comments": 1
+    },
+    {
+      "number": 31186,
+      "title": "Adding and subtracting DateOffsets results in different behaviour",
+      "body": "```  >>> import datetime as dt  >>> import pandas as pd    >>> dt.datetime(2019, 3, 6, 16, 0) + pd.offsets.BusinessHour()                                                                                                                                                Timestamp('2019-03-07 09:00:00')    >>> dt.datetime(2019, 3, 7, 10, 0) - pd.offsets.BusinessHour()                                                                                                                                         ",
+      "labels": [
+        "Bug",
+        "Numeric Operations",
+        "Frequency"
+      ],
+      "created_at": "2020-01-21T20:54:32Z",
+      "closed_at": "2026-04-02T16:49:12Z",
+      "comments": 0
+    },
+    {
+      "number": 31204,
+      "title": "convert numeric column to dedicated `pd.StringDtype()`",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  pd.Series(range(5, 10), dtype=\"Int64\").astype(\"string\")  ```  raises `TypeError: data type not understood`    while     ```python  pd.Series(range(5, 10)).astype(\"string\")  ```  raises `ValueError: StringArray requires a sequence of strings or missing values.`      If you first do `astype(str)`:   ```python  pd.Series(range(5, 10)).astype(str).astype(\"string\")  ```  and   ```python  pd.Series(range(5, 10), dtype=\"Int64\").astype(",
+      "labels": [
+        "Bug",
+        "Dtype Conversions",
+        "ExtensionArray",
+        "NA - MaskedArrays"
+      ],
+      "created_at": "2020-01-22T13:01:30Z",
+      "closed_at": "2020-05-26T22:20:20Z",
+      "comments": 11
+    },
+    {
+      "number": 31218,
+      "title": "BUG: DTA/TDA setitem breaks freq on views",
+      "body": "DatetimeArray/TimedeltaArray `__setitem__` resets the array's freq to None, but this doesn't propagate to views:    ```  dti = pd.date_range('2016-01-01', periods=5)  dta = dti._data  view = dta[:]  assert view.freq == dta.freq == \"D\"    dta[0] = pd.NaT  assert dta.freq is None    >>> view.freq  <Day>  ```    `view.freq` is now incorrect.    It will be a hassle, but I think the thing to do is remove `freq` from DTA/TDA altogether.  It has a different meaning from PeriodArray.freq and isn't neces",
+      "labels": [
+        "Bug",
+        "Frequency"
+      ],
+      "created_at": "2020-01-22T19:46:25Z",
+      "closed_at": "2025-07-16T00:42:45Z",
+      "comments": 2
+    },
+    {
+      "number": 31243,
+      "title": "Potential bug in reading SAS files with CHAR (RLE) compression and many repeated characters",
+      "body": "Hi,    I think I ran into a bug in the RLE decompression implementation.    **Short description**:  String fields with more than 32 repeated consecutive characters are ~be~ cropped at 32 and next fields will spill over corrupting the whole dataframe.    **Example**:    example.csv with fields of length 50  ```  long_string_field1,long_string_field2,long_string_field3  \"00000000000000000000000000000000000000000000000000\",\"11111111111111111111111111111111111111111111111111\",\"aaaaaaaaaaaaaaaaaaaaaa",
+      "labels": [
+        "Bug",
+        "IO SAS"
+      ],
+      "created_at": "2020-01-23T11:08:19Z",
+      "closed_at": "2022-06-24T21:31:58Z",
+      "comments": 10
+    },
+    {
+      "number": 31286,
+      "title": "Unexpected behaviour of `Series.rolling.corr` when using a `Timedelta` based window.",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python    import numpy as np  import pandas as pd    def f(x, y, window):      return x.rolling(window).corr(y)    def g(x, y, window):      return x.rolling(window).apply(lambda x: x.corr(y), raw=False)      if __name__ == \"__main__\":      N = 20      n = 10            x = pd.Series(np.random.randn(N))      y = 1.0 * x      x[0:n] = 0.      window = 4        print(f(x, y, window)[n + window - 1 :])  >>> 13    1.0  14    1.0  15    1.0 ",
+      "labels": [
+        "Bug",
+        "Window"
+      ],
+      "created_at": "2020-01-24T16:32:26Z",
+      "closed_at": "2020-12-28T00:03:23Z",
+      "comments": 5
+    },
+    {
+      "number": 31299,
+      "title": "DEPR: disallow series[[slice(...)]]",
+      "body": "One of the more convoluted parts of `Series.__getitem__` is for handling single-entry lists that contain a slice, where we end up just returning `self[key[0]]`.  We have two tests that hit this path, but it isn't clear to me why this should be supported.",
+      "labels": [
+        "Indexing",
+        "Deprecate"
+      ],
+      "created_at": "2020-01-25T01:52:15Z",
+      "closed_at": "2020-02-09T17:08:54Z",
+      "comments": 2
+    },
+    {
+      "number": 31325,
+      "title": "BUG: MultiIndex intersection with sort=False does not preserve order",
+      "body": "```python  import pandas as pd    arrays = [['bar', 'bar', 'baz', 'baz', 'foo', 'foo', 'qux', 'qux'],            ['one', 'two', 'one', 'two', 'one', 'two', 'one', 'two']]  tuples = list(zip(*arrays))  idx = pd.MultiIndex.from_tuples(tuples, names=['first', 'second'])    left = idx[2::-1]  print(left)  #> MultiIndex([('baz', 'one'),  #>             ('bar', 'two'),  #>             ('bar', 'one')],  #>            names=['first', 'second'])  right = idx[:5]  print(right)  #> MultiIndex([('bar', 'one",
+      "labels": [
+        "Bug",
+        "Reshaping",
+        "MultiIndex"
+      ],
+      "created_at": "2020-01-26T10:05:17Z",
+      "closed_at": "2020-02-12T16:04:23Z",
+      "comments": 0
+    },
+    {
+      "number": 31326,
+      "title": "BUG: inconsistent behaviors for Index.union() and Index.intersection() with duplicates",
+      "body": "While working on #31312, I noticed that the behavior of `Index.union()` and `Index.intersection()` is inconsistent when there are duplicates in one of the Index.    ```python  import pandas as pd  import traceback    a = pd.Index([1, 2, 2, 3])  b = pd.Index([3, 3, 4])    def test_setops(left, right):      for op in [\"intersection\", \"union\"]:          for sort in [None, False]:              result = getattr(left, op)(right, sort=sort)              print(f\"sort = {sort}, {op}: {result} -> has dupl",
+      "labels": [
+        "Bug",
+        "Index"
+      ],
+      "created_at": "2020-01-26T16:09:21Z",
+      "closed_at": "2021-03-04T02:01:10Z",
+      "comments": 5
+    },
+    {
+      "number": 31330,
+      "title": "Rows order when using slice(None) on MultiIndex Dataframe.loc",
+      "body": "#### Code Sample    ```python  df = pd.DataFrame(        np.arange(12).reshape((4, 3)),        index=[[\"a\", \"a\", \"b\", \"b\"], [1, 2, 1, 2]],        columns=[[\"Ohio\", \"Ohio\", \"Colorado\"], [\"Green\", \"Red\", \"Green\"]],        )    df.loc[(slice(None), [2,1]), :]                                                                                                  # actual output, same as df, order of slice(None) level take absolut precedence       Ohio     Colorado      Green Red    Green  a 1     0   1    ",
+      "labels": [
+        "Bug",
+        "Indexing",
+        "MultiIndex",
+        "API - Consistency"
+      ],
+      "created_at": "2020-01-26T19:03:28Z",
+      "closed_at": "2020-11-25T20:51:29Z",
+      "comments": 0
+    },
+    {
+      "number": 31338,
+      "title": "BUG: Timestamp UTC offset incorrect for dateutil tz in ambiguous DST time",
+      "body": "#### Code Sample, a copy-pastable example if possible    If we make a Timestamp in an ambiguous DST period while specifying via the offset (or by supplying `Timestamp.value` directly) that the time is before DST switch, the representation then shows that this is after DST switch. This is backed up by calling `Timestamp.tz.utcoffset(Timestamp)`.    ```python    IN:  t1 = pd.Timestamp(1382837400000000000, tz='dateutil/Europe/London')  t1    OUT:  Timestamp('2013-10-27 01:30:00+0100', tz='dateutil/",
+      "labels": [
+        "Bug",
+        "Timezones"
+      ],
+      "created_at": "2020-01-27T10:47:32Z",
+      "closed_at": "2020-02-26T12:35:04Z",
+      "comments": 12
+    },
+    {
+      "number": 31340,
+      "title": "Bug: loc assignment results in wrong dtype",
+      "body": "Let's see output of this code snippet  ```python  df = pd.DataFrame({'id': ['A'], 'a': [1.2], 'b': [0.0], 'c': [-2.5]})  cols = ['a', 'b', 'c']  df.loc[:, cols] = df.loc[:, cols].astype('float32')  print(df.dtypes)  ```  #### Problem description  In this code we expect columns `'a', 'b', 'c'` will have types `float32`. But in fact the result is:  ```  >>> print(df.dtypes)  id     object  a     float32  b       int64  c     float32  dtype: object  ```  Bug occurs when the value in column is close",
+      "labels": [
+        "Indexing",
+        "Dtype Conversions"
+      ],
+      "created_at": "2020-01-27T11:28:01Z",
+      "closed_at": "2020-02-01T23:20:37Z",
+      "comments": 5
+    },
+    {
+      "number": 31344,
+      "title": "Why [] operation on float index doesn't work the same way as int index?",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  >>> s1 = pd.Series(list('abcde'),index=[5,7,9,11,13])  >>> s2 = pd.Series(list('abcde'),index=[5.5,7.5,9.5,11.5,13.5])  >>> print(s1[2:])  >>> print(s2[2:])  9     c  11    d  13    e  dtype: object  5.5     a  7.5     b  9.5     c  11.5    d  13.5    e  dtype: object  ```  #### Problem description    I'm a little confused with the [] operation on numerical index.  It seems that when [] applied to the int index, it is compared w",
+      "labels": [
+        "Indexing"
+      ],
+      "created_at": "2020-01-27T15:24:28Z",
+      "closed_at": "2021-07-27T05:27:35Z",
+      "comments": 2
+    },
+    {
+      "number": 31354,
+      "title": "BUG: Timedelta components rounded by float imprecision",
+      "body": "#### Problem description    It appears that there is some premature rounding happening in the `Timedelta` constructor that makes it so the unit-adjusted sums of the `days`, `seconds`, `microseconds` and `nanoseconds` attributes do not sum to the total number of nanoseconds. A fundamental assumption of the `datetime.timedelta` type (and breaking this assumption breaks Liskov substitutability) is that the total time difference at the precision of microseconds can be represented by summing up the u",
+      "labels": [
+        "Bug",
+        "Timedelta"
+      ],
+      "created_at": "2020-01-27T16:19:06Z",
+      "closed_at": "2020-02-02T21:08:57Z",
+      "comments": 1
+    },
+    {
+      "number": 31364,
+      "title": "to_numeric with errors = \"coerce\" is adding digits at the end",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  # Your code here  #problem: pandas to_numeric might give some errors when using coerce   # it is adding digits at the end.    import pandas as pd      #minimal example  data = [{'value': '.'}, {'value': '.'}, {'value': '.'}, {'value': '.'}, {'value': '243.164'}, {'value': '245.968'}, {'value': '249.585'}, {'value': '259.745'}, {'value': '265.742'}, {'value': '272.567'}]  df = pd.DataFrame(data,columns=['value'])    df.value = pd",
+      "labels": [
+        "Bug",
+        "Numeric Operations"
+      ],
+      "created_at": "2020-01-27T20:18:27Z",
+      "closed_at": "2020-09-08T15:30:36Z",
+      "comments": 3
+    },
+    {
+      "number": 31368,
+      "title": "Index name assignment resolution logic changes depending on whether DataFrame has any rows",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd    def get_name_of_assigned_index(df_size, series_size):    df = pd.DataFrame({}, index=pd.RangeIndex(df_size, name='df_index'))    series = pd.Series(1.23, index=pd.RangeIndex(series_size, name='series_index'))      df['series'] = series      return df.index.name  ```  #### Problem description    `get_name_of_assigned_index(n, m)` returns `'df_index'` *unless* `n = 0`, in which case it returns `'series_index",
+      "labels": [
+        "Bug",
+        "Indexing",
+        "API - Consistency"
+      ],
+      "created_at": "2020-01-27T21:15:57Z",
+      "closed_at": "2020-09-08T13:45:09Z",
+      "comments": 2
+    },
+    {
+      "number": 31381,
+      "title": "loc on Series returning scalar when result size is 1",
+      "body": "#### Code Sample    ```python  # Create a DataFrame with index and one Series  df = pd.DataFrame({\"id\":[1,2,3,3],\"val\":[\"abcde\",\"bbcde\",\"cbcde\",\"dbcde\"]})  df.set_index(\"id\",inplace=True)  ```  Calling `.loc` when the result length is 2 returns a Series (as expected):  ```  type(df['val'].loc[3])  ```  Output:  ```  pandas.core.series.Series  ```    Calling `.loc` when the result length is 1 returns a `str`:  ```python  # use .loc when the result length is 1:  type(df['val'].loc[1])  ```  Output",
+      "labels": [
+        "Indexing",
+        "Duplicate Report"
+      ],
+      "created_at": "2020-01-28T07:38:23Z",
+      "closed_at": "2020-01-28T11:56:23Z",
+      "comments": 3
+    },
+    {
+      "number": 31396,
+      "title": "TypeError when using 'comment=...' in read_csv from a file",
+      "body": "#### Code Sample    Given a data file `data.csv` with a line that is commented out:  ```csv  +1.280000e+002,-4.078996e+001  +2.560000e+002,-5.155923e+001  # +3.840000e+002,-7.221378e+001  +5.120000e+002,-7.918677e+001  +6.400000e+002,-7.919656e+001  ```  ```python  import pandas as pd  pd.read_csv('data.csv', sep=None, index_col=0, header=None, engine=\"python\", comment='#')  ```  #### Problem description    It raises a `TypeError` when using the `comment` parameter:    <details>  <summary>TypeEr",
+      "labels": [
+        "Bug",
+        "IO CSV"
+      ],
+      "created_at": "2020-01-28T17:18:33Z",
+      "closed_at": "2020-03-03T03:02:23Z",
+      "comments": 2
+    },
+    {
+      "number": 31415,
+      "title": "Bug in AbstractHolidayCalendar.holidays",
+      "body": "...when there are no rules.    ```python  from pandas.tseries.holiday import AbstractHolidayCalendar    class ExampleCalendar(AbstractHolidayCalendar):      pass    cal = ExampleCalendar()  ```  ```python  In [58]: cal.holidays(pd.Timestamp('01-Jan-2020'), pd.Timestamp('01-Jan-2021'))  Traceback (most recent call last):      File \"<ipython-input-58-022244d4e794>\", line 1, in <module>      cal.holidays(pd.Timestamp('01-Jan-2020'), pd.Timestamp('01-Jan-2021'))      File \"C:\\Users\\dhirschf\\envs\\dev",
+      "labels": [
+        "Bug",
+        "Frequency"
+      ],
+      "created_at": "2020-01-29T12:01:14Z",
+      "closed_at": "2020-02-09T20:54:38Z",
+      "comments": 1
+    },
+    {
+      "number": 31422,
+      "title": "Inconsistent behavior when groupby pandas Categorical variables",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd  import numpy as np  test = pd.DataFrame(  \t\t{          'col1': pd.Series(pd.Categorical([\"a\", \"b\", \"c\", \"a\"],categories=[\"a\", \"b\", \"c\", \"d\"])),          'col2': np.random.randint(0,100, size=4),          'col3': [12,32,23,22]     \t\t }  \t)    test['col2'] = pd.cut(test['col2'], [0,50,100])    # Group by two variables  print(test.groupby(['col1', 'col2']).sum())    # Group by a single variable  print(test.grou",
+      "labels": [
+        "Bug",
+        "Groupby",
+        "Numeric Operations",
+        "Categorical"
+      ],
+      "created_at": "2020-01-29T15:26:09Z",
+      "closed_at": "2020-08-07T15:21:12Z",
+      "comments": 13
+    },
+    {
+      "number": 31444,
+      "title": "Enhancement: code sugar for index.get_level_values",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  data.index.get_level_values('foobar') == 42  # would like to have data.index['foobar'] == 42  ```  #### Problem description    Filtering data frame row by one column of multi index is quite common.    Unless I've missed something, the current implementation need `get_index_value`. It would be nice to have a more direct way to select one MultiIndex column, like we can do with the data frame columns.    <details>    ```  INSTALLED",
+      "labels": [
+        "Enhancement",
+        "Indexing"
+      ],
+      "created_at": "2020-01-30T09:18:23Z",
+      "closed_at": "2024-08-24T19:33:33Z",
+      "comments": 2
+    },
+    {
+      "number": 31449,
+      "title": "REGR: Assignment to MultiIndex fails for pandas 1.0.0.",
+      "body": "#### Code Sample, a copy-pastable example if possible    This problem occurred with ``pandas 1.0.0 py37he350917_0 conda-forge``, but did not before or at least not since 0.24.    ```python  import pandas as pd  import numpy as np    index = pd.MultiIndex.from_tuples([(\"a\", \"c\"), (\"b\", \"x\"), (\"a\", \"d\")], names=[\"l1\", \"l2\"])  df = pd.DataFrame(index=index, data=np.arange(3), columns=[\"e\"])  df.loc[\"a\", \"e\"] = np.arange(99, 101)  ```  #### Problem description    The error message is the following  ",
+      "labels": [
+        "Indexing",
+        "Regression",
+        "MultiIndex"
+      ],
+      "created_at": "2020-01-30T12:54:39Z",
+      "closed_at": "2020-02-03T23:20:27Z",
+      "comments": 5
+    },
+    {
+      "number": 31452,
+      "title": "Series .attrs is not correctly maintained/propagated in to_frame",
+      "body": "Hi, it seems that the `.attrs` dict (for storing metadata) is not always propagated correctly. E.g.     #### Code Sample    ```python  s = pd.Series([0,1,2], name=\"x\")                                                                                                                                                                                                                                         s.attrs[\"mydata\"] = \"test\"                                                                          ",
+      "labels": [
+        "Bug",
+        "metadata"
+      ],
+      "created_at": "2020-01-30T14:13:58Z",
+      "closed_at": "2020-04-06T16:19:01Z",
+      "comments": 3
+    },
+    {
+      "number": 31469,
+      "title": "REGR: __setitem__ with integer slices on Int/RangeIndex is broken (label instead of positional)",
+      "body": "There's an backward incompatible change in pandas 1.0 that I didn't find in the changelog. I might have just overlooked it though.    ```python  import numpy as np  X = pd.DataFrame(np.zeros((100, 1)))  X[-4:] = 1  X  ```  In pandas 0.25.3 or lower, this results in the last four entries of X to be 1 and all the others zero. In pandas 1.0, it results in all entries of X being 1.  I assume it's a change of indexing axis 0 or axis 1?",
+      "labels": [
+        "Indexing",
+        "Regression"
+      ],
+      "created_at": "2020-01-30T18:13:38Z",
+      "closed_at": "2020-02-01T14:22:05Z",
+      "comments": 15
+    },
+    {
+      "number": 31476,
+      "title": "DEPR: DataFrame.__getitem__[str] sometimes slices on index",
+      "body": "xref #31334, #9595     - This is a tiny corner case, at least as measured by tests cases (2 tests reach this)  - With this removed, the `__getitem__` API becomes much simpler to describe: \"DataFrame.__getitem__` is always column-based\"",
+      "labels": [
+        "Indexing",
+        "Deprecate",
+        "Needs Discussion"
+      ],
+      "created_at": "2020-01-31T01:27:32Z",
+      "closed_at": "2020-09-24T19:57:39Z",
+      "comments": 1
+    },
+    {
+      "number": 31479,
+      "title": "multi-dimensional-indexing deprecation warning has inconsistent stack level.",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  # Your code here  import warnings  import pandas as pd    warnings.simplefilter(\"always\")      x = pd.Series([], dtype=\"float64\")    df = pd.DataFrame(      {          \"year\": [2018, 2018, 2018],          \"month\": [1, 1, 1],          \"day\": [1, 2, 3],          \"value\": [1, 2, 3],      }  )  df[\"date\"] = pd.to_datetime(df[[\"year\", \"month\", \"day\"]])  monthly = df[[\"date\", \"value\"]].groupby([\"date\"]).sum()  dates = monthly.index   ",
+      "labels": [
+        "Indexing",
+        "Warnings"
+      ],
+      "created_at": "2020-01-31T03:31:08Z",
+      "closed_at": "2021-06-15T23:48:02Z",
+      "comments": 3
+    },
+    {
+      "number": 31501,
+      "title": "Can no longer slice DatetimeIndex with datetime.date values outside the index in 1.0.0",
+      "body": "#### Code Sample  ```python  import pandas as pd  import datetime as dt  s = pd.Series([0,1],pd.DatetimeIndex([dt.date(2019,1,1),dt.date(2019,1,2)]))  s[dt.date(2019,1,1):]  # works   s[dt.date(2018,1,1):]  # error    ```  #### Problem description    As of 1.0.0 you can no longer slice a DatetimeIndex with dt.date values outside the index.    #### Error      ```  ---------------------------------------------------------------------------  TypeError                                 Traceback (most",
+      "labels": [
+        "Datetime",
+        "Indexing",
+        "Regression"
+      ],
+      "created_at": "2020-01-31T16:39:29Z",
+      "closed_at": "2020-02-01T14:56:13Z",
+      "comments": 4
+    },
+    {
+      "number": 31581,
+      "title": "Assigning column with DataFrame(dtype='category') doesn't preserve categorical dtype, but Series does",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd    df = pd.DataFrame([1,2,3])  df['col1'] = pd.DataFrame([1,2,3], dtype='category')  df['col2'] = pd.Series([1,2,3], dtype='category')  df.dtypes  ```  #### Problem description    This returns  ```  0          int64  col1       int64  col2    category  dtype: object  ```  #### Expected Output  ```  0          int64  col1    category  col2    category  dtype: object  ```    #### Output of ``pd.show_versions()`",
+      "labels": [
+        "Indexing",
+        "Categorical",
+        "Needs Tests"
+      ],
+      "created_at": "2020-02-02T18:06:16Z",
+      "closed_at": "2023-04-20T10:17:41Z",
+      "comments": 5
+    },
+    {
+      "number": 31634,
+      "title": "regression: ts64->int64",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  !pip install pandas==1.0.0  import datetime  import pandas as pd  pd.Series([datetime.datetime.now(), datetime.datetime.now(), None]).astype('int64')  ```    =>  ```  ValueError: Cannot convert NaT values to integer  ```    #### Problem description    In 0.25.*, the above ran without an exception, while in 1.0.0, it now throws an exception. While the new behavior may be OK, it would be better as first a deprecation warning with ",
+      "labels": [
+        "Bug",
+        "Datetime",
+        "Missing-data",
+        "Dtype Conversions",
+        "Regression"
+      ],
+      "created_at": "2020-02-03T22:33:52Z",
+      "closed_at": "2021-06-08T16:48:40Z",
+      "comments": 8
+    },
+    {
+      "number": 31648,
+      "title": "PERF: Indexing a multi-index is a lot slower",
+      "body": "Indexing a multi-index seemingly went from O(1) to O(N):    ![bug](https://user-images.githubusercontent.com/123696/73701369-91a13c80-46a6-11ea-8335-6a8e7a3f7dca.png)    I did a bisect, and found this was caused by the `_shallow_copy` here: https://github.com/pandas-dev/pandas/commit/b0f33b3f40d5742531e31aef90573b9592489592#diff-4ffd1c69d47e0ac9f2de4f9e3e4a118cR643.    #### Code Sample    ```python  from time import perf_counter as time  import pandas as pd    for N in [1000, 2000, 4000, 8000, 1",
+      "labels": [
+        "Indexing",
+        "Performance",
+        "Regression",
+        "MultiIndex"
+      ],
+      "created_at": "2020-02-04T14:15:01Z",
+      "closed_at": "2020-02-04T19:26:00Z",
+      "comments": 7
+    },
+    {
+      "number": 31649,
+      "title": "to_datetime returning numpy.datetime64",
+      "body": "#### Code Sample, a copy-pastable example if possible    This code:  ```python  >>> df = pd.DataFrame({'date': ['Aug2020', 'November 2020']})  >>> df['parsed'] = df['date'].apply(pd.to_datetime)  >>> end = df.loc[df['parsed'].idxmax()]  >>> end['parsed'].replace(day=2)  Traceback (most recent call last):    File \"<stdin>\", line 1, in <module>  AttributeError: 'numpy.datetime64' object has no attribute 'replace'    ```  worked in Pandas 0.25.3, but raises since 1.0.0.    I think there might be an",
+      "labels": [
+        "Datetime",
+        "Indexing",
+        "Regression"
+      ],
+      "created_at": "2020-02-04T14:22:56Z",
+      "closed_at": "2020-02-05T00:22:03Z",
+      "comments": 3
+    },
+    {
+      "number": 31772,
+      "title": "BUG: setitem on string dtype with slices fails",
+      "body": "```  In [33]: df = pd.DataFrame({'A': ['a', 'b', 'c']}, dtype='string')       In [34]: df.loc[0:, 'A'] = \"test\"    ---------------------------------------------------------------------------  IndexError                                Traceback (most recent call last)  <ipython-input-34-bc65087be9d7> in <module>  ----> 1 df.loc[0:, 'A'] = \"test\"    ~/scipy/pandas/pandas/core/indexing.py in __setitem__(self, key, value)      629             key = com.apply_if_callable(key, self.obj)      630      ",
+      "labels": [
+        "Bug",
+        "Indexing"
+      ],
+      "created_at": "2020-02-07T11:50:24Z",
+      "closed_at": "2020-02-12T12:38:27Z",
+      "comments": 0
+    },
+    {
+      "number": 31882,
+      "title": "np.nan comparison to pd.NA Equality Semantics differ elementwise in IntervalArray",
+      "body": "Discovered in #31799    I think this is probably a deeper rooted problem than just IntervalArray but not sure how else to describe. @jorisvandenbossche maybe has thoughts    ```python  >>> from pandas.core.arrays import IntervalArray  >>> arr = IntervalArray.from_arrays([0., 1., 2., np.nan], [1., 2., 3., np.nan])  >>> arr == pd.NA  array([False, False, False, False])  >>> arr[-1] == pd.NA  <NA>  ```",
+      "labels": [
+        "Bug",
+        "Missing-data",
+        "NA - MaskedArrays"
+      ],
+      "created_at": "2020-02-11T16:09:41Z",
+      "closed_at": "2021-12-11T01:22:41Z",
+      "comments": 1
+    },
+    {
+      "number": 31903,
+      "title": "PERF: Index.__getitem__ should not need to do dtype inference",
+      "body": "Currently, the `__getitem__` call in a snippet like    ```  idx = pd.Index([1, 2, 3, 4])  idx[np.array([0, 3])]  ```    does type inference when creating the new Index object (using `_shallow_copy_with_infer`), while I think we can always know for sure the result will be another Int64Index (for the above example) ?",
+      "labels": [
+        "Indexing",
+        "Performance"
+      ],
+      "created_at": "2020-02-11T23:04:31Z",
+      "closed_at": "2020-06-09T20:46:42Z",
+      "comments": 3
+    },
+    {
+      "number": 31913,
+      "title": "DataFrame.query raises ValueError when comparing columns with nullable dtypes",
+      "body": "#### Code Sample    ```python  In [2]: df1 = pd.DataFrame({'A': [1, 1, 2], 'B': [1, 2, 2]})    In [3]: df1.dtypes  Out[3]:  A    int64  B    int64  dtype: object    In [4]: df2 = pd.DataFrame({'A': [1, 1, 2], 'B': [1, 2, 2]}, dtype='Int64')    In [5]: df2.dtypes  Out[5]:  A    Int64  B    Int64  dtype: object    In [6]: df1.query('A == B')  Out[6]:     A  B  0  1  1  2  2  2    In [7]: df2.query('A == B')  ---------------------------------------------------------------------------  ValueError   ",
+      "labels": [
+        "Bug",
+        "ExtensionArray",
+        "expressions",
+        "NA - MaskedArrays"
+      ],
+      "created_at": "2020-02-12T04:33:05Z",
+      "closed_at": "2023-02-09T16:45:18Z",
+      "comments": 10
+    },
+    {
+      "number": 31966,
+      "title": "sluggish `read_pickle` on pandas 1.0 ?",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  auths = pd.read_pickle('auths.pkl')  ```  #### Problem description    Suddenly it takes 14-18 minutes to read a mid-size (2.1 GB) pickle file after upgrading to pandas 1.0.   Pandas 0.25 can read the very same file in 90 seconds (the file was created using pd.to_pickle a couple of months ago using pandas 0.25).    To try to make sure it has to do with Pandas 1.0, I created a couple of minimal virtual environments, one with lates",
+      "labels": [
+        "Performance",
+        "Needs Info",
+        "IO Pickle"
+      ],
+      "created_at": "2020-02-14T00:17:45Z",
+      "closed_at": "2020-07-20T16:09:36Z",
+      "comments": 4
+    },
+    {
+      "number": 32028,
+      "title": "Should I be able to initialise a Series with a pandas array and pandas dtype?",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  >>> import pandas as pd  >>> from pandas.core.arrays import PandasDtype  >>> pd.Series(pd.array([1,2,3]), dtype=PandasDtype('int64'))  Traceback (most recent call last):    File \"<stdin>\", line 1, in <module>    File \"/home/marco/pandas/pandas/core/series.py\", line 323, in __init__      data = sanitize_array(data, index, dtype, copy, raise_cast_failure=True)    File \"/home/marco/pandas/pandas/core/construction.py\", line 431, in ",
+      "labels": [
+        "Bug",
+        "ExtensionArray",
+        "Constructors"
+      ],
+      "created_at": "2020-02-15T16:20:57Z",
+      "closed_at": "2022-01-21T10:17:33Z",
+      "comments": 3
+    },
+    {
+      "number": 32049,
+      "title": "Str.encode('base64') turns arrays of strings to NaN and fails on byte strings",
+      "body": "#### Code Sample, a copy-pastable example if possible  Using pandas 1.0.1 and python 3.7  Using a text file consisting of words separated by carriage returns named sampleTEXT.txt  ```  import base64  import numpy as np  import pandas as pd  words = pd.read_table(\"sampleTEXT.txt\",names=['word'],header=None)  words.head()  ---      word  ---------------  ---0    difference  ---1    where  ---2    mc  ---3    is  ---4    the  ---  ---    b64words = words.word.str.encode('base64')  print(b64words)  ",
+      "labels": [
+        "Bug",
+        "Missing-data",
+        "Duplicate Report",
+        "Strings"
+      ],
+      "created_at": "2020-02-17T04:16:27Z",
+      "closed_at": "2020-04-29T23:43:00Z",
+      "comments": 4
+    },
+    {
+      "number": 32123,
+      "title": "BUG: GroupBy.first fails with pd.NA on Series with object dtype",
+      "body": "#### Code Sample    ```python  pd.DataFrame({'x': [1, 1, 2, 2], 'y': [1, 2, 3, pd.NA]}).groupby('x').first()  # *** TypeError: boolean value of NA is ambiguous    pd.DataFrame({'x': [1, 1, 2, 2], 'y': [1, 2, 3, np.nan]}).groupby('x').first()  #     y  # x       # 1  1.0  # 2  3.0    pd.DataFrame({'x': [1, 1, 2, 2], 'y': [1, 2, 3, pd.NA]}).astype('Int64').groupby('x').first()  #    y  # x     # 1  1  # 2  3  ```  #### Problem description    Applying the `GroupBy.first` aggregation to a `object` d",
+      "labels": [
+        "Bug",
+        "Groupby",
+        "Missing-data"
+      ],
+      "created_at": "2020-02-20T00:25:36Z",
+      "closed_at": "2020-02-23T14:59:00Z",
+      "comments": 0
+    },
+    {
+      "number": 32196,
+      "title": "DataFrame.sparse.from_spmatrix seems inefficient with large (but very sparse) matrices?",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd  from scipy.sparse import csr_matrix  mil = 1000000  big_csr_diag_1s = csr_matrix((mil, mil), dtype=\"float\")  # Following line takes around 15 seconds to run  big_csr_diag_1s.setdiag(1)  # At this point, big_csr_diag_1s is just a completely-sparse matrix with the only  # nonzero values being values of 1 on its diagonal (and there are 1 million of  # these values; I don't think this should be *too* bad to stor",
+      "labels": [
+        "Performance",
+        "Sparse"
+      ],
+      "created_at": "2020-02-23T07:26:48Z",
+      "closed_at": "2020-03-22T20:33:47Z",
+      "comments": 6
+    },
+    {
+      "number": 32203,
+      "title": "fillna(inplace=True) does not work with columns selected by loc",
+      "body": "not only multiple columns, but also one column.  `df.loc[df.id==123, 'num'].fillna(0, inplace=True)` doesn't work ,  but `df.loc[df.id==123, 'num'] = 123` works    why not edit the **fillna** function to adapt it  in the future.  It seems like a bug.    _Originally posted by @shuiyuejihua in https://github.com/pandas-dev/pandas/issues/14858#issuecomment-428979311_    Hi, I met with the same problem. Now that `df.loc[df.id==123, 'num'] = 123` works, which means the operation takes effect on origi",
+      "labels": [
+        "Bug",
+        "Missing-data"
+      ],
+      "created_at": "2020-02-23T16:13:58Z",
+      "closed_at": "2026-03-31T00:02:05Z",
+      "comments": 12
+    },
+    {
+      "number": 32266,
+      "title": "Pandas 1.0.1 - .rolling().min() and .rolling().max() create memory leak at <__array_function__ internals>:6",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import tracemalloc, linecache  import sys, os  import pandas as pd    def display_top_mem(snapshot, key_type='lineno', limit=10):      \"\"\"function for displaying lines of code taking most memory\"\"\"      snapshot = snapshot.filter_traces((          tracemalloc.Filter(False, \"<frozen importlib._bootstrap>\"),          tracemalloc.Filter(False, \"<unknown>\"),      ))      top_stats = snapshot.statistics(key_type)        print(\"Top %s",
+      "labels": [
+        "Performance",
+        "Duplicate Report",
+        "Window"
+      ],
+      "created_at": "2020-02-26T10:24:20Z",
+      "closed_at": "2020-07-10T13:56:46Z",
+      "comments": 7
+    },
+    {
+      "number": 32277,
+      "title": "`isin(index)`  is 2-6x slower than `isin(...)` with other data types including list, and orders of magnitude slower than using its hash table",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd  import numpy as np  import timeit    # data set up:  data_size = 1234  query_size = 10000    data_ndarray = np.random.randint(100000, size=data_size)  data_series = pd.Series(data_ndarray)    list_ = list(range(query_size))  range_index = pd.Index(range(query_size))  array_index = pd.Index(list_)  series = array_index.to_series()  ndarray = array_index.to_numpy()    print(f\"{data_series.dtype=}, {range_index",
+      "labels": [
+        "Performance",
+        "isin"
+      ],
+      "created_at": "2020-02-26T21:39:18Z",
+      "closed_at": "2021-12-28T21:24:39Z",
+      "comments": 4
+    },
+    {
+      "number": 32346,
+      "title": "BUG: assignment with enlargement gives object dtype with ExtensionArrays",
+      "body": "From https://github.com/pandas-dev/pandas/issues/32271, when setting with enlargment, the dtype gets converted into object dtype (while for normal integer or boolean dtype this is not the case):    ```  In [10]: s = pd.Series([1, 2, 3], dtype=\"Int64\")      In [11]: s[3] = 4     In [12]: s     Out[12]:   0    1  1    2  2    3  3    4  dtype: object    In [13]: s = pd.Series([1, 2, 3], dtype=\"int64\")     In [14]: s[3] = 4       In [15]: s    Out[15]:   0    1  1    2  2    3  3    4  dtype: int64",
+      "labels": [
+        "Bug",
+        "Indexing",
+        "ExtensionArray",
+        "setitem-with-expansion"
+      ],
+      "created_at": "2020-02-29T02:55:01Z",
+      "closed_at": "2026-02-20T16:50:26Z",
+      "comments": 14
+    },
+    {
+      "number": 32433,
+      "title": "Memory leaks if an object is saved in a DataFrame and references the DataFrame",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  # Your code here    class MemoryLeakDemoDF:      \"\"\"      Dummy class to demonstrate memory leaks      \"\"\"        def __init__(self, df):          self.df = df          # if \"self\" is saved in a DataFrame, it causes a memory leak          df.loc[0, 'object'] = self    num = 3  for _ in range(num):      df = pd.DataFrame()      MemoryLeakDemoDF(df)    ```  #### Problem description    In the example above, the objects of MemoryLea",
+      "labels": [
+        "Performance",
+        "Nested Data"
+      ],
+      "created_at": "2020-03-04T14:05:16Z",
+      "closed_at": "2024-02-02T20:06:22Z",
+      "comments": 3
+    },
+    {
+      "number": 32435,
+      "title": "IntegerArray.astype(\"datetime64[ns]\") fails with NAs",
+      "body": "tools.datetimes has to dig into IntegerArray internals in a way that in principle should be handled by IntegerArray.astype    ```  ser = pd.Series(range(2), dtype=\"Int64\")  arr = ser.array    >>> arr.astype(\"datetime64[ns]\")  array(['1970-01-01T00:00:00.000000000', '1970-01-01T00:00:00.000000001'],        dtype='datetime64[ns]')    arr[-1] = pd.NA    >>> arr.astype(\"datetime64[ns]\")  ValueError: cannot convert to 'datetime64[ns]'-dtype NumPy array with missing values. Specify an appropriate 'na_",
+      "labels": [
+        "Bug",
+        "Dtype Conversions",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-03-04T15:39:43Z",
+      "closed_at": "2020-03-14T03:37:22Z",
+      "comments": 0
+    },
+    {
+      "number": 32450,
+      "title": "Converting a StringDtype series to an Inte64Dtype not working as expected",
+      "body": "I am interested in converting a StringDtype series to an Inte64Dtype. The following code produces a TypeError:    ```  x = pd.Series(['1', pd.NA, '3'], dtype=pd.StringDtype())  x.astype('Int64')  ...  TypeError: data type not understood  ```      If I rewrite it as follows, I get a different TypeError:    ```  x = pd.Series(['1', pd.NA, '3'], dtype=pd.StringDtype())  x.astype(int)  ...  TypeError: int() argument must be a string, a bytes-like object or a number, not 'NAType  ```      The only wa",
+      "labels": [
+        "Bug",
+        "ExtensionArray",
+        "NA - MaskedArrays"
+      ],
+      "created_at": "2020-03-04T22:01:12Z",
+      "closed_at": "2020-03-27T14:59:58Z",
+      "comments": 3
+    },
+    {
+      "number": 32462,
+      "title": "Inconsistent result with cumsum columns",
+      "body": "I have problem with cumsum and multiple columns    ```python  >>> df1 = pd.DataFrame({\"A\": [2, 1, np.nan, 1, 2, 2, 1],\"B\": [-8, 2, 3, 1, 5, 6, 7],\"C\": [3, 5, 6, 5, 4, 4, 3]})  >>> df1.groupby(\"A\").cumsum()      B   C  0  -8   3  1   2   5  2  -1   6  3   3  10  4  -3   7  5   3  11  6  10  13  >>> df1.groupby(\"A\").cumsum()      B   C  0  -8   3  1   2   5  2  -1  -1  3   3  10  4  -3   7  5   3  11  6  10  13  ```  The cumsum is computed only on the first column B and the column C is left unchan",
+      "labels": [
+        "Bug",
+        "Groupby",
+        "Missing-data"
+      ],
+      "created_at": "2020-03-05T14:05:04Z",
+      "closed_at": "2023-07-15T11:04:08Z",
+      "comments": 2
+    },
+    {
+      "number": 32617,
+      "title": "improve read_excel performance",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  # Your code here    ```  #### Problem description  I have a spreadsheet of 600,000 rows and the read_excel function takes around 10mins to process.     Is there any way to improve the performance?    [this should explain **why** the current behaviour is a problem and why the expected output is a better solution.]    **Note**: We receive a lot of issues on our GitHub tracker, so it is very possible that your issue has been posted",
+      "labels": [
+        "Performance",
+        "IO Excel"
+      ],
+      "created_at": "2020-03-11T09:04:07Z",
+      "closed_at": "2020-05-08T00:47:33Z",
+      "comments": 3
+    },
+    {
+      "number": 32692,
+      "title": "PandasArray does not support slicing consistent with other array types ",
+      "body": "#### Code Sample    ```python  >>> import pandas as pd  >>> x = pd.Series([1, 2, 3], index=pd.to_datetime(['2020-01-01', '2020-01-02', '2020-01-03']))  >>> x[:,None].ndim  >>> x.to_numpy()[:,None].ndim  >>> x.index.array[:,None].ndim  >>> x.array[:,None].ndim  ```    #### Problem description    Currently PandasArray behaves differently then either the Series or or np.ndarray.  This causes a problem when passing the PandasArray to matplotlib for example.  PandasArray should implement this consist",
+      "labels": [
+        "Indexing",
+        "Deprecate",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-03-13T22:33:17Z",
+      "closed_at": "2022-01-09T00:11:21Z",
+      "comments": 5
+    },
+    {
+      "number": 32727,
+      "title": "read_excel opimize nrows",
+      "body": "#### Code Sample    ```python  pd.read_excel(fname, nrows=10)  ```  #### Problem description    Pandas has option toread only several rows of excel files.  But now it always read all rows and after pandas cut some part.   For example, file have 100 columns and 50k rows, but for test need only first 10 rows.  Now pandas will read to list all 50k rows which use memory and take too many time to read.    les this should explain **why** the current behaviour is a problem and why the expected output i",
+      "labels": [
+        "Performance",
+        "IO Excel"
+      ],
+      "created_at": "2020-03-15T11:46:14Z",
+      "closed_at": "2022-06-05T23:49:12Z",
+      "comments": 4
+    },
+    {
+      "number": 32792,
+      "title": "to_datetime() throws ValueError: Cannot pass a tz argument when parsing strings with timezone information.",
+      "body": "I think pandas should support passing `%z` in the format but also `utc=True`. In my opinion, one thing is the format, which tells pandas how to parse the datetime string. The other argument is just telling to return the dates in UTC, no matter which timezone they were in the beginning.    Here's a repl that shows the issue: https://repl.it/@eparizzi/Pandas-todatetime-in-UTC-with-format    If you replace that simple CSV with some big 50K row time-series CSV, the call to `to_datetime` without the ",
+      "labels": [
+        "Performance",
+        "Timezones"
+      ],
+      "created_at": "2020-03-17T22:13:16Z",
+      "closed_at": "2020-03-29T15:54:50Z",
+      "comments": 8
+    },
+    {
+      "number": 32918,
+      "title": "memory regression in grouping by categorical variables",
+      "body": "There seems to be a regression when grouping by categorical columns.  One year old version 0.24.2 was able to complete the queryn, while 1.0.3 is hitting MemoryError.    `memory_usage(deep=True)` reports size of data frame to be **524 MB**, while my machine has **125 GB** so memory should not be an issue.    ## Input    ```py  import pandas as pd  import numpy as np    def randChar(f, numGrp, N) :     things = [f%x for x in range(numGrp)]     return [things[x] for x in np.random.choice(numGrp, N",
+      "labels": [
+        "Groupby",
+        "Performance",
+        "Categorical"
+      ],
+      "created_at": "2020-03-23T01:35:55Z",
+      "closed_at": "2020-05-20T00:51:41Z",
+      "comments": 9
+    },
+    {
+      "number": 32957,
+      "title": "BUG: iloc on DataFrame[ea]",
+      "body": "```  from pandas.tests.extension.decimal.test_decimal import *  arr = data.__wrapped__()  ser = pd.Series(arr)  df = pd.DataFrame({\"a\": ser})    >>> df.iloc[:, :1]                                                     a  0  Decimal: 0.32737812402736643502265678762341849...  1                                                     2                                                     3                                                       >>> df.iloc[:, :1].values  array([[Decimal('0.32737812402736643",
+      "labels": [
+        "Bug",
+        "Indexing",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-03-23T22:12:29Z",
+      "closed_at": "2020-04-10T20:51:26Z",
+      "comments": 3
+    },
+    {
+      "number": 32960,
+      "title": "Dataframe change alters original array used in creation",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  a = pd.array([0, 1, 2])  df1 = pd.DataFrame({\"col1\": ['a', 'b', 'c'], \"col2\": a})  df1.loc[0, 'col2'] = 3    print(a)  ```  ```py  <IntegerArray>  [3, 1, 2]  Length: 3, dtype: Int64  ```  #### Problem description    Pandas master has this strange change in behaviour when df created from array changes the original array if the value in the related column is changed. Pandas 1.0.3 does not alter the original array. It seems that it",
+      "labels": [
+        "Blocker",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-03-23T23:07:42Z",
+      "closed_at": "2021-03-31T01:03:21Z",
+      "comments": 11
+    },
+    {
+      "number": 32976,
+      "title": "Categorical columns are slow in groupby operations",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import pandas as pd  import random    SIZE = 100000  GROUPS = 10000  # The larger, the more extreme the timing differences  CARDINALITY = 10  CAT = pd.CategoricalDtype([i for i in range(CARDINALITY)])  df_int = pd.DataFrame({      'group': [random.randint(0, GROUPS) for i in range(SIZE)],      'cat': [random.choice(CAT.categories) for i in range(SIZE)],  })  df_cat = df_int.astype({'cat': CAT})  df_str = df_cat.astype({'cat': 's",
+      "labels": [
+        "Groupby",
+        "Performance",
+        "Categorical"
+      ],
+      "created_at": "2020-03-24T13:19:49Z",
+      "closed_at": "2023-03-27T21:12:57Z",
+      "comments": 6
+    },
+    {
+      "number": 33012,
+      "title": "PERF: Performance regression with memory_usage(deep=True) on `object` columns",
+      "body": "#### Code Sample, a copy-pastable example if possible    ```python  import time    import pandas as pd  import numpy as np    df = pd.DataFrame({      \"a\": np.empty(10000000),      \"b\": np.empty(10000000),  })    df[\"a\"] = df[\"a\"].astype(\"object\")    s = time.time()  mem = df.memory_usage(deep=True)  print(\"memory_usage(deep=True) took %.4fsecs\" % (time.time() - s))  ```    #### Problem description    Performance of `memory_usage(deep=True)` on `object` columns seems to have regressed significan",
+      "labels": [
+        "Performance",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-03-25T12:35:52Z",
+      "closed_at": "2020-03-31T00:11:46Z",
+      "comments": 9
+    },
+    {
+      "number": 33042,
+      "title": "Index value changes unexpectedly",
+      "body": "#### Code Sample, a copy-pastable example if possible  First we create a raw dataset with MultiIndex-    ```  In [166]: import numpy as np; import pandas as pd     In [167]: data_raw = pd.DataFrame([        ...: {'frame': 1, 'face': np.NaN, 'lmark': np.NaN, 'x': np.NaN, 'y': np.NaN},        ...: {'frame': 197, 'face': 0, 'lmark': 1, 'x': 969, 'y': 737},        ...: {'frame': 197, 'face': 0, 'lmark': 2, 'x': 969, 'y': 740},        ...: {'frame': 197, 'face': 0, 'lmark': 3, 'x': 970, 'y': 744},   ",
+      "labels": [
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-03-26T16:35:35Z",
+      "closed_at": "2021-07-30T04:27:13Z",
+      "comments": 5
+    },
+    {
+      "number": 33046,
+      "title": "PERF/DISC: Cache .loc, .at and reset whenever index/columns change",
+      "body": "Series.index, DataFrame.index, and DataFrame.columns are `AxisProperty`s and whenever they are set, a callback updates the underlying BlockManager.    We could have that same callback also invalidate the cached `obj.loc` and `obj.at` objects.    If we did that, then `LocIndexer` and `AtIndexer` could assume that they would only ever see set of axes, so a bunch of checks that are now done at lookup-time could be cached or otherwise de-duplicated.    No idea what the perf impact would look like.  ",
+      "labels": [
+        "Performance",
+        "Needs Discussion"
+      ],
+      "created_at": "2020-03-26T17:59:46Z",
+      "closed_at": "2020-04-28T03:30:40Z",
+      "comments": 0
+    },
+    {
+      "number": 33287,
+      "title": "PERF: hashtable for 16, 32, 128 bit dtypes",
+      "body": "@jorisvandenbossche has pointed out in a couple of threads recently that the hashtables we use only support 64 bit float/uint/int dtypes.  As a result, whenever we need to factorize a smaller dtype, we have to copy+upcast.    khash.pxd looks like it has int32 functions; might there be uint32 or float32 variants available somewhere in the C code?  If not, what would it take to implement them?  cc @WillAyd @chris-b1",
+      "labels": [
+        "Performance"
+      ],
+      "created_at": "2020-04-04T17:33:08Z",
+      "closed_at": "2021-01-02T19:31:46Z",
+      "comments": 9
+    },
+    {
+      "number": 33323,
+      "title": "PERF: performance regression in slicing a Series",
+      "body": "All of the slice indexing benchmarks are showing regressions, eg https://pandas.pydata.org/speed/pandas/#indexing.NumericSeriesIndexing.time_loc_slice?p-index_dtype=%3Cclass%20'pandas.core.indexes.numeric.Int64Index'%3E&p-index_structure='unique_monotonic_inc'&commits=80d37adc-4f89c261    Replicating one of them with a small snippet confirms this:    ```  In [1]: pd.__version__     Out[1]: '1.1.0.dev0+1122.gc7c640ec7'    In [2]: N = 10 ** 6      In [3]: data = pd.Series(np.random.rand(N), index=",
+      "labels": [
+        "Indexing",
+        "Performance",
+        "Regression"
+      ],
+      "created_at": "2020-04-06T14:19:57Z",
+      "closed_at": "2020-04-06T16:11:08Z",
+      "comments": 1
+    },
+    {
+      "number": 33365,
+      "title": "PERF: Regression in Series.is_monotonic_increasing for categorical",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [x] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    #### Code Sample, a copy-pastable example    Pandas 1.0.1    ```python  In [2]: N = 1000    In [3]: c = pd.CategoricalIndex(list(\"a\" * N + \"b\" * N + \"c\" * N))    In [4]: s = pd.Series(c)    In [5]: %timeit s.is_monotonic_increasing  35.3 \u00b5s \u00b1 663 ns per loop (me",
+      "labels": [
+        "Performance",
+        "Regression",
+        "Algos",
+        "Categorical"
+      ],
+      "created_at": "2020-04-07T11:37:18Z",
+      "closed_at": "2020-04-15T17:41:38Z",
+      "comments": 1
+    },
+    {
+      "number": 33368,
+      "title": "PERF/DISC: restrict inputs to is_foo_dtype",
+      "body": "xref #33364    A lot of the overhead in is_foo_dtype (which we call _a lot_) comes from checking for dtype objects, arrays, and strings.  We could tighten these to be e.g.    ```  def is_extension_arrray_dtype(obj):       return isinstance(obj, ExtensionDtype)  ```    The trouble with this is some of these are user-facing, so this would require a deprecation cycle, and in the interim the `warnings` call would actually hurt performance.",
+      "labels": [
+        "Performance",
+        "Needs Discussion"
+      ],
+      "created_at": "2020-04-07T14:49:11Z",
+      "closed_at": "2020-06-05T19:58:12Z",
+      "comments": 3
+    },
+    {
+      "number": 33370,
+      "title": "QST: Why is resample with high frequency faster than lower frequency",
+      "body": "When resampling a pandas DatetimeIndex, why would resampling daily (rule=\"D\") or hourly (rule=\"H\") between two dates be faster than resampling weekly (\"W\"), monthly (\"M\") or yearly (\"Y\")?    ```python  df = pd.DataFrame({\"data\": [\"A\", \"A\"]}, index = pd.DatetimeIndex([\"2010-01-01\", \"2020-01-01\"]))    df.resample(\"D\").bfill()  1.27 ms \u00b1 121 \u00b5s per loop (mean \u00b1 std. dev. of 10 runs, 10 loops each)    df.resample(\"H\").bfill()  2.46 ms \u00b1 115 \u00b5s per loop (mean \u00b1 std. dev. of 10 runs, 10 loops each)   ",
+      "labels": [
+        "Performance",
+        "Resample"
+      ],
+      "created_at": "2020-04-07T15:26:27Z",
+      "closed_at": "2023-05-02T00:43:52Z",
+      "comments": 1
+    },
+    {
+      "number": 33457,
+      "title": "REGR: setting column with setitem should not modify existing array inplace",
+      "body": "So consider this example of a small dataframe with a nullable integer column:    ```  def recreate_df():      return pd.DataFrame({'int': [1, 2, 3], 'int2': [3, 4, 5],                           'float': [.1, .2, .3],                           'EA': pd.array([1, 2, None], dtype=\"Int64\")                          })  ```    Assigning a new column with `__setitem__` (`df[col] = ...`) normally does not even preserve the dtype:    ```  In [2]: df = recreate_df()      ...: df['EA'] = np.array([1., 2., ",
+      "labels": [
+        "Indexing",
+        "Regression",
+        "Needs Tests",
+        "Copy / view semantics",
+        "Closing Candidate"
+      ],
+      "created_at": "2020-04-10T14:18:57Z",
+      "closed_at": "2025-05-10T14:55:35Z",
+      "comments": 34
+    },
+    {
+      "number": 33780,
+      "title": "API: Should indexing on columns give views or copies?",
+      "body": "Migrating the discussion from #33597:    We can improve performance (and memory footprint) by returning views in more cases.  The downsides are 1) the returned DataFrames are less-consolidated and 2) users may be relying on getting copies in some situations.",
+      "labels": [
+        "Indexing",
+        "API Design",
+        "Needs Discussion",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-04-24T23:21:34Z",
+      "closed_at": "2020-09-05T19:03:15Z",
+      "comments": 0
+    },
+    {
+      "number": 33828,
+      "title": "BUG: iloc.__setitem__ with a numpy array throws a TypeError expecting 1-D list",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python  # Your code here  ",
+      "labels": [
+        "Indexing",
+        "ExtensionArray",
+        "Needs Tests"
+      ],
+      "created_at": "2020-04-27T18:51:43Z",
+      "closed_at": "2023-04-19T16:27:45Z",
+      "comments": 3
+    },
+    {
+      "number": 34270,
+      "title": "Problem with obtaining a view of a DataFrame using loc",
+      "body": "Hello, I am trying to obtain a view of a pandas dataframe using the `loc` method but it is not working as expected when I am modifying the original DataFrame.    I want to extract a row/slice of a DataFrame using the `loc` method so that when a modification is done to the DataFrame, the slice reflects the change.    Let's have a look at this example:  ```python  import pandas as pd  import numpy as np  df = pd.DataFrame({'ID':np.arange(0,5,2), 'a':np.arange(3), 'b':np.arange(3)}).set_index('ID')",
+      "labels": [
+        "Usage Question",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-05-20T07:30:49Z",
+      "closed_at": "2021-08-07T06:31:39Z",
+      "comments": 3
+    },
+    {
+      "number": 34359,
+      "title": "BUG: inplace parameter will not perform the operation in place on multi column-sliced DataFrame",
+      "body": "Environment: Python 3.7.7 / NumPy 1.18.4 / Pandas 1.0.3    I have been testing the `inplace=True` parameters for a couple of functions, including `DataFrame.fillna()` and `DataFrame.clip()`.  When I use the inplace parameter on a multi-column slicing of a DataFrame, it will not alter the original DataFrame.    For instance, using the simple DataFrame below,  ```python  df = pd.DataFrame({'A':[1,None,5],'B':[3,4,-1]})  print(df)  Out:        A  B  0  1.0  3  1  NaN  4  2  5.0 -1  ```  the code  `",
+      "labels": [
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-05-25T02:21:31Z",
+      "closed_at": "2020-05-25T07:43:01Z",
+      "comments": 5
+    },
+    {
+      "number": 34663,
+      "title": "DEPR: behavior of `copy` argument in `df.reindex` is confusing",
+      "body": "This was inspired by #33888 and #34584    #### Problem description  The behavior of `copy` argument in `df.reindex` is confusing. Current docstring does it explain it sufficiently clear. It also seems to me `copy` is unnecessary.    Currently the docstring says  ```  ...    A new object is produced unless the new index is equivalent to the current one and ``copy=False``.    ...    copy : bool, default True         Return a new object, even if the passed indexes are the same.  ```    It is hard t",
+      "labels": [
+        "Indexing",
+        "Deprecate",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-06-09T10:42:16Z",
+      "closed_at": "2025-08-13T16:11:23Z",
+      "comments": 6
+    },
+    {
+      "number": 34832,
+      "title": "BUG: DataFrame.__setitem__ creates object-dtype array for extension type scalars",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    #### Code Sample, a copy-pastable example    ```python  import pandas as pd    df = pd.DataFrame({      'a': [1, 2]  })    df['b'] = pd.Period('2020-01')  df['c'] = df['b'] + 0  df['d'] = df['a'] + df['b']    df.dtypes  ```    #### Problem description    Not sur",
+      "labels": [
+        "Bug",
+        "Indexing",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-06-16T21:14:35Z",
+      "closed_at": "2020-09-10T13:34:42Z",
+      "comments": 6
+    },
+    {
+      "number": 35095,
+      "title": "BUG: reset_index is passing a bad dtype to NumPy",
+      "body": "- [X] I have checked that this issue has not already been reported.    - [X] I have confirmed this bug **DOES NOT ** exists on the latest version of pandas.    - [X] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python  inde",
+      "labels": [
+        "Indexing",
+        "Dtype Conversions",
+        "Regression",
+        "ExtensionArray"
+      ],
+      "created_at": "2020-07-02T14:58:09Z",
+      "closed_at": "2020-07-06T20:55:03Z",
+      "comments": 4
+    },
+    {
+      "number": 35392,
+      "title": "BUG: Index.get_indexer_non_unique misbehaves when index contains multiple nan",
+      "body": "#### Code Sample, a copy-pastable example    ```python  axis = pd.Index([np.nan, 'var1', np.nan])  axis.get_indexer_for([np.nan])  ```    #### Current Output    `array([-1], dtype=int64)`  Meaning that `np.nan` is not in axis which is incorrect and makes `df.drop(columns=[np.nan])` to fail when columns contains multiple `nan`.    #### Expected Output    `array([0, 2], dtype=int64)`    #### Output of ``pd.show_versions()``    <details>    INSTALLED VERSIONS  ------------------  commit           :",
+      "labels": [
+        "Bug",
+        "Indexing",
+        "Missing-data"
+      ],
+      "created_at": "2020-07-23T13:53:57Z",
+      "closed_at": "2021-08-05T11:51:18Z",
+      "comments": 3
+    },
+    {
+      "number": 36195,
+      "title": "Proposal for future copy / view semantics in indexing operations",
+      "body": "Update: concrete proposal for Copy-on-Write: https://docs.google.com/document/d/1ZCQ9mx3LBMy-nhwRl33_jgcvWo9IWdEfxDNQ2thyTb0/edit?usp=sharing    ---  [_original post_]    Hi all,    During the recent sprint we discussed copy / view semantics in indexing operations. I've tried to summarize *a* proposal that came out of it.    The tldr is    1. Indexing operations always return a view *where possible* (always when indexing columns, if possible when indexing the rows).  2. For consistent behavior, ",
+      "labels": [
+        "Enhancement",
+        "Roadmap",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-09-07T16:55:17Z",
+      "closed_at": "2023-11-21T18:50:04Z",
+      "comments": 80
+    },
+    {
+      "number": 36373,
+      "title": "REGR: inplace arithmetic operation on Series no longer updating parent DataFrame",
+      "body": "- [X] I have checked that this issue has not already been reported.    - [X] I have confirmed this bug exists on the latest version of pandas.    - [X] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python  import pandas as p",
+      "labels": [
+        "Regression",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-09-15T00:45:16Z",
+      "closed_at": "2020-10-30T08:59:45Z",
+      "comments": 6
+    },
+    {
+      "number": 36571,
+      "title": "BUG: df1.values is df1_shallow_copy.values returns false",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python  import pandas as p",
+      "labels": [
+        "Usage Question",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-09-23T09:11:10Z",
+      "closed_at": "2025-12-07T13:16:56Z",
+      "comments": 6
+    },
+    {
+      "number": 36757,
+      "title": "BUG: GroupBy().fillna() performance regression",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    ```python  import pandas as pd  import numpy as np    N = 2000  df = pd.DataFrame({\"A\": [1] * N, \"B\": [np.nan, 1.0] * (N // 2)})  df = df.sort_values(\"A\").set_index(\"A\")    df[\"B\"] = df.groupby(\"A\")[\"B\"].fillna(method=\"ffill\")  ```    #### Problem description  T",
+      "labels": [
+        "Groupby",
+        "Missing-data",
+        "Performance"
+      ],
+      "created_at": "2020-10-01T01:27:16Z",
+      "closed_at": "2020-10-18T14:56:32Z",
+      "comments": 7
+    },
+    {
+      "number": 37011,
+      "title": "BUG: Incorrect data when modifying a dataframe column with += ",
+      "body": "- [X] I have checked that this issue has not already been reported.    - [X] I have confirmed this bug exists on the latest version of pandas.    - [x] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    #### Code Sample, a copy-pastable example    Get the column as a series and modify inplace with `+=`:  ```python  In [1]: import pandas as pd      ...: df = pd.DataFrame({\"col\": [1 ,2 ,3, 4]})      ...: s = df[\"col\"]      ...: s += 1      ...: print(s)      ...:",
+      "labels": [
+        "Regression",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-10-09T19:32:16Z",
+      "closed_at": "2020-10-09T21:32:52Z",
+      "comments": 3
+    },
+    {
+      "number": 37333,
+      "title": "QST:bug or not? silent fail of df.iloc[].loc[] = newDataType",
+      "body": "If I use a loc chained to a iloc I can change a value if it is of the same dtype:  ```python  df = pd.DataFrame([[0, 2, 3], [0, 4, 1], [10, 20, 30]],  ...                   index=[4, 5, 6], columns=['A', 'B', 'C'])  df.iloc[1].loc[\"B\"] = 999  df      A    B   C  4   0    2   3  5   0  999   1  6  10   20  30  ```  This changes the value to 999.  However, this does not work and fails silently if the dtype is different:  ```python  df.iloc[1].loc[\"B\"] = \"888\"  df      A    B   C  4   0    2   3  5",
+      "labels": [
+        "Bug",
+        "Warnings",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-10-22T07:51:16Z",
+      "closed_at": "2024-08-26T18:55:24Z",
+      "comments": 2
+    },
+    {
+      "number": 38270,
+      "title": "BUG: Missing SettingwithCopyWarning with MultiIndex DataFrame",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    #### Code Sample, a copy-pastable example    ```python  \"\"\"Missing SettingwithCopyWarning.\"\"\"  import pandas as pd    df = pd.DataFrame(      [[\"Alice\", 10]],      columns=pd.MultiIndex.from_product([[\"person\"], [\"first_name\", \"age\"]]),  )  df.person.age = 11  print(df)  ```    #### Problem description    Value `11` is not assigned. Output is  ```     ",
+      "labels": [
+        "Bug",
+        "Warnings",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-12-03T18:39:18Z",
+      "closed_at": "2024-02-04T15:18:25Z",
+      "comments": 1
+    },
+    {
+      "number": 38358,
+      "title": "Performance regressions in GroupBy.fillna",
+      "body": "https://pandas.pydata.org/speed/pandas/#groupby.FillNA.time_df_ffill?python=3.8&Cython=0.29.21&commits=03e58585    From https://github.com/pandas-dev/pandas/commit/03e58585    cc @GYHHAHA",
+      "labels": [
+        "Groupby",
+        "Missing-data",
+        "Performance",
+        "Regression"
+      ],
+      "created_at": "2020-12-08T13:54:54Z",
+      "closed_at": "2021-09-15T15:26:50Z",
+      "comments": 5
+    },
+    {
+      "number": 38450,
+      "title": "Inconsistent SettingWithCopyWarning behavior",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---      #### Code Sample, a copy-pastable example    ```python  import numpy as np  import pandas as pd    def example_1():     df = pd.DataFrame(dict(x=np.arange(100), y=np.arange(100)))     df_ = df[pd.Series([True] * 50 + [False] * 50, name=\"y\")]     df_.x *= 2    ",
+      "labels": [
+        "Bug",
+        "Warnings",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-12-13T14:55:16Z",
+      "closed_at": "2024-08-26T18:51:10Z",
+      "comments": 5
+    },
+    {
+      "number": 38519,
+      "title": "BUG: Augmented arithmetic assignments will modify original series starting version 1.1.4",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    #### Code Sample, a copy-pastable example    ```python  import pandas as pd    s = pd.Series([1, 2, 3])  s1 = s.iloc[1:]  s1 -= 4  s    # output  # 0    1  # 1   -2  # 2   -1  # dtype: int64    s = pd.Series([1, 2, 3])  s1 = s.iloc[1:]  s1 = s1 - 4  s    # outpu",
+      "labels": [
+        "Docs",
+        "Copy / view semantics"
+      ],
+      "created_at": "2020-12-16T10:09:53Z",
+      "closed_at": "2023-01-26T19:38:20Z",
+      "comments": 18
+    },
+    {
+      "number": 38896,
+      "title": "API: setitem copy/view behavior ndarray vs Categorical vs other EA",
+      "body": "xref #33457 which is about similar issue but goes through different code paths.    In `Block.setitem` in cases where we are setting all the values for this block we have:    ```          elif exact_match and is_categorical_dtype(arr_value.dtype):              # GH25495 - If the current dtype is not categorical, we need to create a new categorical block              values[indexer] = value              return self.make_block(Categorical(self.values, dtype=arr_value.dtype))            elif exact_m",
+      "labels": [
+        "Bug",
+        "Categorical",
+        "ExtensionArray",
+        "API - Consistency",
+        "Copy / view semantics",
+        "Closing Candidate"
+      ],
+      "created_at": "2021-01-02T02:09:29Z",
+      "closed_at": "2022-07-05T23:46:50Z",
+      "comments": 14
+    },
+    {
+      "number": 39418,
+      "title": "BUG: SettingWithCopyError raised unsystematically (?)",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python  import pandas as p",
+      "labels": [
+        "Bug",
+        "Warnings",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-01-26T20:03:16Z",
+      "closed_at": "2024-02-04T15:18:26Z",
+      "comments": 2
+    },
+    {
+      "number": 39448,
+      "title": "QST: Misleading `SettingWithCopyWarning` when assigning on result of DataFrame.dropna?",
+      "body": "- [x] I have searched the [[pandas] tag](https://stackoverflow.com/questions/tagged/pandas) on StackOverflow for similar questions.    - [x] I have asked my usage related question on [StackOverflow](https://stackoverflow.com).    ---    Under certain cases, doing an assignment on a DataFrame created using `.dropna()` emits the infamous `SettingWithCopyWarning`. So I followed what [this SO answer](https://stackoverflow.com/a/61240274/554319) suggests, and inspected the `._is_view` and `._is_copy`",
+      "labels": [
+        "Bug",
+        "Warnings",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-01-28T08:03:34Z",
+      "closed_at": "2024-02-04T15:18:26Z",
+      "comments": 3
+    },
+    {
+      "number": 39708,
+      "title": "BUG: Styler `copy` methods not updated for recent additions",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [x] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    Recent additions (1.2.0) (1.3.0) to `Styler` have introduced additional class attributes.    The existing `copy` mechanisms catered for older attributes (although not all), but now needs to be reviewed.  Tests should probably be added.    ```  def _copy(self, de",
+      "labels": [
+        "Bug",
+        "Regression",
+        "Styler",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-02-09T21:18:41Z",
+      "closed_at": "2021-03-05T00:52:34Z",
+      "comments": 1
+    },
+    {
+      "number": 39943,
+      "title": "BUG: unary operators on IntegerArray return shared mask creating inconsistencies when assigning null and non-null values",
+      "body": "- [ ] I have checked that this issue has not already been reported.    - [ ] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python     >>> s = pd.Seri",
+      "labels": [
+        "Bug",
+        "Regression",
+        "NA - MaskedArrays",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-02-20T21:05:16Z",
+      "closed_at": "2021-02-23T11:11:35Z",
+      "comments": 3
+    },
+    {
+      "number": 40663,
+      "title": "BUG: row filtering by index slicing does not always work",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    ---    #### Code Sample, a copy-pastable example    ```python  import pandas as pd  df = pd.DataFrame(columns=['a', 'b'], index=range(6))  # Slicings that work  df[::2] = 1  df['a'][::2] = 'a'  df[1::2] = 2  df['a'][1::2] = 'c'  # Slicing that does not work  df[['a','b']][1::2] = 'aha'  ```    #### Problem description    The last slicing does not work ",
+      "labels": [
+        "Indexing",
+        "Duplicate Report",
+        "Warnings",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-03-28T07:53:45Z",
+      "closed_at": "2021-04-05T01:06:54Z",
+      "comments": 6
+    },
+    {
+      "number": 40935,
+      "title": "API: Should isna return a copy for nullable types?",
+      "body": "This came up in #40651, seems worth resolving.  Right now `BaseMaskedArray` just directly returns `self._mask` in the implementation of `isna`. This could lead to some unintuitive user-facing behavior like:  ```  >>> ser = pd.Series([1, 1, 1], dtype=\"Int64\")  >>> mask = ser.isna()  >>> mask[:] = True  >>> ser  0    <NA>  1    <NA>  2    <NA>  dtype: Int64  ```  Seems like `isna` should return a copy instead to avoid this. One potential downside is losing an API-supported way to obtain 0-cost acc",
+      "labels": [
+        "API - Consistency",
+        "NA - MaskedArrays",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-04-13T23:34:30Z",
+      "closed_at": "2021-04-20T12:52:12Z",
+      "comments": 4
+    },
+    {
+      "number": 41216,
+      "title": "BUG: Cannot change the data type in the data frame",
+      "body": "- [x] I have checked that this issue has not already been reported.    - [x] I have confirmed this bug exists on the latest version of pandas.    - [ ] (optional) I have confirmed this bug exists on the master branch of pandas.    ---    **Note**: Please read [this guide](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) detailing how to provide the necessary information for us to reproduce your bug.    #### Code Sample, a copy-pastable example    ```python  # Your code here  ",
+      "labels": [
+        "Indexing",
+        "Usage Question",
+        "Copy / view semantics",
+        "Closing Candidate"
+      ],
+      "created_at": "2021-04-29T09:56:17Z",
+      "closed_at": "2021-05-01T11:46:25Z",
+      "comments": 3
+    },
+    {
+      "number": 42501,
+      "title": "BUG: extraneous copy of extension arrays in v1.3.0",
+      "body": "#### Code Sample, a copy-pastable example    ```python  import pandas as pd  from pandas.core.arrays.integer import coerce_to_array      class IntegerArrayNoCopy(pd.core.arrays.IntegerArray):        @classmethod      def _from_sequence(cls, scalars, *, dtype=None, copy=False):          values, mask = coerce_to_array(scalars, dtype=dtype, copy=copy)          return IntegerArrayNoCopy(values, mask)        def copy(self):          raise NotImplementedError      class Int16DtypeNoCopy(pd.Int16Dtype)",
+      "labels": [
+        "Dtype Conversions",
+        "Regression",
+        "ExtensionArray",
+        "Copy / view semantics"
+      ],
+      "created_at": "2021-07-12T11:39:24Z",
+      "closed_at": "2021-08-11T12:55:41Z",
+      "comments": 12
+    }
+  ]
+}

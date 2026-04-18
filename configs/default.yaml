@@ -37,6 +37,11 @@ goal_pipeline:
   commitment_threshold: 0.65
   social_resistance_weight: 0.3
   switch_cost_weight: 0.2
+  min_shared_tags: 2        # minimum overlapping tags to count as cluster
+  min_linked_tensions: 3    # must be linked to at least N tensions to commit
+  min_hit_rate: 0.05        # must be relevant to >= 5% of tensions
+  max_hit_rate: 0.70        # reject if relevant to > 70% (too generic)
+  min_coherence: 0.3        # minimum coherence score to attempt commitment
 
 crystallization:
   weights:

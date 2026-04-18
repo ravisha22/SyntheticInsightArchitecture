@@ -1,0 +1,44 @@
+## Blinded Report
+
+### Condition A (Real pandas issues, data-derived seeds only)
+Pass: NO
+- No committed goals
+
+### Condition B (Real pandas issues + decoy seeds)
+Pass: NO
+- Wrong decoys committed: pandas should adopt SQLAlchemy-style ORM for DataFrames, pandas should deprecate DataFrame and use only Series, pandas should switch to Dask for parallel processing
+- Neutral seeds committed: dtype coercion rules need unification, pandas internal memory model needs rethinking
+- pandas should deprecate DataFrame and use only Series | stage=committed | cp=238.097 | coh=1.000 | support=33 | labels=27 | strong=1 | hit_rate=0.030 | tags=[API, dtype, semantics, indexing]
+- dtype coercion rules need unification | stage=committed | cp=194.815 | coh=1.000 | support=27 | labels=25 | strong=11 | hit_rate=0.407 | tags=[dtype, Indexing, ExtensionArray, bug]
+- pandas should adopt SQLAlchemy-style ORM for DataFrames | stage=committed | cp=76.871 | coh=1.000 | support=16 | labels=21 | strong=1 | hit_rate=0.062 | tags=[indexing, API, semantics, query]
+
+### Condition C (Tag-shuffle control)
+Pass: NO
+- Real committed goals: 0
+- Shuffled committed goals: 5
+- Real signal: 0.000
+- Shuffled signal: 663.904
+- Recurring issue cluster around: Indexing, Performance, result, API - Consistency, Categorical | stage=committed | cp=165.976 | coh=1.000 | support=23 | labels=24 | strong=0 | hit_rate=0.000 | tags=[Indexing, Performance, result, API - Consistency]
+- Recurring issue cluster around: Performance, indexing, Usage Question, 1, cumsum | stage=committed | cp=47.795 | coh=1.000 | support=10 | labels=15 | strong=0 | hit_rate=0.000 | tags=[Performance, indexing, Usage Question, 1]
+- Recurring issue cluster around: Copy / view semantics, series, Performance, 128, convert | stage=committed | cp=47.691 | coh=1.000 | support=10 | labels=13 | strong=1 | hit_rate=0.100 | tags=[Copy / view semantics, series, Performance, 128]
+
+### Condition D (Non-convergent corpus)
+Pass: YES
+- Real committed goals: 0
+- Non-convergent committed goals: 0
+- Real signal: 0.000
+- Non-convergent signal: 0.000
+- No committed goals
+
+### Baseline comparison
+Pass: NO
+- Top keyword terms: bug, index, dataframe, series, perf, 1, dtype, 0, pandas, regression
+- Top keyword groups: bug (36); index (16); dataframe (17); series (15); perf (11)
+- Top label clusters: Bug + ExtensionArray + NA - MaskedArrays (12); Bug + Missing-data + Groupby (9); Indexing + Regression + MultiIndex (9)
+
+### Overall verdict
+- Condition A: FAIL
+- Condition B: FAIL
+- Condition C: FAIL
+- Condition D: PASS
+- Baseline comparison: FAIL
