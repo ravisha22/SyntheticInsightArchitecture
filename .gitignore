@@ -33,3 +33,7 @@ pagerank_sim.db
 pagerank_trace.jsonl
 *.db
 !src/**
+
+__pycache__/
+*.pyc
+.pytest_cache/
