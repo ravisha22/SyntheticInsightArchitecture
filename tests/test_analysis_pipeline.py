@@ -6,7 +6,6 @@ import sqlite3
 
 from src.schema import init_db
 from src.adapters.mock import MockAdapter
-from src.adapters.mock_pandas import PandasMockAdapter
 from src.services.analysis_pipeline import AnalysisPipeline, extract_json
 
 
@@ -21,7 +20,7 @@ def db(tmp_path):
 
 @pytest.fixture
 def adapter():
-    return PandasMockAdapter(seed=42)
+    return MockAdapter(seed=42)
 
 
 @pytest.fixture
@@ -34,51 +33,57 @@ def sample_issues():
     return [
         {
             "number": 1,
-            "title": "DataFrame.copy() returns view instead of copy — silent data corruption",
-            "body": "When calling .copy() on a sliced DataFrame, mutations propagate back.",
-            "labels": ["Bug", "Copy / view semantics"],
+            "title": "Repeat crisis use after placement loss",
+            "body": "Households return within weeks after losing what looked like stable placement.",
+            "labels": ["Housing", "Shelter", "Eviction"],
         },
         {
             "number": 2,
-            "title": "Security vulnerability in read_csv with untrusted input",
-            "body": "Arbitrary code execution possible via crafted CSV.",
-            "labels": ["Bug"],
+            "title": "Short income shocks trigger another emergency cycle",
+            "body": "Residents re-enter crisis response after falling behind on basic costs.",
+            "labels": ["Housing", "Rent", "Displacement"],
         },
         {
             "number": 3,
-            "title": "Performance regression in groupby with large datasets",
-            "body": "GroupBy is 10x slower since v1.3.",
-            "labels": ["Performance", "Groupby"],
+            "title": "Residents restart intake at every referral step",
+            "body": "People repeat the same paperwork and eligibility checks after each handoff.",
+            "labels": ["Agency", "Referral", "Caseworker"],
         },
         {
             "number": 4,
-            "title": "FutureWarning deprecation noise on valid code",
-            "body": "Users see warnings on code that works correctly.",
-            "labels": ["Bug"],
+            "title": "Case history disappears between providers",
+            "body": "Frontline staff cannot see prior decisions when clients move between services.",
+            "labels": ["Fragmentation", "Agency", "Coordination"],
         },
         {
             "number": 5,
-            "title": "ExtensionArray nullable int fails on merge",
-            "body": "Merging DataFrames with nullable Int64 dtype raises TypeError.",
-            "labels": ["Bug", "ExtensionArray"],
+            "title": "High-risk follow-up stalls after waitlist growth",
+            "body": "People leave acute response without timely ongoing support.",
+            "labels": ["Health", "Treatment", "Waitlist"],
         },
         {
             "number": 6,
-            "title": "Indexing with .loc returns copy instead of view intermittently",
-            "body": "Inconsistent copy/view behavior with .loc indexing.",
-            "labels": ["Bug", "Indexing", "Copy / view semantics"],
+            "title": "Discharge plans fail before support begins",
+            "body": "Residents miss stabilization because follow-up appointments arrive too late.",
+            "labels": ["Health", "Care", "Therapy"],
         },
         {
             "number": 7,
-            "title": "Memory leak in repeated DataFrame operations",
-            "body": "Memory grows unbounded in loops.",
-            "labels": ["Bug", "Performance"],
+            "title": "Permission checks fail during token reuse",
+            "body": "Revoked sessions remain valid across service boundaries.",
+            "labels": ["Security", "Auth", "Token"],
         },
         {
             "number": 8,
-            "title": "ExtensionArray categorical breaks on concat",
-            "body": "Concatenating ExtensionArray-backed categoricals loses dtype.",
-            "labels": ["Bug", "ExtensionArray", "Categorical"],
+            "title": "Cross-service access bypasses expected safeguards",
+            "body": "Forged credentials expose protected records after a trust boundary failure.",
+            "labels": ["Security", "Credential", "Access"],
+        },
+        {
+            "number": 9,
+            "title": "Checklist text uses an outdated flag name",
+            "body": "The guide still references an obsolete option name.",
+            "labels": ["Docs", "Guidance"],
         },
     ]
 
@@ -127,7 +132,7 @@ class TestAnalysisPipeline:
         assert len(results) == 3
         required_fields = [
             "severity_tier", "affected_scope", "blast_radius",
-            "architectural_layer", "confidence",
+            "system_layer", "confidence",
         ]
         for r in results:
             for field in required_fields:
@@ -172,8 +177,8 @@ class TestAnalysisPipeline:
             assert tiers[0] <= tiers[-1]
 
     def test_mock_deterministic_across_runs(self, db, sample_issues):
-        adapter1 = PandasMockAdapter(seed=42)
-        adapter2 = PandasMockAdapter(seed=42)
+        adapter1 = MockAdapter(seed=42)
+        adapter2 = MockAdapter(seed=42)
         p1 = AnalysisPipeline(db, adapter1, config={})
 
         # Use a separate db for second run
@@ -190,11 +195,13 @@ class TestAnalysisPipeline:
 
         conn2.close()
 
-    def test_copy_view_identified(self, pipeline, sample_issues):
-        """Ensure mock correctly identifies copy/view semantics issues."""
+    def test_multiple_systemic_roots_identified(self, pipeline, sample_issues):
+        """Ensure mock identifies repeated systemic patterns across domains."""
         analyzed = pipeline.analyze_issues(sample_issues)
-        cv = [a for a in analyzed if a.get("suspected_root_category") == "copy_view_semantics"]
-        assert len(cv) >= 2, "Should identify at least 2 copy/view issues"
+        housing = [a for a in analyzed if a.get("suspected_root_category") == "housing_instability"]
+        fragmentation = [a for a in analyzed if a.get("suspected_root_category") == "institutional_fragmentation"]
+        assert len(housing) >= 2, "Should identify repeated housing instability issues"
+        assert len(fragmentation) >= 2, "Should identify repeated institutional fragmentation issues"
 
     def test_db_storage(self, pipeline, db, sample_issues):
         """Verify results are persisted to SQLite."""
@@ -221,7 +228,7 @@ class TestAnalysisPipeline:
                     }
                 ]
 
-        class GroundingAdapter(PandasMockAdapter):
+        class GroundingAdapter(MockAdapter):
             def _evidence_grounding(self, user_prompt: str) -> dict:
                 return {
                     "revised_severity": "existential",
@@ -265,7 +272,7 @@ class TestAnalysisPipeline:
         ]
 
     def test_prioritization_persists_predictions_and_outcomes(self, db, sample_issues):
-        pipeline = AnalysisPipeline(db, PandasMockAdapter(seed=42), config={})
+        pipeline = AnalysisPipeline(db, MockAdapter(seed=42), config={})
 
         report = pipeline.run_full_pipeline(sample_issues[:4], budget=2)
 
@@ -298,7 +305,7 @@ class TestAnalysisPipeline:
         assert json.loads(updated["outcomes_json"])[0]["status"] == "observed"
 
     def test_score_predictions_persists_evaluation_summary(self, db, sample_issues):
-        pipeline = AnalysisPipeline(db, PandasMockAdapter(seed=42), config={})
+        pipeline = AnalysisPipeline(db, MockAdapter(seed=42), config={})
 
         report = pipeline.run_full_pipeline(sample_issues, budget=5)
         run_id = report["prioritization"]["run_id"]
@@ -306,13 +313,13 @@ class TestAnalysisPipeline:
             run_id,
             [
                 {
-                    "label": "copy/view semantics",
-                    "target_contains": ["copy", "view"],
+                    "label": "housing instability",
+                    "target_contains": ["housing", "instability"],
                     "observed": True,
                 },
                 {
-                    "label": "extension array internals",
-                    "target_contains": ["extension", "array"],
+                    "label": "institutional fragmentation",
+                    "target_contains": ["institutional", "fragmentation"],
                     "observed": True,
                 },
             ],
@@ -321,7 +328,7 @@ class TestAnalysisPipeline:
         assert score["hit_count"] == 2
         assert score["recall"] == 1.0
         assert len(score["scored_predictions"]) >= 2
-        assert any("copy" in prediction["target"].lower() for prediction in score["scored_predictions"])
+        assert any("housing" in prediction["target"].lower() for prediction in score["scored_predictions"])
         row = db.execute(
             "SELECT outcomes_json, evaluation_json FROM prioritization_runs WHERE id = ?",
             (run_id,),
@@ -330,12 +337,13 @@ class TestAnalysisPipeline:
         evaluation = json.loads(row["evaluation_json"])
         assert evaluation["hit_count"] == 2
         assert len(json.loads(row["outcomes_json"])) == 2
+        assert any("housing" in prediction["target"].lower() for prediction in score["scored_predictions"])
 
     def test_score_predictions_prefers_unclaimed_positive_outcomes(self, db):
-        pipeline = AnalysisPipeline(db, PandasMockAdapter(seed=42), config={})
+        pipeline = AnalysisPipeline(db, MockAdapter(seed=42), config={})
         db.execute(
             """INSERT INTO prioritization_runs
-               (id, budget, chosen, deferred, architectural_insight, run_at, predictions_json, outcomes_json, evaluation_json)
+               (id, budget, chosen, deferred, systemic_insight, run_at, predictions_json, outcomes_json, evaluation_json)
                VALUES (?,?,?,?,?,?,?,?,?)""",
             (
                 "score01",
@@ -346,8 +354,8 @@ class TestAnalysisPipeline:
                 "now",
                 json.dumps(
                     [
-                        {"target": "Shared weakness in copy view semantics"},
-                        {"target": "Shared weakness in copy view semantics extension array internals"},
+                        {"target": "Shared weakness in housing instability"},
+                        {"target": "Shared weakness in housing instability institutional fragmentation"},
                     ]
                 ),
                 "[]",
@@ -359,8 +367,8 @@ class TestAnalysisPipeline:
         score = pipeline.score_predictions(
             "score01",
             [
-                {"label": "copy", "target_contains": ["copy"], "observed": True},
-                {"label": "extension", "target_contains": ["extension"], "observed": True},
+                {"label": "housing", "target_contains": ["housing"], "observed": True},
+                {"label": "fragmentation", "target_contains": ["fragmentation"], "observed": True},
             ],
         )
 
@@ -467,7 +475,7 @@ class TestAnalysisPipeline:
                     "affected_scope": "majority",
                     "failure_mode_if_unfixed": "Tampered failure mode",
                     "blast_radius": "service_degradation",
-                    "architectural_layer": "core_internals",
+                    "system_layer": "structural",
                     "p_happy_if_fixed": 0.6,
                     "p_failure_cascade_if_unfixed": 0.4,
                     "is_symptom_of_deeper_issue": True,
@@ -729,7 +737,7 @@ class TestAnalysisPipeline:
             db.execute(
                 """INSERT INTO issue_analyses
                    (issue_number, title, severity_tier, affected_scope, failure_mode,
-                    blast_radius, architectural_layer, p_happy_if_fixed, p_failure_cascade,
+                    blast_radius, system_layer, p_happy_if_fixed, p_failure_cascade,
                     is_symptom, suspected_root, confidence, raw_response, analyzed_at,
                     signal_id, signal_type, source, metadata, signal_fingerprint)
                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
@@ -831,35 +839,35 @@ class TestAnalysisPipeline:
 
 class TestMockAdapter:
     def test_analyze_issue(self):
-        adapter = PandasMockAdapter(seed=42)
+        adapter = MockAdapter(seed=42)
         result = adapter.analyze(
-            "You are a production engineering decision-maker analyzing software issues.",
-            "Issue #1: crash in production\nLabels: Bug\nDescription: app crashes",
+            "You are a decision-maker analyzing complex signals.",
+            "Issue #1: intake resets after agency referral\nLabels: Agency, Referral\nDescription: people repeat the same paperwork after every handoff",
         )
         assert result["severity_tier"] in ("existential", "major", "moderate", "minor", "cosmetic")
 
     def test_analyze_security_is_existential(self):
-        adapter = PandasMockAdapter(seed=42)
+        adapter = MockAdapter(seed=42)
         result = adapter.analyze(
-            "You are a production engineering decision-maker analyzing software issues.",
-            "Issue #99: Security vulnerability in auth module\nLabels: Bug\nDescription: bypass",
+            "You are a decision-maker analyzing complex signals.",
+            "Issue #99: Security vulnerability in auth module\nLabels: Security, Auth\nDescription: bypass",
         )
         assert result["severity_tier"] == "existential"
 
     def test_analyze_warning_is_minor(self):
-        adapter = PandasMockAdapter(seed=42)
+        adapter = MockAdapter(seed=42)
         result = adapter.analyze(
-            "You are a production engineering decision-maker analyzing software issues.",
-            "Issue #50: FutureWarning on valid code\nLabels: Bug\nDescription: noise",
+            "You are a decision-maker analyzing complex signals.",
+            "Issue #50: Documentation typo in public guidance\nLabels: Docs\nDescription: outdated option name",
         )
-        assert result["severity_tier"] == "minor"
+        assert result["severity_tier"] == "cosmetic"
 
     def test_analyze_pattern_detection(self):
-        adapter = PandasMockAdapter(seed=42)
+        adapter = MockAdapter(seed=42)
         result = adapter.analyze(
             "You are an architect analyzing issue patterns.",
-            'Issues:\n[{"number": 1, "suspected_root_category": "copy_view_semantics"}, '
-            '{"number": 2, "suspected_root_category": "copy_view_semantics"}]\n'
+            'Issues:\n[{"number": 1, "suspected_root_category": "security_boundary"}, '
+            '{"number": 2, "suspected_root_category": "security_boundary"}]\n'
             "Group issues",
         )
         assert "clusters" in result

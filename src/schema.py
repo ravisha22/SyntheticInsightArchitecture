@@ -55,13 +55,16 @@ class GoalStage(Enum):
 
 
 class SignalType(Enum):
-    BUG_REPORT = "bug_report"
     INCIDENT = "incident"
     FEEDBACK = "feedback"
     SUPPORT_TICKET = "support_ticket"
     AUDIT = "audit"
     NEWS = "news"
     TREND = "trend"
+    COMMUNITY_REPORT = "community_report"
+    POLICY_CHANGE = "policy_change"
+    RESEARCH_FINDING = "research_finding"
+    FIELD_OBSERVATION = "field_observation"
     ISSUE = "issue"
     OTHER = "other"
 
@@ -269,7 +272,7 @@ CREATE TABLE IF NOT EXISTS issue_analyses (
     affected_scope TEXT,
     failure_mode TEXT,
     blast_radius TEXT,
-    architectural_layer TEXT,
+    system_layer TEXT,
     p_happy_if_fixed REAL,
     p_failure_cascade REAL,
     is_symptom INTEGER,
@@ -311,7 +314,7 @@ CREATE TABLE IF NOT EXISTS prioritization_runs (
     budget INTEGER,
     chosen TEXT,  -- JSON
     deferred TEXT,  -- JSON
-    architectural_insight TEXT,
+    systemic_insight TEXT,
     run_at TEXT,
     predictions_json TEXT,  -- JSON
     outcomes_json TEXT,  -- JSON

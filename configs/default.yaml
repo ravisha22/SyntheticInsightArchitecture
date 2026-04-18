@@ -5,14 +5,8 @@ budgets:
   dream_cycles_per_day: 3
   exploration_reserve_pct: 15
 
-# Optional corpus-specific stop words used by the deterministic seed/tension linker.
-# Keep these in config so core code stays domain-agnostic.
+# Optional low-information stop words used by the deterministic seed/tension linker.
 stop_words:
-  - pandas
-  - dataframe
-  - series
-  - column
-  - row
   - data
   - value
   - values
@@ -35,19 +29,6 @@ stop_words:
   - even
   - work
   - works
-  - bug
-  - issue
-  - error
-  - expected
-  - actual
-  - "0"
-  - "1"
-  - "2"
-  - "3"
-  - "4"
-  - "5"
-  - "64"
-  - "128"
   - none
   - true
   - false

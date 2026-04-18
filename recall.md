@@ -19,12 +19,14 @@
 - `simulation\run_blinded_test.py` now runs the same generalized `AnalysisPipeline` path and scores predictions against observed outcomes instead of using the old `SIAEngine` seed/goal path.
 - `python -m simulation.run_llm_analysis` still gives the same 2/3 pandas canary result.
 - The generalized evaluation bar is now met on the deterministic harness, though grounding remains opt-in and the legacy canary still trails at 2/3.
+- A new reusable skill package now exists at `.github\skills\problem-intelligence-factory\` to scaffold scenario-specific collection, filtering, prioritization, and intervention bundles for any domain.
 
 ## Drift To Correct
 - `simulation\run_llm_analysis.py` is still a legacy issue-shaped compatibility canary and remains at 2/3, so it no longer represents the strongest evaluation path.
 - Live grounding is still disabled by default in local runs unless `SIA_ENABLE_GROUNDING` is set.
 - `ImmersionEngine`, `VerificationHarness`, `IntegrationEngine`, and `SocialLedger` exist but are not wired into `SIAEngine`.
 - The pandas harness remains a compatibility corpus, not a generalized validation corpus.
+- The new skill factory exists, but the main repo still needs its remaining pandas-shaped scenarios, scripts, and tests replaced with generalized assets.
 
 ## Session Proof
 - Reviewed full repo layout, formal spec, tests, simulations, cached corpora, and recorded outputs.
@@ -56,6 +58,12 @@
   - fixed outcome-matching deduplication so scoring is not order-dependent
   - expanded regression coverage to 52 passing tests
   - reran blinded evaluation to all-pass on the deterministic harness
+- Added a new cross-domain skill-factory package:
+  - created `.github\skills\problem-intelligence-factory\SKILL.md`
+  - documented 360-degree signal collection, reliability filtering, existential prioritization, and reusable bundle outputs
+  - added reference files for workflows, signal taxonomy, output bundle structure, and acceptance criteria
+  - added `scripts\init_bundle.py` to scaffold scenario-specific prompt bundles, deterministic scripts, and a generated scenario skill
+  - smoke-tested the scaffolder on a housing-instability scenario bundle in the session workspace
 
 ## Action Plan
 1. Remove pandas-specific logic from `src\` and keep pandas only as an optional evaluation corpus.
@@ -63,7 +71,9 @@
 3. Make LLM reasoning primary for analysis, clustering, commitment, and prioritization; keep Python as the constraint and persistence layer.
 4. Wire evidence grounding into the live pipeline before final prioritization. **Done for the live pipeline path.**
 5. Add prediction-vs-outcome evaluation and rerun blinded tests until real signal beats decoys, shuffles, and baselines. **Done on the deterministic generalized pipeline path.**
+6. Replace the remaining pandas-shaped simulations, tests, and canaries with generalized or social-system scenario assets.
+7. Use the problem-intelligence factory to standardize future scenario bundles around 360-degree evidence gathering, filtering, prioritization, and predicted outcomes.
 
 ## Resume Here
-- Immediate next focus: improve the legacy canary and enable live grounding / real model runs so the stronger evaluation path is exercised beyond the deterministic mock.
-- Success bar: the system reasons over arbitrary signals without repo-specific heuristics and maintains measurable prediction quality with live grounding enabled.
+- Immediate next focus: finish removing pandas-shaped scenarios and tests, then rerun the generalized harness on replacement corpora produced with the new factory workflow.
+- Success bar: the system reasons over arbitrary signals without repo-specific heuristics, bundles scenario intelligence from broad evidence, and maintains measurable prediction quality with live grounding enabled.

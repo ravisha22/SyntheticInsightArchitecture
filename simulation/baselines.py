@@ -1,10 +1,37 @@
 """Simple comparison baselines for blinded SIA experiments."""
 from __future__ import annotations
 
+import re
 from collections import Counter
 from itertools import combinations
 
-from simulation.scenarios.pandas_real import tokenize_title
+STOP_WORDS = {
+    "the",
+    "and",
+    "for",
+    "with",
+    "after",
+    "before",
+    "from",
+    "into",
+    "that",
+    "this",
+    "when",
+    "what",
+    "same",
+    "across",
+    "between",
+    "still",
+    "uses",
+}
+
+
+def tokenize_title(title: str) -> list[str]:
+    return [
+        token
+        for token in re.findall(r"[a-z0-9]+", title.lower())
+        if len(token) > 3 and token not in STOP_WORDS
+    ]
 
 
 def keyword_frequency(issues: list[dict], top_n: int = 20) -> dict:

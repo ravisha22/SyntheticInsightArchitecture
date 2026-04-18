@@ -110,7 +110,7 @@ class AnalysisPipeline:
                 affected_scope TEXT,
                 failure_mode TEXT,
                 blast_radius TEXT,
-                architectural_layer TEXT,
+                system_layer TEXT,
                 p_happy_if_fixed REAL,
                 p_failure_cascade REAL,
                 is_symptom INTEGER,
@@ -134,13 +134,14 @@ class AnalysisPipeline:
                 budget INTEGER,
                 chosen TEXT,
                 deferred TEXT,
-                architectural_insight TEXT,
+                systemic_insight TEXT,
                 run_at TEXT
             );
         """)
         self._ensure_columns(
             "issue_analyses",
             {
+                "system_layer": "TEXT",
                 "signal_id": "TEXT",
                 "signal_type": "TEXT",
                 "source": "TEXT",
@@ -164,11 +165,36 @@ class AnalysisPipeline:
         self._ensure_columns(
             "prioritization_runs",
             {
+                "systemic_insight": "TEXT",
                 "predictions_json": "TEXT",
                 "outcomes_json": "TEXT",
                 "evaluation_json": "TEXT",
             },
         )
+        issue_columns = {
+            row["name"] if isinstance(row, sqlite3.Row) else row[1]
+            for row in self.conn.execute("PRAGMA table_info(issue_analyses)")
+        }
+        if "architectural_layer" in issue_columns and "system_layer" in issue_columns:
+            self.conn.execute(
+                """UPDATE issue_analyses
+                   SET system_layer = architectural_layer
+                   WHERE (system_layer IS NULL OR system_layer = '')
+                     AND architectural_layer IS NOT NULL
+                     AND architectural_layer != ''"""
+            )
+        prio_columns = {
+            row["name"] if isinstance(row, sqlite3.Row) else row[1]
+            for row in self.conn.execute("PRAGMA table_info(prioritization_runs)")
+        }
+        if "architectural_insight" in prio_columns and "systemic_insight" in prio_columns:
+            self.conn.execute(
+                """UPDATE prioritization_runs
+                   SET systemic_insight = architectural_insight
+                   WHERE (systemic_insight IS NULL OR systemic_insight = '')
+                     AND architectural_insight IS NOT NULL
+                     AND architectural_insight != ''"""
+            )
         self.conn.execute(
             "UPDATE issue_analyses SET signal_id = CAST(issue_number AS TEXT) WHERE signal_id IS NULL"
         )
@@ -440,7 +466,7 @@ class AnalysisPipeline:
             "affected_scope": "edge_case",
             "failure_mode_if_unfixed": "unknown",
             "blast_radius": "none",
-            "architectural_layer": "unknown",
+            "system_layer": "unknown",
             "p_happy_if_fixed": 0.5,
             "p_failure_cascade_if_unfixed": 0.1,
             "is_symptom_of_deeper_issue": False,
@@ -477,7 +503,7 @@ class AnalysisPipeline:
                 self.conn.execute(
                     """UPDATE issue_analyses
                        SET title = ?, severity_tier = ?, affected_scope = ?, failure_mode = ?,
-                           blast_radius = ?, architectural_layer = ?, p_happy_if_fixed = ?,
+                           blast_radius = ?, system_layer = ?, p_happy_if_fixed = ?,
                            p_failure_cascade = ?, is_symptom = ?, suspected_root = ?,
                            confidence = ?, raw_response = ?, analyzed_at = ?, issue_number = ?,
                            signal_type = ?, source = ?, metadata = ?, signal_fingerprint = ?
@@ -488,7 +514,7 @@ class AnalysisPipeline:
                         record.get("affected_scope", "edge_case"),
                         record.get("failure_mode_if_unfixed", ""),
                         record.get("blast_radius", "none"),
-                        record.get("architectural_layer", "unknown"),
+                        record.get("system_layer", "unknown"),
                         record.get("p_happy_if_fixed", 0.5),
                         record.get("p_failure_cascade_if_unfixed", 0.1),
                         1 if record.get("is_symptom_of_deeper_issue") else 0,
@@ -508,7 +534,7 @@ class AnalysisPipeline:
                 self.conn.execute(
                     """INSERT INTO issue_analyses
                        (issue_number, title, severity_tier, affected_scope, failure_mode,
-                        blast_radius, architectural_layer, p_happy_if_fixed, p_failure_cascade,
+                        blast_radius, system_layer, p_happy_if_fixed, p_failure_cascade,
                         is_symptom, suspected_root, confidence, raw_response, analyzed_at,
                         signal_id, signal_type, source, metadata, signal_fingerprint)
                        VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
@@ -519,7 +545,7 @@ class AnalysisPipeline:
                         record.get("affected_scope", "edge_case"),
                         record.get("failure_mode_if_unfixed", ""),
                         record.get("blast_radius", "none"),
-                        record.get("architectural_layer", "unknown"),
+                        record.get("system_layer", "unknown"),
                         record.get("p_happy_if_fixed", 0.5),
                         record.get("p_failure_cascade_if_unfixed", 0.1),
                         1 if record.get("is_symptom_of_deeper_issue") else 0,
@@ -769,7 +795,7 @@ class AnalysisPipeline:
             parsed = {
                 "chosen": [],
                 "deferred": [],
-                "architectural_insight": "Unable to determine — LLM call failed.",
+                "systemic_insight": "Unable to determine — LLM call failed.",
             }
 
         for choice in parsed.get("chosen", []):
@@ -818,14 +844,14 @@ class AnalysisPipeline:
         now = datetime.now(timezone.utc).isoformat()
         self.conn.execute(
             """INSERT INTO prioritization_runs
-               (id, budget, chosen, deferred, architectural_insight, run_at, predictions_json, outcomes_json)
+               (id, budget, chosen, deferred, systemic_insight, run_at, predictions_json, outcomes_json)
                VALUES (?,?,?,?,?,?,?,?)""",
             (
                 run_id,
                 budget,
                 json.dumps(result.get("chosen", [])),
                 json.dumps(result.get("deferred", [])),
-                result.get("architectural_insight", ""),
+                result.get("systemic_insight", ""),
                 now,
                 json.dumps(result.get("predictions", [])),
                 json.dumps(result.get("outcomes", [])),

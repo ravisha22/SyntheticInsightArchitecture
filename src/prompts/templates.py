@@ -9,8 +9,8 @@ import json
 # ── Stage 1: Individual Issue Analysis ──────────────────────────────
 
 ISSUE_ANALYSIS_SYSTEM = (
-    "You are a production engineering decision-maker analyzing software issues and operational signals. "
-    "You assess risk, scope, and architectural significance. "
+    "You are a systems decision-maker analyzing societal, civic, institutional, and operational signals. "
+    "You assess risk, scope, and systemic significance. "
     "Respond ONLY with valid JSON, no commentary."
 )
 
@@ -26,7 +26,7 @@ def issue_analysis_user(issue: dict) -> str:
     source = issue.get("source", "") or "unknown"
     metadata = json.dumps(issue.get("metadata", {}), indent=1)[:500]
 
-    return f"""Analyze this software issue or operational signal and assess its engineering risk.
+    return f"""Analyze this signal and assess its systemic risk.
 
 Issue #{reference_number}: {title}
 Title: {title}
@@ -43,7 +43,7 @@ Return a single JSON object with these fields:
   "affected_scope": "all_users|majority|significant_minority|edge_case|developer_only",
   "failure_mode_if_unfixed": "description of what breaks",
   "blast_radius": "cascading|service_degradation|feature_broken|inconvenience|none",
-  "architectural_layer": "core_internals|api_surface|integration|tooling|documentation",
+  "system_layer": "structural|policy|behavioral|resource|informational",
   "p_happy_if_fixed": <float 0.0-1.0>,
   "p_failure_cascade_if_unfixed": <float 0.0-1.0>,
   "is_symptom_of_deeper_issue": <true or false>,
@@ -55,9 +55,9 @@ Return a single JSON object with these fields:
 # ── Stage 2: Pattern / Root-Cause Clustering ────────────────────────
 
 PATTERN_DETECTION_SYSTEM = (
-    "You are an architect analyzing issue and signal patterns. You identify shared root causes "
-    "by mechanism, not by wording. Two signals about different features can share a "
-    "root cause if they stem from the same design decision. "
+    "You are analyzing issue and signal patterns across a complex system. You identify shared root causes "
+    "by mechanism, not by wording. Two signals about different services, communities, or symptoms can share a "
+    "root cause if they stem from the same structural weakness. "
     "Respond ONLY with valid JSON, no commentary."
 )
 
@@ -73,22 +73,22 @@ def pattern_detection_user(analyzed_issues: list[dict]) -> str:
             "title": iss.get("title", ""),
             "severity_tier": iss.get("severity_tier", "moderate"),
             "suspected_root_category": iss.get("suspected_root_category", "unknown"),
-            "architectural_layer": iss.get("architectural_layer", "unknown"),
+            "system_layer": iss.get("system_layer", "unknown"),
             "is_symptom_of_deeper_issue": iss.get("is_symptom_of_deeper_issue", False),
             "labels": iss.get("labels", []),
         })
 
-    return f"""Below are {len(summaries)} analyzed software issues or operational signals. Identify shared root causes by mechanism.
+    return f"""Below are {len(summaries)} analyzed signals. Identify shared root causes by mechanism.
 
 Issues:
 {json.dumps(summaries, indent=1)}
 
-Group issues that share a root architectural weakness. Return JSON:
+Group signals that share a root systemic weakness. Return JSON:
 {{
   "clusters": [
     {{
-      "root_cause": "description of shared architectural weakness",
-      "mechanism": "how the root cause manifests as bugs",
+      "root_cause": "description of shared systemic weakness",
+      "mechanism": "how the root cause manifests across signals",
       "issue_numbers": [<list of issue numbers in this cluster>],
       "signal_ids": [<list of canonical signal ids in this cluster>],
       "severity_if_unaddressed": "existential|major|moderate|minor",
@@ -104,9 +104,9 @@ Group issues that share a root architectural weakness. Return JSON:
 
 SCARCITY_PRIORITIZATION_SYSTEM = (
     "You are making triage decisions under extreme resource scarcity. "
-    "You can only address N problems. Every choice means something else doesn't get fixed. "
-    "Think about: what is existential? What cascades? What affects the most users? "
-    "What is a single fix that resolves multiple symptoms? "
+    "You can only fund or execute N interventions. Every choice means something else does not get addressed. "
+    "Think about: what is existential? What cascades? What affects the most people? "
+    "What is a single intervention that resolves multiple symptoms? "
     "Respond ONLY with valid JSON, no commentary."
 )
 
@@ -125,19 +125,19 @@ def scarcity_prioritization_user(
             "blast_radius": iss.get("blast_radius", "none"),
         })
 
-    return f"""You have a budget of {budget} fixes. Choose wisely.
+    return f"""You have a budget of {budget} interventions. Choose wisely.
 
 Root-Cause Clusters:
 {json.dumps(clusters, indent=1)}
 
-All analyzed issues (summary):
+All analyzed signals (summary):
 {json.dumps(issue_summary, indent=1)}
 
 Return JSON:
 {{
   "chosen": [
     {{
-      "target": "what to fix (cluster root cause or individual issue)",
+      "target": "what to address (cluster root cause or individual signal)",
       "why": "reasoning",
       "issues_resolved": [<issue numbers>],
       "signal_ids_resolved": [<canonical signal ids>],
@@ -153,7 +153,7 @@ Return JSON:
       "why_deferred": "reasoning"
     }}
   ],
-  "architectural_insight": "The single most impactful architectural change that would prevent the most recurring failures"
+  "systemic_insight": "The single most impactful systemic intervention that would prevent the most recurring failures"
 }}"""
 
 
@@ -161,7 +161,7 @@ Return JSON:
 
 EVIDENCE_GROUNDING_SYSTEM = (
     "You are validating risk assessments against external evidence. "
-    "Given search results about known failure patterns, CVEs, and industry practices, "
+    "Given search results about known patterns, public reporting, and institutional practices, "
     "revise your assessment. "
     "Respond ONLY with valid JSON, no commentary."
 )

@@ -9,7 +9,9 @@ from .base import ModelAdapter
 # Severity keyword heuristics
 _SEVERITY_RULES = [
     (r"security|vulnerability|injection|auth|CVE", "existential"),
+    (r"death|fatal|suicide|overdose|eviction|homeless|displacement|violence|abuse|starvation|outbreak", "existential"),
     (r"crash|error|fail|broken|corrupt|data.?loss", "major"),
+    (r"waitlist|shortage|backlog|reoffend|unhoused|shelter|benefit|service gap|dropout", "major"),
     (r"performance|slow|memory|leak|regression", "major"),
     (r"warning|deprecat|FutureWarning", "minor"),
     (r"typo|doc|documentation|example", "cosmetic"),
@@ -19,60 +21,100 @@ _TIER_ORDER = {"existential": 0, "major": 1, "moderate": 2, "minor": 3, "cosmeti
 
 _GENERIC_ROOT_RULES = [
     {
-        "pattern": r"security|vulnerability|injection|auth|cve|xss|csrf|credential|token|permission|bypass",
+        "pattern": r"\b(security|vulnerability|injection|auth|cve|xss|csrf|credential|token|permission|bypass)\b",
         "root": "security_boundary",
-        "layer": "core_internals",
+        "layer": "structural",
         "severity": "existential",
         "mechanism": "Weak security boundaries allow failures to cascade across the system",
         "blast_radius": "cascading",
     },
     {
-        "pattern": r"copy|view|shared memory|mutation|consistency|chained.?assign|state",
+        "pattern": r"\b(copy|view|shared memory|mutation|consistency|chained.?assign|state)\b",
         "root": "state_semantics",
-        "layer": "core_internals",
+        "layer": "structural",
         "severity": "major",
         "mechanism": "Ambiguous state or mutation semantics cause inconsistent behavior across operations",
         "blast_radius": "feature_broken",
     },
     {
-        "pattern": r"performance|slow|memory|leak|latency|throughput|regression|oom|deadlock|timeout",
+        "pattern": r"\b(performance|slow|memory|leak|latency|throughput|regression|oom|deadlock|timeout)\b",
         "root": "performance_reliability",
-        "layer": "core_internals",
+        "layer": "resource",
         "severity": "major",
         "mechanism": "Performance and reliability weaknesses degrade service quality under load",
         "blast_radius": "service_degradation",
     },
     {
-        "pattern": r"nullable|null|none|type|dtype|schema|coercion|serialization|deserialization",
+        "pattern": r"\b(nullable|null|none|type|dtype|schema|coercion|serialization|deserialization)\b",
         "root": "type_system",
-        "layer": "core_internals",
+        "layer": "structural",
         "severity": "major",
         "mechanism": "Type-system inconsistencies create fragile behavior at data boundaries",
         "blast_radius": "feature_broken",
     },
     {
-        "pattern": r"network|connection|socket|proxy|dns|http|tls|ssl|retry|request|response",
+        "pattern": r"\b(network|connection|socket|proxy|dns|http|tls|ssl|retry)\b|api request|api response",
         "root": "network_reliability",
-        "layer": "integration",
+        "layer": "resource",
         "severity": "major",
         "mechanism": "Network and protocol handling weaknesses break integration reliability",
         "blast_radius": "service_degradation",
     },
     {
-        "pattern": r"index|query|lookup|search|filter|path|routing",
+        "pattern": r"\b(index|query|lookup|search|filter|path|routing)\b",
         "root": "access_path_logic",
-        "layer": "api_surface",
+        "layer": "informational",
         "severity": "moderate",
         "mechanism": "Access-path logic is inconsistent across similar usage patterns",
         "blast_radius": "feature_broken",
     },
     {
-        "pattern": r"parse|parser|csv|json|io|import|export|encoding|format",
+        "pattern": r"\b(parse|parser|csv|json|import|export|encoding|format)\b|i/o",
         "root": "io_contract",
-        "layer": "integration",
+        "layer": "informational",
         "severity": "moderate",
         "mechanism": "I/O contract mismatches cause parsing and interoperability failures",
         "blast_radius": "feature_broken",
+    },
+    {
+        "pattern": r"\b(housing|shelter|eviction|rent|homeless|unhoused|displacement)\b",
+        "root": "housing_instability",
+        "layer": "structural",
+        "severity": "existential",
+        "mechanism": "Housing instability turns isolated hardships into recurring systemic crises",
+        "blast_radius": "cascading",
+    },
+    {
+        "pattern": r"\b(mental|health|trauma|addiction|overdose|treatment|clinic|care|therapy|counseling)\b",
+        "root": "care_access_gap",
+        "layer": "resource",
+        "severity": "major",
+        "mechanism": "Care access gaps leave high-risk needs untreated until they escalate elsewhere",
+        "blast_radius": "service_degradation",
+    },
+    {
+        "pattern": r"\b(benefit|income|wage|debt|arrears|food|utility|employment|voucher)\b",
+        "root": "economic_fragility",
+        "layer": "policy",
+        "severity": "major",
+        "mechanism": "Economic fragility compounds every other failure because people cannot absorb shocks",
+        "blast_radius": "cascading",
+    },
+    {
+        "pattern": r"\b(trust|misinformation|disinformation|rumor|credibility|engagement|turnout)\b",
+        "root": "trust_breakdown",
+        "layer": "informational",
+        "severity": "major",
+        "mechanism": "Information trust breakdown causes people to disengage from effective support and coordination",
+        "blast_radius": "service_degradation",
+    },
+    {
+        "pattern": r"\b(agency|agencies|handoff|referral|fragmented|fragmentation|coordination|bureaucracy|caseworker)\b",
+        "root": "institutional_fragmentation",
+        "layer": "policy",
+        "severity": "major",
+        "mechanism": "Fragmented institutions turn one underlying need into repeated failures across disconnected services",
+        "blast_radius": "cascading",
     },
 ]
 
@@ -123,14 +165,14 @@ class MockAdapter(ModelAdapter):
         """Produce deterministic structured JSON based on prompt content."""
         system_lower = system.lower()
         # Detect which stage we're in from the system prompt
-        if "analyzing software issues" in system_lower:
-            return self._analyze_issue(user)
-        elif "issue patterns" in system_lower or "signal patterns" in system_lower:
+        if "issue patterns" in system_lower or "signal patterns" in system_lower:
             return self._detect_patterns(user)
         elif "scarcity" in system_lower:
             return self._prioritize(user)
         elif "validating risk" in system_lower:
             return self._evidence_grounding(user)
+        elif "analyzing" in system_lower and ("signal" in system_lower or "issue" in system_lower):
+            return self._analyze_issue(user)
 
         return {"error": "unrecognized prompt type"}
 
@@ -167,7 +209,7 @@ class MockAdapter(ModelAdapter):
 
         rule = self._match_generic_rule(combined)
         root = rule["root"] if rule else "general"
-        architectural_layer = rule["layer"] if rule else "api_surface"
+        system_layer = rule["layer"] if rule else "structural"
         blast_radius = rule["blast_radius"] if rule else {
             "existential": "cascading",
             "major": "service_degradation",
@@ -194,7 +236,7 @@ class MockAdapter(ModelAdapter):
             "affected_scope": affected_scope,
             "failure_mode_if_unfixed": failure_mode,
             "blast_radius": blast_radius,
-            "architectural_layer": architectural_layer,
+            "system_layer": system_layer,
             "p_happy_if_fixed": round(0.4 + _TIER_ORDER.get(severity, 2) * -0.05 + 0.3, 2),
             "p_failure_cascade_if_unfixed": round(max(0.0, 0.5 - _TIER_ORDER.get(severity, 2) * 0.1), 2),
             "is_symptom_of_deeper_issue": is_symptom,
@@ -291,12 +333,12 @@ class MockAdapter(ModelAdapter):
                 })
 
         insight = (
-            "The highest-leverage architectural change is to address the top-ranked root cause "
+            "The highest-leverage systemic intervention is to address the top-ranked root cause "
             "that combines the highest severity with the broadest issue coverage under current scarcity."
         )
         if chosen:
             insight = (
-                f"The highest-leverage architectural change is to address {chosen[0]['target']}, "
+                f"The highest-leverage systemic intervention is to address {chosen[0]['target']}, "
                 f"because it combines {chosen[0]['tier']} severity with the broadest issue coverage "
                 "under current scarcity."
             )
@@ -304,7 +346,7 @@ class MockAdapter(ModelAdapter):
         return {
             "chosen": chosen,
             "deferred": deferred,
-            "architectural_insight": insight,
+            "systemic_insight": insight,
         }
 
     def _evidence_grounding(self, user_prompt: str) -> dict:
