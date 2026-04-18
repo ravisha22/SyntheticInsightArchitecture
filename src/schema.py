@@ -237,6 +237,46 @@ CREATE TABLE IF NOT EXISTS traces (
 CREATE VIRTUAL TABLE IF NOT EXISTS search_index USING fts5(
     content, entity_id, source_type
 );
+
+-- LLM issue analyses
+CREATE TABLE IF NOT EXISTS issue_analyses (
+    issue_number INTEGER PRIMARY KEY,
+    title TEXT,
+    severity_tier TEXT,
+    affected_scope TEXT,
+    failure_mode TEXT,
+    blast_radius TEXT,
+    architectural_layer TEXT,
+    p_happy_if_fixed REAL,
+    p_failure_cascade REAL,
+    is_symptom INTEGER,
+    suspected_root TEXT,
+    confidence REAL,
+    raw_response TEXT,
+    analyzed_at TEXT
+);
+
+-- Root cause clusters
+CREATE TABLE IF NOT EXISTS root_cause_clusters (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    root_cause TEXT NOT NULL,
+    mechanism TEXT,
+    severity TEXT,
+    confidence REAL,
+    issue_numbers TEXT,  -- JSON array
+    run_id TEXT,
+    created_at TEXT
+);
+
+-- Prioritization runs
+CREATE TABLE IF NOT EXISTS prioritization_runs (
+    id TEXT PRIMARY KEY,
+    budget INTEGER,
+    chosen TEXT,  -- JSON
+    deferred TEXT,  -- JSON
+    architectural_insight TEXT,
+    run_at TEXT
+);
 """
 
 def init_db(db_path: str = "sia_state.db") -> sqlite3.Connection:

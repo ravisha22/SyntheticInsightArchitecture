@@ -22,3 +22,8 @@ class ModelAdapter(ABC):
     def classify(self, text: str, categories: List[str]) -> Dict[str, float]:
         """Classify text into categories with confidence scores."""
         pass
+
+    @abstractmethod
+    def analyze(self, system: str, user: str, json_schema: dict = None) -> dict:
+        """Generate a structured JSON response."""
+        pass
