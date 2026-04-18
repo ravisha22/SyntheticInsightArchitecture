@@ -27,3 +27,9 @@ Thumbs.db
 .env
 *.pem
 *.key
+
+# Simulation artifacts
+pagerank_sim.db
+pagerank_trace.jsonl
+*.db
+!src/**
