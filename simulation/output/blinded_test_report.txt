@@ -1,58 +1,58 @@
 ## Blinded Report
 - Grounding enabled: NO
 
-### Scored historical outcomes
-- copy/view semantics -> PDEP-7 Copy-on-Write
-- extension array internals -> nullable dtype / ExtensionArray investment
+### Scored observed outcomes
+- housing instability -> reduced repeat crisis use after placement loss
+- institutional fragmentation -> reduced cross-agency intake restarts
 
-### Condition A (Real pandas issues on AnalysisPipeline)
+### Condition A (Real generalized signals on AnalysisPipeline)
 Pass: YES
 - Hits: 2
-- Precision: 0.400
+- Precision: 0.500
 - Recall: 1.000
-- Matched outcomes: copy/view semantics, extension array internals
-- Shared weakness in copy view semantics | tier=existential | issues=22
-- Shared weakness in copy view semantics | tier=existential | issues=2
-- Shared weakness in performance internals | tier=major | issues=15
+- Matched outcomes: housing instability, institutional fragmentation
+- Shared weakness in housing instability | tier=existential | issues=2
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in institutional fragmentation | tier=major | issues=2
 
 ### Condition B (Decoy metadata invariance)
 Pass: YES
 - Target drift: none
 - Hits: 2
-- Precision: 0.400
+- Precision: 0.500
 - Recall: 1.000
-- Matched outcomes: copy/view semantics, extension array internals
-- Shared weakness in copy view semantics | tier=existential | issues=22
-- Shared weakness in copy view semantics | tier=existential | issues=2
-- Shared weakness in performance internals | tier=major | issues=15
+- Matched outcomes: housing instability, institutional fragmentation
+- Shared weakness in housing instability | tier=existential | issues=2
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in institutional fragmentation | tier=major | issues=2
 
 ### Condition C (Tag-shuffle control)
 Pass: YES
 - Real hits: 2
 - Shuffled hits: 1
-- Real precision: 0.400
-- Shuffled precision: 0.200
-- Shared weakness in copy view semantics | tier=existential | issues=9
-- Shared weakness in copy view semantics | tier=existential | issues=9
-- Shared weakness in copy view semantics | tier=existential | issues=5
+- Real precision: 0.500
+- Shuffled precision: 0.333
+- Shared weakness in security boundary | tier=existential | issues=3
+- Shared weakness in housing instability | tier=existential | issues=2
+- Shared weakness in care access gap | tier=major | issues=2
 
-### Condition D (Non-convergent corpus vs pandas outcomes)
+### Condition D (Non-convergent corpus vs observed systemic outcomes)
 Pass: YES
 - Real hits: 2
 - Non-convergent hits: 0
-- Real precision: 0.400
+- Real precision: 0.500
 - Non-convergent precision: 0.000
 - No chosen priorities
 
 ### Baseline comparison
 Pass: YES
 - Pipeline hits: 2
-- Baseline hits: 1
-- Pipeline precision: 0.400
-- Baseline precision: 0.125
-- Top keyword terms: bug, index, dataframe, series, perf, 1, dtype, 0, pandas, regression
-- Top keyword groups: bug (36); index (16); dataframe (17); series (15); perf (11)
-- Top label clusters: Bug + ExtensionArray + NA - MaskedArrays (12); Bug + Missing-data + Groupby (9); Indexing + Regression + MultiIndex (9)
+- Baseline hits: 0
+- Pipeline precision: 0.500
+- Baseline precision: 0.000
+- Top keyword terms: fail, repeat, crisis, placement, loss, short, income, shocks, trigger, another
+- Top keyword groups: 
+- Top label clusters: Eviction + Housing (1); Eviction + Shelter (1); Housing + Shelter (1)
 
 ### Overall verdict
 - Condition A: PASS

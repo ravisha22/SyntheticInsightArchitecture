@@ -1,4 +1,4 @@
-"""Run blinded AnalysisPipeline tests against issue corpora."""
+"""Run blinded generalized AnalysisPipeline tests against cross-domain signal corpora."""
 from __future__ import annotations
 
 import json
@@ -17,10 +17,13 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from simulation.baselines import run_baselines
-from simulation.scenarios.control_decoy import build_decoy_seed_scenario
-from simulation.scenarios.control_nonconvergent import build_nonconvergent_scenario
-from simulation.scenarios.pandas_real import build_pandas_scenario, build_tag_shuffle_control
-from src.adapters.mock_pandas import PandasMockAdapter
+from simulation.scenarios.generalized_blinded import (
+    build_decoy_seed_scenario,
+    build_generalized_scenario,
+    build_nonconvergent_scenario,
+    build_tag_shuffle_control,
+)
+from src.adapters.mock import MockAdapter
 from src.schema import init_db
 from src.services.analysis_pipeline import AnalysisPipeline
 
@@ -28,22 +31,6 @@ RANDOM_SEED = 7
 BUDGET = 5
 OUTPUT_DIR = ROOT / "simulation" / "output"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-PANDAS_OBSERVED_OUTCOMES = [
-    {
-        "label": "copy/view semantics",
-        "target": "Shared weakness in copy view semantics",
-        "target_contains": ["copy", "view"],
-        "observed": True,
-        "detail": "PDEP-7 Copy-on-Write addressed the dominant silent corruption risk.",
-    },
-    {
-        "label": "extension array internals",
-        "target": "Shared weakness in extension array internals",
-        "target_contains": ["extension", "array"],
-        "observed": True,
-        "detail": "ExtensionArray and nullable dtype work became a persistent architectural investment.",
-    },
-]
 
 
 def set_reproducible_seed() -> None:
@@ -52,50 +39,42 @@ def set_reproducible_seed() -> None:
         np.random.seed(RANDOM_SEED)
 
 
-def scenario_repo(slug: str) -> str:
-    return "psf/requests" if slug == "condition_d" else "pandas-dev/pandas"
-
-
-def scenario_source(slug: str) -> str:
-    return "requests" if slug == "condition_d" else "pandas"
-
-
-def grounding_config(repo: str) -> dict:
+def grounding_config() -> dict:
     enabled = os.getenv("SIA_ENABLE_GROUNDING", "").strip().lower() in {"1", "true", "yes"}
-    if not enabled:
+    repo = os.getenv("SIA_GROUNDING_REPO", "").strip()
+    if not enabled or not repo:
         return {}
     return {"grounding": {"enabled": True, "repo": repo}}
 
 
-def observed_outcomes_for(slug: str) -> list[dict]:
-    if slug in {"condition_a", "condition_b", "condition_c", "condition_d"}:
-        return [dict(outcome) for outcome in PANDAS_OBSERVED_OUTCOMES]
-    return []
-
-
 def scenario_to_signals(issues: list[dict], slug: str) -> list[dict]:
-    source = scenario_source(slug)
-    return [
-        {
-            "signal_id": f"{source}:{issue['number']}",
-            "signal_type": "bug_report",
-            "source": source,
-            "title": issue["title"],
-            "body": issue.get("body", ""),
-            "tags": issue.get("tags", []),
-            "metadata": {
-                "repo": scenario_repo(slug),
-                "created_at": issue.get("created_at"),
-                "closed_at": issue.get("closed_at"),
-                "comments": issue.get("comments", 0),
-                "labels": issue.get("labels", []),
-            },
-        }
-        for issue in issues
-    ]
+    signals = []
+    for issue in issues:
+        labels = list(issue.get("labels", []))
+        source = issue.get("source", "scenario")
+        signals.append(
+            {
+                "signal_id": str(issue.get("signal_id", f"{source}:{issue['number']}")),
+                "signal_type": issue.get("signal_type", "other"),
+                "source": source,
+                "title": issue["title"],
+                "body": issue.get("body", ""),
+                "tags": list(issue.get("tags", labels)),
+                "metadata": {
+                    "labels": labels,
+                    "seed_hypothesis": issue.get("seed_hypothesis", ""),
+                },
+            }
+        )
+    return signals
 
 
-def run_condition(name: str, scenario: dict, slug: str) -> dict:
+def run_condition(
+    name: str,
+    scenario: dict,
+    slug: str,
+    observed_outcomes: list[dict] | None = None,
+) -> dict:
     db_path = OUTPUT_DIR / f"{slug}.db"
     if db_path.exists():
         db_path.unlink()
@@ -103,24 +82,27 @@ def run_condition(name: str, scenario: dict, slug: str) -> dict:
     conn = init_db(str(db_path))
     pipeline = AnalysisPipeline(
         conn,
-        PandasMockAdapter(seed=RANDOM_SEED),
-        config=grounding_config(scenario_repo(slug)),
+        MockAdapter(seed=RANDOM_SEED),
+        config=grounding_config(),
     )
-    report = pipeline.run_full_pipeline(scenario_to_signals(scenario["issues"], slug), budget=BUDGET)
-    observed_outcomes = observed_outcomes_for(slug)
+    report = pipeline.run_full_pipeline(
+        scenario_to_signals(scenario["issues"], slug),
+        budget=BUDGET,
+    )
+    scoped_outcomes = [dict(outcome) for outcome in (observed_outcomes or scenario.get("observed_outcomes", []))]
     run_id = report["prioritization"].get("run_id")
     score = (
-        pipeline.score_predictions(run_id, observed_outcomes)
+        pipeline.score_predictions(run_id, scoped_outcomes)
         if run_id
         else {
             "run_id": None,
             "hit_count": 0,
             "miss_count": 0,
-            "observed_positive_count": len(observed_outcomes),
+            "observed_positive_count": len(scoped_outcomes),
             "precision": 0.0,
             "recall": 0.0,
             "scored_predictions": [],
-            "unmatched_outcomes": observed_outcomes,
+            "unmatched_outcomes": scoped_outcomes,
         }
     )
     conn.close()
@@ -130,9 +112,9 @@ def run_condition(name: str, scenario: dict, slug: str) -> dict:
         "issues": scenario["issues"],
         "report": report,
         "score": score,
-        "observed_outcomes": observed_outcomes,
+        "observed_outcomes": scoped_outcomes,
         "db_path": str(db_path),
-        "grounding_enabled": bool(grounding_config(scenario_repo(slug))),
+        "grounding_enabled": bool(grounding_config()),
     }
 
 
@@ -258,16 +240,22 @@ def score_lines(result: dict) -> list[str]:
 def main() -> None:
     set_reproducible_seed()
 
-    pandas_real = build_pandas_scenario(limit=120, include_data_derived_seeds=True, shuffle_tags=False)
-    pandas_decoy = build_decoy_seed_scenario(limit=120)
-    pandas_shuffle = build_tag_shuffle_control(limit=120)
-    nonconvergent = build_nonconvergent_scenario(limit=100)
+    real_scenario = build_generalized_scenario()
+    decoy_scenario = build_decoy_seed_scenario()
+    shuffled_scenario = build_tag_shuffle_control(seed=RANDOM_SEED)
+    nonconvergent = build_nonconvergent_scenario()
+    observed_outcomes = real_scenario["observed_outcomes"]
 
-    baselines = run_baselines(pandas_real["issues"])
-    result_a = run_condition("Condition A", pandas_real, "condition_a")
-    result_b = run_condition("Condition B", pandas_decoy, "condition_b")
-    result_c = run_condition("Condition C", pandas_shuffle, "condition_c")
-    result_d = run_condition("Condition D", nonconvergent, "condition_d")
+    baselines = run_baselines(real_scenario["issues"])
+    result_a = run_condition("Condition A", real_scenario, "condition_a")
+    result_b = run_condition("Condition B", decoy_scenario, "condition_b")
+    result_c = run_condition("Condition C", shuffled_scenario, "condition_c")
+    result_d = run_condition(
+        "Condition D",
+        nonconvergent,
+        "condition_d",
+        observed_outcomes=observed_outcomes,
+    )
 
     verdict_a = condition_a_pass(result_a)
     verdict_b, target_drift = condition_b_pass(result_a, result_b)
@@ -279,11 +267,11 @@ def main() -> None:
         "## Blinded Report",
         f"- Grounding enabled: {'YES' if result_a['grounding_enabled'] else 'NO'}",
         "",
-        "### Scored historical outcomes",
-        "- copy/view semantics -> PDEP-7 Copy-on-Write",
-        "- extension array internals -> nullable dtype / ExtensionArray investment",
+        "### Scored observed outcomes",
+        "- housing instability -> reduced repeat crisis use after placement loss",
+        "- institutional fragmentation -> reduced cross-agency intake restarts",
         "",
-        "### Condition A (Real pandas issues on AnalysisPipeline)",
+        "### Condition A (Real generalized signals on AnalysisPipeline)",
         f"Pass: {'YES' if verdict_a else 'NO'}",
         *score_lines(result_a),
         *top_choice_lines(result_a),
@@ -302,7 +290,7 @@ def main() -> None:
         f"- Shuffled precision: {result_c['score']['precision']:.3f}",
         *top_choice_lines(result_c),
         "",
-        "### Condition D (Non-convergent corpus vs pandas outcomes)",
+        "### Condition D (Non-convergent corpus vs observed systemic outcomes)",
         f"Pass: {'YES' if verdict_d else 'NO'}",
         f"- Real hits: {result_a['score']['hit_count']}",
         f"- Non-convergent hits: {result_d['score']['hit_count']}",

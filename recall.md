@@ -16,17 +16,15 @@
 - The live pipeline now has a generalized signal baseline with canonical signal identity, DB-backed conflict guards, legacy issue-path separation, backward-compatible wrappers, and additive Stage 2.5 evidence grounding.
 - Grounding is now wired into `AnalysisPipeline` before scarcity prioritization and can be enabled with an injected grounder or `SIA_GROUNDING_REPO`.
 - Prioritization runs now persist structured prediction records, outcomes state, and evaluation summaries for later comparison.
-- `simulation\run_blinded_test.py` now runs the same generalized `AnalysisPipeline` path and scores predictions against observed outcomes instead of using the old `SIAEngine` seed/goal path.
-- `python -m simulation.run_llm_analysis` still gives the same 2/3 pandas canary result.
-- The generalized evaluation bar is now met on the deterministic harness, though grounding remains opt-in and the legacy canary still trails at 2/3.
+- `simulation\run_blinded_test.py` is now the generalized deterministic evaluation entrypoint and is wired to `simulation\scenarios\generalized_blinded.py`.
+- The pandas-specific mock adapter, pandas scenario corpora, and pandas-only runners have been removed from the repo.
+- The generalized evaluation bar is met on the deterministic harness, and the remaining validation work is broadening corpora rather than removing legacy pandas paths.
 - A new reusable skill package now exists at `.github\skills\problem-intelligence-factory\` to scaffold scenario-specific collection, filtering, prioritization, and intervention bundles for any domain.
 
 ## Drift To Correct
-- `simulation\run_llm_analysis.py` is still a legacy issue-shaped compatibility canary and remains at 2/3, so it no longer represents the strongest evaluation path.
 - Live grounding is still disabled by default in local runs unless `SIA_ENABLE_GROUNDING` is set.
 - `ImmersionEngine`, `VerificationHarness`, `IntegrationEngine`, and `SocialLedger` exist but are not wired into `SIAEngine`.
-- The pandas harness remains a compatibility corpus, not a generalized validation corpus.
-- The new skill factory exists, but the main repo still needs its remaining pandas-shaped scenarios, scripts, and tests replaced with generalized assets.
+- The new skill factory exists, but the repo still needs broader non-code scenario bundles and live-grounded validation corpora.
 
 ## Session Proof
 - Reviewed full repo layout, formal spec, tests, simulations, cached corpora, and recorded outputs.
@@ -53,7 +51,7 @@
 - Completed the Phase 3 evaluation slice:
   - added `evaluation_json` persistence and `score_predictions()` on `AnalysisPipeline`
   - moved blinded evaluation onto generalized signals passed through the live pipeline
-  - scored predictions against observed pandas outcomes instead of goal-seed heuristics
+  - scored predictions against observed outcomes instead of goal-seed heuristics
   - made decoy, shuffle, non-convergent, and baseline checks operate on the same persisted predictions
   - fixed outcome-matching deduplication so scoring is not order-dependent
   - expanded regression coverage to 52 passing tests
@@ -67,13 +65,14 @@
 
 ## Action Plan
 1. Remove pandas-specific logic from `src\` and keep pandas only as an optional evaluation corpus.
+   **Done; pandas-specific adapter and corpora removed.**
 2. Introduce a generalized signal schema for bug reports, incidents, feedback, support, audits, news, and trends. **Done for baseline pipeline path.**
 3. Make LLM reasoning primary for analysis, clustering, commitment, and prioritization; keep Python as the constraint and persistence layer.
 4. Wire evidence grounding into the live pipeline before final prioritization. **Done for the live pipeline path.**
 5. Add prediction-vs-outcome evaluation and rerun blinded tests until real signal beats decoys, shuffles, and baselines. **Done on the deterministic generalized pipeline path.**
-6. Replace the remaining pandas-shaped simulations, tests, and canaries with generalized or social-system scenario assets.
+6. Replace the remaining pandas-shaped simulations, tests, and canaries with generalized or social-system scenario assets. **Done for the repo default path.**
 7. Use the problem-intelligence factory to standardize future scenario bundles around 360-degree evidence gathering, filtering, prioritization, and predicted outcomes.
 
 ## Resume Here
-- Immediate next focus: finish removing pandas-shaped scenarios and tests, then rerun the generalized harness on replacement corpora produced with the new factory workflow.
+- Immediate next focus: widen generalized scenario coverage and validate live-grounded runs beyond the deterministic mock.
 - Success bar: the system reasons over arbitrary signals without repo-specific heuristics, bundles scenario intelligence from broad evidence, and maintains measurable prediction quality with live grounding enabled.

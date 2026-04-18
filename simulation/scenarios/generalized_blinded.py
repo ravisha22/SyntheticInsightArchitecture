@@ -6,7 +6,7 @@ import random
 REAL_ISSUES = [
     {
         "number": 1,
-        "signal_type": "complaint",
+        "signal_type": "community_report",
         "source": "community-feedback",
         "title": "Repeat crisis use after placement loss",
         "body": "Households return within weeks after losing what looked like stable placement.",
@@ -14,7 +14,7 @@ REAL_ISSUES = [
     },
     {
         "number": 2,
-        "signal_type": "complaint",
+        "signal_type": "community_report",
         "source": "community-feedback",
         "title": "Short income shocks trigger another emergency cycle",
         "body": "Residents re-enter crisis response after falling behind on basic costs.",
@@ -22,7 +22,7 @@ REAL_ISSUES = [
     },
     {
         "number": 3,
-        "signal_type": "case_note",
+        "signal_type": "field_observation",
         "source": "frontline-ops",
         "title": "Residents restart intake at every referral step",
         "body": "People repeat the same paperwork and eligibility checks after each handoff.",
@@ -30,7 +30,7 @@ REAL_ISSUES = [
     },
     {
         "number": 4,
-        "signal_type": "case_note",
+        "signal_type": "field_observation",
         "source": "frontline-ops",
         "title": "Case history disappears between providers",
         "body": "Frontline staff cannot see prior decisions when clients move between services.",
