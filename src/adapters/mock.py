@@ -15,28 +15,68 @@ _SEVERITY_RULES = [
     (r"typo|doc|documentation|example", "cosmetic"),
 ]
 
-# Label-to-root-cause mapping
-_LABEL_ROOT_CAUSE = {
-    "Copy / view semantics": "copy_view_semantics",
-    "Copy/View": "copy_view_semantics",
-    "ExtensionArray": "extension_array_internals",
-    "Performance": "performance_internals",
-    "Indexing": "indexing_api",
-    "Categorical": "categorical_internals",
-    "Timedelta": "datetime_internals",
-    "Datetime": "datetime_internals",
-    "Missing-data": "missing_data_handling",
-    "NA": "missing_data_handling",
-    "Nullable": "extension_array_internals",
-    "Dtype Conversions": "dtype_conversion",
-    "MultiIndex": "indexing_api",
-    "Reshaping": "reshaping_internals",
-    "Groupby": "groupby_internals",
-    "IO CSV": "io_internals",
-    "IO JSON": "io_internals",
-}
-
 _TIER_ORDER = {"existential": 0, "major": 1, "moderate": 2, "minor": 3, "cosmetic": 4}
+
+_GENERIC_ROOT_RULES = [
+    {
+        "pattern": r"security|vulnerability|injection|auth|cve|xss|csrf|credential|token|permission|bypass",
+        "root": "security_boundary",
+        "layer": "core_internals",
+        "severity": "existential",
+        "mechanism": "Weak security boundaries allow failures to cascade across the system",
+        "blast_radius": "cascading",
+    },
+    {
+        "pattern": r"copy|view|shared memory|mutation|consistency|chained.?assign|state",
+        "root": "state_semantics",
+        "layer": "core_internals",
+        "severity": "major",
+        "mechanism": "Ambiguous state or mutation semantics cause inconsistent behavior across operations",
+        "blast_radius": "feature_broken",
+    },
+    {
+        "pattern": r"performance|slow|memory|leak|latency|throughput|regression|oom|deadlock|timeout",
+        "root": "performance_reliability",
+        "layer": "core_internals",
+        "severity": "major",
+        "mechanism": "Performance and reliability weaknesses degrade service quality under load",
+        "blast_radius": "service_degradation",
+    },
+    {
+        "pattern": r"nullable|null|none|type|dtype|schema|coercion|serialization|deserialization",
+        "root": "type_system",
+        "layer": "core_internals",
+        "severity": "major",
+        "mechanism": "Type-system inconsistencies create fragile behavior at data boundaries",
+        "blast_radius": "feature_broken",
+    },
+    {
+        "pattern": r"network|connection|socket|proxy|dns|http|tls|ssl|retry|request|response",
+        "root": "network_reliability",
+        "layer": "integration",
+        "severity": "major",
+        "mechanism": "Network and protocol handling weaknesses break integration reliability",
+        "blast_radius": "service_degradation",
+    },
+    {
+        "pattern": r"index|query|lookup|search|filter|path|routing",
+        "root": "access_path_logic",
+        "layer": "api_surface",
+        "severity": "moderate",
+        "mechanism": "Access-path logic is inconsistent across similar usage patterns",
+        "blast_radius": "feature_broken",
+    },
+    {
+        "pattern": r"parse|parser|csv|json|io|import|export|encoding|format",
+        "root": "io_contract",
+        "layer": "integration",
+        "severity": "moderate",
+        "mechanism": "I/O contract mismatches cause parsing and interoperability failures",
+        "blast_radius": "feature_broken",
+    },
+]
+
+_GENERIC_RULE_INDEX = {rule["root"]: rule for rule in _GENERIC_ROOT_RULES}
 
 
 class MockAdapter(ModelAdapter):
@@ -81,84 +121,69 @@ class MockAdapter(ModelAdapter):
 
     def analyze(self, system: str, user: str, json_schema: dict = None) -> dict:
         """Produce deterministic structured JSON based on prompt content."""
-        combined = (system + " " + user).lower()
-
+        system_lower = system.lower()
         # Detect which stage we're in from the system prompt
-        if "analyzing software issues" in system.lower():
-            return self._mock_issue_analysis(user)
-        elif "analyzing issue patterns" in system.lower():
-            return self._mock_pattern_detection(user)
-        elif "scarcity" in system.lower():
-            return self._mock_prioritization(user)
-        elif "validating risk" in system.lower():
-            return self._mock_evidence_grounding(user)
+        if "analyzing software issues" in system_lower:
+            return self._analyze_issue(user)
+        elif "issue patterns" in system_lower or "signal patterns" in system_lower:
+            return self._detect_patterns(user)
+        elif "scarcity" in system_lower:
+            return self._prioritize(user)
+        elif "validating risk" in system_lower:
+            return self._evidence_grounding(user)
 
         return {"error": "unrecognized prompt type"}
 
-    def _mock_issue_analysis(self, user_prompt: str) -> dict:
-        title_match = re.search(r"Issue #\d+:\s*(.+)", user_prompt)
-        title = title_match.group(1).strip() if title_match else ""
+    def _match_generic_rule(self, text: str) -> dict | None:
+        for rule in _GENERIC_ROOT_RULES:
+            if re.search(rule["pattern"], text, re.IGNORECASE):
+                return rule
+        return None
+
+    def _analyze_issue(self, user_prompt: str) -> dict:
+        title_match = re.search(r"Issue #-?\d+:\s*(.+)", user_prompt)
+        if title_match:
+            title = title_match.group(1).strip()
+        else:
+            title_match = re.search(r"Title:\s*(.+)", user_prompt)
+            title = title_match.group(1).strip() if title_match else ""
+        desc_match = re.search(
+            r"Description(?: \(snippet\))?:\s*(.*?)(?:\nMetadata:|\nReturn a single JSON object|$)",
+            user_prompt,
+            re.DOTALL,
+        )
+        description = desc_match.group(1).strip() if desc_match else ""
         labels_match = re.search(r"Labels:\s*(.+)", user_prompt)
         labels_str = labels_match.group(1).strip() if labels_match else ""
         labels = [l.strip() for l in labels_str.split(",") if l.strip()]
+        combined = " ".join(part for part in (title, description, labels_str) if part)
 
-        # Determine severity from title keywords
+        # Determine severity from generic issue cues
         severity = "moderate"
         for pattern, tier in _SEVERITY_RULES:
-            if re.search(pattern, title, re.IGNORECASE):
+            if re.search(pattern, combined, re.IGNORECASE):
                 severity = tier
                 break
 
-        # Determine root cause from labels (prefer high-signal labels)
-        root = "general"
-        priority_labels = [
-            "Copy / view semantics", "Copy/View", "ExtensionArray",
-            "Performance", "Missing-data", "NA", "Nullable",
-        ]
-        for plabel in priority_labels:
-            if plabel in labels and plabel in _LABEL_ROOT_CAUSE:
-                root = _LABEL_ROOT_CAUSE[plabel]
-                break
-        else:
-            for label in labels:
-                if label in _LABEL_ROOT_CAUSE:
-                    root = _LABEL_ROOT_CAUSE[label]
-                    break
-
-        # Title-based fallback for copy/view detection
-        if root == "general" and re.search(r"copy|view|settingwithcopy|chained.?assign", title, re.IGNORECASE):
-            root = "copy_view_semantics"
-
-        is_bug = "Bug" in labels
-        is_symptom = is_bug and root != "general"
-
-        scope_map = {
-            "existential": "all_users",
-            "major": "majority",
-            "moderate": "significant_minority",
-            "minor": "edge_case",
-            "cosmetic": "developer_only",
-        }
-        blast_map = {
+        rule = self._match_generic_rule(combined)
+        root = rule["root"] if rule else "general"
+        architectural_layer = rule["layer"] if rule else "api_surface"
+        blast_radius = rule["blast_radius"] if rule else {
             "existential": "cascading",
             "major": "service_degradation",
             "moderate": "feature_broken",
             "minor": "inconvenience",
             "cosmetic": "none",
-        }
-        layer_map = {
-            "copy_view_semantics": "core_internals",
-            "extension_array_internals": "core_internals",
-            "performance_internals": "core_internals",
-            "indexing_api": "api_surface",
-            "datetime_internals": "core_internals",
-            "missing_data_handling": "core_internals",
-            "dtype_conversion": "core_internals",
-            "categorical_internals": "core_internals",
-            "groupby_internals": "api_surface",
-            "io_internals": "integration",
-            "reshaping_internals": "api_surface",
-        }
+        }.get(severity, "none")
+        failure_mode = rule["mechanism"] if rule else f"Ongoing failures in {root.replace('_', ' ')}"
+        is_symptom = bool(labels) and root != "general"
+        affected_scope = {
+            "existential": "all_users",
+            "major": "majority",
+            "moderate": "significant_minority",
+            "minor": "edge_case",
+            "cosmetic": "developer_only",
+        }.get(severity, "edge_case")
 
         # Deterministic confidence from hash
         h = int(hashlib.sha256(title.encode()).hexdigest()[:4], 16)
@@ -166,10 +191,10 @@ class MockAdapter(ModelAdapter):
 
         return {
             "severity_tier": severity,
-            "affected_scope": scope_map.get(severity, "edge_case"),
-            "failure_mode_if_unfixed": f"Ongoing failures in {root.replace('_', ' ')}",
-            "blast_radius": blast_map.get(severity, "none"),
-            "architectural_layer": layer_map.get(root, "api_surface"),
+            "affected_scope": affected_scope,
+            "failure_mode_if_unfixed": failure_mode,
+            "blast_radius": blast_radius,
+            "architectural_layer": architectural_layer,
             "p_happy_if_fixed": round(0.4 + _TIER_ORDER.get(severity, 2) * -0.05 + 0.3, 2),
             "p_failure_cascade_if_unfixed": round(max(0.0, 0.5 - _TIER_ORDER.get(severity, 2) * 0.1), 2),
             "is_symptom_of_deeper_issue": is_symptom,
@@ -177,7 +202,7 @@ class MockAdapter(ModelAdapter):
             "confidence": round(confidence, 2),
         }
 
-    def _mock_pattern_detection(self, user_prompt: str) -> dict:
+    def _detect_patterns(self, user_prompt: str) -> dict:
         # Parse issues from the user prompt JSON
         try:
             json_match = re.search(r"Issues:\s*(\[.*?\])\s*\nGroup", user_prompt, re.DOTALL)
@@ -199,36 +224,16 @@ class MockAdapter(ModelAdapter):
                 unclustered.append(iss.get("number"))
 
         clusters = []
-        severity_map = {
-            "copy_view_semantics": "existential",
-            "extension_array_internals": "major",
-            "performance_internals": "major",
-            "indexing_api": "moderate",
-            "datetime_internals": "moderate",
-            "missing_data_handling": "major",
-            "dtype_conversion": "moderate",
-            "groupby_internals": "moderate",
-            "io_internals": "minor",
-        }
-        mechanism_map = {
-            "copy_view_semantics": "Ambiguous copy vs view semantics cause silent data corruption",
-            "extension_array_internals": "ExtensionArray dispatch failures break nullable dtype operations",
-            "performance_internals": "Inefficient internal operations cause memory and speed regressions",
-            "indexing_api": "Inconsistent indexing API leads to unexpected slicing behavior",
-            "datetime_internals": "Datetime/timedelta edge cases in offset and frequency logic",
-            "missing_data_handling": "Inconsistent NA propagation across operations",
-            "dtype_conversion": "Lossy or incorrect dtype conversions on assignment and merge",
-            "groupby_internals": "Groupby dispatch inconsistencies across dtypes",
-            "io_internals": "Parser inconsistencies across file format readers",
-        }
-
         for root, nums in sorted(groups.items(), key=lambda x: len(x[1]), reverse=True):
             if len(nums) >= 2:
+                rule = _GENERIC_RULE_INDEX.get(root)
+                severity = rule["severity"] if rule else "moderate"
+                mechanism = rule["mechanism"] if rule else f"Issues in {root.replace('_', ' ')} subsystem"
                 clusters.append({
                     "root_cause": f"Shared weakness in {root.replace('_', ' ')}",
-                    "mechanism": mechanism_map.get(root, f"Issues in {root.replace('_', ' ')} subsystem"),
+                    "mechanism": mechanism,
                     "issue_numbers": nums,
-                    "severity_if_unaddressed": severity_map.get(root, "moderate"),
+                    "severity_if_unaddressed": severity,
                     "confidence": round(0.65 + min(len(nums), 10) * 0.03, 2),
                 })
             else:
@@ -236,7 +241,7 @@ class MockAdapter(ModelAdapter):
 
         return {"clusters": clusters, "unclustered_issues": unclustered}
 
-    def _mock_prioritization(self, user_prompt: str) -> dict:
+    def _prioritize(self, user_prompt: str) -> dict:
         # Parse budget
         budget_match = re.search(r"budget of (\d+)", user_prompt)
         budget = int(budget_match.group(1)) if budget_match else 5
@@ -286,13 +291,14 @@ class MockAdapter(ModelAdapter):
                 })
 
         insight = (
-            "Resolving copy/view semantics ambiguity would eliminate the largest class "
-            "of silent data corruption bugs and is the single highest-leverage architectural change."
+            "The highest-leverage architectural change is to address the top-ranked root cause "
+            "that combines the highest severity with the broadest issue coverage under current scarcity."
         )
-        if chosen and "copy" not in str(chosen[0].get("target", "")).lower():
+        if chosen:
             insight = (
-                "The most impactful architectural change is to address the root cause "
-                "with the highest severity and broadest issue coverage."
+                f"The highest-leverage architectural change is to address {chosen[0]['target']}, "
+                f"because it combines {chosen[0]['tier']} severity with the broadest issue coverage "
+                "under current scarcity."
             )
 
         return {
@@ -301,7 +307,7 @@ class MockAdapter(ModelAdapter):
             "architectural_insight": insight,
         }
 
-    def _mock_evidence_grounding(self, user_prompt: str) -> dict:
+    def _evidence_grounding(self, user_prompt: str) -> dict:
         return {
             "revised_severity": "major",
             "supporting_evidence": [

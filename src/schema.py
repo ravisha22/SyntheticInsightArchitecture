@@ -53,6 +53,18 @@ class GoalStage(Enum):
     COMMITTED = "committed"
     ABANDONED = "abandoned"
 
+
+class SignalType(Enum):
+    BUG_REPORT = "bug_report"
+    INCIDENT = "incident"
+    FEEDBACK = "feedback"
+    SUPPORT_TICKET = "support_ticket"
+    AUDIT = "audit"
+    NEWS = "news"
+    TREND = "trend"
+    ISSUE = "issue"
+    OTHER = "other"
+
 @dataclass
 class Event:
     event_type: str
@@ -60,6 +72,17 @@ class Event:
     payload: dict
     timestamp: str = field(default_factory=lambda: datetime.utcnow().isoformat())
     cycle: int = 0
+
+
+@dataclass
+class Signal:
+    signal_id: str
+    signal_type: str = SignalType.OTHER.value
+    source: str = ""
+    title: str = ""
+    body: str = ""
+    tags: list[str] = field(default_factory=list)
+    metadata: dict = field(default_factory=dict)
 
 DB_SCHEMA = """
 -- Core event log (append-only, canonical source of truth)
@@ -253,8 +276,14 @@ CREATE TABLE IF NOT EXISTS issue_analyses (
     suspected_root TEXT,
     confidence REAL,
     raw_response TEXT,
-    analyzed_at TEXT
+    analyzed_at TEXT,
+    signal_id TEXT,
+    signal_type TEXT,
+    source TEXT,
+    metadata TEXT,
+    signal_fingerprint TEXT
 );
+CREATE UNIQUE INDEX IF NOT EXISTS idx_issue_analyses_signal_id ON issue_analyses(signal_id);
 
 -- Root cause clusters
 CREATE TABLE IF NOT EXISTS root_cause_clusters (
@@ -264,6 +293,14 @@ CREATE TABLE IF NOT EXISTS root_cause_clusters (
     severity TEXT,
     confidence REAL,
     issue_numbers TEXT,  -- JSON array
+    signal_ids TEXT,  -- JSON array
+    original_severity TEXT,
+    original_confidence REAL,
+    grounding_query TEXT,
+    grounding_evidence TEXT,  -- JSON array
+    supporting_evidence TEXT,  -- JSON array
+    grounding_confidence_change TEXT,
+    grounded_at TEXT,
     run_id TEXT,
     created_at TEXT
 );
@@ -275,7 +312,9 @@ CREATE TABLE IF NOT EXISTS prioritization_runs (
     chosen TEXT,  -- JSON
     deferred TEXT,  -- JSON
     architectural_insight TEXT,
-    run_at TEXT
+    run_at TEXT,
+    predictions_json TEXT,  -- JSON
+    outcomes_json TEXT  -- JSON
 );
 """
 

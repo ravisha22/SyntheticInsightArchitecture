@@ -6,7 +6,7 @@ from typing import List, Dict
 class WebGrounding:
     """MVP: searches GitHub Issues API for corroborating evidence."""
 
-    def __init__(self, repo: str = "pandas-dev/pandas", timeout: int = 10):
+    def __init__(self, repo: str | None = None, timeout: int = 10):
         self.repo = repo
         self.base_url = "https://api.github.com/search/issues"
         self.timeout = timeout
@@ -16,8 +16,12 @@ class WebGrounding:
 
         Returns list of {source, claim, relevance, recency}.
         """
+        query_parts = [query]
+        if self.repo:
+            query_parts.append(f"repo:{self.repo}")
+
         params = {
-            "q": f"{query} repo:{self.repo}",
+            "q": " ".join(query_parts),
             "per_page": 5,
             "sort": "reactions",
             "order": "desc",

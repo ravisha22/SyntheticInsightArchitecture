@@ -9,7 +9,7 @@ import json
 # ── Stage 1: Individual Issue Analysis ──────────────────────────────
 
 ISSUE_ANALYSIS_SYSTEM = (
-    "You are a production engineering decision-maker analyzing software issues. "
+    "You are a production engineering decision-maker analyzing software issues and operational signals. "
     "You assess risk, scope, and architectural significance. "
     "Respond ONLY with valid JSON, no commentary."
 )
@@ -20,12 +20,22 @@ def issue_analysis_user(issue: dict) -> str:
     body = (issue.get("body", "") or "")[:500]
     labels = ", ".join(issue.get("labels", []))
     number = issue.get("number", "?")
+    reference_number = issue.get("reference_number", number)
+    signal_id = issue.get("signal_id", number)
+    signal_type = issue.get("signal_type", "issue")
+    source = issue.get("source", "") or "unknown"
+    metadata = json.dumps(issue.get("metadata", {}), indent=1)[:500]
 
-    return f"""Analyze this software issue and assess its engineering risk.
+    return f"""Analyze this software issue or operational signal and assess its engineering risk.
 
-Issue #{number}: {title}
+Issue #{reference_number}: {title}
+Title: {title}
+Signal ID: {signal_id}
+Signal Type: {signal_type}
+Source: {source}
 Labels: {labels}
 Description (snippet): {body}
+Metadata: {metadata}
 
 Return a single JSON object with these fields:
 {{
@@ -45,8 +55,8 @@ Return a single JSON object with these fields:
 # ── Stage 2: Pattern / Root-Cause Clustering ────────────────────────
 
 PATTERN_DETECTION_SYSTEM = (
-    "You are an architect analyzing issue patterns. You identify shared root causes "
-    "by mechanism, not by wording. Two issues about different features can share a "
+    "You are an architect analyzing issue and signal patterns. You identify shared root causes "
+    "by mechanism, not by wording. Two signals about different features can share a "
     "root cause if they stem from the same design decision. "
     "Respond ONLY with valid JSON, no commentary."
 )
@@ -57,6 +67,9 @@ def pattern_detection_user(analyzed_issues: list[dict]) -> str:
     for iss in analyzed_issues:
         summaries.append({
             "number": iss.get("number"),
+            "signal_id": iss.get("signal_id", iss.get("number")),
+            "signal_type": iss.get("signal_type", "issue"),
+            "source": iss.get("source", ""),
             "title": iss.get("title", ""),
             "severity_tier": iss.get("severity_tier", "moderate"),
             "suspected_root_category": iss.get("suspected_root_category", "unknown"),
@@ -65,7 +78,7 @@ def pattern_detection_user(analyzed_issues: list[dict]) -> str:
             "labels": iss.get("labels", []),
         })
 
-    return f"""Below are {len(summaries)} analyzed software issues. Identify shared root causes by mechanism.
+    return f"""Below are {len(summaries)} analyzed software issues or operational signals. Identify shared root causes by mechanism.
 
 Issues:
 {json.dumps(summaries, indent=1)}
@@ -77,11 +90,13 @@ Group issues that share a root architectural weakness. Return JSON:
       "root_cause": "description of shared architectural weakness",
       "mechanism": "how the root cause manifests as bugs",
       "issue_numbers": [<list of issue numbers in this cluster>],
+      "signal_ids": [<list of canonical signal ids in this cluster>],
       "severity_if_unaddressed": "existential|major|moderate|minor",
       "confidence": <float 0.0-1.0>
     }}
   ],
-  "unclustered_issues": [<issue numbers that are genuinely independent>]
+  "unclustered_issues": [<issue numbers that are genuinely independent>],
+  "unclustered_signal_ids": [<canonical signal ids that are genuinely independent>]
 }}"""
 
 
@@ -103,6 +118,8 @@ def scarcity_prioritization_user(
     for iss in analyzed_issues:
         issue_summary.append({
             "number": iss.get("number"),
+            "signal_id": iss.get("signal_id", iss.get("number")),
+            "signal_type": iss.get("signal_type", "issue"),
             "title": iss.get("title", ""),
             "severity_tier": iss.get("severity_tier", "moderate"),
             "blast_radius": iss.get("blast_radius", "none"),
@@ -123,8 +140,10 @@ Return JSON:
       "target": "what to fix (cluster root cause or individual issue)",
       "why": "reasoning",
       "issues_resolved": [<issue numbers>],
+      "signal_ids_resolved": [<canonical signal ids>],
       "tier": "existential|major|moderate",
-      "blast_radius_prevented": "description"
+      "blast_radius_prevented": "description",
+      "predicted_outcome": "what should improve if this prioritization is correct"
     }}
   ],
   "deferred": [

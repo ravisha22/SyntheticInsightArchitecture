@@ -6,7 +6,7 @@ import json
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.schema import init_db
-from src.adapters.mock import MockAdapter
+from src.adapters.mock_pandas import PandasMockAdapter
 from src.services.analysis_pipeline import AnalysisPipeline
 
 
@@ -38,8 +38,10 @@ def main():
 
     # Setup
     conn = init_db("llm_analysis.db")
-    adapter = MockAdapter(seed=42)
-    pipeline = AnalysisPipeline(conn, adapter, config={})
+    adapter = PandasMockAdapter(seed=42)
+    grounding_repo = os.getenv("SIA_GROUNDING_REPO")
+    config = {"grounding_repo": grounding_repo} if grounding_repo else {}
+    pipeline = AnalysisPipeline(conn, adapter, config=config)
 
     # ── Run full pipeline ───────────────────────────────────────────
     print("\n  Running full pipeline: analyze → cluster → prioritize ...\n")

@@ -16,6 +16,24 @@ from .components.failure_journal import FailureJournal
 from .adapters.mock import MockAdapter
 
 class SIAEngine:
+    # Universal stop words; corpus-specific low-signal terms belong in config.
+    BASE_STOP_WORDS = frozenset({
+        "the", "a", "an", "is", "are", "was", "were", "be", "been", "being",
+        "have", "has", "had", "do", "does", "did", "will", "would", "could",
+        "should", "may", "might", "shall", "can", "need", "must", "to", "of",
+        "in", "for", "on", "with", "at", "by", "from", "as", "into", "through",
+        "during", "before", "after", "above", "below", "between", "out", "off",
+        "over", "under", "again", "further", "then", "once", "here", "there",
+        "when", "where", "why", "how", "all", "each", "every", "both", "few",
+        "more", "most", "other", "some", "such", "no", "nor", "not", "only",
+        "own", "same", "so", "than", "too", "very", "just", "don", "doesn",
+        "didn", "won", "wouldn", "shouldn", "couldn", "isn", "aren", "wasn",
+        "weren", "hasn", "haven", "hadn", "it", "its", "this", "that", "these",
+        "those", "i", "me", "my", "we", "our", "you", "your", "he", "him",
+        "she", "her", "they", "them", "their", "what", "which", "who", "whom",
+        "and", "but", "or", "if", "while", "because", "until", "about",
+    })
+
     def __init__(self, db_path: str = "sia_state.db", config_path: str = None):
         self.conn = init_db(db_path)
         
@@ -24,6 +42,8 @@ class SIAEngine:
                 self.config = yaml.safe_load(f)
         else:
             self.config = {}
+
+        self.stop_words = self._build_stop_words(self.config.get("stop_words", []))
         
         # Initialize model adapter
         backend = self.config.get("model", {}).get("backend", "mock")
@@ -87,41 +107,26 @@ class SIAEngine:
         # 6. Report cycle state
         return self.get_state_summary()
     
-    # Stop words that appear in almost every issue and carry no signal
-    STOP_WORDS = frozenset({
-        "the", "a", "an", "is", "are", "was", "were", "be", "been", "being",
-        "have", "has", "had", "do", "does", "did", "will", "would", "could",
-        "should", "may", "might", "shall", "can", "need", "must", "to", "of",
-        "in", "for", "on", "with", "at", "by", "from", "as", "into", "through",
-        "during", "before", "after", "above", "below", "between", "out", "off",
-        "over", "under", "again", "further", "then", "once", "here", "there",
-        "when", "where", "why", "how", "all", "each", "every", "both", "few",
-        "more", "most", "other", "some", "such", "no", "nor", "not", "only",
-        "own", "same", "so", "than", "too", "very", "just", "don", "doesn",
-        "didn", "won", "wouldn", "shouldn", "couldn", "isn", "aren", "wasn",
-        "weren", "hasn", "haven", "hadn", "it", "its", "this", "that", "these",
-        "those", "i", "me", "my", "we", "our", "you", "your", "he", "him",
-        "she", "her", "they", "them", "their", "what", "which", "who", "whom",
-        "and", "but", "or", "if", "while", "because", "until", "about",
-        "pandas", "dataframe", "series", "column", "row", "data", "value",
-        "values", "using", "like", "also", "e.g", "etc", "use", "used",
-        "get", "set", "one", "two", "new", "see", "way", "make", "still",
-        "even", "work", "works", "bug", "issue", "error", "expected", "actual",
-        "0", "1", "2", "3", "4", "5", "128", "64", "none", "true", "false",
-    })
+    def _build_stop_words(self, extra_words):
+        normalized = {
+            str(word).strip().lower()
+            for word in extra_words
+            if str(word).strip()
+        }
+        return frozenset(self.BASE_STOP_WORDS | normalized)
 
     def _clean_tokenize(self, text):
         """Extract meaningful tokens from text, stripping punctuation."""
         import re
         # Split on non-alphanumeric, lowercase, filter stop words and short tokens
         tokens = re.findall(r'[a-zA-Z_][a-zA-Z0-9_-]*', text.lower())
-        return {t for t in tokens if t not in self.STOP_WORDS and len(t) > 2}
+        return {t for t in tokens if t not in self.stop_words and len(t) > 2}
 
     def _split_tag(self, tag):
         """Split multi-word tags into individual tokens."""
         import re
         tokens = re.findall(r'[a-zA-Z_][a-zA-Z0-9_-]*', tag.lower())
-        return {t for t in tokens if t not in self.STOP_WORDS and len(t) > 2}
+        return {t for t in tokens if t not in self.stop_words and len(t) > 2}
 
     def _cluster_seeds(self):
         """Find seeds with overlapping tags and bump recurrence.
