@@ -297,6 +297,76 @@ class TestAnalysisPipeline:
         assert updated is not None
         assert json.loads(updated["outcomes_json"])[0]["status"] == "observed"
 
+    def test_score_predictions_persists_evaluation_summary(self, db, sample_issues):
+        pipeline = AnalysisPipeline(db, PandasMockAdapter(seed=42), config={})
+
+        report = pipeline.run_full_pipeline(sample_issues, budget=5)
+        run_id = report["prioritization"]["run_id"]
+        score = pipeline.score_predictions(
+            run_id,
+            [
+                {
+                    "label": "copy/view semantics",
+                    "target_contains": ["copy", "view"],
+                    "observed": True,
+                },
+                {
+                    "label": "extension array internals",
+                    "target_contains": ["extension", "array"],
+                    "observed": True,
+                },
+            ],
+        )
+
+        assert score["hit_count"] == 2
+        assert score["recall"] == 1.0
+        assert len(score["scored_predictions"]) >= 2
+        assert any("copy" in prediction["target"].lower() for prediction in score["scored_predictions"])
+        row = db.execute(
+            "SELECT outcomes_json, evaluation_json FROM prioritization_runs WHERE id = ?",
+            (run_id,),
+        ).fetchone()
+        assert row is not None
+        evaluation = json.loads(row["evaluation_json"])
+        assert evaluation["hit_count"] == 2
+        assert len(json.loads(row["outcomes_json"])) == 2
+
+    def test_score_predictions_prefers_unclaimed_positive_outcomes(self, db):
+        pipeline = AnalysisPipeline(db, PandasMockAdapter(seed=42), config={})
+        db.execute(
+            """INSERT INTO prioritization_runs
+               (id, budget, chosen, deferred, architectural_insight, run_at, predictions_json, outcomes_json, evaluation_json)
+               VALUES (?,?,?,?,?,?,?,?,?)""",
+            (
+                "score01",
+                2,
+                "[]",
+                "[]",
+                "",
+                "now",
+                json.dumps(
+                    [
+                        {"target": "Shared weakness in copy view semantics"},
+                        {"target": "Shared weakness in copy view semantics extension array internals"},
+                    ]
+                ),
+                "[]",
+                "",
+            ),
+        )
+        db.commit()
+
+        score = pipeline.score_predictions(
+            "score01",
+            [
+                {"label": "copy", "target_contains": ["copy"], "observed": True},
+                {"label": "extension", "target_contains": ["extension"], "observed": True},
+            ],
+        )
+
+        assert score["hit_count"] == 2
+        assert score["recall"] == 1.0
+
     def test_analyze_signals_accepts_generic_input(self, db):
         generic_pipeline = AnalysisPipeline(db, MockAdapter(seed=42), config={})
         signals = [

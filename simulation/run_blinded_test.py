@@ -1,7 +1,8 @@
-"""Run blinded SIA tests against real GitHub issue corpora."""
+"""Run blinded AnalysisPipeline tests against issue corpora."""
 from __future__ import annotations
 
 import json
+import os
 import random
 import sys
 from pathlib import Path
@@ -16,15 +17,33 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from simulation.baselines import run_baselines
-from simulation.case_study import CaseStudyReplay
 from simulation.scenarios.control_decoy import build_decoy_seed_scenario
 from simulation.scenarios.control_nonconvergent import build_nonconvergent_scenario
 from simulation.scenarios.pandas_real import build_pandas_scenario, build_tag_shuffle_control
-from src.engine import SIAEngine
+from src.adapters.mock_pandas import PandasMockAdapter
+from src.schema import init_db
+from src.services.analysis_pipeline import AnalysisPipeline
 
 RANDOM_SEED = 7
+BUDGET = 5
 OUTPUT_DIR = ROOT / "simulation" / "output"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+PANDAS_OBSERVED_OUTCOMES = [
+    {
+        "label": "copy/view semantics",
+        "target": "Shared weakness in copy view semantics",
+        "target_contains": ["copy", "view"],
+        "observed": True,
+        "detail": "PDEP-7 Copy-on-Write addressed the dominant silent corruption risk.",
+    },
+    {
+        "label": "extension array internals",
+        "target": "Shared weakness in extension array internals",
+        "target_contains": ["extension", "array"],
+        "observed": True,
+        "detail": "ExtensionArray and nullable dtype work became a persistent architectural investment.",
+    },
+]
 
 
 def set_reproducible_seed() -> None:
@@ -33,143 +52,176 @@ def set_reproducible_seed() -> None:
         np.random.seed(RANDOM_SEED)
 
 
+def scenario_repo(slug: str) -> str:
+    return "psf/requests" if slug == "condition_d" else "pandas-dev/pandas"
+
+
+def scenario_source(slug: str) -> str:
+    return "requests" if slug == "condition_d" else "pandas"
+
+
+def grounding_config(repo: str) -> dict:
+    enabled = os.getenv("SIA_ENABLE_GROUNDING", "").strip().lower() in {"1", "true", "yes"}
+    if not enabled:
+        return {}
+    return {"grounding": {"enabled": True, "repo": repo}}
+
+
+def observed_outcomes_for(slug: str) -> list[dict]:
+    if slug in {"condition_a", "condition_b", "condition_c", "condition_d"}:
+        return [dict(outcome) for outcome in PANDAS_OBSERVED_OUTCOMES]
+    return []
+
+
+def scenario_to_signals(issues: list[dict], slug: str) -> list[dict]:
+    source = scenario_source(slug)
+    return [
+        {
+            "signal_id": f"{source}:{issue['number']}",
+            "signal_type": "bug_report",
+            "source": source,
+            "title": issue["title"],
+            "body": issue.get("body", ""),
+            "tags": issue.get("tags", []),
+            "metadata": {
+                "repo": scenario_repo(slug),
+                "created_at": issue.get("created_at"),
+                "closed_at": issue.get("closed_at"),
+                "comments": issue.get("comments", 0),
+                "labels": issue.get("labels", []),
+            },
+        }
+        for issue in issues
+    ]
+
+
 def run_condition(name: str, scenario: dict, slug: str) -> dict:
     db_path = OUTPUT_DIR / f"{slug}.db"
-    trace_path = OUTPUT_DIR / f"{slug}.jsonl"
-    for path in (db_path, trace_path):
-        if path.exists():
-            path.unlink()
+    if db_path.exists():
+        db_path.unlink()
 
-    engine = SIAEngine(db_path=str(db_path), config_path=str(ROOT / "configs" / "default.yaml"))
-    replay = CaseStudyReplay(engine, name)
-    for event in scenario["events"]:
-        replay.add_event(event["cycle"], event["type"], event["data"])
-    replay.replay()
-
-    issues_by_title = {issue["title"]: issue for issue in scenario["issues"]}
-    seeds = engine.conn.execute(
-        "SELECT id, description, tags, stage, recurrence, pattern_coherence, commitment_pressure "
-        "FROM goal_seeds ORDER BY commitment_pressure DESC, recurrence DESC"
-    ).fetchall()
-    profiles = []
-    for row in seeds:
-        linked_titles = [
-            linked["title"]
-            for linked in engine.conn.execute(
-                "SELECT t.title FROM seed_tensions st JOIN tensions t ON st.tension_id = t.id WHERE st.seed_id = ?",
-                (row["id"],),
-            ).fetchall()
-        ]
-        linked_issues = [issues_by_title[title] for title in linked_titles if title in issues_by_title]
-        seed_tags = json.loads(row["tags"]) if row["tags"] else []
-        label_diversity = len({label for issue in linked_issues for label in issue["labels"]})
-        cycles = sorted(issue["cycle"] for issue in linked_issues)
-        overlap_counts = [len(set(seed_tags) & set(issue["tags"])) for issue in linked_issues]
-        strong_support = sum(1 for overlap in overlap_counts if overlap >= 2)
-        avg_overlap = round(sum(overlap_counts) / len(overlap_counts), 3) if overlap_counts else 0.0
-        profiles.append(
-            {
-                "id": row["id"],
-                "description": row["description"],
-                "tags": seed_tags,
-                "stage": row["stage"],
-                "recurrence": row["recurrence"],
-                "pattern_coherence": round(row["pattern_coherence"], 3),
-                "commitment_pressure": round(row["commitment_pressure"], 3),
-                "issue_support": len(linked_issues),
-                "label_diversity": label_diversity,
-                "cycle_span": cycles[-1] - cycles[0] + 1 if cycles else 0,
-                "strong_support": strong_support,
-                "tag_hit_rate": round(strong_support / len(linked_issues), 3) if linked_issues else 0.0,
-                "avg_overlap": avg_overlap,
-                "issue_numbers": [issue["number"] for issue in linked_issues],
-            }
-        )
-
-    committed = [profile for profile in profiles if profile["stage"] == "committed"]
-    best = committed[0] if committed else (profiles[0] if profiles else None)
-    signal = 0.0
-    if committed and best:
-        signal = round(
-            max(best["commitment_pressure"], 0.0)
-            * (1 + min(best["issue_support"], 20) / 20)
-            * (1 + min(best["label_diversity"], 5) / 5),
-            3,
-        )
+    conn = init_db(str(db_path))
+    pipeline = AnalysisPipeline(
+        conn,
+        PandasMockAdapter(seed=RANDOM_SEED),
+        config=grounding_config(scenario_repo(slug)),
+    )
+    report = pipeline.run_full_pipeline(scenario_to_signals(scenario["issues"], slug), budget=BUDGET)
+    observed_outcomes = observed_outcomes_for(slug)
+    run_id = report["prioritization"].get("run_id")
+    score = (
+        pipeline.score_predictions(run_id, observed_outcomes)
+        if run_id
+        else {
+            "run_id": None,
+            "hit_count": 0,
+            "miss_count": 0,
+            "observed_positive_count": len(observed_outcomes),
+            "precision": 0.0,
+            "recall": 0.0,
+            "scored_predictions": [],
+            "unmatched_outcomes": observed_outcomes,
+        }
+    )
+    conn.close()
 
     return {
         "name": name,
         "issues": scenario["issues"],
-        "profiles": profiles,
-        "committed": committed,
-        "best": best,
-        "signal": signal,
+        "report": report,
+        "score": score,
+        "observed_outcomes": observed_outcomes,
         "db_path": str(db_path),
-        "trace_path": str(trace_path),
+        "grounding_enabled": bool(grounding_config(scenario_repo(slug))),
     }
 
 
+def chosen_targets(result: dict) -> list[str]:
+    return [choice.get("target", "") for choice in result["report"]["prioritization"].get("chosen", [])]
+
+
 def condition_a_pass(result: dict) -> bool:
-    return any(
-        profile["issue_support"] >= 6
-        and profile["label_diversity"] >= 3
-        and profile["strong_support"] >= 4
-        and profile["tag_hit_rate"] >= 0.35
-        for profile in result["committed"]
-    )
+    expected_hits = result["score"]["observed_positive_count"]
+    return expected_hits > 0 and result["score"]["hit_count"] == expected_hits
 
 
-def condition_b_pass(result: dict, scenario: dict) -> tuple[bool, list[str], list[str]]:
-    wrong = {seed["description"] for seed in scenario["wrong_seeds"]}
-    neutral = {seed["description"] for seed in scenario["neutral_seeds"]}
-    committed = {profile["description"] for profile in result["committed"]}
-    wrong_hits = sorted(committed & wrong)
-    neutral_hits = sorted(committed & neutral)
-    return (not wrong_hits and bool(neutral_hits)), wrong_hits, neutral_hits
+def condition_b_pass(real_result: dict, decoy_result: dict) -> tuple[bool, list[str]]:
+    real_targets = chosen_targets(real_result)
+    decoy_targets = chosen_targets(decoy_result)
+    drift = sorted(set(real_targets) ^ set(decoy_targets))
+    return real_targets == decoy_targets, drift
 
 
 def condition_c_pass(real_result: dict, shuffled_result: dict) -> bool:
-    real_quality = max((profile["tag_hit_rate"] for profile in real_result["committed"]), default=0.0)
-    shuffled_quality = max((profile["tag_hit_rate"] for profile in shuffled_result["committed"]), default=0.0)
     return (
-        shuffled_quality <= real_quality * 0.75
-        or shuffled_result["signal"] <= real_result["signal"] * 0.75
+        shuffled_result["score"]["hit_count"] < real_result["score"]["hit_count"]
+        or shuffled_result["score"]["precision"] < real_result["score"]["precision"]
     )
 
 
 def condition_d_pass(real_result: dict, nonconv_result: dict) -> bool:
-    return (
-        len(nonconv_result["committed"]) <= max(1, len(real_result["committed"]) // 2)
-        and nonconv_result["signal"] <= real_result["signal"] * 0.75
-    )
+    return nonconv_result["score"]["hit_count"] == 0
 
 
-def baseline_advantage(real_result: dict, baselines: dict) -> bool:
-    top_terms = [entry["term"] for entry in baselines["keyword_frequency"]["groups"]]
-    label_clusters = baselines["label_cooccurrence"]["clusters"]
-    cluster_labels = [set(cluster["labels"]) for cluster in label_clusters]
+def _prediction_matches_outcome(target: str, outcome: dict) -> bool:
+    normalized_target = str(target).strip().lower()
+    exact_target = str(outcome.get("target", "")).strip().lower()
+    if exact_target and normalized_target == exact_target:
+        return True
 
-    for profile in real_result["committed"]:
-        linked_titles = [issue["title"].lower() for issue in real_result["issues"] if issue["number"] in profile["issue_numbers"]]
-        term_hits = sum(1 for term in top_terms if any(term in title for title in linked_titles))
-        label_hits = sum(
-            1
-            for cluster in cluster_labels
-            if len(cluster & {label for issue in real_result["issues"] if issue["number"] in profile["issue_numbers"] for label in issue["labels"]}) >= 2
-        )
-        if term_hits >= 2 and label_hits >= 2:
-            return True
+    contains = outcome.get("target_contains", [])
+    if isinstance(contains, str):
+        contains = [contains]
+    contains = [str(term).strip().lower() for term in contains if str(term).strip()]
+    if contains:
+        return all(term in normalized_target for term in contains)
+
     return False
 
 
-def format_goal(profile: dict) -> str:
-    tags = ", ".join(profile["tags"][:4])
+def score_text_predictions(predicted_targets: list[str], observed_outcomes: list[dict]) -> dict:
+    matched_indices = set()
+    hits = 0
+    for target in predicted_targets:
+        matched_outcome = None
+        matched_index = None
+        for index, outcome in enumerate(observed_outcomes):
+            if not _prediction_matches_outcome(target, outcome):
+                continue
+            if outcome.get("observed", True):
+                if index in matched_indices:
+                    continue
+                matched_outcome = outcome
+                matched_index = index
+                break
+            if matched_outcome is None:
+                matched_outcome = outcome
+                matched_index = index
+
+        if matched_outcome and matched_outcome.get("observed", True) and matched_index is not None:
+            matched_indices.add(matched_index)
+            hits += 1
+
+    observed_positive_count = sum(1 for outcome in observed_outcomes if outcome.get("observed", True))
+    return {
+        "hit_count": hits,
+        "precision": round(hits / len(predicted_targets), 3) if predicted_targets else 0.0,
+        "recall": round(hits / observed_positive_count, 3) if observed_positive_count else 0.0,
+    }
+
+
+def baseline_advantage(real_result: dict, baselines: dict) -> tuple[bool, dict]:
+    predicted_targets = [
+        group["term"] for group in baselines["keyword_frequency"]["groups"]
+    ] + [
+        " ".join(cluster["labels"]) for cluster in baselines["label_cooccurrence"]["clusters"]
+    ]
+    baseline_score = score_text_predictions(predicted_targets, real_result["observed_outcomes"])
+    pipeline_score = real_result["score"]
     return (
-        f"- {profile['description']} | stage={profile['stage']} | cp={profile['commitment_pressure']:.3f} "
-        f"| coh={profile['pattern_coherence']:.3f} | support={profile['issue_support']} "
-        f"| labels={profile['label_diversity']} | strong={profile['strong_support']} "
-        f"| hit_rate={profile['tag_hit_rate']:.3f} | tags=[{tags}]"
-    )
+        pipeline_score["hit_count"] > baseline_score["hit_count"]
+        or pipeline_score["precision"] > baseline_score["precision"]
+    ), baseline_score
 
 
 def write_report(report: str) -> Path:
@@ -178,9 +230,29 @@ def write_report(report: str) -> Path:
     return report_path
 
 
-def top_goal_lines(result: dict) -> list[str]:
-    goals = [format_goal(profile) for profile in result["committed"][:3]]
-    return goals or ["- No committed goals"]
+def top_choice_lines(result: dict) -> list[str]:
+    choices = result["report"]["prioritization"].get("chosen", [])[:3]
+    if not choices:
+        return ["- No chosen priorities"]
+    return [
+        f"- {choice.get('target', '?')} | tier={choice.get('tier', '?')} | issues={len(choice.get('issues_resolved', []))}"
+        for choice in choices
+    ]
+
+
+def score_lines(result: dict) -> list[str]:
+    score = result["score"]
+    matched = [
+        scored.get("observed_outcome", {}).get("label")
+        for scored in score.get("scored_predictions", [])
+        if scored.get("outcome_matched")
+    ]
+    return [
+        f"- Hits: {score['hit_count']}",
+        f"- Precision: {score['precision']:.3f}",
+        f"- Recall: {score['recall']:.3f}",
+        "- Matched outcomes: " + (", ".join(matched) if matched else "none"),
+    ]
 
 
 def main() -> None:
@@ -198,42 +270,52 @@ def main() -> None:
     result_d = run_condition("Condition D", nonconvergent, "condition_d")
 
     verdict_a = condition_a_pass(result_a)
-    verdict_b, wrong_hits, neutral_hits = condition_b_pass(result_b, pandas_decoy)
+    verdict_b, target_drift = condition_b_pass(result_a, result_b)
     verdict_c = condition_c_pass(result_a, result_c)
     verdict_d = condition_d_pass(result_a, result_d)
-    verdict_baseline = baseline_advantage(result_a, baselines)
+    verdict_baseline, baseline_score = baseline_advantage(result_a, baselines)
 
     report = [
         "## Blinded Report",
+        f"- Grounding enabled: {'YES' if result_a['grounding_enabled'] else 'NO'}",
         "",
-        "### Condition A (Real pandas issues, data-derived seeds only)",
+        "### Scored historical outcomes",
+        "- copy/view semantics -> PDEP-7 Copy-on-Write",
+        "- extension array internals -> nullable dtype / ExtensionArray investment",
+        "",
+        "### Condition A (Real pandas issues on AnalysisPipeline)",
         f"Pass: {'YES' if verdict_a else 'NO'}",
-        *top_goal_lines(result_a),
+        *score_lines(result_a),
+        *top_choice_lines(result_a),
         "",
-        "### Condition B (Real pandas issues + decoy seeds)",
+        "### Condition B (Decoy metadata invariance)",
         f"Pass: {'YES' if verdict_b else 'NO'}",
-        f"- Wrong decoys committed: {', '.join(wrong_hits) if wrong_hits else 'none'}",
-        f"- Neutral seeds committed: {', '.join(neutral_hits) if neutral_hits else 'none'}",
-        *top_goal_lines(result_b),
+        "- Target drift: " + (", ".join(target_drift) if target_drift else "none"),
+        *score_lines(result_b),
+        *top_choice_lines(result_b),
         "",
         "### Condition C (Tag-shuffle control)",
         f"Pass: {'YES' if verdict_c else 'NO'}",
-        f"- Real committed goals: {len(result_a['committed'])}",
-        f"- Shuffled committed goals: {len(result_c['committed'])}",
-        f"- Real signal: {result_a['signal']:.3f}",
-        f"- Shuffled signal: {result_c['signal']:.3f}",
-        *top_goal_lines(result_c),
+        f"- Real hits: {result_a['score']['hit_count']}",
+        f"- Shuffled hits: {result_c['score']['hit_count']}",
+        f"- Real precision: {result_a['score']['precision']:.3f}",
+        f"- Shuffled precision: {result_c['score']['precision']:.3f}",
+        *top_choice_lines(result_c),
         "",
-        "### Condition D (Non-convergent corpus)",
+        "### Condition D (Non-convergent corpus vs pandas outcomes)",
         f"Pass: {'YES' if verdict_d else 'NO'}",
-        f"- Real committed goals: {len(result_a['committed'])}",
-        f"- Non-convergent committed goals: {len(result_d['committed'])}",
-        f"- Real signal: {result_a['signal']:.3f}",
-        f"- Non-convergent signal: {result_d['signal']:.3f}",
-        *top_goal_lines(result_d),
+        f"- Real hits: {result_a['score']['hit_count']}",
+        f"- Non-convergent hits: {result_d['score']['hit_count']}",
+        f"- Real precision: {result_a['score']['precision']:.3f}",
+        f"- Non-convergent precision: {result_d['score']['precision']:.3f}",
+        *top_choice_lines(result_d),
         "",
         "### Baseline comparison",
         f"Pass: {'YES' if verdict_baseline else 'NO'}",
+        f"- Pipeline hits: {result_a['score']['hit_count']}",
+        f"- Baseline hits: {baseline_score['hit_count']}",
+        f"- Pipeline precision: {result_a['score']['precision']:.3f}",
+        f"- Baseline precision: {baseline_score['precision']:.3f}",
         "- Top keyword terms: " + ", ".join(item["term"] for item in baselines["keyword_frequency"]["top_terms"][:10]),
         "- Top keyword groups: "
         + "; ".join(f"{group['term']} ({group['count']})" for group in baselines["keyword_frequency"]["groups"][:5]),

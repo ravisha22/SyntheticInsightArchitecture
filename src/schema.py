@@ -314,7 +314,8 @@ CREATE TABLE IF NOT EXISTS prioritization_runs (
     architectural_insight TEXT,
     run_at TEXT,
     predictions_json TEXT,  -- JSON
-    outcomes_json TEXT  -- JSON
+    outcomes_json TEXT,  -- JSON
+    evaluation_json TEXT  -- JSON
 );
 """
 

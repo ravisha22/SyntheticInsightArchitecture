@@ -166,6 +166,7 @@ class AnalysisPipeline:
             {
                 "predictions_json": "TEXT",
                 "outcomes_json": "TEXT",
+                "evaluation_json": "TEXT",
             },
         )
         self.conn.execute(
@@ -839,6 +840,91 @@ class AnalysisPipeline:
             (json.dumps(outcomes), run_id),
         )
         self.conn.commit()
+
+    def _prediction_matches_outcome(self, prediction: dict, outcome: dict) -> bool:
+        predicted_target = str(prediction.get("target", "")).strip().lower()
+        exact_target = str(outcome.get("target", "")).strip().lower()
+        if exact_target and predicted_target == exact_target:
+            return True
+
+        contains = outcome.get("target_contains", [])
+        if isinstance(contains, str):
+            contains = [contains]
+        contains = [str(term).strip().lower() for term in contains if str(term).strip()]
+        if contains:
+            return all(term in predicted_target for term in contains)
+
+        return False
+
+    def score_predictions(self, run_id: str, observed_outcomes: list[dict]) -> dict:
+        row = self.conn.execute(
+            "SELECT predictions_json FROM prioritization_runs WHERE id = ?",
+            (run_id,),
+        ).fetchone()
+        if row is None:
+            raise ValueError(f"Prioritization run '{run_id}' not found.")
+
+        predictions = json.loads(row["predictions_json"] or "[]")
+        observed_outcomes = observed_outcomes or []
+        self.record_outcomes(run_id, observed_outcomes)
+
+        matched_positive_outcomes = set()
+        hits = 0
+        scored_predictions = []
+        for prediction in predictions:
+            matched_outcome = None
+            matched_index = None
+            for index, outcome in enumerate(observed_outcomes):
+                if not self._prediction_matches_outcome(prediction, outcome):
+                    continue
+                if outcome.get("observed", True):
+                    if index in matched_positive_outcomes:
+                        continue
+                    matched_outcome = outcome
+                    matched_index = index
+                    break
+                if matched_outcome is None:
+                    matched_outcome = outcome
+                    matched_index = index
+
+            observed = bool(matched_outcome and matched_outcome.get("observed", True))
+            counted_hit = observed and matched_index not in matched_positive_outcomes
+            if counted_hit and matched_index is not None:
+                matched_positive_outcomes.add(matched_index)
+                hits += 1
+
+            scored_predictions.append(
+                {
+                    **prediction,
+                    "outcome_matched": counted_hit,
+                    "observed_outcome": matched_outcome,
+                }
+            )
+
+        observed_positive_count = sum(
+            1 for outcome in observed_outcomes if outcome.get("observed", True)
+        )
+        misses = len(predictions) - hits
+        evaluation = {
+            "run_id": run_id,
+            "hit_count": hits,
+            "miss_count": misses,
+            "observed_positive_count": observed_positive_count,
+            "precision": round(hits / len(predictions), 3) if predictions else 0.0,
+            "recall": round(hits / observed_positive_count, 3) if observed_positive_count else 0.0,
+            "scored_predictions": scored_predictions,
+            "unmatched_outcomes": [
+                outcome
+                for index, outcome in enumerate(observed_outcomes)
+                if outcome.get("observed", True) and index not in matched_positive_outcomes
+            ],
+        }
+        self.conn.execute(
+            "UPDATE prioritization_runs SET evaluation_json = ? WHERE id = ?",
+            (json.dumps(evaluation), run_id),
+        )
+        self.conn.commit()
+        return evaluation
 
     # ── Full Pipeline ───────────────────────────────────────────────
 

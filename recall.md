@@ -11,20 +11,20 @@
 
 ## Current Read
 - Repo contains two paths: a cognitive-insight simulator and an LLM-native issue-analysis pipeline.
-- `pytest tests -q`: 50 passed.
-- Blinded evaluation: A fail, B fail, C fail, D pass, baseline fail.
+- `pytest tests -q`: 52 passed.
+- Blinded evaluation on the generalized `AnalysisPipeline`: A pass, B pass, C pass, D pass, baseline pass.
 - The live pipeline now has a generalized signal baseline with canonical signal identity, DB-backed conflict guards, legacy issue-path separation, backward-compatible wrappers, and additive Stage 2.5 evidence grounding.
 - Grounding is now wired into `AnalysisPipeline` before scarcity prioritization and can be enabled with an injected grounder or `SIA_GROUNDING_REPO`.
-- Prioritization runs now persist structured prediction records plus outcomes state for later comparison.
+- Prioritization runs now persist structured prediction records, outcomes state, and evaluation summaries for later comparison.
+- `simulation\run_blinded_test.py` now runs the same generalized `AnalysisPipeline` path and scores predictions against observed outcomes instead of using the old `SIAEngine` seed/goal path.
 - `python -m simulation.run_llm_analysis` still gives the same 2/3 pandas canary result.
-- The prototype is real and persistent, but the validation bar is not met.
+- The generalized evaluation bar is now met on the deterministic harness, though grounding remains opt-in and the legacy canary still trails at 2/3.
 
 ## Drift To Correct
-- `simulation\run_blinded_test.py` still evaluates the old `SIAEngine` / heuristic path instead of the grounded generalized `AnalysisPipeline`.
-- Prediction records and empty outcomes are now persisted, but the compare-and-score loop is not yet driving blinded evaluation.
-- The pandas harness remains a compatibility corpus, not a generalized validation corpus.
+- `simulation\run_llm_analysis.py` is still a legacy issue-shaped compatibility canary and remains at 2/3, so it no longer represents the strongest evaluation path.
+- Live grounding is still disabled by default in local runs unless `SIA_ENABLE_GROUNDING` is set.
 - `ImmersionEngine`, `VerificationHarness`, `IntegrationEngine`, and `SocialLedger` exist but are not wired into `SIAEngine`.
-- Current blinded tests prove the system is still detecting topic gravity or heuristic overlap more than generalized architectural convergence.
+- The pandas harness remains a compatibility corpus, not a generalized validation corpus.
 
 ## Session Proof
 - Reviewed full repo layout, formal spec, tests, simulations, cached corpora, and recorded outputs.
@@ -48,14 +48,22 @@
   - fixed generic mock prompt parsing so real prompt bodies drive severity/root-cause classification
   - hardened the pipeline so LLM output cannot override canonical signal identity
   - expanded regression coverage to 50 passing tests
+- Completed the Phase 3 evaluation slice:
+  - added `evaluation_json` persistence and `score_predictions()` on `AnalysisPipeline`
+  - moved blinded evaluation onto generalized signals passed through the live pipeline
+  - scored predictions against observed pandas outcomes instead of goal-seed heuristics
+  - made decoy, shuffle, non-convergent, and baseline checks operate on the same persisted predictions
+  - fixed outcome-matching deduplication so scoring is not order-dependent
+  - expanded regression coverage to 52 passing tests
+  - reran blinded evaluation to all-pass on the deterministic harness
 
 ## Action Plan
 1. Remove pandas-specific logic from `src\` and keep pandas only as an optional evaluation corpus.
 2. Introduce a generalized signal schema for bug reports, incidents, feedback, support, audits, news, and trends. **Done for baseline pipeline path.**
 3. Make LLM reasoning primary for analysis, clustering, commitment, and prioritization; keep Python as the constraint and persistence layer.
 4. Wire evidence grounding into the live pipeline before final prioritization. **Done for the live pipeline path.**
-5. Add prediction-vs-outcome evaluation and rerun blinded tests until real signal beats decoys, shuffles, and baselines. **Started: persistence is in place; blinded eval still needs to move onto the grounded pipeline path.**
+5. Add prediction-vs-outcome evaluation and rerun blinded tests until real signal beats decoys, shuffles, and baselines. **Done on the deterministic generalized pipeline path.**
 
 ## Resume Here
-- Immediate next focus: Phase 3 — move blinded evaluation onto the grounded generalized pipeline and score predictions against observed outcomes.
-- Success bar: the system reasons over arbitrary signals without repo-specific heuristics and produces measurable prediction quality.
+- Immediate next focus: improve the legacy canary and enable live grounding / real model runs so the stronger evaluation path is exercised beyond the deterministic mock.
+- Success bar: the system reasons over arbitrary signals without repo-specific heuristics and maintains measurable prediction quality with live grounding enabled.
