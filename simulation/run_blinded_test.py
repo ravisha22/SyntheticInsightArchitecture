@@ -41,6 +41,11 @@ DOMAIN_REGISTRY: list[dict] = [
         "label": "Product / Community",
         "module": "simulation.scenarios.product_community_blinded",
     },
+    {
+        "slug": "mideast_conflict",
+        "label": "Middle East Conflict",
+        "module": "simulation.scenarios.mideast_conflict_blinded",
+    },
 ]
 
 RANDOM_SEED = 7

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "intervention-001",
+    "name": "Monitored Hormuz and Red Sea deconfliction corridor",
+    "root_cause": "institutional_fragmentation",
+    "existential_risk_reduction": 0.92,
+    "breadth_of_impact": 0.9,
+    "compounding_benefit": 0.85,
+    "evidence_quality": 0.82,
+    "reversibility": 0.58,
+    "predicted_outcome": "Shared convoy rules, verified hotline logs, and faster agency handoffs should cut proxy-triggered shipping incidents and humanitarian delivery delays."
+  },
+  {
+    "id": "intervention-002",
+    "name": "Civilian shelter, rent support, and protected displacement hubs",
+    "root_cause": "housing_instability",
+    "existential_risk_reduction": 0.95,
+    "breadth_of_impact": 0.86,
+    "compounding_benefit": 0.84,
+    "evidence_quality": 0.78,
+    "reversibility": 0.72,
+    "predicted_outcome": "If funded and protected, repeated displacement should fall, improvised shelter overcrowding should ease, and secondary mortality from eviction and exposure should decline."
+  },
+  {
+    "id": "intervention-003",
+    "name": "Sanctions carve-outs tied to food, fuel, and household utility imports",
+    "root_cause": "economic_fragility",
+    "existential_risk_reduction": 0.81,
+    "breadth_of_impact": 0.88,
+    "compounding_benefit": 0.9,
+    "evidence_quality": 0.76,
+    "reversibility": 0.64,
+    "predicted_outcome": "Household income stress, food debt, and utility arrears should stabilize faster, reducing incentives for further displacement and militia recruitment."
+  },
+  {
+    "id": "intervention-004",
+    "name": "IAEA access restoration with escrowed sensor feeds",
+    "root_cause": "trust_breakdown",
+    "existential_risk_reduction": 0.89,
+    "breadth_of_impact": 0.77,
+    "compounding_benefit": 0.87,
+    "evidence_quality": 0.85,
+    "reversibility": 0.49,
+    "predicted_outcome": "Verified monitoring should narrow rumor space around breakout timelines and improve diplomatic credibility for ceasefire and sanctions negotiations."
+  },
+  {
+    "id": "intervention-005",
+    "name": "Joint cyber defense surge for ports, desalination, and hospital grids",
+    "root_cause": "security_boundary",
+    "existential_risk_reduction": 0.84,
+    "breadth_of_impact": 0.79,
+    "compounding_benefit": 0.74,
+    "evidence_quality": 0.73,
+    "reversibility": 0.67,
+    "predicted_outcome": "Hardening exposed infrastructure should reduce blackout-driven humanitarian collapse and limit proxy escalation through civilian system failures."
+  },
+  {
+    "id": "intervention-006",
+    "name": "Regional anti-disinformation cell with verified ceasefire messaging",
+    "root_cause": "trust_breakdown",
+    "existential_risk_reduction": 0.76,
+    "breadth_of_impact": 0.83,
+    "compounding_benefit": 0.82,
+    "evidence_quality": 0.71,
+    "reversibility": 0.8,
+    "predicted_outcome": "Public trust in alerts, evacuation instructions, and diplomatic announcements should recover enough to improve compliance and reduce panic-driven escalation."
+  }
+]

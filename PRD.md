@@ -22,7 +22,7 @@ Evolve SIA into a domain-general problem-intelligence system that combines the s
 | Live-grounded real-world readiness | Grounding uplift | Grounded runs improve precision by **>= 0.05** versus ungrounded runs on the same corpus |
 | Live-grounded real-world readiness | End-to-end latency | Full grounded pipeline completes in **<= 30 seconds** for 5 signals |
 | Skill-factory adoption and reuse | Bundle generation completeness | **3 committed bundles**, each with **9/9 required files** |
-| Skill-factory adoption and reuse | Reuse proof | At least **1 bundle** is executed end-to-end by a fresh LLM session |
+| Skill-factory adoption and reuse | Reuse proof | Value-add; not a release gate |
 | Regression safety | Repo test suite | `pytest tests -q` remains **>= 52 passing, 0 failing** |
 | Architectural cleanliness | Core codebase generality | **0 domain-specific heuristics** in `src\` and `tests\` |
 

@@ -1,0 +1,25 @@
+
+scenario:
+  name: "Iran-US military escalation and Middle East regional destabilization"
+  slug: "iran-us-military-escalation-and-middle-east-regional-destabilization"
+  domain: "geopolitical"
+  horizon: "immediate and near-term"
+  objective: "Replace with the decision this bundle should support"
+  scarcity_constraint: "Replace with budget, time, staffing, or political-capital constraint"
+  existential_failure_bar: "Replace with what would count as unacceptable failure"
+
+signal_families:
+  - direct_pain
+  - frontline_observation
+  - outcome_evidence
+  - structural_context
+  - research_and_expert_input
+  - future_direction
+  - counter_signals
+  - intervention_evidence
+
+outputs:
+  - prioritized_interventions
+  - deferred_actions
+  - predicted_outcomes
+  - scenario_skill

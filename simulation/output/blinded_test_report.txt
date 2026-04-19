@@ -192,6 +192,72 @@ Pass: YES
 - Baseline comparison: PASS
 - **Product / Community: ALL PASS**
 
+## Middle East Conflict Domain
+- Grounding enabled: NO
+
+### Scored observed outcomes
+- housing instability -> The war's sharpest humanitarian deterioration came where repeated displacement a
+- institutional fragmentation -> Regional escalation persisted because fragmented agencies, weak handoff rules, a
+- economic fragility -> Oil disruption and sanctions mattered most when they cascaded into wage loss, fo
+- trust breakdown -> Escalation became harder to arrest once rumor, disinformation, and credibility c
+
+### Condition A (Real signals on AnalysisPipeline)
+Pass: YES
+- Hits: 4
+- Precision: 1.000
+- Recall: 1.000
+- Matched outcomes: housing instability, trust breakdown, institutional fragmentation, economic fragility
+- Shared weakness in housing instability | tier=existential | issues=3
+- Shared weakness in trust breakdown | tier=major | issues=3
+- Shared weakness in institutional fragmentation | tier=major | issues=2
+
+### Condition B (Decoy metadata invariance)
+Pass: YES
+- Target drift: none
+- Hits: 4
+- Precision: 1.000
+- Recall: 1.000
+- Matched outcomes: housing instability, trust breakdown, institutional fragmentation, economic fragility
+- Shared weakness in housing instability | tier=existential | issues=3
+- Shared weakness in trust breakdown | tier=major | issues=3
+- Shared weakness in institutional fragmentation | tier=major | issues=2
+
+### Condition C (Tag-shuffle control)
+Pass: YES
+- Real hits: 4
+- Shuffled hits: 2
+- Real precision: 1.000
+- Shuffled precision: 0.500
+- Shared weakness in housing instability | tier=existential | issues=5
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in network reliability | tier=major | issues=2
+
+### Condition D (Non-convergent corpus vs observed outcomes)
+Pass: YES
+- Real hits: 4
+- Non-convergent hits: 0
+- Real precision: 1.000
+- Non-convergent precision: 0.000
+- No chosen priorities
+
+### Baseline comparison
+Pass: YES
+- Pipeline hits: 4
+- Baseline hits: 0
+- Pipeline precision: 1.000
+- Baseline precision: 0.000
+- Top keyword terms: agencies, trust, missile, displacement, border, emergency, coordination, rumor, credibility, claims
+- Top keyword groups: agencies (3); trust (3)
+- Top label clusters: Agencies + Coordination (3); Displacement + Shelter (2); Credibility + Trust (2)
+
+### Domain verdict
+- Condition A: PASS
+- Condition B: PASS
+- Condition C: PASS
+- Condition D: PASS
+- Baseline comparison: PASS
+- **Middle East Conflict: ALL PASS**
+
 # Phase 2 — Live-Grounded Validation
 
 ### LG-1: Cluster evidence coverage: 4/4 = 100% (gate: >= 80%)
@@ -211,7 +277,7 @@ Pass: YES
 Pass: YES
 
 ### LG-5: Grounded latency SLA
-- Elapsed: 0.57s (gate: <= 30s)
+- Elapsed: 0.56s (gate: <= 30s)
 Pass: YES
 
 ### LG-6: Evidence persistence
@@ -228,12 +294,13 @@ Pass: YES
 - **Phase 2 gate: MET**
 
 # Cross-Domain Summary
-- Domains evaluated: 3
-- Domains passed (5/5): 3/3
+- Domains evaluated: 4
+- Domains passed (5/5): 4/4
 
 - Social / Civic: PASS
 - Code / Engineering: PASS
 - Product / Community: PASS
+- Middle East Conflict: PASS
 
 **Phase 1 gate (>= 3 domains pass): MET**
 **Phase 2 gate (grounding validation): MET**
