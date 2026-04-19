@@ -185,5 +185,8 @@ Primary artifacts for future validation:
 - `LLM_HANDOFF.md`
 
 ## Resume Here
-- Immediate next focus: widen generalized scenario coverage and validate live-grounded runs beyond the deterministic mock.
-- Success bar: the system reasons over arbitrary signals without repo-specific heuristics, bundles scenario intelligence from broad evidence, and maintains measurable prediction quality with live grounding enabled.
+- Phase 1 cross-domain gate: **MET** — 3/3 domains pass 5/5 blinded conditions (social/civic, code/engineering, product/community).
+- Phase 3 skill-factory bundles: 3 committed bundles, each 9/9 files. Fresh-session reuse still needs proof.
+- Phase 2 live-grounded validation: not yet started (grounding still opt-in).
+- Phase 4 spec-alignment: VerificationHarness and IntegrationEngine wiring in progress.
+- Next focus: complete grounding validation and prove fresh-session bundle reuse.

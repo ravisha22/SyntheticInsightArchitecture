@@ -13,6 +13,8 @@ from .components.dream_engine import DreamEngine
 from .components.collision_search import CollisionSearch
 from .components.crystallization import CrystallizationDetector
 from .components.failure_journal import FailureJournal
+from .components.verification import VerificationHarness
+from .components.integration import IntegrationEngine
 from .adapters.mock import MockAdapter
 
 class SIAEngine:
@@ -64,6 +66,8 @@ class SIAEngine:
         self.collisions = CollisionSearch(self.conn, self.model)
         self.crystallization = CrystallizationDetector(self.conn, self.config)
         self.failures = FailureJournal(self.conn)
+        self.verification = VerificationHarness(self.conn, self.model)
+        self.integration = IntegrationEngine(self.conn)
         
         self.cycle = 0
     
@@ -280,6 +284,15 @@ class SIAEngine:
                         scores=scores,
                         cycle=self.cycle
                     )
+        
+        # Verify and integrate candidate insights
+        candidates = self.conn.execute(
+            "SELECT id FROM insights WHERE status = 'candidate'"
+        ).fetchall()
+        for row in candidates:
+            result = self.verification.verify_insight(row["id"], self.cycle)
+            if result.get("verified"):
+                self.integration.integrate_insight(row["id"], self.cycle)
     
     def get_state_summary(self) -> dict:
         active_tensions = self.conn.execute(

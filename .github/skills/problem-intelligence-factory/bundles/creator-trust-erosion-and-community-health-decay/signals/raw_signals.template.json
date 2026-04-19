@@ -1,0 +1,17 @@
+[
+  {
+    "id": "signal-001",
+    "type": "complaint",
+    "source": "replace-me",
+    "summary": "replace-me",
+    "evidence": "replace-me",
+    "timestamp": "2026-01-01",
+    "stakeholder": "replace-me",
+    "severity_hint": 0.5,
+    "breadth_hint": 0.5,
+    "recency_hint": 0.5,
+    "credibility_hint": 0.5,
+    "independence_hint": 0.5,
+    "noise_flags": []
+  }
+]

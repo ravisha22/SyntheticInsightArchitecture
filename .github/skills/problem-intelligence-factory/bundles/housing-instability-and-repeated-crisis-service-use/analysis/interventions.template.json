@@ -1,0 +1,13 @@
+[
+  {
+    "id": "intervention-001",
+    "name": "replace-me",
+    "root_cause": "replace-me",
+    "existential_risk_reduction": 0.5,
+    "breadth_of_impact": 0.5,
+    "compounding_benefit": 0.5,
+    "evidence_quality": 0.5,
+    "reversibility": 0.5,
+    "predicted_outcome": "replace-me"
+  }
+]
