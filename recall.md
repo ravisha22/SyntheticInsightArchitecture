@@ -185,8 +185,9 @@ Primary artifacts for future validation:
 - `LLM_HANDOFF.md`
 
 ## Resume Here
-- Phase 1 cross-domain gate: **MET** — 3/3 domains pass 5/5 blinded conditions (social/civic, code/engineering, product/community).
+- Phase 1 cross-domain gate: **MET** — 3/3 domains pass 5/5 blinded conditions.
+- Phase 2 live-grounded gate: **MET** — coverage 100%, uplift +0.500, degradation safe, persistence verified.
 - Phase 3 skill-factory bundles: 3 committed bundles, each 9/9 files. Fresh-session reuse still needs proof.
-- Phase 2 live-grounded validation: not yet started (grounding still opt-in).
-- Phase 4 spec-alignment: VerificationHarness and IntegrationEngine wiring in progress.
-- Next focus: complete grounding validation and prove fresh-session bundle reuse.
+- Phase 4 spec-alignment: VerificationHarness and IntegrationEngine wired. ImmersionEngine and SocialLedger remain unwired.
+- 53 tests passing.
+- Next focus: prove fresh-session bundle reuse (SF-8), wire remaining spec components (ImmersionEngine, SocialLedger).
