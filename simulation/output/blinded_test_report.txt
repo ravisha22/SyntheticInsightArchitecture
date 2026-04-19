@@ -1,11 +1,13 @@
-## Blinded Report
+# Multi-Domain Blinded Report
+
+## Social / Civic Domain
 - Grounding enabled: NO
 
 ### Scored observed outcomes
-- housing instability -> reduced repeat crisis use after placement loss
-- institutional fragmentation -> reduced cross-agency intake restarts
+- housing instability -> Placement loss and repeat crisis use were reduced only when housing stability wa
+- institutional fragmentation -> Cross-agency restarts fell only when referral and handoff fragmentation were add
 
-### Condition A (Real generalized signals on AnalysisPipeline)
+### Condition A (Real signals on AnalysisPipeline)
 Pass: YES
 - Hits: 2
 - Precision: 0.500
@@ -36,7 +38,7 @@ Pass: YES
 - Shared weakness in housing instability | tier=existential | issues=2
 - Shared weakness in care access gap | tier=major | issues=2
 
-### Condition D (Non-convergent corpus vs observed systemic outcomes)
+### Condition D (Non-convergent corpus vs observed outcomes)
 Pass: YES
 - Real hits: 2
 - Non-convergent hits: 0
@@ -54,9 +56,148 @@ Pass: YES
 - Top keyword groups: 
 - Top label clusters: Eviction + Housing (1); Eviction + Shelter (1); Housing + Shelter (1)
 
-### Overall verdict
+### Domain verdict
 - Condition A: PASS
 - Condition B: PASS
 - Condition C: PASS
 - Condition D: PASS
 - Baseline comparison: PASS
+- **Social / Civic: ALL PASS**
+
+## Code / Engineering Domain
+- Grounding enabled: NO
+
+### Scored observed outcomes
+- security boundary weakness -> The highest-impact incidents converged on broken auth and injection safeguards a
+- performance reliability degradation -> Stability improved only when memory leak and slow-path reliability problems were
+- type system mismatch -> Import and client failures dropped only after nullable and schema coercion bugs 
+
+### Condition A (Real signals on AnalysisPipeline)
+Pass: YES
+- Hits: 3
+- Precision: 0.750
+- Recall: 1.000
+- Matched outcomes: security boundary weakness, performance reliability degradation, type system mismatch
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in performance reliability | tier=major | issues=2
+- Shared weakness in type system | tier=major | issues=2
+
+### Condition B (Decoy metadata invariance)
+Pass: YES
+- Target drift: none
+- Hits: 3
+- Precision: 0.750
+- Recall: 1.000
+- Matched outcomes: security boundary weakness, performance reliability degradation, type system mismatch
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in performance reliability | tier=major | issues=2
+- Shared weakness in type system | tier=major | issues=2
+
+### Condition C (Tag-shuffle control)
+Pass: YES
+- Real hits: 3
+- Shuffled hits: 2
+- Real precision: 0.750
+- Shuffled precision: 1.000
+- Shared weakness in security boundary | tier=existential | issues=3
+- Shared weakness in performance reliability | tier=major | issues=4
+
+### Condition D (Non-convergent corpus vs observed outcomes)
+Pass: YES
+- Real hits: 3
+- Non-convergent hits: 0
+- Real precision: 0.750
+- Non-convergent precision: 0.000
+- No chosen priorities
+
+### Baseline comparison
+Pass: YES
+- Pipeline hits: 3
+- Baseline hits: 0
+- Pipeline precision: 0.750
+- Baseline precision: 0.000
+- Top keyword terms: auth, gateway, accepts, stale, bearer, tokens, logout, template, preview, endpoint
+- Top keyword groups: 
+- Top label clusters: Auth + Security (1); Auth + Token (1); Security + Token (1)
+
+### Domain verdict
+- Condition A: PASS
+- Condition B: PASS
+- Condition C: PASS
+- Condition D: PASS
+- Baseline comparison: PASS
+- **Code / Engineering: ALL PASS**
+
+## Product / Community Domain
+- Grounding enabled: NO
+
+### Scored observed outcomes
+- trust breakdown -> Retention and participation recovered only when misinformation, rumor control, a
+- institutional fragmentation -> Creator resolution times improved only when referral, handoff, and cross-team co
+- economic fragility -> Churn decreased only after the product treated income shocks, debt pressure, and
+
+### Condition A (Real signals on AnalysisPipeline)
+Pass: YES
+- Hits: 3
+- Precision: 1.000
+- Recall: 1.000
+- Matched outcomes: trust breakdown, institutional fragmentation, economic fragility
+- Shared weakness in trust breakdown | tier=major | issues=4
+- Shared weakness in institutional fragmentation | tier=major | issues=2
+- Shared weakness in economic fragility | tier=major | issues=2
+
+### Condition B (Decoy metadata invariance)
+Pass: YES
+- Target drift: none
+- Hits: 3
+- Precision: 1.000
+- Recall: 1.000
+- Matched outcomes: trust breakdown, institutional fragmentation, economic fragility
+- Shared weakness in trust breakdown | tier=major | issues=4
+- Shared weakness in institutional fragmentation | tier=major | issues=2
+- Shared weakness in economic fragility | tier=major | issues=2
+
+### Condition C (Tag-shuffle control)
+Pass: YES
+- Real hits: 3
+- Shuffled hits: 2
+- Real precision: 1.000
+- Shuffled precision: 1.000
+- Shared weakness in economic fragility | tier=major | issues=5
+- Shared weakness in trust breakdown | tier=major | issues=2
+
+### Condition D (Non-convergent corpus vs observed outcomes)
+Pass: YES
+- Real hits: 3
+- Non-convergent hits: 0
+- Real precision: 1.000
+- Non-convergent precision: 0.000
+- No chosen priorities
+
+### Baseline comparison
+Pass: YES
+- Pipeline hits: 3
+- Baseline hits: 0
+- Pipeline precision: 1.000
+- Baseline precision: 0.000
+- Top keyword terms: trust, members, rumor, cycles, driving, down, flagship, creator, groups, cite
+- Top keyword groups: 
+- Top label clusters: Community + Creator (1); Community + Trust (1); Creator + Trust (1)
+
+### Domain verdict
+- Condition A: PASS
+- Condition B: PASS
+- Condition C: PASS
+- Condition D: PASS
+- Baseline comparison: PASS
+- **Product / Community: ALL PASS**
+
+# Cross-Domain Summary
+- Domains evaluated: 3
+- Domains passed (5/5): 3/3
+
+- Social / Civic: PASS
+- Code / Engineering: PASS
+- Product / Community: PASS
+
+**Phase 1 gate (>= 3 domains pass): MET**

@@ -1,6 +1,7 @@
 """Run blinded generalized AnalysisPipeline tests against cross-domain signal corpora."""
 from __future__ import annotations
 
+import importlib
 import json
 import os
 import random
@@ -17,15 +18,30 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from simulation.baselines import run_baselines
-from simulation.scenarios.generalized_blinded import (
-    build_decoy_seed_scenario,
-    build_generalized_scenario,
-    build_nonconvergent_scenario,
-    build_tag_shuffle_control,
-)
 from src.adapters.mock import MockAdapter
 from src.schema import init_db
 from src.services.analysis_pipeline import AnalysisPipeline
+
+# Domain registry — each entry maps to a scenario module that exports the
+# standard builder contract (build_generalized_scenario, build_decoy_seed_scenario,
+# build_tag_shuffle_control, build_nonconvergent_scenario).
+DOMAIN_REGISTRY: list[dict] = [
+    {
+        "slug": "social_civic",
+        "label": "Social / Civic",
+        "module": "simulation.scenarios.generalized_blinded",
+    },
+    {
+        "slug": "code_engineering",
+        "label": "Code / Engineering",
+        "module": "simulation.scenarios.code_engineering_blinded",
+    },
+    {
+        "slug": "product_community",
+        "label": "Product / Community",
+        "module": "simulation.scenarios.product_community_blinded",
+    },
+]
 
 RANDOM_SEED = 7
 BUDGET = 5
@@ -237,23 +253,44 @@ def score_lines(result: dict) -> list[str]:
     ]
 
 
-def main() -> None:
-    set_reproducible_seed()
+def outcome_summary_lines(observed_outcomes: list[dict]) -> list[str]:
+    """Dynamically build scored-outcome summary from the corpus."""
+    lines = []
+    for outcome in observed_outcomes:
+        label = outcome.get("label", "?")
+        detail = outcome.get("detail", "")
+        short = detail[:80] if detail else label
+        lines.append(f"- {label} -> {short}")
+    return lines
 
-    real_scenario = build_generalized_scenario()
-    decoy_scenario = build_decoy_seed_scenario()
-    shuffled_scenario = build_tag_shuffle_control(seed=RANDOM_SEED)
-    nonconvergent = build_nonconvergent_scenario()
+
+def evaluate_domain(
+    domain: dict,
+    random_seed: int = RANDOM_SEED,
+    budget: int = BUDGET,
+) -> dict:
+    """Run all 5 blinded conditions for a single domain corpus.
+
+    Returns a dict with verdicts, scores, and report lines.
+    """
+    mod = importlib.import_module(domain["module"])
+    label = domain["label"]
+    slug = domain["slug"]
+
+    real_scenario = mod.build_generalized_scenario()
+    decoy_scenario = mod.build_decoy_seed_scenario()
+    shuffled_scenario = mod.build_tag_shuffle_control(seed=random_seed)
+    nonconvergent = mod.build_nonconvergent_scenario()
     observed_outcomes = real_scenario["observed_outcomes"]
 
     baselines = run_baselines(real_scenario["issues"])
-    result_a = run_condition("Condition A", real_scenario, "condition_a")
-    result_b = run_condition("Condition B", decoy_scenario, "condition_b")
-    result_c = run_condition("Condition C", shuffled_scenario, "condition_c")
+    result_a = run_condition("Condition A", real_scenario, f"{slug}_a")
+    result_b = run_condition("Condition B", decoy_scenario, f"{slug}_b")
+    result_c = run_condition("Condition C", shuffled_scenario, f"{slug}_c")
     result_d = run_condition(
         "Condition D",
         nonconvergent,
-        "condition_d",
+        f"{slug}_d",
         observed_outcomes=observed_outcomes,
     )
 
@@ -263,15 +300,16 @@ def main() -> None:
     verdict_d = condition_d_pass(result_a, result_d)
     verdict_baseline, baseline_score = baseline_advantage(result_a, baselines)
 
-    report = [
-        "## Blinded Report",
+    all_pass = all([verdict_a, verdict_b, verdict_c, verdict_d, verdict_baseline])
+
+    report_lines = [
+        f"## {label} Domain",
         f"- Grounding enabled: {'YES' if result_a['grounding_enabled'] else 'NO'}",
         "",
         "### Scored observed outcomes",
-        "- housing instability -> reduced repeat crisis use after placement loss",
-        "- institutional fragmentation -> reduced cross-agency intake restarts",
+        *outcome_summary_lines(observed_outcomes),
         "",
-        "### Condition A (Real generalized signals on AnalysisPipeline)",
+        "### Condition A (Real signals on AnalysisPipeline)",
         f"Pass: {'YES' if verdict_a else 'NO'}",
         *score_lines(result_a),
         *top_choice_lines(result_a),
@@ -290,7 +328,7 @@ def main() -> None:
         f"- Shuffled precision: {result_c['score']['precision']:.3f}",
         *top_choice_lines(result_c),
         "",
-        "### Condition D (Non-convergent corpus vs observed systemic outcomes)",
+        "### Condition D (Non-convergent corpus vs observed outcomes)",
         f"Pass: {'YES' if verdict_d else 'NO'}",
         f"- Real hits: {result_a['score']['hit_count']}",
         f"- Non-convergent hits: {result_d['score']['hit_count']}",
@@ -313,17 +351,86 @@ def main() -> None:
             for cluster in baselines["label_cooccurrence"]["clusters"]
         ),
         "",
-        "### Overall verdict",
+        "### Domain verdict",
         f"- Condition A: {'PASS' if verdict_a else 'FAIL'}",
         f"- Condition B: {'PASS' if verdict_b else 'FAIL'}",
         f"- Condition C: {'PASS' if verdict_c else 'FAIL'}",
         f"- Condition D: {'PASS' if verdict_d else 'FAIL'}",
         f"- Baseline comparison: {'PASS' if verdict_baseline else 'FAIL'}",
+        f"- **{label}: {'ALL PASS' if all_pass else 'FAIL'}**",
     ]
 
-    report_text = "\n".join(report)
+    return {
+        "label": label,
+        "slug": slug,
+        "all_pass": all_pass,
+        "verdicts": {
+            "a": verdict_a,
+            "b": verdict_b,
+            "c": verdict_c,
+            "d": verdict_d,
+            "baseline": verdict_baseline,
+        },
+        "scores": {
+            "a": result_a["score"],
+            "baseline": baseline_score,
+        },
+        "report_lines": report_lines,
+    }
+
+
+def main() -> None:
+    set_reproducible_seed()
+
+    # Discover available domains — skip modules that aren't installed yet
+    available_domains = []
+    for domain in DOMAIN_REGISTRY:
+        try:
+            importlib.import_module(domain["module"])
+            available_domains.append(domain)
+        except ImportError:
+            print(f"[SKIP] {domain['label']}: module {domain['module']} not found")
+
+    if not available_domains:
+        print("ERROR: No domain corpora available.")
+        sys.exit(1)
+
+    all_report_lines = ["# Multi-Domain Blinded Report", ""]
+    domain_results = []
+
+    for domain in available_domains:
+        print(f"\n{'='*60}")
+        print(f"Evaluating: {domain['label']}")
+        print(f"{'='*60}")
+        result = evaluate_domain(domain)
+        domain_results.append(result)
+        all_report_lines.extend(result["report_lines"])
+        all_report_lines.append("")
+
+    # Aggregate summary
+    passed_count = sum(1 for r in domain_results if r["all_pass"])
+    total_count = len(domain_results)
+
+    all_report_lines.extend([
+        "# Cross-Domain Summary",
+        f"- Domains evaluated: {total_count}",
+        f"- Domains passed (5/5): {passed_count}/{total_count}",
+        "",
+    ])
+    for r in domain_results:
+        all_report_lines.append(
+            f"- {r['label']}: {'PASS' if r['all_pass'] else 'FAIL'}"
+        )
+
+    gate_met = passed_count >= 3
+    all_report_lines.extend([
+        "",
+        f"**Phase 1 gate (>= 3 domains pass): {'MET' if gate_met else 'NOT MET'}**",
+    ])
+
+    report_text = "\n".join(all_report_lines)
     report_path = write_report(report_text)
-    print(report_text)
+    print("\n" + report_text)
     print(f"\nSaved report to: {report_path}")
 
 
