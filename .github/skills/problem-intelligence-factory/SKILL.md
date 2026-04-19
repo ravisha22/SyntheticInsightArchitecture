@@ -163,38 +163,49 @@ Must connect:
 
 ## Recommended Report Shape
 
+The report should lead with a **narrative** that connects the causal chain for the reader, followed by a **summary table**. The narrative must trace the transmission path from root cause to impact, showing how the clusters interact and compound. It should read as a coherent story, not a list of findings.
+
 Use this default shape unless the user asks for a different one:
 
 ```markdown
 # [Scenario Title]
 
-## Executive summary
-[One-paragraph summary]
+## Narrative
 
-## System framing
-- Objective:
-- Scarcity constraint:
-- Existential failure bar:
+[Multi-paragraph narrative that:]
+- Starts from the triggering event or structural condition
+- Traces the causal chain through each systemic weakness
+- Shows how the weaknesses compound each other
+- Uses specific numbers and evidence from the signals
+- Ends with the most dangerous feedback loop
+- Cites sources where available
 
-## Signal map
-- High-trust direct signals
-- High-trust structural signals
-- Future-direction signals
-- Counter-signals / noise
+## Summary
 
-## Prioritized interventions
-1. Intervention
-2. Intervention
-3. Intervention
+### Systemic Root Causes
 
-## Deferred work
-- What is deferred
-- Why
-- Risk of deferral
+| # | Root Cause | Severity | Key Signals | Mechanism |
+|---|-----------|----------|-------------|-----------|
+| 1 | ... | Existential / Major | signal descriptions | how it transmits harm |
 
-## Predicted outcomes
-- If #1 is correct, what should change?
-- What would falsify that?
+### Prioritized Interventions
+
+| # | Intervention | Root Cause | Score | Predicted Outcome |
+|---|-------------|-----------|-------|-------------------|
+| 1 | ... | ... | 0.xxx | what should change if it works |
+
+### What Would Falsify These
+
+- If intervention #1 is funded but [metric] doesn't improve → [alternative explanation]
+- ...
+
+### Scenario Projections
+
+| Horizon | What happens |
+|---------|-------------|
+| 6 months | ... |
+| 18 months | ... |
+| 3 years | ... |
 ```
 
 ## When Creating the Scenario-Specific Skill

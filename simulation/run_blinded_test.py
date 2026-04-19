@@ -1,12 +1,14 @@
 """Run blinded generalized AnalysisPipeline tests against cross-domain signal corpora."""
 from __future__ import annotations
 
+import argparse
 import importlib
 import json
 import os
 import random
 import sys
 from pathlib import Path
+from typing import Callable
 
 try:
     import numpy as np
@@ -59,6 +61,16 @@ OUTPUT_DIR = ROOT / "simulation" / "output"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Run blinded evaluation")
+    parser.add_argument("--adapter", choices=["mock", "openai", "ollama"], default="mock",
+                        help="Which LLM adapter to use (default: mock)")
+    parser.add_argument("--model", default=None, help="Model name for openai/ollama adapter")
+    parser.add_argument("--api-key", default=None, help="API key (or set SIA_API_KEY env var)")
+    parser.add_argument("--base-url", default=None, help="API base URL")
+    return parser.parse_args()
+
+
 def set_reproducible_seed() -> None:
     random.seed(RANDOM_SEED)
     if np is not None:
@@ -100,15 +112,24 @@ def run_condition(
     scenario: dict,
     slug: str,
     observed_outcomes: list[dict] | None = None,
+    adapter=None,
+    adapter_factory: Callable[[int], object] | None = None,
 ) -> dict:
     db_path = OUTPUT_DIR / f"{slug}.db"
     if db_path.exists():
         db_path.unlink()
 
     conn = init_db(str(db_path))
+    adapter_instance = adapter
+    if adapter_instance is None:
+        adapter_instance = (
+            adapter_factory(RANDOM_SEED)
+            if adapter_factory
+            else MockAdapter(seed=RANDOM_SEED)
+        )
     pipeline = AnalysisPipeline(
         conn,
-        MockAdapter(seed=RANDOM_SEED),
+        adapter_instance,
         config=grounding_config(),
     )
     report = pipeline.run_full_pipeline(
@@ -278,6 +299,7 @@ def evaluate_domain(
     domain: dict,
     random_seed: int = RANDOM_SEED,
     budget: int = BUDGET,
+    adapter_factory: Callable[[int], object] | None = None,
 ) -> dict:
     """Run all 5 blinded conditions for a single domain corpus.
 
@@ -294,14 +316,15 @@ def evaluate_domain(
     observed_outcomes = real_scenario["observed_outcomes"]
 
     baselines = run_baselines(real_scenario["issues"])
-    result_a = run_condition("Condition A", real_scenario, f"{slug}_a")
-    result_b = run_condition("Condition B", decoy_scenario, f"{slug}_b")
-    result_c = run_condition("Condition C", shuffled_scenario, f"{slug}_c")
+    result_a = run_condition("Condition A", real_scenario, f"{slug}_a", adapter_factory=adapter_factory)
+    result_b = run_condition("Condition B", decoy_scenario, f"{slug}_b", adapter_factory=adapter_factory)
+    result_c = run_condition("Condition C", shuffled_scenario, f"{slug}_c", adapter_factory=adapter_factory)
     result_d = run_condition(
         "Condition D",
         nonconvergent,
         f"{slug}_d",
         observed_outcomes=observed_outcomes,
+        adapter_factory=adapter_factory,
     )
 
     verdict_a = condition_a_pass(result_a)
@@ -389,7 +412,7 @@ def evaluate_domain(
     }
 
 
-def evaluate_grounding() -> dict:
+def evaluate_grounding(adapter_factory: Callable[[int], object] | None = None) -> dict:
     """Run Phase 2 grounding validation."""
     import time
 
@@ -413,9 +436,10 @@ def evaluate_grounding() -> dict:
     if db_grounded.exists():
         db_grounded.unlink()
     conn_grounded = init_db(str(db_grounded))
+    make_adapter = adapter_factory or (lambda seed: MockAdapter(seed=seed))
     pipeline_grounded = AnalysisPipeline(
         conn_grounded,
-        MockAdapter(seed=RANDOM_SEED),
+        make_adapter(RANDOM_SEED),
         config={"grounder": grounded_grounder},
     )
     report_grounded = pipeline_grounded.run_full_pipeline(
@@ -458,7 +482,7 @@ def evaluate_grounding() -> dict:
     conn_ungrounded = init_db(str(db_ungrounded))
     pipeline_ungrounded = AnalysisPipeline(
         conn_ungrounded,
-        MockAdapter(seed=RANDOM_SEED),
+        make_adapter(RANDOM_SEED),
         config={},
     )
     report_ungrounded = pipeline_ungrounded.run_full_pipeline(
@@ -485,7 +509,7 @@ def evaluate_grounding() -> dict:
     try:
         pipeline_empty = AnalysisPipeline(
             conn_empty,
-            MockAdapter(seed=RANDOM_SEED),
+            make_adapter(RANDOM_SEED),
             config={"grounder": empty_grounder},
         )
         pipeline_empty.run_full_pipeline(
@@ -509,7 +533,7 @@ def evaluate_grounding() -> dict:
     try:
         pipeline_fail = AnalysisPipeline(
             conn_fail,
-            MockAdapter(seed=RANDOM_SEED),
+            make_adapter(RANDOM_SEED),
             config={"grounder": FailingGrounder()},
         )
         pipeline_fail.run_full_pipeline(
@@ -529,7 +553,7 @@ def evaluate_grounding() -> dict:
     conn_lat = init_db(str(db_latency))
     pipeline_lat = AnalysisPipeline(
         conn_lat,
-        MockAdapter(seed=RANDOM_SEED),
+        make_adapter(RANDOM_SEED),
         config={"grounder": grounded_grounder},
     )
     pipeline_lat.run_full_pipeline(
@@ -606,7 +630,26 @@ def evaluate_grounding() -> dict:
 
 
 def main() -> None:
+    args = parse_args()
     set_reproducible_seed()
+
+    adapter_config = {}
+    if args.adapter == "openai":
+        from src.adapters.openai_api import OpenAIAdapter
+
+        adapter_config = {
+            "api_key": args.api_key,
+            "base_url": args.base_url or "https://api.openai.com/v1",
+            "model": args.model or "gpt-4o",
+        }
+        adapter_factory = lambda seed: OpenAIAdapter(adapter_config)
+    elif args.adapter == "ollama":
+        from src.adapters.ollama import OllamaAdapter
+
+        adapter_config = {"ollama_model": args.model or "llama3.1:8b-instruct"}
+        adapter_factory = lambda seed: OllamaAdapter(adapter_config)
+    else:
+        adapter_factory = lambda seed: MockAdapter(seed=seed)
 
     # Discover available domains — skip modules that aren't installed yet
     available_domains = []
@@ -628,7 +671,7 @@ def main() -> None:
         print(f"\n{'='*60}")
         print(f"Evaluating: {domain['label']}")
         print(f"{'='*60}")
-        result = evaluate_domain(domain)
+        result = evaluate_domain(domain, adapter_factory=adapter_factory)
         domain_results.append(result)
         all_report_lines.extend(result["report_lines"])
         all_report_lines.append("")
@@ -636,7 +679,7 @@ def main() -> None:
     print(f"\n{'='*60}")
     print("Evaluating: Grounding Validation")
     print(f"{'='*60}")
-    grounding_result = evaluate_grounding()
+    grounding_result = evaluate_grounding(adapter_factory=adapter_factory)
     all_report_lines.extend(grounding_result["report_lines"])
     all_report_lines.append("")
 

@@ -343,7 +343,7 @@ Pass: YES
 Pass: YES
 
 ### LG-5: Grounded latency SLA
-- Elapsed: 0.58s (gate: <= 30s)
+- Elapsed: 0.85s (gate: <= 30s)
 Pass: YES
 
 ### LG-6: Evidence persistence

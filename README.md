@@ -40,3 +40,46 @@ python -m simulation.run_pagerank
 
 - `Cognitive_Insight_Architecture_Specification.docx` — Full formal specification
 - `configs/default.yaml` — All tunable parameters
+
+## Running with a Real LLM
+
+By default, SIA uses a deterministic mock adapter for evaluation. To use a real LLM:
+
+### OpenAI / GPT
+```bash
+python -m simulation.run_blinded_test --adapter openai --api-key sk-... --model gpt-4o
+```
+
+### Azure OpenAI
+```bash
+python -m simulation.run_blinded_test --adapter openai \
+  --base-url https://your-resource.openai.azure.com/openai/deployments/your-deployment \
+  --api-key your-azure-key --model gpt-4o
+```
+
+### Groq
+```bash
+python -m simulation.run_blinded_test --adapter openai \
+  --base-url https://api.groq.com/openai/v1 \
+  --api-key gsk_... --model llama-3.1-70b-versatile
+```
+
+### Local (Ollama, LM Studio, vLLM)
+```bash
+# Ollama native
+python -m simulation.run_blinded_test --adapter ollama --model llama3.1:8b-instruct
+
+# Ollama OpenAI-compatible mode
+python -m simulation.run_blinded_test --adapter openai \
+  --base-url http://localhost:11434/v1 --model llama3.1:8b-instruct
+
+# LM Studio
+python -m simulation.run_blinded_test --adapter openai \
+  --base-url http://localhost:1234/v1 --model local-model
+```
+
+### Environment variable
+```bash
+export SIA_API_KEY=sk-...
+python -m simulation.run_blinded_test --adapter openai --model gpt-4o
+```

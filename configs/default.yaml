@@ -91,6 +91,33 @@ affect:
   slack_loss_threshold: 0.7
 
 model:
-  backend: mock  # mock | ollama
+  backend: mock  # mock | ollama | openai
+
+  # --- OpenAI-compatible API (uncomment to use) ---
+  # backend: openai
+  # api_key: sk-...           # or set SIA_API_KEY env var
+  # base_url: https://api.openai.com/v1
+  # model: gpt-4o
+  # temperature: 0.3
+  # max_tokens: 4096
+
+  # --- Azure OpenAI ---
+  # backend: openai
+  # api_key: your-azure-key
+  # base_url: https://your-resource.openai.azure.com/openai/deployments/your-deployment
+  # model: gpt-4o
+
+  # --- Groq ---
+  # backend: openai
+  # api_key: gsk_...
+  # base_url: https://api.groq.com/openai/v1
+  # model: llama-3.1-70b-versatile
+
+  # --- Local (Ollama OpenAI-compatible, LM Studio, vLLM) ---
+  # backend: openai
+  # base_url: http://localhost:11434/v1
+  # model: llama3.1:8b-instruct
+  # api_key: not-needed
+
   ollama_model: llama3.1:8b-instruct
   temperature: 0.7

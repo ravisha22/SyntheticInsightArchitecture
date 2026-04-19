@@ -51,6 +51,9 @@ class SIAEngine:
         backend = self.config.get("model", {}).get("backend", "mock")
         if backend == "mock":
             self.model = MockAdapter()
+        elif backend == "openai":
+            from .adapters.openai_api import OpenAIAdapter
+            self.model = OpenAIAdapter(self.config.get("model", {}))
         else:
             from .adapters.ollama import OllamaAdapter
             self.model = OllamaAdapter(self.config.get("model", {}))
