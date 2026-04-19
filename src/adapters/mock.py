@@ -350,8 +350,26 @@ class MockAdapter(ModelAdapter):
         }
 
     def _evidence_grounding(self, user_prompt: str) -> dict:
+        severity_match = re.search(
+            r"severity(?:_if_unaddressed)?[\"']?\s*[:=]\s*[\"']?(\w+)",
+            user_prompt,
+            re.IGNORECASE,
+        )
+        original_severity = severity_match.group(1).lower() if severity_match else "moderate"
+        severity_rank = {
+            "existential": 0,
+            "major": 1,
+            "moderate": 2,
+            "minor": 3,
+            "cosmetic": 4,
+        }
+        rank_to_severity = {rank: severity for severity, rank in severity_rank.items()}
+        original_rank = severity_rank.get(original_severity, 2)
+        revised_rank = max(0, original_rank - 1)
+        revised_severity = rank_to_severity.get(revised_rank, original_severity)
+
         return {
-            "revised_severity": "major",
+            "revised_severity": revised_severity,
             "supporting_evidence": [
                 "Multiple community reports confirm this pattern",
                 "Similar issues found in related projects",

@@ -192,6 +192,41 @@ Pass: YES
 - Baseline comparison: PASS
 - **Product / Community: ALL PASS**
 
+# Phase 2 — Live-Grounded Validation
+
+### LG-1: Cluster evidence coverage: 4/4 = 100% (gate: >= 80%)
+Pass: YES
+
+### LG-2: No-evidence graceful degradation
+Pass: YES
+
+### LG-3: Error graceful degradation
+Pass: YES
+
+### LG-4: Grounded vs ungrounded precision uplift
+- Comparison budget: 2
+- Grounded precision: 1.000
+- Ungrounded precision: 0.500
+- Uplift: +0.500 (gate: >= +0.05)
+Pass: YES
+
+### LG-5: Grounded latency SLA
+- Elapsed: 0.57s (gate: <= 30s)
+Pass: YES
+
+### LG-6: Evidence persistence
+- Rows with grounding data: 4
+Pass: YES
+
+### Phase 2 verdict
+- LG-1: PASS
+- LG-2: PASS
+- LG-3: PASS
+- LG-4: PASS
+- LG-5: PASS
+- LG-6: PASS
+- **Phase 2 gate: MET**
+
 # Cross-Domain Summary
 - Domains evaluated: 3
 - Domains passed (5/5): 3/3
@@ -201,3 +236,4 @@ Pass: YES
 - Product / Community: PASS
 
 **Phase 1 gate (>= 3 domains pass): MET**
+**Phase 2 gate (grounding validation): MET**

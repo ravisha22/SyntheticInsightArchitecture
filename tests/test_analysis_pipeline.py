@@ -339,6 +339,22 @@ class TestAnalysisPipeline:
         assert len(json.loads(row["outcomes_json"])) == 2
         assert any("housing" in prediction["target"].lower() for prediction in score["scored_predictions"])
 
+    def test_grounding_failure_gracefully_degrades(self, db, sample_issues):
+        class FailingGrounder:
+            def search_evidence(self, query: str):
+                raise ConnectionError("Simulated network failure")
+
+        pipeline = AnalysisPipeline(
+            db,
+            MockAdapter(seed=42),
+            config={"grounder": FailingGrounder()},
+        )
+
+        report = pipeline.run_full_pipeline(sample_issues[:4], budget=2)
+
+        assert report["clusters"]["clusters"]
+        assert report["prioritization"]["run_id"]
+
     def test_score_predictions_prefers_unclaimed_positive_outcomes(self, db):
         pipeline = AnalysisPipeline(db, MockAdapter(seed=42), config={})
         db.execute(

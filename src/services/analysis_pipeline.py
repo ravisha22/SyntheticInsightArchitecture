@@ -665,7 +665,10 @@ class AnalysisPipeline:
     def _ground_single_cluster(self, cluster: dict) -> dict:
         grounded = dict(cluster)
         grounding_query = self._build_grounding_query(cluster)
-        evidence = self.grounder.search_evidence(grounding_query) if grounding_query else []
+        try:
+            evidence = self.grounder.search_evidence(grounding_query) if grounding_query else []
+        except Exception:
+            evidence = []
         grounded["grounding_query"] = grounding_query
         grounded["grounding_evidence"] = evidence
         grounded["original_severity"] = cluster.get(

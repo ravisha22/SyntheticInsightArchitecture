@@ -379,6 +379,222 @@ def evaluate_domain(
     }
 
 
+def evaluate_grounding() -> dict:
+    """Run Phase 2 grounding validation."""
+    import time
+
+    from simulation.scenarios.generalized_blinded import build_generalized_scenario
+    from src.adapters.mock_grounder import MockGrounder
+
+    set_reproducible_seed()
+
+    scenario = build_generalized_scenario()
+    observed_outcomes = scenario["observed_outcomes"]
+    comparison_budget = min(BUDGET, max(1, len(observed_outcomes)))
+
+    evidence_keywords = []
+    for outcome in observed_outcomes:
+        evidence_keywords.extend(outcome.get("target_contains", []))
+    evidence_keywords.append("shared weakness")
+
+    grounded_grounder = MockGrounder(evidence_keywords=evidence_keywords)
+
+    db_grounded = OUTPUT_DIR / "grounding_grounded.db"
+    if db_grounded.exists():
+        db_grounded.unlink()
+    conn_grounded = init_db(str(db_grounded))
+    pipeline_grounded = AnalysisPipeline(
+        conn_grounded,
+        MockAdapter(seed=RANDOM_SEED),
+        config={"grounder": grounded_grounder},
+    )
+    report_grounded = pipeline_grounded.run_full_pipeline(
+        scenario_to_signals(scenario["issues"], "grounded"),
+        budget=comparison_budget,
+    )
+    run_id_grounded = report_grounded["prioritization"].get("run_id")
+    score_grounded = (
+        pipeline_grounded.score_predictions(run_id_grounded, observed_outcomes)
+        if run_id_grounded
+        else {"hit_count": 0, "precision": 0.0, "recall": 0.0}
+    )
+
+    clusters = report_grounded["clusters"].get("clusters", [])
+    grounded_count = sum(
+        1
+        for cluster in clusters
+        if cluster.get("grounding_evidence") and len(cluster.get("grounding_evidence", [])) > 0
+    )
+    total_clusters = len(clusters)
+    coverage = grounded_count / total_clusters if total_clusters else 0.0
+
+    rows = conn_grounded.execute(
+        """SELECT grounding_evidence, supporting_evidence, original_confidence, grounding_confidence_change
+           FROM root_cause_clusters
+           WHERE grounding_evidence IS NOT NULL AND grounding_evidence != '[]'"""
+    ).fetchall()
+    persistence_ok = len(rows) > 0 and all(
+        row["grounding_evidence"]
+        and row["supporting_evidence"]
+        and row["original_confidence"] is not None
+        and row["grounding_confidence_change"]
+        for row in rows
+    )
+    conn_grounded.close()
+
+    db_ungrounded = OUTPUT_DIR / "grounding_ungrounded.db"
+    if db_ungrounded.exists():
+        db_ungrounded.unlink()
+    conn_ungrounded = init_db(str(db_ungrounded))
+    pipeline_ungrounded = AnalysisPipeline(
+        conn_ungrounded,
+        MockAdapter(seed=RANDOM_SEED),
+        config={},
+    )
+    report_ungrounded = pipeline_ungrounded.run_full_pipeline(
+        scenario_to_signals(scenario["issues"], "ungrounded"),
+        budget=comparison_budget,
+    )
+    run_id_ungrounded = report_ungrounded["prioritization"].get("run_id")
+    score_ungrounded = (
+        pipeline_ungrounded.score_predictions(run_id_ungrounded, observed_outcomes)
+        if run_id_ungrounded
+        else {"hit_count": 0, "precision": 0.0, "recall": 0.0}
+    )
+    conn_ungrounded.close()
+
+    uplift = score_grounded["precision"] - score_ungrounded["precision"]
+
+    empty_grounder = MockGrounder(
+        evidence_keywords=["__impossible_keyword_that_will_never_match__"]
+    )
+    db_empty = OUTPUT_DIR / "grounding_empty.db"
+    if db_empty.exists():
+        db_empty.unlink()
+    conn_empty = init_db(str(db_empty))
+    try:
+        pipeline_empty = AnalysisPipeline(
+            conn_empty,
+            MockAdapter(seed=RANDOM_SEED),
+            config={"grounder": empty_grounder},
+        )
+        pipeline_empty.run_full_pipeline(
+            scenario_to_signals(scenario["issues"], "empty_grounding"),
+            budget=BUDGET,
+        )
+        empty_ok = True
+    except Exception:
+        empty_ok = False
+    finally:
+        conn_empty.close()
+
+    class FailingGrounder:
+        def search_evidence(self, query):
+            raise ConnectionError("Simulated network failure")
+
+    db_fail = OUTPUT_DIR / "grounding_fail.db"
+    if db_fail.exists():
+        db_fail.unlink()
+    conn_fail = init_db(str(db_fail))
+    try:
+        pipeline_fail = AnalysisPipeline(
+            conn_fail,
+            MockAdapter(seed=RANDOM_SEED),
+            config={"grounder": FailingGrounder()},
+        )
+        pipeline_fail.run_full_pipeline(
+            scenario_to_signals(scenario["issues"], "fail_grounding"),
+            budget=BUDGET,
+        )
+        fail_ok = True
+    except Exception:
+        fail_ok = False
+    finally:
+        conn_fail.close()
+
+    start = time.monotonic()
+    db_latency = OUTPUT_DIR / "grounding_latency.db"
+    if db_latency.exists():
+        db_latency.unlink()
+    conn_lat = init_db(str(db_latency))
+    pipeline_lat = AnalysisPipeline(
+        conn_lat,
+        MockAdapter(seed=RANDOM_SEED),
+        config={"grounder": grounded_grounder},
+    )
+    pipeline_lat.run_full_pipeline(
+        scenario_to_signals(scenario["issues"][:5], "latency"),
+        budget=BUDGET,
+    )
+    elapsed = time.monotonic() - start
+    conn_lat.close()
+    latency_ok = elapsed <= 30.0
+
+    lg1_pass = coverage >= 0.80
+    lg2_pass = empty_ok
+    lg3_pass = fail_ok
+    lg4_pass = uplift >= 0.05
+    lg5_pass = latency_ok
+    lg6_pass = persistence_ok
+    all_pass = all([lg1_pass, lg2_pass, lg3_pass, lg4_pass, lg5_pass, lg6_pass])
+
+    report_lines = [
+        "# Phase 2 — Live-Grounded Validation",
+        "",
+        f"### LG-1: Cluster evidence coverage: {grounded_count}/{total_clusters} = {coverage:.0%} (gate: >= 80%)",
+        f"Pass: {'YES' if lg1_pass else 'NO'}",
+        "",
+        "### LG-2: No-evidence graceful degradation",
+        f"Pass: {'YES' if lg2_pass else 'NO'}",
+        "",
+        "### LG-3: Error graceful degradation",
+        f"Pass: {'YES' if lg3_pass else 'NO'}",
+        "",
+        "### LG-4: Grounded vs ungrounded precision uplift",
+        f"- Comparison budget: {comparison_budget}",
+        f"- Grounded precision: {score_grounded['precision']:.3f}",
+        f"- Ungrounded precision: {score_ungrounded['precision']:.3f}",
+        f"- Uplift: {uplift:+.3f} (gate: >= +0.05)",
+        f"Pass: {'YES' if lg4_pass else 'NO'}",
+        "",
+        "### LG-5: Grounded latency SLA",
+        f"- Elapsed: {elapsed:.2f}s (gate: <= 30s)",
+        f"Pass: {'YES' if lg5_pass else 'NO'}",
+        "",
+        "### LG-6: Evidence persistence",
+        f"- Rows with grounding data: {len(rows)}",
+        f"Pass: {'YES' if lg6_pass else 'NO'}",
+        "",
+        "### Phase 2 verdict",
+        f"- LG-1: {'PASS' if lg1_pass else 'FAIL'}",
+        f"- LG-2: {'PASS' if lg2_pass else 'FAIL'}",
+        f"- LG-3: {'PASS' if lg3_pass else 'FAIL'}",
+        f"- LG-4: {'PASS' if lg4_pass else 'FAIL'}",
+        f"- LG-5: {'PASS' if lg5_pass else 'FAIL'}",
+        f"- LG-6: {'PASS' if lg6_pass else 'FAIL'}",
+        f"- **Phase 2 gate: {'MET' if all_pass else 'NOT MET'}**",
+    ]
+
+    return {
+        "all_pass": all_pass,
+        "verdicts": {
+            "lg1": lg1_pass,
+            "lg2": lg2_pass,
+            "lg3": lg3_pass,
+            "lg4": lg4_pass,
+            "lg5": lg5_pass,
+            "lg6": lg6_pass,
+        },
+        "scores": {
+            "grounded": score_grounded,
+            "ungrounded": score_ungrounded,
+            "uplift": uplift,
+            "coverage": coverage,
+        },
+        "report_lines": report_lines,
+    }
+
+
 def main() -> None:
     set_reproducible_seed()
 
@@ -407,6 +623,13 @@ def main() -> None:
         all_report_lines.extend(result["report_lines"])
         all_report_lines.append("")
 
+    print(f"\n{'='*60}")
+    print("Evaluating: Grounding Validation")
+    print(f"{'='*60}")
+    grounding_result = evaluate_grounding()
+    all_report_lines.extend(grounding_result["report_lines"])
+    all_report_lines.append("")
+
     # Aggregate summary
     passed_count = sum(1 for r in domain_results if r["all_pass"])
     total_count = len(domain_results)
@@ -423,9 +646,11 @@ def main() -> None:
         )
 
     gate_met = passed_count >= 3
+    grounding_met = grounding_result["all_pass"]
     all_report_lines.extend([
         "",
         f"**Phase 1 gate (>= 3 domains pass): {'MET' if gate_met else 'NOT MET'}**",
+        f"**Phase 2 gate (grounding validation): {'MET' if grounding_met else 'NOT MET'}**",
     ])
 
     report_text = "\n".join(all_report_lines)
