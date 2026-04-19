@@ -46,6 +46,11 @@ DOMAIN_REGISTRY: list[dict] = [
         "label": "Middle East Conflict",
         "module": "simulation.scenarios.mideast_conflict_blinded",
     },
+    {
+        "slug": "australia_economy",
+        "label": "Australia Economy",
+        "module": "simulation.scenarios.australia_economy_blinded",
+    },
 ]
 
 RANDOM_SEED = 7

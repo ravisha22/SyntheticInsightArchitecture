@@ -258,6 +258,72 @@ Pass: YES
 - Baseline comparison: PASS
 - **Middle East Conflict: ALL PASS**
 
+## Australia Economy Domain
+- Grounding enabled: NO
+
+### Scored observed outcomes
+- housing instability -> Australia's sharpest household stress is likely to emerge where rent, mortgage r
+- care access gap -> Health, mental health, disability, and discharge bottlenecks amplify economic sh
+- security boundary -> Cyber weakness in ports, grids, water, and contractors could turn a geopolitical
+- trust breakdown -> Policy execution becomes materially harder when misinformation around housing, m
+
+### Condition A (Real signals on AnalysisPipeline)
+Pass: YES
+- Hits: 4
+- Precision: 0.800
+- Recall: 1.000
+- Matched outcomes: housing instability, security boundary, care access gap, trust breakdown
+- Shared weakness in housing instability | tier=existential | issues=7
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in care access gap | tier=major | issues=2
+
+### Condition B (Decoy metadata invariance)
+Pass: YES
+- Target drift: none
+- Hits: 4
+- Precision: 0.800
+- Recall: 1.000
+- Matched outcomes: housing instability, security boundary, care access gap, trust breakdown
+- Shared weakness in housing instability | tier=existential | issues=7
+- Shared weakness in security boundary | tier=existential | issues=2
+- Shared weakness in care access gap | tier=major | issues=2
+
+### Condition C (Tag-shuffle control)
+Pass: YES
+- Real hits: 4
+- Shuffled hits: 3
+- Real precision: 0.800
+- Shuffled precision: 0.750
+- Shared weakness in housing instability | tier=existential | issues=7
+- Shared weakness in security boundary | tier=existential | issues=4
+- Shared weakness in economic fragility | tier=major | issues=2
+
+### Condition D (Non-convergent corpus vs observed outcomes)
+Pass: YES
+- Real hits: 4
+- Non-convergent hits: 0
+- Real precision: 0.800
+- Non-convergent precision: 0.000
+- No chosen priorities
+
+### Baseline comparison
+Pass: YES
+- Pipeline hits: 4
+- Baseline hits: 0
+- Pipeline precision: 0.800
+- Baseline precision: 0.000
+- Top keyword terms: care, housing, fragmented, grid, mortgage, households, near, growth, utility, debt
+- Top keyword groups: care (4); housing (3); fragmented (3); grid (3)
+- Top label clusters: Debt + Income (2); Eviction + Housing (1); Eviction + Rent (1)
+
+### Domain verdict
+- Condition A: PASS
+- Condition B: PASS
+- Condition C: PASS
+- Condition D: PASS
+- Baseline comparison: PASS
+- **Australia Economy: ALL PASS**
+
 # Phase 2 — Live-Grounded Validation
 
 ### LG-1: Cluster evidence coverage: 4/4 = 100% (gate: >= 80%)
@@ -277,7 +343,7 @@ Pass: YES
 Pass: YES
 
 ### LG-5: Grounded latency SLA
-- Elapsed: 0.56s (gate: <= 30s)
+- Elapsed: 0.58s (gate: <= 30s)
 Pass: YES
 
 ### LG-6: Evidence persistence
@@ -294,13 +360,14 @@ Pass: YES
 - **Phase 2 gate: MET**
 
 # Cross-Domain Summary
-- Domains evaluated: 4
-- Domains passed (5/5): 4/4
+- Domains evaluated: 5
+- Domains passed (5/5): 5/5
 
 - Social / Civic: PASS
 - Code / Engineering: PASS
 - Product / Community: PASS
 - Middle East Conflict: PASS
+- Australia Economy: PASS
 
 **Phase 1 gate (>= 3 domains pass): MET**
 **Phase 2 gate (grounding validation): MET**
