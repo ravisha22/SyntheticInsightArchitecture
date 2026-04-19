@@ -53,6 +53,11 @@ DOMAIN_REGISTRY: list[dict] = [
         "label": "Australia Economy",
         "module": "simulation.scenarios.australia_economy_blinded",
     },
+    {
+        "slug": "hindcast_2008",
+        "label": "Hindcast: 2008 Crisis",
+        "module": "simulation.scenarios.hindcast_2008_blinded",
+    },
 ]
 
 RANDOM_SEED = 7

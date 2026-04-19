@@ -324,6 +324,71 @@ Pass: YES
 - Baseline comparison: PASS
 - **Australia Economy: ALL PASS**
 
+## Hindcast: 2008 Crisis Domain
+- Grounding enabled: NO
+
+### Scored observed outcomes
+- housing instability -> The housing bubble burst caused millions of foreclosures, home price drops of 30
+- economic fragility -> Household debt burden, wage stagnation, and income-to-mortgage ratios made milli
+- security boundary weakness -> The financial system's trust boundaries failed — CDO ratings were fraudulent, co
+
+### Condition A (Real signals on AnalysisPipeline)
+Pass: YES
+- Hits: 3
+- Precision: 1.000
+- Recall: 1.000
+- Matched outcomes: security boundary weakness, housing instability, economic fragility
+- Shared weakness in security boundary | tier=existential | issues=6
+- Shared weakness in housing instability | tier=existential | issues=5
+- Shared weakness in economic fragility | tier=major | issues=4
+
+### Condition B (Decoy metadata invariance)
+Pass: YES
+- Target drift: none
+- Hits: 3
+- Precision: 1.000
+- Recall: 1.000
+- Matched outcomes: security boundary weakness, housing instability, economic fragility
+- Shared weakness in security boundary | tier=existential | issues=6
+- Shared weakness in housing instability | tier=existential | issues=5
+- Shared weakness in economic fragility | tier=major | issues=4
+
+### Condition C (Tag-shuffle control)
+Pass: NO
+- Real hits: 3
+- Shuffled hits: 3
+- Real precision: 1.000
+- Shuffled precision: 1.000
+- Shared weakness in security boundary | tier=existential | issues=6
+- Shared weakness in housing instability | tier=existential | issues=4
+- Shared weakness in economic fragility | tier=major | issues=4
+
+### Condition D (Non-convergent corpus vs observed outcomes)
+Pass: YES
+- Real hits: 3
+- Non-convergent hits: 0
+- Real precision: 1.000
+- Non-convergent precision: 0.000
+- No chosen priorities
+
+### Baseline comparison
+Pass: YES
+- Pipeline hits: 3
+- Baseline hits: 0
+- Pipeline precision: 1.000
+- Baseline precision: 0.000
+- Top keyword terms: subprime, mortgage, 2006, major, backed, share, originations, nears, fifth, market
+- Top keyword groups: subprime (5); mortgage (3)
+- Top label clusters: Income + Mortgage (3); Debt + Income (2); Debt + Mortgage (2)
+
+### Domain verdict
+- Condition A: PASS
+- Condition B: PASS
+- Condition C: FAIL
+- Condition D: PASS
+- Baseline comparison: PASS
+- **Hindcast: 2008 Crisis: FAIL**
+
 # Phase 2 — Live-Grounded Validation
 
 ### LG-1: Cluster evidence coverage: 4/4 = 100% (gate: >= 80%)
@@ -343,7 +408,7 @@ Pass: YES
 Pass: YES
 
 ### LG-5: Grounded latency SLA
-- Elapsed: 0.85s (gate: <= 30s)
+- Elapsed: 0.52s (gate: <= 30s)
 Pass: YES
 
 ### LG-6: Evidence persistence
@@ -360,14 +425,15 @@ Pass: YES
 - **Phase 2 gate: MET**
 
 # Cross-Domain Summary
-- Domains evaluated: 5
-- Domains passed (5/5): 5/5
+- Domains evaluated: 6
+- Domains passed (5/5): 5/6
 
 - Social / Civic: PASS
 - Code / Engineering: PASS
 - Product / Community: PASS
 - Middle East Conflict: PASS
 - Australia Economy: PASS
+- Hindcast: 2008 Crisis: FAIL
 
 **Phase 1 gate (>= 3 domains pass): MET**
 **Phase 2 gate (grounding validation): MET**

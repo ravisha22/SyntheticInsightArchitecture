@@ -1,0 +1,32 @@
+{
+  "root_causes": [
+    {
+      "name": "Housing instability driven by speculative credit expansion",
+      "severity": "existential",
+      "signals": [1, 3, 4, 5, 6, 7, 8, 15],
+      "intervention": "Immediately tighten mortgage underwriting, require meaningful down payments and full documentation for owner-occupant and investor loans, and curb speculative lending in overheated metros through stricter supervisory guidance.",
+      "predicted_outcome": "Origination volumes and price appreciation should cool, inventory should stabilize rather than surge, and foreclosure pressure in the weakest housing markets should stop accelerating."
+    },
+    {
+      "name": "Security boundary weakness in structured credit and wholesale funding",
+      "severity": "existential",
+      "signals": [9, 10, 11, 12, 13, 15],
+      "intervention": "Force banks and dealers to hold more common equity against mortgage-linked inventories, consolidate off-balance-sheet vehicles for capital purposes, and require conservative valuation and disclosure of structured-credit exposures.",
+      "predicted_outcome": "Dealer leverage should fall, issuance of opaque mortgage-linked securities should slow, and funding markets should demand smaller risk premia shocks when mortgage performance deteriorates."
+    },
+    {
+      "name": "Economic fragility of households exposed to rate resets",
+      "severity": "major",
+      "signals": [1, 2, 3, 4, 8, 14],
+      "intervention": "Mandate ability-to-repay underwriting based on fully reset payments, verify income and employment, and create an early refinancing or modification channel for borrowers facing imminent payment shock.",
+      "predicted_outcome": "Recent-vintage delinquency rates should level off, fewer borrowers should fail at reset dates, and consumer demand should prove less sensitive to housing and credit conditions."
+    },
+    {
+      "name": "Originate-to-distribute incentives are degrading loan quality",
+      "severity": "major",
+      "signals": [2, 10, 12, 14],
+      "intervention": "Align broker, lender, securitizer, and rating incentives by imposing repurchase liability for fraudulent loans, auditing stated-income pools, and tying compensation to medium-term loan performance rather than volume.",
+      "predicted_outcome": "Fraud incidence and low-documentation production should decline, securitized pools should contain fewer weak loans, and ratings should become more discriminating across mortgage collateral."
+    }
+  ]
+}
