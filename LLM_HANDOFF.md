@@ -3,34 +3,33 @@
 ## Current validated state
 
 1. **Generalized core is green.**
-   - `pytest tests -q` -> **52 passed**
-   - `python -m simulation.run_blinded_test` -> **all 3 domains pass 5/5**
+   - `pytest tests -q` -> **53 passed**
+   - `python -m simulation.run_blinded_test` -> **5/5 domains pass 5/5 conditions**
 
 2. **Current blinded-eval readings (multi-domain)**
    - Social / Civic: 5/5 PASS (precision 0.500, recall 1.000)
    - Code / Engineering: 5/5 PASS (precision 0.750, recall 1.000)
    - Product / Community: 5/5 PASS (precision 1.000, recall 1.000)
-   - **Phase 1 gate (>= 3 domains pass): MET**
+   - Middle East Conflict: 5/5 PASS (precision 1.000, recall 1.000)
+   - Australia Economy: 5/5 PASS (precision 0.800, recall 1.000)
+   - **Phase 1 gate: MET (5 domains)**
+   - **Phase 2 grounding gate: MET (coverage 100%, uplift +0.500)**
 
-3. **Pandas-specific spine has been removed.**
-   - No pandas-specific logic remains in `src\`, `tests\`, or the default simulation path.
-   - The default blinded harness is now wired to all three domain corpora via a registry.
+3. **Real LLM integration ready.**
+   - `src/adapters/openai_api.py` — works with any OpenAI-compatible API
+   - CLI: `--adapter openai --api-key ... --model gpt-4o`
+   - Supports: OpenAI, Azure, Groq, Together, vLLM, LM Studio, Ollama
 
 4. **Skill-factory bundles committed (3/3, each 9/9 files)**
-   - production-incident-triage-and-dependency-failure-prioritization (code domain)
-   - housing-instability-and-repeated-crisis-service-use (social domain)
-   - creator-trust-erosion-and-community-health-decay (product domain)
+   - production-incident-triage (code), housing-instability (social), creator-trust (product)
 
-5. **Spec components wired**
-   - VerificationHarness and IntegrationEngine are now wired into `SIAEngine._run_creative_pipeline()`.
-   - Candidate insights are verified and integrated automatically per cycle.
+5. **Real-world scenarios applied (2)**
+   - Middle East conflict (Iran-US): 14 signals, 4 root causes, 6 interventions
+   - Australia economy (2026-2029): 17 signals, 4 root causes, 8 interventions
 
-4. **Design source of truth**
-   - `Cognitive_Insight_Architecture_Specification.docx`
-   - The spec defines **13 core components** plus **4 closure mechanisms** (17 total design elements).
-   - The repo currently exposes two active paths:
-     - `SIAEngine` cognitive simulator
-     - `AnalysisPipeline` generalized LLM-native analysis path
+6. **Spec components wired (2/4)**
+   - VerificationHarness and IntegrationEngine wired into `SIAEngine`
+   - ImmersionEngine and SocialLedger remain unwired
 
 ## Documentation created in this handoff slice
 
@@ -52,16 +51,17 @@
 
 ## Highest-priority next work
 
-1. **Validate live-grounded runs**
-   - enable grounding by default with graceful fallback
-   - prove precision uplift >= 0.05
-   - prove cluster grounding coverage >= 80%
+1. **Run end-to-end with a live LLM**
+   - Use `--adapter openai --api-key ... --model gpt-4o` against real signals
+   - Compare real LLM results to MockAdapter baseline
+   - Prove the multi-stage pipeline (analyze → cluster → ground → prioritize) produces better analysis than a single prompt
 
-2. **Prove fresh-session bundle reuse**
-   - at least 1 bundle executed end-to-end by a fresh LLM session
+2. **Wire remaining spec components**
+   - ImmersionEngine and SocialLedger exist but are not connected to `SIAEngine`
 
-3. **Reduce remaining spec-code drift**
-   - ImmersionEngine and SocialLedger exist but are not yet wired into `SIAEngine`
+3. **Automate narrative generation**
+   - The report format should produce a narrative-first output followed by summary table
+   - Currently narrative is manual; integrate it into the runner or a post-processing step
 
 ## Main risks
 

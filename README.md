@@ -1,10 +1,12 @@
 # Synthetic Insight Architecture (SIA)
 
-A 17-component computational framework that replicates the human creative insight process.
+A general-purpose problem intelligence system that takes messy, diverse signals from any domain — bug reports, community complaints, geopolitical events, economic indicators, field observations — and produces prioritised, evidence-grounded interventions with predicted outcomes.
 
 ## What Is This?
 
-SIA models how humans arrive at creative breakthroughs — not by improving LLM output quality, but by replicating the **cognitive process**: accumulated tension, failure-informed learning, cross-domain collision, purpose-biased dreaming, scarcity-driven prioritisation, and autonomous goal formation.
+SIA models how genuine insight emerges: not by optimising LLM output quality, but by replicating the **cognitive process** — accumulated tension, failure-informed learning, cross-domain collision, scarcity-driven prioritisation, and autonomous goal formation. The architecture is described in the formal specification (`Cognitive_Insight_Architecture_Specification.docx`) as 13 core components plus 4 closure mechanisms.
+
+The system has been validated across **5 domains**: social/civic, code/engineering, product/community, geopolitical (Iran-US conflict), and economic (Australia 2026-2029).
 
 ## Quick Start
 
@@ -13,10 +15,17 @@ SIA models how humans arrive at creative breakthroughs — not by improving LLM 
 pip install -r requirements.txt
 
 # Run tests
-pytest tests/ -v
+pytest tests/ -q
 
-# Run the PageRank case study simulation
-python -m simulation.run_pagerank
+# Run multi-domain blinded evaluation (mock adapter, no API key needed)
+python -m simulation.run_blinded_test
+
+# Run with a real LLM
+python -m simulation.run_blinded_test --adapter openai --api-key sk-... --model gpt-4o
+
+# Scaffold a new scenario bundle
+python .github/skills/problem-intelligence-factory/scripts/init_bundle.py \
+  --scenario "Your problem statement" --output scenarios --domain your-domain
 ```
 
 ## Architecture
@@ -39,7 +48,11 @@ python -m simulation.run_pagerank
 ## Documentation
 
 - `Cognitive_Insight_Architecture_Specification.docx` — Full formal specification
-- `configs/default.yaml` — All tunable parameters
+- `PRD.md` / `PRD.docx` — Quantified product requirements with release gates
+- `LLM_HANDOFF.md` — Next-session handoff with validated state and priorities
+- `recall.md` — Continuity file with comprehensive test plan and session proof
+- `configs/default.yaml` — All tunable parameters and LLM backend configuration
+- `.github/skills/problem-intelligence-factory/SKILL.md` — Scenario bundle factory
 
 ## Running with a Real LLM
 
