@@ -730,8 +730,10 @@ def _upload_to_github_pages(html_content: str) -> None:
     token = os.environ.get("GITHUB_TOKEN", "")
     repo = os.environ.get("SIA_GITHUB_REPO", "ravisha22/SyntheticInsightArchitecture")
     if not token:
-        logger.info("GITHUB_TOKEN not set; skipping GitHub Pages update")
+        LOGGER.warning("GITHUB_TOKEN not set; skipping GitHub Pages update")
         return
+
+    LOGGER.info("Attempting GitHub Pages update for repo %s (token: %s...)", repo, token[:4])
 
     import base64
 
@@ -745,10 +747,13 @@ def _upload_to_github_pages(html_content: str) -> None:
     sha = None
     try:
         resp = requests.get(api_url, headers=headers, timeout=15)
+        LOGGER.info("GitHub GET status: %s", resp.status_code)
         if resp.status_code == 200:
             sha = resp.json().get("sha")
-    except Exception:
-        pass
+        else:
+            LOGGER.warning("GitHub GET response: %s", resp.text[:300])
+    except Exception as exc:
+        LOGGER.warning("GitHub GET failed: %s", exc)
 
     payload = {
         "message": f"chore: update dashboard {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
@@ -760,12 +765,13 @@ def _upload_to_github_pages(html_content: str) -> None:
 
     try:
         resp = requests.put(api_url, headers=headers, json=payload, timeout=30)
+        LOGGER.info("GitHub PUT status: %s", resp.status_code)
         if resp.status_code in (200, 201):
-            logger.info("GitHub Pages dashboard updated")
+            LOGGER.info("GitHub Pages dashboard updated successfully")
         else:
-            logger.warning("GitHub Pages update failed: %s %s", resp.status_code, resp.text[:200])
+            LOGGER.warning("GitHub Pages update failed: %s %s", resp.status_code, resp.text[:300])
     except Exception as exc:
-        logger.warning("GitHub Pages update error: %s", exc)
+        LOGGER.warning("GitHub Pages update error: %s", exc)
 
 
 def _get_blob_service():
@@ -975,7 +981,7 @@ def run_daily_pipeline() -> dict:
         if config_path.exists():
             upload_static_blob("staticwebapp.config.json", config_path.read_text(encoding="utf-8"), "application/json")
     except Exception as exc:
-        logger.warning("Blob upload skipped (RBAC not configured): %s", exc)
+        LOGGER.warning("Blob upload skipped (RBAC not configured): %s", exc)
 
     send_email(
         os.environ.get("RECIPIENT_EMAIL", ""),
