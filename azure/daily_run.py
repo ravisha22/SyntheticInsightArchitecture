@@ -557,7 +557,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     root_rows = []
     cards = []
     for index, cause in enumerate(root_causes, start=1):
-        signals = cause.get("signals", [])
+        signals = [str(s) for s in cause.get("signals", [])]
         root_rows.append(
             f"<tr><td>{index}</td><td>{escape(cause.get('name', 'Unknown'))}</td><td>{escape(cause.get('severity', 'unknown'))}</td>"
             f"<td>{escape(', '.join(signals[:3]))}</td><td>{escape(cause.get('timeline', ''))}</td><td>{escape(cause.get('rationale', ''))}</td></tr>"
@@ -664,7 +664,7 @@ def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict]
 
     root_rows = "".join(
         f"<tr><td>{index}</td><td>{escape(cause.get('name', 'Unknown'))}</td><td>{escape(cause.get('severity', 'unknown'))}</td>"
-        f"<td>{escape(', '.join(cause.get('signals', [])[:3]))}</td><td>{escape(cause.get('timeline', ''))}</td><td>{escape(cause.get('rationale', ''))}</td></tr>"
+        f"<td>{escape(', '.join(str(s) for s in cause.get('signals', [])[:3]))}</td><td>{escape(cause.get('timeline', ''))}</td><td>{escape(cause.get('rationale', ''))}</td></tr>"
         for index, cause in enumerate(root_causes, start=1)
     ) or "<tr><td colspan='6'>No root causes identified.</td></tr>"
 

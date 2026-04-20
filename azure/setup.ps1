@@ -36,12 +36,19 @@ $dataContainer = "sia-data"
 $staticContainer = '$web'
 
 Exec "az group create --name $ResourceGroup --location $Location --output none"
-Exec "az storage account create --name $storageName --resource-group $ResourceGroup --location $Location --sku Standard_LRS --kind StorageV2 --output none"
-Exec "az storage blob service-properties update --account-name $storageName --static-website --index-document index.html --404-document 404.html --output none"
+Exec "az storage account create --name $storageName --resource-group $ResourceGroup --location $Location --sku Standard_LRS --kind StorageV2 --allow-shared-key-access false --output none"
+
+# Assign Storage Blob Data Contributor to current user so auth-mode login works
+$currentUser = az ad signed-in-user show --query id -o tsv
+$storageId = az storage account show --name $storageName --resource-group $ResourceGroup --query id -o tsv
+Exec "az role assignment create --assignee $currentUser --role 'Storage Blob Data Contributor' --scope $storageId --output none 2>&1 | Out-Null"
+Start-Sleep -Seconds 15  # Wait for role propagation
+
+Exec "az storage blob service-properties update --account-name $storageName --static-website --index-document index.html --404-document 404.html --auth-mode login --output none"
 
 $storageConnectionString = az storage account show-connection-string --name $storageName --resource-group $ResourceGroup --query connectionString -o tsv
 $storageWebEndpoint = az storage account show --name $storageName --resource-group $ResourceGroup --query primaryEndpoints.web -o tsv
-Exec "az storage container create --name $dataContainer --connection-string `"$storageConnectionString`" --output none"
+Exec "az storage container create --name $dataContainer --account-name $storageName --auth-mode login --output none"
 
 $existingOpenAI = az cognitiveservices account list --resource-group $ResourceGroup --query "[?kind=='OpenAI'].name | [0]" -o tsv
 if ([string]::IsNullOrWhiteSpace($existingOpenAI)) {
@@ -114,8 +121,8 @@ Copy-Item -Path (Join-Path $scriptRoot "requirements.txt") -Destination (Join-Pa
 Compress-Archive -Path (Join-Path $packageRoot "*") -DestinationPath $zipPath -Force
 Exec "az functionapp deployment source config-zip --name $functionAppName --resource-group $ResourceGroup --src `"$zipPath`" --output none"
 
-Exec "az storage blob upload --connection-string `"$storageConnectionString`" --container-name `"$staticContainer`" --name robots.txt --file `"$scriptRoot\static\robots.txt`" --overwrite true --content-type text/plain --output none"
-Exec "az storage blob upload --connection-string `"$storageConnectionString`" --container-name `"$staticContainer`" --name staticwebapp.config.json --file `"$scriptRoot\staticwebapp.config.json`" --overwrite true --content-type application/json --output none"
+Exec "az storage blob upload --account-name $storageName --container-name `"$staticContainer`" --name robots.txt --file `"$scriptRoot\static\robots.txt`" --overwrite true --content-type text/plain --auth-mode login --output none"
+Exec "az storage blob upload --account-name $storageName --container-name `"$staticContainer`" --name staticwebapp.config.json --file `"$scriptRoot\staticwebapp.config.json`" --overwrite true --content-type application/json --auth-mode login --output none"
 
 Write-Host ""
 Write-Host "Provisioning complete." -ForegroundColor Green
