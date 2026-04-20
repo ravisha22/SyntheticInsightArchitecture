@@ -725,6 +725,49 @@ def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict]
 </html>"""
 
 
+def _upload_to_github_pages(html_content: str) -> None:
+    """Push dashboard HTML to docs/index.html via the GitHub API."""
+    token = os.environ.get("GITHUB_TOKEN", "")
+    repo = os.environ.get("SIA_GITHUB_REPO", "ravisha22/SyntheticInsightArchitecture")
+    if not token:
+        logger.info("GITHUB_TOKEN not set; skipping GitHub Pages update")
+        return
+
+    import base64
+
+    api_url = f"https://api.github.com/repos/{repo}/contents/docs/index.html"
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+
+    # Get current file SHA (needed for update)
+    sha = None
+    try:
+        resp = requests.get(api_url, headers=headers, timeout=15)
+        if resp.status_code == 200:
+            sha = resp.json().get("sha")
+    except Exception:
+        pass
+
+    payload = {
+        "message": f"chore: update dashboard {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
+        "content": base64.b64encode(html_content.encode("utf-8")).decode("ascii"),
+        "branch": "main",
+    }
+    if sha:
+        payload["sha"] = sha
+
+    try:
+        resp = requests.put(api_url, headers=headers, json=payload, timeout=30)
+        if resp.status_code in (200, 201):
+            logger.info("GitHub Pages dashboard updated")
+        else:
+            logger.warning("GitHub Pages update failed: %s %s", resp.status_code, resp.text[:200])
+    except Exception as exc:
+        logger.warning("GitHub Pages update error: %s", exc)
+
+
 def _get_blob_service():
     connection_string = os.environ.get("BLOB_CONNECTION_STRING", "")
     if not connection_string:
@@ -923,11 +966,16 @@ def run_daily_pipeline() -> dict:
     dashboard_html = build_dashboard_html(report, ledger, dashboard_url, login_url)
     email_html = build_email_html(report, ledger, matured_predictions, daily_password, login_url, dashboard_url)
 
-    upload_static_blob("index.html", dashboard_html, "text/html; charset=utf-8")
-    upload_static_blob("robots.txt", "User-agent: *\nDisallow: /\n", "text/plain; charset=utf-8")
-    config_path = Path(__file__).resolve().parent / "staticwebapp.config.json"
-    if config_path.exists():
-        upload_static_blob("staticwebapp.config.json", config_path.read_text(encoding="utf-8"), "application/json")
+    # Upload dashboard — try GitHub Pages first, fall back to blob storage
+    _upload_to_github_pages(dashboard_html)
+    try:
+        upload_static_blob("index.html", dashboard_html, "text/html; charset=utf-8")
+        upload_static_blob("robots.txt", "User-agent: *\nDisallow: /\n", "text/plain; charset=utf-8")
+        config_path = Path(__file__).resolve().parent / "staticwebapp.config.json"
+        if config_path.exists():
+            upload_static_blob("staticwebapp.config.json", config_path.read_text(encoding="utf-8"), "application/json")
+    except Exception as exc:
+        logger.warning("Blob upload skipped (RBAC not configured): %s", exc)
 
     send_email(
         os.environ.get("RECIPIENT_EMAIL", ""),
