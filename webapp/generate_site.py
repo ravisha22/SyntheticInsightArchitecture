@@ -65,6 +65,7 @@ def generate_html(analysis, ledger):
     latest_updated = analysis.get("analyzed_at") or ledger.get("last_updated") or analysis.get("collected_at", "")
 
     root_causes_rows = []
+    root_causes_detail_blocks = []
     for index, cause in enumerate(root_causes, start=1):
         root_causes_rows.append(
             """
@@ -73,6 +74,7 @@ def generate_html(analysis, ledger):
               <td>{target}</td>
               <td><span class="severity-pill severity-{severity_class}">{severity}</span></td>
               <td data-sort="{signal_count}">{signal_count}</td>
+              <td>{timeline}</td>
               <td>{rationale}</td>
             </tr>
             """.format(
@@ -81,11 +83,44 @@ def generate_html(analysis, ledger):
                 severity=_escape(cause.get("severity", "unknown")),
                 severity_class=_escape((cause.get("severity") or "unknown").lower()),
                 signal_count=int(cause.get("signal_count", 0) or 0),
+                timeline=_escape(cause.get("timeline", "")),
                 rationale=_escape(cause.get("rationale", "")),
             ).strip()
         )
+
+        # Build a detail block for below the table
+        signals_list = cause.get("signals", [])
+        signals_html = ""
+        if signals_list:
+            items = "".join(f"<li>{_escape(str(s))}</li>" for s in signals_list)
+            signals_html = f'<p class="detail-label">Signals:</p><ul class="detail-list">{items}</ul>'
+
+        intervention = cause.get("intervention", "")
+        prediction = cause.get("prediction", "")
+        falsification = cause.get("falsification", "")
+
+        detail_parts = []
+        if intervention:
+            detail_parts.append(f'<p><span class="detail-label">Intervention:</span> {_escape(intervention)}</p>')
+        if prediction:
+            detail_parts.append(f'<p><span class="detail-label">Prediction:</span> {_escape(prediction)}</p>')
+        if falsification:
+            detail_parts.append(f'<p><span class="detail-label">Falsification:</span> {_escape(falsification)}</p>')
+
+        root_causes_detail_blocks.append(
+            f"""
+            <div class="detail-card">
+              <h4>{index}. {_escape(cause.get("target", "Unknown"))}
+                <span class="severity-pill severity-{_escape((cause.get("severity") or "unknown").lower())}">{_escape(cause.get("severity",""))}</span>
+              </h4>
+              <p>{_escape(cause.get("rationale", ""))}</p>
+              {signals_html}
+              {"".join(detail_parts)}
+            </div>
+            """.strip()
+        )
     if not root_causes_rows:
-        root_causes_rows = [_table_empty(5, "No prioritized root causes are available yet.")]
+        root_causes_rows = [_table_empty(6, "No prioritized root causes are available yet.")]
 
     stories_rows = []
     for story in stories:
@@ -261,6 +296,48 @@ def generate_html(analysis, ledger):
       margin: 8px 0 0;
       max-width: 850px;
     }}
+    .narrative-block {{
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px 24px;
+      line-height: 1.75;
+      color: var(--text);
+      max-width: 900px;
+    }}
+    .detail-grid {{
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }}
+    .detail-card {{
+      background: rgba(255,255,255,0.03);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px 22px;
+    }}
+    .detail-card h4 {{
+      margin: 0 0 8px;
+      font-size: 1.05rem;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }}
+    .detail-card p {{
+      margin: 6px 0;
+      line-height: 1.6;
+    }}
+    .detail-label {{
+      color: var(--accent);
+      font-weight: 600;
+    }}
+    .detail-list {{
+      margin: 4px 0 10px 20px;
+      color: var(--muted);
+    }}
+    .detail-list li {{
+      margin: 3px 0;
+    }}
     .meta-chip {{
       padding: 8px 12px;
       border-radius: 999px;
@@ -404,7 +481,8 @@ def generate_html(analysis, ledger):
               <th data-sort-type="number">Rank</th>
               <th>Name</th>
               <th>Severity</th>
-              <th data-sort-type="number">Signal count</th>
+              <th data-sort-type="number">Signals</th>
+              <th>Timeline</th>
               <th>Rationale</th>
             </tr>
           </thead>
@@ -412,6 +490,16 @@ def generate_html(analysis, ledger):
             {"".join(root_causes_rows)}
           </tbody>
         </table>
+      </div>
+
+      <div style="height:24px"></div>
+      <h3>Analysis narrative</h3>
+      <div class="narrative-block">{_escape(analysis.get("narrative", "No narrative available for this analysis run.")).replace(chr(10), "<br>")}</div>
+
+      <div style="height:24px"></div>
+      <h3>Root cause detail</h3>
+      <div class="detail-grid">
+        {"".join(root_causes_detail_blocks) if root_causes_detail_blocks else '<p class="section-copy">No detail available.</p>'}
       </div>
 
       <div style="height:18px"></div>
