@@ -1,0 +1,24 @@
+{
+  "globalHeaders": {
+    "X-Robots-Tag": "noindex, nofollow, noarchive, nosnippet",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'",
+    "Referrer-Policy": "no-referrer",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+  },
+  "routes": [
+    {
+      "route": "/robots.txt",
+      "headers": { "Content-Type": "text/plain" }
+    },
+    {
+      "route": "/chat*",
+      "headers": { "Cache-Control": "no-store, no-cache, must-revalidate" }
+    }
+  ],
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/robots.txt", "/*.json"]
+  }
+}
