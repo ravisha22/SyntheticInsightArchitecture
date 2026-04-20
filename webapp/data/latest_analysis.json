@@ -1,12 +1,115 @@
 {
-  "analyzed_at": "2026-04-20T05:01:52.652244+00:00",
+  "analyzed_at": "2026-04-20T15:00:00+10:00",
   "collected_at": "2026-04-20",
   "signal_count": 20,
-  "adapter": "mock",
-  "clusters_found": 0,
-  "chosen_count": 0,
-  "root_causes": [],
-  "predictions": [],
+  "adapter": "gpt-5.4",
+  "noise_filtered": [
+    1,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    16,
+    18
+  ],
+  "clusters_found": 3,
+  "chosen_count": 11,
+  "root_causes": [
+    {
+      "target": "Middle East war is turning energy chokepoints into global coercion",
+      "severity": "existential",
+      "signal_count": 4,
+      "signals": [
+        "Oil prices rise after Trump says Iranian ship seized",
+        "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+        "Zelensky condemns US extension of Russian sanctions waiver",
+        "French peacekeeper killed in southern Lebanon"
+      ],
+      "rationale": "A regional war is now directly governing shipping access, oil pricing, sanctions policy and the safety of third-party forces. The mechanism is chokepoint leverage: once Hormuz, Lebanon and sanctions waivers become bargaining tools, energy, insurance, alliance cohesion and civilian supply chains all become hostages to escalation.",
+      "intervention": "Prioritise immediate US-Iran-Israel maritime deconfliction, a monitored non-interference regime around Hormuz, coordinated strategic petroleum release planning, and a transparent multilateral framework for temporary energy waivers so allies are not forced into ad hoc exceptions.",
+      "prediction": "If unaddressed, the Gulf conflict will generate additional maritime seizures or proxy strikes, keep oil and shipping insurance volatile, and force more emergency sanctions carve-outs that fracture Western alignment.",
+      "timeline": "weeks",
+      "falsification": "This is wrong if the next 6-8 weeks bring no new maritime or proxy incidents, commercial passage through Hormuz remains uninterrupted, and energy volatility normalises without further emergency waiver politics."
+    },
+    {
+      "target": "Institutional legitimacy is eroding as elites and security actors evade accountability",
+      "severity": "major",
+      "signal_count": 4,
+      "signals": [
+        "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+        "Rumen Radev looks set to win Bulgarian Parliamentary election",
+        "Australia's most-decorated soldier vows to fight war crime charges",
+        "The insider trading suspicions looming over Trump's presidency"
+      ],
+      "rationale": "The common mechanism is failed self-correction. Police units, political executives and decorated military figures all appear buffered from timely accountability, while voters respond by abandoning incumbents or liberal coalitions. Once people conclude that insiders are protected by status, trust falls faster than formal institutions can repair it.",
+      "intervention": "Use visibly independent investigations, fast public disclosure of evidence and conflicts, protected prosecutorial pathways for politically sensitive cases, and frontline security reforms that reward performance rather than loyalty or symbolism.",
+      "prediction": "If unaddressed, more electorates will shift toward outsider or strongman options, oversight bodies will be treated as partisan weapons rather than neutral referees, and security services will face lower public cooperation during crises.",
+      "timeline": "months",
+      "falsification": "This is wrong if the next 6-12 months bring credible prosecutions or exonerations in these emblematic cases, stable or improving institutional trust measures, and fewer anti-system electoral surges in comparable democracies."
+    },
+    {
+      "target": "High-trust duty-of-care systems are failing vulnerable people",
+      "severity": "major",
+      "signal_count": 3,
+      "signals": [
+        "Rat poison found in HiPP baby food jar in Austria, police say",
+        "Bodies of 50 infants dumped at Trinidad graveyard",
+        "'They told me he was dead': Children born near army base learn truth about UK soldier dads"
+      ],
+      "rationale": "These cases sit in different sectors but share one structural weakness: institutions entrusted with the care of children and infants acted late, opaquely or not at all until outside pressure forced exposure. Food supply chains, health and mortuary systems, and military duty-of-care all rely on public trust that is hard to rebuild once betrayal is revealed.",
+      "intervention": "Mandate end-to-end audit trails for high-risk child and infant services, create automatic external review triggers for unexplained failures, and establish cross-border compensation and disclosure mechanisms when state-linked actors harm dependents.",
+      "prediction": "If unaddressed, similar scandals will recur across food, health and military welfare systems, driving stricter emergency regulation, more litigation, and lower willingness to trust official assurances after future incidents.",
+      "timeline": "months",
+      "falsification": "This is wrong if authorities quickly complete transparent audits, prosecute responsible actors, compensate victims, and the next 3-9 months do not produce comparable failures in adjacent child-safety or institutional-care systems."
+    }
+  ],
+  "predictions": [
+    {
+      "id": "17072c16",
+      "created_at": "2026-04-20",
+      "root_cause": "Middle East war is turning energy chokepoints into global coercion",
+      "severity": "existential",
+      "signal_count": 4,
+      "rationale": "Energy chokepoints now link battlefield decisions to fuel prices, alliance policy and shipping risk in real time.",
+      "prediction": "If unaddressed, the Gulf conflict will generate additional maritime seizures or proxy strikes, keep oil and shipping insurance volatile, and force more emergency sanctions carve-outs that fracture Western alignment.",
+      "timeline": "Within 4-12 weeks",
+      "falsification": "This is wrong if the next 6-8 weeks bring no new maritime or proxy incidents, commercial passage through Hormuz remains uninterrupted, and energy volatility normalises without further emergency waiver politics.",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "e252b634",
+      "created_at": "2026-04-20",
+      "root_cause": "Institutional legitimacy is eroding as elites and security actors evade accountability",
+      "severity": "major",
+      "signal_count": 4,
+      "rationale": "Repeated signs of impunity weaken trust faster than institutions can rebuild it, which invites anti-system political moves.",
+      "prediction": "If unaddressed, more electorates will shift toward outsider or strongman options, oversight bodies will be treated as partisan weapons rather than neutral referees, and security services will face lower public cooperation during crises.",
+      "timeline": "Within 6-18 months",
+      "falsification": "This is wrong if the next 6-12 months bring credible prosecutions or exonerations in these emblematic cases, stable or improving institutional trust measures, and fewer anti-system electoral surges in comparable democracies.",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "7ce38fa8",
+      "created_at": "2026-04-20",
+      "root_cause": "High-trust duty-of-care systems are failing vulnerable people",
+      "severity": "major",
+      "signal_count": 3,
+      "rationale": "When child-facing and high-trust institutions fail without rapid accountability, the social cost compounds through fear, lawsuits and distrust.",
+      "prediction": "If unaddressed, similar scandals will recur across food, health and military welfare systems, driving stricter emergency regulation, more litigation, and lower willingness to trust official assurances after future incidents.",
+      "timeline": "Within 3-9 months",
+      "falsification": "This is wrong if authorities quickly complete transparent audits, prosecute responsible actors, compensate victims, and the next 3-9 months do not produce comparable failures in adjacent child-safety or institutional-care systems.",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    }
+  ],
+  "narrative": "The dominant pattern in this batch is not random drama but systems under stress. The Middle East conflict has escaped the category of regional war and become a global coercion engine: shipping access through Hormuz, oil prices, sanctions design and the safety of peacekeepers are now tightly coupled. That means a single military or political signal in the Gulf can immediately propagate into inflation, alliance strain and energy insecurity well beyond the region.\n\nA second pattern is legitimacy decay inside institutions that are supposed to self-correct. The resignation of Ukraine's police chief, the insider-trading cloud around the US presidency, the long-tail war-crime reckoning in Australia and the Bulgarian electoral swing all point to the same mechanism: publics are seeing too many cases where power seems insulated from fast, credible accountability. When that belief sets in, voters stop distinguishing between flawed institutions and captured ones.\n\nThe third pattern is failure of duty-of-care toward people with the least leverage. Poison in baby food, the disposal of infant bodies, and children near a British base learning the truth about absent fathers all reveal institutions acting only after exposure. The shared lesson is that high-trust systems are increasingly reactive rather than protective; they move after scandal, not before harm.\n\nFor the next 3-6 months, the world should focus first on de-escalating the Gulf theatre because it has the fastest and widest blast radius. But even successful de-escalation will only buy time unless governments also rebuild accountability in security and political institutions and harden child-facing duty-of-care systems. Otherwise the likely future is a feedback loop: geopolitical shocks raise economic stress, economic stress deepens distrust, and distrust makes societies more tolerant of coercion, impunity and emergency rule.",
   "stories": [
     {
       "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
