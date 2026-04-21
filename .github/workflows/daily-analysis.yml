@@ -1,0 +1,45 @@
+name: SIA Daily Analysis
+
+on:
+  schedule:
+    # 20:00 UTC = 6:00 AM AEST
+    - cron: '0 20 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml azure-communication-email
+
+      - name: Run SIA daily pipeline
+        env:
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          AZURE_OPENAI_KEY: ${{ secrets.AZURE_OPENAI_KEY }}
+          AZURE_OPENAI_DEPLOYMENT: gpt-4o
+          AZURE_OPENAI_API_VERSION: '2024-10-21'
+          ACS_CONNECTION_STRING: ${{ secrets.ACS_CONNECTION_STRING }}
+          SIA_EMAIL_SENDER: ${{ secrets.SIA_EMAIL_SENDER }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          SIA_DASHBOARD_URL: https://ravisha22.github.io/SyntheticInsightArchitecture/
+          SIA_GITHUB_REPO: ravisha22/SyntheticInsightArchitecture
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python azure/daily_run.py
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "SIA Bot"
+          git config user.email "sia-bot@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "chore: daily dashboard update $(date -u +%Y-%m-%d)"
+          git push
