@@ -936,7 +936,7 @@ def run_daily_pipeline() -> dict:
     logging.basicConfig(level=logging.INFO)
     report_date = utc_now().strftime("%Y-%m-%d")
     dashboard_url = os.environ.get("SIA_DASHBOARD_URL", "")
-    login_base_url = os.environ.get("SIA_LOGIN_URL", dashboard_url.rstrip("/") + "/chat" if dashboard_url else "")
+    login_base_url = os.environ.get("SIA_LOGIN_URL", dashboard_url.rstrip("/") if dashboard_url else "")
 
     stories = collect_stories(max_stories=20)
     analysis = analyze_stories(stories)
