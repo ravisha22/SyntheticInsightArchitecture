@@ -3,62 +3,275 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SIA Daily Intelligence</title>
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>SIA — Systemic Intelligence Analysis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
-    body { font-family: Segoe UI, Arial, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; }
-    .page { max-width: 1100px; margin: 0 auto; padding: 32px 20px 48px; }
-    .panel { background: #111827; border: 1px solid #334155; border-radius: 18px; padding: 24px; margin-bottom: 20px; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
-    .metric { background: #1e293b; border-radius: 14px; padding: 16px; }
-    table { width: 100%; border-collapse: collapse; margin-top: 12px; }
-    th, td { border-bottom: 1px solid #334155; padding: 10px; text-align: left; vertical-align: top; }
-    a { color: #93c5fd; }
-    .card { background: #1e293b; border-radius: 14px; padding: 16px; margin-top: 12px; }
+    :root {
+      --paper: #faf9f6;
+      --paper-line: #dfd8cc;
+      --ink: #1a1a1a;
+      --muted: #6d675f;
+      --accent: #8f4d3f;
+      --existential: #a4493d;
+      --major: #b27a3f;
+      --moderate: #8a8379;
+      --pill-bg: #f1ece4;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.68;
+      -webkit-font-smoothing: antialiased;
+    }
+    .page {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 48px 24px 56px;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(143, 77, 63, 0.28);
+    }
+    a:hover { border-bottom-color: var(--accent); }
+    section {
+      padding: 0 0 34px;
+      margin: 0 0 34px;
+      border-bottom: 1px solid var(--paper-line);
+    }
+    .mark-row {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 72px;
+      padding: 8px 12px 7px;
+      border: 1px solid var(--ink);
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.65rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      line-height: 1;
+    }
+    .issue-date {
+      color: var(--muted);
+      font-size: 0.95rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    h1, h2, h3 {
+      margin: 0;
+      font-family: Georgia, 'Times New Roman', serif;
+      color: var(--ink);
+      font-weight: 700;
+    }
+    h1 {
+      font-size: clamp(2.45rem, 5vw, 3.35rem);
+      line-height: 1.05;
+      margin-bottom: 10px;
+      letter-spacing: -0.03em;
+    }
+    h2 {
+      font-size: 1.55rem;
+      line-height: 1.2;
+      margin-bottom: 16px;
+      letter-spacing: -0.02em;
+    }
+    h3 {
+      font-size: 1.1rem;
+      line-height: 1.3;
+      margin-bottom: 10px;
+    }
+    .dek {
+      max-width: 64ch;
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+    .meta-line {
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+    .narrative {
+      margin: 0;
+      white-space: pre-line;
+      font-size: 1.05rem;
+      line-height: 1.74;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.96rem;
+    }
+    th, td {
+      padding: 12px 0;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--paper-line);
+    }
+    th {
+      padding-top: 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    tbody tr:last-child td { border-bottom: 0; }
+    .detail-list {
+      margin-top: 20px;
+      display: grid;
+      gap: 14px;
+    }
+    .detail-block {
+      padding-left: 18px;
+      border-left: 3px solid var(--moderate);
+    }
+    .detail-block p {
+      margin: 8px 0 0;
+    }
+    .detail-block span {
+      display: block;
+      margin-bottom: 3px;
+      color: var(--muted);
+      font-size: 0.77rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .detail-kicker {
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .severity-existential { border-left-color: var(--existential); }
+    .severity-major { border-left-color: var(--major); }
+    .severity-moderate { border-left-color: var(--moderate); }
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: var(--pill-bg);
+      color: var(--ink);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .status-validated { background: rgba(85, 111, 83, 0.13); color: #556f53; }
+    .status-partial { background: rgba(178, 122, 63, 0.14); color: #8a5d2d; }
+    .status-falsified { background: rgba(164, 73, 61, 0.13); color: #8b3f34; }
+    .status-expired, .status-open { background: var(--pill-bg); color: #6e665d; }
+    .sources td:first-child a { font-weight: 500; }
+    .attribution {
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+    footer {
+      color: var(--muted);
+      font-size: 0.84rem;
+    }
+    @media (max-width: 640px) {
+      .page { padding: 32px 18px 40px; }
+      .mark-row { flex-direction: column; align-items: flex-start; }
+      table, thead, tbody, th, td, tr { display: block; }
+      thead {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+      tr {
+        padding: 10px 0;
+        border-bottom: 1px solid var(--paper-line);
+      }
+      td {
+        border: 0;
+        padding: 4px 0;
+      }
+      td::before {
+        content: attr(data-label);
+        display: block;
+        color: var(--muted);
+        font-size: 0.75rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-bottom: 2px;
+      }
+      tbody tr:last-child { border-bottom: 0; }
+    }
   </style>
 </head>
 <body>
   <div class="page">
-    <section class="panel">
-      <p>SIA Daily Intelligence</p>
-      <h1>2026-04-21</h1>
-      <p>The global landscape is marked by escalating geopolitical tensions, particularly in the Middle East, where military actions and energy market disruptions are unfolding. Concurrently, vulnerabilities to natural disasters in the Pacific region are becoming evident, with warnings of earthquakes and floods. A troubling rise in violent incidents globally highlights governance and societal challenges, while industrial safety failures and food safety concerns underscore systemic weaknesses in regulatory frameworks. These interconnected issues demand urgent interventions to mitigate risks and prevent further crises.</p>
-      <div class="grid">
-        <div class="metric"><strong>Stories</strong><br>20</div>
-        <div class="metric"><strong>Root causes</strong><br>5</div>
-        <div class="metric"><strong>Predictions</strong><br>5</div>
-        <div class="metric"><strong>Dashboard</strong><br><a href="https://ravisha22.github.io/SyntheticInsightArchitecture/">Open live dashboard</a></div>
+    <section>
+      <div class="mark-row">
+        <div class="mark">SIA</div>
+        <div class="issue-date">2026-04-21</div>
       </div>
+      <h1>Systemic Intelligence Analysis</h1>
+      <p class="dek">A daily editorial briefing on structural risks, root causes, and emerging predictions from publicly available signals. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project on GitHub</a>.</p>
+      <p class="meta-line">20 stories analysed · 5 root causes · 5 predictions</p>
     </section>
 
-    <section class="panel">
+    <section>
+      <h2>Narrative</h2>
+      <p class="narrative">The global landscape in April 2026 is marked by escalating geopolitical tensions in the Middle East, natural disasters linked to climate change, persistent violent conflicts, and social challenges such as domestic violence. Meanwhile, corporate leadership transitions and cultural events reflect ongoing societal dynamics. Key interventions should focus on diplomacy, climate resilience, security cooperation, and social support systems to mitigate risks and foster stability.</p>
+    </section>
+
+    <section>
       <h2>Root causes</h2>
       <table>
         <thead><tr><th>Rank</th><th>Name</th><th>Severity</th><th>Signals</th><th>Timeline</th><th>Rationale</th></tr></thead>
-        <tbody><tr><td>1</td><td>Geopolitical Tensions in the Middle East</td><td>High</td><td>4, 5, 13</td><td>Ongoing, with escalation potential in the next 6-12 months</td><td>The seizure of an Iranian ship by the US, rising oil prices, and arms trafficking allegations indicate heightened tensions between Iran, the US, and its allies. This could destabilize global energy markets and regional security.</td></tr><tr><td>2</td><td>Natural Disaster Vulnerability</td><td>High</td><td>3, 10</td><td>Immediate and recurring over the next 1-3 months</td><td>Japan&#x27;s warning of a potential second earthquake and New Zealand&#x27;s state of emergency due to floods highlight vulnerabilities to natural disasters in the Pacific region.</td></tr><tr><td>3</td><td>Global Rise in Violent Incidents</td><td>Medium</td><td>6, 7, 8</td><td>Ongoing, with potential spikes in the next 6 months</td><td>Mass shootings in Louisiana, IS-linked group activity in DR Congo, gang violence in Brazil, and police misconduct in Ukraine reflect a global trend of violent incidents and governance challenges.</td></tr><tr><td>4</td><td>Industrial Safety and Regulation Failures</td><td>Medium</td><td>17</td><td>Immediate and recurring over the next 12 months</td><td>The firecracker factory explosion in India highlights systemic failures in industrial safety standards and enforcement.</td></tr><tr><td>5</td><td>Food Safety Concerns</td><td>Low</td><td>19</td><td>Immediate and recurring over the next 6 months</td><td>The discovery of rat poison in baby food in Austria raises concerns about food safety and supply chain integrity.</td></tr></tbody>
+        <tbody><tr><td data-label='Rank'>1</td><td data-label='Name'>Geopolitical Tensions in the Middle East</td><td data-label='Severity'>High</td><td data-label='Signals'>1, 7, 8</td><td data-label='Timeline'>2026-2027</td><td data-label='Rationale'>The US blockade in Hormuz, seizure of Iranian ships, rising oil prices, and arms trafficking allegations indicate escalating tensions between the US, Iran, and regional actors. These events could destabilize global energy markets and regional security.</td></tr><tr><td data-label='Rank'>2</td><td data-label='Name'>Natural Disasters and Climate Change</td><td data-label='Severity'>High</td><td data-label='Signals'>6, 15</td><td data-label='Timeline'>2026-2028</td><td data-label='Rationale'>Japan&#x27;s earthquake warnings and New Zealand&#x27;s flooding emergency highlight vulnerabilities to natural disasters exacerbated by climate change.</td></tr><tr><td data-label='Rank'>3</td><td data-label='Name'>Global Security and Violent Conflicts</td><td data-label='Severity'>Medium</td><td data-label='Signals'>3, 11, 12</td><td data-label='Timeline'>2026-2027</td><td data-label='Rationale'>Incidents in Mexico, DR Congo, and Brazil reflect ongoing challenges in addressing violent conflicts and organized crime.</td></tr><tr><td data-label='Rank'>4</td><td data-label='Name'>Social and Domestic Violence</td><td data-label='Severity'>Medium</td><td data-label='Signals'>5, 10</td><td data-label='Timeline'>2026-2027</td><td data-label='Rationale'>High-profile cases of domestic violence and murder highlight systemic issues in addressing social violence and mental health crises.</td></tr><tr><td data-label='Rank'>5</td><td data-label='Name'>Corporate Leadership Transitions</td><td data-label='Severity'>Low</td><td data-label='Signals'>2</td><td data-label='Timeline'>2026-2027</td><td data-label='Rationale'>Apple&#x27;s leadership change may influence its strategic direction and market performance.</td></tr></tbody>
       </table>
-      <div class='card'><h3>1. Geopolitical Tensions in the Middle East</h3><p><strong>Intervention:</strong> Diplomatic engagement to de-escalate tensions, multilateral negotiations involving key stakeholders, and monitoring of energy market volatility.</p><p><strong>Prediction:</strong> Increased military activity in the Gulf region and further disruptions in oil supply chains within 6 months.</p><p><strong>Falsification:</strong> No further military escalations or significant disruptions in oil markets within the next 6 months.</p></div><div class='card'><h3>2. Natural Disaster Vulnerability</h3><p><strong>Intervention:</strong> Strengthen disaster preparedness, early warning systems, and international aid coordination.</p><p><strong>Prediction:</strong> Further natural disasters in the Pacific region within the next 3 months, causing significant economic and human impacts.</p><p><strong>Falsification:</strong> No major natural disasters or significant impacts in the Pacific region within the next 3 months.</p></div><div class='card'><h3>3. Global Rise in Violent Incidents</h3><p><strong>Intervention:</strong> Invest in community-based violence prevention programs, improve law enforcement accountability, and enhance international cooperation on conflict resolution.</p><p><strong>Prediction:</strong> Increased frequency of violent incidents globally, with heightened media coverage and public outcry within 6 months.</p><p><strong>Falsification:</strong> No significant increase in violent incidents or related media coverage within the next 6 months.</p></div><div class='card'><h3>4. Industrial Safety and Regulation Failures</h3><p><strong>Intervention:</strong> Strengthen workplace safety regulations, conduct audits, and enforce penalties for non-compliance.</p><p><strong>Prediction:</strong> Additional industrial accidents in regions with weak regulatory frameworks within the next 12 months.</p><p><strong>Falsification:</strong> No major industrial accidents in regions with weak regulatory frameworks within the next 12 months.</p></div><div class='card'><h3>5. Food Safety Concerns</h3><p><strong>Intervention:</strong> Enhance food safety inspections, improve supply chain monitoring, and increase public awareness.</p><p><strong>Prediction:</strong> Heightened scrutiny of food safety standards globally, with potential recalls and regulatory changes within 6 months.</p><p><strong>Falsification:</strong> No significant food safety incidents or regulatory changes within the next 6 months.</p></div>
+      <div class="detail-list"><article class='detail-block severity-existential'><p class='detail-kicker'>High</p><h3>1. Geopolitical Tensions in the Middle East</h3><p><span>Intervention</span>Diplomatic engagement through multilateral forums, easing sanctions, and promoting peace talks.</p><p><span>Prediction</span>Increased military confrontations and economic disruptions in the Middle East within the next 12 months.</p><p><span>Falsification</span>No significant escalation or resolution of tensions within the next year.</p></article><article class='detail-block severity-existential'><p class='detail-kicker'>High</p><h3>2. Natural Disasters and Climate Change</h3><p><span>Intervention</span>Strengthen disaster preparedness, invest in resilient infrastructure, and accelerate climate adaptation measures.</p><p><span>Prediction</span>Increased frequency and severity of climate-related disasters globally within the next two years.</p><p><span>Falsification</span>No significant increase in disaster frequency or severity within the next two years.</p></article><article class='detail-block severity-moderate'><p class='detail-kicker'>Medium</p><h3>3. Global Security and Violent Conflicts</h3><p><span>Intervention</span>Enhance international cooperation on security, support conflict resolution efforts, and address root causes of violence.</p><p><span>Prediction</span>Continued instability and localized violence in conflict-prone regions within the next year.</p><p><span>Falsification</span>Significant reduction in violent incidents in these regions within the next year.</p></article><article class='detail-block severity-moderate'><p class='detail-kicker'>Medium</p><h3>4. Social and Domestic Violence</h3><p><span>Intervention</span>Invest in mental health services, strengthen domestic violence prevention programs, and improve law enforcement response.</p><p><span>Prediction</span>Increased public awareness and policy responses to domestic violence within the next year.</p><p><span>Falsification</span>No significant policy changes or reduction in domestic violence incidents within the next year.</p></article><article class='detail-block severity-moderate'><p class='detail-kicker'>Low</p><h3>5. Corporate Leadership Transitions</h3><p><span>Intervention</span>Monitor corporate governance and market reactions to leadership transitions.</p><p><span>Prediction</span>Apple&#x27;s market performance will remain stable or improve within the next year.</p><p><span>Falsification</span>Significant decline in Apple&#x27;s market performance within the next year.</p></article></div>
     </section>
 
-    <section class="panel">
+    <section>
       <h2>Prediction ledger</h2>
       <table>
         <thead><tr><th>Root cause</th><th>Status</th><th>Maturity</th><th>Notes</th></tr></thead>
-        <tbody><tr><td>Industrial Safety and Regulation Failures</td><td>open</td><td>2027-04-16</td><td></td></tr><tr><td>Geopolitical Tensions in the Middle East</td><td>open</td><td>2026-10-18</td><td></td></tr><tr><td>Food Safety Concerns</td><td>open</td><td>2026-10-18</td><td></td></tr><tr><td>Global Rise in Violent Incidents</td><td>open</td><td>2026-10-18</td><td></td></tr><tr><td>Natural Disaster Vulnerability</td><td>open</td><td>2026-07-20</td><td></td></tr></tbody>
+        <tbody><tr><td data-label='Root cause'>Global Security and Violent Conflicts</td><td data-label='Status'><span class='status-pill status-open'>open</span></td><td data-label='Maturity'></td><td data-label='Notes'></td></tr><tr><td data-label='Root cause'>Corporate Leadership Transitions</td><td data-label='Status'><span class='status-pill status-open'>open</span></td><td data-label='Maturity'></td><td data-label='Notes'></td></tr><tr><td data-label='Root cause'>Geopolitical Tensions in the Middle East</td><td data-label='Status'><span class='status-pill status-open'>open</span></td><td data-label='Maturity'></td><td data-label='Notes'></td></tr><tr><td data-label='Root cause'>Social and Domestic Violence</td><td data-label='Status'><span class='status-pill status-open'>open</span></td><td data-label='Maturity'></td><td data-label='Notes'></td></tr><tr><td data-label='Root cause'>Natural Disasters and Climate Change</td><td data-label='Status'><span class='status-pill status-open'>open</span></td><td data-label='Maturity'></td><td data-label='Notes'></td></tr></tbody>
       </table>
     </section>
 
-    <section class="panel">
-      <h2>Signals analysed</h2>
-      <table>
-        <thead><tr><th>Story</th><th>Source</th><th>Published</th></tr></thead>
-        <tbody><tr><td><a href='https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&amp;at_campaign=rss'>Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 18:57:25 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&amp;at_campaign=rss'>US singer D4vd pleads not guilty to murder in death of missing teen girl</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 22:53:24 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&amp;at_campaign=rss'>Japan on high alert for &#x27;huge&#x27; second quake after issuing tsunami warning</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 14:54:21 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&amp;at_campaign=rss'>What we know about the Iranian ship seized by the US</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 20:04:59 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&amp;at_campaign=rss'>Oil prices rise after Trump says Iranian ship seized</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 20:33:01 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss'>Man kills seven of his children, and an eighth child, in Louisiana mass shooting</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 12:56:03 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cy7144jr68lo?at_medium=RSS&amp;at_campaign=rss'>More than 200 rescued from IS-linked group in DR Congo</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 16:25:12 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&amp;at_campaign=rss'>Police gunfight with favela gang traps 200 tourists on hilltop</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 17:34:10 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&amp;at_campaign=rss'>Trailblazing black beauty queen who defied apartheid South Africa dies aged 76</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 17:38:22 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&amp;at_campaign=rss'>New Zealand declares state of emergency in Wellington as floods hit</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 05:48:54 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/czx9q51rldko?at_medium=RSS&amp;at_campaign=rss'>Days of Our Lives and Starship Troopers actor Patrick Muldoon dies aged 57</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 15:51:43 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&amp;at_campaign=rss'>Elon Musk snubs interview summons by French prosecutors amid X probe</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 15:44:44 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&amp;at_campaign=rss'>Iranian woman arrested in US for allegedly trafficking arms to Sudan</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 13:32:58 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&amp;at_campaign=rss'>Rumen Radev&#x27;s party wins Bulgarian election</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 13:01:19 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cn4vn021mg9o?at_medium=RSS&amp;at_campaign=rss'>Rebel Wilson&#x27;s claims against actress are &#x27;malicious concoctions&#x27;, Australian court hears</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 10:19:50 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&amp;at_campaign=rss'>Ukraine police chief resigns after officers allegedly fled deadly shooting</a></td><td>BBC World</td><td>Sun, 19 Apr 2026 17:48:41 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cp867zy9j6ro?at_medium=RSS&amp;at_campaign=rss'>At least 25 killed in firecracker factory blast in India</a></td><td>BBC World</td><td>Mon, 20 Apr 2026 06:16:21 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&amp;at_campaign=rss'>Thousands of Parisians evacuated as WW2 bomb detonated</a></td><td>BBC World</td><td>Sun, 19 Apr 2026 15:50:48 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&amp;at_campaign=rss'>Rat poison found in HiPP baby food jar in Austria, police say</a></td><td>BBC World</td><td>Sun, 19 Apr 2026 12:52:26 GMT</td></tr><tr><td><a href='https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&amp;at_campaign=rss'>Ontario Premier Doug Ford agrees to sell $21m private jet following outcry</a></td><td>BBC World</td><td>Sun, 19 Apr 2026 19:25:22 GMT</td></tr></tbody>
+    <section>
+      <h2>Sources</h2>
+      <table class="sources">
+        <thead><tr><th>Headline</th><th>Source</th><th>Published</th></tr></thead>
+        <tbody><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Trump says US will not lift Hormuz blockade until deal made with Iran</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 21:52:12 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Apple names new chief executive to replace Tim Cook</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 22:55:39 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Canadian killed in shooting at Mexico&#x27;s ancient Teotihuacán pyramids</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 23:22:17 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Outrage over Israeli soldier&#x27;s vandalism of Jesus statue in Lebanon</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 18:57:25 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>US singer D4vd pleads not guilty to murder in death of missing teen girl</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Tue, 21 Apr 2026 01:05:41 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Japan on high alert for &#x27;huge&#x27; second quake after lifting tsunami warning</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Tue, 21 Apr 2026 01:31:27 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>What we know about the Iranian ship seized by the US</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 20:04:59 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Oil prices rise after Trump says Iranian ship seized</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 20:33:01 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Blue Origin rocket grounded after satellite &#x27;mishap&#x27;</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 19:56:11 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cj0v36vell4o?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Woman and child jumped off roof to escape deadly Louisiana shooting</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 20:19:57 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cy7144jr68lo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>More than 200 rescued from IS-linked group in DR Congo</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 16:25:12 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Police gunfight with favela gang traps 200 tourists on hilltop</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 17:34:10 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Trailblazing black beauty queen who defied apartheid South Africa dies aged 76</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 17:38:22 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/czx9q51rldko?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Days of Our Lives and Starship Troopers actor Patrick Muldoon dies aged 57</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 15:51:43 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>New Zealand declares state of emergency in Wellington as floods hit</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 05:48:54 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Elon Musk snubs interview summons by French prosecutors amid X probe</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 15:44:44 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Iranian woman arrested in US for allegedly trafficking arms to Sudan</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 13:32:58 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Rumen Radev&#x27;s party wins Bulgarian election</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 13:01:19 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/cn4vn021mg9o?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Rebel Wilson&#x27;s claims against actress are &#x27;malicious concoctions&#x27;, Australian court hears</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Mon, 20 Apr 2026 10:19:50 GMT</td></tr><tr><td data-label='Headline'><a href='https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&amp;at_campaign=rss' target='_blank' rel='noreferrer'>Ukraine police chief resigns after officers allegedly fled deadly shooting</a></td><td data-label='Source'>BBC World</td><td data-label='Published'>Sun, 19 Apr 2026 17:48:41 GMT</td></tr></tbody>
       </table>
+      <p class="attribution">Headlines sourced from publicly available RSS feeds. Click through for full articles. SIA uses headlines and short summaries for systemic pattern analysis only — no article content is republished.</p>
     </section>
 
-    <section class="panel">
-      <h2>Restricted access</h2>
-      <p>Daily login link: <a href="https://ravisha22.github.io/SyntheticInsightArchitecture/chat?token=WwniXA2PYM9qSRcy4a5yiR6IPCNK0tfQcCZkmx96WH8">https://ravisha22.github.io/SyntheticInsightArchitecture/chat?token=WwniXA2PYM9qSRcy4a5yiR6IPCNK0tfQcCZkmx96WH8</a></p>
-    </section>
+    <footer>
+      <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">Synthetic Insight Architecture</a> — predictions are systemic analysis, not financial or political advice.
+    </footer>
   </div>
 </body>
 </html>
