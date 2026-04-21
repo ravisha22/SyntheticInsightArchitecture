@@ -1,0 +1,46 @@
+name: SIA Ad-hoc Analysis
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Topic or question to analyse'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml azure-communication-email
+
+      - name: Run ad-hoc analysis
+        env:
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          AZURE_OPENAI_KEY: ${{ secrets.AZURE_OPENAI_KEY }}
+          AZURE_OPENAI_DEPLOYMENT: gpt-4o
+          AZURE_OPENAI_API_VERSION: '2024-10-21'
+          SIA_DASHBOARD_URL: https://ravisha22.github.io/SyntheticInsightArchitecture/
+          SIA_GITHUB_REPO: ravisha22/SyntheticInsightArchitecture
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SIA_ADHOC_TOPIC: ${{ github.event.inputs.topic }}
+        run: python azure/adhoc_run.py
+
+      - name: Commit results
+        run: |
+          git pull --rebase origin main
+          git config user.name "SIA Bot"
+          git config user.email "sia-bot@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "chore: ad-hoc analysis - ${{ github.event.inputs.topic }}"
+          git push

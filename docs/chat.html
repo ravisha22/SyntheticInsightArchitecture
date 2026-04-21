@@ -146,7 +146,7 @@
     }
 
     .actions {
-      margin: 24px 0 0;
+      margin: 18px 0 0;
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
@@ -154,12 +154,16 @@
 
     .action-btn,
     .search-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       border: 1px solid var(--border-strong);
       background: var(--surface);
       color: var(--text);
       border-radius: 999px;
       padding: 11px 16px;
       cursor: pointer;
+      text-decoration: none;
       transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
     }
 
@@ -171,6 +175,24 @@
       border-color: var(--accent);
       transform: translateY(-1px);
       outline: none;
+    }
+
+    .action-btn.subtle,
+    .search-btn.subtle {
+      background: transparent;
+    }
+
+    .composer {
+      margin-top: 24px;
+      padding: 18px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: linear-gradient(180deg, rgba(236, 227, 214, 0.45), rgba(255, 253, 249, 0.95));
+    }
+
+    .composer h2 {
+      margin: 0 0 8px;
+      font-size: 1.35rem;
     }
 
     .response-wrap {
@@ -192,6 +214,51 @@
     }
 
     .response-frame > :last-child {
+      margin-bottom: 0;
+    }
+
+    .chat-message {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+
+    .chat-message.user {
+      align-items: flex-end;
+    }
+
+    .chat-message.system {
+      align-items: flex-start;
+    }
+
+    .message-label {
+      font-size: 0.76rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .message-bubble {
+      width: min(100%, 680px);
+      padding: 16px 18px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: #fffefb;
+      box-shadow: 0 8px 24px rgba(84, 67, 44, 0.04);
+    }
+
+    .chat-message.user .message-bubble {
+      background: var(--accent-soft);
+      border-color: rgba(129, 104, 79, 0.24);
+    }
+
+    .message-bubble > :first-child {
+      margin-top: 0;
+    }
+
+    .message-bubble > :last-child {
       margin-bottom: 0;
     }
 
@@ -441,11 +508,23 @@
           </div>
         </section>
 
+        <section class="composer" aria-label="Ad-hoc analysis">
+          <h2>Run an ad-hoc analysis</h2>
+          <p class="lede">Type a custom topic, then use the secure GitHub workflow instructions below. This page will keep checking for the new result and append it when <code>adhoc.json</code> updates.</p>
+          <div class="search-row" style="margin-top: 14px;">
+            <input type="text" id="adhocTopic" placeholder="Analyse a custom topic..." autocomplete="off">
+            <button class="search-btn" type="button" id="adhocButton">Run Analysis</button>
+            <a class="search-btn subtle" href="https://github.com/ravisha22/SyntheticInsightArchitecture/actions/workflows/adhoc-analysis.yml" target="_blank" rel="noopener noreferrer">Open workflow</a>
+          </div>
+          <p id="adhocStatus" class="helper">No ad-hoc analysis is running from this page yet.</p>
+        </section>
+
         <div id="actions" class="actions" aria-label="Quick actions">
           <button class="action-btn" type="button" onclick="showRootCauses()">Show root causes</button>
           <button class="action-btn" type="button" onclick="showPredictions()">Show predictions</button>
           <button class="action-btn" type="button" onclick="showNarrative()">Show narrative</button>
           <button class="action-btn" type="button" onclick="showUrgent()">What's most urgent?</button>
+          <button class="action-btn subtle" type="button" id="clearButton">Clear history</button>
         </div>
 
         <div class="response-wrap">
@@ -473,8 +552,18 @@
     const responseEl = document.getElementById('response');
     const queryEl = document.getElementById('query');
     const searchButtonEl = document.getElementById('searchButton');
+    const adhocTopicEl = document.getElementById('adhocTopic');
+    const adhocButtonEl = document.getElementById('adhocButton');
+    const adhocStatusEl = document.getElementById('adhocStatus');
+    const clearButtonEl = document.getElementById('clearButton');
     const params = new URLSearchParams(window.location.search);
     let analysisData = null;
+    let latestAdhocData = null;
+    let latestAdhocSignature = '';
+    let shownAdhocSignature = '';
+    let pendingAdhocTopic = '';
+    let adhocPollTimer = null;
+    const workflowUrl = 'https://github.com/ravisha22/SyntheticInsightArchitecture/actions/workflows/adhoc-analysis.yml';
 
     const severityRank = {
       existential: 6,
@@ -579,9 +668,69 @@
       };
     }
 
-    function setResponse(html) {
-      responseEl.innerHTML = html;
-      responseEl.scrollTop = 0;
+    function normalizeAdhocData(source) {
+      const data = normalizeData(source || {});
+      data.topic = cleanText(source && source.topic) || 'Custom topic';
+      data.type = cleanText(source && source.type) || 'adhoc';
+      return data;
+    }
+
+    function signatureFor(data) {
+      if (!data) {
+        return '';
+      }
+      return [
+        cleanText(data.topic),
+        cleanText(data.reportDate),
+        cleanText(data.analyzedAt),
+        cleanText(data.narrative).slice(0, 120),
+        String(data.rootCauses.length),
+        String(data.predictions.length)
+      ].join('|');
+    }
+
+    function normalizeTopic(value) {
+      return cleanText(value).toLowerCase();
+    }
+
+    function scrollConversation() {
+      responseEl.scrollTop = responseEl.scrollHeight;
+    }
+
+    function appendMessage(role, label, content, allowHtml) {
+      const messageEl = document.createElement('article');
+      messageEl.className = 'chat-message ' + role;
+
+      const labelEl = document.createElement('div');
+      labelEl.className = 'message-label';
+      labelEl.textContent = label;
+
+      const bubbleEl = document.createElement('div');
+      bubbleEl.className = 'message-bubble';
+      bubbleEl.innerHTML = allowHtml ? content : '<p>' + escapeHtml(content) + '</p>';
+
+      messageEl.appendChild(labelEl);
+      messageEl.appendChild(bubbleEl);
+      responseEl.appendChild(messageEl);
+      scrollConversation();
+    }
+
+    function appendSystemMessage(html) {
+      appendMessage('system', 'SIA', html, true);
+    }
+
+    function appendUserMessage(text) {
+      appendMessage('user', 'You', text, false);
+    }
+
+    function clearConversation() {
+      responseEl.innerHTML = '';
+      shownAdhocSignature = '';
+    }
+
+    function resetConversation() {
+      clearConversation();
+      appendSystemMessage(renderWelcome());
     }
 
     function renderParagraphs(text) {
@@ -707,61 +856,6 @@
       '</section>';
     }
 
-    function showRootCauses() {
-      if (!analysisData || !analysisData.rootCauses.length) {
-        setResponse('<p class="empty-state">No root causes are available in the current analysis package.</p>');
-        return;
-      }
-
-      setResponse('<section>' +
-        '<h2 class="section-title">Root causes</h2>' +
-        '<p class="lede">Each root cause below includes its severity, rationale, suggested intervention, prediction, and falsification test.</p>' +
-        '<div class="card-stack">' + analysisData.rootCauses.map(function (item, index) {
-          return renderRootCauseCard(item, index + 1);
-        }).join('') + '</div>' +
-      '</section>');
-    }
-
-    function showPredictions() {
-      if (!analysisData) {
-        setResponse('<p class="empty-state">No analysis data is loaded yet.</p>');
-        return;
-      }
-
-      setResponse('<section>' +
-        '<h2 class="section-title">Predictions</h2>' +
-        '<p class="lede">Prediction ledger for today\'s briefing, including current status and falsification criteria.</p>' +
-        renderPredictionTable(analysisData.predictions) +
-      '</section>');
-    }
-
-    function showNarrative() {
-      if (!analysisData) {
-        setResponse('<p class="empty-state">No analysis data is loaded yet.</p>');
-        return;
-      }
-
-      setResponse('<section>' +
-        '<h2 class="section-title">Strategic narrative</h2>' +
-        '<p class="lede">Full editorial narrative from today\'s SIA briefing.</p>' +
-        renderParagraphs(analysisData.narrative) +
-      '</section>');
-    }
-
-    function showUrgent() {
-      const urgent = getHighestSeverityRootCause();
-      if (!urgent) {
-        setResponse('<p class="empty-state">No urgent root cause is available in the current analysis package.</p>');
-        return;
-      }
-
-      setResponse('<section>' +
-        '<h2 class="section-title">Most urgent issue</h2>' +
-        '<p class="lede">This is the highest-severity root cause in today\'s analysis package.</p>' +
-        renderRootCauseCard(urgent) +
-      '</section>');
-    }
-
     function tokenize(query) {
       return cleanText(query).toLowerCase().split(/[^a-z0-9]+/).filter(function (word) { return word.length > 1; });
     }
@@ -780,13 +874,16 @@
             return '<li>' + escapeHtml(item.title) + '</li>';
           }).join('')
         : '<li>Today\'s analysis package is still loading.</li>';
+      const cliCommand = 'gh workflow run adhoc-analysis.yml -f topic=' + JSON.stringify(query);
 
       return '<section>' +
         '<h2 class="section-title">No direct matches for “' + escapeHtml(query) + '”</h2>' +
         '<div class="notice-card">' +
           '<p>This topic isn\'t covered in today\'s analysis.</p>' +
           '<p>SIA analyses the top news stories daily at 6:00 AM AEST. If this topic appears in tomorrow\'s headlines, it will be analysed automatically.</p>' +
-          '<p>You can also trigger an on-demand analysis from the GitHub Actions tab.</p>' +
+          '<p>To run a full ad-hoc analysis now, use the GitHub workflow below. Keep this page open and it will append the result when <code>adhoc.json</code> is refreshed.</p>' +
+          '<p><strong>CLI:</strong> <code>' + escapeHtml(cliCommand) + '</code></p>' +
+          '<p><strong>GitHub:</strong> <a href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">Open the “SIA Ad-hoc Analysis” workflow</a> and paste the same topic.</p>' +
         '</div>' +
         '<div class="notice-card" style="margin-top: 14px;">' +
           '<h3>Topics covered today</h3>' +
@@ -795,14 +892,20 @@
       '</section>';
     }
 
-    function renderSearchResults(query) {
+    function collectSearchMatches(query) {
       if (!analysisData) {
-        return '<p class="empty-state">No analysis data is loaded yet.</p>';
+        return null;
       }
 
       const words = tokenize(query);
       if (!words.length) {
-        return renderWelcome();
+        return {
+          words: words,
+          rootCauseMatches: [],
+          predictionMatches: [],
+          storyMatches: [],
+          narrativeScore: 0
+        };
       }
 
       const rootCauseMatches = analysisData.rootCauses.map(function (item) {
@@ -829,30 +932,51 @@
         return { item: item, score: score };
       }).filter(function (entry) { return entry.score > 0; }).sort(function (a, b) { return b.score - a.score; });
 
-      const narrativeScore = scoreText(analysisData.narrative, words, 2);
+      return {
+        words: words,
+        rootCauseMatches: rootCauseMatches,
+        predictionMatches: predictionMatches,
+        storyMatches: storyMatches,
+        narrativeScore: scoreText(analysisData.narrative, words, 2)
+      };
+    }
 
-      if (!rootCauseMatches.length && !predictionMatches.length && !storyMatches.length && !narrativeScore) {
+    function hasMatches(matches) {
+      return !!(matches && (matches.rootCauseMatches.length || matches.predictionMatches.length || matches.storyMatches.length || matches.narrativeScore));
+    }
+
+    function renderSearchResults(query) {
+      if (!analysisData) {
+        return '<p class="empty-state">No analysis data is loaded yet.</p>';
+      }
+
+      const matches = collectSearchMatches(query);
+      if (!matches || !matches.words.length) {
+        return renderWelcome();
+      }
+
+      if (!hasMatches(matches)) {
         return buildFallback(query);
       }
 
       let html = '<section><h2 class="section-title">Results for “' + escapeHtml(query) + '”</h2><div class="card-stack">';
 
-      if (rootCauseMatches.length) {
+      if (matches.rootCauseMatches.length) {
         html += '<article class="match-card"><h3>Root causes</h3><div class="card-stack" style="margin-top: 14px;">' +
-          rootCauseMatches.slice(0, 3).map(function (entry) {
+          matches.rootCauseMatches.slice(0, 3).map(function (entry) {
             return renderRootCauseCard(entry.item);
           }).join('') + '</div></article>';
       }
 
-      if (predictionMatches.length) {
+      if (matches.predictionMatches.length) {
         html += '<article class="match-card"><h3>Predictions</h3><div style="margin-top: 14px;">' +
-          renderPredictionTable(predictionMatches.slice(0, 3).map(function (entry) { return entry.item; })) +
+          renderPredictionTable(matches.predictionMatches.slice(0, 3).map(function (entry) { return entry.item; })) +
           '</div></article>';
       }
 
-      if (storyMatches.length) {
+      if (matches.storyMatches.length) {
         html += '<article class="match-card"><h3>Signals in today\'s dataset</h3><div class="card-stack" style="margin-top: 14px;">' +
-          storyMatches.slice(0, 4).map(function (entry) {
+          matches.storyMatches.slice(0, 4).map(function (entry) {
             const item = entry.item;
             const title = item.url ? '<a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(item.title) + '</a>' : escapeHtml(item.title || 'Untitled signal');
             return '<div class="detail-card">' +
@@ -866,7 +990,7 @@
           }).join('') + '</div></article>';
       }
 
-      if (narrativeScore) {
+      if (matches.narrativeScore) {
         html += '<article class="match-card"><h3>Narrative context</h3><div style="margin-top: 14px;">' + renderParagraphs(analysisData.narrative) + '</div></article>';
       }
 
@@ -874,13 +998,177 @@
       return html;
     }
 
+    function renderAdhocResult(data, heading) {
+      return '<section>' +
+        '<h2 class="section-title">' + escapeHtml(heading) + '</h2>' +
+        '<p class="lede">Topic: ' + escapeHtml(data.topic) + ' · Generated ' + escapeHtml(data.analyzedAt || data.reportDate || 'recently') + '</p>' +
+        renderParagraphs(data.narrative) +
+        (data.rootCauses.length ? '<div class="card-stack" style="margin-top: 16px;">' + data.rootCauses.slice(0, 3).map(function (item, index) {
+          return renderRootCauseCard(item, index + 1);
+        }).join('') + '</div>' : '') +
+        (data.predictions.length ? '<div style="margin-top: 16px;">' + renderPredictionTable(data.predictions.slice(0, 4)) + '</div>' : '') +
+      '</section>';
+    }
+
+    function setAdhocStatus(message) {
+      adhocStatusEl.textContent = message;
+    }
+
+    async function fetchAdhocData() {
+      try {
+        const response = await fetch('adhoc.json?ts=' + Date.now(), { cache: 'no-store' });
+        if (!response.ok) {
+          return null;
+        }
+        const data = normalizeAdhocData(await response.json());
+        if (!data.topic && !data.rootCauses.length && !data.narrative) {
+          return null;
+        }
+        latestAdhocData = data;
+        latestAdhocSignature = signatureFor(data);
+        return data;
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function stopAdhocPolling() {
+      if (adhocPollTimer) {
+        window.clearInterval(adhocPollTimer);
+        adhocPollTimer = null;
+      }
+    }
+
+    async function checkForAdhocResult() {
+      const data = await fetchAdhocData();
+      if (!data || !pendingAdhocTopic) {
+        return;
+      }
+
+      if (normalizeTopic(data.topic) === normalizeTopic(pendingAdhocTopic) && latestAdhocSignature !== shownAdhocSignature) {
+        appendSystemMessage(renderAdhocResult(data, 'Ad-hoc analysis complete'));
+        shownAdhocSignature = latestAdhocSignature;
+        setAdhocStatus('Ad-hoc analysis received for "' + pendingAdhocTopic + '".');
+        pendingAdhocTopic = '';
+        stopAdhocPolling();
+      }
+    }
+
+    function startAdhocPolling(topic) {
+      pendingAdhocTopic = topic;
+      stopAdhocPolling();
+      checkForAdhocResult();
+      adhocPollTimer = window.setInterval(checkForAdhocResult, 15000);
+    }
+
+    function renderAdhocInstructions(topic) {
+      const related = analysisData ? renderSearchResults(topic) : '<p class="empty-state">Today\'s analysis package is still loading, so only the workflow instructions are available right now.</p>';
+      const cliCommand = 'gh workflow run adhoc-analysis.yml -f topic=' + JSON.stringify(topic);
+      return '<section>' +
+        '<h2 class="section-title">Ad-hoc analysis requested</h2>' +
+        '<div class="notice-card">' +
+          '<p>The browser cannot securely trigger GitHub Actions because that would expose a token.</p>' +
+          '<p><strong>Step 1:</strong> Run <code>' + escapeHtml(cliCommand) + '</code> in a terminal with GitHub CLI, or <a href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">open the workflow in GitHub</a> and click <strong>Run workflow</strong>.</p>' +
+          '<p><strong>Step 2:</strong> Keep this page open. It checks <code>adhoc.json</code> every 15 seconds and will append the completed analysis automatically.</p>' +
+        '</div>' +
+        '<div style="margin-top: 16px;">' + related + '</div>' +
+      '</section>';
+    }
+
     function runSearch() {
       const query = cleanText(queryEl.value);
       if (!query) {
-        setResponse(renderWelcome());
+        appendSystemMessage(renderWelcome());
         return;
       }
-      setResponse(renderSearchResults(query));
+      appendUserMessage(query);
+      appendSystemMessage(renderSearchResults(query));
+      queryEl.value = '';
+    }
+
+    function requestAdhocAnalysis() {
+      const topic = cleanText(adhocTopicEl.value);
+      if (!topic) {
+        appendSystemMessage('<p class="empty-state">Enter a custom topic first, then use the workflow instructions to run the analysis.</p>');
+        return;
+      }
+
+      appendUserMessage('Run ad-hoc analysis for: ' + topic);
+      appendSystemMessage(renderAdhocInstructions(topic));
+      setAdhocStatus('Analysis running... Start the GitHub workflow now. This page will keep checking for updates every 15 seconds.');
+      adhocTopicEl.value = '';
+      startAdhocPolling(topic);
+    }
+
+    function renderRootCausesView() {
+      if (!analysisData || !analysisData.rootCauses.length) {
+        return '<p class="empty-state">No root causes are available in the current analysis package.</p>';
+      }
+
+      return '<section>' +
+        '<h2 class="section-title">Root causes</h2>' +
+        '<p class="lede">Each root cause below includes its severity, rationale, suggested intervention, prediction, and falsification test.</p>' +
+        '<div class="card-stack">' + analysisData.rootCauses.map(function (item, index) {
+          return renderRootCauseCard(item, index + 1);
+        }).join('') + '</div>' +
+      '</section>';
+    }
+
+    function renderPredictionsView() {
+      if (!analysisData) {
+        return '<p class="empty-state">No analysis data is loaded yet.</p>';
+      }
+
+      return '<section>' +
+        '<h2 class="section-title">Predictions</h2>' +
+        '<p class="lede">Prediction ledger for today\'s briefing, including current status and falsification criteria.</p>' +
+        renderPredictionTable(analysisData.predictions) +
+      '</section>';
+    }
+
+    function renderNarrativeView() {
+      if (!analysisData) {
+        return '<p class="empty-state">No analysis data is loaded yet.</p>';
+      }
+
+      return '<section>' +
+        '<h2 class="section-title">Strategic narrative</h2>' +
+        '<p class="lede">Full editorial narrative from today\'s SIA briefing.</p>' +
+        renderParagraphs(analysisData.narrative) +
+      '</section>';
+    }
+
+    function renderUrgentView() {
+      const urgent = getHighestSeverityRootCause();
+      if (!urgent) {
+        return '<p class="empty-state">No urgent root cause is available in the current analysis package.</p>';
+      }
+
+      return '<section>' +
+        '<h2 class="section-title">Most urgent issue</h2>' +
+        '<p class="lede">This is the highest-severity root cause in today\'s analysis package.</p>' +
+        renderRootCauseCard(urgent) +
+      '</section>';
+    }
+
+    function showRootCauses() {
+      appendUserMessage('Show root causes');
+      appendSystemMessage(renderRootCausesView());
+    }
+
+    function showPredictions() {
+      appendUserMessage('Show predictions');
+      appendSystemMessage(renderPredictionsView());
+    }
+
+    function showNarrative() {
+      appendUserMessage('Show narrative');
+      appendSystemMessage(renderNarrativeView());
+    }
+
+    function showUrgent() {
+      appendUserMessage('What\'s most urgent?');
+      appendSystemMessage(renderUrgentView());
     }
 
     async function loadData() {
@@ -891,11 +1179,18 @@
         }
         analysisData = normalizeData(await response.json());
         updateMeta();
-        setResponse(renderWelcome());
+        resetConversation();
+
+        const adhocData = await fetchAdhocData();
+        if (adhocData && latestAdhocSignature !== shownAdhocSignature) {
+          appendSystemMessage(renderAdhocResult(adhocData, 'Most recent ad-hoc analysis'));
+          shownAdhocSignature = latestAdhocSignature;
+        }
       } catch (error) {
         analysisData = null;
         updateMeta();
-        setResponse('<section><h2 class="section-title">Data unavailable</h2><p class="empty-state">The latest briefing package could not be loaded from <code>data.json</code>.</p></section>');
+        clearConversation();
+        appendSystemMessage('<section><h2 class="section-title">Data unavailable</h2><p class="empty-state">The latest briefing package could not be loaded from <code>data.json</code>.</p></section>');
       }
     }
 
@@ -905,6 +1200,19 @@
         event.preventDefault();
         runSearch();
       }
+    });
+    adhocButtonEl.addEventListener('click', requestAdhocAnalysis);
+    adhocTopicEl.addEventListener('keydown', function (event) {
+      if (event.key === 'Enter') {
+        event.preventDefault();
+        requestAdhocAnalysis();
+      }
+    });
+    clearButtonEl.addEventListener('click', function () {
+      pendingAdhocTopic = '';
+      stopAdhocPolling();
+      setAdhocStatus('Conversation cleared. Enter a topic or use a quick action to start again.');
+      resetConversation();
     });
 
     if (params.has('token')) {
