@@ -844,7 +844,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
         <div class="issue-date">{escape(report.get("report_date", ""))}</div>
       </div>
       <h1>Systemic Intelligence Analysis</h1>
-      <p class="dek">A daily editorial briefing on structural risks, root causes, and emerging predictions from publicly available signals. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project on GitHub</a>.</p>
+      <p class="dek">SIA (Synthetic Insight Architecture) is a general-purpose problem intelligence system. It collects signals from diverse public sources — news reports, field observations, institutional data — and runs them through a multi-stage analysis pipeline that identifies shared systemic root causes, clusters compounding risks, prioritises interventions under real-world scarcity constraints, and tracks explicit predictions against outcomes over time. Rather than summarising individual stories, it looks for the structural patterns that connect them: the feedback loops, cascade risks, and institutional failures that determine what actually happens next. The system is validated across six domains including geopolitical conflict, economic resilience, and historical hindcasting. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project and methodology on GitHub&nbsp;→</a></p>
       <p class="meta-line">{len(stories)} stories analysed · {len(root_causes)} root causes · {len(predictions)} predictions</p>
     </section>
 
