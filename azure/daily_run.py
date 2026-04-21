@@ -554,21 +554,40 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     stories = report.get("stories", [])
     predictions = ledger.get("predictions", [])
     narrative = report.get("narrative", "")
+    severity_classes = {
+        "existential": "severity-existential",
+        "critical": "severity-existential",
+        "high": "severity-existential",
+        "major": "severity-major",
+        "medium": "severity-moderate",
+        "moderate": "severity-moderate",
+        "low": "severity-moderate",
+    }
+    status_classes = {
+        "validated": "status-validated",
+        "partially_validated": "status-partial",
+        "falsified": "status-falsified",
+        "expired": "status-expired",
+        "open": "status-open",
+    }
     root_rows = []
     cards = []
     for index, cause in enumerate(root_causes, start=1):
         signals = [str(s) for s in cause.get("signals", [])]
+        severity = str(cause.get("severity", "unknown")).strip().lower()
+        severity_class = severity_classes.get(severity, "severity-moderate")
         root_rows.append(
-            f"<tr><td>{index}</td><td>{escape(cause.get('name', 'Unknown'))}</td><td>{escape(cause.get('severity', 'unknown'))}</td>"
-            f"<td>{escape(', '.join(signals[:3]))}</td><td>{escape(cause.get('timeline', ''))}</td><td>{escape(cause.get('rationale', ''))}</td></tr>"
+            f"<tr><td data-label='Rank'>{index}</td><td data-label='Name'>{escape(cause.get('name', 'Unknown'))}</td><td data-label='Severity'>{escape(cause.get('severity', 'unknown'))}</td>"
+            f"<td data-label='Signals'>{escape(', '.join(signals[:3]))}</td><td data-label='Timeline'>{escape(cause.get('timeline', ''))}</td><td data-label='Rationale'>{escape(cause.get('rationale', ''))}</td></tr>"
         )
         cards.append(
-            "<div class='card'>"
+            f"<article class='detail-block {severity_class}'>"
+            f"<p class='detail-kicker'>{escape(cause.get('severity', 'unknown'))}</p>"
             f"<h3>{index}. {escape(cause.get('name', 'Unknown'))}</h3>"
-            f"<p><strong>Intervention:</strong> {escape(cause.get('intervention', ''))}</p>"
-            f"<p><strong>Prediction:</strong> {escape(cause.get('prediction', ''))}</p>"
-            f"<p><strong>Falsification:</strong> {escape(cause.get('falsification', ''))}</p>"
-            "</div>"
+            f"<p><span>Intervention</span>{escape(cause.get('intervention', ''))}</p>"
+            f"<p><span>Prediction</span>{escape(cause.get('prediction', ''))}</p>"
+            f"<p><span>Falsification</span>{escape(cause.get('falsification', ''))}</p>"
+            "</article>"
         )
     # Strip body snippets from stories for public display — only show title + source + link
     public_stories = []
@@ -581,11 +600,11 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
         })
 
     story_rows = [
-        f"<tr><td><a href='{escape(s['url'])}' target='_blank' rel='noreferrer'>{escape(s['title'])}</a></td><td>{escape(s['source'])}</td><td>{escape(format_human_date(s.get('published')))}</td></tr>"
+        f"<tr><td data-label='Headline'><a href='{escape(s['url'])}' target='_blank' rel='noreferrer'>{escape(s['title'])}</a></td><td data-label='Source'>{escape(s['source'])}</td><td data-label='Published'>{escape(format_human_date(s.get('published')))}</td></tr>"
         for s in public_stories
     ]
     prediction_rows = [
-        f"<tr><td>{escape(item.get('root_cause', 'Unknown'))}</td><td>{escape(item.get('status', 'open'))}</td><td>{escape(item.get('maturity_date', ''))}</td><td>{escape(item.get('validation_notes', item.get('prediction', '')))}</td></tr>"
+        f"<tr><td data-label='Root cause'>{escape(item.get('root_cause', 'Unknown'))}</td><td data-label='Status'><span class='status-pill {status_classes.get(str(item.get('status', 'open')).strip().lower(), 'status-open')}'>{escape(item.get('status', 'open'))}</span></td><td data-label='Maturity'>{escape(item.get('maturity_date', ''))}</td><td data-label='Notes'>{escape(item.get('validation_notes', item.get('prediction', '')))}</td></tr>"
         for item in predictions
     ]
 
@@ -596,52 +615,254 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow, noarchive">
   <title>SIA — Systemic Intelligence Analysis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
-    body {{ font-family: Segoe UI, Arial, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; }}
-    .page {{ max-width: 1100px; margin: 0 auto; padding: 32px 20px 48px; }}
-    .panel {{ background: #111827; border: 1px solid #334155; border-radius: 18px; padding: 24px; margin-bottom: 20px; }}
-    .grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }}
-    .metric {{ background: #1e293b; border-radius: 14px; padding: 16px; }}
-    table {{ width: 100%; border-collapse: collapse; margin-top: 12px; }}
-    th, td {{ border-bottom: 1px solid #334155; padding: 10px; text-align: left; vertical-align: top; }}
-    a {{ color: #93c5fd; }}
-    .card {{ background: #1e293b; border-radius: 14px; padding: 16px; margin-top: 12px; }}
-    .hero-title {{ font-size: 1.8rem; margin: 0 0 6px; }}
-    .hero-sub {{ color: #94a3b8; margin: 0 0 16px; line-height: 1.6; }}
-    .narrative {{ line-height: 1.75; white-space: pre-line; }}
-    .attribution {{ color: #64748b; font-size: 0.85rem; margin-top: 12px; }}
-    footer {{ color: #475569; font-size: 0.8rem; text-align: center; padding: 24px 0 0; }}
+    :root {{
+      --paper: #faf9f6;
+      --paper-line: #dfd8cc;
+      --ink: #1a1a1a;
+      --muted: #6d675f;
+      --accent: #8f4d3f;
+      --existential: #a4493d;
+      --major: #b27a3f;
+      --moderate: #8a8379;
+      --pill-bg: #f1ece4;
+    }}
+    * {{ box-sizing: border-box; }}
+    body {{
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.68;
+      -webkit-font-smoothing: antialiased;
+    }}
+    .page {{
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 48px 24px 56px;
+    }}
+    a {{
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(143, 77, 63, 0.28);
+    }}
+    a:hover {{ border-bottom-color: var(--accent); }}
+    section {{
+      padding: 0 0 34px;
+      margin: 0 0 34px;
+      border-bottom: 1px solid var(--paper-line);
+    }}
+    .mark-row {{
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 16px;
+    }}
+    .mark {{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 72px;
+      padding: 8px 12px 7px;
+      border: 1px solid var(--ink);
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.65rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      line-height: 1;
+    }}
+    .issue-date {{
+      color: var(--muted);
+      font-size: 0.95rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }}
+    h1, h2, h3 {{
+      margin: 0;
+      font-family: Georgia, 'Times New Roman', serif;
+      color: var(--ink);
+      font-weight: 700;
+    }}
+    h1 {{
+      font-size: clamp(2.45rem, 5vw, 3.35rem);
+      line-height: 1.05;
+      margin-bottom: 10px;
+      letter-spacing: -0.03em;
+    }}
+    h2 {{
+      font-size: 1.55rem;
+      line-height: 1.2;
+      margin-bottom: 16px;
+      letter-spacing: -0.02em;
+    }}
+    h3 {{
+      font-size: 1.1rem;
+      line-height: 1.3;
+      margin-bottom: 10px;
+    }}
+    .dek {{
+      max-width: 64ch;
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 1rem;
+    }}
+    .meta-line {{
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }}
+    .narrative {{
+      margin: 0;
+      white-space: pre-line;
+      font-size: 1.05rem;
+      line-height: 1.74;
+    }}
+    table {{
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.96rem;
+    }}
+    th, td {{
+      padding: 12px 0;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--paper-line);
+    }}
+    th {{
+      padding-top: 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }}
+    tbody tr:last-child td {{ border-bottom: 0; }}
+    .detail-list {{
+      margin-top: 20px;
+      display: grid;
+      gap: 14px;
+    }}
+    .detail-block {{
+      padding-left: 18px;
+      border-left: 3px solid var(--moderate);
+    }}
+    .detail-block p {{
+      margin: 8px 0 0;
+    }}
+    .detail-block span {{
+      display: block;
+      margin-bottom: 3px;
+      color: var(--muted);
+      font-size: 0.77rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }}
+    .detail-kicker {{
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }}
+    .severity-existential {{ border-left-color: var(--existential); }}
+    .severity-major {{ border-left-color: var(--major); }}
+    .severity-moderate {{ border-left-color: var(--moderate); }}
+    .status-pill {{
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: var(--pill-bg);
+      color: var(--ink);
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }}
+    .status-validated {{ background: rgba(85, 111, 83, 0.13); color: #556f53; }}
+    .status-partial {{ background: rgba(178, 122, 63, 0.14); color: #8a5d2d; }}
+    .status-falsified {{ background: rgba(164, 73, 61, 0.13); color: #8b3f34; }}
+    .status-expired, .status-open {{ background: var(--pill-bg); color: #6e665d; }}
+    .sources td:first-child a {{ font-weight: 500; }}
+    .attribution {{
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: 0.84rem;
+    }}
+    footer {{
+      color: var(--muted);
+      font-size: 0.84rem;
+    }}
+    @media (max-width: 640px) {{
+      .page {{ padding: 32px 18px 40px; }}
+      .mark-row {{ flex-direction: column; align-items: flex-start; }}
+      table, thead, tbody, th, td, tr {{ display: block; }}
+      thead {{
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }}
+      tr {{
+        padding: 10px 0;
+        border-bottom: 1px solid var(--paper-line);
+      }}
+      td {{
+        border: 0;
+        padding: 4px 0;
+      }}
+      td::before {{
+        content: attr(data-label);
+        display: block;
+        color: var(--muted);
+        font-size: 0.75rem;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-bottom: 2px;
+      }}
+      tbody tr:last-child {{ border-bottom: 0; }}
+    }}
   </style>
 </head>
 <body>
   <div class="page">
-    <section class="panel">
-      <p class="hero-title">SIA — Systemic Intelligence Analysis</p>
-      <p class="hero-sub">SIA is a general-purpose problem intelligence system that collects signals from diverse sources, identifies shared systemic root causes, prioritises interventions under scarcity, and tracks predictions against real-world outcomes over time. Instead of summarising individual headlines, it looks for the structural patterns that connect them — the feedback loops, cascade risks, and compounding failures that determine what actually happens next.
-      <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project on GitHub →</a></p>
-      <h2>{escape(report.get("report_date", ""))}</h2>
-      <div class="grid">
-        <div class="metric"><strong>Stories analysed</strong><br>{len(stories)}</div>
-        <div class="metric"><strong>Root causes</strong><br>{len(root_causes)}</div>
-        <div class="metric"><strong>Predictions tracked</strong><br>{len(predictions)}</div>
+    <section>
+      <div class="mark-row">
+        <div class="mark">SIA</div>
+        <div class="issue-date">{escape(report.get("report_date", ""))}</div>
       </div>
+      <h1>Systemic Intelligence Analysis</h1>
+      <p class="dek">A daily editorial briefing on structural risks, root causes, and emerging predictions from publicly available signals. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project on GitHub</a>.</p>
+      <p class="meta-line">{len(stories)} stories analysed · {len(root_causes)} root causes · {len(predictions)} predictions</p>
     </section>
 
-    <section class="panel">
-      <h2>Analysis narrative</h2>
+    <section>
+      <h2>Narrative</h2>
       <p class="narrative">{escape(narrative)}</p>
     </section>
 
-    <section class="panel">
+    <section>
       <h2>Root causes</h2>
       <table>
         <thead><tr><th>Rank</th><th>Name</th><th>Severity</th><th>Signals</th><th>Timeline</th><th>Rationale</th></tr></thead>
         <tbody>{''.join(root_rows) or '<tr><td colspan="6">No root causes available.</td></tr>'}</tbody>
       </table>
-      {''.join(cards) or '<p>No detailed cards available.</p>'}
+      <div class="detail-list">{''.join(cards) or '<p>No detailed cards available.</p>'}</div>
     </section>
 
-    <section class="panel">
+    <section>
       <h2>Prediction ledger</h2>
       <table>
         <thead><tr><th>Root cause</th><th>Status</th><th>Maturity</th><th>Notes</th></tr></thead>
@@ -649,17 +870,17 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
       </table>
     </section>
 
-    <section class="panel">
-      <h2>Signals analysed</h2>
-      <table>
-        <thead><tr><th>Story</th><th>Source</th><th>Published</th></tr></thead>
+    <section>
+      <h2>Sources</h2>
+      <table class="sources">
+        <thead><tr><th>Headline</th><th>Source</th><th>Published</th></tr></thead>
         <tbody>{''.join(story_rows) or '<tr><td colspan="3">No stories available.</td></tr>'}</tbody>
       </table>
       <p class="attribution">Headlines sourced from publicly available RSS feeds. Click through for full articles. SIA uses headlines and short summaries for systemic pattern analysis only — no article content is republished.</p>
     </section>
 
     <footer>
-      Powered by <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">SIA</a> — predictions are systemic analysis, not financial or political advice.
+      <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">Synthetic Insight Architecture</a> — predictions are systemic analysis, not financial or political advice.
     </footer>
   </div>
 </body>
