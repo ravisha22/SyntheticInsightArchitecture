@@ -38,6 +38,7 @@ jobs:
 
       - name: Commit updated dashboard
         run: |
+          git pull --rebase origin main
           git config user.name "SIA Bot"
           git config user.email "sia-bot@users.noreply.github.com"
           git add docs/
