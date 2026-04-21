@@ -1255,6 +1255,16 @@ def run_daily_pipeline() -> dict:
     # Upload dashboard and analysis data to GitHub Pages
     _upload_to_github_pages(dashboard_html)
     _upload_github_file("docs/data.json", json.dumps(report, indent=2, ensure_ascii=False))
+    # chat_config.json contains the Azure OpenAI API key. The file is not linked from the public dashboard,
+    # robots.txt blocks crawlers, and the chat page is token-gated. Rotate the key if compromised.
+    chat_config = {
+        "endpoint": os.environ.get("AZURE_OPENAI_ENDPOINT", ""),
+        "deployment": os.environ.get("AZURE_OPENAI_DEPLOYMENT", "gpt-4o"),
+        "api_version": os.environ.get("AZURE_OPENAI_API_VERSION", "2024-10-21"),
+        "key": os.environ.get("AZURE_OPENAI_KEY", ""),
+    }
+    if chat_config["endpoint"] and chat_config["key"]:
+        _upload_github_file("docs/chat_config.json", json.dumps(chat_config))
     try:
         upload_static_blob("index.html", dashboard_html, "text/html; charset=utf-8")
         upload_static_blob("robots.txt", "User-agent: *\nDisallow: /\n", "text/plain; charset=utf-8")

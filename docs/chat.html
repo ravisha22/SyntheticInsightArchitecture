@@ -35,7 +35,8 @@
     }
 
     button,
-    input {
+    input,
+    textarea {
       font: inherit;
     }
 
@@ -275,7 +276,8 @@
       align-items: center;
     }
 
-    .search-row input {
+    .search-row input,
+    .search-row textarea {
       width: 100%;
       padding: 13px 14px;
       border: 1px solid var(--border-strong);
@@ -285,7 +287,13 @@
       font-size: 1rem;
     }
 
-    .search-row input:focus {
+    .search-row textarea {
+      min-height: 54px;
+      resize: vertical;
+    }
+
+    .search-row input:focus,
+    .search-row textarea:focus {
       outline: 2px solid rgba(129, 104, 79, 0.18);
       border-color: var(--accent);
     }
@@ -510,13 +518,12 @@
 
         <section class="composer" aria-label="Ad-hoc analysis">
           <h2>Run an ad-hoc analysis</h2>
-          <p class="lede">Type a custom topic, then use the secure GitHub workflow instructions below. This page will keep checking for the new result and append it when <code>adhoc.json</code> updates.</p>
+          <p class="lede">Type a topic and send it. If it matches today’s briefing, SIA will show that analysis; otherwise it will call Azure OpenAI directly from the browser.</p>
           <div class="search-row" style="margin-top: 14px;">
-            <input type="text" id="adhocTopic" placeholder="Analyse a custom topic..." autocomplete="off">
-            <button class="search-btn" type="button" id="adhocButton">Run Analysis</button>
-            <a class="search-btn subtle" href="https://github.com/ravisha22/SyntheticInsightArchitecture/actions/workflows/adhoc-analysis.yml" target="_blank" rel="noopener noreferrer">Open workflow</a>
+            <textarea id="adhocTopic" placeholder="Analyse a custom topic..." autocomplete="off" rows="2"></textarea>
+            <button class="search-btn" type="button" id="adhocButton">Send</button>
           </div>
-          <p id="adhocStatus" class="helper">No ad-hoc analysis is running from this page yet.</p>
+          <p id="adhocStatus" class="helper">Loading direct-analysis configuration...</p>
         </section>
 
         <div id="actions" class="actions" aria-label="Quick actions">
@@ -558,12 +565,11 @@
     const clearButtonEl = document.getElementById('clearButton');
     const params = new URLSearchParams(window.location.search);
     let analysisData = null;
+    let chatConfig = null;
     let latestAdhocData = null;
     let latestAdhocSignature = '';
     let shownAdhocSignature = '';
-    let pendingAdhocTopic = '';
-    let adhocPollTimer = null;
-    const workflowUrl = 'https://github.com/ravisha22/SyntheticInsightArchitecture/actions/workflows/adhoc-analysis.yml';
+    let adhocRequestInFlight = false;
 
     const severityRank = {
       existential: 6,
@@ -713,14 +719,21 @@
       messageEl.appendChild(bubbleEl);
       responseEl.appendChild(messageEl);
       scrollConversation();
+      return messageEl;
+    }
+
+    function removeLastMessage() {
+      if (responseEl.lastElementChild) {
+        responseEl.removeChild(responseEl.lastElementChild);
+      }
     }
 
     function appendSystemMessage(html) {
-      appendMessage('system', 'SIA', html, true);
+      return appendMessage('system', 'SIA', html, true);
     }
 
     function appendUserMessage(text) {
-      appendMessage('user', 'You', text, false);
+      return appendMessage('user', 'You', text, false);
     }
 
     function clearConversation() {
@@ -874,16 +887,13 @@
             return '<li>' + escapeHtml(item.title) + '</li>';
           }).join('')
         : '<li>Today\'s analysis package is still loading.</li>';
-      const cliCommand = 'gh workflow run adhoc-analysis.yml -f topic=' + JSON.stringify(query);
 
       return '<section>' +
         '<h2 class="section-title">No direct matches for “' + escapeHtml(query) + '”</h2>' +
         '<div class="notice-card">' +
           '<p>This topic isn\'t covered in today\'s analysis.</p>' +
           '<p>SIA analyses the top news stories daily at 6:00 AM AEST. If this topic appears in tomorrow\'s headlines, it will be analysed automatically.</p>' +
-          '<p>To run a full ad-hoc analysis now, use the GitHub workflow below. Keep this page open and it will append the result when <code>adhoc.json</code> is refreshed.</p>' +
-          '<p><strong>CLI:</strong> <code>' + escapeHtml(cliCommand) + '</code></p>' +
-          '<p><strong>GitHub:</strong> <a href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">Open the “SIA Ad-hoc Analysis” workflow</a> and paste the same topic.</p>' +
+          '<p>Use the ad-hoc analysis box above to run a direct Azure OpenAI analysis for this topic right now.</p>' +
         '</div>' +
         '<div class="notice-card" style="margin-top: 14px;">' +
           '<h3>Topics covered today</h3>' +
@@ -1014,6 +1024,30 @@
       adhocStatusEl.textContent = message;
     }
 
+    function setAdhocLoading(isLoading) {
+      adhocRequestInFlight = isLoading;
+      adhocTopicEl.disabled = isLoading;
+      adhocButtonEl.disabled = isLoading;
+      adhocButtonEl.textContent = isLoading ? 'Analysing…' : 'Send';
+    }
+
+    async function loadChatConfig() {
+      try {
+        const response = await fetch('chat_config.json?ts=' + Date.now(), { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error('HTTP ' + response.status);
+        }
+        chatConfig = await response.json();
+        if (chatConfig && chatConfig.key && chatConfig.endpoint) {
+          setAdhocStatus('Direct analysis ready. Press Enter to send, or Shift+Enter for a new line.');
+          return;
+        }
+      } catch (error) {
+        chatConfig = null;
+      }
+      setAdhocStatus('Direct analysis not available yet. Wait for the next daily run to publish chat configuration.');
+    }
+
     async function fetchAdhocData() {
       try {
         const response = await fetch('adhoc.json?ts=' + Date.now(), { cache: 'no-store' });
@@ -1032,47 +1066,128 @@
       }
     }
 
-    function stopAdhocPolling() {
-      if (adhocPollTimer) {
-        window.clearInterval(adhocPollTimer);
-        adhocPollTimer = null;
+    function formatAnalysis(text) {
+      const lines = cleanText(text).split(/\r?\n/);
+      const html = [];
+      let paragraph = [];
+      let listItems = [];
+
+      function formatInline(value) {
+        return escapeHtml(value).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
       }
+
+      function flushParagraph() {
+        if (!paragraph.length) {
+          return;
+        }
+        html.push('<p>' + formatInline(paragraph.join(' ')) + '</p>');
+        paragraph = [];
+      }
+
+      function flushList() {
+        if (!listItems.length) {
+          return;
+        }
+        html.push('<ul>' + listItems.map(function (item) {
+          return '<li>' + formatInline(item) + '</li>';
+        }).join('') + '</ul>');
+        listItems = [];
+      }
+
+      lines.forEach(function (line) {
+        const trimmed = line.trim();
+        if (!trimmed) {
+          flushParagraph();
+          flushList();
+          return;
+        }
+        if (/^#{1,6}\s+/.test(trimmed)) {
+          flushParagraph();
+          flushList();
+          html.push('<h3>' + formatInline(trimmed.replace(/^#{1,6}\s+/, '')) + '</h3>');
+          return;
+        }
+        if (/^[-*]\s+/.test(trimmed)) {
+          flushParagraph();
+          listItems.push(trimmed.replace(/^[-*]\s+/, ''));
+          return;
+        }
+        paragraph.push(trimmed);
+      });
+
+      flushParagraph();
+      flushList();
+      return html.join('') || '<p class="empty-state">Analysis failed — no response from model.</p>';
     }
 
-    async function checkForAdhocResult() {
-      const data = await fetchAdhocData();
-      if (!data || !pendingAdhocTopic) {
+    async function runAdhocAnalysis(topic) {
+      if (!chatConfig || !chatConfig.key || !chatConfig.endpoint) {
+        appendSystemMessage('<p>Direct analysis not available. Chat config missing — wait for the next daily run.</p>');
+        setAdhocStatus('Direct analysis unavailable. Wait for the next daily run to publish chat configuration.');
         return;
       }
 
-      if (normalizeTopic(data.topic) === normalizeTopic(pendingAdhocTopic) && latestAdhocSignature !== shownAdhocSignature) {
-        appendSystemMessage(renderAdhocResult(data, 'Ad-hoc analysis complete'));
-        shownAdhocSignature = latestAdhocSignature;
-        setAdhocStatus('Ad-hoc analysis received for "' + pendingAdhocTopic + '".');
-        pendingAdhocTopic = '';
-        stopAdhocPolling();
+      const placeholder = appendSystemMessage('<p>Analysing... this takes 15-30 seconds.</p>');
+      const baseEndpoint = String(chatConfig.endpoint || '').replace(/\/+$/, '') + '/';
+      const url = baseEndpoint + 'openai/deployments/' + encodeURIComponent(chatConfig.deployment || 'gpt-4o') + '/chat/completions?api-version=' + encodeURIComponent(chatConfig.api_version || '2024-10-21');
+      const systemPrompt = 'You are the SIA systemic intelligence analyst. Given a topic, produce a structured analysis:\n' +
+        '1. Identify key signals and observable evidence\n' +
+        '2. Cluster into systemic root causes with severity (existential/major/moderate)\n' +
+        '3. Prioritise interventions under scarcity\n' +
+        '4. Make explicit predictions with timelines\n' +
+        '5. State what would falsify each prediction\n\n' +
+        'Write your response as a clear narrative briefing (3-5 paragraphs), followed by a structured summary.\n' +
+        'Do NOT use JSON — write it as readable text with clear sections.';
+
+      setAdhocLoading(true);
+      setAdhocStatus('Running direct Azure OpenAI analysis...');
+
+      try {
+        const resp = await fetch(url, {
+          method: 'POST',
+          headers: {
+            'api-key': chatConfig.key,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            messages: [
+              { role: 'system', content: systemPrompt },
+              { role: 'user', content: 'Analyse this topic: ' + topic }
+            ],
+            temperature: 0.4,
+            max_tokens: 4096
+          })
+        });
+
+        const data = await resp.json();
+        if (!resp.ok) {
+          throw new Error(cleanText(data && data.error && data.error.message) || ('HTTP ' + resp.status));
+        }
+
+        const content = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content
+          ? data.choices[0].message.content
+          : 'Analysis failed — no response from model.';
+
+        if (placeholder.parentNode) {
+          placeholder.parentNode.removeChild(placeholder);
+        } else {
+          removeLastMessage();
+        }
+        appendSystemMessage(formatAnalysis(content));
+        setAdhocStatus('Direct analysis complete. Enter another topic to continue.');
+      } catch (error) {
+        if (placeholder.parentNode) {
+          placeholder.parentNode.removeChild(placeholder);
+        } else {
+          removeLastMessage();
+        }
+        appendSystemMessage('<p>Analysis failed: ' + escapeHtml(error.message || 'Unknown error') + '</p>');
+        setAdhocStatus('Analysis failed. You can try another topic now.');
+      } finally {
+        setAdhocLoading(false);
+        adhocTopicEl.value = '';
+        adhocTopicEl.focus();
       }
-    }
-
-    function startAdhocPolling(topic) {
-      pendingAdhocTopic = topic;
-      stopAdhocPolling();
-      checkForAdhocResult();
-      adhocPollTimer = window.setInterval(checkForAdhocResult, 15000);
-    }
-
-    function renderAdhocInstructions(topic) {
-      const related = analysisData ? renderSearchResults(topic) : '<p class="empty-state">Today\'s analysis package is still loading, so only the workflow instructions are available right now.</p>';
-      const cliCommand = 'gh workflow run adhoc-analysis.yml -f topic=' + JSON.stringify(topic);
-      return '<section>' +
-        '<h2 class="section-title">Ad-hoc analysis requested</h2>' +
-        '<div class="notice-card">' +
-          '<p>The browser cannot securely trigger GitHub Actions because that would expose a token.</p>' +
-          '<p><strong>Step 1:</strong> Run <code>' + escapeHtml(cliCommand) + '</code> in a terminal with GitHub CLI, or <a href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">open the workflow in GitHub</a> and click <strong>Run workflow</strong>.</p>' +
-          '<p><strong>Step 2:</strong> Keep this page open. It checks <code>adhoc.json</code> every 15 seconds and will append the completed analysis automatically.</p>' +
-        '</div>' +
-        '<div style="margin-top: 16px;">' + related + '</div>' +
-      '</section>';
     }
 
     function runSearch() {
@@ -1086,18 +1201,27 @@
       queryEl.value = '';
     }
 
-    function requestAdhocAnalysis() {
+    async function requestAdhocAnalysis() {
+      if (adhocRequestInFlight) {
+        return;
+      }
       const topic = cleanText(adhocTopicEl.value);
       if (!topic) {
-        appendSystemMessage('<p class="empty-state">Enter a custom topic first, then use the workflow instructions to run the analysis.</p>');
+        appendSystemMessage('<p class="empty-state">Enter a custom topic first.</p>');
         return;
       }
 
-      appendUserMessage('Run ad-hoc analysis for: ' + topic);
-      appendSystemMessage(renderAdhocInstructions(topic));
-      setAdhocStatus('Analysis running... Start the GitHub workflow now. This page will keep checking for updates every 15 seconds.');
-      adhocTopicEl.value = '';
-      startAdhocPolling(topic);
+      appendUserMessage(topic);
+
+      const matches = collectSearchMatches(topic);
+      if (hasMatches(matches)) {
+        appendSystemMessage(renderSearchResults(topic));
+        setAdhocStatus('Displayed matching content from today\'s analysis package.');
+        adhocTopicEl.value = '';
+        return;
+      }
+
+      await runAdhocAnalysis(topic);
     }
 
     function renderRootCausesView() {
@@ -1203,14 +1327,12 @@
     });
     adhocButtonEl.addEventListener('click', requestAdhocAnalysis);
     adhocTopicEl.addEventListener('keydown', function (event) {
-      if (event.key === 'Enter') {
+      if (event.key === 'Enter' && !event.shiftKey) {
         event.preventDefault();
         requestAdhocAnalysis();
       }
     });
     clearButtonEl.addEventListener('click', function () {
-      pendingAdhocTopic = '';
-      stopAdhocPolling();
       setAdhocStatus('Conversation cleared. Enter a topic or use a quick action to start again.');
       resetConversation();
     });
@@ -1218,6 +1340,7 @@
     if (params.has('token')) {
       gateEl.style.display = 'none';
       mainEl.style.display = 'block';
+      loadChatConfig();
       loadData();
     }
 
