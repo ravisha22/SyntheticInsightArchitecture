@@ -4,25 +4,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow, noarchive">
-  <meta http-equiv="Cache-Control" content="no-store, max-age=0">
-  <title>SIA Intelligence Chat</title>
+  <title>SIA Intelligence Briefing</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      color-scheme: dark;
-      --bg: #1a1a2e;
-      --panel: #131528;
-      --panel-alt: #171b33;
-      --border: rgba(148, 163, 184, 0.16);
-      --text: #ecf2ff;
-      --muted: #9aa8c7;
-      --accent: #4361ee;
-      --accent-strong: #5d78f2;
-      --bubble: #23283f;
-      --bubble-user: linear-gradient(135deg, #4361ee, #3651d4);
-      --success: #22c55e;
-      --warning: #f59e0b;
-      --shadow: 0 24px 60px rgba(1, 4, 18, 0.45);
-      --radius: 22px;
+      --page: #faf9f6;
+      --surface: #fffdf9;
+      --surface-alt: #f4efe6;
+      --border: #ded6c7;
+      --border-strong: #cdbda6;
+      --text: #1a1a1a;
+      --muted: #62584c;
+      --accent: #81684f;
+      --accent-soft: #ece3d6;
+      --success: #4f6b4f;
+      --warning: #9b6b45;
+      --danger: #8d3f35;
+      --shadow: 0 18px 40px rgba(84, 67, 44, 0.08);
+      --radius: 18px;
     }
 
     * { box-sizing: border-box; }
@@ -30,126 +29,93 @@
     body {
       margin: 0;
       min-height: 100vh;
-      font-family: Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background:
-        radial-gradient(circle at top, rgba(67, 97, 238, 0.18), transparent 28%),
-        linear-gradient(180deg, #17172b 0%, var(--bg) 100%);
+      font-family: Inter, sans-serif;
+      background: var(--page);
       color: var(--text);
     }
 
-    button, textarea, input {
+    button,
+    input {
       font: inherit;
     }
 
+    h1,
+    h2,
+    h3 {
+      font-family: Georgia, "Times New Roman", serif;
+      letter-spacing: -0.01em;
+    }
+
+    a {
+      color: var(--accent);
+    }
+
+    #gate {
+      padding: 20px;
+    }
+
     .shell {
-      min-height: 100vh;
-      padding: 28px 16px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 32px 20px 40px;
     }
 
-    .frame {
-      width: min(1120px, 100%);
-      min-height: calc(100vh - 56px);
-      background: rgba(19, 21, 40, 0.86);
-      border: 1px solid var(--border);
-      border-radius: 28px;
-      box-shadow: var(--shadow);
-      backdrop-filter: blur(18px);
-      overflow: hidden;
-    }
-
-    .gate {
-      min-height: calc(100vh - 56px);
-      display: grid;
-      place-items: center;
-      padding: 32px;
-    }
-
-    .gate-card {
-      width: min(520px, 100%);
-      background: linear-gradient(180deg, rgba(23, 27, 51, 0.96), rgba(19, 21, 40, 0.98));
+    .panel {
+      background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 24px;
-      padding: 32px;
+      box-shadow: var(--shadow);
+      padding: 28px;
     }
 
     .eyebrow {
-      margin: 0 0 10px;
-      color: #b8c4e3;
-      letter-spacing: 0.14em;
-      font-size: 12px;
+      margin: 0 0 8px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
-    }
-
-    .gate-card h1,
-    .header-copy h1 {
-      margin: 0;
-      font-size: clamp(28px, 4vw, 36px);
-      line-height: 1.05;
-    }
-
-    .gate-card p,
-    .header-copy p,
-    .meta-card p,
-    .message p,
-    .helper,
-    .empty-state {
       color: var(--muted);
     }
 
-    .gate-card p {
-      margin: 14px 0 0;
+    header h1 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 2.8rem);
+    }
+
+    header p {
+      margin: 10px 0 0;
+      color: var(--muted);
       line-height: 1.6;
     }
 
-    .notice {
-      margin-top: 18px;
-      padding: 14px 16px;
-      border-radius: 16px;
-      background: rgba(67, 97, 238, 0.12);
-      border: 1px solid rgba(67, 97, 238, 0.24);
-      color: #dce4ff;
-    }
-
-    .chat {
-      height: calc(100vh - 56px);
-      display: grid;
-      grid-template-rows: auto auto minmax(0, 1fr) auto;
-    }
-
-    .header {
-      padding: 24px 24px 16px;
-      border-bottom: 1px solid var(--border);
-      background: linear-gradient(180deg, rgba(24, 28, 51, 0.98), rgba(19, 21, 40, 0.92));
-    }
-
-    .header-bar {
+    .status-bar {
+      margin-top: 20px;
+      padding: 16px 18px;
+      background: var(--surface-alt);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
       display: flex;
-      gap: 18px;
-      justify-content: space-between;
-      align-items: flex-start;
+      flex-direction: column;
+      gap: 14px;
     }
 
-    .header-copy p {
-      margin: 8px 0 0;
-      max-width: 720px;
-      line-height: 1.5;
+    .status-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
     }
 
     .status-pill {
-      flex-shrink: 0;
       display: inline-flex;
       align-items: center;
       gap: 10px;
-      padding: 10px 14px;
+      padding: 8px 12px;
       border-radius: 999px;
+      background: rgba(255, 253, 249, 0.9);
       border: 1px solid var(--border);
-      background: rgba(10, 14, 29, 0.52);
-      color: #dbeafe;
-      font-size: 13px;
-      white-space: nowrap;
+      color: var(--text);
+      font-size: 0.92rem;
     }
 
     .status-dot {
@@ -157,773 +123,800 @@
       height: 10px;
       border-radius: 50%;
       background: var(--warning);
-      box-shadow: 0 0 0 6px rgba(245, 158, 11, 0.12);
+      flex-shrink: 0;
     }
 
     .status-dot.ready {
       background: var(--success);
-      box-shadow: 0 0 0 6px rgba(34, 197, 94, 0.12);
     }
 
-    .briefing-strip {
-      padding: 18px 24px 0;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-      gap: 12px;
+    .meta-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
     }
 
-    .meta-card {
-      background: rgba(23, 27, 51, 0.9);
+    .meta-chip {
+      padding: 9px 12px;
+      border-radius: 999px;
       border: 1px solid var(--border);
-      border-radius: 18px;
-      padding: 15px 16px;
-      min-height: 88px;
-    }
-
-    .meta-card strong {
-      display: block;
-      font-size: 12px;
-      letter-spacing: 0.1em;
-      color: #9fb0d8;
-      text-transform: uppercase;
-      margin-bottom: 8px;
-    }
-
-    .meta-card span {
-      font-size: 20px;
-      font-weight: 700;
-      color: var(--text);
-    }
-
-    .meta-card p {
-      margin: 8px 0 0;
-      font-size: 13px;
-      line-height: 1.45;
+      background: rgba(255, 253, 249, 0.9);
+      color: var(--muted);
+      font-size: 0.92rem;
     }
 
     .actions {
-      padding: 18px 24px 0;
+      margin: 24px 0 0;
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
     }
 
     .action-btn,
-    .send-btn {
-      border: 1px solid rgba(99, 117, 218, 0.35);
-      background: rgba(67, 97, 238, 0.14);
-      color: #e7edff;
+    .search-btn {
+      border: 1px solid var(--border-strong);
+      background: var(--surface);
+      color: var(--text);
       border-radius: 999px;
       padding: 11px 16px;
       cursor: pointer;
-      transition: transform 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+      transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
     }
 
     .action-btn:hover,
-    .send-btn:hover {
-      transform: translateY(-1px);
-      background: rgba(67, 97, 238, 0.22);
-      border-color: rgba(120, 142, 255, 0.54);
-    }
-
+    .search-btn:hover,
     .action-btn:focus-visible,
-    .send-btn:focus-visible,
-    textarea:focus-visible {
-      outline: 2px solid #9fb3ff;
-      outline-offset: 2px;
+    .search-btn:focus-visible {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      transform: translateY(-1px);
+      outline: none;
     }
 
-    .action-btn:disabled,
-    .send-btn:disabled {
-      opacity: 0.45;
-      cursor: not-allowed;
-      transform: none;
+    .response-wrap {
+      margin-top: 22px;
     }
 
-    .messages {
+    .response-frame {
+      height: min(52vh, 560px);
+      min-height: 280px;
       overflow-y: auto;
-      padding: 24px;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-      scroll-behavior: smooth;
-    }
-
-    .message-row {
-      display: flex;
-    }
-
-    .message-row.user {
-      justify-content: flex-end;
-    }
-
-    .message {
-      max-width: min(760px, 88%);
-      padding: 16px 18px;
-      border-radius: 22px;
+      padding: 20px;
       border: 1px solid var(--border);
-      background: var(--bubble);
-      box-shadow: 0 18px 36px rgba(2, 6, 23, 0.18);
+      border-radius: 20px;
+      background: #fffcf7;
     }
 
-    .message-row.user .message {
-      background: var(--bubble-user);
-      border-color: rgba(141, 167, 255, 0.28);
+    .response-frame > :first-child {
+      margin-top: 0;
     }
 
-    .message-label {
-      display: block;
-      margin-bottom: 10px;
-      font-size: 11px;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #b7c6ea;
-    }
-
-    .message-row.user .message-label {
-      color: rgba(236, 242, 255, 0.82);
-    }
-
-    .message h2,
-    .message h3,
-    .message h4 {
-      margin: 0 0 10px;
-      color: var(--text);
-    }
-
-    .message p,
-    .message ul,
-    .message ol {
-      margin: 0 0 10px;
-      line-height: 1.6;
-      color: #e4ebff;
-    }
-
-    .message p:last-child,
-    .message ul:last-child,
-    .message ol:last-child {
+    .response-frame > :last-child {
       margin-bottom: 0;
     }
 
-    .message ul,
-    .message ol {
-      padding-left: 18px;
-    }
-
-    .message .muted {
-      color: #bac7e6;
-    }
-
-    .message .card-grid {
-      display: grid;
-      gap: 10px;
-      margin-top: 10px;
-    }
-
-    .message .data-card {
-      padding: 14px;
-      border-radius: 16px;
-      background: rgba(255, 255, 255, 0.03);
-      border: 1px solid rgba(255, 255, 255, 0.07);
-    }
-
-    .message .data-card strong {
-      color: #f8fbff;
-    }
-
-    .message code {
-      font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-      background: rgba(15, 23, 42, 0.45);
-      border-radius: 8px;
-      padding: 2px 6px;
-      color: #d8e2ff;
-    }
-
-    .composer {
-      border-top: 1px solid var(--border);
-      padding: 18px 24px 24px;
-      background: rgba(18, 21, 39, 0.96);
-    }
-
-    .composer-panel {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      gap: 12px;
-      align-items: end;
-    }
-
-    textarea {
-      resize: vertical;
-      min-height: 72px;
-      max-height: 180px;
-      width: 100%;
-      padding: 14px 16px;
-      color: var(--text);
-      background: rgba(12, 15, 30, 0.88);
-      border: 1px solid rgba(148, 163, 184, 0.2);
-      border-radius: 18px;
-    }
-
-    .send-btn {
-      min-width: 118px;
-      height: 52px;
-      background: linear-gradient(135deg, var(--accent), var(--accent-strong));
-      border-color: rgba(148, 174, 255, 0.32);
-      font-weight: 700;
-    }
-
     .helper {
-      margin: 10px 2px 0;
-      font-size: 13px;
-      line-height: 1.5;
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .search-row {
+      margin-top: 18px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .search-row input {
+      width: 100%;
+      padding: 13px 14px;
+      border: 1px solid var(--border-strong);
+      border-radius: 12px;
+      background: #fffefb;
+      color: var(--text);
+      font-size: 1rem;
+    }
+
+    .search-row input:focus {
+      outline: 2px solid rgba(129, 104, 79, 0.18);
+      border-color: var(--accent);
+    }
+
+    .section-title {
+      margin-bottom: 14px;
+      font-size: 1.45rem;
+    }
+
+    .lede {
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .card-stack {
+      display: grid;
+      gap: 16px;
+    }
+
+    .detail-card,
+    .match-card,
+    .notice-card {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: var(--surface);
+      padding: 18px;
+    }
+
+    .detail-card h3,
+    .match-card h3,
+    .notice-card h3 {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+
+    .detail-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 8px 0 14px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--text);
+      font-size: 0.84rem;
+      border: 1px solid rgba(129, 104, 79, 0.18);
+    }
+
+    .severity {
+      background: #efe4d7;
+      border-color: rgba(129, 104, 79, 0.28);
+    }
+
+    .severity.existential,
+    .severity.critical {
+      background: rgba(141, 63, 53, 0.12);
+      color: var(--danger);
+      border-color: rgba(141, 63, 53, 0.22);
+    }
+
+    .severity.major,
+    .severity.high {
+      background: rgba(155, 107, 69, 0.12);
+      color: var(--warning);
+      border-color: rgba(155, 107, 69, 0.22);
+    }
+
+    .severity.medium,
+    .severity.moderate {
+      background: rgba(129, 104, 79, 0.12);
+      color: var(--accent);
+    }
+
+    .severity.low,
+    .severity.minor {
+      background: rgba(79, 107, 79, 0.12);
+      color: var(--success);
+      border-color: rgba(79, 107, 79, 0.22);
+    }
+
+    .field {
+      margin-top: 14px;
+    }
+
+    .field strong {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 0.92rem;
+    }
+
+    .field p,
+    .field li,
+    .match-card p,
+    .notice-card p,
+    .response-frame p,
+    .response-frame li {
+      margin: 0;
+      line-height: 1.65;
+      color: var(--text);
+    }
+
+    .field ul,
+    .notice-card ul {
+      margin: 8px 0 0;
+      padding-left: 20px;
+    }
+
+    .muted {
+      color: var(--muted) !important;
+    }
+
+    .narrative {
+      display: grid;
+      gap: 14px;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: var(--surface);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 640px;
+    }
+
+    th,
+    td {
+      padding: 14px 16px;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.95rem;
+      line-height: 1.55;
+    }
+
+    th {
+      font-size: 0.82rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      background: #f8f2ea;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
     }
 
     .empty-state {
-      display: grid;
-      place-items: center;
-      text-align: center;
-      border: 1px dashed rgba(148, 163, 184, 0.22);
-      border-radius: 18px;
-      min-height: 180px;
-      padding: 20px;
-      background: rgba(255, 255, 255, 0.02);
+      color: var(--muted);
+      line-height: 1.7;
     }
 
-    @media (max-width: 780px) {
-      .shell { padding: 0; }
-      .frame,
-      .gate,
-      .chat {
-        min-height: 100vh;
-        height: auto;
-        border-radius: 0;
+    @media (max-width: 640px) {
+      .panel {
+        padding: 22px 18px;
       }
 
-      .header,
-      .actions,
-      .messages,
-      .composer,
-      .briefing-strip {
-        padding-left: 16px;
-        padding-right: 16px;
+      .search-row {
+        flex-direction: column;
       }
 
-      .header-bar,
-      .composer-panel {
-        grid-template-columns: 1fr;
-        display: grid;
-      }
-
-      .message {
-        max-width: 100%;
-      }
-
-      .send-btn {
+      .search-btn {
         width: 100%;
+      }
+
+      .response-frame {
+        height: 50vh;
       }
     }
   </style>
 </head>
 <body>
-  <div id="app" class="shell">
-    <div class="frame">
-      <section id="auth-gate" class="gate" aria-live="polite">
-        <div class="gate-card">
-          <p class="eyebrow">Restricted access</p>
-          <h1>SIA Intelligence Chat</h1>
-          <p>Access this page via the secure link in your daily SIA email.</p>
-          <div class="notice">
-            This interface is intentionally hidden from the main dashboard. The magic link itself is the authentication mechanism for this static page.
-          </div>
-        </div>
-      </section>
+  <div id="gate">
+    <div class="shell">
+      <div class="panel" style="max-width: 500px; margin: 80px auto; text-align: center;">
+        <p class="eyebrow">Synthetic Insight Architecture</p>
+        <h2 style="margin: 0;">SIA Intelligence Briefing</h2>
+        <p class="lede">Access this page via the secure link in your daily SIA email.</p>
+      </div>
+    </div>
+  </div>
 
-      <section id="chat-ui" class="chat" style="display:none" aria-label="SIA chat interface">
-        <header class="header">
-          <div class="header-bar">
-            <div class="header-copy">
-              <p class="eyebrow">Flow 3 &middot; Private briefing interface</p>
-              <h1>SIA Intelligence Chat</h1>
-              <p>Secure readout for the latest SIA analysis. Explore narrative, root causes, predictions, and urgency signals from the current briefing package.</p>
-            </div>
-            <div class="status-pill" id="status-pill">
-              <span class="status-dot" id="status-dot" aria-hidden="true"></span>
-              <span id="status-text">Authenticating secure link...</span>
-            </div>
-          </div>
+  <div id="main" style="display:none">
+    <div class="shell">
+      <div class="panel">
+        <header>
+          <p class="eyebrow">Daily briefing</p>
+          <h1>Intelligence Briefing</h1>
+          <p id="meta">Loading analysis data...</p>
         </header>
 
-        <div class="briefing-strip" id="briefing-strip">
-          <div class="meta-card">
-            <strong>Briefing date</strong>
-            <span id="meta-date">--</span>
-            <p>Latest published SIA report.</p>
+        <section class="status-bar" aria-label="Briefing status">
+          <div class="status-row">
+            <div class="status-pill">
+              <span id="statusDot" class="status-dot"></span>
+              <span id="statusText">Loading today's analysis package...</span>
+            </div>
           </div>
-          <div class="meta-card">
-            <strong>Signals</strong>
-            <span id="meta-stories">0</span>
-            <p>Stories and source signals analysed.</p>
+          <div id="metaChips" class="meta-list">
+            <span class="meta-chip">Waiting for data...</span>
           </div>
-          <div class="meta-card">
-            <strong>Root causes</strong>
-            <span id="meta-root-causes">0</span>
-            <p>Systemic drivers extracted from the run.</p>
-          </div>
-          <div class="meta-card">
-            <strong>Predictions</strong>
-            <span id="meta-predictions">0</span>
-            <p>Tracked forward-looking claims and timing.</p>
-          </div>
+        </section>
+
+        <div id="actions" class="actions" aria-label="Quick actions">
+          <button class="action-btn" type="button" onclick="showRootCauses()">Show root causes</button>
+          <button class="action-btn" type="button" onclick="showPredictions()">Show predictions</button>
+          <button class="action-btn" type="button" onclick="showNarrative()">Show narrative</button>
+          <button class="action-btn" type="button" onclick="showUrgent()">What's most urgent?</button>
         </div>
 
-        <div class="actions" aria-label="Quick actions">
-          <button class="action-btn" data-action="root-causes" type="button">Show root causes</button>
-          <button class="action-btn" data-action="predictions" type="button">Show predictions</button>
-          <button class="action-btn" data-action="narrative" type="button">Show narrative</button>
-          <button class="action-btn" data-action="urgent" type="button">What's most urgent?</button>
+        <div class="response-wrap">
+          <div id="response" class="response-frame" aria-live="polite">
+            <p class="muted">Select a topic above or search below.</p>
+          </div>
+          <p class="helper">This briefing searches today's published analysis package. New topics can still be submitted for on-demand analysis.</p>
         </div>
 
-        <main id="messages" class="messages" aria-live="polite" aria-label="Message history"></main>
-
-        <footer class="composer">
-          <div class="composer-panel">
-            <label for="chat-input" class="sr-only" style="position:absolute;left:-9999px;">Ask about the current analysis</label>
-            <textarea id="chat-input" placeholder="Ask about this analysis, e.g. Which root cause looks most severe?" spellcheck="true"></textarea>
-            <button id="send-btn" class="send-btn" type="button">Ask SIA</button>
-          </div>
-          <p class="helper">This static view searches the latest analysis package only. New model reasoning requires the next scheduled workflow run.</p>
-        </footer>
-      </section>
+        <div class="search-row" style="margin-top: 20px;">
+          <input type="text" id="query" placeholder="Search analysis or ask about a topic..." autocomplete="off">
+          <button class="search-btn" type="button" id="searchButton">Search</button>
+        </div>
+      </div>
     </div>
   </div>
 
   <script>
-    (function () {
-      const authGate = document.getElementById('auth-gate');
-      const chatUi = document.getElementById('chat-ui');
-      const messagesEl = document.getElementById('messages');
-      const inputEl = document.getElementById('chat-input');
-      const sendBtn = document.getElementById('send-btn');
-      const actionButtons = Array.from(document.querySelectorAll('.action-btn'));
-      const statusTextEl = document.getElementById('status-text');
-      const statusDotEl = document.getElementById('status-dot');
-      const metaDateEl = document.getElementById('meta-date');
-      const metaStoriesEl = document.getElementById('meta-stories');
-      const metaRootCausesEl = document.getElementById('meta-root-causes');
-      const metaPredictionsEl = document.getElementById('meta-predictions');
+    const gateEl = document.getElementById('gate');
+    const mainEl = document.getElementById('main');
+    const metaEl = document.getElementById('meta');
+    const metaChipsEl = document.getElementById('metaChips');
+    const statusTextEl = document.getElementById('statusText');
+    const statusDotEl = document.getElementById('statusDot');
+    const responseEl = document.getElementById('response');
+    const queryEl = document.getElementById('query');
+    const searchButtonEl = document.getElementById('searchButton');
+    const params = new URLSearchParams(window.location.search);
+    let analysisData = null;
 
-      const params = new URLSearchParams(window.location.search);
-      const token = (params.get('token') || '').trim();
-      const isAuthorized = token.length > 0;
-      let analysis = null;
+    const severityRank = {
+      existential: 6,
+      critical: 6,
+      major: 5,
+      high: 5,
+      medium: 4,
+      moderate: 4,
+      elevated: 3,
+      low: 2,
+      minor: 1
+    };
 
-      function escapeHtml(value) {
-        return String(value == null ? '' : value)
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;')
-          .replace(/"/g, '&quot;')
-          .replace(/'/g, '&#39;');
+    function escapeHtml(value) {
+      return String(value == null ? '' : value)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function cleanText(value) {
+      return String(value == null ? '' : value).trim();
+    }
+
+    function toList(value) {
+      return Array.isArray(value) ? value : [];
+    }
+
+    function formatSeverity(value) {
+      const text = cleanText(value) || 'Unknown';
+      return text.charAt(0).toUpperCase() + text.slice(1);
+    }
+
+    function formatStatus(value) {
+      const text = cleanText(value) || 'open';
+      return text.replace(/[_-]+/g, ' ').replace(/\b\w/g, function (letter) { return letter.toUpperCase(); });
+    }
+
+    function splitParagraphs(text) {
+      return cleanText(text)
+        .split(/\n\s*\n/)
+        .map(function (part) { return part.trim(); })
+        .filter(Boolean);
+    }
+
+    function normalizeRootCause(item, index) {
+      return {
+        id: cleanText(item && (item.id || item.target || item.title)) || 'root-cause-' + index,
+        title: cleanText(item && (item.target || item.title || item.root_cause)) || 'Untitled root cause',
+        severity: cleanText(item && item.severity).toLowerCase() || 'unknown',
+        signalCount: Number(item && (item.signal_count || item.signalCount || toList(item && item.signals).length)) || 0,
+        signals: toList(item && item.signals).map(cleanText).filter(Boolean),
+        rationale: cleanText(item && item.rationale),
+        intervention: cleanText(item && item.intervention),
+        prediction: cleanText(item && item.prediction),
+        falsification: cleanText(item && item.falsification),
+        timeline: cleanText(item && item.timeline)
+      };
+    }
+
+    function normalizePrediction(item, index) {
+      return {
+        id: cleanText(item && item.id) || 'prediction-' + index,
+        rootCause: cleanText(item && (item.root_cause || item.rootCause || item.target)) || 'Unspecified root cause',
+        severity: cleanText(item && item.severity).toLowerCase() || 'unknown',
+        signalCount: Number(item && (item.signal_count || item.signalCount)) || 0,
+        rationale: cleanText(item && item.rationale),
+        prediction: cleanText(item && item.prediction),
+        timeline: cleanText(item && item.timeline),
+        falsification: cleanText(item && item.falsification),
+        status: cleanText(item && item.status) || 'open',
+        validationNotes: cleanText(item && (item.validation_notes || item.validationNotes)),
+        validatedAt: cleanText(item && (item.validated_at || item.validatedAt || item.created_at || item.createdAt))
+      };
+    }
+
+    function normalizeStory(item) {
+      return {
+        title: cleanText(item && item.title),
+        body: cleanText(item && item.body),
+        source: cleanText(item && item.source),
+        url: cleanText(item && item.url),
+        published: cleanText(item && item.published)
+      };
+    }
+
+    function normalizeData(source) {
+      const rootCauses = toList(source && (source.root_causes || source.rootCauses)).map(normalizeRootCause);
+      const predictions = toList(source && (source.predictions || source.prediction_ledger || source.predictionLedger)).map(normalizePrediction);
+      const stories = toList(source && (source.stories || source.signals || source.articles)).map(normalizeStory);
+
+      return {
+        reportDate: cleanText(source && (source.report_date || source.collected_at || source.analyzed_at || source.generated_at)) || 'Unknown date',
+        analyzedAt: cleanText(source && (source.analyzed_at || source.generated_at)),
+        signalCount: Number(source && (source.signal_count || source.story_count || stories.length)) || stories.length,
+        rootCauses: rootCauses,
+        predictions: predictions,
+        narrative: cleanText(source && (source.narrative || source.summary || source.executive_summary)),
+        stories: stories
+      };
+    }
+
+    function setResponse(html) {
+      responseEl.innerHTML = html;
+      responseEl.scrollTop = 0;
+    }
+
+    function renderParagraphs(text) {
+      const paragraphs = splitParagraphs(text);
+      if (!paragraphs.length) {
+        return '<p class="empty-state">No narrative is available in the current analysis package.</p>';
+      }
+      return '<div class="narrative">' + paragraphs.map(function (paragraph) {
+        return '<p>' + escapeHtml(paragraph) + '</p>';
+      }).join('') + '</div>';
+    }
+
+    function renderRootCauseCard(item, index) {
+      const signalsHtml = item.signals.length
+        ? '<div class="field"><strong>Signals</strong><ul>' + item.signals.map(function (signal) {
+            return '<li>' + escapeHtml(signal) + '</li>';
+          }).join('') + '</ul></div>'
+        : '';
+
+      return '<article class="detail-card">' +
+        '<div class="detail-header">' +
+          '<h3>' + (index ? escapeHtml(index + '. ' + item.title) : escapeHtml(item.title)) + '</h3>' +
+          '<span class="badge severity ' + escapeHtml(item.severity || 'unknown') + '">' + escapeHtml(formatSeverity(item.severity)) + '</span>' +
+        '</div>' +
+        '<div class="badge-row">' +
+          '<span class="badge">Signals: ' + escapeHtml(String(item.signalCount || item.signals.length || 0)) + '</span>' +
+          (item.timeline ? '<span class="badge">Timeline: ' + escapeHtml(item.timeline) + '</span>' : '') +
+        '</div>' +
+        (item.rationale ? '<div class="field"><strong>Rationale</strong><p>' + escapeHtml(item.rationale) + '</p></div>' : '') +
+        (item.intervention ? '<div class="field"><strong>Intervention</strong><p>' + escapeHtml(item.intervention) + '</p></div>' : '') +
+        (item.prediction ? '<div class="field"><strong>Prediction</strong><p>' + escapeHtml(item.prediction) + '</p></div>' : '') +
+        (item.falsification ? '<div class="field"><strong>Falsification</strong><p>' + escapeHtml(item.falsification) + '</p></div>' : '') +
+        signalsHtml +
+      '</article>';
+    }
+
+    function renderPredictionTable(items) {
+      if (!items.length) {
+        return '<p class="empty-state">No predictions are available in the current analysis package.</p>';
       }
 
-      function toList(value) {
-        return Array.isArray(value) ? value : [];
+      return '<div class="table-wrap"><table>' +
+        '<thead><tr><th>Root cause</th><th>Severity</th><th>Timeline</th><th>Status</th><th>Prediction</th></tr></thead>' +
+        '<tbody>' + items.map(function (item) {
+          const details = [
+            item.prediction ? '<div><strong>Forecast:</strong> ' + escapeHtml(item.prediction) + '</div>' : '',
+            item.rationale ? '<div><strong>Why:</strong> ' + escapeHtml(item.rationale) + '</div>' : '',
+            item.falsification ? '<div><strong>Falsification:</strong> ' + escapeHtml(item.falsification) + '</div>' : '',
+            item.validationNotes ? '<div><strong>Validation notes:</strong> ' + escapeHtml(item.validationNotes) + '</div>' : ''
+          ].filter(Boolean).join('');
+
+          return '<tr>' +
+            '<td>' + escapeHtml(item.rootCause) + '</td>' +
+            '<td><span class="badge severity ' + escapeHtml(item.severity || 'unknown') + '">' + escapeHtml(formatSeverity(item.severity)) + '</span></td>' +
+            '<td>' + escapeHtml(item.timeline || 'Not specified') + '</td>' +
+            '<td>' + escapeHtml(formatStatus(item.status)) + '</td>' +
+            '<td>' + details + '</td>' +
+          '</tr>';
+        }).join('') + '</tbody></table></div>';
+    }
+
+    function getHighestSeverityRootCause() {
+      if (!analysisData || !analysisData.rootCauses.length) {
+        return null;
       }
 
-      function cleanText(value) {
-        return String(value == null ? '' : value).trim();
+      return analysisData.rootCauses.slice().sort(function (a, b) {
+        const rankDiff = (severityRank[b.severity] || 0) - (severityRank[a.severity] || 0);
+        if (rankDiff !== 0) return rankDiff;
+        return (b.signalCount || 0) - (a.signalCount || 0);
+      })[0];
+    }
+
+    function updateMeta() {
+      if (!analysisData) {
+        metaEl.textContent = 'No analysis data available yet.';
+        metaChipsEl.innerHTML = '<span class="meta-chip">No data loaded</span>';
+        statusTextEl.textContent = 'No briefing package available yet.';
+        statusDotEl.classList.remove('ready');
+        return;
       }
 
-      function formatDate(value) {
-        if (!value) return '--';
-        const date = new Date(value);
-        if (!Number.isNaN(date.getTime())) {
-          return date.toLocaleDateString(undefined, {
-            year: 'numeric',
-            month: 'short',
-            day: 'numeric'
-          });
-        }
-        return String(value);
+      metaEl.textContent = analysisData.reportDate + ' · ' + analysisData.signalCount + ' signals · ' + analysisData.rootCauses.length + ' root causes · ' + analysisData.predictions.length + ' predictions';
+      statusTextEl.textContent = 'Today\'s analysis package is loaded.';
+      statusDotEl.classList.add('ready');
+
+      const chips = [
+        'Briefing date: ' + analysisData.reportDate,
+        'Signals analysed: ' + analysisData.signalCount,
+        'Root causes: ' + analysisData.rootCauses.length,
+        'Predictions: ' + analysisData.predictions.length
+      ];
+
+      if (analysisData.analyzedAt) {
+        chips.push('Generated: ' + analysisData.analyzedAt);
       }
 
-      function normalizeStory(item, index) {
-        return {
-          title: cleanText(item.title || item.story || item.headline || ('Signal ' + (index + 1))),
-          source: cleanText(item.source || item.feed || item.origin || 'Unknown source'),
-          published: cleanText(item.published || item.published_at || item.date || item.timestamp || ''),
-          url: cleanText(item.url || item.link || '')
-        };
+      metaChipsEl.innerHTML = chips.map(function (chip) {
+        return '<span class="meta-chip">' + escapeHtml(chip) + '</span>';
+      }).join('');
+    }
+
+    function renderWelcome() {
+      if (!analysisData) {
+        return '<p class="empty-state">Loading the latest intelligence briefing...</p>';
       }
 
-      function normalizeRootCause(item, index) {
-        return {
-          rank: item.rank || index + 1,
-          name: cleanText(item.name || item.root_cause || item.title || ('Root cause ' + (index + 1))),
-          severity: cleanText(item.severity || item.priority || 'Unspecified'),
-          timeline: cleanText(item.timeline || item.time_horizon || item.window || ''),
-          rationale: cleanText(item.rationale || item.summary || item.description || ''),
-          intervention: cleanText(item.intervention || item.mitigation || item.action || ''),
-          prediction: cleanText(item.prediction || item.forecast || ''),
-          falsification: cleanText(item.falsification || item.disconfirming_signal || ''),
-          signals: Array.isArray(item.signals)
-            ? item.signals.map(String)
-            : cleanText(item.signals || item.signal_ids || '').split(',').map(s => s.trim()).filter(Boolean)
-        };
+      const urgent = getHighestSeverityRootCause();
+      const urgentText = urgent ? urgent.title : 'Awaiting prioritised root causes';
+      return '<section>' +
+        '<h2 class="section-title">Today\'s briefing</h2>' +
+        '<p class="lede">Use the quick actions for the full briefing, or search for a theme, story, or region inside today\'s analysis package.</p>' +
+        '<div class="card-stack">' +
+          '<article class="notice-card">' +
+            '<h3>Most urgent signal cluster</h3>' +
+            '<p>' + escapeHtml(urgentText) + '</p>' +
+          '</article>' +
+          '<article class="notice-card">' +
+            '<h3>Narrative snapshot</h3>' +
+            '<p>' + escapeHtml(splitParagraphs(analysisData.narrative)[0] || 'Narrative summary unavailable.') + '</p>' +
+          '</article>' +
+        '</div>' +
+      '</section>';
+    }
+
+    function showRootCauses() {
+      if (!analysisData || !analysisData.rootCauses.length) {
+        setResponse('<p class="empty-state">No root causes are available in the current analysis package.</p>');
+        return;
       }
 
-      function normalizePrediction(item, index) {
-        return {
-          id: cleanText(item.id || ('prediction-' + (index + 1))),
-          rootCause: cleanText(item.root_cause || item.name || item.title || 'Unspecified driver'),
-          prediction: cleanText(item.prediction || item.statement || item.summary || ''),
-          timeline: cleanText(item.timeline || item.window || ''),
-          status: cleanText(item.status || 'open'),
-          severity: cleanText(item.severity || item.priority || ''),
-          maturityDate: cleanText(item.maturity_date || item.maturity || ''),
-          notes: cleanText(item.notes || item.rationale || '')
-        };
+      setResponse('<section>' +
+        '<h2 class="section-title">Root causes</h2>' +
+        '<p class="lede">Each root cause below includes its severity, rationale, suggested intervention, prediction, and falsification test.</p>' +
+        '<div class="card-stack">' + analysisData.rootCauses.map(function (item, index) {
+          return renderRootCauseCard(item, index + 1);
+        }).join('') + '</div>' +
+      '</section>');
+    }
+
+    function showPredictions() {
+      if (!analysisData) {
+        setResponse('<p class="empty-state">No analysis data is loaded yet.</p>');
+        return;
       }
 
-      function normalizeData(raw) {
-        const source = raw && typeof raw === 'object' ? raw : {};
-        const stories = toList(source.stories || source.signals).map(normalizeStory);
-        const rootCauses = toList(source.root_causes || source.rootCauses).map(normalizeRootCause);
-        const predictions = toList(source.predictions || source.prediction_ledger || source.predictionLedger).map(normalizePrediction);
-        const narrative = cleanText(source.narrative || source.summary || source.executive_summary || '');
+      setResponse('<section>' +
+        '<h2 class="section-title">Predictions</h2>' +
+        '<p class="lede">Prediction ledger for today\'s briefing, including current status and falsification criteria.</p>' +
+        renderPredictionTable(analysisData.predictions) +
+      '</section>');
+    }
 
-        return {
-          reportDate: cleanText(source.report_date || source.reportDate || source.date || source.generated_at || source.generatedAt),
-          generatedAt: cleanText(source.generated_at || source.generatedAt || ''),
-          storyCount: Number(source.story_count || source.storyCount || stories.length || 0),
-          stories,
-          rootCauses,
-          predictions,
-          narrative
-        };
+    function showNarrative() {
+      if (!analysisData) {
+        setResponse('<p class="empty-state">No analysis data is loaded yet.</p>');
+        return;
       }
 
-      function appendMessage(role, label, html) {
-        const row = document.createElement('div');
-        row.className = 'message-row ' + role;
+      setResponse('<section>' +
+        '<h2 class="section-title">Strategic narrative</h2>' +
+        '<p class="lede">Full editorial narrative from today\'s SIA briefing.</p>' +
+        renderParagraphs(analysisData.narrative) +
+      '</section>');
+    }
 
-        const bubble = document.createElement('article');
-        bubble.className = 'message';
-        bubble.innerHTML = '<span class="message-label">' + escapeHtml(label) + '</span>' + html;
-
-        row.appendChild(bubble);
-        messagesEl.appendChild(row);
-        messagesEl.scrollTop = messagesEl.scrollHeight;
+    function showUrgent() {
+      const urgent = getHighestSeverityRootCause();
+      if (!urgent) {
+        setResponse('<p class="empty-state">No urgent root cause is available in the current analysis package.</p>');
+        return;
       }
 
-      function appendUserMessage(text) {
-        appendMessage('user', 'Query', '<p>' + escapeHtml(text) + '</p>');
+      setResponse('<section>' +
+        '<h2 class="section-title">Most urgent issue</h2>' +
+        '<p class="lede">This is the highest-severity root cause in today\'s analysis package.</p>' +
+        renderRootCauseCard(urgent) +
+      '</section>');
+    }
+
+    function tokenize(query) {
+      return cleanText(query).toLowerCase().split(/[^a-z0-9]+/).filter(function (word) { return word.length > 1; });
+    }
+
+    function scoreText(text, words, weight) {
+      const haystack = cleanText(text).toLowerCase();
+      if (!haystack) return 0;
+      return words.reduce(function (score, word) {
+        return score + (haystack.includes(word) ? weight : 0);
+      }, 0);
+    }
+
+    function buildFallback(query) {
+      const topics = analysisData && analysisData.rootCauses.length
+        ? analysisData.rootCauses.map(function (item) {
+            return '<li>' + escapeHtml(item.title) + '</li>';
+          }).join('')
+        : '<li>Today\'s analysis package is still loading.</li>';
+
+      return '<section>' +
+        '<h2 class="section-title">No direct matches for “' + escapeHtml(query) + '”</h2>' +
+        '<div class="notice-card">' +
+          '<p>This topic isn\'t covered in today\'s analysis.</p>' +
+          '<p>SIA analyses the top news stories daily at 6:00 AM AEST. If this topic appears in tomorrow\'s headlines, it will be analysed automatically.</p>' +
+          '<p>You can also trigger an on-demand analysis from the GitHub Actions tab.</p>' +
+        '</div>' +
+        '<div class="notice-card" style="margin-top: 14px;">' +
+          '<h3>Topics covered today</h3>' +
+          '<ul>' + topics + '</ul>' +
+        '</div>' +
+      '</section>';
+    }
+
+    function renderSearchResults(query) {
+      if (!analysisData) {
+        return '<p class="empty-state">No analysis data is loaded yet.</p>';
       }
 
-      function setStatus(text, ready) {
-        statusTextEl.textContent = text;
-        statusDotEl.classList.toggle('ready', Boolean(ready));
+      const words = tokenize(query);
+      if (!words.length) {
+        return renderWelcome();
       }
 
-      function setMeta() {
-        metaDateEl.textContent = formatDate(analysis && analysis.reportDate);
-        metaStoriesEl.textContent = String(analysis && analysis.storyCount || 0);
-        metaRootCausesEl.textContent = String(analysis && analysis.rootCauses.length || 0);
-        metaPredictionsEl.textContent = String(analysis && analysis.predictions.length || 0);
+      const rootCauseMatches = analysisData.rootCauses.map(function (item) {
+        const score = scoreText(item.title, words, 4) +
+          scoreText(item.rationale, words, 3) +
+          scoreText(item.intervention, words, 2) +
+          scoreText(item.prediction, words, 3) +
+          scoreText(item.falsification, words, 2) +
+          item.signals.reduce(function (sum, signal) { return sum + scoreText(signal, words, 1); }, 0);
+        return { item: item, score: score };
+      }).filter(function (entry) { return entry.score > 0; }).sort(function (a, b) { return b.score - a.score; });
+
+      const predictionMatches = analysisData.predictions.map(function (item) {
+        const score = scoreText(item.rootCause, words, 4) +
+          scoreText(item.prediction, words, 3) +
+          scoreText(item.rationale, words, 2) +
+          scoreText(item.falsification, words, 2) +
+          scoreText(item.timeline, words, 1);
+        return { item: item, score: score };
+      }).filter(function (entry) { return entry.score > 0; }).sort(function (a, b) { return b.score - a.score; });
+
+      const storyMatches = analysisData.stories.map(function (item) {
+        const score = scoreText(item.title, words, 3) + scoreText(item.body, words, 2) + scoreText(item.source, words, 1);
+        return { item: item, score: score };
+      }).filter(function (entry) { return entry.score > 0; }).sort(function (a, b) { return b.score - a.score; });
+
+      const narrativeScore = scoreText(analysisData.narrative, words, 2);
+
+      if (!rootCauseMatches.length && !predictionMatches.length && !storyMatches.length && !narrativeScore) {
+        return buildFallback(query);
       }
 
-      function severityScore(value) {
-        const map = { critical: 4, high: 3, medium: 2, low: 1 };
-        return map[String(value || '').toLowerCase()] || 0;
+      let html = '<section><h2 class="section-title">Results for “' + escapeHtml(query) + '”</h2><div class="card-stack">';
+
+      if (rootCauseMatches.length) {
+        html += '<article class="match-card"><h3>Root causes</h3><div class="card-stack" style="margin-top: 14px;">' +
+          rootCauseMatches.slice(0, 3).map(function (entry) {
+            return renderRootCauseCard(entry.item);
+          }).join('') + '</div></article>';
       }
 
-      function renderNarrative() {
-        if (!analysis || !analysis.narrative) {
-          return '<p>No narrative is available in the current analysis package.</p>';
-        }
-        return '<h3>Strategic narrative</h3><p>' + escapeHtml(analysis.narrative) + '</p>';
+      if (predictionMatches.length) {
+        html += '<article class="match-card"><h3>Predictions</h3><div style="margin-top: 14px;">' +
+          renderPredictionTable(predictionMatches.slice(0, 3).map(function (entry) { return entry.item; })) +
+          '</div></article>';
       }
 
-      function renderRootCauses(limit) {
-        if (!analysis || !analysis.rootCauses.length) {
-          return '<p>No root causes are available in the current analysis package.</p>';
-        }
-
-        const items = analysis.rootCauses.slice(0, limit || analysis.rootCauses.length).map(function (item) {
-          const details = [];
-          if (item.rationale) details.push('<p>' + escapeHtml(item.rationale) + '</p>');
-          if (item.timeline) details.push('<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>');
-          if (item.intervention) details.push('<p><strong>Intervention:</strong> ' + escapeHtml(item.intervention) + '</p>');
-          if (item.prediction) details.push('<p><strong>Linked prediction:</strong> ' + escapeHtml(item.prediction) + '</p>');
-          if (item.signals.length) details.push('<p><strong>Signals:</strong> ' + escapeHtml(item.signals.join(', ')) + '</p>');
-          return '' +
-            '<div class="data-card">' +
-              '<p><strong>' + escapeHtml(item.rank + '. ' + item.name) + '</strong></p>' +
-              '<p class="muted">Severity: ' + escapeHtml(item.severity || 'Unspecified') + '</p>' +
-              details.join('') +
+      if (storyMatches.length) {
+        html += '<article class="match-card"><h3>Signals in today\'s dataset</h3><div class="card-stack" style="margin-top: 14px;">' +
+          storyMatches.slice(0, 4).map(function (entry) {
+            const item = entry.item;
+            const title = item.url ? '<a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(item.title) + '</a>' : escapeHtml(item.title || 'Untitled signal');
+            return '<div class="detail-card">' +
+              '<h3>' + title + '</h3>' +
+              '<div class="badge-row">' +
+                (item.source ? '<span class="badge">' + escapeHtml(item.source) + '</span>' : '') +
+                (item.published ? '<span class="badge">' + escapeHtml(item.published) + '</span>' : '') +
+              '</div>' +
+              (item.body ? '<p>' + escapeHtml(item.body) + '</p>' : '<p class="muted">No excerpt available.</p>') +
             '</div>';
-        }).join('');
-
-        return '<h3>Root causes</h3><div class="card-grid">' + items + '</div>';
+          }).join('') + '</div></article>';
       }
 
-      function renderPredictions(limit) {
-        if (!analysis || !analysis.predictions.length) {
-          return '<p>No predictions are available in the current analysis package.</p>';
-        }
-
-        const items = analysis.predictions.slice(0, limit || analysis.predictions.length).map(function (item) {
-          const lines = [];
-          if (item.prediction) lines.push('<p>' + escapeHtml(item.prediction) + '</p>');
-          if (item.timeline) lines.push('<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>');
-          if (item.maturityDate) lines.push('<p><strong>Maturity:</strong> ' + escapeHtml(item.maturityDate) + '</p>');
-          if (item.status) lines.push('<p><strong>Status:</strong> ' + escapeHtml(item.status) + '</p>');
-          if (item.notes) lines.push('<p><strong>Notes:</strong> ' + escapeHtml(item.notes) + '</p>');
-          return '' +
-            '<div class="data-card">' +
-              '<p><strong>' + escapeHtml(item.rootCause) + '</strong></p>' +
-              lines.join('') +
-            '</div>';
-        }).join('');
-
-        return '<h3>Prediction ledger</h3><div class="card-grid">' + items + '</div>';
+      if (narrativeScore) {
+        html += '<article class="match-card"><h3>Narrative context</h3><div style="margin-top: 14px;">' + renderParagraphs(analysisData.narrative) + '</div></article>';
       }
 
-      function renderUrgent() {
-        if (!analysis || !analysis.rootCauses.length) {
-          return '<p>No urgency ranking is available because no root causes were loaded.</p>';
-        }
+      html += '</div></section>';
+      return html;
+    }
 
-        const sorted = analysis.rootCauses.slice().sort(function (a, b) {
-          return severityScore(b.severity) - severityScore(a.severity) || Number(a.rank || 999) - Number(b.rank || 999);
-        });
-        const urgent = sorted[0];
-        const supporting = sorted.slice(1, 4).map(function (item) {
-          return '<li><strong>' + escapeHtml(item.name) + '</strong> &mdash; ' + escapeHtml(item.severity || 'Unspecified') + '</li>';
-        }).join('');
-
-        return '' +
-          '<h3>Most urgent driver</h3>' +
-          '<div class="data-card">' +
-            '<p><strong>' + escapeHtml(urgent.name) + '</strong></p>' +
-            '<p><strong>Severity:</strong> ' + escapeHtml(urgent.severity || 'Unspecified') + '</p>' +
-            (urgent.timeline ? '<p><strong>Timeline:</strong> ' + escapeHtml(urgent.timeline) + '</p>' : '') +
-            (urgent.rationale ? '<p>' + escapeHtml(urgent.rationale) + '</p>' : '') +
-          '</div>' +
-          (supporting ? '<p style="margin-top:12px;"><strong>Also watch:</strong></p><ul>' + supporting + '</ul>' : '');
+    function runSearch() {
+      const query = cleanText(queryEl.value);
+      if (!query) {
+        setResponse(renderWelcome());
+        return;
       }
+      setResponse(renderSearchResults(query));
+    }
 
-      function summarizeWelcome() {
-        const parts = [];
-        if (analysis && analysis.reportDate) {
-          parts.push('<p><strong>Briefing date:</strong> ' + escapeHtml(formatDate(analysis.reportDate)) + '</p>');
+    async function loadData() {
+      try {
+        const response = await fetch('data.json', { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error('HTTP ' + response.status);
         }
-        if (analysis && analysis.narrative) {
-          parts.push('<p>' + escapeHtml(analysis.narrative) + '</p>');
-        } else {
-          parts.push('<p>No analysis data is available yet. Wait for the next daily run to populate this briefing.</p>');
-        }
-        if (analysis) {
-          parts.push(
-            '<div class="card-grid">' +
-              '<div class="data-card"><strong>Signals</strong><p>' + escapeHtml(String(analysis.storyCount || 0)) + '</p></div>' +
-              '<div class="data-card"><strong>Root causes</strong><p>' + escapeHtml(String(analysis.rootCauses.length)) + '</p></div>' +
-              '<div class="data-card"><strong>Predictions</strong><p>' + escapeHtml(String(analysis.predictions.length)) + '</p></div>' +
-            '</div>'
-          );
-        }
-        parts.push('<p class="muted">Use the quick actions or ask a question to search within the current briefing package.</p>');
-        return parts.join('');
+        analysisData = normalizeData(await response.json());
+        updateMeta();
+        setResponse(renderWelcome());
+      } catch (error) {
+        analysisData = null;
+        updateMeta();
+        setResponse('<section><h2 class="section-title">Data unavailable</h2><p class="empty-state">The latest briefing package could not be loaded from <code>data.json</code>.</p></section>');
       }
+    }
 
-      function scoreMatch(haystack, words) {
-        if (!haystack) return 0;
-        const text = haystack.toLowerCase();
-        let score = 0;
-        words.forEach(function (word) {
-          if (text.includes(word)) score += word.length > 4 ? 2 : 1;
-        });
-        return score;
+    searchButtonEl.addEventListener('click', runSearch);
+    queryEl.addEventListener('keydown', function (event) {
+      if (event.key === 'Enter') {
+        event.preventDefault();
+        runSearch();
       }
+    });
 
-      function renderSearchResults(query) {
-        if (!analysis) {
-          return '<p>No analysis data available &mdash; wait for the next daily run.</p>';
-        }
+    if (params.has('token')) {
+      gateEl.style.display = 'none';
+      mainEl.style.display = 'block';
+      loadData();
+    }
 
-        const normalized = query.toLowerCase().trim();
-        const words = normalized.split(/\s+/).filter(Boolean);
-        if (!words.length) {
-          return '<p>Enter a question about the current analysis package.</p>';
-        }
-
-        const results = [];
-
-        analysis.rootCauses.forEach(function (item) {
-          const score = scoreMatch([item.name, item.severity, item.timeline, item.rationale, item.intervention, item.prediction].join(' '), words);
-          if (score > 0) {
-            results.push({
-              score: score + severityScore(item.severity),
-              html:
-                '<div class="data-card">' +
-                  '<p><strong>Root cause: ' + escapeHtml(item.name) + '</strong></p>' +
-                  (item.rationale ? '<p>' + escapeHtml(item.rationale) + '</p>' : '') +
-                  (item.timeline ? '<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>' : '') +
-                '</div>'
-            });
-          }
-        });
-
-        analysis.predictions.forEach(function (item) {
-          const score = scoreMatch([item.rootCause, item.prediction, item.timeline, item.status, item.notes].join(' '), words);
-          if (score > 0) {
-            results.push({
-              score: score,
-              html:
-                '<div class="data-card">' +
-                  '<p><strong>Prediction: ' + escapeHtml(item.rootCause) + '</strong></p>' +
-                  (item.prediction ? '<p>' + escapeHtml(item.prediction) + '</p>' : '') +
-                  (item.timeline ? '<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>' : '') +
-                '</div>'
-            });
-          }
-        });
-
-        const narrativeScore = scoreMatch(analysis.narrative, words);
-        if (narrativeScore > 0) {
-          results.push({
-            score: narrativeScore,
-            html:
-              '<div class="data-card">' +
-                '<p><strong>Narrative</strong></p>' +
-                '<p>' + escapeHtml(analysis.narrative) + '</p>' +
-              '</div>'
-          });
-        }
-
-        analysis.stories.forEach(function (item) {
-          const score = scoreMatch([item.title, item.source, item.published].join(' '), words);
-          if (score > 0) {
-            results.push({
-              score: score,
-              html:
-                '<div class="data-card">' +
-                  '<p><strong>Signal: ' + escapeHtml(item.title) + '</strong></p>' +
-                  '<p class="muted">' + escapeHtml(item.source || 'Unknown source') + (item.published ? ' &middot; ' + escapeHtml(item.published) : '') + '</p>' +
-                  (item.url ? '<p><a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer">Open source</a></p>' : '') +
-                '</div>'
-            });
-          }
-        });
-
-        results.sort(function (a, b) { return b.score - a.score; });
-
-        if (!results.length) {
-          return '<p>No direct matches were found in the latest analysis package.</p><p class="muted">Try a root cause name, a region, a severity term, or use a quick action. New reasoning requires the next scheduled workflow run.</p>';
-        }
-
-        return '<h3>Matches for &ldquo;' + escapeHtml(query) + '&rdquo;</h3><div class="card-grid">' +
-          results.slice(0, 6).map(function (result) { return result.html; }).join('') +
-          '</div>';
-      }
-
-      function answerQuery(query) {
-        const lower = query.toLowerCase();
-        if (lower.includes('root cause')) return renderRootCauses();
-        if (lower.includes('prediction')) return renderPredictions();
-        if (lower.includes('narrative') || lower.includes('summary') || lower.includes('briefing')) return renderNarrative();
-        if (lower.includes('urgent') || lower.includes('priority') || lower.includes('critical') || lower.includes('risk')) return renderUrgent();
-        return renderSearchResults(query);
-      }
-
-      function handleAction(action) {
-        const map = {
-          'root-causes': { prompt: 'Show root causes', reply: renderRootCauses() },
-          'predictions': { prompt: 'Show predictions', reply: renderPredictions() },
-          'narrative': { prompt: 'Show narrative', reply: renderNarrative() },
-          'urgent': { prompt: "What's most urgent?", reply: renderUrgent() }
-        };
-
-        const selected = map[action];
-        if (!selected) return;
-        appendUserMessage(selected.prompt);
-        appendMessage('system', 'SIA briefing', selected.reply);
-      }
-
-      async function loadAnalysisData() {
-        const candidates = ['data.json', './data.json', 'latest_analysis.json'];
-        for (let i = 0; i < candidates.length; i += 1) {
-          try {
-            const response = await fetch(candidates[i], { cache: 'no-store' });
-            if (!response.ok) continue;
-            const payload = await response.json();
-            return normalizeData(payload);
-          } catch (error) {
-            // Try the next candidate.
-          }
-        }
-
-        return normalizeData({});
-      }
-
-      function toggleInteractive(disabled) {
-        sendBtn.disabled = disabled;
-        inputEl.disabled = disabled;
-        actionButtons.forEach(function (button) {
-          button.disabled = disabled;
-        });
-      }
-
-      async function init() {
-        if (!isAuthorized) {
-          authGate.style.display = 'grid';
-          chatUi.style.display = 'none';
-          return;
-        }
-
-        authGate.style.display = 'none';
-        chatUi.style.display = 'grid';
-        toggleInteractive(true);
-        setStatus('Secure link verified. Loading briefing package...', false);
-        appendMessage('system', 'SIA briefing', '<p>Secure link accepted. Pulling the latest analysis package now.</p>');
-
-        analysis = await loadAnalysisData();
-        setMeta();
-
-        if (analysis.narrative || analysis.rootCauses.length || analysis.predictions.length || analysis.storyCount) {
-          setStatus('Secure link active · Analysis package loaded', true);
-        } else {
-          setStatus('Secure link active · Awaiting next daily run', false);
-        }
-
-        appendMessage('system', 'SIA briefing', summarizeWelcome());
-        toggleInteractive(false);
-      }
-
-      sendBtn.addEventListener('click', function () {
-        const query = inputEl.value.trim();
-        if (!query) return;
-        appendUserMessage(query);
-        appendMessage('system', 'SIA briefing', answerQuery(query));
-        inputEl.value = '';
-        inputEl.focus();
-      });
-
-      inputEl.addEventListener('keydown', function (event) {
-        if (event.key === 'Enter' && !event.shiftKey) {
-          event.preventDefault();
-          sendBtn.click();
-        }
-      });
-
-      actionButtons.forEach(function (button) {
-        button.addEventListener('click', function () {
-          handleAction(button.getAttribute('data-action'));
-        });
-      });
-
-      init();
-    }());
+    window.showRootCauses = showRootCauses;
+    window.showPredictions = showPredictions;
+    window.showNarrative = showNarrative;
+    window.showUrgent = showUrgent;
   </script>
 </body>
 </html>
