@@ -5,7 +5,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 $scriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
-$aciName = "sia-daily-9295"
+$aciName = "$Prefix-daily"
 $logicAppName = "sia-scheduler-9295"
 $subId = "<your-subscription-id>"
 

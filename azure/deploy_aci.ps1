@@ -13,7 +13,7 @@ $acrName = "${Prefix}acr${suffix}"
 $aciName = "${Prefix}-daily-${suffix}"
 $imageName = "${acrName}.azurecr.io/sia-daily:latest"
 $storageName = "siast${suffix}"
-$openAIName = "ranandag"
+$openAIName = "$Prefix-openai"
 $commsName = "${Prefix}-comms-${suffix}"
 
 Write-Host "Creating Container Registry..." -ForegroundColor Cyan
