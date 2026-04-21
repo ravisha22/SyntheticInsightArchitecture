@@ -1,6 +1,6 @@
 {
   "report_date": "2026-04-21",
-  "generated_at": "2026-04-21T02:18:53.151287+00:00",
+  "generated_at": "2026-04-21T02:48:17.304133+00:00",
   "story_count": 20,
   "stories": [
     {
@@ -357,29 +357,29 @@
         8,
         17
       ],
-      "timeline": "Ongoing, with escalation likely in the next 3-6 months",
-      "rationale": "The US blockade of Hormuz, seizure of Iranian ships, and arms trafficking allegations against Iran indicate heightened tensions. These actions are likely to exacerbate regional instability and impact global energy markets.",
-      "intervention": "Diplomatic engagement between the US, Iran, and regional stakeholders to de-escalate tensions and establish a framework for negotiations.",
-      "prediction": "Oil prices will continue to rise, and there will be further military or economic retaliations by Iran or its allies within the next 3 months.",
-      "falsification": "No significant retaliatory actions or oil price spikes occur by July 2026."
+      "timeline": "2026-2027",
+      "rationale": "The US blockade of Hormuz, seizure of Iranian ships, and arms trafficking allegations indicate escalating tensions between the US, Iran, and regional actors. This is compounded by the impact on global oil markets.",
+      "intervention": "Diplomatic engagement through multilateral forums, easing sanctions, and confidence-building measures.",
+      "prediction": "Continued escalation in the Gulf region, with potential military confrontations and disruptions to global oil supply.",
+      "falsification": "De-escalation measures successfully implemented, leading to reduced tensions and stabilized oil markets."
     },
     {
       "rank": 2,
-      "name": "Climate-related disasters and infrastructure vulnerability",
+      "name": "Climate-related disasters",
       "severity": "High",
       "signals": [
         6,
         15
       ],
-      "timeline": "Immediate and recurring over the next year",
-      "rationale": "Japan's earthquake warnings and New Zealand's flooding highlight the increasing frequency and severity of climate-related disasters. These events strain infrastructure and emergency response systems.",
-      "intervention": "Invest in resilient infrastructure, early warning systems, and international cooperation on disaster preparedness.",
-      "prediction": "More severe climate-related disasters will occur in the Asia-Pacific region within the next year, causing significant economic and human losses.",
-      "falsification": "No major climate-related disasters occur in the Asia-Pacific region by April 2027."
+      "timeline": "2026-2028",
+      "rationale": "Japan's earthquake warnings and New Zealand's flooding highlight vulnerabilities to climate-related and geological disasters, exacerbated by insufficient preparedness.",
+      "intervention": "Invest in disaster preparedness, early warning systems, and climate adaptation infrastructure.",
+      "prediction": "Increased frequency and severity of climate-related disasters globally, leading to economic and humanitarian crises.",
+      "falsification": "Improved disaster response and mitigation measures reduce the impact of such events."
     },
     {
       "rank": 3,
-      "name": "Global rise in violent crime and instability",
+      "name": "Global rise in violent incidents and instability",
       "severity": "Medium",
       "signals": [
         3,
@@ -388,58 +388,79 @@
         12,
         20
       ],
-      "timeline": "Ongoing, with potential escalation in hotspots within the next 6 months",
-      "rationale": "Incidents of mass shootings, gang violence, and terrorism in Mexico, Louisiana, DR Congo, Brazil, and Ukraine suggest a global trend of increasing violent crime and instability.",
-      "intervention": "Strengthen law enforcement, community engagement, and international cooperation to address root causes of violence.",
-      "prediction": "Violent crime rates will increase in urban and conflict-prone areas globally within the next 6 months.",
-      "falsification": "Crime rates remain stable or decrease in these regions by October 2026."
+      "timeline": "2026-2027",
+      "rationale": "Incidents in Mexico, Louisiana, DR Congo, Brazil, and Ukraine reflect a pattern of increasing violence, instability, and governance challenges.",
+      "intervention": "Strengthen local governance, invest in community security, and address root causes of violence such as inequality and corruption.",
+      "prediction": "Continued rise in localized violence and instability, with spillover effects on regional security.",
+      "falsification": "Effective interventions lead to reduced violence and improved governance in affected regions."
     },
     {
       "rank": 4,
-      "name": "Corporate leadership transitions and market uncertainty",
+      "name": "Technological and corporate leadership transitions",
       "severity": "Low",
       "signals": [
         2,
         9
       ],
-      "timeline": "Short-term, within the next 3 months",
-      "rationale": "Apple's leadership change and Blue Origin's rocket mishap may impact investor confidence and innovation trajectories in the tech sector.",
-      "intervention": "Ensure transparent communication from corporations and maintain investor confidence through strategic planning.",
-      "prediction": "Apple and Blue Origin will face short-term market volatility and scrutiny within the next 3 months.",
-      "falsification": "No significant market impact or investor concerns arise by July 2026."
+      "timeline": "2026-2027",
+      "rationale": "Apple's leadership change and Blue Origin's rocket failure highlight challenges in corporate transitions and technological reliability.",
+      "intervention": "Ensure robust succession planning and invest in technological risk mitigation.",
+      "prediction": "Potential disruptions in corporate performance and technological innovation due to leadership and operational challenges.",
+      "falsification": "Smooth transitions and technological advancements mitigate risks."
+    },
+    {
+      "rank": 5,
+      "name": "Cultural and societal tensions",
+      "severity": "Medium",
+      "signals": [
+        4,
+        19
+      ],
+      "timeline": "2026-2028",
+      "rationale": "Incidents involving religious vandalism and defamation lawsuits reflect underlying societal and cultural tensions.",
+      "intervention": "Promote interfaith dialogue and address systemic biases in legal and cultural frameworks.",
+      "prediction": "Increased societal polarization and cultural conflicts in various regions.",
+      "falsification": "Effective dialogue and policy measures reduce tensions and foster inclusivity."
     }
   ],
   "predictions": [
     {
       "root_cause": "Geopolitical tensions in the Middle East",
-      "prediction": "Oil prices will continue to rise, and there will be further military or economic retaliations by Iran or its allies within the next 3 months.",
-      "timeline": "By July 2026",
-      "falsification": "No significant retaliatory actions or oil price spikes occur by July 2026.",
-      "severity": "High"
-    },
-    {
-      "root_cause": "Climate-related disasters and infrastructure vulnerability",
-      "prediction": "More severe climate-related disasters will occur in the Asia-Pacific region within the next year, causing significant economic and human losses.",
+      "prediction": "Military confrontation in the Gulf region within the next 12 months.",
       "timeline": "By April 2027",
-      "falsification": "No major climate-related disasters occur in the Asia-Pacific region by April 2027.",
+      "falsification": "No military confrontations or significant escalations occur in the Gulf region by April 2027.",
       "severity": "High"
     },
     {
-      "root_cause": "Global rise in violent crime and instability",
-      "prediction": "Violent crime rates will increase in urban and conflict-prone areas globally within the next 6 months.",
-      "timeline": "By October 2026",
-      "falsification": "Crime rates remain stable or decrease in these regions by October 2026.",
+      "root_cause": "Climate-related disasters",
+      "prediction": "Major climate-related disaster affecting a developed nation within the next 18 months.",
+      "timeline": "By October 2027",
+      "falsification": "No significant climate-related disasters occur in developed nations by October 2027.",
+      "severity": "High"
+    },
+    {
+      "root_cause": "Global rise in violent incidents and instability",
+      "prediction": "Increase in violent incidents in urban areas globally within the next 12 months.",
+      "timeline": "By April 2027",
+      "falsification": "No significant increase in urban violence globally by April 2027.",
       "severity": "Medium"
     },
     {
-      "root_cause": "Corporate leadership transitions and market uncertainty",
-      "prediction": "Apple and Blue Origin will face short-term market volatility and scrutiny within the next 3 months.",
-      "timeline": "By July 2026",
-      "falsification": "No significant market impact or investor concerns arise by July 2026.",
+      "root_cause": "Technological and corporate leadership transitions",
+      "prediction": "Disruption in technological innovation due to leadership changes within the next 24 months.",
+      "timeline": "By April 2028",
+      "falsification": "No significant disruptions in technological innovation occur by April 2028.",
       "severity": "Low"
+    },
+    {
+      "root_cause": "Cultural and societal tensions",
+      "prediction": "Increase in cultural conflicts and societal polarization within the next 24 months.",
+      "timeline": "By April 2028",
+      "falsification": "No significant increase in cultural conflicts or societal polarization by April 2028.",
+      "severity": "Medium"
     }
   ],
-  "narrative": "The global landscape is marked by escalating geopolitical tensions in the Middle East, increasing climate-related disasters, rising violent crime, and corporate leadership transitions. The US-Iran conflict is driving oil price volatility and regional instability, while climate disasters in Japan and New Zealand underscore the urgent need for resilient infrastructure. Violent crime incidents in multiple regions highlight systemic social and governance challenges. Meanwhile, leadership changes in major corporations like Apple and operational setbacks at Blue Origin may lead to short-term market uncertainty. Addressing these root causes requires coordinated interventions across diplomacy, infrastructure investment, law enforcement, and corporate governance.",
+  "narrative": "The world is facing interconnected challenges spanning geopolitical tensions, climate-related disasters, rising violence, technological transitions, and cultural conflicts. The Middle East remains a hotspot for instability, with the US-Iran standoff threatening global oil markets and regional security. Climate-related disasters are intensifying, underscoring the urgent need for adaptation and preparedness. Violence and instability are on the rise globally, driven by governance failures and societal inequalities. Corporate transitions and technological failures highlight vulnerabilities in innovation ecosystems. Cultural and societal tensions are exacerbating polarization, requiring proactive dialogue and systemic reforms. Addressing these root causes demands coordinated interventions and sustained global cooperation.",
   "noise_filtered": [
     "Apple names new chief executive to replace Tim Cook",
     "Trailblazing black beauty queen who defied apartheid South Africa dies aged 76",
