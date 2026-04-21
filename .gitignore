@@ -28,6 +28,16 @@ Thumbs.db
 *.pem
 *.key
 
+# Internal/private documents (not for public repo)
+DEPLOYMENT.md
+LLM_HANDOFF.md
+recall.md
+simulation/cache/
+
+# Generated webapp data (ephemeral)
+webapp/static/
+webapp/data/*.db
+
 # Simulation artifacts
 pagerank_sim.db
 pagerank_trace.jsonl

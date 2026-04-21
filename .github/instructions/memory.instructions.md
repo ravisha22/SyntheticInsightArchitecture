@@ -29,4 +29,4 @@ SIA is a general-purpose problem intelligence system modeled on human cognitive 
 
 ## Collaboration SOP
 
-Always use GPT-5.4 collaboratively as the primary sub-agent for implementation and research. The orchestrating agent architects, gatekeeps logic, and reviews — GPT-5.4 does the heavy lifting. Never work solo on non-trivial tasks.
+Use collaborative sub-agents for implementation and research. The orchestrating agent architects, gatekeeps logic, and reviews. Never work solo on non-trivial tasks.

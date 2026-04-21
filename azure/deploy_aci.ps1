@@ -53,7 +53,7 @@ az container create `
         AZURE_OPENAI_ENDPOINT="$openAIEndpoint" `
         AZURE_OPENAI_DEPLOYMENT="gpt-4o" `
         AZURE_OPENAI_API_VERSION="2024-10-21" `
-        RECIPIENT_EMAIL="ravishankar.nandagopalan@microsoft.com" `
+        RECIPIENT_EMAIL="your-email@example.com" `
         SIA_DASHBOARD_URL="$storageWebEndpoint" `
         SIA_LOGIN_URL="${storageWebEndpoint}chat" `
         BLOB_CONNECTION_STRING="$storageConnStr" `

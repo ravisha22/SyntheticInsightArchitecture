@@ -7,7 +7,7 @@ $ErrorActionPreference = "Stop"
 $scriptRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 $aciName = "sia-daily-9295"
 $logicAppName = "sia-scheduler-9295"
-$subId = "27cafca8-b9a4-4264-b399-45d0c9cca1ab"
+$subId = "<your-subscription-id>"
 
 $definition = @{
     '$schema' = "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#"

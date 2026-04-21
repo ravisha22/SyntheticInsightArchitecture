@@ -4,7 +4,7 @@ param(
     [string]$Prefix = "sia",
     [string]$OpenAILocation = "australiaeast",
     [string]$StaticWebAppLocation = "eastasia",
-    [string]$RecipientEmail = "ravishankar.nandagopalan@microsoft.com",
+    [string]$RecipientEmail = "your-email@example.com",
     [string]$SenderAddress = "",
     [string]$OpenAIDeployment = "gpt-4o",
     [string]$OpenAIModelName = "gpt-4o",
