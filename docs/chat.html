@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta http-equiv="Cache-Control" content="no-store, max-age=0">
+  <title>SIA Intelligence Chat</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #1a1a2e;
+      --panel: #131528;
+      --panel-alt: #171b33;
+      --border: rgba(148, 163, 184, 0.16);
+      --text: #ecf2ff;
+      --muted: #9aa8c7;
+      --accent: #4361ee;
+      --accent-strong: #5d78f2;
+      --bubble: #23283f;
+      --bubble-user: linear-gradient(135deg, #4361ee, #3651d4);
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --shadow: 0 24px 60px rgba(1, 4, 18, 0.45);
+      --radius: 22px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background:
+        radial-gradient(circle at top, rgba(67, 97, 238, 0.18), transparent 28%),
+        linear-gradient(180deg, #17172b 0%, var(--bg) 100%);
+      color: var(--text);
+    }
+
+    button, textarea, input {
+      font: inherit;
+    }
+
+    .shell {
+      min-height: 100vh;
+      padding: 28px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .frame {
+      width: min(1120px, 100%);
+      min-height: calc(100vh - 56px);
+      background: rgba(19, 21, 40, 0.86);
+      border: 1px solid var(--border);
+      border-radius: 28px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(18px);
+      overflow: hidden;
+    }
+
+    .gate {
+      min-height: calc(100vh - 56px);
+      display: grid;
+      place-items: center;
+      padding: 32px;
+    }
+
+    .gate-card {
+      width: min(520px, 100%);
+      background: linear-gradient(180deg, rgba(23, 27, 51, 0.96), rgba(19, 21, 40, 0.98));
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 32px;
+    }
+
+    .eyebrow {
+      margin: 0 0 10px;
+      color: #b8c4e3;
+      letter-spacing: 0.14em;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+
+    .gate-card h1,
+    .header-copy h1 {
+      margin: 0;
+      font-size: clamp(28px, 4vw, 36px);
+      line-height: 1.05;
+    }
+
+    .gate-card p,
+    .header-copy p,
+    .meta-card p,
+    .message p,
+    .helper,
+    .empty-state {
+      color: var(--muted);
+    }
+
+    .gate-card p {
+      margin: 14px 0 0;
+      line-height: 1.6;
+    }
+
+    .notice {
+      margin-top: 18px;
+      padding: 14px 16px;
+      border-radius: 16px;
+      background: rgba(67, 97, 238, 0.12);
+      border: 1px solid rgba(67, 97, 238, 0.24);
+      color: #dce4ff;
+    }
+
+    .chat {
+      height: calc(100vh - 56px);
+      display: grid;
+      grid-template-rows: auto auto minmax(0, 1fr) auto;
+    }
+
+    .header {
+      padding: 24px 24px 16px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, rgba(24, 28, 51, 0.98), rgba(19, 21, 40, 0.92));
+    }
+
+    .header-bar {
+      display: flex;
+      gap: 18px;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+
+    .header-copy p {
+      margin: 8px 0 0;
+      max-width: 720px;
+      line-height: 1.5;
+    }
+
+    .status-pill {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(10, 14, 29, 0.52);
+      color: #dbeafe;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .status-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--warning);
+      box-shadow: 0 0 0 6px rgba(245, 158, 11, 0.12);
+    }
+
+    .status-dot.ready {
+      background: var(--success);
+      box-shadow: 0 0 0 6px rgba(34, 197, 94, 0.12);
+    }
+
+    .briefing-strip {
+      padding: 18px 24px 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 12px;
+    }
+
+    .meta-card {
+      background: rgba(23, 27, 51, 0.9);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 15px 16px;
+      min-height: 88px;
+    }
+
+    .meta-card strong {
+      display: block;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      color: #9fb0d8;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .meta-card span {
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .meta-card p {
+      margin: 8px 0 0;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .actions {
+      padding: 18px 24px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .action-btn,
+    .send-btn {
+      border: 1px solid rgba(99, 117, 218, 0.35);
+      background: rgba(67, 97, 238, 0.14);
+      color: #e7edff;
+      border-radius: 999px;
+      padding: 11px 16px;
+      cursor: pointer;
+      transition: transform 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+    }
+
+    .action-btn:hover,
+    .send-btn:hover {
+      transform: translateY(-1px);
+      background: rgba(67, 97, 238, 0.22);
+      border-color: rgba(120, 142, 255, 0.54);
+    }
+
+    .action-btn:focus-visible,
+    .send-btn:focus-visible,
+    textarea:focus-visible {
+      outline: 2px solid #9fb3ff;
+      outline-offset: 2px;
+    }
+
+    .action-btn:disabled,
+    .send-btn:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .messages {
+      overflow-y: auto;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      scroll-behavior: smooth;
+    }
+
+    .message-row {
+      display: flex;
+    }
+
+    .message-row.user {
+      justify-content: flex-end;
+    }
+
+    .message {
+      max-width: min(760px, 88%);
+      padding: 16px 18px;
+      border-radius: 22px;
+      border: 1px solid var(--border);
+      background: var(--bubble);
+      box-shadow: 0 18px 36px rgba(2, 6, 23, 0.18);
+    }
+
+    .message-row.user .message {
+      background: var(--bubble-user);
+      border-color: rgba(141, 167, 255, 0.28);
+    }
+
+    .message-label {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #b7c6ea;
+    }
+
+    .message-row.user .message-label {
+      color: rgba(236, 242, 255, 0.82);
+    }
+
+    .message h2,
+    .message h3,
+    .message h4 {
+      margin: 0 0 10px;
+      color: var(--text);
+    }
+
+    .message p,
+    .message ul,
+    .message ol {
+      margin: 0 0 10px;
+      line-height: 1.6;
+      color: #e4ebff;
+    }
+
+    .message p:last-child,
+    .message ul:last-child,
+    .message ol:last-child {
+      margin-bottom: 0;
+    }
+
+    .message ul,
+    .message ol {
+      padding-left: 18px;
+    }
+
+    .message .muted {
+      color: #bac7e6;
+    }
+
+    .message .card-grid {
+      display: grid;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .message .data-card {
+      padding: 14px;
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+
+    .message .data-card strong {
+      color: #f8fbff;
+    }
+
+    .message code {
+      font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+      background: rgba(15, 23, 42, 0.45);
+      border-radius: 8px;
+      padding: 2px 6px;
+      color: #d8e2ff;
+    }
+
+    .composer {
+      border-top: 1px solid var(--border);
+      padding: 18px 24px 24px;
+      background: rgba(18, 21, 39, 0.96);
+    }
+
+    .composer-panel {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: end;
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 72px;
+      max-height: 180px;
+      width: 100%;
+      padding: 14px 16px;
+      color: var(--text);
+      background: rgba(12, 15, 30, 0.88);
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      border-radius: 18px;
+    }
+
+    .send-btn {
+      min-width: 118px;
+      height: 52px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+      border-color: rgba(148, 174, 255, 0.32);
+      font-weight: 700;
+    }
+
+    .helper {
+      margin: 10px 2px 0;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .empty-state {
+      display: grid;
+      place-items: center;
+      text-align: center;
+      border: 1px dashed rgba(148, 163, 184, 0.22);
+      border-radius: 18px;
+      min-height: 180px;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    @media (max-width: 780px) {
+      .shell { padding: 0; }
+      .frame,
+      .gate,
+      .chat {
+        min-height: 100vh;
+        height: auto;
+        border-radius: 0;
+      }
+
+      .header,
+      .actions,
+      .messages,
+      .composer,
+      .briefing-strip {
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+
+      .header-bar,
+      .composer-panel {
+        grid-template-columns: 1fr;
+        display: grid;
+      }
+
+      .message {
+        max-width: 100%;
+      }
+
+      .send-btn {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app" class="shell">
+    <div class="frame">
+      <section id="auth-gate" class="gate" aria-live="polite">
+        <div class="gate-card">
+          <p class="eyebrow">Restricted access</p>
+          <h1>SIA Intelligence Chat</h1>
+          <p>Access this page via the secure link in your daily SIA email.</p>
+          <div class="notice">
+            This interface is intentionally hidden from the main dashboard. The magic link itself is the authentication mechanism for this static page.
+          </div>
+        </div>
+      </section>
+
+      <section id="chat-ui" class="chat" style="display:none" aria-label="SIA chat interface">
+        <header class="header">
+          <div class="header-bar">
+            <div class="header-copy">
+              <p class="eyebrow">Flow 3 &middot; Private briefing interface</p>
+              <h1>SIA Intelligence Chat</h1>
+              <p>Secure readout for the latest SIA analysis. Explore narrative, root causes, predictions, and urgency signals from the current briefing package.</p>
+            </div>
+            <div class="status-pill" id="status-pill">
+              <span class="status-dot" id="status-dot" aria-hidden="true"></span>
+              <span id="status-text">Authenticating secure link...</span>
+            </div>
+          </div>
+        </header>
+
+        <div class="briefing-strip" id="briefing-strip">
+          <div class="meta-card">
+            <strong>Briefing date</strong>
+            <span id="meta-date">--</span>
+            <p>Latest published SIA report.</p>
+          </div>
+          <div class="meta-card">
+            <strong>Signals</strong>
+            <span id="meta-stories">0</span>
+            <p>Stories and source signals analysed.</p>
+          </div>
+          <div class="meta-card">
+            <strong>Root causes</strong>
+            <span id="meta-root-causes">0</span>
+            <p>Systemic drivers extracted from the run.</p>
+          </div>
+          <div class="meta-card">
+            <strong>Predictions</strong>
+            <span id="meta-predictions">0</span>
+            <p>Tracked forward-looking claims and timing.</p>
+          </div>
+        </div>
+
+        <div class="actions" aria-label="Quick actions">
+          <button class="action-btn" data-action="root-causes" type="button">Show root causes</button>
+          <button class="action-btn" data-action="predictions" type="button">Show predictions</button>
+          <button class="action-btn" data-action="narrative" type="button">Show narrative</button>
+          <button class="action-btn" data-action="urgent" type="button">What's most urgent?</button>
+        </div>
+
+        <main id="messages" class="messages" aria-live="polite" aria-label="Message history"></main>
+
+        <footer class="composer">
+          <div class="composer-panel">
+            <label for="chat-input" class="sr-only" style="position:absolute;left:-9999px;">Ask about the current analysis</label>
+            <textarea id="chat-input" placeholder="Ask about this analysis, e.g. Which root cause looks most severe?" spellcheck="true"></textarea>
+            <button id="send-btn" class="send-btn" type="button">Ask SIA</button>
+          </div>
+          <p class="helper">This static view searches the latest analysis package only. New model reasoning requires the next scheduled workflow run.</p>
+        </footer>
+      </section>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const authGate = document.getElementById('auth-gate');
+      const chatUi = document.getElementById('chat-ui');
+      const messagesEl = document.getElementById('messages');
+      const inputEl = document.getElementById('chat-input');
+      const sendBtn = document.getElementById('send-btn');
+      const actionButtons = Array.from(document.querySelectorAll('.action-btn'));
+      const statusTextEl = document.getElementById('status-text');
+      const statusDotEl = document.getElementById('status-dot');
+      const metaDateEl = document.getElementById('meta-date');
+      const metaStoriesEl = document.getElementById('meta-stories');
+      const metaRootCausesEl = document.getElementById('meta-root-causes');
+      const metaPredictionsEl = document.getElementById('meta-predictions');
+
+      const params = new URLSearchParams(window.location.search);
+      const token = (params.get('token') || '').trim();
+      const isAuthorized = token.length > 0;
+      let analysis = null;
+
+      function escapeHtml(value) {
+        return String(value == null ? '' : value)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function toList(value) {
+        return Array.isArray(value) ? value : [];
+      }
+
+      function cleanText(value) {
+        return String(value == null ? '' : value).trim();
+      }
+
+      function formatDate(value) {
+        if (!value) return '--';
+        const date = new Date(value);
+        if (!Number.isNaN(date.getTime())) {
+          return date.toLocaleDateString(undefined, {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric'
+          });
+        }
+        return String(value);
+      }
+
+      function normalizeStory(item, index) {
+        return {
+          title: cleanText(item.title || item.story || item.headline || ('Signal ' + (index + 1))),
+          source: cleanText(item.source || item.feed || item.origin || 'Unknown source'),
+          published: cleanText(item.published || item.published_at || item.date || item.timestamp || ''),
+          url: cleanText(item.url || item.link || '')
+        };
+      }
+
+      function normalizeRootCause(item, index) {
+        return {
+          rank: item.rank || index + 1,
+          name: cleanText(item.name || item.root_cause || item.title || ('Root cause ' + (index + 1))),
+          severity: cleanText(item.severity || item.priority || 'Unspecified'),
+          timeline: cleanText(item.timeline || item.time_horizon || item.window || ''),
+          rationale: cleanText(item.rationale || item.summary || item.description || ''),
+          intervention: cleanText(item.intervention || item.mitigation || item.action || ''),
+          prediction: cleanText(item.prediction || item.forecast || ''),
+          falsification: cleanText(item.falsification || item.disconfirming_signal || ''),
+          signals: Array.isArray(item.signals)
+            ? item.signals.map(String)
+            : cleanText(item.signals || item.signal_ids || '').split(',').map(s => s.trim()).filter(Boolean)
+        };
+      }
+
+      function normalizePrediction(item, index) {
+        return {
+          id: cleanText(item.id || ('prediction-' + (index + 1))),
+          rootCause: cleanText(item.root_cause || item.name || item.title || 'Unspecified driver'),
+          prediction: cleanText(item.prediction || item.statement || item.summary || ''),
+          timeline: cleanText(item.timeline || item.window || ''),
+          status: cleanText(item.status || 'open'),
+          severity: cleanText(item.severity || item.priority || ''),
+          maturityDate: cleanText(item.maturity_date || item.maturity || ''),
+          notes: cleanText(item.notes || item.rationale || '')
+        };
+      }
+
+      function normalizeData(raw) {
+        const source = raw && typeof raw === 'object' ? raw : {};
+        const stories = toList(source.stories || source.signals).map(normalizeStory);
+        const rootCauses = toList(source.root_causes || source.rootCauses).map(normalizeRootCause);
+        const predictions = toList(source.predictions || source.prediction_ledger || source.predictionLedger).map(normalizePrediction);
+        const narrative = cleanText(source.narrative || source.summary || source.executive_summary || '');
+
+        return {
+          reportDate: cleanText(source.report_date || source.reportDate || source.date || source.generated_at || source.generatedAt),
+          generatedAt: cleanText(source.generated_at || source.generatedAt || ''),
+          storyCount: Number(source.story_count || source.storyCount || stories.length || 0),
+          stories,
+          rootCauses,
+          predictions,
+          narrative
+        };
+      }
+
+      function appendMessage(role, label, html) {
+        const row = document.createElement('div');
+        row.className = 'message-row ' + role;
+
+        const bubble = document.createElement('article');
+        bubble.className = 'message';
+        bubble.innerHTML = '<span class="message-label">' + escapeHtml(label) + '</span>' + html;
+
+        row.appendChild(bubble);
+        messagesEl.appendChild(row);
+        messagesEl.scrollTop = messagesEl.scrollHeight;
+      }
+
+      function appendUserMessage(text) {
+        appendMessage('user', 'Query', '<p>' + escapeHtml(text) + '</p>');
+      }
+
+      function setStatus(text, ready) {
+        statusTextEl.textContent = text;
+        statusDotEl.classList.toggle('ready', Boolean(ready));
+      }
+
+      function setMeta() {
+        metaDateEl.textContent = formatDate(analysis && analysis.reportDate);
+        metaStoriesEl.textContent = String(analysis && analysis.storyCount || 0);
+        metaRootCausesEl.textContent = String(analysis && analysis.rootCauses.length || 0);
+        metaPredictionsEl.textContent = String(analysis && analysis.predictions.length || 0);
+      }
+
+      function severityScore(value) {
+        const map = { critical: 4, high: 3, medium: 2, low: 1 };
+        return map[String(value || '').toLowerCase()] || 0;
+      }
+
+      function renderNarrative() {
+        if (!analysis || !analysis.narrative) {
+          return '<p>No narrative is available in the current analysis package.</p>';
+        }
+        return '<h3>Strategic narrative</h3><p>' + escapeHtml(analysis.narrative) + '</p>';
+      }
+
+      function renderRootCauses(limit) {
+        if (!analysis || !analysis.rootCauses.length) {
+          return '<p>No root causes are available in the current analysis package.</p>';
+        }
+
+        const items = analysis.rootCauses.slice(0, limit || analysis.rootCauses.length).map(function (item) {
+          const details = [];
+          if (item.rationale) details.push('<p>' + escapeHtml(item.rationale) + '</p>');
+          if (item.timeline) details.push('<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>');
+          if (item.intervention) details.push('<p><strong>Intervention:</strong> ' + escapeHtml(item.intervention) + '</p>');
+          if (item.prediction) details.push('<p><strong>Linked prediction:</strong> ' + escapeHtml(item.prediction) + '</p>');
+          if (item.signals.length) details.push('<p><strong>Signals:</strong> ' + escapeHtml(item.signals.join(', ')) + '</p>');
+          return '' +
+            '<div class="data-card">' +
+              '<p><strong>' + escapeHtml(item.rank + '. ' + item.name) + '</strong></p>' +
+              '<p class="muted">Severity: ' + escapeHtml(item.severity || 'Unspecified') + '</p>' +
+              details.join('') +
+            '</div>';
+        }).join('');
+
+        return '<h3>Root causes</h3><div class="card-grid">' + items + '</div>';
+      }
+
+      function renderPredictions(limit) {
+        if (!analysis || !analysis.predictions.length) {
+          return '<p>No predictions are available in the current analysis package.</p>';
+        }
+
+        const items = analysis.predictions.slice(0, limit || analysis.predictions.length).map(function (item) {
+          const lines = [];
+          if (item.prediction) lines.push('<p>' + escapeHtml(item.prediction) + '</p>');
+          if (item.timeline) lines.push('<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>');
+          if (item.maturityDate) lines.push('<p><strong>Maturity:</strong> ' + escapeHtml(item.maturityDate) + '</p>');
+          if (item.status) lines.push('<p><strong>Status:</strong> ' + escapeHtml(item.status) + '</p>');
+          if (item.notes) lines.push('<p><strong>Notes:</strong> ' + escapeHtml(item.notes) + '</p>');
+          return '' +
+            '<div class="data-card">' +
+              '<p><strong>' + escapeHtml(item.rootCause) + '</strong></p>' +
+              lines.join('') +
+            '</div>';
+        }).join('');
+
+        return '<h3>Prediction ledger</h3><div class="card-grid">' + items + '</div>';
+      }
+
+      function renderUrgent() {
+        if (!analysis || !analysis.rootCauses.length) {
+          return '<p>No urgency ranking is available because no root causes were loaded.</p>';
+        }
+
+        const sorted = analysis.rootCauses.slice().sort(function (a, b) {
+          return severityScore(b.severity) - severityScore(a.severity) || Number(a.rank || 999) - Number(b.rank || 999);
+        });
+        const urgent = sorted[0];
+        const supporting = sorted.slice(1, 4).map(function (item) {
+          return '<li><strong>' + escapeHtml(item.name) + '</strong> &mdash; ' + escapeHtml(item.severity || 'Unspecified') + '</li>';
+        }).join('');
+
+        return '' +
+          '<h3>Most urgent driver</h3>' +
+          '<div class="data-card">' +
+            '<p><strong>' + escapeHtml(urgent.name) + '</strong></p>' +
+            '<p><strong>Severity:</strong> ' + escapeHtml(urgent.severity || 'Unspecified') + '</p>' +
+            (urgent.timeline ? '<p><strong>Timeline:</strong> ' + escapeHtml(urgent.timeline) + '</p>' : '') +
+            (urgent.rationale ? '<p>' + escapeHtml(urgent.rationale) + '</p>' : '') +
+          '</div>' +
+          (supporting ? '<p style="margin-top:12px;"><strong>Also watch:</strong></p><ul>' + supporting + '</ul>' : '');
+      }
+
+      function summarizeWelcome() {
+        const parts = [];
+        if (analysis && analysis.reportDate) {
+          parts.push('<p><strong>Briefing date:</strong> ' + escapeHtml(formatDate(analysis.reportDate)) + '</p>');
+        }
+        if (analysis && analysis.narrative) {
+          parts.push('<p>' + escapeHtml(analysis.narrative) + '</p>');
+        } else {
+          parts.push('<p>No analysis data is available yet. Wait for the next daily run to populate this briefing.</p>');
+        }
+        if (analysis) {
+          parts.push(
+            '<div class="card-grid">' +
+              '<div class="data-card"><strong>Signals</strong><p>' + escapeHtml(String(analysis.storyCount || 0)) + '</p></div>' +
+              '<div class="data-card"><strong>Root causes</strong><p>' + escapeHtml(String(analysis.rootCauses.length)) + '</p></div>' +
+              '<div class="data-card"><strong>Predictions</strong><p>' + escapeHtml(String(analysis.predictions.length)) + '</p></div>' +
+            '</div>'
+          );
+        }
+        parts.push('<p class="muted">Use the quick actions or ask a question to search within the current briefing package.</p>');
+        return parts.join('');
+      }
+
+      function scoreMatch(haystack, words) {
+        if (!haystack) return 0;
+        const text = haystack.toLowerCase();
+        let score = 0;
+        words.forEach(function (word) {
+          if (text.includes(word)) score += word.length > 4 ? 2 : 1;
+        });
+        return score;
+      }
+
+      function renderSearchResults(query) {
+        if (!analysis) {
+          return '<p>No analysis data available &mdash; wait for the next daily run.</p>';
+        }
+
+        const normalized = query.toLowerCase().trim();
+        const words = normalized.split(/\s+/).filter(Boolean);
+        if (!words.length) {
+          return '<p>Enter a question about the current analysis package.</p>';
+        }
+
+        const results = [];
+
+        analysis.rootCauses.forEach(function (item) {
+          const score = scoreMatch([item.name, item.severity, item.timeline, item.rationale, item.intervention, item.prediction].join(' '), words);
+          if (score > 0) {
+            results.push({
+              score: score + severityScore(item.severity),
+              html:
+                '<div class="data-card">' +
+                  '<p><strong>Root cause: ' + escapeHtml(item.name) + '</strong></p>' +
+                  (item.rationale ? '<p>' + escapeHtml(item.rationale) + '</p>' : '') +
+                  (item.timeline ? '<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>' : '') +
+                '</div>'
+            });
+          }
+        });
+
+        analysis.predictions.forEach(function (item) {
+          const score = scoreMatch([item.rootCause, item.prediction, item.timeline, item.status, item.notes].join(' '), words);
+          if (score > 0) {
+            results.push({
+              score: score,
+              html:
+                '<div class="data-card">' +
+                  '<p><strong>Prediction: ' + escapeHtml(item.rootCause) + '</strong></p>' +
+                  (item.prediction ? '<p>' + escapeHtml(item.prediction) + '</p>' : '') +
+                  (item.timeline ? '<p><strong>Timeline:</strong> ' + escapeHtml(item.timeline) + '</p>' : '') +
+                '</div>'
+            });
+          }
+        });
+
+        const narrativeScore = scoreMatch(analysis.narrative, words);
+        if (narrativeScore > 0) {
+          results.push({
+            score: narrativeScore,
+            html:
+              '<div class="data-card">' +
+                '<p><strong>Narrative</strong></p>' +
+                '<p>' + escapeHtml(analysis.narrative) + '</p>' +
+              '</div>'
+          });
+        }
+
+        analysis.stories.forEach(function (item) {
+          const score = scoreMatch([item.title, item.source, item.published].join(' '), words);
+          if (score > 0) {
+            results.push({
+              score: score,
+              html:
+                '<div class="data-card">' +
+                  '<p><strong>Signal: ' + escapeHtml(item.title) + '</strong></p>' +
+                  '<p class="muted">' + escapeHtml(item.source || 'Unknown source') + (item.published ? ' &middot; ' + escapeHtml(item.published) : '') + '</p>' +
+                  (item.url ? '<p><a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer">Open source</a></p>' : '') +
+                '</div>'
+            });
+          }
+        });
+
+        results.sort(function (a, b) { return b.score - a.score; });
+
+        if (!results.length) {
+          return '<p>No direct matches were found in the latest analysis package.</p><p class="muted">Try a root cause name, a region, a severity term, or use a quick action. New reasoning requires the next scheduled workflow run.</p>';
+        }
+
+        return '<h3>Matches for &ldquo;' + escapeHtml(query) + '&rdquo;</h3><div class="card-grid">' +
+          results.slice(0, 6).map(function (result) { return result.html; }).join('') +
+          '</div>';
+      }
+
+      function answerQuery(query) {
+        const lower = query.toLowerCase();
+        if (lower.includes('root cause')) return renderRootCauses();
+        if (lower.includes('prediction')) return renderPredictions();
+        if (lower.includes('narrative') || lower.includes('summary') || lower.includes('briefing')) return renderNarrative();
+        if (lower.includes('urgent') || lower.includes('priority') || lower.includes('critical') || lower.includes('risk')) return renderUrgent();
+        return renderSearchResults(query);
+      }
+
+      function handleAction(action) {
+        const map = {
+          'root-causes': { prompt: 'Show root causes', reply: renderRootCauses() },
+          'predictions': { prompt: 'Show predictions', reply: renderPredictions() },
+          'narrative': { prompt: 'Show narrative', reply: renderNarrative() },
+          'urgent': { prompt: "What's most urgent?", reply: renderUrgent() }
+        };
+
+        const selected = map[action];
+        if (!selected) return;
+        appendUserMessage(selected.prompt);
+        appendMessage('system', 'SIA briefing', selected.reply);
+      }
+
+      async function loadAnalysisData() {
+        const candidates = ['data.json', './data.json', 'latest_analysis.json'];
+        for (let i = 0; i < candidates.length; i += 1) {
+          try {
+            const response = await fetch(candidates[i], { cache: 'no-store' });
+            if (!response.ok) continue;
+            const payload = await response.json();
+            return normalizeData(payload);
+          } catch (error) {
+            // Try the next candidate.
+          }
+        }
+
+        return normalizeData({});
+      }
+
+      function toggleInteractive(disabled) {
+        sendBtn.disabled = disabled;
+        inputEl.disabled = disabled;
+        actionButtons.forEach(function (button) {
+          button.disabled = disabled;
+        });
+      }
+
+      async function init() {
+        if (!isAuthorized) {
+          authGate.style.display = 'grid';
+          chatUi.style.display = 'none';
+          return;
+        }
+
+        authGate.style.display = 'none';
+        chatUi.style.display = 'grid';
+        toggleInteractive(true);
+        setStatus('Secure link verified. Loading briefing package...', false);
+        appendMessage('system', 'SIA briefing', '<p>Secure link accepted. Pulling the latest analysis package now.</p>');
+
+        analysis = await loadAnalysisData();
+        setMeta();
+
+        if (analysis.narrative || analysis.rootCauses.length || analysis.predictions.length || analysis.storyCount) {
+          setStatus('Secure link active · Analysis package loaded', true);
+        } else {
+          setStatus('Secure link active · Awaiting next daily run', false);
+        }
+
+        appendMessage('system', 'SIA briefing', summarizeWelcome());
+        toggleInteractive(false);
+      }
+
+      sendBtn.addEventListener('click', function () {
+        const query = inputEl.value.trim();
+        if (!query) return;
+        appendUserMessage(query);
+        appendMessage('system', 'SIA briefing', answerQuery(query));
+        inputEl.value = '';
+        inputEl.focus();
+      });
+
+      inputEl.addEventListener('keydown', function (event) {
+        if (event.key === 'Enter' && !event.shiftKey) {
+          event.preventDefault();
+          sendBtn.click();
+        }
+      });
+
+      actionButtons.forEach(function (button) {
+        button.addEventListener('click', function () {
+          handleAction(button.getAttribute('data-action'));
+        });
+      });
+
+      init();
+    }());
+  </script>
+</body>
+</html>

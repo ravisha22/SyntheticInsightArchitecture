@@ -570,9 +570,19 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
             f"<p><strong>Falsification:</strong> {escape(cause.get('falsification', ''))}</p>"
             "</div>"
         )
+    # Strip body snippets from stories for public display — only show title + source + link
+    public_stories = []
+    for story in stories:
+        public_stories.append({
+            "title": story.get("title", "Untitled"),
+            "source": story.get("source", "Unknown"),
+            "url": story.get("url", ""),
+            "published": story.get("published", ""),
+        })
+
     story_rows = [
-        f"<tr><td><a href='{escape(story.get('url', ''))}'>{escape(story.get('title', 'Untitled'))}</a></td><td>{escape(story.get('source', 'Unknown'))}</td><td>{escape(format_human_date(story.get('published')))}</td></tr>"
-        for story in stories
+        f"<tr><td><a href='{escape(s['url'])}' target='_blank' rel='noreferrer'>{escape(s['title'])}</a></td><td>{escape(s['source'])}</td><td>{escape(format_human_date(s.get('published')))}</td></tr>"
+        for s in public_stories
     ]
     prediction_rows = [
         f"<tr><td>{escape(item.get('root_cause', 'Unknown'))}</td><td>{escape(item.get('status', 'open'))}</td><td>{escape(item.get('maturity_date', ''))}</td><td>{escape(item.get('validation_notes', item.get('prediction', '')))}</td></tr>"
@@ -584,7 +594,8 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SIA Daily Intelligence</title>
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>SIA — Systemic Intelligence Analysis</title>
   <style>
     body {{ font-family: Segoe UI, Arial, sans-serif; background: #0f172a; color: #e2e8f0; margin: 0; }}
     .page {{ max-width: 1100px; margin: 0 auto; padding: 32px 20px 48px; }}
@@ -595,20 +606,30 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     th, td {{ border-bottom: 1px solid #334155; padding: 10px; text-align: left; vertical-align: top; }}
     a {{ color: #93c5fd; }}
     .card {{ background: #1e293b; border-radius: 14px; padding: 16px; margin-top: 12px; }}
+    .hero-title {{ font-size: 1.8rem; margin: 0 0 6px; }}
+    .hero-sub {{ color: #94a3b8; margin: 0 0 16px; line-height: 1.6; }}
+    .narrative {{ line-height: 1.75; white-space: pre-line; }}
+    .attribution {{ color: #64748b; font-size: 0.85rem; margin-top: 12px; }}
+    footer {{ color: #475569; font-size: 0.8rem; text-align: center; padding: 24px 0 0; }}
   </style>
 </head>
 <body>
   <div class="page">
     <section class="panel">
-      <p>SIA Daily Intelligence</p>
-      <h1>{escape(report.get("report_date", ""))}</h1>
-      <p>{escape(narrative)}</p>
+      <p class="hero-title">SIA — Systemic Intelligence Analysis</p>
+      <p class="hero-sub">SIA is a general-purpose problem intelligence system that collects signals from diverse sources, identifies shared systemic root causes, prioritises interventions under scarcity, and tracks predictions against real-world outcomes over time. Instead of summarising individual headlines, it looks for the structural patterns that connect them — the feedback loops, cascade risks, and compounding failures that determine what actually happens next.
+      <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project on GitHub →</a></p>
+      <h2>{escape(report.get("report_date", ""))}</h2>
       <div class="grid">
-        <div class="metric"><strong>Stories</strong><br>{len(stories)}</div>
+        <div class="metric"><strong>Stories analysed</strong><br>{len(stories)}</div>
         <div class="metric"><strong>Root causes</strong><br>{len(root_causes)}</div>
-        <div class="metric"><strong>Predictions</strong><br>{len(predictions)}</div>
-        <div class="metric"><strong>Dashboard</strong><br><a href="{escape(dashboard_url)}">Open live dashboard</a></div>
+        <div class="metric"><strong>Predictions tracked</strong><br>{len(predictions)}</div>
       </div>
+    </section>
+
+    <section class="panel">
+      <h2>Analysis narrative</h2>
+      <p class="narrative">{escape(narrative)}</p>
     </section>
 
     <section class="panel">
@@ -634,12 +655,12 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
         <thead><tr><th>Story</th><th>Source</th><th>Published</th></tr></thead>
         <tbody>{''.join(story_rows) or '<tr><td colspan="3">No stories available.</td></tr>'}</tbody>
       </table>
+      <p class="attribution">Headlines sourced from publicly available RSS feeds. Click through for full articles. SIA uses headlines and short summaries for systemic pattern analysis only — no article content is republished.</p>
     </section>
 
-    <section class="panel">
-      <h2>Restricted access</h2>
-      <p>Daily login link: <a href="{escape(login_url)}">{escape(login_url)}</a></p>
-    </section>
+    <footer>
+      Powered by <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">SIA</a> — predictions are systemic analysis, not financial or political advice.
+    </footer>
   </div>
 </body>
 </html>"""
@@ -723,6 +744,44 @@ def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict]
   </div>
 </body>
 </html>"""
+
+
+def _upload_github_file(path: str, content: str) -> None:
+    """Push a file to the repo via the GitHub API."""
+    token = os.environ.get("GITHUB_TOKEN", "")
+    repo = os.environ.get("SIA_GITHUB_REPO", "ravisha22/SyntheticInsightArchitecture")
+    if not token:
+        return
+
+    import base64
+
+    api_url = f"https://api.github.com/repos/{repo}/contents/{path}"
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github.v3+json"}
+
+    sha = None
+    try:
+        resp = requests.get(api_url, headers=headers, timeout=15)
+        if resp.status_code == 200:
+            sha = resp.json().get("sha")
+    except Exception:
+        pass
+
+    payload = {
+        "message": f"chore: update {path} {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
+        "content": base64.b64encode(content.encode("utf-8")).decode("ascii"),
+        "branch": "main",
+    }
+    if sha:
+        payload["sha"] = sha
+
+    try:
+        resp = requests.put(api_url, headers=headers, json=payload, timeout=30)
+        if resp.status_code in (200, 201):
+            LOGGER.info("GitHub file updated: %s", path)
+        else:
+            LOGGER.warning("GitHub file update failed for %s: %s", path, resp.status_code)
+    except Exception as exc:
+        LOGGER.warning("GitHub file update error for %s: %s", path, exc)
 
 
 def _upload_to_github_pages(html_content: str) -> None:
@@ -972,8 +1031,9 @@ def run_daily_pipeline() -> dict:
     dashboard_html = build_dashboard_html(report, ledger, dashboard_url, login_url)
     email_html = build_email_html(report, ledger, matured_predictions, daily_password, login_url, dashboard_url)
 
-    # Upload dashboard — try GitHub Pages first, fall back to blob storage
+    # Upload dashboard and analysis data to GitHub Pages
     _upload_to_github_pages(dashboard_html)
+    _upload_github_file("docs/data.json", json.dumps(report, indent=2, ensure_ascii=False))
     try:
         upload_static_blob("index.html", dashboard_html, "text/html; charset=utf-8")
         upload_static_blob("robots.txt", "User-agent: *\nDisallow: /\n", "text/plain; charset=utf-8")
