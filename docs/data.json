@@ -1,0 +1,255 @@
+{
+  "analyzed_at": "2026-04-20T15:00:00+10:00",
+  "collected_at": "2026-04-20",
+  "signal_count": 20,
+  "adapter": "gpt-5.4",
+  "noise_filtered": [
+    1,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    16,
+    18
+  ],
+  "clusters_found": 3,
+  "chosen_count": 11,
+  "root_causes": [
+    {
+      "target": "Middle East war is turning energy chokepoints into global coercion",
+      "severity": "existential",
+      "signal_count": 4,
+      "signals": [
+        "Oil prices rise after Trump says Iranian ship seized",
+        "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+        "Zelensky condemns US extension of Russian sanctions waiver",
+        "French peacekeeper killed in southern Lebanon"
+      ],
+      "rationale": "A regional war is now directly governing shipping access, oil pricing, sanctions policy and the safety of third-party forces. The mechanism is chokepoint leverage: once Hormuz, Lebanon and sanctions waivers become bargaining tools, energy, insurance, alliance cohesion and civilian supply chains all become hostages to escalation.",
+      "intervention": "Prioritise immediate US-Iran-Israel maritime deconfliction, a monitored non-interference regime around Hormuz, coordinated strategic petroleum release planning, and a transparent multilateral framework for temporary energy waivers so allies are not forced into ad hoc exceptions.",
+      "prediction": "If unaddressed, the Gulf conflict will generate additional maritime seizures or proxy strikes, keep oil and shipping insurance volatile, and force more emergency sanctions carve-outs that fracture Western alignment.",
+      "timeline": "weeks",
+      "falsification": "This is wrong if the next 6-8 weeks bring no new maritime or proxy incidents, commercial passage through Hormuz remains uninterrupted, and energy volatility normalises without further emergency waiver politics."
+    },
+    {
+      "target": "Institutional legitimacy is eroding as elites and security actors evade accountability",
+      "severity": "major",
+      "signal_count": 4,
+      "signals": [
+        "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+        "Rumen Radev looks set to win Bulgarian Parliamentary election",
+        "Australia's most-decorated soldier vows to fight war crime charges",
+        "The insider trading suspicions looming over Trump's presidency"
+      ],
+      "rationale": "The common mechanism is failed self-correction. Police units, political executives and decorated military figures all appear buffered from timely accountability, while voters respond by abandoning incumbents or liberal coalitions. Once people conclude that insiders are protected by status, trust falls faster than formal institutions can repair it.",
+      "intervention": "Use visibly independent investigations, fast public disclosure of evidence and conflicts, protected prosecutorial pathways for politically sensitive cases, and frontline security reforms that reward performance rather than loyalty or symbolism.",
+      "prediction": "If unaddressed, more electorates will shift toward outsider or strongman options, oversight bodies will be treated as partisan weapons rather than neutral referees, and security services will face lower public cooperation during crises.",
+      "timeline": "months",
+      "falsification": "This is wrong if the next 6-12 months bring credible prosecutions or exonerations in these emblematic cases, stable or improving institutional trust measures, and fewer anti-system electoral surges in comparable democracies."
+    },
+    {
+      "target": "High-trust duty-of-care systems are failing vulnerable people",
+      "severity": "major",
+      "signal_count": 3,
+      "signals": [
+        "Rat poison found in HiPP baby food jar in Austria, police say",
+        "Bodies of 50 infants dumped at Trinidad graveyard",
+        "'They told me he was dead': Children born near army base learn truth about UK soldier dads"
+      ],
+      "rationale": "These cases sit in different sectors but share one structural weakness: institutions entrusted with the care of children and infants acted late, opaquely or not at all until outside pressure forced exposure. Food supply chains, health and mortuary systems, and military duty-of-care all rely on public trust that is hard to rebuild once betrayal is revealed.",
+      "intervention": "Mandate end-to-end audit trails for high-risk child and infant services, create automatic external review triggers for unexplained failures, and establish cross-border compensation and disclosure mechanisms when state-linked actors harm dependents.",
+      "prediction": "If unaddressed, similar scandals will recur across food, health and military welfare systems, driving stricter emergency regulation, more litigation, and lower willingness to trust official assurances after future incidents.",
+      "timeline": "months",
+      "falsification": "This is wrong if authorities quickly complete transparent audits, prosecute responsible actors, compensate victims, and the next 3-9 months do not produce comparable failures in adjacent child-safety or institutional-care systems."
+    }
+  ],
+  "predictions": [
+    {
+      "id": "17072c16",
+      "created_at": "2026-04-20",
+      "root_cause": "Middle East war is turning energy chokepoints into global coercion",
+      "severity": "existential",
+      "signal_count": 4,
+      "rationale": "Energy chokepoints now link battlefield decisions to fuel prices, alliance policy and shipping risk in real time.",
+      "prediction": "If unaddressed, the Gulf conflict will generate additional maritime seizures or proxy strikes, keep oil and shipping insurance volatile, and force more emergency sanctions carve-outs that fracture Western alignment.",
+      "timeline": "Within 4-12 weeks",
+      "falsification": "This is wrong if the next 6-8 weeks bring no new maritime or proxy incidents, commercial passage through Hormuz remains uninterrupted, and energy volatility normalises without further emergency waiver politics.",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "e252b634",
+      "created_at": "2026-04-20",
+      "root_cause": "Institutional legitimacy is eroding as elites and security actors evade accountability",
+      "severity": "major",
+      "signal_count": 4,
+      "rationale": "Repeated signs of impunity weaken trust faster than institutions can rebuild it, which invites anti-system political moves.",
+      "prediction": "If unaddressed, more electorates will shift toward outsider or strongman options, oversight bodies will be treated as partisan weapons rather than neutral referees, and security services will face lower public cooperation during crises.",
+      "timeline": "Within 6-18 months",
+      "falsification": "This is wrong if the next 6-12 months bring credible prosecutions or exonerations in these emblematic cases, stable or improving institutional trust measures, and fewer anti-system electoral surges in comparable democracies.",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "7ce38fa8",
+      "created_at": "2026-04-20",
+      "root_cause": "High-trust duty-of-care systems are failing vulnerable people",
+      "severity": "major",
+      "signal_count": 3,
+      "rationale": "When child-facing and high-trust institutions fail without rapid accountability, the social cost compounds through fear, lawsuits and distrust.",
+      "prediction": "If unaddressed, similar scandals will recur across food, health and military welfare systems, driving stricter emergency regulation, more litigation, and lower willingness to trust official assurances after future incidents.",
+      "timeline": "Within 3-9 months",
+      "falsification": "This is wrong if authorities quickly complete transparent audits, prosecute responsible actors, compensate victims, and the next 3-9 months do not produce comparable failures in adjacent child-safety or institutional-care systems.",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    }
+  ],
+  "narrative": "The dominant pattern in this batch is not random drama but systems under stress. The Middle East conflict has escaped the category of regional war and become a global coercion engine: shipping access through Hormuz, oil prices, sanctions design and the safety of peacekeepers are now tightly coupled. That means a single military or political signal in the Gulf can immediately propagate into inflation, alliance strain and energy insecurity well beyond the region.\n\nA second pattern is legitimacy decay inside institutions that are supposed to self-correct. The resignation of Ukraine's police chief, the insider-trading cloud around the US presidency, the long-tail war-crime reckoning in Australia and the Bulgarian electoral swing all point to the same mechanism: publics are seeing too many cases where power seems insulated from fast, credible accountability. When that belief sets in, voters stop distinguishing between flawed institutions and captured ones.\n\nThe third pattern is failure of duty-of-care toward people with the least leverage. Poison in baby food, the disposal of infant bodies, and children near a British base learning the truth about absent fathers all reveal institutions acting only after exposure. The shared lesson is that high-trust systems are increasingly reactive rather than protective; they move after scandal, not before harm.\n\nFor the next 3-6 months, the world should focus first on de-escalating the Gulf theatre because it has the fastest and widest blast radius. But even successful de-escalation will only buy time unless governments also rebuild accountability in security and political institutions and harden child-facing duty-of-care systems. Otherwise the likely future is a feedback loop: geopolitical shocks raise economic stress, economic stress deepens distrust, and distrust makes societies more tolerant of coercion, impunity and emergency rule.",
+  "stories": [
+    {
+      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+      "body": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 04:10:40 GMT"
+    },
+    {
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "body": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 02:29:04 GMT"
+    },
+    {
+      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "body": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 21:09:06 GMT"
+    },
+    {
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "body": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 17:48:41 GMT"
+    },
+    {
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "body": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 12:52:26 GMT"
+    },
+    {
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "body": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 09:55:22 GMT"
+    },
+    {
+      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "body": "Early results put his Progressive Bulgaria on 45%, well ahead of the liberal PP-DB coalition, which stood at 15%.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 04:50:15 GMT"
+    },
+    {
+      "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+      "body": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 15:50:48 GMT"
+    },
+    {
+      "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+      "body": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 19:25:22 GMT"
+    },
+    {
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "body": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 07:47:35 GMT"
+    },
+    {
+      "title": "Alec Baldwin to face civil trial over Rust film set shooting",
+      "body": "The criminal case against the actor was dismissed in 2024.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:08:23 GMT"
+    },
+    {
+      "title": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "body": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 07:49:45 GMT"
+    },
+    {
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
+      "body": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 05:12:40 GMT"
+    },
+    {
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "body": "The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 21:27:56 GMT"
+    },
+    {
+      "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
+      "body": "Construction at the White House is expected to continue until the next hearing, due in June.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 19:18:40 GMT"
+    },
+    {
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "body": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 18:09:57 GMT"
+    },
+    {
+      "title": "French peacekeeper killed in southern Lebanon",
+      "body": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 11:39:47 GMT"
+    },
+    {
+      "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+      "body": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 10:32:54 GMT"
+    },
+    {
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "body": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 23:02:06 GMT"
+    },
+    {
+      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
+      "body": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 23:07:52 GMT"
+    }
+  ]
+}
