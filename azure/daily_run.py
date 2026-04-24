@@ -410,6 +410,58 @@ def compute_maturity_date(created_at: str, timeline: str) -> str | None:
     return (created + delta).date().isoformat()
 
 
+def compute_delta(current: dict, previous: dict) -> dict:
+    """Compare today's analysis against yesterday's."""
+    if not previous or not previous.get("root_causes"):
+        return {"is_first_run": True, "summary": "First analysis run — no prior data to compare."}
+
+    prev_causes = {c.get("name", "").lower(): c for c in previous.get("root_causes", [])}
+    curr_causes = {c.get("name", "").lower(): c for c in current.get("root_causes", [])}
+
+    new_causes = [curr_causes[k]["name"] for k in curr_causes if k not in prev_causes]
+    removed_causes = [prev_causes[k]["name"] for k in prev_causes if k not in curr_causes]
+    continuing_causes = [curr_causes[k]["name"] for k in curr_causes if k in prev_causes]
+
+    severity_changes = []
+    for key in curr_causes:
+        if key in prev_causes:
+            prev_sev = prev_causes[key].get("severity", "")
+            curr_sev = curr_causes[key].get("severity", "")
+            if prev_sev != curr_sev:
+                severity_changes.append(f"{curr_causes[key]['name']}: {prev_sev} → {curr_sev}")
+
+    prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
+    curr_titles = {s.get("title", "").lower() for s in current.get("stories", [])}
+    new_stories = len(curr_titles - prev_titles)
+    carried_stories = len(curr_titles & prev_titles)
+    total_stories = len(current.get("stories", []))
+
+    parts = []
+    if new_causes:
+        parts.append(f"{len(new_causes)} new root cause(s) emerged: {', '.join(new_causes)}")
+    if removed_causes:
+        parts.append(f"{len(removed_causes)} root cause(s) dropped: {', '.join(removed_causes)}")
+    if severity_changes:
+        parts.append(f"Severity shifted: {'; '.join(severity_changes)}")
+    if not new_causes and not removed_causes and not severity_changes:
+        parts.append(f"No structural shift — all {len(continuing_causes)} root causes from yesterday persist")
+    parts.append(
+        f"Signal freshness: {new_stories} new stories, {carried_stories} carried over from yesterday, {total_stories} total"
+    )
+
+    return {
+        "is_first_run": False,
+        "new_causes": new_causes,
+        "removed_causes": removed_causes,
+        "continuing_causes": continuing_causes,
+        "severity_changes": severity_changes,
+        "new_stories": new_stories,
+        "carried_stories": carried_stories,
+        "total_stories": total_stories,
+        "summary": " · ".join(parts),
+    }
+
+
 def make_prediction_id(created_at: str, root_cause: str, prediction: str) -> str:
     raw = f"{created_at}|{root_cause}|{prediction}"
     return hashlib.sha256(raw.encode("utf-8")).hexdigest()[:16]
@@ -549,11 +601,49 @@ def format_human_date(value: str | None) -> str:
     return parsed.astimezone(UTC).strftime("%d %b %Y")
 
 
-def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_url: str) -> str:
+def prediction_age_text(prediction: dict, today: str) -> str:
+    """Generate a human-readable age/status string for a prediction."""
+    created = prediction.get("created_at", "")
+    maturity = prediction.get("maturity_date", "")
+    status = prediction.get("status", "open")
+
+    if status == "validated":
+        return "✓ Validated"
+    if status == "falsified":
+        return "✗ Falsified"
+
+    if not created:
+        return str(status)
+
+    try:
+        created_dt = datetime.fromisoformat(created[:10])
+        today_dt = datetime.fromisoformat(today[:10])
+        elapsed = (today_dt - created_dt).days
+    except (ValueError, TypeError):
+        return str(status)
+
+    if maturity:
+        try:
+            maturity_dt = datetime.fromisoformat(maturity[:10])
+            remaining = (maturity_dt - today_dt).days
+            if remaining <= 0:
+                return f"Matured — {elapsed} days elapsed, awaiting validation"
+            return f"{elapsed} days elapsed, {remaining} days to maturity"
+        except (ValueError, TypeError):
+            pass
+
+    return f"{elapsed} days elapsed"
+
+
+def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_url: str, previous: dict) -> str:
     root_causes = report.get("root_causes", [])
     stories = report.get("stories", [])
     predictions = ledger.get("predictions", [])
     narrative = report.get("narrative", "")
+    today = str(report.get("report_date", ""))
+    delta = report.get("delta", {})
+    delta_summary = str(delta.get("summary", "No change summary available."))
+    prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
     severity_classes = {
         "existential": "severity-existential",
         "critical": "severity-existential",
@@ -599,12 +689,26 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
             "published": story.get("published", ""),
         })
 
-    story_rows = [
-        f"<tr><td data-label='Headline'><a href='{escape(s['url'])}' target='_blank' rel='noreferrer'>{escape(s['title'])}</a></td><td data-label='Source'>{escape(s['source'])}</td><td data-label='Published'>{escape(format_human_date(s.get('published')))}</td></tr>"
-        for s in public_stories
-    ]
+    story_rows = []
+    for story in public_stories:
+        is_new = story["title"].lower() not in prev_titles
+        badge = (
+            "<span style='color:#22c55e;font-size:0.8rem;'>● new</span>"
+            if is_new
+            else "<span style='color:#94a3b8;font-size:0.8rem;'>↩ carried</span>"
+        )
+        story_rows.append(
+            f"<tr><td data-label='Headline'><a href='{escape(story['url'])}' target='_blank' rel='noreferrer'>{escape(story['title'])}</a> {badge}</td>"
+            f"<td data-label='Source'>{escape(story['source'])}</td><td data-label='Published'>{escape(format_human_date(story.get('published')))}</td></tr>"
+        )
     prediction_rows = [
-        f"<tr><td data-label='Root cause'>{escape(item.get('root_cause', 'Unknown'))}</td><td data-label='Status'><span class='status-pill {status_classes.get(str(item.get('status', 'open')).strip().lower(), 'status-open')}'>{escape(item.get('status', 'open'))}</span></td><td data-label='Maturity'>{escape(item.get('maturity_date', ''))}</td><td data-label='Notes'>{escape(item.get('validation_notes', item.get('prediction', '')))}</td></tr>"
+        f"<tr><td data-label='Root cause'>{escape(item.get('root_cause', 'Unknown'))}</td>"
+        f"<td data-label='Status'><span class='status-pill {status_classes.get(str(item.get('status', 'open')).strip().lower(), 'status-open')}'>{escape(item.get('status', 'open'))}</span></td>"
+        f"<td data-label='Created'>{escape(format_human_date(item.get('created_at')))}</td>"
+        f"<td data-label='Timeline'>{escape(item.get('timeline', ''))}</td>"
+        f"<td data-label='Maturity'>{escape(format_human_date(item.get('maturity_date')))}</td>"
+        f"<td data-label='Tracking'>{escape(prediction_age_text(item, today))}</td>"
+        f"<td data-label='Notes'>{escape(item.get('validation_notes', item.get('prediction', '')))}</td></tr>"
         for item in predictions
     ]
 
@@ -714,6 +818,14 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
       margin: 18px 0 0;
       color: var(--muted);
       font-size: 0.95rem;
+    }}
+    .delta-note {{
+      margin: 18px 0 0;
+      padding: 12px 14px;
+      background: #f0f4f8;
+      border-left: 4px solid #8f4d3f;
+      color: #52606d;
+      font-size: 0.9rem;
     }}
     .narrative {{
       margin: 0;
@@ -846,6 +958,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
       <h1>Systemic Intelligence Analysis</h1>
       <p class="dek">SIA (Synthetic Insight Architecture) is a general-purpose problem intelligence system. It collects signals from diverse public sources — news reports, field observations, institutional data — and runs them through a multi-stage analysis pipeline that identifies shared systemic root causes, clusters compounding risks, prioritises interventions under real-world scarcity constraints, and tracks explicit predictions against outcomes over time. Rather than summarising individual stories, it looks for the structural patterns that connect them: the feedback loops, cascade risks, and institutional failures that determine what actually happens next. The system is validated across six domains including geopolitical conflict, economic resilience, and historical hindcasting. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project and methodology on GitHub&nbsp;→</a></p>
       <p class="meta-line">{len(stories)} stories analysed · {len(root_causes)} root causes · {len(predictions)} predictions</p>
+      <div class="delta-note"><strong>Since yesterday:</strong> {escape(delta_summary)}</div>
     </section>
 
     <section>
@@ -865,8 +978,8 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     <section>
       <h2>Prediction ledger</h2>
       <table>
-        <thead><tr><th>Root cause</th><th>Status</th><th>Maturity</th><th>Notes</th></tr></thead>
-        <tbody>{''.join(prediction_rows) or '<tr><td colspan="4">No predictions logged.</td></tr>'}</tbody>
+        <thead><tr><th>Root cause</th><th>Status</th><th>Created</th><th>Timeline</th><th>Maturity</th><th>Tracking</th><th>Notes</th></tr></thead>
+        <tbody>{''.join(prediction_rows) or '<tr><td colspan="7">No predictions logged.</td></tr>'}</tbody>
       </table>
     </section>
 
@@ -887,9 +1000,21 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
 </html>"""
 
 
-def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict], daily_password: str, login_url: str, dashboard_url: str) -> str:
+def build_email_html(
+    report: dict,
+    ledger: dict,
+    matured_predictions: list[dict],
+    daily_password: str,
+    login_url: str,
+    dashboard_url: str,
+    previous: dict,
+) -> str:
     date_label = escape(report.get("report_date", ""))
     root_causes = report.get("root_causes", [])
+    today = str(report.get("report_date", ""))
+    delta = report.get("delta", {})
+    delta_summary = str(delta.get("summary", "No change summary available."))
+    prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
     matured_markup = ""
     if matured_predictions:
         items = "".join(
@@ -920,6 +1045,25 @@ def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict]
         for cause in root_causes
     )
 
+    prediction_rows = "".join(
+        f"<tr><td>{escape(item.get('root_cause', 'Unknown'))}</td>"
+        f"<td>{escape(item.get('status', 'open'))}</td>"
+        f"<td>{escape(format_human_date(item.get('created_at')))}</td>"
+        f"<td>{escape(item.get('timeline', ''))}</td>"
+        f"<td>{escape(format_human_date(item.get('maturity_date')))}</td>"
+        f"<td>{escape(prediction_age_text(item, today))}</td>"
+        f"<td>{escape(item.get('validation_notes', item.get('prediction', '')))}</td></tr>"
+        for item in ledger.get("predictions", [])
+    ) or "<tr><td colspan='7'>No predictions logged.</td></tr>"
+
+    story_rows = "".join(
+        f"<tr><td><a href='{escape(story.get('url', ''))}'>{escape(story.get('title', 'Untitled'))}</a> "
+        f"{'🆕' if story.get('title', '').lower() not in prev_titles else '↩'}</td>"
+        f"<td>{escape(story.get('source', 'Unknown'))}</td>"
+        f"<td>{escape(format_human_date(story.get('published')))}</td></tr>"
+        for story in report.get("stories", [])
+    ) or "<tr><td colspan='3'>No stories available.</td></tr>"
+
     return f"""<html>
 <body style="margin:0;background:#e2e8f0;font-family:Segoe UI,Arial,sans-serif;color:#0f172a;">
   <div style="max-width:900px;margin:0 auto;padding:24px;">
@@ -936,6 +1080,9 @@ def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict]
         <li>{len(root_causes)} root causes prioritised</li>
         <li>{len(ledger.get('predictions', []))} predictions tracked</li>
       </ul>
+      <div style="margin:18px 0 0;padding:12px 14px;background:#f0f4f8;border-left:4px solid #8f4d3f;color:#52606d;font-size:14px;">
+        <strong>Since yesterday:</strong> {escape(delta_summary)}
+      </div>
 
       <h2>Narrative</h2>
       <p>{escape(report.get('narrative', ''))}</p>
@@ -952,6 +1099,21 @@ def build_email_html(report: dict, ledger: dict, matured_predictions: list[dict]
       <h2>Detail cards</h2>
       {detail_cards or "<p>No detail cards available.</p>"}
       {matured_markup}
+
+      <h2 style='margin-top:32px;'>Prediction ledger</h2>
+      <table style="width:100%;border-collapse:collapse;">
+        <tr>
+          <th align="left">Root cause</th><th align="left">Status</th><th align="left">Created</th>
+          <th align="left">Timeline</th><th align="left">Maturity</th><th align="left">Tracking</th><th align="left">Notes</th>
+        </tr>
+        {prediction_rows}
+      </table>
+
+      <h2 style='margin-top:32px;'>Signals analysed</h2>
+      <table style="width:100%;border-collapse:collapse;">
+        <tr><th align="left">Headline</th><th align="left">Source</th><th align="left">Published</th></tr>
+        {story_rows}
+      </table>
 
       <h2 style='margin-top:32px;'>Access</h2>
       <p><strong>Today's password:</strong> <code>{escape(daily_password)}</code></p>
@@ -1217,6 +1379,7 @@ def run_daily_pipeline() -> dict:
     report_date = utc_now().strftime("%Y-%m-%d")
     dashboard_url = os.environ.get("SIA_DASHBOARD_URL", "")
     login_base_url = os.environ.get("SIA_LOGIN_URL", dashboard_url.rstrip("/") + "/chat.html" if dashboard_url else "")
+    previous = load_json_document("latest_analysis.json", {})
 
     stories = collect_stories(max_stories=20)
     analysis = analyze_stories(stories)
@@ -1244,13 +1407,22 @@ def run_daily_pipeline() -> dict:
         "noise_filtered": analysis.get("noise_filtered", []),
         "matured_predictions": matured_predictions,
     }
+    report["delta"] = compute_delta(report, previous)
 
     save_json_document("latest_analysis.json", report)
     save_json_document("prediction_ledger.json", ledger)
     save_json_document("prediction_schedule.json", schedule)
 
-    dashboard_html = build_dashboard_html(report, ledger, dashboard_url, login_url)
-    email_html = build_email_html(report, ledger, matured_predictions, daily_password, login_url, dashboard_url)
+    dashboard_html = build_dashboard_html(report, ledger, dashboard_url, login_url, previous)
+    email_html = build_email_html(
+        report,
+        ledger,
+        matured_predictions,
+        daily_password,
+        login_url,
+        dashboard_url,
+        previous,
+    )
 
     # Upload dashboard and analysis data to GitHub Pages
     _upload_to_github_pages(dashboard_html)
