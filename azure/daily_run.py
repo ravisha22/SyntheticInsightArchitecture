@@ -1374,16 +1374,39 @@ def ensure_auth_state() -> tuple[SIAAuth, str]:
     return auth, daily_password
 
 
+def _load_from_github(path: str) -> dict | None:
+    """Load a JSON file from the GitHub repo (persists across ephemeral CI runners)."""
+    token = os.environ.get("GITHUB_TOKEN", "")
+    repo = os.environ.get("SIA_GITHUB_REPO", "")
+    if not token or not repo:
+        return None
+    try:
+        api_url = f"https://api.github.com/repos/{repo}/contents/{path}"
+        resp = requests.get(api_url, headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github.v3.raw",
+        }, timeout=15)
+        if resp.status_code == 200:
+            return json.loads(resp.text)
+    except Exception:
+        pass
+    return None
+
+
 def run_daily_pipeline() -> dict:
     logging.basicConfig(level=logging.INFO)
-    report_date = utc_now().strftime("%Y-%m-%d")
+    # Use AEST (UTC+10) for the report date since the cron runs at 20:00 UTC = 6:00 AM AEST next day
+    aest = timezone(timedelta(hours=10))
+    report_date = datetime.now(aest).strftime("%Y-%m-%d")
     dashboard_url = os.environ.get("SIA_DASHBOARD_URL", "")
     login_base_url = os.environ.get("SIA_LOGIN_URL", dashboard_url.rstrip("/") + "/chat.html" if dashboard_url else "")
-    previous = load_json_document("latest_analysis.json", {})
 
-    stories = collect_stories(max_stories=20)
-    analysis = analyze_stories(stories)
-    ledger = load_json_document("prediction_ledger.json", {"predictions": [], "last_updated": None})
+    # Load previous analysis from GitHub (persists) then local fallback
+    previous = _load_from_github("docs/data.json") or load_json_document("latest_analysis.json", {})
+    LOGGER.info("Previous analysis loaded: report_date=%s", previous.get("report_date", "none"))
+
+    # Load prediction ledger from GitHub (persists) then local fallback
+    ledger = _load_from_github("docs/prediction_ledger.json") or load_json_document("prediction_ledger.json", {"predictions": [], "last_updated": None})
     merged_predictions = merge_predictions(ledger.get("predictions", []), analysis.get("predictions", []), report_date)
     ledger["predictions"] = merged_predictions
     ledger["last_updated"] = utc_now().isoformat()
@@ -1427,6 +1450,7 @@ def run_daily_pipeline() -> dict:
     # Upload dashboard and analysis data to GitHub Pages
     _upload_to_github_pages(dashboard_html)
     _upload_github_file("docs/data.json", json.dumps(report, indent=2, ensure_ascii=False))
+    _upload_github_file("docs/prediction_ledger.json", json.dumps(ledger, indent=2, ensure_ascii=False))
     # chat_config.json contains the Azure OpenAI API key. The file is not linked from the public dashboard,
     # robots.txt blocks crawlers, and the chat page is token-gated. Rotate the key if compromised.
     chat_config = {
