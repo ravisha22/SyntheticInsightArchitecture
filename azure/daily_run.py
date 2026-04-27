@@ -635,6 +635,41 @@ def prediction_age_text(prediction: dict, today: str) -> str:
     return f"{elapsed} days elapsed"
 
 
+def _render_delta_html(delta: dict) -> str:
+    """Render the delta comparison as structured HTML with proper formatting."""
+    if delta.get("is_first_run"):
+        return "<p>First analysis run — no prior data to compare.</p>"
+
+    lines = []
+    new_causes = delta.get("new_causes", [])
+    removed_causes = delta.get("removed_causes", [])
+    severity_changes = delta.get("severity_changes", [])
+    continuing = delta.get("continuing_causes", [])
+
+    if not new_causes and not removed_causes and not severity_changes:
+        lines.append(f"<p style='margin:0 0 8px;'><strong>No structural shift</strong> — all {len(continuing)} root causes from yesterday persist.</p>")
+    else:
+        if new_causes:
+            items = "".join(f"<li>{escape(c)}</li>" for c in new_causes)
+            lines.append(f"<p style='margin:0 0 4px;'><strong>New root causes emerged:</strong></p><ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>")
+        if removed_causes:
+            items = "".join(f"<li>{escape(c)}</li>" for c in removed_causes)
+            lines.append(f"<p style='margin:0 0 4px;'><strong>Root causes dropped:</strong></p><ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>")
+        if severity_changes:
+            items = "".join(f"<li>{escape(c)}</li>" for c in severity_changes)
+            lines.append(f"<p style='margin:0 0 4px;'><strong>Severity shifted:</strong></p><ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>")
+
+    new_s = delta.get("new_stories", 0)
+    carried_s = delta.get("carried_stories", 0)
+    total_s = delta.get("total_stories", 0)
+    pct_new = round(100 * new_s / total_s) if total_s else 0
+    lines.append(
+        f"<p style='margin:0;'><strong>Signal freshness:</strong> {new_s} new stories ({pct_new}%), "
+        f"{carried_s} carried from yesterday, {total_s} total.</p>"
+    )
+    return "".join(lines)
+
+
 def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_url: str, previous: dict) -> str:
     root_causes = report.get("root_causes", [])
     stories = report.get("stories", [])
@@ -642,7 +677,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     narrative = report.get("narrative", "")
     today = str(report.get("report_date", ""))
     delta = report.get("delta", {})
-    delta_summary = str(delta.get("summary", "No change summary available."))
+    delta_html = _render_delta_html(delta)
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
     severity_classes = {
         "existential": "severity-existential",
@@ -958,7 +993,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
       <h1>Systemic Intelligence Analysis</h1>
       <p class="dek">SIA (Synthetic Insight Architecture) is a general-purpose problem intelligence system. It collects signals from diverse public sources — news reports, field observations, institutional data — and runs them through a multi-stage analysis pipeline that identifies shared systemic root causes, clusters compounding risks, prioritises interventions under real-world scarcity constraints, and tracks explicit predictions against outcomes over time. Rather than summarising individual stories, it looks for the structural patterns that connect them: the feedback loops, cascade risks, and institutional failures that determine what actually happens next. The system is validated across six domains including geopolitical conflict, economic resilience, and historical hindcasting. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project and methodology on GitHub&nbsp;→</a></p>
       <p class="meta-line">{len(stories)} stories analysed · {len(root_causes)} root causes · {len(predictions)} predictions</p>
-      <div class="delta-note"><strong>Since yesterday:</strong> {escape(delta_summary)}</div>
+      <div class="delta-note"><strong>Since yesterday:</strong><br>{delta_html}</div>
     </section>
 
     <section>
@@ -1013,7 +1048,7 @@ def build_email_html(
     root_causes = report.get("root_causes", [])
     today = str(report.get("report_date", ""))
     delta = report.get("delta", {})
-    delta_summary = str(delta.get("summary", "No change summary available."))
+    delta_html = _render_delta_html(delta)
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
     matured_markup = ""
     if matured_predictions:
@@ -1080,8 +1115,9 @@ def build_email_html(
         <li>{len(root_causes)} root causes prioritised</li>
         <li>{len(ledger.get('predictions', []))} predictions tracked</li>
       </ul>
-      <div style="margin:18px 0 0;padding:12px 14px;background:#f0f4f8;border-left:4px solid #8f4d3f;color:#52606d;font-size:14px;">
-        <strong>Since yesterday:</strong> {escape(delta_summary)}
+      <div style="margin:18px 0 0;padding:14px 16px;background:#f0f4f8;border-left:4px solid #8f4d3f;color:#374151;font-size:14px;line-height:1.6;">
+        <strong style="display:block;margin-bottom:8px;color:#1a1a1a;">Since yesterday:</strong>
+        {delta_html}
       </div>
 
       <h2>Narrative</h2>
