@@ -1407,6 +1407,10 @@ def run_daily_pipeline() -> dict:
 
     # Load prediction ledger from GitHub (persists) then local fallback
     ledger = _load_from_github("docs/prediction_ledger.json") or load_json_document("prediction_ledger.json", {"predictions": [], "last_updated": None})
+
+    stories = collect_stories(max_stories=20)
+    analysis = analyze_stories(stories)
+
     merged_predictions = merge_predictions(ledger.get("predictions", []), analysis.get("predictions", []), report_date)
     ledger["predictions"] = merged_predictions
     ledger["last_updated"] = utc_now().isoformat()
