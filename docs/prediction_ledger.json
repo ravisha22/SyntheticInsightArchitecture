@@ -1,0 +1,70 @@
+{
+  "predictions": [
+    {
+      "id": "c7a334b26dd13960",
+      "created_at": "2026-04-28",
+      "root_cause": "Climate Change and Resource Conflicts",
+      "prediction": "More frequent resource-related conflicts in vulnerable regions by Q4 2027.",
+      "timeline": "Q4 2027",
+      "maturity_date": null,
+      "falsification": "Reduction in resource-related conflicts due to effective management and mediation by Q4 2027.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "4a390f8c4a1ff927",
+      "created_at": "2026-04-28",
+      "root_cause": "Cultural and Social Tensions",
+      "prediction": "Sporadic incidents of cultural and social tensions globally by Q2 2027.",
+      "timeline": "Q2 2027",
+      "maturity_date": null,
+      "falsification": "Reduction in such incidents due to proactive cultural and legal interventions by Q2 2027.",
+      "severity": "Low",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "46b9495cbef6f2bb",
+      "created_at": "2026-04-28",
+      "root_cause": "Organized Crime and Kidnappings",
+      "prediction": "Increase in kidnappings and piracy incidents in vulnerable regions by Q1 2027.",
+      "timeline": "Q1 2027",
+      "maturity_date": null,
+      "falsification": "Reduction in reported incidents due to improved security measures by Q1 2027.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "3e81885aed83dedc",
+      "created_at": "2026-04-28",
+      "root_cause": "Infrastructure and Safety Failures",
+      "prediction": "Recurring transportation accidents in regions with aging infrastructure by Q2 2027.",
+      "timeline": "Q2 2027",
+      "maturity_date": null,
+      "falsification": "Significant reduction in accidents due to improved infrastructure and safety protocols by Q2 2027.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "02439c0bee219d4b",
+      "created_at": "2026-04-28",
+      "root_cause": "Global Political Instability and Armed Conflicts",
+      "prediction": "Escalation of violence in Mali, Ukraine, and Afghanistan by Q4 2026.",
+      "timeline": "Q4 2026",
+      "maturity_date": null,
+      "falsification": "Reduction in violence or successful peace agreements in these regions by Q4 2026.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    }
+  ],
+  "last_updated": "2026-04-27T23:45:40.716716+00:00"
+}
