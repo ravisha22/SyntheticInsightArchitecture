@@ -1,6 +1,71 @@
 {
   "predictions": [
     {
+      "id": "c553fb4ac95ab8af",
+      "created_at": "2026-04-29",
+      "root_cause": "Infrastructure and Disaster Vulnerabilities",
+      "prediction": "Increased frequency of infrastructure-related disasters by 2028, with significant loss of life and economic damage.",
+      "timeline": "2028",
+      "maturity_date": null,
+      "falsification": "No significant increase in infrastructure-related disasters by 2028.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "a06e01da8091e37e",
+      "created_at": "2026-04-29",
+      "root_cause": "AI Governance Crisis",
+      "prediction": "Major AI-related ethical scandals will emerge by 2028, leading to calls for stricter global regulations.",
+      "timeline": "2028",
+      "maturity_date": null,
+      "falsification": "No significant AI-related ethical scandals or regulatory changes by 2028.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "9c8e95cedb39712c",
+      "created_at": "2026-04-29",
+      "root_cause": "Global Energy Instability",
+      "prediction": "Energy prices will spike globally, with increased volatility in oil and grain markets by Q3 2026.",
+      "timeline": "Q3 2026",
+      "maturity_date": null,
+      "falsification": "Energy prices remain stable or decline by Q3 2026 despite ongoing geopolitical tensions.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "87b33b8bb1a33153",
+      "created_at": "2026-04-29",
+      "root_cause": "Global Security Threats",
+      "prediction": "Increase in high-profile terrorist attacks globally by 2027, with significant casualties and economic impacts.",
+      "timeline": "2027",
+      "maturity_date": null,
+      "falsification": "No significant increase in terrorist attacks or casualties by 2027.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "78959b61e4b69b3c",
+      "created_at": "2026-04-29",
+      "root_cause": "Escalating Political Polarization",
+      "prediction": "Heightened political violence and media censorship will occur in the US and Europe by mid-2027.",
+      "timeline": "Mid-2027",
+      "maturity_date": null,
+      "falsification": "No significant increase in political violence or censorship by mid-2027.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "c7a334b26dd13960",
       "created_at": "2026-04-28",
       "root_cause": "Climate Change and Resource Conflicts",
@@ -66,5 +131,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-04-27T23:45:40.716716+00:00"
+  "last_updated": "2026-04-28T21:13:02.088151+00:00"
 }
