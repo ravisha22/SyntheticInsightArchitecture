@@ -1,6 +1,71 @@
 {
   "predictions": [
     {
+      "id": "b2c70d1124c88c62",
+      "created_at": "2026-04-30",
+      "root_cause": "Global Democratic Backsliding",
+      "prediction": "Increased authoritarian measures in Hungary and other nations within 24 months.",
+      "timeline": "24 months",
+      "maturity_date": "2028-04-19",
+      "falsification": "Hungary and other nations show improvements in democratic practices within 24 months.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "e26055f789e3f8d1",
+      "created_at": "2026-04-30",
+      "root_cause": "AI Accountability and Regulation",
+      "prediction": "New AI regulations will be introduced in the US within 18 months, focusing on accountability and safety.",
+      "timeline": "18 months",
+      "maturity_date": "2027-10-22",
+      "falsification": "No significant AI regulations are introduced within 18 months.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "b1a232cf6c50b6f0",
+      "created_at": "2026-04-30",
+      "root_cause": "Political Polarization in the US",
+      "prediction": "Heightened political violence and protests in the US within the next 12 months.",
+      "timeline": "12 months",
+      "maturity_date": "2027-04-25",
+      "falsification": "No significant political violence or protests occur within 12 months.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "4e7d98848119514c",
+      "created_at": "2026-04-30",
+      "root_cause": "Environmental Risks and Climate Change",
+      "prediction": "Significant forest fires linked to El Niño will occur within 12 months, reversing recent progress in forest conservation.",
+      "timeline": "12 months",
+      "maturity_date": "2027-04-25",
+      "falsification": "No major forest fires occur within 12 months.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "cac563317c61b2e7",
+      "created_at": "2026-04-30",
+      "root_cause": "Middle East Conflict Escalation",
+      "prediction": "Oil prices will remain volatile, with potential spikes above $130/barrel within 6 months if the conflict worsens.",
+      "timeline": "6 months",
+      "maturity_date": "2026-10-27",
+      "falsification": "Oil prices stabilize below $100/barrel within 6 months and no significant escalation occurs.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "c553fb4ac95ab8af",
       "created_at": "2026-04-29",
       "root_cause": "Infrastructure and Disaster Vulnerabilities",
@@ -131,5 +196,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-04-28T21:13:02.088151+00:00"
+  "last_updated": "2026-04-29T21:13:36.084120+00:00"
 }
