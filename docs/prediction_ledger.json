@@ -66,6 +66,45 @@
       "validated_at": null
     },
     {
+      "id": "d49bfb8adc5779ea",
+      "created_at": "2026-05-01",
+      "root_cause": "US House votes to end government shutdown over immigration operations",
+      "prediction": "Pressure around US House votes to end government shutdown over immigration operations will intensify unless mitigated.",
+      "timeline": "2-4 weeks",
+      "maturity_date": "2026-05-29",
+      "falsification": "Signals dissipate without downstream disruptions.",
+      "severity": "medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "80cb02d34c852758",
+      "created_at": "2026-05-01",
+      "root_cause": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "prediction": "Pressure around Oil price hits highest since 2022 after report Trump to be briefed on new Iran options will intensify unless mitigated.",
+      "timeline": "2-4 weeks",
+      "maturity_date": "2026-05-29",
+      "falsification": "Signals dissipate without downstream disruptions.",
+      "severity": "medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "444a67b1176b2162",
+      "created_at": "2026-05-01",
+      "root_cause": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "prediction": "Pressure around Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says will intensify unless mitigated.",
+      "timeline": "2-4 weeks",
+      "maturity_date": "2026-05-29",
+      "falsification": "Signals dissipate without downstream disruptions.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "c553fb4ac95ab8af",
       "created_at": "2026-04-29",
       "root_cause": "Infrastructure and Disaster Vulnerabilities",
@@ -196,5 +235,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-04-29T21:13:36.084120+00:00"
+  "last_updated": "2026-04-30T21:08:45.982664+00:00"
 }
