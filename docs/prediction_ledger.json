@@ -105,6 +105,58 @@
       "validated_at": null
     },
     {
+      "id": "e8afa007b542e1ed",
+      "created_at": "2026-05-02",
+      "root_cause": "Iran Conflict and Global Instability",
+      "prediction": "Oil prices will remain elevated, and food security will worsen due to prolonged conflict.",
+      "timeline": "By Q4 2026",
+      "maturity_date": null,
+      "falsification": "If oil prices stabilize and fertilizer shortages are resolved by Q4 2026.",
+      "severity": "High",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "ad970db3a21e638e",
+      "created_at": "2026-05-02",
+      "root_cause": "Authoritarianism and Human Rights Violations",
+      "prediction": "Increased international sanctions and diplomatic efforts will target authoritarian regimes.",
+      "timeline": "2026-2027",
+      "maturity_date": null,
+      "falsification": "If authoritarian regimes strengthen their positions without significant international pushback.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "4ae683653cfe727b",
+      "created_at": "2026-05-02",
+      "root_cause": "Cultural and Religious Tensions",
+      "prediction": "Localized conflicts driven by cultural and religious divisions will persist.",
+      "timeline": "2026-2028",
+      "maturity_date": null,
+      "falsification": "If interfaith and intercultural initiatives significantly reduce tensions.",
+      "severity": "Low",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "2baf304eee5b5dc8",
+      "created_at": "2026-05-02",
+      "root_cause": "Social Unrest and Polarization",
+      "prediction": "Violent incidents and protests will escalate in frequency, particularly in urban areas.",
+      "timeline": "2026-2027",
+      "maturity_date": null,
+      "falsification": "If violence and protests decrease due to effective interventions.",
+      "severity": "Medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "c553fb4ac95ab8af",
       "created_at": "2026-04-29",
       "root_cause": "Infrastructure and Disaster Vulnerabilities",
@@ -235,5 +287,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-04-30T21:08:45.982664+00:00"
+  "last_updated": "2026-05-01T21:01:10.392816+00:00"
 }
