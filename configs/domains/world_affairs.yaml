@@ -15,4 +15,4 @@ signal_sources:
   - bbc_world
   - aljazeera
   - abc_au
-primary_endpoint: retrospective_expert_consensus
+benchmark: retrospective_expert_consensus

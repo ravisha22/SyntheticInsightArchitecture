@@ -46,7 +46,7 @@ worked_examples:
       environmental_continuity: 0.0
   A15:
     name: Parent of young children
-    dominant_values: &id003
+    dominant_values: &id002
     - Benevolence
     - Security
     - Conformity
@@ -88,13 +88,13 @@ clusters:
           collective_welfare: 0.04918032786885246
           knowledge_capability: 0.0
           environmental_continuity: 0.0
-        meta_weights: &id002
-          urgency: 0.16666666666666666
-          scale: 0.16666666666666666
-          irreversibility: 0.16666666666666666
-          cascade_risk: 0.16666666666666666
-          evidence_quality: 0.16666666666666666
-          actionability: 0.16666666666666666
+        meta_weights:
+          urgency: 0.25
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.15
+          evidence_quality: 0.1
+          actionability: 0.1
       A2:
         name: Displaced refugee, stateless
         dominant_values:
@@ -109,7 +109,13 @@ clusters:
           collective_welfare: 0.14516129032258066
           knowledge_capability: 0.0
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.15
+          evidence_quality: 0.1
+          actionability: 0.1
       A3:
         name: Urban informal worker, precarious
         dominant_values:
@@ -124,7 +130,13 @@ clusters:
           collective_welfare: 0.0
           knowledge_capability: 0.13793103448275862
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.15
+          evidence_quality: 0.1
+          actionability: 0.1
       A4:
         name: Chronically ill / disabled, dependent on systems
         dominant_values:
@@ -139,7 +151,13 @@ clusters:
           collective_welfare: 0.14516129032258066
           knowledge_capability: 0.0
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.15
+          evidence_quality: 0.1
+          actionability: 0.1
   stability_seeking:
     archetypes:
       A5:
@@ -157,7 +175,13 @@ clusters:
           collective_welfare: 0.03813559322033898
           knowledge_capability: 0.05932203389830507
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.15
+          irreversibility: 0.15
+          cascade_risk: 0.15
+          evidence_quality: 0.2
+          actionability: 0.2
       A6:
         name: Retired pensioner, fixed income
         dominant_values:
@@ -173,7 +197,13 @@ clusters:
           collective_welfare: 0.06410256410256411
           knowledge_capability: 0.0
           environmental_continuity: 0.07692307692307693
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.15
+          irreversibility: 0.15
+          cascade_risk: 0.15
+          evidence_quality: 0.2
+          actionability: 0.2
       A7:
         name: Small business owner, local
         dominant_values:
@@ -189,7 +219,13 @@ clusters:
           collective_welfare: 0.0
           knowledge_capability: 0.16228070175438594
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.15
+          irreversibility: 0.15
+          cascade_risk: 0.15
+          evidence_quality: 0.2
+          actionability: 0.2
       A8:
         name: Public school teacher, modest income
         dominant_values:
@@ -205,7 +241,13 @@ clusters:
           collective_welfare: 0.2737642585551331
           knowledge_capability: 0.0
           environmental_continuity: 0.09125475285171103
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.15
+          irreversibility: 0.15
+          cascade_risk: 0.15
+          evidence_quality: 0.2
+          actionability: 0.2
   achievement_oriented:
     archetypes:
       A9:
@@ -223,7 +265,13 @@ clusters:
           collective_welfare: 0.0
           knowledge_capability: 0.2615384615384615
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.25
+          evidence_quality: 0.15
+          actionability: 0.1
       A10:
         name: Tech entrepreneur, high-risk high-reward
         dominant_values:
@@ -239,7 +287,13 @@ clusters:
           collective_welfare: 0.0
           knowledge_capability: 0.3764044943820225
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.25
+          evidence_quality: 0.15
+          actionability: 0.1
       A11:
         name: Finance/investment professional
         dominant_values:
@@ -255,7 +309,13 @@ clusters:
           collective_welfare: 0.0
           knowledge_capability: 0.10144927536231885
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.25
+          evidence_quality: 0.15
+          actionability: 0.1
       A12:
         name: Military/security professional
         dominant_values:
@@ -271,7 +331,13 @@ clusters:
           collective_welfare: 0.025974025974025972
           knowledge_capability: 0.0
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.25
+          evidence_quality: 0.15
+          actionability: 0.1
   care_oriented:
     archetypes:
       A13:
@@ -289,7 +355,13 @@ clusters:
           collective_welfare: 0.2737642585551331
           knowledge_capability: 0.0
           environmental_continuity: 0.09125475285171103
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.1
+          evidence_quality: 0.15
+          actionability: 0.1
       A14:
         name: Social worker / caseworker
         dominant_values:
@@ -304,10 +376,16 @@ clusters:
           collective_welfare: 0.33834586466165417
           knowledge_capability: 0.0
           environmental_continuity: 0.12030075187969927
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.1
+          evidence_quality: 0.15
+          actionability: 0.1
       A15:
         name: Parent of young children
-        dominant_values: *id003
+        dominant_values: *id002
         dimension_weights:
           physical_safety: 0.2320675105485232
           economic_stability: 0.10126582278481013
@@ -317,7 +395,13 @@ clusters:
           collective_welfare: 0.2151898734177215
           knowledge_capability: 0.0
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.1
+          evidence_quality: 0.15
+          actionability: 0.1
       A16:
         name: Community organiser, volunteer-driven
         dominant_values:
@@ -333,7 +417,13 @@ clusters:
           collective_welfare: 0.2696629213483146
           knowledge_capability: 0.059925093632958816
           environmental_continuity: 0.149812734082397
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.25
+          scale: 0.25
+          irreversibility: 0.15
+          cascade_risk: 0.1
+          evidence_quality: 0.15
+          actionability: 0.1
   knowledge_oriented:
     archetypes:
       A17:
@@ -351,7 +441,13 @@ clusters:
           collective_welfare: 0.18072289156626506
           knowledge_capability: 0.14457831325301204
           environmental_continuity: 0.1606425702811245
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.15
+          evidence_quality: 0.25
+          actionability: 0.15
       A18:
         name: Journalist / investigator
         dominant_values:
@@ -367,7 +463,13 @@ clusters:
           collective_welfare: 0.1210762331838565
           knowledge_capability: 0.23318385650224216
           environmental_continuity: 0.10762331838565022
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.15
+          evidence_quality: 0.25
+          actionability: 0.15
       A19:
         name: Senior engineer / technical architect
         dominant_values:
@@ -383,7 +485,13 @@ clusters:
           collective_welfare: 0.0
           knowledge_capability: 0.2946859903381643
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.15
+          evidence_quality: 0.25
+          actionability: 0.15
       A20:
         name: Legal professional / judge
         dominant_values:
@@ -399,7 +507,13 @@ clusters:
           collective_welfare: 0.19424460431654675
           knowledge_capability: 0.0
           environmental_continuity: 0.14388489208633093
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.15
+          evidence_quality: 0.25
+          actionability: 0.15
   governance_oriented:
     archetypes:
       A21:
@@ -417,7 +531,13 @@ clusters:
           collective_welfare: 0.03015075376884422
           knowledge_capability: 0.10552763819095477
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.2
+          irreversibility: 0.1
+          cascade_risk: 0.15
+          evidence_quality: 0.15
+          actionability: 0.25
       A22:
         name: Public servant / regulator
         dominant_values:
@@ -433,7 +553,13 @@ clusters:
           collective_welfare: 0.13095238095238096
           knowledge_capability: 0.0
           environmental_continuity: 0.0634920634920635
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.2
+          irreversibility: 0.1
+          cascade_risk: 0.15
+          evidence_quality: 0.15
+          actionability: 0.25
       A23:
         name: Diplomat / international organisation
         dominant_values:
@@ -449,7 +575,13 @@ clusters:
           collective_welfare: 0.20300751879699247
           knowledge_capability: 0.05263157894736841
           environmental_continuity: 0.15037593984962405
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.2
+          irreversibility: 0.1
+          cascade_risk: 0.15
+          evidence_quality: 0.15
+          actionability: 0.25
       A24:
         name: Religious leader / moral authority
         dominant_values:
@@ -465,7 +597,13 @@ clusters:
           collective_welfare: 0.22535211267605637
           knowledge_capability: 0.0
           environmental_continuity: 0.14084507042253522
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.15
+          scale: 0.2
+          irreversibility: 0.1
+          cascade_risk: 0.15
+          evidence_quality: 0.15
+          actionability: 0.25
   sovereignty_order_oriented:
     archetypes:
       A25:
@@ -475,15 +613,24 @@ clusters:
         - Conformity
         - Power
         dimension_weights:
-          physical_safety: 0.2777777777777778
-          economic_stability: 0.2222222222222222
-          institutional_trust: 0.29059829059829057
-          social_cohesion: 0.17094017094017092
-          individual_autonomy: 0.0
-          collective_welfare: 0.03846153846153846
+          physical_safety: 0.26104417670682734
+          economic_stability: 0.20883534136546184
+          institutional_trust: 0.27309236947791166
+          social_cohesion: 0.1606425702811245
+          individual_autonomy: -0.040160642570281124
+          collective_welfare: 0.03614457831325301
           knowledge_capability: 0.0
-          environmental_continuity: 0.0
-        meta_weights: *id002
+          environmental_continuity: -0.020080321285140562
+        meta_weights:
+          urgency: 0.2
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
+        dimension_adjustments:
+          individual_autonomy: -0.1
+          environmental_continuity: -0.05
       A26:
         name: Law-and-order conservative
         dominant_values:
@@ -491,15 +638,23 @@ clusters:
         - Conformity
         - Tradition
         dimension_weights:
-          physical_safety: 0.2415254237288136
-          economic_stability: 0.16949152542372883
-          institutional_trust: 0.2711864406779661
-          social_cohesion: 0.2033898305084746
-          individual_autonomy: 0.0
-          collective_welfare: 0.0635593220338983
+          physical_safety: 0.23170731707317077
+          economic_stability: 0.1626016260162602
+          institutional_trust: 0.2601626016260163
+          social_cohesion: 0.1951219512195122
+          individual_autonomy: -0.04065040650406505
+          collective_welfare: 0.06097560975609756
           knowledge_capability: 0.0
-          environmental_continuity: 0.05084745762711865
-        meta_weights: *id002
+          environmental_continuity: 0.04878048780487805
+        meta_weights:
+          urgency: 0.2
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
+        dimension_adjustments:
+          individual_autonomy: -0.1
       A27:
         name: Anti-globalisation protectionist
         dominant_values:
@@ -507,15 +662,23 @@ clusters:
         - Self-Direction
         - Conformity
         dimension_weights:
-          physical_safety: 0.22943722943722944
-          economic_stability: 0.17316017316017315
-          institutional_trust: 0.22510822510822512
-          social_cohesion: 0.12554112554112554
-          individual_autonomy: 0.1168831168831169
-          collective_welfare: 0.025974025974025972
-          knowledge_capability: 0.10389610389610389
+          physical_safety: 0.25
+          economic_stability: 0.18867924528301888
+          institutional_trust: 0.24528301886792453
+          social_cohesion: 0.13679245283018868
+          individual_autonomy: 0.12735849056603774
+          collective_welfare: 0.028301886792452827
+          knowledge_capability: -0.02358490566037736
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.2
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
+        dimension_adjustments:
+          knowledge_capability: -0.05
       A28:
         name: Status-preserving elite / establishment
         dominant_values:
@@ -523,15 +686,23 @@ clusters:
         - Security
         - Achievement
         dimension_weights:
-          physical_safety: 0.22065727699530513
-          economic_stability: 0.31924882629107976
-          institutional_trust: 0.27699530516431925
-          social_cohesion: 0.08920187793427228
-          individual_autonomy: 0.028169014084507036
-          collective_welfare: 0.0
-          knowledge_capability: 0.06572769953051641
+          physical_safety: 0.21076233183856505
+          economic_stability: 0.304932735426009
+          institutional_trust: 0.2645739910313902
+          social_cohesion: 0.08520179372197309
+          individual_autonomy: 0.026905829596412554
+          collective_welfare: -0.044843049327354265
+          knowledge_capability: 0.06278026905829596
           environmental_continuity: 0.0
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.2
+          scale: 0.15
+          irreversibility: 0.2
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
+        dimension_adjustments:
+          collective_welfare: -0.1
   expression_oriented:
     archetypes:
       A29:
@@ -549,7 +720,13 @@ clusters:
           collective_welfare: 0.08695652173913043
           knowledge_capability: 0.28019323671497587
           environmental_continuity: 0.07729468599033817
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.1
+          evidence_quality: 0.25
+          actionability: 0.15
       A30:
         name: Student / young activist
         dominant_values:
@@ -558,14 +735,22 @@ clusters:
         - Self-Direction
         dimension_weights:
           physical_safety: 0.0
-          economic_stability: 0.024390243902439025
-          institutional_trust: 0.13821138211382114
-          social_cohesion: 0.1016260162601626
-          individual_autonomy: 0.25203252032520324
-          collective_welfare: 0.18292682926829268
-          knowledge_capability: 0.13821138211382114
-          environmental_continuity: 0.1626016260162602
-        meta_weights: *id002
+          economic_stability: 0.027649769585253454
+          institutional_trust: -0.02304147465437788
+          social_cohesion: 0.1152073732718894
+          individual_autonomy: 0.2857142857142857
+          collective_welfare: 0.20737327188940094
+          knowledge_capability: 0.1566820276497696
+          environmental_continuity: 0.18433179723502305
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.1
+          evidence_quality: 0.25
+          actionability: 0.15
+        dimension_adjustments:
+          institutional_trust: -0.05
       A31:
         name: Indigenous rights advocate
         dominant_values:
@@ -581,7 +766,13 @@ clusters:
           collective_welfare: 0.17948717948717952
           knowledge_capability: 0.0683760683760684
           environmental_continuity: 0.2307692307692308
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.1
+          evidence_quality: 0.25
+          actionability: 0.15
       A32:
         name: LGBTQ+ rights advocate in restrictive context
         dominant_values:
@@ -597,7 +788,13 @@ clusters:
           collective_welfare: 0.1111111111111111
           knowledge_capability: 0.1646090534979424
           environmental_continuity: 0.09876543209876543
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.25
+          cascade_risk: 0.1
+          evidence_quality: 0.25
+          actionability: 0.15
   ecosystem_oriented:
     archetypes:
       A33:
@@ -614,7 +811,13 @@ clusters:
           collective_welfare: 0.20149253731343283
           knowledge_capability: 0.11940298507462688
           environmental_continuity: 0.1791044776119403
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.3
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
       A34:
         name: Farmer / land steward, sustainability-oriented
         dominant_values:
@@ -630,7 +833,13 @@ clusters:
           collective_welfare: 0.18345323741007197
           knowledge_capability: 0.0
           environmental_continuity: 0.18705035971223025
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.3
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
       A35:
         name: Urban planner / infrastructure designer
         dominant_values:
@@ -646,7 +855,13 @@ clusters:
           collective_welfare: 0.1088709677419355
           knowledge_capability: 0.1411290322580645
           environmental_continuity: 0.0967741935483871
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.3
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1
       A36:
         name: Elder / intergenerational steward
         dominant_values:
@@ -662,4 +877,10 @@ clusters:
           collective_welfare: 0.2479338842975207
           knowledge_capability: 0.0
           environmental_continuity: 0.22314049586776863
-        meta_weights: *id002
+        meta_weights:
+          urgency: 0.1
+          scale: 0.15
+          irreversibility: 0.3
+          cascade_risk: 0.25
+          evidence_quality: 0.1
+          actionability: 0.1

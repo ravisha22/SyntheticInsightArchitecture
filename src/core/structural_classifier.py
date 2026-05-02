@@ -13,46 +13,113 @@ class MockClassifier:
 
     DIMENSION_KEYWORDS = {
         "physical_safety": {
-            "positive": ["peace", "ceasefire", "safety", "protection", "rescue", "secure", "recovered"],
-            "negative": ["war", "death", "violence", "attack", "bomb", "shooting", "kill", "injury", "outbreak"],
+            "positive": [
+                "peace",
+                "ceasefire",
+                "safety",
+                "protection",
+                "rescue",
+                "secure",
+                "recovered",
+                "vaccin*",
+                "evacuat*",
+            ],
+            "negative": [
+                "war",
+                "death",
+                "violence",
+                "attack",
+                "bomb",
+                "shooting",
+                "kill",
+                "injury",
+                "outbreak",
+                "missile",
+                "shell*",
+                "explosion",
+                "epidem*",
+                "cyberattack",
+            ],
         },
         "economic_stability": {
-            "positive": ["growth", "jobs", "stable", "investment", "affordable", "recovery", "profit"],
-            "negative": ["inflation", "layoff", "debt", "recession", "unemployment", "bankrupt", "poverty"],
+            "positive": ["growth", "jobs", "stable", "investment", "affordable", "recovery", "profit", "stabiliz*", "wage*"],
+            "negative": [
+                "inflation",
+                "layoff",
+                "debt",
+                "recession",
+                "unemployment",
+                "bankrupt",
+                "poverty",
+                "sanction*",
+                "tariff*",
+                "default",
+            ],
         },
         "institutional_trust": {
-            "positive": ["reliable", "compliance", "transparent", "court", "audit", "verified", "governance"],
-            "negative": ["corruption", "fraud", "breach", "failure", "outage", "scandal", "misconduct"],
+            "positive": [
+                "reliable",
+                "compliance",
+                "transparent",
+                "court",
+                "audit",
+                "verified",
+                "governance",
+                "oversight",
+                "accountab*",
+            ],
+            "negative": ["corruption", "fraud", "breach", "failure", "outage", "scandal", "misconduct", "coup", "cover-up"],
         },
         "social_cohesion": {
-            "positive": ["community", "solidarity", "cooperation", "support", "inclusion", "unity"],
-            "negative": ["polarization", "riot", "hate", "division", "discrimination", "conflict"],
+            "positive": ["community", "solidarity", "cooperation", "support", "inclusion", "unity", "reconciliation"],
+            "negative": ["polarization", "riot", "hate", "division", "discrimination", "conflict", "sectarian"],
         },
         "individual_autonomy": {
-            "positive": ["rights", "freedom", "privacy", "choice", "agency", "consent", "self-determination"],
-            "negative": ["ban", "censorship", "surveillance", "restriction", "coercion", "detention"],
+            "positive": [
+                "rights",
+                "freedom",
+                "privacy",
+                "choice",
+                "agency",
+                "consent",
+                "self-determination",
+                "legali*",
+                "decriminali*",
+            ],
+            "negative": ["ban", "censorship", "surveillance", "restriction", "coercion", "detention", "curfew", "shutdown"],
         },
         "collective_welfare": {
-            "positive": ["equity", "care", "access", "benefit", "welfare", "coverage", "aid"],
-            "negative": ["exclusion", "shortage", "inequality", "hunger", "homelessness", "neglect"],
+            "positive": ["equity", "care", "access", "benefit", "welfare", "coverage", "aid", "relief", "shelter"],
+            "negative": ["exclusion", "shortage", "inequality", "hunger", "homelessness", "neglect", "famine", "displac*"],
         },
         "knowledge_capability": {
-            "positive": ["research", "education", "innovation", "science", "fix", "learning", "tooling"],
-            "negative": ["bug", "regression", "misinformation", "ignorance", "failure", "broken", "crash"],
+            "positive": ["research", "education", "innovation", "science", "fix", "learning", "tooling", "breakthrough", "patch"],
+            "negative": ["bug", "regression", "misinformation", "ignorance", "failure", "broken", "crash", "exploit", "vulnera*"],
         },
         "environmental_continuity": {
-            "positive": ["conservation", "renewable", "clean", "sustainable", "restoration", "biodiversity"],
-            "negative": ["pollution", "wildfire", "flood", "drought", "emission", "contamination", "collapse"],
+            "positive": ["conservation", "renewable", "clean", "sustainable", "restoration", "biodiversity", "reforest*"],
+            "negative": [
+                "pollution",
+                "wildfire",
+                "flood",
+                "drought",
+                "emission",
+                "contamination",
+                "collapse",
+                "heatwave",
+                "deforestation",
+                "oil spill",
+            ],
         },
     }
 
     META_KEYWORDS = {
-        "urgency": ["urgent", "immediate", "breaking", "now", "critical", "today", "alert"],
-        "scale": ["global", "nationwide", "widespread", "millions", "systemic", "platform-wide", "all users"],
-        "irreversibility": ["irreversible", "permanent", "long-term", "extinction", "fatal", "destroyed"],
-        "cascade_risk": ["cascade", "spillover", "domino", "chain reaction", "dependency", "propagat"],
-        "evidence_quality": ["study", "report", "data", "official", "confirmed", "verified", "peer-reviewed"],
-        "actionability": ["plan", "deploy", "mitigate", "respond", "fix", "intervention", "roadmap"],
+        "urgency": ["urgent", "immediate", "breaking", "now", "critical", "today", "alert", "emergency", "deadline"],
+        "scale": ["global", "nationwide", "widespread", "millions", "systemic", "platform-wide", "all users", "regional"],
+        "irreversibility": ["irreversible", "permanent", "long-term", "extinction", "fatal", "destroyed", "locked-in"],
+        "cascade_risk": ["cascade", "spillover", "domino", "chain reaction", "dependency", "propagat", "knock-on", "ripple"],
+        "evidence_quality": ["study", "report", "data", "official", "confirmed", "verified", "peer-reviewed", "analysis", "survey"],
+        "actionability": ["plan", "deploy", "mitigate", "respond", "fix", "intervention", "roadmap", "rollback", "patch"],
     }
 
     def _combine_text(self, signal: dict[str, Any]) -> str:
@@ -64,7 +131,10 @@ class MockClassifier:
     def _count_matches(self, text: str, keywords: list[str]) -> int:
         total = 0
         for keyword in keywords:
-            if " " in keyword or "-" in keyword or keyword == "propagat":
+            if keyword.endswith("*"):
+                stem = keyword[:-1]
+                total += len(re.findall(rf"\b{re.escape(stem)}\w*\b", text))
+            elif " " in keyword or "-" in keyword or keyword == "propagat":
                 total += len(re.findall(re.escape(keyword), text))
             else:
                 total += len(re.findall(rf"\b{re.escape(keyword)}\w*\b", text))
@@ -143,8 +213,13 @@ class LLMClassifier:
                 "required": ["dimensions", "meta"],
             },
         )
-        dimensions = response.get("dimensions", response if isinstance(response, dict) else {})
+        response = response if isinstance(response, dict) else {}
+        dimensions = response.get("dimensions", response)
         meta = response.get("meta", {})
+        if not isinstance(dimensions, dict):
+            dimensions = {}
+        if not isinstance(meta, dict):
+            meta = {}
         return {
             "signal_id": signal.get("signal_id") or signal.get("id") or signal.get("title", "signal"),
             "title": signal.get("title", ""),

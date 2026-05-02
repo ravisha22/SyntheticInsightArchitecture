@@ -12,4 +12,4 @@ expert_prior:
 signal_sources:
 - type: case_reports
 - type: surveys
-primary_endpoint: service_outcome_data
+benchmark: service_outcome_data

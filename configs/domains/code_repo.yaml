@@ -11,4 +11,4 @@ expert_prior:
   environmental_continuity: 0.5
 signal_sources:
 - type: github_issues
-primary_endpoint: bug_resolution_impact
+benchmark: bug_resolution_impact
