@@ -105,6 +105,19 @@
       "validated_at": null
     },
     {
+      "id": "2fe7046268cce9cb",
+      "created_at": "2026-05-02",
+      "root_cause": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "prediction": "Momentum around Australia wants to become the first country to eliminate a cancer - can it? is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-05-16",
+      "falsification": "Signals tied to Australia wants to become the first country to eliminate a cancer - can it? fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "e8afa007b542e1ed",
       "created_at": "2026-05-02",
       "root_cause": "Iran Conflict and Global Instability",
@@ -287,5 +300,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-05-01T21:01:10.392816+00:00"
+  "last_updated": "2026-05-02T07:43:00.522676+00:00"
 }
