@@ -23,8 +23,15 @@ import requests
 MODULE_DIR = Path(__file__).resolve().parent
 if str(MODULE_DIR) not in sys.path:
     sys.path.insert(0, str(MODULE_DIR))
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 from auth_middleware import SIAAuth
+from src.core.domain_registry import load_domain_profile
+from src.core.persona_ensemble import load_ensemble
+from src.core.prioritization_engine import PrioritizationEngine
+from src.core.structural_classifier import LLMClassifier, MockClassifier
 
 
 LOGGER = logging.getLogger("sia.daily_run")
@@ -252,7 +259,9 @@ def stories_to_signals(stories: list[dict]) -> list[dict]:
     return signals
 
 
-def _chat_completion(messages: list[dict], *, max_tokens: int = 2500, temperature: float = 0.2) -> str:
+def _chat_completion(
+    messages: list[dict], *, max_tokens: int = 2500, temperature: float = 0.2, json_mode: bool = True
+) -> str:
     endpoint = os.environ.get("AZURE_OPENAI_ENDPOINT", "").rstrip("/")
     deployment = os.environ.get("AZURE_OPENAI_DEPLOYMENT", "")
     api_key = os.environ.get("AZURE_OPENAI_KEY", "")
@@ -268,7 +277,7 @@ def _chat_completion(messages: list[dict], *, max_tokens: int = 2500, temperatur
             "messages": messages,
             "temperature": temperature,
             "max_tokens": max_tokens,
-            "response_format": {"type": "json_object"},
+            **({"response_format": {"type": "json_object"}} if json_mode else {}),
         },
         timeout=180,
     )
@@ -331,6 +340,284 @@ def heuristic_analysis(stories: list[dict]) -> dict:
         "narrative": "Azure OpenAI configuration was unavailable, so a heuristic local analysis was generated.",
         "noise_filtered": [story.get("title", "") for story in stories[3:6]],
     }
+
+
+class DailyRunAdapter:
+    """Adapter that wraps daily_run's chat helper for the core classifier."""
+
+    def analyze(self, system: str, user: str, json_schema: dict | None = None) -> dict:
+        if json_schema:
+            system = f"{system}\nReturn JSON matching this schema as closely as possible:\n{json.dumps(json_schema, indent=2)}"
+        raw = _chat_completion(
+            [
+                {"role": "system", "content": system},
+                {"role": "user", "content": user},
+            ],
+            temperature=0.0,
+            json_mode=True,
+        )
+        return _extract_json(raw) or {}
+
+
+def mood_emoji(label: str) -> str:
+    return {
+        "constructive": "🟢",
+        "cautious": "🟡",
+        "concerning": "🔴",
+        "transitional": "🟠",
+    }.get((label or "").strip().lower(), "⚪")
+
+
+def _sort_cluster_scores(cluster_scores: dict[str, float], *, reverse: bool) -> list[tuple[str, float]]:
+    return sorted(
+        ((str(name), float(score)) for name, score in (cluster_scores or {}).items()),
+        key=lambda item: (item[1], item[0]),
+        reverse=reverse,
+    )
+
+
+def _normalize_priority_signal(signal: dict) -> dict:
+    cluster_scores = signal.get("cluster_means") or signal.get("cluster_mean_scores") or {}
+    top_clusters = {name: score for name, score in _sort_cluster_scores(cluster_scores, reverse=True)[:2]}
+    bottom_clusters = {name: score for name, score in _sort_cluster_scores(cluster_scores, reverse=False)[:1]}
+    normalized = {
+        "signal_id": signal.get("signal_id", signal.get("title", "signal")),
+        "title": signal.get("title", ""),
+        "source": signal.get("source", ""),
+        "url": signal.get("url", ""),
+        "published": signal.get("published", ""),
+        "priority_score": float(signal.get("priority_score", 0.0)),
+        "contest_score": float(signal.get("contest_score", 0.0)),
+        "category": signal.get("category", "background_noise"),
+        "polarity": int(signal.get("polarity", 0)),
+        "sign_agreement": float(signal.get("sign_agreement", 0.0)),
+        "central_tendency": float(signal.get("central_tendency", 0.0)),
+        "contestedness": float(signal.get("contestedness", 0.0)),
+        "impact": float(signal.get("impact", 0.0)),
+        "top_clusters": top_clusters,
+        "bottom_clusters": bottom_clusters,
+        "cluster_means": {name: float(score) for name, score in cluster_scores.items()},
+    }
+    if "priority_raw" in signal:
+        normalized["priority_raw"] = float(signal.get("priority_raw", 0.0))
+    if "contest_raw" in signal:
+        normalized["contest_raw"] = float(signal.get("contest_raw", 0.0))
+    return normalized
+
+
+def run_core_analysis(stories: list[dict], domain: str = "world_affairs") -> dict:
+    """Run the persona-ensemble prioritisation engine on collected stories."""
+
+    ensemble_path = PROJECT_ROOT / "configs" / "persona_ensemble.yaml"
+    ensemble = load_ensemble(ensemble_path)
+    domain_profile = load_domain_profile(domain)
+
+    has_llm = all(
+        [
+            os.environ.get("AZURE_OPENAI_ENDPOINT", "").strip(),
+            os.environ.get("AZURE_OPENAI_DEPLOYMENT", "").strip(),
+            os.environ.get("AZURE_OPENAI_KEY", "").strip(),
+        ]
+    )
+    classifier = LLMClassifier(DailyRunAdapter()) if has_llm else MockClassifier()
+
+    classified_signals = []
+    for index, story in enumerate(stories, start=1):
+        signal = {
+            "signal_id": story.get("url") or normalize_title(story.get("title", "")) or f"story-{index}",
+            "title": story.get("title", ""),
+            "body": story.get("body", ""),
+            "tags": extract_keywords(f"{story.get('title', '')} {story.get('body', '')}")[:6],
+            "source": story.get("source", ""),
+            "url": story.get("url", ""),
+            "published": story.get("published", ""),
+        }
+        classification = classifier.classify(signal)
+        classification["title"] = signal["title"]
+        classification["source"] = signal["source"]
+        classification["url"] = signal["url"]
+        classification["published"] = signal["published"]
+        classified_signals.append(classification)
+
+    result = PrioritizationEngine(ensemble, domain_profile).prioritize(classified_signals, budget=10)
+    ranked_signals = [_normalize_priority_signal(signal) for signal in result.ranked_signals]
+    mood = dict(result.portfolio_mood)
+    mood["emoji"] = mood_emoji(mood.get("label", ""))
+    return {
+        "priorities": ranked_signals,
+        "selected_priorities": [_normalize_priority_signal(signal) for signal in result.selected_signals],
+        "mood": mood,
+        "noise_filtered": [signal["title"] for signal in ranked_signals if signal.get("category") == "background_noise"],
+    }
+
+
+def _priority_prediction_text(priority: dict) -> str:
+    title = priority.get("title", "this signal")
+    category = priority.get("category", "background_noise")
+    polarity = int(priority.get("polarity", 0))
+    if category == "contested_priority":
+        return f"{title} is likely to trigger divergent responses as the underlying direction remains contested."
+    if polarity < 0:
+        return f"Pressure around {title} is likely to intensify or spill over without intervention."
+    if polarity > 0:
+        return f"Momentum around {title} is likely to compound if current conditions hold."
+    return f"{title} is likely to remain unstable until clearer directional evidence appears."
+
+
+def generate_predictions(priorities: list[dict]) -> list[dict]:
+    """Create lightweight prediction entries from top-ranked priorities."""
+
+    predictions = []
+    timelines = {
+        "convergent_priority": "1-2 weeks",
+        "contested_priority": "2-4 weeks",
+        "niche_concern": "4-8 weeks",
+        "background_noise": "4-8 weeks",
+    }
+    severities = {
+        "convergent_priority": "high",
+        "contested_priority": "high",
+        "niche_concern": "medium",
+        "background_noise": "low",
+    }
+    for priority in priorities:
+        if priority.get("category") == "background_noise":
+            continue
+        title = priority.get("title", "Unknown signal")
+        predictions.append(
+            {
+                "root_cause": title,
+                "prediction": _priority_prediction_text(priority),
+                "timeline": timelines.get(priority.get("category", ""), "2-4 weeks"),
+                "falsification": f"Signals tied to {title} fade or reverse without downstream spillover.",
+                "severity": severities.get(priority.get("category", ""), "medium"),
+            }
+        )
+        if len(predictions) >= 5:
+            break
+    return predictions
+
+
+def build_legacy_root_causes(priorities: list[dict]) -> list[dict]:
+    """Map engine priorities to the legacy root_causes shape."""
+
+    severity_map = {
+        "convergent_priority": "high",
+        "contested_priority": "major",
+        "niche_concern": "moderate",
+        "background_noise": "low",
+    }
+    root_causes = []
+    for priority in sorted(priorities, key=lambda item: item.get("priority_score", 0.0), reverse=True)[:5]:
+        prediction = _priority_prediction_text(priority)
+        root_causes.append(
+            {
+                "name": priority.get("title", "Unknown signal"),
+                "severity": severity_map.get(priority.get("category", ""), priority.get("category", "unknown")),
+                "rationale": f"Priority: {priority.get('priority_score', 0.0):.2f}, Contest: {priority.get('contest_score', 0.0):.2f}",
+                "signal_count": 1,
+                "signals": [priority.get("title", "Unknown signal")],
+                "timeline": "1-4 weeks",
+                "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+                "prediction": prediction,
+                "falsification": f"Signals tied to {priority.get('title', 'this signal')} fade or reverse without spillover.",
+            }
+        )
+    return root_causes
+
+
+def generate_narrative(stories: list[dict], priorities: list[dict], mood: dict) -> str:
+    """Use LLM to write narrative informed by engine priorities."""
+
+    top_priorities = [
+        priority
+        for priority in priorities
+        if priority.get("category") in ("convergent_priority", "contested_priority")
+    ][:5]
+    priority_context = "\n".join(
+        [
+            (
+                f"- {priority.get('title', 'Unknown')} "
+                f"(priority: {priority.get('priority_score', 0.0):.2f}, category: {priority.get('category', 'unknown')}, "
+                f"contestedness: {priority.get('contestedness', 0.0):.2f})"
+            )
+            for priority in top_priorities
+        ]
+    ) or "- No clear convergent or contested priorities were identified."
+
+    prompt = f"""You are writing the daily SIA intelligence briefing narrative.
+
+The persona-ensemble prioritisation engine has scored today's signals.
+The portfolio mood is: {mood.get('label', 'cautious')} ({mood.get('emoji', '⚪')}, score: {float(mood.get('score', 0.0)):.2f})
+
+Top priorities identified by the ensemble:
+{priority_context}
+
+Write a 3-5 paragraph narrative that:
+1. Opens with the overall mood and what it means
+2. Explains WHY the top signals matter structurally (not just what happened)
+3. Notes any contested signals where the ensemble disagreed on direction
+4. Connects the signals to longer-term trajectories
+5. Closes with what to watch for next
+
+Write as an editorial briefing, not a news summary. Focus on undertones, not headlines."""
+
+    try:
+        raw = _chat_completion(
+            [
+                {"role": "system", "content": "You are the SIA editorial intelligence analyst."},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=0.3,
+            max_tokens=1200,
+            json_mode=False,
+        )
+        if raw.strip():
+            return raw.strip()
+    except Exception as exc:  # pragma: no cover - live AOAI only
+        LOGGER.warning("Narrative generation fallback used: %s", exc)
+
+    if not priorities:
+        return "The portfolio is quiet today, with no structurally significant priorities emerging from the signal set."
+
+    lead = priorities[0]
+    contested = [priority for priority in priorities if priority.get("category") == "contested_priority"]
+    return (
+        f"Today reads as {mood.get('label', 'cautious')} {mood.get('emoji', '⚪')}: the ensemble sees "
+        f"{lead.get('title', 'the leading signal')} as the clearest structural priority. "
+        f"The emphasis is less about headline volume than about compounding exposure across multiple value clusters. "
+        f"{'Several signals remain directionally contested, suggesting unstable adaptation rather than settled change. ' if contested else ''}"
+        f"Watch whether these pressures broaden into adjacent systems over the next reporting cycle."
+    )
+
+
+def _priority_key(item: dict) -> str:
+    return normalize_title(item.get("title", item.get("name", "")))
+
+
+def _priority_records(payload: dict) -> list[dict]:
+    priorities = payload.get("priorities")
+    if priorities:
+        return [item for item in priorities if _priority_key(item)]
+    legacy = []
+    for cause in payload.get("root_causes", []):
+        legacy.append(
+            {
+                "title": cause.get("name", ""),
+                "category": cause.get("severity", "unknown"),
+                "priority_score": 0.0,
+            }
+        )
+    return [item for item in legacy if _priority_key(item)]
+
+
+def _signal_freshness(current: dict, previous: dict) -> tuple[int, int, int]:
+    prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
+    curr_titles = {s.get("title", "").lower() for s in current.get("stories", [])}
+    new_stories = len(curr_titles - prev_titles)
+    carried_stories = len(curr_titles & prev_titles)
+    total_stories = len(current.get("stories", []))
+    return new_stories, carried_stories, total_stories
 
 
 def analyze_stories(stories: list[dict]) -> dict:
@@ -412,49 +699,62 @@ def compute_maturity_date(created_at: str, timeline: str) -> str | None:
 
 def compute_delta(current: dict, previous: dict) -> dict:
     """Compare today's analysis against yesterday's."""
-    if not previous or not previous.get("root_causes"):
+    previous_priorities = { _priority_key(item): item for item in _priority_records(previous) }
+    current_priorities = { _priority_key(item): item for item in _priority_records(current) }
+    if not previous_priorities:
         return {"is_first_run": True, "summary": "First analysis run — no prior data to compare."}
 
-    prev_causes = {c.get("name", "").lower(): c for c in previous.get("root_causes", [])}
-    curr_causes = {c.get("name", "").lower(): c for c in current.get("root_causes", [])}
+    new_convergent = [
+        item["title"]
+        for key, item in current_priorities.items()
+        if key not in previous_priorities and item.get("category") == "convergent_priority"
+    ]
+    new_contested = [
+        item["title"]
+        for key, item in current_priorities.items()
+        if key not in previous_priorities and item.get("category") == "contested_priority"
+    ]
+    removed_priorities = [item.get("title", "") for key, item in previous_priorities.items() if key not in current_priorities]
+    category_changes = []
+    for key, item in current_priorities.items():
+        if key in previous_priorities:
+            prev_category = previous_priorities[key].get("category", previous_priorities[key].get("severity", "unknown"))
+            curr_category = item.get("category", item.get("severity", "unknown"))
+            if prev_category != curr_category:
+                category_changes.append(f"{item.get('title', 'Unknown')}: {prev_category} → {curr_category}")
 
-    new_causes = [curr_causes[k]["name"] for k in curr_causes if k not in prev_causes]
-    removed_causes = [prev_causes[k]["name"] for k in prev_causes if k not in curr_causes]
-    continuing_causes = [curr_causes[k]["name"] for k in curr_causes if k in prev_causes]
+    previous_mood = previous.get("mood", {}).get("label", "")
+    current_mood = current.get("mood", {}).get("label", "")
+    mood_shift = ""
+    if previous_mood and current_mood and previous_mood != current_mood:
+        mood_shift = f"Mood shifted from {previous_mood} to {current_mood}"
 
-    severity_changes = []
-    for key in curr_causes:
-        if key in prev_causes:
-            prev_sev = prev_causes[key].get("severity", "")
-            curr_sev = curr_causes[key].get("severity", "")
-            if prev_sev != curr_sev:
-                severity_changes.append(f"{curr_causes[key]['name']}: {prev_sev} → {curr_sev}")
-
-    prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
-    curr_titles = {s.get("title", "").lower() for s in current.get("stories", [])}
-    new_stories = len(curr_titles - prev_titles)
-    carried_stories = len(curr_titles & prev_titles)
-    total_stories = len(current.get("stories", []))
+    new_stories, carried_stories, total_stories = _signal_freshness(current, previous)
+    continuing_priorities = [item.get("title", "") for key, item in current_priorities.items() if key in previous_priorities]
 
     parts = []
-    if new_causes:
-        parts.append(f"{len(new_causes)} new root cause(s) emerged: {', '.join(new_causes)}")
-    if removed_causes:
-        parts.append(f"{len(removed_causes)} root cause(s) dropped: {', '.join(removed_causes)}")
-    if severity_changes:
-        parts.append(f"Severity shifted: {'; '.join(severity_changes)}")
-    if not new_causes and not removed_causes and not severity_changes:
-        parts.append(f"No structural shift — all {len(continuing_causes)} root causes from yesterday persist")
-    parts.append(
-        f"Signal freshness: {new_stories} new stories, {carried_stories} carried over from yesterday, {total_stories} total"
-    )
+    if new_convergent:
+        parts.append(f"{len(new_convergent)} new convergent priorities emerged: {', '.join(new_convergent)}")
+    if new_contested:
+        parts.append(f"{len(new_contested)} new contested priorities emerged: {', '.join(new_contested)}")
+    if removed_priorities:
+        parts.append(f"{len(removed_priorities)} priorities dropped: {', '.join(removed_priorities)}")
+    if category_changes:
+        parts.append(f"Priority category shifted: {'; '.join(category_changes)}")
+    if mood_shift:
+        parts.append(mood_shift)
+    if not parts:
+        parts.append(f"Priority mix broadly stable — {len(continuing_priorities)} priorities carried from yesterday")
+    parts.append(f"Signal freshness: {new_stories} new, {carried_stories} carried, {total_stories} total")
 
     return {
         "is_first_run": False,
-        "new_causes": new_causes,
-        "removed_causes": removed_causes,
-        "continuing_causes": continuing_causes,
-        "severity_changes": severity_changes,
+        "new_convergent": new_convergent,
+        "new_contested": new_contested,
+        "removed_priorities": removed_priorities,
+        "category_changes": category_changes,
+        "mood_shift": mood_shift,
+        "continuing_priorities": continuing_priorities,
         "new_stories": new_stories,
         "carried_stories": carried_stories,
         "total_stories": total_stories,
@@ -635,43 +935,118 @@ def prediction_age_text(prediction: dict, today: str) -> str:
     return f"{elapsed} days elapsed"
 
 
+def category_badge_class(category: str) -> str:
+    return {
+        "convergent_priority": "category-convergent",
+        "contested_priority": "category-contested",
+        "niche_concern": "category-niche",
+        "background_noise": "category-noise",
+    }.get((category or "").strip().lower(), "category-noise")
+
+
+def category_label(category: str) -> str:
+    return str(category or "background_noise").replace("_", " ").title()
+
+
+def signal_direction(priority: dict) -> str:
+    polarity = int(priority.get("polarity", 0))
+    agreement = float(priority.get("sign_agreement", 0.0))
+    if agreement < 0.6:
+        return "↔ mixed"
+    if polarity > 0:
+        return "↗ positive"
+    if polarity < 0:
+        return "↘ negative"
+    return "→ flat"
+
+
+def build_email_subject(report: dict) -> str:
+    priorities = report.get("priorities", [])
+    mood = report.get("mood", {})
+    convergent = sum(1 for item in priorities if item.get("category") == "convergent_priority")
+    contested = sum(1 for item in priorities if item.get("category") == "contested_priority")
+    noise = sum(1 for item in priorities if item.get("category") == "background_noise")
+    return (
+        f"[SIA] {mood.get('emoji', '⚪')} {str(mood.get('label', 'unknown')).title()} — "
+        f"{convergent} convergent, {contested} contested, {noise} noise"
+    )
+
+
+def _render_priority_cards(priorities: list[dict], empty_message: str) -> str:
+    cards = []
+    for priority in priorities:
+        cards.append(
+            "<div style='background:#f8fafc;border:1px solid #cbd5e1;border-radius:14px;padding:14px;margin:12px 0;'>"
+            f"<p style='margin:0 0 8px 0;'><span style='display:inline-block;padding:4px 10px;border-radius:999px;background:#e2e8f0;'>"
+            f"{escape(category_label(priority.get('category', 'background_noise')))}</span></p>"
+            f"<h3 style='margin:0 0 8px 0;'>{escape(priority.get('title', 'Unknown'))}</h3>"
+            f"<p style='margin:0 0 6px 0;'><strong>Priority:</strong> {priority.get('priority_score', 0.0):.2f} "
+            f"· <strong>Contestedness:</strong> {priority.get('contestedness', 0.0):.2f}</p>"
+            f"<p style='margin:0;'><strong>Direction:</strong> {escape(signal_direction(priority))}</p>"
+            "</div>"
+        )
+    return "".join(cards) or f"<p>{escape(empty_message)}</p>"
+
+
 def _render_delta_html(delta: dict) -> str:
     """Render the delta comparison as structured HTML with proper formatting."""
     if delta.get("is_first_run"):
         return "<p>First analysis run — no prior data to compare.</p>"
 
     lines = []
-    new_causes = delta.get("new_causes", [])
-    removed_causes = delta.get("removed_causes", [])
-    severity_changes = delta.get("severity_changes", [])
-    continuing = delta.get("continuing_causes", [])
+    new_convergent = delta.get("new_convergent", [])
+    new_contested = delta.get("new_contested", [])
+    removed_priorities = delta.get("removed_priorities", [])
+    category_changes = delta.get("category_changes", [])
+    continuing = delta.get("continuing_priorities", [])
+    mood_shift = delta.get("mood_shift", "")
 
-    if not new_causes and not removed_causes and not severity_changes:
-        lines.append(f"<p style='margin:0 0 8px;'><strong>No structural shift</strong> — all {len(continuing)} root causes from yesterday persist.</p>")
+    if not new_convergent and not new_contested and not removed_priorities and not category_changes and not mood_shift:
+        lines.append(
+            f"<p style='margin:0 0 8px;'><strong>No major reprioritisation</strong> — "
+            f"{len(continuing)} priorities carried from yesterday.</p>"
+        )
     else:
-        if new_causes:
-            items = "".join(f"<li>{escape(c)}</li>" for c in new_causes)
-            lines.append(f"<p style='margin:0 0 4px;'><strong>New root causes emerged:</strong></p><ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>")
-        if removed_causes:
-            items = "".join(f"<li>{escape(c)}</li>" for c in removed_causes)
-            lines.append(f"<p style='margin:0 0 4px;'><strong>Root causes dropped:</strong></p><ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>")
-        if severity_changes:
-            items = "".join(f"<li>{escape(c)}</li>" for c in severity_changes)
-            lines.append(f"<p style='margin:0 0 4px;'><strong>Severity shifted:</strong></p><ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>")
+        if new_convergent:
+            items = "".join(f"<li>{escape(item)}</li>" for item in new_convergent)
+            lines.append(
+                "<p style='margin:0 0 4px;'><strong>Act now:</strong></p>"
+                f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
+            )
+        if new_contested:
+            items = "".join(f"<li>{escape(item)}</li>" for item in new_contested)
+            lines.append(
+                "<p style='margin:0 0 4px;'><strong>Watch closely:</strong></p>"
+                f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
+            )
+        if removed_priorities:
+            items = "".join(f"<li>{escape(item)}</li>" for item in removed_priorities)
+            lines.append(
+                "<p style='margin:0 0 4px;'><strong>Priorities dropped:</strong></p>"
+                f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
+            )
+        if category_changes:
+            items = "".join(f"<li>{escape(item)}</li>" for item in category_changes)
+            lines.append(
+                "<p style='margin:0 0 4px;'><strong>Category shifts:</strong></p>"
+                f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
+            )
+        if mood_shift:
+            lines.append(f"<p style='margin:0 0 8px;'><strong>{escape(mood_shift)}</strong>.</p>")
 
     new_s = delta.get("new_stories", 0)
     carried_s = delta.get("carried_stories", 0)
     total_s = delta.get("total_stories", 0)
-    pct_new = round(100 * new_s / total_s) if total_s else 0
     lines.append(
-        f"<p style='margin:0;'><strong>Signal freshness:</strong> {new_s} new stories ({pct_new}%), "
-        f"{carried_s} carried from yesterday, {total_s} total.</p>"
+        f"<p style='margin:0;'><strong>Signal freshness:</strong> {new_s} new, "
+        f"{carried_s} carried, {total_s} total.</p>"
     )
     return "".join(lines)
 
 
 def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_url: str, previous: dict) -> str:
-    root_causes = report.get("root_causes", [])
+    priorities = report.get("priorities", [])
+    mood = report.get("mood", {})
     stories = report.get("stories", [])
     predictions = ledger.get("predictions", [])
     narrative = report.get("narrative", "")
@@ -679,15 +1054,6 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     delta = report.get("delta", {})
     delta_html = _render_delta_html(delta)
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
-    severity_classes = {
-        "existential": "severity-existential",
-        "critical": "severity-existential",
-        "high": "severity-existential",
-        "major": "severity-major",
-        "medium": "severity-moderate",
-        "moderate": "severity-moderate",
-        "low": "severity-moderate",
-    }
     status_classes = {
         "validated": "status-validated",
         "partially_validated": "status-partial",
@@ -695,34 +1061,43 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
         "expired": "status-expired",
         "open": "status-open",
     }
-    root_rows = []
-    cards = []
-    for index, cause in enumerate(root_causes, start=1):
-        signals = [str(s) for s in cause.get("signals", [])]
-        severity = str(cause.get("severity", "unknown")).strip().lower()
-        severity_class = severity_classes.get(severity, "severity-moderate")
-        root_rows.append(
-            f"<tr><td data-label='Rank'>{index}</td><td data-label='Name'>{escape(cause.get('name', 'Unknown'))}</td><td data-label='Severity'>{escape(cause.get('severity', 'unknown'))}</td>"
-            f"<td data-label='Signals'>{escape(', '.join(signals[:3]))}</td><td data-label='Timeline'>{escape(cause.get('timeline', ''))}</td><td data-label='Rationale'>{escape(cause.get('rationale', ''))}</td></tr>"
+    priority_rows = []
+    for priority in priorities:
+        priority_rows.append(
+            f"<tr><td data-label='Signal'>{escape(priority.get('title', 'Unknown'))}</td>"
+            f"<td data-label='Priority'>{priority.get('priority_score', 0.0):.2f}</td>"
+            f"<td data-label='Contestedness'>{priority.get('contest_score', 0.0):.2f}</td>"
+            f"<td data-label='Category'><span class='category-pill {category_badge_class(priority.get('category', ''))}'>{escape(category_label(priority.get('category', '')))}</span></td>"
+            f"<td data-label='Mood'>{escape(signal_direction(priority))}</td></tr>"
         )
-        cards.append(
-            f"<article class='detail-block {severity_class}'>"
-            f"<p class='detail-kicker'>{escape(cause.get('severity', 'unknown'))}</p>"
-            f"<h3>{index}. {escape(cause.get('name', 'Unknown'))}</h3>"
-            f"<p><span>Intervention</span>{escape(cause.get('intervention', ''))}</p>"
-            f"<p><span>Prediction</span>{escape(cause.get('prediction', ''))}</p>"
-            f"<p><span>Falsification</span>{escape(cause.get('falsification', ''))}</p>"
-            "</article>"
+    contested_rows = []
+    for priority in [item for item in priorities if float(item.get("sign_agreement", 0.0)) < 0.6]:
+        contested_rows.append(
+            f"<tr><td data-label='Signal'>{escape(priority.get('title', 'Unknown'))}</td>"
+            f"<td data-label='Agreement'>{priority.get('sign_agreement', 0.0):.2f}</td>"
+            f"<td data-label='Contestedness'>{priority.get('contestedness', 0.0):.2f}</td>"
+            f"<td data-label='Note'>{escape(signal_direction(priority))}</td></tr>"
+        )
+    heatmap_rows = []
+    for priority in priorities[:8]:
+        top_clusters = ", ".join(f"{name} {score:.2f}" for name, score in priority.get("top_clusters", {}).items()) or "—"
+        bottom_clusters = ", ".join(f"{name} {score:.2f}" for name, score in priority.get("bottom_clusters", {}).items()) or "—"
+        heatmap_rows.append(
+            f"<tr><td data-label='Signal'>{escape(priority.get('title', 'Unknown'))}</td>"
+            f"<td data-label='Highest'>{escape(top_clusters)}</td>"
+            f"<td data-label='Lowest'>{escape(bottom_clusters)}</td></tr>"
         )
     # Strip body snippets from stories for public display — only show title + source + link
     public_stories = []
     for story in stories:
-        public_stories.append({
-            "title": story.get("title", "Untitled"),
-            "source": story.get("source", "Unknown"),
-            "url": story.get("url", ""),
-            "published": story.get("published", ""),
-        })
+        public_stories.append(
+            {
+                "title": story.get("title", "Untitled"),
+                "source": story.get("source", "Unknown"),
+                "url": story.get("url", ""),
+                "published": story.get("published", ""),
+            }
+        )
 
     story_rows = []
     for story in public_stories:
@@ -854,19 +1229,30 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
       color: var(--muted);
       font-size: 0.95rem;
     }}
-    .delta-note {{
-      margin: 18px 0 0;
-      padding: 12px 14px;
-      background: #f0f4f8;
-      border-left: 4px solid #8f4d3f;
-      color: #52606d;
-      font-size: 0.9rem;
-    }}
-    .narrative {{
-      margin: 0;
-      white-space: pre-line;
-      font-size: 1.05rem;
-      line-height: 1.74;
+     .delta-note {{
+       margin: 18px 0 0;
+       padding: 12px 14px;
+       background: #f0f4f8;
+       border-left: 4px solid #8f4d3f;
+       color: #52606d;
+       font-size: 0.9rem;
+     }}
+     .mood-banner {{
+       display: inline-flex;
+       align-items: center;
+       gap: 10px;
+       margin-top: 16px;
+       padding: 10px 14px;
+       border-radius: 999px;
+       background: #f4efe6;
+       color: var(--ink);
+       font-weight: 600;
+     }}
+     .narrative {{
+       margin: 0;
+       white-space: pre-line;
+       font-size: 1.05rem;
+       line-height: 1.74;
     }}
     table {{
       width: 100%;
@@ -888,59 +1274,39 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
       text-transform: uppercase;
     }}
     tbody tr:last-child td {{ border-bottom: 0; }}
-    .detail-list {{
-      margin-top: 20px;
-      display: grid;
-      gap: 14px;
-    }}
-    .detail-block {{
-      padding-left: 18px;
-      border-left: 3px solid var(--moderate);
-    }}
-    .detail-block p {{
-      margin: 8px 0 0;
-    }}
-    .detail-block span {{
-      display: block;
-      margin-bottom: 3px;
-      color: var(--muted);
-      font-size: 0.77rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }}
-    .detail-kicker {{
-      margin: 0 0 8px;
-      color: var(--muted);
-      font-size: 0.78rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }}
-    .severity-existential {{ border-left-color: var(--existential); }}
-    .severity-major {{ border-left-color: var(--major); }}
-    .severity-moderate {{ border-left-color: var(--moderate); }}
-    .status-pill {{
-      display: inline-flex;
-      align-items: center;
-      padding: 4px 10px;
-      border-radius: 999px;
+     .status-pill {{
+       display: inline-flex;
+       align-items: center;
+       padding: 4px 10px;
+       border-radius: 999px;
       background: var(--pill-bg);
       color: var(--ink);
       font-size: 0.78rem;
       font-weight: 600;
       letter-spacing: 0.04em;
       text-transform: uppercase;
-    }}
-    .status-validated {{ background: rgba(85, 111, 83, 0.13); color: #556f53; }}
-    .status-partial {{ background: rgba(178, 122, 63, 0.14); color: #8a5d2d; }}
-    .status-falsified {{ background: rgba(164, 73, 61, 0.13); color: #8b3f34; }}
-    .status-expired, .status-open {{ background: var(--pill-bg); color: #6e665d; }}
-    .sources td:first-child a {{ font-weight: 500; }}
-    .attribution {{
-      margin: 14px 0 0;
-      color: var(--muted);
-      font-size: 0.84rem;
+     }}
+     .status-validated {{ background: rgba(85, 111, 83, 0.13); color: #556f53; }}
+     .status-partial {{ background: rgba(178, 122, 63, 0.14); color: #8a5d2d; }}
+     .status-falsified {{ background: rgba(164, 73, 61, 0.13); color: #8b3f34; }}
+     .status-expired, .status-open {{ background: var(--pill-bg); color: #6e665d; }}
+     .category-pill {{
+       display: inline-flex;
+       align-items: center;
+       padding: 4px 10px;
+       border-radius: 999px;
+       font-size: 0.78rem;
+       font-weight: 600;
+     }}
+     .category-convergent {{ background: rgba(34, 197, 94, 0.14); color: #166534; }}
+     .category-contested {{ background: rgba(245, 158, 11, 0.16); color: #9a6700; }}
+     .category-niche {{ background: rgba(59, 130, 246, 0.14); color: #1d4ed8; }}
+     .category-noise {{ background: var(--pill-bg); color: #6e665d; }}
+     .sources td:first-child a {{ font-weight: 500; }}
+     .attribution {{
+       margin: 14px 0 0;
+       color: var(--muted);
+       font-size: 0.84rem;
     }}
     footer {{
       color: var(--muted);
@@ -986,36 +1352,52 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
 <body>
   <div class="page">
     <section>
-      <div class="mark-row">
-        <div class="mark">SIA</div>
-        <div class="issue-date">{escape(report.get("report_date", ""))}</div>
-      </div>
-      <h1>Systemic Intelligence Analysis</h1>
+       <div class="mark-row">
+         <div class="mark">SIA</div>
+         <div class="issue-date">{escape(report.get("report_date", ""))}</div>
+       </div>
+       <h1>Systemic Intelligence Analysis</h1>
       <p class="dek">SIA (Synthetic Insight Architecture) is a general-purpose problem intelligence system. It collects signals from diverse public sources — news reports, field observations, institutional data — and runs them through a multi-stage analysis pipeline that identifies shared systemic root causes, clusters compounding risks, prioritises interventions under real-world scarcity constraints, and tracks explicit predictions against outcomes over time. Rather than summarising individual stories, it looks for the structural patterns that connect them: the feedback loops, cascade risks, and institutional failures that determine what actually happens next. The system is validated across six domains including geopolitical conflict, economic resilience, and historical hindcasting. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project and methodology on GitHub&nbsp;→</a></p>
-      <p class="meta-line">{len(stories)} stories analysed · {len(root_causes)} root causes · {len(predictions)} predictions</p>
-      <div class="delta-note"><strong>Since yesterday:</strong><br>{delta_html}</div>
-    </section>
+       <p class="meta-line">{len(stories)} stories analysed · {len(priorities)} priorities surfaced · {len(predictions)} predictions tracked</p>
+       <div class="mood-banner"><span style="font-size:1.25rem;">{escape(mood.get("emoji", "⚪"))}</span> {escape(str(mood.get("label", "unknown")).title())} · score {float(mood.get("score", 0.0)):.2f}</div>
+       <div class="delta-note"><strong>Since yesterday:</strong><br>{delta_html}</div>
+     </section>
 
-    <section>
-      <h2>Narrative</h2>
-      <p class="narrative">{escape(narrative)}</p>
-    </section>
+     <section>
+       <h2>Narrative</h2>
+       <p class="narrative">{escape(narrative)}</p>
+     </section>
 
-    <section>
-      <h2>Root causes</h2>
-      <table>
-        <thead><tr><th>Rank</th><th>Name</th><th>Severity</th><th>Signals</th><th>Timeline</th><th>Rationale</th></tr></thead>
-        <tbody>{''.join(root_rows) or '<tr><td colspan="6">No root causes available.</td></tr>'}</tbody>
-      </table>
-      <div class="detail-list">{''.join(cards) or '<p>No detailed cards available.</p>'}</div>
-    </section>
+     <section>
+       <h2>Priorities</h2>
+       <table>
+         <thead><tr><th>Signal</th><th>Priority</th><th>Contestedness</th><th>Category</th><th>Mood</th></tr></thead>
+         <tbody>{''.join(priority_rows) or '<tr><td colspan="5">No priorities available.</td></tr>'}</tbody>
+       </table>
+     </section>
 
-    <section>
-      <h2>Prediction ledger</h2>
-      <table>
-        <thead><tr><th>Root cause</th><th>Status</th><th>Created</th><th>Timeline</th><th>Maturity</th><th>Tracking</th><th>Notes</th></tr></thead>
-        <tbody>{''.join(prediction_rows) or '<tr><td colspan="7">No predictions logged.</td></tr>'}</tbody>
-      </table>
+     <section>
+       <h2>Contested signals</h2>
+       <table>
+         <thead><tr><th>Signal</th><th>Agreement</th><th>Contestedness</th><th>Note</th></tr></thead>
+         <tbody>{''.join(contested_rows) or '<tr><td colspan="4">No materially contested signals.</td></tr>'}</tbody>
+       </table>
+     </section>
+
+     <section>
+       <h2>Cluster heatmap</h2>
+       <table>
+         <thead><tr><th>Signal</th><th>Highest scoring clusters</th><th>Lowest scoring clusters</th></tr></thead>
+         <tbody>{''.join(heatmap_rows) or '<tr><td colspan="3">No cluster data available.</td></tr>'}</tbody>
+       </table>
+     </section>
+
+     <section>
+       <h2>Prediction ledger</h2>
+       <table>
+         <thead><tr><th>Root cause</th><th>Status</th><th>Created</th><th>Timeline</th><th>Maturity</th><th>Tracking</th><th>Notes</th></tr></thead>
+         <tbody>{''.join(prediction_rows) or '<tr><td colspan="7">No predictions logged.</td></tr>'}</tbody>
+       </table>
     </section>
 
     <section>
@@ -1045,11 +1427,15 @@ def build_email_html(
     previous: dict,
 ) -> str:
     date_label = escape(report.get("report_date", ""))
-    root_causes = report.get("root_causes", [])
+    priorities = report.get("priorities", [])
+    mood = report.get("mood", {})
     today = str(report.get("report_date", ""))
     delta = report.get("delta", {})
     delta_html = _render_delta_html(delta)
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
+    act_now = [item for item in priorities if item.get("category") == "convergent_priority"][:5]
+    watch_closely = [item for item in priorities if item.get("category") == "contested_priority"][:5]
+    niche_concerns = [item for item in priorities if item.get("category") == "niche_concern"][:5]
     matured_markup = ""
     if matured_predictions:
         items = "".join(
@@ -1063,22 +1449,6 @@ def build_email_html(
             "<tr><th align='left'>Prediction</th><th align='left'>Status</th><th align='left'>Notes</th></tr>"
             f"{items}</table>"
         )
-
-    root_rows = "".join(
-        f"<tr><td>{index}</td><td>{escape(cause.get('name', 'Unknown'))}</td><td>{escape(cause.get('severity', 'unknown'))}</td>"
-        f"<td>{escape(', '.join(str(s) for s in cause.get('signals', [])[:3]))}</td><td>{escape(cause.get('timeline', ''))}</td><td>{escape(cause.get('rationale', ''))}</td></tr>"
-        for index, cause in enumerate(root_causes, start=1)
-    ) or "<tr><td colspan='6'>No root causes identified.</td></tr>"
-
-    detail_cards = "".join(
-        "<div style='background:#f8fafc;border:1px solid #cbd5e1;border-radius:14px;padding:16px;margin:12px 0;'>"
-        f"<h3 style='margin-top:0;'>{escape(cause.get('name', 'Unknown'))}</h3>"
-        f"<p><strong>Intervention:</strong> {escape(cause.get('intervention', ''))}</p>"
-        f"<p><strong>Prediction:</strong> {escape(cause.get('prediction', ''))}</p>"
-        f"<p><strong>Falsification:</strong> {escape(cause.get('falsification', ''))}</p>"
-        "</div>"
-        for cause in root_causes
-    )
 
     prediction_rows = "".join(
         f"<tr><td>{escape(item.get('root_cause', 'Unknown'))}</td>"
@@ -1106,13 +1476,17 @@ def build_email_html(
       <p style="margin:0 0 8px 0;text-transform:uppercase;letter-spacing:.08em;color:#93c5fd;">SIA Daily Intelligence</p>
       <h1 style="margin:0 0 8px 0;">{date_label}</h1>
       <p style="margin:0;">Daily systemic intelligence summary and validation digest.</p>
+      <p style="margin:16px 0 0 0;display:inline-flex;align-items:center;gap:8px;background:#1e293b;border-radius:999px;padding:10px 14px;">
+        <span style="font-size:20px;">{escape(mood.get("emoji", "⚪"))}</span>
+        <span>{escape(str(mood.get("label", "unknown")).title())} · score {float(mood.get("score", 0.0)):.2f}</span>
+      </p>
     </div>
 
     <div style="background:#ffffff;border-radius:20px;padding:24px;margin-top:18px;">
       <h2>Summary</h2>
       <ul>
         <li>{len(report.get('stories', []))} stories analysed</li>
-        <li>{len(root_causes)} root causes prioritised</li>
+        <li>{len(priorities)} priorities surfaced</li>
         <li>{len(ledger.get('predictions', []))} predictions tracked</li>
       </ul>
       <div style="margin:18px 0 0;padding:14px 16px;background:#f0f4f8;border-left:4px solid #8f4d3f;color:#374151;font-size:14px;line-height:1.6;">
@@ -1120,21 +1494,23 @@ def build_email_html(
         {delta_html}
       </div>
 
+      <h2>Act now</h2>
+      {_render_priority_cards(act_now, "No convergent priorities today.")}
+
+      <h2>Watch closely</h2>
+      {_render_priority_cards(watch_closely, "No contested priorities today.")}
+
+      <h2>Niche concerns</h2>
+      {_render_priority_cards(niche_concerns, "No niche concerns rose above the background today.")}
+
       <h2>Narrative</h2>
       <p>{escape(report.get('narrative', ''))}</p>
-
-      <h2>Root causes</h2>
-      <table style="width:100%;border-collapse:collapse;">
-        <tr>
-          <th align="left">Rank</th><th align="left">Name</th><th align="left">Severity</th>
-          <th align="left">Signals</th><th align="left">Timeline</th><th align="left">Rationale</th>
-        </tr>
-        {root_rows}
-      </table>
-
-      <h2>Detail cards</h2>
-      {detail_cards or "<p>No detail cards available.</p>"}
       {matured_markup}
+
+      <h2 style='margin-top:32px;'>Delta</h2>
+      <div style="padding:14px 16px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:14px;">
+        {delta_html}
+      </div>
 
       <h2 style='margin-top:32px;'>Prediction ledger</h2>
       <table style="width:100%;border-collapse:collapse;">
@@ -1445,9 +1821,13 @@ def run_daily_pipeline() -> dict:
     ledger = _load_from_github("docs/prediction_ledger.json") or load_json_document("prediction_ledger.json", {"predictions": [], "last_updated": None})
 
     stories = collect_stories(max_stories=20)
-    analysis = analyze_stories(stories)
+    core_analysis = run_core_analysis(stories)
+    priorities = core_analysis.get("priorities", [])
+    mood = core_analysis.get("mood", {"label": "cautious", "score": 0.0, "emoji": "🟡"})
+    narrative = generate_narrative(stories, priorities, mood)
+    predictions = generate_predictions(priorities)
 
-    merged_predictions = merge_predictions(ledger.get("predictions", []), analysis.get("predictions", []), report_date)
+    merged_predictions = merge_predictions(ledger.get("predictions", []), predictions, report_date)
     ledger["predictions"] = merged_predictions
     ledger["last_updated"] = utc_now().isoformat()
 
@@ -1464,10 +1844,12 @@ def run_daily_pipeline() -> dict:
         "story_count": len(stories),
         "stories": stories,
         "signals": stories_to_signals(stories),
-        "root_causes": analysis.get("root_causes", []),
-        "predictions": analysis.get("predictions", []),
-        "narrative": analysis.get("narrative", ""),
-        "noise_filtered": analysis.get("noise_filtered", []),
+        "priorities": priorities,
+        "mood": mood,
+        "root_causes": build_legacy_root_causes(priorities),
+        "predictions": predictions,
+        "narrative": narrative,
+        "noise_filtered": core_analysis.get("noise_filtered", []),
         "matured_predictions": matured_predictions,
     }
     report["delta"] = compute_delta(report, previous)
@@ -1512,7 +1894,7 @@ def run_daily_pipeline() -> dict:
 
     send_email(
         os.environ.get("RECIPIENT_EMAIL", ""),
-        f"SIA Daily Intelligence — {report_date}",
+        build_email_subject(report),
         email_html,
         os.environ.get("ACS_CONNECTION_STRING", ""),
     )
@@ -1520,6 +1902,7 @@ def run_daily_pipeline() -> dict:
     summary = {
         "report_date": report_date,
         "stories": len(stories),
+        "priorities": len(priorities),
         "root_causes": len(report["root_causes"]),
         "predictions": len(ledger["predictions"]),
         "matured_predictions": len(matured_predictions),
