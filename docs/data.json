@@ -1,14 +1,56 @@
 {
   "report_date": "2026-05-02",
-  "generated_at": "2026-05-01T21:01:10.394137+00:00",
+  "generated_at": "2026-05-02T07:43:00.524194+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "body": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 22:35:07 GMT"
+    },
     {
       "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
       "body": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 20:07:30 GMT"
+      "published": "Sat, 02 May 2026 00:41:43 GMT"
+    },
+    {
+      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "body": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 05:02:14 GMT"
+    },
+    {
+      "title": "Spirit Airlines shutting down after rescue talks collapse",
+      "body": "The airline had been in talks with the Trump administration about a $500m bailout.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 06:47:21 GMT"
+    },
+    {
+      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "body": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 02:43:48 GMT"
+    },
+    {
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "body": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 19:30:36 GMT"
+    },
+    {
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "body": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 21:44:05 GMT"
     },
     {
       "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
@@ -18,11 +60,11 @@
       "published": "Fri, 01 May 2026 13:12:10 GMT"
     },
     {
-      "title": "French PM fuels row with trip to buy baguettes",
-      "body": "Sébastien Lecornu visited a boulangerie on Labour Day, defying unions who say 1 May must remain a mandatory rest day.",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "body": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 17:59:34 GMT"
+      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 02:22:57 GMT"
     },
     {
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
@@ -32,18 +74,18 @@
       "published": "Fri, 01 May 2026 15:12:14 GMT"
     },
     {
-      "title": "Turkish police arrest more than 500 people at May Day rallies",
-      "body": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 16:14:58 GMT"
-    },
-    {
       "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
       "body": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 01 May 2026 12:42:29 GMT"
+    },
+    {
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "body": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 16:14:58 GMT"
     },
     {
       "title": "Israeli police arrest man after nun attacked in Jerusalem",
@@ -100,48 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 01 May 2026 14:47:46 GMT"
-    },
-    {
-      "title": "China scraps tariffs for all but one African nation",
-      "body": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 00:02:57 GMT"
-    },
-    {
-      "title": "Six injured in Washington state school stabbing",
-      "body": "Five students and one security guard were taken to hospital following the attack at Foss High School.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cewp2ll1zljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 07:12:23 GMT"
-    },
-    {
-      "title": "Britney Spears charged in California with driving under influence",
-      "body": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 21:46:18 GMT"
-    },
-    {
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "body": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 18:05:26 GMT"
-    },
-    {
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "body": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 23:44:00 GMT"
-    },
-    {
-      "title": "Vonn still in 'survival mode' after Olympic crash",
-      "body": "American skiing great Lindsey Vonn says she is still \"too emotional\" to make a decision on her future career as she faces at least 18 months of recuperation.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/sport/articles/cn0pd29x2ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 09:03:53 GMT"
     }
   ],
   "signals": [
@@ -149,14 +149,74 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "body": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 22:35:07 GMT"
+    },
+    {
+      "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
       "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
       "body": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
       "labels": [],
       "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 20:07:30 GMT"
+      "published": "Sat, 02 May 2026 00:41:43 GMT"
     },
     {
-      "number": 2,
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "body": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 05:02:14 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Spirit Airlines shutting down after rescue talks collapse",
+      "body": "The airline had been in talks with the Trump administration about a $500m bailout.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 06:47:21 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "body": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 02:43:48 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "body": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 19:30:36 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "body": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 21:44:05 GMT"
+    },
+    {
+      "number": 8,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
@@ -166,17 +226,17 @@
       "published": "Fri, 01 May 2026 13:12:10 GMT"
     },
     {
-      "number": 3,
+      "number": 9,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "French PM fuels row with trip to buy baguettes",
-      "body": "Sébastien Lecornu visited a boulangerie on Labour Day, defying unions who say 1 May must remain a mandatory rest day.",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "body": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 17:59:34 GMT"
+      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 02:22:57 GMT"
     },
     {
-      "number": 4,
+      "number": 10,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
@@ -186,17 +246,7 @@
       "published": "Fri, 01 May 2026 15:12:14 GMT"
     },
     {
-      "number": 5,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Turkish police arrest more than 500 people at May Day rallies",
-      "body": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 16:14:58 GMT"
-    },
-    {
-      "number": 6,
+      "number": 11,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
@@ -206,7 +256,17 @@
       "published": "Fri, 01 May 2026 12:42:29 GMT"
     },
     {
-      "number": 7,
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "body": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 16:14:58 GMT"
+    },
+    {
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Israeli police arrest man after nun attacked in Jerusalem",
@@ -216,7 +276,7 @@
       "published": "Fri, 01 May 2026 17:03:11 GMT"
     },
     {
-      "number": 8,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
@@ -226,7 +286,7 @@
       "published": "Fri, 01 May 2026 10:12:57 GMT"
     },
     {
-      "number": 9,
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
@@ -236,7 +296,7 @@
       "published": "Fri, 01 May 2026 17:23:42 GMT"
     },
     {
-      "number": 10,
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
@@ -246,7 +306,7 @@
       "published": "Fri, 01 May 2026 04:11:53 GMT"
     },
     {
-      "number": 11,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
@@ -256,7 +316,7 @@
       "published": "Fri, 01 May 2026 05:04:08 GMT"
     },
     {
-      "number": 12,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
@@ -266,7 +326,7 @@
       "published": "Fri, 01 May 2026 05:58:20 GMT"
     },
     {
-      "number": 13,
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Violence in Australian town after arrest of man over girl's murder",
@@ -276,7 +336,7 @@
       "published": "Fri, 01 May 2026 04:08:19 GMT"
     },
     {
-      "number": 14,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
@@ -284,188 +344,1269 @@
       "labels": [],
       "url": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 01 May 2026 14:47:46 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "China scraps tariffs for all but one African nation",
-      "body": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 00:02:57 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Six injured in Washington state school stabbing",
-      "body": "Five students and one security guard were taken to hospital following the attack at Foss High School.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cewp2ll1zljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 07:12:23 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Britney Spears charged in California with driving under influence",
-      "body": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 21:46:18 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "body": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 18:05:26 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "body": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 23:44:00 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Vonn still in 'survival mode' after Olympic crash",
-      "body": "American skiing great Lindsey Vonn says she is still \"too emotional\" to make a decision on her future career as she faces at least 18 months of recuperation.",
-      "labels": [],
-      "url": "https://www.bbc.com/sport/articles/cn0pd29x2ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 09:03:53 GMT"
     }
   ],
+  "priorities": [
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 4.342855097249524,
+      "contest_score": -1.4572248762148017,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.4358691276522804,
+      "contestedness": 0.020180137774394202,
+      "impact": 0.73,
+      "top_clusters": {
+        "survival_focused": 1.522214300041941,
+        "stability_seeking": 1.4893583563624213
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 1.3434580728005443
+      },
+      "cluster_means": {
+        "survival_focused": 1.522214300041941,
+        "stability_seeking": 1.4893583563624213,
+        "achievement_oriented": 1.4500710251621487,
+        "care_oriented": 1.4528899093676315,
+        "knowledge_oriented": 1.4187223726507725,
+        "governance_oriented": 1.4380709904334417,
+        "sovereignty_order_oriented": 1.4178908526590475,
+        "expression_oriented": 1.390146269392573,
+        "ecosystem_oriented": 1.3434580728005443
+      },
+      "priority_raw": 0.8385475705489317,
+      "contest_raw": 0.014731500575307767
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.08533853346051486,
+      "contest_score": -0.23704456856757516,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.306730518028545,
+      "contestedness": 0.0461856060292421,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.4296803529820149,
+        "knowledge_oriented": 0.3954440617653834
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.2407297233485877
+      },
+      "cluster_means": {
+        "survival_focused": 0.2440558082858592,
+        "stability_seeking": 0.2642540764209359,
+        "achievement_oriented": 0.339062972791327,
+        "care_oriented": 0.2902414143151013,
+        "knowledge_oriented": 0.3954440617653834,
+        "governance_oriented": 0.2407297233485877,
+        "sovereignty_order_oriented": 0.24950944683458523,
+        "expression_oriented": 0.4296803529820149,
+        "ecosystem_oriented": 0.3075968055131104
+      },
+      "priority_raw": 0.07790955157925045,
+      "contest_raw": 0.029327859828568732
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.11133977402324384,
+      "contest_score": 0.8874783211751592,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.28914675675959917,
+      "contestedness": 0.06736995426431058,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.4398977194198985,
+        "knowledge_oriented": 0.39633792340276164
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.20747639275461735
+      },
+      "cluster_means": {
+        "survival_focused": 0.21483504118473007,
+        "stability_seeking": 0.2360602702939691,
+        "achievement_oriented": 0.31906122207788923,
+        "care_oriented": 0.28220499544904065,
+        "knowledge_oriented": 0.39633792340276164,
+        "governance_oriented": 0.20844628622079842,
+        "sovereignty_order_oriented": 0.20747639275461735,
+        "expression_oriented": 0.4398977194198985,
+        "ecosystem_oriented": 0.2980009600326874
+      },
+      "priority_raw": 0.07344327621693819,
+      "contest_raw": 0.04277992095783722
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.11495200674503431,
+      "contest_score": -0.2894387950207982,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.162914534966043,
+      "contestedness": 0.038524960995783564,
+      "impact": 0.745,
+      "top_clusters": {
+        "expression_oriented": 0.2557307366058936,
+        "knowledge_oriented": 0.23349388666143867
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.0794936031999553
+      },
+      "cluster_means": {
+        "survival_focused": 0.0794936031999553,
+        "stability_seeking": 0.11521426568649223,
+        "achievement_oriented": 0.20020921756672774,
+        "care_oriented": 0.1537392266822758,
+        "knowledge_oriented": 0.23349388666143867,
+        "governance_oriented": 0.1400317856510969,
+        "sovereignty_order_oriented": 0.12942654095223588,
+        "expression_oriented": 0.2557307366058936,
+        "ecosystem_oriented": 0.15889155168827063
+      },
+      "priority_raw": 0.07282279712982122,
+      "contest_raw": 0.028701095941858754
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.12494556018197486,
+      "contest_score": -0.41774110996001496,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2390123973418281,
+      "contestedness": 0.0456576210296564,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.35441411172328136,
+        "knowledge_oriented": 0.3198082119815945
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.17444964564720478
+      },
+      "cluster_means": {
+        "survival_focused": 0.17444964564720478,
+        "stability_seeking": 0.21162734599967822,
+        "achievement_oriented": 0.24252638059629644,
+        "care_oriented": 0.24089076272724025,
+        "knowledge_oriented": 0.3198082119815945,
+        "governance_oriented": 0.19165877230841882,
+        "sovereignty_order_oriented": 0.17841995175466313,
+        "expression_oriented": 0.35441411172328136,
+        "ecosystem_oriented": 0.23731639333807522
+      },
+      "priority_raw": 0.07110618820919386,
+      "contest_raw": 0.027166284512645557
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.14788477348214765,
+      "contest_score": -1.6401500188330203,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2257676714211208,
+      "contestedness": 0.02108111883075786,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.2983689888023048,
+        "knowledge_oriented": 0.27788202763113107
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.16819068224310094
+      },
+      "cluster_means": {
+        "survival_focused": 0.16819068224310094,
+        "stability_seeking": 0.21363770092035358,
+        "achievement_oriented": 0.2398401797984258,
+        "care_oriented": 0.21875906096766795,
+        "knowledge_oriented": 0.27788202763113107,
+        "governance_oriented": 0.20543812336153894,
+        "sovereignty_order_oriented": 0.18993637536195854,
+        "expression_oriented": 0.2983689888023048,
+        "ecosystem_oriented": 0.21985590370360586
+      },
+      "priority_raw": 0.06716588224778344,
+      "contest_raw": 0.012543265704300926
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.17843107367263344,
+      "contest_score": 0.02394225712762306,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.1385210170116261,
+      "contestedness": 0.043556918836543,
+      "impact": 0.745,
+      "top_clusters": {
+        "expression_oriented": 0.30083571522534214,
+        "knowledge_oriented": 0.25242580403838477
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.01943492877010028
+      },
+      "cluster_means": {
+        "survival_focused": 0.01943492877010028,
+        "stability_seeking": 0.05392334937395879,
+        "achievement_oriented": 0.1656936678974093,
+        "care_oriented": 0.05946050982029641,
+        "knowledge_oriented": 0.25242580403838477,
+        "governance_oriented": 0.042268019614455116,
+        "sovereignty_order_oriented": 0.06299184760664328,
+        "expression_oriented": 0.30083571522534214,
+        "ecosystem_oriented": 0.18999028780371457
+      },
+      "priority_raw": 0.061918894604196875,
+      "contest_raw": 0.032449904533224536
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1897904722376937,
+      "contest_score": -0.27796849360640585,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.13491039875236127,
+      "contestedness": 0.04541465980211215,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.2888013194433182,
+        "knowledge_oriented": 0.24689138445536873
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.010535723288385312
+      },
+      "cluster_means": {
+        "survival_focused": 0.010535723288385312,
+        "stability_seeking": 0.09251687255759991,
+        "achievement_oriented": 0.13808358493682776,
+        "care_oriented": 0.08073047847804588,
+        "knowledge_oriented": 0.24689138445536873,
+        "governance_oriented": 0.09447325346182106,
+        "sovereignty_order_oriented": 0.04905859365970891,
+        "expression_oriented": 0.2888013194433182,
+        "ecosystem_oriented": 0.15199834978179633
+      },
+      "priority_raw": 0.05996767224542458,
+      "contest_raw": 0.028838308974341215
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.19210949122869522,
+      "contest_score": -1.4193071791134975,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3039251560370122,
+      "contestedness": 0.06197995732774325,
+      "impact": 0.24500000000000002,
+      "top_clusters": {
+        "stability_seeking": 0.3847891892927339,
+        "expression_oriented": 0.37266394175362993
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.2159645865563285
+      },
+      "cluster_means": {
+        "survival_focused": 0.24962728865137843,
+        "stability_seeking": 0.3847891892927339,
+        "achievement_oriented": 0.27362477401777385,
+        "care_oriented": 0.27794454388407175,
+        "knowledge_oriented": 0.36713899424699514,
+        "governance_oriented": 0.3582385058206169,
+        "sovereignty_order_oriented": 0.23533458010958144,
+        "expression_oriented": 0.37266394175362993,
+        "ecosystem_oriented": 0.2159645865563285
+      },
+      "priority_raw": 0.0595693305832544,
+      "contest_raw": 0.015185089545297098
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1992758466945896,
+      "contest_score": 0.6148311103832432,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.11930133753447543,
+      "contestedness": 0.0484888212908913,
+      "impact": 0.8150000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.2458986659386333,
+        "knowledge_oriented": 0.21933747823959762
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.031982104298894115
+      },
+      "cluster_means": {
+        "survival_focused": 0.031982104298894115,
+        "stability_seeking": 0.04132583435413742,
+        "achievement_oriented": 0.14337407837874783,
+        "care_oriented": 0.08981465564502872,
+        "knowledge_oriented": 0.21933747823959762,
+        "governance_oriented": 0.07177337609781576,
+        "sovereignty_order_oriented": 0.08819910283280585,
+        "expression_oriented": 0.2458986659386333,
+        "ecosystem_oriented": 0.12724566897369677
+      },
+      "priority_raw": 0.058338354054358485,
+      "contest_raw": 0.03951838935207641
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+      "title": "Spirit Airlines shutting down after rescue talks collapse",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.21043652841695418,
+      "contest_score": -0.7164152614582634,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.18438322095004855,
+      "contestedness": 0.030841054438763824,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.3386036129953941,
+        "knowledge_oriented": 0.2661841676929031
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.09933103219344193
+      },
+      "cluster_means": {
+        "survival_focused": 0.13017208663220575,
+        "stability_seeking": 0.10780220918637373,
+        "achievement_oriented": 0.09933103219344193,
+        "care_oriented": 0.23196733059673919,
+        "knowledge_oriented": 0.2661841676929031,
+        "governance_oriented": 0.12440354853388386,
+        "sovereignty_order_oriented": 0.1219679855715457,
+        "expression_oriented": 0.3386036129953941,
+        "ecosystem_oriented": 0.23901701514794998
+      },
+      "priority_raw": 0.05642126561071486,
+      "contest_raw": 0.023593406645654326
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.24255900525732393,
+      "contest_score": -0.1715546151279925,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.26238935846159184,
+      "contestedness": 0.06208511512918438,
+      "impact": 0.485,
+      "top_clusters": {
+        "expression_oriented": 0.38447225492637954,
+        "knowledge_oriented": 0.3593906655660156
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.17696464409721285
+      },
+      "cluster_means": {
+        "survival_focused": 0.17696464409721285,
+        "stability_seeking": 0.23323345791439204,
+        "achievement_oriented": 0.32783294397171237,
+        "care_oriented": 0.24015630625058884,
+        "knowledge_oriented": 0.3593906655660156,
+        "governance_oriented": 0.21148605753794736,
+        "sovereignty_order_oriented": 0.17807119112140446,
+        "expression_oriented": 0.38447225492637954,
+        "ecosystem_oriented": 0.24989670476867343
+      },
+      "priority_raw": 0.05090353554154882,
+      "contest_raw": 0.030111280837654426
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&at_campaign=rss",
+      "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2628004463263439,
+      "contest_score": -1.1799329374064433,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.26348127945620986,
+      "contestedness": 0.05013498488466256,
+      "impact": 0.36,
+      "top_clusters": {
+        "expression_oriented": 0.37142532602854,
+        "knowledge_oriented": 0.3547293056243561
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.19152247959709434
+      },
+      "cluster_means": {
+        "survival_focused": 0.19994600772528787,
+        "stability_seeking": 0.2751935563089863,
+        "achievement_oriented": 0.22879895490456137,
+        "care_oriented": 0.26257864617550125,
+        "knowledge_oriented": 0.3547293056243561,
+        "governance_oriented": 0.2746935774507231,
+        "sovereignty_order_oriented": 0.19152247959709434,
+        "expression_oriented": 0.37142532602854,
+        "ecosystem_oriented": 0.2124436612908387
+      },
+      "priority_raw": 0.04742663030211777,
+      "contest_raw": 0.01804859455847852
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.28133570036267075,
+      "contest_score": -0.07311124448858873,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.12088196607399564,
+      "contestedness": 0.051293288217017674,
+      "impact": 0.61,
+      "top_clusters": {
+        "expression_oriented": 0.2711591246344979,
+        "knowledge_oriented": 0.21031902715904302
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.08584001510303432
+      },
+      "cluster_means": {
+        "survival_focused": -0.08584001510303432,
+        "stability_seeking": 0.006646847462040306,
+        "achievement_oriented": 0.07549832523929481,
+        "care_oriented": 0.05794013567905798,
+        "knowledge_oriented": 0.21031902715904302,
+        "governance_oriented": 0.020568522119365912,
+        "sovereignty_order_oriented": -0.07845532354178233,
+        "expression_oriented": 0.2711591246344979,
+        "ecosystem_oriented": 0.07367903149012522
+      },
+      "priority_raw": 0.044242799583082394,
+      "contest_raw": 0.03128890581238078
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2814693404676965,
+      "contest_score": 2.384166971006343,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6944444444444444,
+      "central_tendency": 0.15906418706827383,
+      "contestedness": 0.08731510856153606,
+      "impact": 0.6950000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.38621025668858167,
+        "knowledge_oriented": 0.3043011606401725
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.009294187477109556
+      },
+      "cluster_means": {
+        "survival_focused": 0.009569890685353716,
+        "stability_seeking": 0.03208438557693674,
+        "achievement_oriented": 0.1484663458932834,
+        "care_oriented": 0.09688499924688977,
+        "knowledge_oriented": 0.3043011606401725,
+        "governance_oriented": 0.025350633897961022,
+        "sovereignty_order_oriented": 0.009294187477109556,
+        "expression_oriented": 0.38621025668858167,
+        "ecosystem_oriented": 0.23795099843141848
+      },
+      "priority_raw": 0.044219844004980136,
+      "contest_raw": 0.06068400045026756
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3083670291543879,
+      "contest_score": 1.0366489401830365,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6388888888888888,
+      "central_tendency": 0.12774059448721684,
+      "contestedness": 0.07187801396624152,
+      "impact": 0.6200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.269741850583457,
+        "knowledge_oriented": 0.2110303782414377
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.0246016413823138
+      },
+      "cluster_means": {
+        "survival_focused": -0.0246016413823138,
+        "stability_seeking": -0.013650229387404428,
+        "achievement_oriented": 0.13558045660703777,
+        "care_oriented": 0.04727637258392772,
+        "knowledge_oriented": 0.2110303782414377,
+        "governance_oriented": 0.007903571320836494,
+        "sovereignty_order_oriented": -0.0037920233697936734,
+        "expression_oriented": 0.269741850583457,
+        "ecosystem_oriented": 0.17180720490061396
+      },
+      "priority_raw": 0.03959958429103723,
+      "contest_raw": 0.04456436865906975
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
+      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3310250939492491,
+      "contest_score": 1.1816935313321777,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.13733681409790066,
+      "contestedness": 0.07122993678963285,
+      "impact": 0.65,
+      "top_clusters": {
+        "expression_oriented": 0.2964757567102899,
+        "knowledge_oriented": 0.2390971342959033
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.031602780767404914
+      },
+      "cluster_means": {
+        "survival_focused": 0.035737275854560366,
+        "stability_seeking": 0.0422074951475304,
+        "achievement_oriented": 0.11265990146205096,
+        "care_oriented": 0.16367434270990758,
+        "knowledge_oriented": 0.2390971342959033,
+        "governance_oriented": 0.06419501611035629,
+        "sovereignty_order_oriented": 0.031602780767404914,
+        "expression_oriented": 0.2964757567102899,
+        "ecosystem_oriented": 0.1838898382516838
+      },
+      "priority_raw": 0.03570757166545418,
+      "contest_raw": 0.04629945891326136
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3504655819971179,
+      "contest_score": 0.5934313438712583,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.09590591830694868,
+      "contestedness": 0.05816651182421484,
+      "impact": 0.675,
+      "top_clusters": {
+        "expression_oriented": 0.18497590810844214,
+        "knowledge_oriented": 0.11517955325800958
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.09510576414595462
+      },
+      "cluster_means": {
+        "survival_focused": -0.09510576414595462,
+        "stability_seeking": -0.046603117523214,
+        "achievement_oriented": -0.03948126960765261,
+        "care_oriented": 0.025427336738543943,
+        "knowledge_oriented": 0.11517955325800958,
+        "governance_oriented": -0.03693925232173978,
+        "sovereignty_order_oriented": -0.07605926285611639,
+        "expression_oriented": 0.18497590810844214,
+        "ecosystem_oriented": 0.0915687609556057
+      },
+      "priority_raw": 0.03236824742859518,
+      "contest_raw": 0.03926239548134502
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3620962878880608,
+      "contest_score": 1.0769297690008781,
+      "category": "background_noise",
+      "polarity": -1,
+      "sign_agreement": 0.6666666666666666,
+      "central_tendency": 0.10330075567818055,
+      "contestedness": 0.061287382993036515,
+      "impact": 0.735,
+      "top_clusters": {
+        "expression_oriented": 0.13615527397017743,
+        "knowledge_oriented": 0.06682810463833228
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.1554351186306869
+      },
+      "cluster_means": {
+        "survival_focused": -0.1554351186306869,
+        "stability_seeking": -0.11482286628071814,
+        "achievement_oriented": -0.06804026348406933,
+        "care_oriented": -0.006752880491032814,
+        "knowledge_oriented": 0.06682810463833228,
+        "governance_oriented": -0.09556711619065206,
+        "sovereignty_order_oriented": -0.11977971803139581,
+        "expression_oriented": 0.13615527397017743,
+        "ecosystem_oriented": 0.030910863147210532
+      },
+      "priority_raw": 0.030370422169385083,
+      "contest_raw": 0.04504622649988184
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3682325517031919,
+      "contest_score": 0.08076685571769006,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.10545462646757534,
+      "contestedness": 0.047668584997856756,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.22608418352856383,
+        "knowledge_oriented": 0.17477447655808928
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.02135963778461661
+      },
+      "cluster_means": {
+        "survival_focused": 0.02135963778461661,
+        "stability_seeking": 0.05562951019753315,
+        "achievement_oriented": 0.08308603210666482,
+        "care_oriented": 0.13075461710452158,
+        "knowledge_oriented": 0.17477447655808928,
+        "governance_oriented": 0.06961795349751126,
+        "sovereignty_order_oriented": 0.04449153217749238,
+        "expression_oriented": 0.22608418352856383,
+        "ecosystem_oriented": 0.13261160572586891
+      },
+      "priority_raw": 0.029316386157985944,
+      "contest_raw": 0.03312966657351044
+    }
+  ],
+  "selected_priorities": [
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 4.342855097249524,
+      "contest_score": -1.4572248762148017,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.4358691276522804,
+      "contestedness": 0.020180137774394202,
+      "impact": 0.73,
+      "top_clusters": {
+        "survival_focused": 1.522214300041941,
+        "stability_seeking": 1.4893583563624213
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 1.3434580728005443
+      },
+      "cluster_means": {
+        "survival_focused": 1.522214300041941,
+        "stability_seeking": 1.4893583563624213,
+        "achievement_oriented": 1.4500710251621487,
+        "care_oriented": 1.4528899093676315,
+        "knowledge_oriented": 1.4187223726507725,
+        "governance_oriented": 1.4380709904334417,
+        "sovereignty_order_oriented": 1.4178908526590475,
+        "expression_oriented": 1.390146269392573,
+        "ecosystem_oriented": 1.3434580728005443
+      },
+      "priority_raw": 0.8385475705489317,
+      "contest_raw": 0.014731500575307767
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.08533853346051486,
+      "contest_score": -0.23704456856757516,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.306730518028545,
+      "contestedness": 0.0461856060292421,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.4296803529820149,
+        "knowledge_oriented": 0.3954440617653834
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.2407297233485877
+      },
+      "cluster_means": {
+        "survival_focused": 0.2440558082858592,
+        "stability_seeking": 0.2642540764209359,
+        "achievement_oriented": 0.339062972791327,
+        "care_oriented": 0.2902414143151013,
+        "knowledge_oriented": 0.3954440617653834,
+        "governance_oriented": 0.2407297233485877,
+        "sovereignty_order_oriented": 0.24950944683458523,
+        "expression_oriented": 0.4296803529820149,
+        "ecosystem_oriented": 0.3075968055131104
+      },
+      "priority_raw": 0.07790955157925045,
+      "contest_raw": 0.029327859828568732
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.11133977402324384,
+      "contest_score": 0.8874783211751592,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.28914675675959917,
+      "contestedness": 0.06736995426431058,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.4398977194198985,
+        "knowledge_oriented": 0.39633792340276164
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.20747639275461735
+      },
+      "cluster_means": {
+        "survival_focused": 0.21483504118473007,
+        "stability_seeking": 0.2360602702939691,
+        "achievement_oriented": 0.31906122207788923,
+        "care_oriented": 0.28220499544904065,
+        "knowledge_oriented": 0.39633792340276164,
+        "governance_oriented": 0.20844628622079842,
+        "sovereignty_order_oriented": 0.20747639275461735,
+        "expression_oriented": 0.4398977194198985,
+        "ecosystem_oriented": 0.2980009600326874
+      },
+      "priority_raw": 0.07344327621693819,
+      "contest_raw": 0.04277992095783722
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.11495200674503431,
+      "contest_score": -0.2894387950207982,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.162914534966043,
+      "contestedness": 0.038524960995783564,
+      "impact": 0.745,
+      "top_clusters": {
+        "expression_oriented": 0.2557307366058936,
+        "knowledge_oriented": 0.23349388666143867
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.0794936031999553
+      },
+      "cluster_means": {
+        "survival_focused": 0.0794936031999553,
+        "stability_seeking": 0.11521426568649223,
+        "achievement_oriented": 0.20020921756672774,
+        "care_oriented": 0.1537392266822758,
+        "knowledge_oriented": 0.23349388666143867,
+        "governance_oriented": 0.1400317856510969,
+        "sovereignty_order_oriented": 0.12942654095223588,
+        "expression_oriented": 0.2557307366058936,
+        "ecosystem_oriented": 0.15889155168827063
+      },
+      "priority_raw": 0.07282279712982122,
+      "contest_raw": 0.028701095941858754
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.12494556018197486,
+      "contest_score": -0.41774110996001496,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2390123973418281,
+      "contestedness": 0.0456576210296564,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.35441411172328136,
+        "knowledge_oriented": 0.3198082119815945
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.17444964564720478
+      },
+      "cluster_means": {
+        "survival_focused": 0.17444964564720478,
+        "stability_seeking": 0.21162734599967822,
+        "achievement_oriented": 0.24252638059629644,
+        "care_oriented": 0.24089076272724025,
+        "knowledge_oriented": 0.3198082119815945,
+        "governance_oriented": 0.19165877230841882,
+        "sovereignty_order_oriented": 0.17841995175466313,
+        "expression_oriented": 0.35441411172328136,
+        "ecosystem_oriented": 0.23731639333807522
+      },
+      "priority_raw": 0.07110618820919386,
+      "contest_raw": 0.027166284512645557
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.14788477348214765,
+      "contest_score": -1.6401500188330203,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2257676714211208,
+      "contestedness": 0.02108111883075786,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.2983689888023048,
+        "knowledge_oriented": 0.27788202763113107
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.16819068224310094
+      },
+      "cluster_means": {
+        "survival_focused": 0.16819068224310094,
+        "stability_seeking": 0.21363770092035358,
+        "achievement_oriented": 0.2398401797984258,
+        "care_oriented": 0.21875906096766795,
+        "knowledge_oriented": 0.27788202763113107,
+        "governance_oriented": 0.20543812336153894,
+        "sovereignty_order_oriented": 0.18993637536195854,
+        "expression_oriented": 0.2983689888023048,
+        "ecosystem_oriented": 0.21985590370360586
+      },
+      "priority_raw": 0.06716588224778344,
+      "contest_raw": 0.012543265704300926
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.17843107367263344,
+      "contest_score": 0.02394225712762306,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.1385210170116261,
+      "contestedness": 0.043556918836543,
+      "impact": 0.745,
+      "top_clusters": {
+        "expression_oriented": 0.30083571522534214,
+        "knowledge_oriented": 0.25242580403838477
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.01943492877010028
+      },
+      "cluster_means": {
+        "survival_focused": 0.01943492877010028,
+        "stability_seeking": 0.05392334937395879,
+        "achievement_oriented": 0.1656936678974093,
+        "care_oriented": 0.05946050982029641,
+        "knowledge_oriented": 0.25242580403838477,
+        "governance_oriented": 0.042268019614455116,
+        "sovereignty_order_oriented": 0.06299184760664328,
+        "expression_oriented": 0.30083571522534214,
+        "ecosystem_oriented": 0.18999028780371457
+      },
+      "priority_raw": 0.061918894604196875,
+      "contest_raw": 0.032449904533224536
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1897904722376937,
+      "contest_score": -0.27796849360640585,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.13491039875236127,
+      "contestedness": 0.04541465980211215,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.2888013194433182,
+        "knowledge_oriented": 0.24689138445536873
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.010535723288385312
+      },
+      "cluster_means": {
+        "survival_focused": 0.010535723288385312,
+        "stability_seeking": 0.09251687255759991,
+        "achievement_oriented": 0.13808358493682776,
+        "care_oriented": 0.08073047847804588,
+        "knowledge_oriented": 0.24689138445536873,
+        "governance_oriented": 0.09447325346182106,
+        "sovereignty_order_oriented": 0.04905859365970891,
+        "expression_oriented": 0.2888013194433182,
+        "ecosystem_oriented": 0.15199834978179633
+      },
+      "priority_raw": 0.05996767224542458,
+      "contest_raw": 0.028838308974341215
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.19210949122869522,
+      "contest_score": -1.4193071791134975,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3039251560370122,
+      "contestedness": 0.06197995732774325,
+      "impact": 0.24500000000000002,
+      "top_clusters": {
+        "stability_seeking": 0.3847891892927339,
+        "expression_oriented": 0.37266394175362993
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.2159645865563285
+      },
+      "cluster_means": {
+        "survival_focused": 0.24962728865137843,
+        "stability_seeking": 0.3847891892927339,
+        "achievement_oriented": 0.27362477401777385,
+        "care_oriented": 0.27794454388407175,
+        "knowledge_oriented": 0.36713899424699514,
+        "governance_oriented": 0.3582385058206169,
+        "sovereignty_order_oriented": 0.23533458010958144,
+        "expression_oriented": 0.37266394175362993,
+        "ecosystem_oriented": 0.2159645865563285
+      },
+      "priority_raw": 0.0595693305832544,
+      "contest_raw": 0.015185089545297098
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1992758466945896,
+      "contest_score": 0.6148311103832432,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.11930133753447543,
+      "contestedness": 0.0484888212908913,
+      "impact": 0.8150000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.2458986659386333,
+        "knowledge_oriented": 0.21933747823959762
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.031982104298894115
+      },
+      "cluster_means": {
+        "survival_focused": 0.031982104298894115,
+        "stability_seeking": 0.04132583435413742,
+        "achievement_oriented": 0.14337407837874783,
+        "care_oriented": 0.08981465564502872,
+        "knowledge_oriented": 0.21933747823959762,
+        "governance_oriented": 0.07177337609781576,
+        "sovereignty_order_oriented": 0.08819910283280585,
+        "expression_oriented": 0.2458986659386333,
+        "ecosystem_oriented": 0.12724566897369677
+      },
+      "priority_raw": 0.058338354054358485,
+      "contest_raw": 0.03951838935207641
+    }
+  ],
+  "mood": {
+    "score": 0.021685291921756042,
+    "label": "cautious",
+    "contested_share": 0.0,
+    "emoji": "🟡"
+  },
   "root_causes": [
     {
+      "id": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "name": "Iran Conflict and Global Instability",
-      "severity": "High",
+      "target": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "name": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "root_cause": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "severity": "high",
+      "category": "convergent_priority",
+      "priority_score": 4.342855097249524,
+      "contest_score": -1.4572248762148017,
+      "contestedness": 0.020180137774394202,
+      "mood": "↗ positive",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
+      "signal_count": 1,
       "signals": [
-        "Signal 1",
-        "Signal 2",
-        "Signal 11",
-        "Signal 18"
+        "Australia wants to become the first country to eliminate a cancer - can it?"
       ],
-      "timeline": "2026-2027",
-      "rationale": "The ongoing Iran conflict is causing geopolitical instability, impacting global food security due to fertilizer shortages, escalating oil prices, and leading to human rights concerns such as the imprisonment of foreign nationals.",
-      "intervention": "Diplomatic negotiations to de-escalate the conflict, international pressure for ceasefire enforcement, and humanitarian aid to mitigate food and energy crises.",
-      "prediction": "Continued instability in the Middle East will lead to further economic disruptions and potential escalation of military actions.",
-      "falsification": "If a comprehensive peace agreement is reached and sanctions are lifted, reducing oil prices and stabilizing fertilizer supply chains."
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Australia wants to become the first country to eliminate a cancer - can it? is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Australia wants to become the first country to eliminate a cancer - can it? fade or reverse without spillover."
     },
     {
+      "id": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "name": "Authoritarianism and Human Rights Violations",
-      "severity": "Medium",
+      "target": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "name": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "root_cause": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.08533853346051486,
+      "contest_score": -0.23704456856757516,
+      "contestedness": 0.0461856060292421,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
       "signals": [
-        "Signal 10",
-        "Signal 12",
-        "Signal 14"
+        "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz"
       ],
-      "timeline": "2026-2028",
-      "rationale": "The persistence of authoritarian regimes and their actions, such as Myanmar's continued detention of Aung San Suu Kyi, Brazil's reduction of Bolsonaro's jail term, and Kabila's alleged destabilization efforts in DR Congo, highlight systemic governance failures and human rights abuses.",
-      "intervention": "Strengthen international legal frameworks to hold leaders accountable, support civil society movements, and increase sanctions targeting authoritarian regimes.",
-      "prediction": "Authoritarian regimes will face growing resistance, but may also intensify crackdowns on dissent.",
-      "falsification": "If democratic reforms are implemented and human rights violations decrease significantly in these regions."
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around US to cut troop levels in Germany by 5,000 amid Trump spat with Merz is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to US to cut troop levels in Germany by 5,000 amid Trump spat with Merz fade or reverse without spillover."
     },
     {
+      "id": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "name": "Social Unrest and Polarization",
-      "severity": "Medium",
+      "target": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "name": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "root_cause": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.11133977402324384,
+      "contest_score": 0.8874783211751592,
+      "contestedness": 0.06736995426431058,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
       "signals": [
-        "Signal 5",
-        "Signal 13",
-        "Signal 16"
+        "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term"
       ],
-      "timeline": "2026-2027",
-      "rationale": "Incidents of social unrest, such as May Day protests in Turkey, violence in Australia, and school stabbings in Washington state, reflect growing societal polarization and inadequate conflict resolution mechanisms.",
-      "intervention": "Invest in community-based conflict resolution programs, enhance security measures, and address root causes of inequality and social grievances.",
-      "prediction": "Social unrest will increase in frequency and intensity, particularly in regions with weak governance and high inequality.",
-      "falsification": "If proactive measures reduce the frequency of violent incidents and improve societal cohesion."
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Brazil's Congress approves plan to drastically cut Bolsonaro's jail term is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Brazil's Congress approves plan to drastically cut Bolsonaro's jail term fade or reverse without spillover."
     },
     {
+      "id": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "name": "Cultural and Religious Tensions",
-      "severity": "Low",
+      "target": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "name": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "root_cause": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.11495200674503431,
+      "contest_score": -0.2894387950207982,
+      "contestedness": 0.038524960995783564,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
       "signals": [
-        "Signal 7",
-        "Signal 8",
-        "Signal 19"
+        "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans"
       ],
-      "timeline": "2026-2028",
-      "rationale": "Rising harassment of Christians in Jerusalem, interception of Gaza aid flotillas, and tensions over Russia's return to the Venice Biennale highlight cultural and religious divisions exacerbating global conflicts.",
-      "intervention": "Promote interfaith dialogue, cultural diplomacy, and international monitoring of religious and cultural freedoms.",
-      "prediction": "Cultural and religious tensions will continue to fuel localized conflicts and diplomatic disputes.",
-      "falsification": "If significant progress is made in fostering interfaith and intercultural understanding, reducing incidents of harassment and conflict."
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around 'If we sleep they bite': Rats and weasels infest camps for displaced Gazans is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to 'If we sleep they bite': Rats and weasels infest camps for displaced Gazans fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "rank": 5,
+      "target": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "name": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "root_cause": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.12494556018197486,
+      "contest_score": -0.41774110996001496,
+      "contestedness": 0.0456576210296564,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "Trump tells Congress ceasefire means he does not need their approval for Iran war"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Trump tells Congress ceasefire means he does not need their approval for Iran war is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump tells Congress ceasefire means he does not need their approval for Iran war fade or reverse without spillover."
     }
   ],
   "predictions": [
     {
-      "root_cause": "Iran Conflict and Global Instability",
-      "prediction": "Oil prices will remain elevated, and food security will worsen due to prolonged conflict.",
-      "timeline": "By Q4 2026",
-      "falsification": "If oil prices stabilize and fertilizer shortages are resolved by Q4 2026.",
-      "severity": "High"
-    },
-    {
-      "root_cause": "Authoritarianism and Human Rights Violations",
-      "prediction": "Increased international sanctions and diplomatic efforts will target authoritarian regimes.",
-      "timeline": "2026-2027",
-      "falsification": "If authoritarian regimes strengthen their positions without significant international pushback.",
-      "severity": "Medium"
-    },
-    {
-      "root_cause": "Social Unrest and Polarization",
-      "prediction": "Violent incidents and protests will escalate in frequency, particularly in urban areas.",
-      "timeline": "2026-2027",
-      "falsification": "If violence and protests decrease due to effective interventions.",
-      "severity": "Medium"
-    },
-    {
-      "root_cause": "Cultural and Religious Tensions",
-      "prediction": "Localized conflicts driven by cultural and religious divisions will persist.",
-      "timeline": "2026-2028",
-      "falsification": "If interfaith and intercultural initiatives significantly reduce tensions.",
-      "severity": "Low"
+      "root_cause": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "prediction": "Momentum around Australia wants to become the first country to eliminate a cancer - can it? is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "falsification": "Signals tied to Australia wants to become the first country to eliminate a cancer - can it? fade or reverse without downstream spillover.",
+      "severity": "high"
     }
   ],
-  "narrative": "The global landscape in May 2026 is marked by escalating geopolitical tensions, social unrest, and cultural divisions. The Iran conflict is a central driver of instability, impacting global food security and energy markets. Authoritarian regimes continue to challenge democratic norms, while societal polarization fuels violent incidents and protests. Cultural and religious tensions further exacerbate localized conflicts. Addressing these systemic issues requires coordinated international efforts, targeted interventions, and proactive measures to reduce inequality and foster understanding.",
+  "narrative": "🟡 **Portfolio Mood: Cautious**  \nThe portfolio mood remains cautious, reflecting a subdued optimism tempered by structural uncertainties. While the score suggests a slight positive tilt, the absence of contested share highlights a lack of decisive momentum across the signals. This mood underscores a landscape where incremental progress is overshadowed by systemic fragilities, requiring vigilance in assessing both opportunities and risks.\n\n**Structural Implications of Top Signals**  \nAustralia’s ambition to become the first country to eliminate a cancer stands out as a convergent priority, signaling a rare alignment of survival-focused and stability-seeking clusters. This initiative is not just a public health milestone—it represents a broader structural shift toward proactive governance and innovation-driven resilience. The signal’s positive direction and high priority score suggest that Australia’s approach could serve as a model for other nations grappling with healthcare challenges, particularly in an era of strained global systems.  \n\nIn contrast, the background noise signals—such as the US troop reduction in Germany and Brazil’s Congress cutting Bolsonaro’s jail term—highlight fragmented governance and contested geopolitical dynamics. While these signals are less structurally significant, their contestedness and negative priority scores suggest underlying tensions that could ripple across broader systems. For instance, the troop reduction reflects shifting alliances and strategic recalibrations, while Brazil’s legislative maneuvering underscores the fragility of institutional accountability in polarized democracies.\n\n**Contested Signals and Ensemble Disagreement**  \nNotably, the signal regarding Trump’s claim that ceasefire negates Congressional approval for war powers reflects ensemble disagreement. While the direction is positive, its contest score (-0.417) and contestedness (0.045) reveal deep structural unease. This signal touches on sovereignty and governance-oriented clusters, raising questions about the erosion of checks and balances in democratic systems. The contested nature of this signal suggests that while some actors view this as a pragmatic assertion of executive power, others see it as a destabilizing precedent.\n\n**Longer-Term Trajectories**  \nThese signals collectively point to a world grappling with competing priorities: innovation and resilience on one hand, and governance and institutional fragility on the other. Australia’s cancer elimination efforts could catalyze a wave of health-driven policy innovation, while geopolitical recalibrations—such as the US troop reduction—may signal a broader trend of strategic disengagement. Meanwhile, contested governance signals, like Trump’s war powers claim, highlight the growing strain on democratic norms, which could shape the trajectory of global stability in the coming years.\n\n**What to Watch For Next**  \nLooking ahead, the interplay between proactive innovation and systemic fragility will be critical. Watch for developments in Australia’s cancer elimination strategy as a bellwether for health-driven resilience. Geopolitically, monitor whether the US troop reduction triggers broader shifts in NATO dynamics or regional security architectures. Finally, keep an eye on contested governance signals, particularly those involving executive power, as they may foreshadow deeper institutional challenges. The cautious mood underscores the need for adaptive strategies in navigating this complex landscape.",
   "noise_filtered": [
-    "Signal 3: French PM fuels row with trip to buy baguettes",
-    "Signal 6: Missing Oscar found after Academy Award winner blocked from taking it on flight",
-    "Signal 9: Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
-    "Signal 17: Britney Spears charged in California with driving under influence",
-    "Signal 20: Vonn still in 'survival mode' after Olympic crash"
+    "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+    "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+    "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
+    "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+    "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+    "Violence in Australian town after arrest of man over girl's murder",
+    "Israeli police arrest man after nun attacked in Jerusalem",
+    "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+    "Billions of meals at risk due to Iran war, says fertiliser boss",
+    "Spirit Airlines shutting down after rescue talks collapse",
+    "Trump claims other presidents flouted war powers law. It's a mixed record",
+    "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+    "Turkish police arrest more than 500 people at May Day rallies",
+    "War criminal Mladic close to death, say lawyers asking judge for jail release",
+    "Who shot a Secret Service officer at the Trump press dinner?",
+    "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+    "British couple jailed in Iran: 'We're likely to be here for a long time'",
+    "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+    "US court limits mail-order access to abortion pill mifepristone"
   ],
   "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_causes": [
+    "new_convergent": [
+      "Australia wants to become the first country to eliminate a cancer - can it?"
+    ],
+    "new_contested": [],
+    "removed_priorities": [
       "Iran Conflict and Global Instability",
       "Authoritarianism and Human Rights Violations",
       "Social Unrest and Polarization",
       "Cultural and Religious Tensions"
     ],
-    "removed_causes": [
-      "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "US House votes to end government shutdown over immigration operations"
+    "category_changes": [],
+    "priority_score_changes": [],
+    "mood_shift": "",
+    "structural_shifts": [
+      "niche_concern: 2 → 0"
     ],
-    "continuing_causes": [],
-    "severity_changes": [],
-    "new_stories": 17,
-    "carried_stories": 3,
+    "continuing_priorities": [],
+    "new_stories": 7,
+    "carried_stories": 13,
     "total_stories": 20,
-    "summary": "4 new root cause(s) emerged: Iran Conflict and Global Instability, Authoritarianism and Human Rights Violations, Social Unrest and Polarization, Cultural and Religious Tensions · 3 root cause(s) dropped: Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says, Oil price hits highest since 2022 after report Trump to be briefed on new Iran options, US House votes to end government shutdown over immigration operations · Signal freshness: 17 new stories, 3 carried over from yesterday, 20 total"
+    "summary": "1 new convergent priorities emerged: Australia wants to become the first country to eliminate a cancer - can it? · 4 priorities dropped: Iran Conflict and Global Instability, Authoritarianism and Human Rights Violations, Social Unrest and Polarization, Cultural and Religious Tensions · Structural shifts: niche_concern: 2 → 0 · Signal freshness: 7 new, 13 carried, 20 total"
   }
 }
