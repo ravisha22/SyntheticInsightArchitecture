@@ -1,0 +1,15 @@
+domain: community_health
+expert_persona: epidemiologist
+expert_prior:
+  physical_safety: 1.5
+  collective_welfare: 1.4
+  institutional_trust: 1.2
+  economic_stability: 1.1
+  social_cohesion: 1.0
+  individual_autonomy: 0.9
+  knowledge_capability: 0.8
+  environmental_continuity: 0.7
+signal_sources:
+- type: case_reports
+- type: surveys
+primary_endpoint: service_outcome_data

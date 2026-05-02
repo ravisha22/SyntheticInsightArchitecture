@@ -1,0 +1,14 @@
+domain: code_repo
+expert_persona: senior_engineer
+expert_prior:
+  knowledge_capability: 1.5
+  physical_safety: 1.4
+  institutional_trust: 1.3
+  collective_welfare: 1.0
+  economic_stability: 0.9
+  individual_autonomy: 0.8
+  social_cohesion: 0.7
+  environmental_continuity: 0.5
+signal_sources:
+- type: github_issues
+primary_endpoint: bug_resolution_impact
