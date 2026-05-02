@@ -688,14 +688,27 @@ def generate_narrative(stories: list[dict], priorities: list[dict], mood: dict) 
 Use this structured engine output and keep the analysis grounded in the supplied signals:
 {json.dumps(context, indent=2, ensure_ascii=False)}
 
+IMPORTANT RULES:
+- Headlines are often sensational clickbait. Temper them. Only evaluate fact-based headlines at face value.
+- Speculative or future-oriented headlines ("threatens to", "could", "warns of") should be weighted LOWER than headlines reporting completed actions or verified outcomes.
+- Distinguish between what HAS happened and what MIGHT happen. Be explicit about this.
+
+FORMAT:
+- Use clear paragraph breaks (separate paragraphs with blank lines)
+- Open with a one-line mood summary
+- Use **bold** for key structural findings
+- Use short paragraphs (3-4 sentences max each)
+- Number your key points if there are more than 3
+
 Write a 3-5 paragraph narrative that:
-1. Opens with the overall mood and what it means
-2. Explains WHY the top signals matter structurally (not just what happened)
+1. Opens with the overall mood and a one-sentence summary of the day's structural pattern
+2. Explains WHY the top signals matter structurally — separate facts from speculation
 3. Notes any contested signals where the ensemble disagreed on direction
 4. Connects the signals to longer-term trajectories
-5. Closes with what to watch for next
+5. Closes with what specifically to watch for next (concrete, not vague)
 
-Write as an editorial briefing, not a news summary. Focus on undertones, not headlines."""
+Write as an editorial briefing, not a news summary. Focus on undertones, not headlines.
+Do NOT just restate headlines — extract the structural meaning underneath them."""
 
     try:
         raw = _chat_completion(
@@ -857,10 +870,33 @@ def compute_maturity_date(created_at: str, timeline: str) -> str | None:
     return (created + delta).date().isoformat()
 
 
+def _drop_reason(prev_priority: dict, current_priorities: list[dict], current_stories: list[dict]) -> str:
+    """Determine why a priority dropped from today's report."""
+    prev_key = _priority_key(prev_priority)
+
+    for curr in current_priorities:
+        curr_key = _priority_key(curr)
+        if curr_key == prev_key:
+            prev_cat = prev_priority.get("category", "")
+            curr_cat = curr.get("category", "")
+            if curr_cat == "background_noise":
+                return "Reclassified as noise — ensemble no longer sees structural importance"
+            return f"Still present but reclassified: {prev_cat} → {curr_cat}"
+
+    prev_url = prev_priority.get("signal_id", "")
+    story_urls = {s.get("url", "") for s in current_stories}
+    if prev_url and prev_url not in story_urls:
+        return "No longer in today's news feed — story left the RSS cycle"
+
+    return "Displaced by higher-priority signals in today's analysis"
+
+
 def compute_delta(current: dict, previous: dict) -> dict:
     """Compare today's analysis against yesterday's."""
-    previous_priorities = {_priority_key(item): item for item in _priority_records(previous)}
-    current_priorities = {_priority_key(item): item for item in _priority_records(current)}
+    previous_priority_records = _priority_records(previous)
+    current_priority_records = _priority_records(current)
+    previous_priorities = {_priority_key(item): item for item in previous_priority_records}
+    current_priorities = {_priority_key(item): item for item in current_priority_records}
     if not previous_priorities:
         return {"is_first_run": True, "summary": "First analysis run — no prior data to compare.", "structural_shifts": []}
 
@@ -874,7 +910,14 @@ def compute_delta(current: dict, previous: dict) -> dict:
         for key, item in current_priorities.items()
         if key not in previous_priorities and item.get("category") == "contested_priority"
     ]
-    removed_priorities = [item.get("title", "") for key, item in previous_priorities.items() if key not in current_priorities]
+    removed_priorities = [
+        {
+            "title": item.get("title", ""),
+            "reason": _drop_reason(item, current_priority_records, current.get("stories", [])),
+        }
+        for key, item in previous_priorities.items()
+        if key not in current_priorities
+    ]
     category_changes = []
     priority_score_changes = []
     for key, item in current_priorities.items():
@@ -909,8 +952,8 @@ def compute_delta(current: dict, previous: dict) -> dict:
                 f"{previous_mood_payload.get('score', 0.0):.2f} → {current_mood_payload.get('score', 0.0):.2f}"
             )
 
-    previous_categories = Counter(item.get("category", "background_noise") for item in _priority_records(previous))
-    current_categories = Counter(item.get("category", "background_noise") for item in _priority_records(current))
+    previous_categories = Counter(item.get("category", "background_noise") for item in previous_priority_records)
+    current_categories = Counter(item.get("category", "background_noise") for item in current_priority_records)
     for category in ("convergent_priority", "contested_priority", "niche_concern"):
         previous_count = previous_categories.get(category, 0)
         current_count = current_categories.get(category, 0)
@@ -928,7 +971,11 @@ def compute_delta(current: dict, previous: dict) -> dict:
     if new_contested:
         parts.append(f"{len(new_contested)} new contested priorities emerged: {', '.join(new_contested)}")
     if removed_priorities:
-        parts.append(f"{len(removed_priorities)} priorities dropped: {', '.join(removed_priorities)}")
+        dropped_summary = "; ".join(
+            f"{item.get('title', 'Unknown')} ({item.get('reason', 'No reason recorded')})"
+            for item in removed_priorities
+        )
+        parts.append(f"{len(removed_priorities)} priorities dropped: {dropped_summary}")
     if category_changes:
         parts.append(f"Priority category shifted: {'; '.join(category_changes)}")
     if priority_score_changes:
@@ -1217,17 +1264,23 @@ def _render_delta_html(delta: dict) -> str:
         if new_convergent:
             items = "".join(f"<li>{escape(item)}</li>" for item in new_convergent)
             lines.append(
-                "<p style='margin:0 0 4px;'><strong>Act now:</strong></p>"
+                "<p style='margin:0 0 4px;'><strong>High interest:</strong></p>"
                 f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
             )
         if new_contested:
             items = "".join(f"<li>{escape(item)}</li>" for item in new_contested)
             lines.append(
-                "<p style='margin:0 0 4px;'><strong>Watch closely:</strong></p>"
+                "<p style='margin:0 0 4px;'><strong>Contested:</strong></p>"
                 f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
             )
         if removed_priorities:
-            items = "".join(f"<li>{escape(item)}</li>" for item in removed_priorities)
+            items = "".join(
+                "<li>"
+                f"<strong>{escape(item.get('title', 'Unknown'))}</strong><br>"
+                f"<span style='color:#6b7280;font-size:0.9em;'>Reason: {escape(item.get('reason', 'No reason recorded'))}</span>"
+                "</li>"
+                for item in removed_priorities
+            )
             lines.append(
                 "<p style='margin:0 0 4px;'><strong>Priorities dropped:</strong></p>"
                 f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
@@ -1261,6 +1314,31 @@ def _render_delta_html(delta: dict) -> str:
         f"{carried_s} carried, {total_s} total.</p>"
     )
     return "".join(lines)
+
+
+def _format_narrative_html(text: str) -> str:
+    """Convert narrative text into formatted HTML with paragraphs and bold."""
+    if not text:
+        return "<p>No narrative available.</p>"
+    # Split into paragraphs on double newlines
+    paragraphs = re.split(r'\n\s*\n', text.strip())
+    if len(paragraphs) == 1:
+        # Try single newlines if no double newlines
+        paragraphs = text.strip().split('\n')
+    formatted = []
+    for para in paragraphs:
+        para = para.strip()
+        if not para:
+            continue
+        # Escape HTML but preserve **bold** markers
+        safe = escape(para)
+        # Convert **bold** to <strong>
+        safe = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', safe)
+        # Convert numbered lists (1. 2. 3.) into list items
+        if re.match(r'^\d+[\.\)]\s', safe):
+            safe = re.sub(r'^(\d+[\.\)]\s)', r'<strong>\1</strong>', safe)
+        formatted.append(f'<p style="margin:0 0 14px;line-height:1.7;">{safe}</p>')
+    return '\n'.join(formatted)
 
 
 def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_url: str, previous: dict) -> str:
@@ -1594,7 +1672,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
 
      <section>
        <h2>Narrative</h2>
-       <p class="narrative">{escape(narrative)}</p>
+       <div class="narrative">{_format_narrative_html(narrative)}</div>
      </section>
 
      <section>
@@ -1671,8 +1749,8 @@ def build_email_html(
             "</div>"
         )
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
-    act_now = [item for item in priorities if item.get("category") == "convergent_priority"][:5]
-    watch_closely = [item for item in priorities if item.get("category") == "contested_priority"][:5]
+    high_interest = [item for item in priorities if item.get("category") == "convergent_priority"][:5]
+    contested_priorities = [item for item in priorities if item.get("category") == "contested_priority"][:5]
     niche_concerns = [item for item in priorities if item.get("category") == "niche_concern"][:5]
     matured_markup = ""
     if matured_predictions:
@@ -1733,17 +1811,20 @@ def build_email_html(
       </div>
       {degraded_banner}
 
-      <h2>Act now</h2>
-      {_render_priority_cards(act_now, "No convergent priorities today.")}
+      <h2>High interest</h2>
+      <p style="margin:4px 0 12px;color:#475569;">Signals where the 36-persona ensemble broadly agrees on importance and direction.</p>
+      {_render_priority_cards(high_interest, "No convergent priorities today.")}
 
-      <h2>Watch closely</h2>
-      {_render_priority_cards(watch_closely, "No contested priorities today.")}
+      <h2>Contested</h2>
+      <p style="margin:4px 0 12px;color:#475569;">Signals where the ensemble agrees this matters but disagrees on direction.</p>
+      {_render_priority_cards(contested_priorities, "No contested priorities today.")}
 
       <h2>Niche concerns</h2>
+      <p style="margin:4px 0 12px;color:#475569;">Signals that matter intensely to specific persona clusters but not the broader ensemble.</p>
       {_render_priority_cards(niche_concerns, "No niche concerns rose above the background today.")}
 
       <h2>Narrative</h2>
-      <p>{escape(report.get('narrative', ''))}</p>
+      {_format_narrative_html(report.get('narrative', ''))}
       {matured_markup}
 
       <h2 style='margin-top:32px;'>Delta</h2>
