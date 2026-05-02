@@ -93,7 +93,7 @@ Existing frameworks (AHP, MAUT, ELECTRE, PROMETHEE) do stakeholder-weighted prio
 
 ---
 
-## 3. Persona Archetype Design (Empirically Grounded)
+## 3. Persona Archetype Design (Theoretically Motivated)
 
 ### 3.1 Derivation method
 
@@ -121,9 +121,75 @@ Schwartz's 10-value model is chosen for tractability and cross-cultural validati
 
 The engine architecture is framework-agnostic: swapping Schwartz for Moral Foundations changes the weight matrix, not the engine. Comparative experiments using at least two value frameworks are planned for Phase 4.
 
-### 3.2 Proposed archetypes (32, not 100)
+**Operational encoding procedure (required before implementation):**
+1. For each archetype, take the dominant Schwartz values already listed in §3.2.
+2. Convert those values into structural-dimension loadings using the pre-registered Schwartz-to-dimension mapping table below. This table is derived from published Schwartz value definitions plus the dimension definitions in §4.1; it is the canonical seed mapping for Phase 1.
+3. Apply dominance coefficients by value order: 3 values -> `[0.5, 0.3, 0.2]`, 2 values -> `[0.6, 0.4]`, 1 value -> `[1.0]`.
+4. Compute the archetype's unnormalised dimension vector as the weighted average of its dominant value loadings:
 
-Grouped into 8 clusters of 4 archetypes each:
+   ```
+   raw_persona_weight[a, dim] = sum(
+     dominance_coeff[a, v] * schwartz_dimension_loading[v, dim]
+     for v in dominant_values[a]
+   )
+   ```
+
+5. Normalise the resulting dimension weights so the sum of absolute values equals 1.0. In Phase 1 all persona dimension weights are non-negative salience weights, so this reduces to a simple sum-to-1 normalisation:
+
+   ```
+   persona_weight[a, dim] = raw_persona_weight[a, dim] / sum(abs(raw_persona_weight[a, *]))
+   ```
+
+6. Set meta-feature weights to uniform by default: `persona_meta_weight[a, meta] = 1/6`. Domain tuning is allowed later, but the six meta-feature weights must still sum to 1.0 for each archetype.
+7. Require 3 independent encoders to create the full Schwartz-to-dimension table and resulting archetype matrix without seeing each other's work. Measure inter-encoder agreement with ICC(2,k); the encoding is not accepted unless ICC >= 0.7.
+8. Store both the raw encoder tables and the consensus-normalised matrix in version control so the transformation is auditable end-to-end.
+
+**Pre-registered Schwartz-to-dimension mapping table (seed matrix):**
+
+| Schwartz value | Structural-dimension loadings |
+|---|---|
+| **Self-Direction** | individual_autonomy 0.9; knowledge_capability 0.8; institutional_trust 0.2 |
+| **Stimulation** | individual_autonomy 0.8; knowledge_capability 0.6; economic_stability 0.2 |
+| **Hedonism** | individual_autonomy 0.6; economic_stability 0.3; social_cohesion 0.1 |
+| **Achievement** | economic_stability 0.7; knowledge_capability 0.7; institutional_trust 0.3; individual_autonomy 0.3 |
+| **Power** | institutional_trust 0.7; economic_stability 0.6; physical_safety 0.4; social_cohesion 0.2 |
+| **Security** | physical_safety 0.9; economic_stability 0.8; institutional_trust 0.6; social_cohesion 0.3 |
+| **Conformity** | institutional_trust 0.8; social_cohesion 0.7; physical_safety 0.4; collective_welfare 0.3 |
+| **Tradition** | social_cohesion 0.6; environmental_continuity 0.6; institutional_trust 0.5; collective_welfare 0.3 |
+| **Benevolence** | collective_welfare 0.9; social_cohesion 0.8; physical_safety 0.4; institutional_trust 0.2 |
+| **Universalism** | collective_welfare 0.9; environmental_continuity 0.8; institutional_trust 0.6; social_cohesion 0.5; individual_autonomy 0.4 |
+
+**Worked example (A15: Parent of young children — Benevolence + Security + Conformity):**
+
+```
+raw_persona_weight[A15] =
+  0.5 * Benevolence +
+  0.3 * Security +
+  0.2 * Conformity
+
+= {
+  physical_safety: 0.55,
+  economic_stability: 0.24,
+  institutional_trust: 0.44,
+  social_cohesion: 0.63,
+  collective_welfare: 0.51
+}
+
+persona_weight[A15] = raw / 2.37
+= {
+  physical_safety: 0.232,
+  economic_stability: 0.101,
+  institutional_trust: 0.186,
+  social_cohesion: 0.266,
+  collective_welfare: 0.215
+}
+```
+
+This procedure replaces any intuitive hand-assignment of persona vectors. If later empirical latent-class fitting produces cluster centroids, those centroids supersede this seed matrix, but the same normalisation and audit rules still apply.
+
+### 3.2 Proposed archetypes (36, not 100)
+
+Grouped into 9 clusters of 4 archetypes each:
 
 **Cluster 1: Survival-focused (basic needs at risk)**
 - A1: Subsistence farmer, traditional, Global South — Security + Conformity dominant
@@ -226,7 +292,14 @@ Instead of inventing 8 dimensions, derive from the intersection of Schwartz valu
 Given a raw signal (news story, bug report, complaint, etc.):
 
 1. **LLM extracts** the signal's structural content: what dimensions does it touch, and in what direction (positive/negative/neutral)?
-2. Output: a vector of 8 dimension scores (-1.0 to +1.0) plus 6 meta-feature scores (0.0 to 1.0)
+2. Output: a vector of 8 dimension scores plus 6 meta-feature scores with fixed ranges:
+   - `signal_score[s, dim] ∈ [-1.0, +1.0]`
+   - `signal_meta[s, meta] ∈ [0.0, 1.0]`
+3. All signals receive one classification pass. After the first pass, compute `priority_score_single_pass` from the first-pass `priority_raw` values z-scored across the current batch/window. Only the top 20 signals by `priority_score_single_pass` receive 2 additional classification passes with different seeds/temperatures.
+4. For those top-20 signals:
+   - point estimate = mean across the 3 passes
+   - extraction uncertainty = sample standard deviation across the 3 passes
+5. Flag any top-20 signal with `final_uncertainty[s] > 0.3` as **UNRELIABLE EXTRACTION** and require manual review before using it in evaluation.
 
 ### 5.2 Domain expert layer
 
@@ -235,21 +308,23 @@ For each domain, a domain expert persona is specified:
 - **Code triage**: senior engineer — emphasises knowledge/capability, physical safety (security), institutional trust (reliability)
 - **Community health**: epidemiologist — emphasises physical safety, collective welfare, institutional trust
 
-The expert provides a **dimensional prior** — a weighting over which dimensions are most relevant for this domain. This is multiplicative: it amplifies relevant dimensions without zeroing out others.
+The expert provides a **dimensional prior** — a weighting over which dimensions are most relevant for this domain. This is multiplicative: it amplifies relevant dimensions without zeroing out others. Expert priors are normalised to mean 1.0 so they change emphasis but do not change the overall scale:
 
 ```
-expert_prior[d] = {
-  "economic_stability": 1.5,    # amplified for economist
+expert_prior_raw[d] = {
+  "economic_stability": 1.5,
   "institutional_trust": 1.3,
-  "physical_safety": 1.0,       # baseline
+  "physical_safety": 1.0,
   "social_cohesion": 0.8,
   ...
 }
+
+expert_prior[d] = expert_prior_raw[d] / mean(expert_prior_raw[*])
 ```
 
 ### 5.3 Persona-ensemble scoring
 
-For each of the 32 archetypes, compute:
+For each of the 36 archetypes, compute. Persona dimension weights must sum to 1.0 in absolute value; meta-feature weights must sum to 1.0.
 
 ```
 raw_score[a, s] = sum(
@@ -265,17 +340,17 @@ This is a single matrix multiplication — no LLM calls.
 
 ### 5.4 Convergence and divergence
 
-Group archetypes into their 8 clusters. Compute:
+Group archetypes into their 9 clusters. Compute:
 
 ```
 cluster_mean[c, s] = mean(raw_score[a, s] for a in cluster[c])
-convergence[s] = mean(cluster_mean[c, s] for c in 8_clusters)
-divergence[s] = stddev(cluster_mean[c, s] for c in 8_clusters)
+convergence[s] = mean(cluster_mean[c, s] for c in 9_clusters)
+divergence[s] = stddev(cluster_mean[c, s] for c in 9_clusters)
 ```
 
-### 5.5 Priority and complexity scores (2D output, never collapsed)
+### 5.5 Priority, contestedness, and uncertainty (3 outputs, never collapsed)
 
-The system reports priority and contestedness as **separate outputs**, not a single collapsed score:
+The system reports priority, contestedness, and uncertainty as **separate outputs**, not a single collapsed score.
 
 ```
 impact[s] = 0.25*urgency + 0.20*scale + 0.20*irreversibility + 0.20*cascade_risk + 0.15*evidence_quality
@@ -291,14 +366,39 @@ contestedness[s] = median_absolute_deviation(cluster_mean[c, s] for c in cluster
 
 # Priority is central_tendency × impact × actionability
 # Contestedness is reported alongside, never multiplied in
-priority_score[s] = central_tendency[s] * impact[s] * actionability[s]
-contest_score[s] = contestedness[s] * impact[s]
+priority_raw[s] = central_tendency[s] * impact[s] * actionability[s]
+contest_raw[s] = contestedness[s] * impact[s]
+
+# Final score normalisation for ranking
+priority_score[s] = zscore(priority_raw[s] across current batch/window)
+contest_score[s] = zscore(contest_raw[s] across current batch/window)
 
 # Polarity: is this a risk or an opportunity?
 polarity[s] = sign(median(raw_score[a, s] for a in all_archetypes))
 ```
 
-**Critical design decision:** priority_score and contest_score are NEVER collapsed into a single number. High-priority AND high-contestedness signals are surfaced with explicit "the ensemble agrees this matters but disagrees on direction" flags. This prevents the multiplicative trap where contested high-impact signals get suppressed.
+Uncertainty propagation is performed only for the top-20 signals that received triple classification. Let `signal_dim_uncertainty[s, dim]` and `signal_meta_uncertainty[s, meta]` be the cross-pass standard deviations.
+
+```
+effective_dim_weight[a, dim] = persona_weight[a, dim] * expert_prior[dim]
+
+raw_uncertainty[a, s] = sqrt(
+  sum(
+    effective_dim_weight[a, dim]^2 * signal_dim_uncertainty[s, dim]^2
+    for dim in 8_dimensions
+  ) +
+  sum(
+    persona_meta_weight[a, meta]^2 * signal_meta_uncertainty[s, meta]^2
+    for meta in 6_meta_features
+  )
+)
+
+final_uncertainty[s] = sqrt(mean(raw_uncertainty[a, s]^2 for a in all_archetypes))
+```
+
+Report rank confidence intervals by drawing 1,000 Monte Carlo samples from the per-signal score distributions implied by `priority_raw ± final_uncertainty`, re-ranking each draw, and storing the 5th-95th percentile rank interval.
+
+**Critical design decision:** `priority_score`, `contest_score`, and `final_uncertainty` are NEVER collapsed into a single number. High-priority AND high-contestedness signals are surfaced with explicit disagreement flags, and high-uncertainty signals are surfaced with explicit reliability flags.
 
 ### 5.6 Output categories
 
@@ -306,10 +406,10 @@ Each signal is classified into one of:
 
 | Category | Condition | Meaning |
 |---|---|---|
-| **Convergent priority** | High central_tendency, high sign_agreement, high impact | Everyone agrees this matters and agrees on direction |
-| **Contested priority** | High central_tendency, low sign_agreement, high impact | Everyone agrees this matters but disagrees on direction — MOST INTERESTING |
-| **Niche concern** | Low central_tendency, high impact for specific clusters | Matters intensely to some perspectives, invisible to others |
-| **Background noise** | Low central_tendency, low impact | Noise — not structurally important from any perspective |
+| **Convergent priority** | `zscore(central_tendency) >= 0.5`, `sign_agreement >= 0.75`, `zscore(impact) >= 0.5` | Everyone agrees this matters and agrees on direction |
+| **Contested priority** | `zscore(central_tendency) >= 0.5`, `sign_agreement <= 0.55`, `zscore(impact) >= 0.5` | Everyone agrees this matters but disagrees on direction — MOST INTERESTING |
+| **Niche concern** | `zscore(central_tendency) < 0.0`, `max(zscore(cluster_mean[c, s])) >= 1.0`, `zscore(impact) >= 0.5` | Matters intensely to some perspectives, invisible to others |
+| **Background noise** | `zscore(central_tendency) < 0.0`, `zscore(impact) < 0.0` | Noise — not structurally important from any perspective |
 
 **Interesting signal detection (Opus 4.7's insight):**
 Flag signals where:
@@ -322,20 +422,30 @@ These are computed by comparing against a random-weights ensemble baseline (§10
 
 ## 6. Expert-Ensemble Coupling (Formal Specification)
 
-**Mechanism: Multiplicative dimensional prior with explicit disagreement surfacing.**
+**Mechanism: multiplicative dimensional prior with explicit disagreement surfacing.**
 
 ```
 expert_score[s] = sum(expert_prior[dim] * signal_score[s, dim] for dim in dims)
-ensemble_score[s] = convergence[s]
+expert_priority_ranking = rank_desc(expert_score)
+ensemble_priority_ranking = rank_desc(priority_score)
 
-agreement = 1.0 - abs(rank(expert_score) - rank(ensemble_score)) / n_signals
+expert_ensemble_agreement = kendall_tau(
+  expert_priority_ranking,
+  ensemble_priority_ranking
+)
 
-if agreement < 0.3:
-  flag = "EXPERT-ENSEMBLE DISAGREEMENT"
-  explanation = "The domain expert would rank this differently than the diverse ensemble"
+per_signal_gap[s] = abs(
+  percentile_rank_desc(expert_score[s]) -
+  percentile_rank_desc(priority_score[s])
+)
+
+flagged_disagreements = [
+  s for s in signals
+  if per_signal_gap[s] > 0.3
+]
 ```
 
-This prevents the expert from silently dominating AND prevents the ensemble from silently overriding expert depth. Disagreements are surfaced as findings.
+`expert_ensemble_agreement` is the portfolio-level coupling statistic; `per_signal_gap` is only for reporting and review. The disagreement threshold `0.3` is pre-registered and corresponds to expert/ensemble discordance of at least 30 percentile points (for example, top-30% vs bottom-30%).
 
 ---
 
@@ -344,30 +454,55 @@ This prevents the expert from silently dominating AND prevents the ensemble from
 ### 7.1 What gets fed back
 
 After each cycle, record:
-- What was prioritised (top-N signals)
-- What actually happened (outcome observation, manual or automated)
-- Which archetypes' scores best predicted the outcome
+- what was prioritised (top-N signals)
+- what actually happened (outcome observation, manual or automated)
+- which archetypes' scores best predicted the outcome
+
+Outcome variables are domain-specific and must be operationalised before experiments begin:
+- **World affairs:** `outcome_score[s] ∈ {0,1}` — 1 if the signal's predicted trend materialised within the pre-registered prediction horizon, 0 otherwise, measured by follow-up news analysis against a fixed rubric.
+- **Code triage:** `outcome_score[s] ∈ {0.0, 0.5, 1.0}` — 0.5 for bug fixed within the sprint, plus 0.5 if the fix reduced related incidents/reopens in the next sprint, measured from issue-resolution and incident data.
+- **Community health:** `outcome_score[s] ∈ {0,1}` — 1 if the intervention reduced the target service metric by the pre-registered threshold in the evaluation window, 0 otherwise, measured from service outcome data.
+
+For each archetype and domain:
+
+```
+reward[a, domain] = pearson_r(
+  archetype_priority_scores[a, signals_in_window],
+  outcome_scores[signals_in_window]
+)
+```
+
+Compute this over a rolling 30-day window. Do not update a domain unless the window contains at least 10 signals with observed outcomes.
 
 ### 7.2 Calibration update
 
-For each archetype, track predictive calibration per domain:
+For each domain, update archetype weights with a bounded multiplicative rule plus cluster projection:
 
 ```
-calibration[a, domain] = correlation(archetype_score, observed_outcome)
+w_raw[a] = w_old[a] * exp(η * reward[a, domain])
+w_clipped[a] = clip(w_raw[a], 0.02, 0.05)
+
+for each cluster c:
+  cluster_sum[c] = sum(w_clipped[a] for a in cluster[c])
+  target_cluster_weight = 1.0 / n_clusters
+  for a in cluster[c]:
+    w_final[a] = w_clipped[a] * (target_cluster_weight / cluster_sum[c])
 ```
 
-Use bounded multiplicative update:
-```
-weight[a] = clip(weight[a] * exp(η * reward[a]), floor=0.02, cap=0.05)
-```
+Parameters:
+- `η = 0.1` by default (tunable only by pre-registration)
+- `n_clusters = 9` in the current archetype set
+- update window = rolling 30 days
+- minimum observations = 10 resolved signals per domain window
 
 ### 7.3 Anti-collapse safeguards
 
-1. **Cluster equality**: each of the 8 clusters maintains equal total weight (0.125 each)
-2. **Weight floor/cap**: no single archetype can dominate (0.02 to 0.05 range)
-3. **Domain-local learning**: calibration in code triage doesn't affect world affairs weights
-4. **Divergence preservation**: contested signals stay contested — they're not averaged away
-5. **Counterfactual reporting**: show "what would change if we removed cluster X"
+1. **Cluster equality:** each of the 9 clusters maintains equal total weight (`1/9` each after projection)
+2. **Weight floor/cap:** no single archetype can dominate (0.02 to 0.05 range before cluster projection)
+3. **Domain-local learning:** calibration in code triage does not affect world affairs weights
+4. **Divergence preservation:** contested signals stay contested — they are not averaged away
+5. **Counterfactual reporting:** show "what would change if we removed cluster X"
+6. **No silent updates:** store `w_old`, `reward`, `w_clipped`, and `w_final` for every update window so calibration is fully auditable
 
 ---
 
@@ -462,9 +597,10 @@ benchmark: service_outcome_data
 
 ### 10.1 Designer-bias ablation (MUST run first)
 
-Have 3 independent reviewers each design their own set of 32 persona weight vectors. Run the same signal set through all 3. Measure:
-- Rank correlation between the 3 outputs
-- If correlation < 0.7: system is designer-dependent → must use empirical weights instead
+Have 3 independent reviewers each design their own set of 36 persona weight vectors using the procedure in §3.1. Run the same signal set through all 3. Measure:
+- Pairwise Kendall τ between the 3 ranked outputs
+- ICC(2,k) across the 3 weight matrices
+- If ICC < 0.7: system is designer-dependent -> must use empirical weights instead
 
 ### 10.2 Baseline comparisons (5 baselines, not 1)
 
@@ -496,13 +632,13 @@ For the daily world affairs application:
 
 ---
 
-## 12. Ethical Considerations and Stereotype Risk
+## 11. Ethical Considerations and Stereotype Risk
 
-### 12.1 Persona archetypes are not demographic truths
+### 11.1 Persona archetypes are not demographic truths
 
 Each archetype is a synthetic stakeholder constructed from value theory, not a claim about how any real demographic group thinks. "Subsistence farmer, Global South" is a value-profile approximation, not a statement about all Global South farmers.
 
-### 12.2 Risks
+### 11.2 Risks
 
 1. **Stereotype encoding**: persona weight vectors could encode harmful stereotypes (e.g., assuming all refugees prioritise safety above all else). Mitigated by: (a) weight derivation from survey data, not intuition, (b) audit for harmful patterns, (c) sensitivity analysis removing identity labels.
 
@@ -510,7 +646,7 @@ Each archetype is a synthetic stakeholder constructed from value theory, not a c
 
 3. **Normalising uncomfortable perspectives**: including nationalist/authoritarian archetypes could be misread as endorsement. Mitigated by: (a) explicit framing as descriptive, not normative, (b) every output states "this is what a diverse human collective WOULD prioritise, not what SHOULD be prioritised."
 
-### 12.3 Required audits
+### 11.3 Required audits
 
 1. Run the engine with and without identity labels on personas — if outputs change significantly, the labels are doing work that the value profiles should be doing alone
 2. Check for dimensions where a single demographic cluster dominates — if "physical safety" is only scored high by the survival-focused cluster, the dimension may be encoding poverty, not a universal value
@@ -518,7 +654,7 @@ Each archetype is a synthetic stakeholder constructed from value theory, not a c
 
 ---
 
-## 13. What This Document Is NOT
+## 12. What This Document Is NOT
 
 This is not a product spec. This is a research design.
 
@@ -532,9 +668,9 @@ If the hypothesis is falsified (single-prompt LLM performs equivalently), that i
 
 ---
 
-## 12. Next Steps
+## 13. Next Steps
 
-1. Encode the 32 persona archetypes with Schwartz-derived weight vectors → `configs/persona_ensemble.yaml`
+1. Encode the 36 persona archetypes with Schwartz-derived weight vectors using the procedure in §3.1 → `configs/persona_ensemble.yaml`
 2. Build the domain-agnostic scoring engine → `src/core/`
 3. Run designer-bias ablation as first experiment
 4. Apply to world affairs pipeline as experiment #1
