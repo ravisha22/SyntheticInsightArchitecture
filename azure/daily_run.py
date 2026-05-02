@@ -12,6 +12,7 @@ import string
 import sys
 import time
 import xml.etree.ElementTree as ET
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -386,6 +387,7 @@ def _normalize_priority_signal(signal: dict) -> dict:
         "source": signal.get("source", ""),
         "url": signal.get("url", ""),
         "published": signal.get("published", ""),
+        "classifier_fallback": bool(signal.get("classifier_fallback", False)),
         "priority_score": float(signal.get("priority_score", 0.0)),
         "contest_score": float(signal.get("contest_score", 0.0)),
         "category": signal.get("category", "background_noise"),
@@ -405,6 +407,53 @@ def _normalize_priority_signal(signal: dict) -> dict:
     return normalized
 
 
+def _coerce_float(value: Any, default: float = 0.0) -> float:
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def _priority_title(item: dict) -> str:
+    return str(
+        item.get("title")
+        or item.get("target")
+        or item.get("name")
+        or item.get("root_cause")
+        or ""
+    ).strip()
+
+
+def _normalize_priority_category(value: Any) -> str:
+    raw = str(value or "").strip().lower()
+    if raw in {"convergent_priority", "contested_priority", "niche_concern", "background_noise"}:
+        return raw
+    return {
+        "high": "convergent_priority",
+        "major": "contested_priority",
+        "moderate": "niche_concern",
+        "medium": "niche_concern",
+        "low": "background_noise",
+        "minor": "background_noise",
+        "cosmetic": "background_noise",
+    }.get(raw, raw)
+
+
+def _normalize_mood_payload(payload: dict) -> dict:
+    mood = payload.get("mood", {})
+    if isinstance(mood, str):
+        label = mood.strip().lower()
+        return {"label": label, "score": 0.0, "emoji": mood_emoji(label)}
+    if not isinstance(mood, dict):
+        return {"label": "", "score": 0.0, "emoji": "⚪"}
+    label = str(mood.get("label", "")).strip().lower()
+    return {
+        "label": label,
+        "score": _coerce_float(mood.get("score", 0.0)),
+        "emoji": mood.get("emoji") or mood_emoji(label),
+    }
+
+
 def run_core_analysis(stories: list[dict], domain: str = "world_affairs") -> dict:
     """Run the persona-ensemble prioritisation engine on collected stories."""
 
@@ -420,8 +469,10 @@ def run_core_analysis(stories: list[dict], domain: str = "world_affairs") -> dic
         ]
     )
     classifier = LLMClassifier(DailyRunAdapter()) if has_llm else MockClassifier()
+    fallback_classifier = MockClassifier()
 
     classified_signals = []
+    fallback_count = 0
     for index, story in enumerate(stories, start=1):
         signal = {
             "signal_id": story.get("url") or normalize_title(story.get("title", "")) or f"story-{index}",
@@ -432,21 +483,74 @@ def run_core_analysis(stories: list[dict], domain: str = "world_affairs") -> dic
             "url": story.get("url", ""),
             "published": story.get("published", ""),
         }
-        classification = classifier.classify(signal)
+        try:
+            classification = classifier.classify(signal)
+        except Exception as exc:
+            LOGGER.warning("LLM classification failed for signal, falling back to mock: %s", exc)
+            classification = fallback_classifier.classify(signal)
+            classification["classifier_fallback"] = True
+            fallback_count += 1
         classification["title"] = signal["title"]
         classification["source"] = signal["source"]
         classification["url"] = signal["url"]
         classification["published"] = signal["published"]
         classified_signals.append(classification)
 
+    total_classified = len(classified_signals)
+    fallback_rate = (fallback_count / total_classified) if total_classified else 0.0
+    if fallback_count:
+        LOGGER.warning(
+            "LLM classification fallback rate: %s/%s signals (%.0f%%)",
+            fallback_count,
+            total_classified,
+            fallback_rate * 100,
+        )
+    else:
+        LOGGER.info("LLM classification fallback rate: 0/%s signals (0%%)", total_classified)
+
     result = PrioritizationEngine(ensemble, domain_profile).prioritize(classified_signals, budget=10)
-    ranked_signals = [_normalize_priority_signal(signal) for signal in result.ranked_signals]
+    fallback_by_signal_id = {
+        str(signal.get("signal_id", "")): bool(signal.get("classifier_fallback", False)) for signal in classified_signals
+    }
+    ranked_signals = []
+    for signal in result.ranked_signals:
+        enriched_signal = dict(signal)
+        enriched_signal["classifier_fallback"] = fallback_by_signal_id.get(str(signal.get("signal_id", "")), False)
+        ranked_signals.append(_normalize_priority_signal(enriched_signal))
+    selected_signals = []
+    for signal in result.selected_signals:
+        enriched_signal = dict(signal)
+        enriched_signal["classifier_fallback"] = fallback_by_signal_id.get(str(signal.get("signal_id", "")), False)
+        selected_signals.append(_normalize_priority_signal(enriched_signal))
+
+    non_noise_count = sum(1 for priority in ranked_signals if priority.get("category") != "background_noise")
+    engine_health = {
+        "non_noise_count": non_noise_count,
+        "fallback_count": sum(1 for priority in ranked_signals if priority.get("classifier_fallback")),
+        "total_count": len(ranked_signals),
+    }
+    engine_health["non_noise_ratio"] = (
+        engine_health["non_noise_count"] / engine_health["total_count"] if engine_health["total_count"] else 0.0
+    )
+    engine_health["degraded"] = (
+        engine_health["non_noise_count"] == 0
+        or engine_health["fallback_count"] > engine_health["total_count"] * 0.5
+    )
+    if engine_health["degraded"]:
+        LOGGER.warning(
+            "Engine quality degraded: %s/%s fallback classifications, %s non-noise priorities",
+            engine_health["fallback_count"],
+            engine_health["total_count"],
+            engine_health["non_noise_count"],
+        )
+
     mood = dict(result.portfolio_mood)
     mood["emoji"] = mood_emoji(mood.get("label", ""))
     return {
         "priorities": ranked_signals,
-        "selected_priorities": [_normalize_priority_signal(signal) for signal in result.selected_signals],
+        "selected_priorities": selected_signals,
         "mood": mood,
+        "engine_health": engine_health,
         "noise_filtered": [signal["title"] for signal in ranked_signals if signal.get("category") == "background_noise"],
     }
 
@@ -508,19 +612,37 @@ def build_legacy_root_causes(priorities: list[dict]) -> list[dict]:
         "background_noise": "low",
     }
     root_causes = []
-    for priority in sorted(priorities, key=lambda item: item.get("priority_score", 0.0), reverse=True)[:5]:
+    for index, priority in enumerate(
+        sorted(priorities, key=lambda item: item.get("priority_score", 0.0), reverse=True)[:5],
+        start=1,
+    ):
+        title = _priority_title(priority) or "Unknown signal"
         prediction = _priority_prediction_text(priority)
+        top_clusters = ", ".join((priority.get("top_clusters") or {}).keys()) or "mixed personas"
         root_causes.append(
             {
-                "name": priority.get("title", "Unknown signal"),
+                "id": priority.get("signal_id", normalize_title(title) or f"root-cause-{index}"),
+                "rank": index,
+                "target": title,
+                "title": title,
+                "name": title,
+                "root_cause": title,
                 "severity": severity_map.get(priority.get("category", ""), priority.get("category", "unknown")),
-                "rationale": f"Priority: {priority.get('priority_score', 0.0):.2f}, Contest: {priority.get('contest_score', 0.0):.2f}",
+                "category": priority.get("category", "unknown"),
+                "priority_score": _coerce_float(priority.get("priority_score", 0.0)),
+                "contest_score": _coerce_float(priority.get("contest_score", 0.0)),
+                "contestedness": _coerce_float(priority.get("contestedness", 0.0)),
+                "mood": signal_direction(priority),
+                "rationale": (
+                    f"Classified as {category_label(priority.get('category', 'background_noise'))} "
+                    f"with {signal_direction(priority)} ensemble direction and strongest pull from {top_clusters}."
+                ),
                 "signal_count": 1,
-                "signals": [priority.get("title", "Unknown signal")],
+                "signals": [title],
                 "timeline": "1-4 weeks",
                 "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
                 "prediction": prediction,
-                "falsification": f"Signals tied to {priority.get('title', 'this signal')} fade or reverse without spillover.",
+                "falsification": f"Signals tied to {title} fade or reverse without spillover.",
             }
         )
     return root_causes
@@ -529,29 +651,42 @@ def build_legacy_root_causes(priorities: list[dict]) -> list[dict]:
 def generate_narrative(stories: list[dict], priorities: list[dict], mood: dict) -> str:
     """Use LLM to write narrative informed by engine priorities."""
 
-    top_priorities = [
-        priority
-        for priority in priorities
-        if priority.get("category") in ("convergent_priority", "contested_priority")
-    ][:5]
-    priority_context = "\n".join(
-        [
-            (
-                f"- {priority.get('title', 'Unknown')} "
-                f"(priority: {priority.get('priority_score', 0.0):.2f}, category: {priority.get('category', 'unknown')}, "
-                f"contestedness: {priority.get('contestedness', 0.0):.2f})"
-            )
+    top_priorities = priorities[:5]
+    context = {
+        "portfolio_mood": {
+            "label": mood.get("label", "cautious"),
+            "emoji": mood.get("emoji", "⚪"),
+            "score": _coerce_float(mood.get("score", 0.0)),
+            "contested_share": _coerce_float(mood.get("contested_share", 0.0)),
+        },
+        "selected_priorities": [
+            {
+                "title": _priority_title(priority) or "Unknown",
+                "category": priority.get("category", "unknown"),
+                "priority_score": _coerce_float(priority.get("priority_score", 0.0)),
+                "contestedness": _coerce_float(priority.get("contestedness", 0.0)),
+                "contest_score": _coerce_float(priority.get("contest_score", 0.0)),
+                "direction": signal_direction(priority),
+                "sign_agreement": _coerce_float(priority.get("sign_agreement", 0.0)),
+                "top_clusters": priority.get("top_clusters", {}),
+                "bottom_clusters": priority.get("bottom_clusters", {}),
+            }
             for priority in top_priorities
-        ]
-    ) or "- No clear convergent or contested priorities were identified."
+        ],
+        "supporting_signals": [
+            {
+                "title": story.get("title", ""),
+                "source": story.get("source", ""),
+                "published": story.get("published", ""),
+            }
+            for story in stories[:8]
+        ],
+    }
 
     prompt = f"""You are writing the daily SIA intelligence briefing narrative.
 
-The persona-ensemble prioritisation engine has scored today's signals.
-The portfolio mood is: {mood.get('label', 'cautious')} ({mood.get('emoji', '⚪')}, score: {float(mood.get('score', 0.0)):.2f})
-
-Top priorities identified by the ensemble:
-{priority_context}
+Use this structured engine output and keep the analysis grounded in the supplied signals:
+{json.dumps(context, indent=2, ensure_ascii=False)}
 
 Write a 3-5 paragraph narrative that:
 1. Opens with the overall mood and what it means
@@ -592,20 +727,45 @@ Write as an editorial briefing, not a news summary. Focus on undertones, not hea
 
 
 def _priority_key(item: dict) -> str:
-    return normalize_title(item.get("title", item.get("name", "")))
+    signal_id = str(item.get("signal_id") or item.get("id") or item.get("url") or "").strip()
+    if signal_id and signal_id != "signal":
+        parsed = urlparse(signal_id)
+        normalized_url = f"{parsed.netloc}{parsed.path}".rstrip("/")
+        return normalized_url or signal_id
+    return normalize_title(_priority_title(item))
 
 
 def _priority_records(payload: dict) -> list[dict]:
-    priorities = payload.get("priorities")
+    priorities = payload.get("priorities") or payload.get("selected_priorities")
     if priorities:
-        return [item for item in priorities if _priority_key(item)]
+        normalized = []
+        for item in priorities:
+            title = _priority_title(item)
+            if not title:
+                continue
+            normalized.append(
+                {
+                    **item,
+                    "signal_id": item.get("signal_id") or item.get("id") or item.get("url", ""),
+                    "title": title,
+                    "category": _normalize_priority_category(item.get("category", item.get("severity", ""))),
+                    "priority_score": _coerce_float(item.get("priority_score", item.get("priority_raw", 0.0))),
+                    "contestedness": _coerce_float(item.get("contestedness", item.get("contest_score", 0.0))),
+                }
+            )
+        return normalized
     legacy = []
     for cause in payload.get("root_causes", []):
+        title = _priority_title(cause)
+        if not title:
+            continue
         legacy.append(
             {
-                "title": cause.get("name", ""),
-                "category": cause.get("severity", "unknown"),
-                "priority_score": 0.0,
+                "signal_id": cause.get("signal_id") or cause.get("id") or cause.get("url", ""),
+                "title": title,
+                "category": _normalize_priority_category(cause.get("category", cause.get("severity", "unknown"))),
+                "priority_score": _coerce_float(cause.get("priority_score", 0.0)),
+                "contestedness": _coerce_float(cause.get("contestedness", cause.get("contest_score", 0.0))),
             }
         )
     return [item for item in legacy if _priority_key(item)]
@@ -699,10 +859,10 @@ def compute_maturity_date(created_at: str, timeline: str) -> str | None:
 
 def compute_delta(current: dict, previous: dict) -> dict:
     """Compare today's analysis against yesterday's."""
-    previous_priorities = { _priority_key(item): item for item in _priority_records(previous) }
-    current_priorities = { _priority_key(item): item for item in _priority_records(current) }
+    previous_priorities = {_priority_key(item): item for item in _priority_records(previous)}
+    current_priorities = {_priority_key(item): item for item in _priority_records(current)}
     if not previous_priorities:
-        return {"is_first_run": True, "summary": "First analysis run — no prior data to compare."}
+        return {"is_first_run": True, "summary": "First analysis run — no prior data to compare.", "structural_shifts": []}
 
     new_convergent = [
         item["title"]
@@ -716,18 +876,48 @@ def compute_delta(current: dict, previous: dict) -> dict:
     ]
     removed_priorities = [item.get("title", "") for key, item in previous_priorities.items() if key not in current_priorities]
     category_changes = []
+    priority_score_changes = []
     for key, item in current_priorities.items():
         if key in previous_priorities:
-            prev_category = previous_priorities[key].get("category", previous_priorities[key].get("severity", "unknown"))
-            curr_category = item.get("category", item.get("severity", "unknown"))
-            if prev_category != curr_category:
+            prev_category = _normalize_priority_category(previous_priorities[key].get("category", previous_priorities[key].get("severity", "")))
+            curr_category = _normalize_priority_category(item.get("category", item.get("severity", "")))
+            if prev_category and curr_category and prev_category != curr_category:
                 category_changes.append(f"{item.get('title', 'Unknown')}: {prev_category} → {curr_category}")
+            prev_score = _coerce_float(previous_priorities[key].get("priority_score", 0.0))
+            curr_score = _coerce_float(item.get("priority_score", 0.0))
+            if abs(curr_score - prev_score) >= 0.25:
+                priority_score_changes.append(
+                    f"{item.get('title', 'Unknown')}: {prev_score:.2f} → {curr_score:.2f}"
+                )
 
-    previous_mood = previous.get("mood", {}).get("label", "")
-    current_mood = current.get("mood", {}).get("label", "")
+    previous_mood_payload = _normalize_mood_payload(previous)
+    current_mood_payload = _normalize_mood_payload(current)
+    previous_mood = previous_mood_payload.get("label", "")
+    current_mood = current_mood_payload.get("label", "")
+    structural_shifts = []
     mood_shift = ""
-    if previous_mood and current_mood and previous_mood != current_mood:
-        mood_shift = f"Mood shifted from {previous_mood} to {current_mood}"
+    if previous_mood and current_mood:
+        if previous_mood != current_mood:
+            mood_shift = (
+                f"Mood shifted from {previous_mood} ({previous_mood_payload.get('score', 0.0):.2f}) "
+                f"to {current_mood} ({current_mood_payload.get('score', 0.0):.2f})"
+            )
+            structural_shifts.append(f"Mood shifted: {previous_mood} → {current_mood}")
+        elif abs(current_mood_payload.get("score", 0.0) - previous_mood_payload.get("score", 0.0)) >= 0.10:
+            mood_shift = (
+                f"Mood intensity moved within {current_mood}: "
+                f"{previous_mood_payload.get('score', 0.0):.2f} → {current_mood_payload.get('score', 0.0):.2f}"
+            )
+
+    previous_categories = Counter(item.get("category", "background_noise") for item in _priority_records(previous))
+    current_categories = Counter(item.get("category", "background_noise") for item in _priority_records(current))
+    for category in ("convergent_priority", "contested_priority", "niche_concern"):
+        previous_count = previous_categories.get(category, 0)
+        current_count = current_categories.get(category, 0)
+        if previous_count != current_count:
+            structural_shifts.append(f"{category}: {previous_count} → {current_count}")
+    structural_shifts.extend(f"Category change — {change}" for change in category_changes)
+    structural_shifts.extend(f"Priority score movement — {change}" for change in priority_score_changes)
 
     new_stories, carried_stories, total_stories = _signal_freshness(current, previous)
     continuing_priorities = [item.get("title", "") for key, item in current_priorities.items() if key in previous_priorities]
@@ -741,8 +931,12 @@ def compute_delta(current: dict, previous: dict) -> dict:
         parts.append(f"{len(removed_priorities)} priorities dropped: {', '.join(removed_priorities)}")
     if category_changes:
         parts.append(f"Priority category shifted: {'; '.join(category_changes)}")
+    if priority_score_changes:
+        parts.append(f"Priority intensity moved: {'; '.join(priority_score_changes)}")
     if mood_shift:
         parts.append(mood_shift)
+    if structural_shifts:
+        parts.append(f"Structural shifts: {'; '.join(structural_shifts)}")
     if not parts:
         parts.append(f"Priority mix broadly stable — {len(continuing_priorities)} priorities carried from yesterday")
     parts.append(f"Signal freshness: {new_stories} new, {carried_stories} carried, {total_stories} total")
@@ -753,7 +947,9 @@ def compute_delta(current: dict, previous: dict) -> dict:
         "new_contested": new_contested,
         "removed_priorities": removed_priorities,
         "category_changes": category_changes,
+        "priority_score_changes": priority_score_changes,
         "mood_shift": mood_shift,
+        "structural_shifts": structural_shifts,
         "continuing_priorities": continuing_priorities,
         "new_stories": new_stories,
         "carried_stories": carried_stories,
@@ -961,14 +1157,15 @@ def signal_direction(priority: dict) -> str:
 
 
 def build_email_subject(report: dict) -> str:
-    priorities = report.get("priorities", [])
-    mood = report.get("mood", {})
+    priorities = report.get("selected_priorities") or report.get("priorities", [])
+    mood = _normalize_mood_payload(report)
     convergent = sum(1 for item in priorities if item.get("category") == "convergent_priority")
     contested = sum(1 for item in priorities if item.get("category") == "contested_priority")
+    niche = sum(1 for item in priorities if item.get("category") == "niche_concern")
     noise = sum(1 for item in priorities if item.get("category") == "background_noise")
     return (
         f"[SIA] {mood.get('emoji', '⚪')} {str(mood.get('label', 'unknown')).title()} — "
-        f"{convergent} convergent, {contested} contested, {noise} noise"
+        f"{convergent} convergent · {contested} contested · {niche} niche · {noise} noise"
     )
 
 
@@ -998,10 +1195,20 @@ def _render_delta_html(delta: dict) -> str:
     new_contested = delta.get("new_contested", [])
     removed_priorities = delta.get("removed_priorities", [])
     category_changes = delta.get("category_changes", [])
+    priority_score_changes = delta.get("priority_score_changes", [])
     continuing = delta.get("continuing_priorities", [])
     mood_shift = delta.get("mood_shift", "")
+    structural_shifts = delta.get("structural_shifts", [])
 
-    if not new_convergent and not new_contested and not removed_priorities and not category_changes and not mood_shift:
+    if (
+        not new_convergent
+        and not new_contested
+        and not removed_priorities
+        and not category_changes
+        and not priority_score_changes
+        and not mood_shift
+        and not structural_shifts
+    ):
         lines.append(
             f"<p style='margin:0 0 8px;'><strong>No major reprioritisation</strong> — "
             f"{len(continuing)} priorities carried from yesterday.</p>"
@@ -1031,8 +1238,20 @@ def _render_delta_html(delta: dict) -> str:
                 "<p style='margin:0 0 4px;'><strong>Category shifts:</strong></p>"
                 f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
             )
+        if priority_score_changes:
+            items = "".join(f"<li>{escape(item)}</li>" for item in priority_score_changes)
+            lines.append(
+                "<p style='margin:0 0 4px;'><strong>Priority intensity:</strong></p>"
+                f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
+            )
         if mood_shift:
             lines.append(f"<p style='margin:0 0 8px;'><strong>{escape(mood_shift)}</strong>.</p>")
+        if structural_shifts:
+            items = "".join(f"<li>{escape(item)}</li>" for item in structural_shifts)
+            lines.append(
+                "<p style='margin:0 0 4px;'><strong>Structural shifts:</strong></p>"
+                f"<ul style='margin:0 0 8px 20px;padding:0;'>{items}</ul>"
+            )
 
     new_s = delta.get("new_stories", 0)
     carried_s = delta.get("carried_stories", 0)
@@ -1053,6 +1272,15 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
     today = str(report.get("report_date", ""))
     delta = report.get("delta", {})
     delta_html = _render_delta_html(delta)
+    engine_health = report.get("engine_health", {})
+    degraded_banner = ""
+    if engine_health.get("degraded"):
+        degraded_banner = (
+            "<div style=\"background:#fef2f2;border:2px solid #ef4444;border-radius:12px;padding:16px;margin:16px 0;\">"
+            f"<strong>⚠ Engine quality degraded</strong> — {int(engine_health.get('fallback_count', 0))}/{int(engine_health.get('total_count', 0))} "
+            "signals used fallback classifier. Priorities may not reflect real structural patterns today."
+            "</div>"
+        )
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
     status_classes = {
         "validated": "status-validated",
@@ -1066,9 +1294,9 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
         priority_rows.append(
             f"<tr><td data-label='Signal'>{escape(priority.get('title', 'Unknown'))}</td>"
             f"<td data-label='Priority'>{priority.get('priority_score', 0.0):.2f}</td>"
-            f"<td data-label='Contestedness'>{priority.get('contest_score', 0.0):.2f}</td>"
+            f"<td data-label='Contestedness'>{priority.get('contestedness', 0.0):.2f}</td>"
             f"<td data-label='Category'><span class='category-pill {category_badge_class(priority.get('category', ''))}'>{escape(category_label(priority.get('category', '')))}</span></td>"
-            f"<td data-label='Mood'>{escape(signal_direction(priority))}</td></tr>"
+            f"<td data-label='Direction'>{escape(signal_direction(priority))}</td></tr>"
         )
     contested_rows = []
     for priority in [item for item in priorities if float(item.get("sign_agreement", 0.0)) < 0.6]:
@@ -1359,9 +1587,10 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
        <h1>Systemic Intelligence Analysis</h1>
       <p class="dek">SIA (Synthetic Insight Architecture) is a general-purpose problem intelligence system. It collects signals from diverse public sources — news reports, field observations, institutional data — and runs them through a multi-stage analysis pipeline that identifies shared systemic root causes, clusters compounding risks, prioritises interventions under real-world scarcity constraints, and tracks explicit predictions against outcomes over time. Rather than summarising individual stories, it looks for the structural patterns that connect them: the feedback loops, cascade risks, and institutional failures that determine what actually happens next. The system is validated across six domains including geopolitical conflict, economic resilience, and historical hindcasting. <a href="https://github.com/ravisha22/SyntheticInsightArchitecture">View the project and methodology on GitHub&nbsp;→</a></p>
        <p class="meta-line">{len(stories)} stories analysed · {len(priorities)} priorities surfaced · {len(predictions)} predictions tracked</p>
-       <div class="mood-banner"><span style="font-size:1.25rem;">{escape(mood.get("emoji", "⚪"))}</span> {escape(str(mood.get("label", "unknown")).title())} · score {float(mood.get("score", 0.0)):.2f}</div>
-       <div class="delta-note"><strong>Since yesterday:</strong><br>{delta_html}</div>
-     </section>
+        <div class="mood-banner"><span style="font-size:1.25rem;">{escape(mood.get("emoji", "⚪"))}</span> {escape(str(mood.get("label", "unknown")).title())} · score {float(mood.get("score", 0.0)):.2f}</div>
+       {degraded_banner}
+        <div class="delta-note"><strong>Since yesterday:</strong><br>{delta_html}</div>
+      </section>
 
      <section>
        <h2>Narrative</h2>
@@ -1371,7 +1600,7 @@ def build_dashboard_html(report: dict, ledger: dict, dashboard_url: str, login_u
      <section>
        <h2>Priorities</h2>
        <table>
-         <thead><tr><th>Signal</th><th>Priority</th><th>Contestedness</th><th>Category</th><th>Mood</th></tr></thead>
+         <thead><tr><th>Signal</th><th>Priority</th><th>Contestedness</th><th>Category</th><th>Direction</th></tr></thead>
          <tbody>{''.join(priority_rows) or '<tr><td colspan="5">No priorities available.</td></tr>'}</tbody>
        </table>
      </section>
@@ -1432,6 +1661,15 @@ def build_email_html(
     today = str(report.get("report_date", ""))
     delta = report.get("delta", {})
     delta_html = _render_delta_html(delta)
+    engine_health = report.get("engine_health", {})
+    degraded_banner = ""
+    if engine_health.get("degraded"):
+        degraded_banner = (
+            "<div style=\"background:#fef2f2;border:2px solid #ef4444;border-radius:12px;padding:16px;margin:16px 0;\">"
+            f"<strong>⚠ Engine quality degraded</strong> — {int(engine_health.get('fallback_count', 0))}/{int(engine_health.get('total_count', 0))} "
+            "signals used fallback classifier. Priorities may not reflect real structural patterns today."
+            "</div>"
+        )
     prev_titles = {s.get("title", "").lower() for s in previous.get("stories", [])}
     act_now = [item for item in priorities if item.get("category") == "convergent_priority"][:5]
     watch_closely = [item for item in priorities if item.get("category") == "contested_priority"][:5]
@@ -1493,6 +1731,7 @@ def build_email_html(
         <strong style="display:block;margin-bottom:8px;color:#1a1a1a;">Since yesterday:</strong>
         {delta_html}
       </div>
+      {degraded_banner}
 
       <h2>Act now</h2>
       {_render_priority_cards(act_now, "No convergent priorities today.")}
@@ -1823,9 +2062,10 @@ def run_daily_pipeline() -> dict:
     stories = collect_stories(max_stories=20)
     core_analysis = run_core_analysis(stories)
     priorities = core_analysis.get("priorities", [])
+    selected_priorities = core_analysis.get("selected_priorities") or priorities[:10]
     mood = core_analysis.get("mood", {"label": "cautious", "score": 0.0, "emoji": "🟡"})
-    narrative = generate_narrative(stories, priorities, mood)
-    predictions = generate_predictions(priorities)
+    narrative = generate_narrative(stories, selected_priorities, mood)
+    predictions = generate_predictions(selected_priorities)
 
     merged_predictions = merge_predictions(ledger.get("predictions", []), predictions, report_date)
     ledger["predictions"] = merged_predictions
@@ -1845,6 +2085,7 @@ def run_daily_pipeline() -> dict:
         "stories": stories,
         "signals": stories_to_signals(stories),
         "priorities": priorities,
+        "selected_priorities": selected_priorities,
         "mood": mood,
         "root_causes": build_legacy_root_causes(priorities),
         "predictions": predictions,

@@ -49,9 +49,14 @@ class PrioritizationEngine:
         if len(array) == 0:
             return []
         std = float(np.std(array))
-        if std == 0:
-            return [0.0 for _ in array]
         mean = float(np.mean(array))
+        # For small batches (< 5) or near-zero variance, use raw values
+        # scaled to a reasonable range instead of z-scores
+        if std < 1e-6 or len(array) < 5:
+            max_abs = float(np.max(np.abs(array))) if np.any(array) else 1.0
+            if max_abs < 1e-6:
+                return [0.0 for _ in array]
+            return [float(v / max_abs) for v in array]
         return [float((value - mean) / std) for value in array]
 
     def _impact(self, meta: dict[str, float]) -> float:
