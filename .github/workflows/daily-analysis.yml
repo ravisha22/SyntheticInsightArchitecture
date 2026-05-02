@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests pyyaml azure-communication-email
+        run: pip install requests pyyaml azure-communication-email numpy
 
       - name: Run SIA daily pipeline
         env:
