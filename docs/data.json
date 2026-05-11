@@ -1,14 +1,91 @@
 {
-  "report_date": "2026-05-11",
-  "generated_at": "2026-05-10T20:57:34.275031+00:00",
+  "report_date": "2026-05-12",
+  "generated_at": "2026-05-11T21:23:41.828975+00:00",
   "story_count": 20,
   "stories": [
     {
+      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+      "body": "An American and a French national who have returned home have tested positive for hantavirus.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 20:49:14 GMT"
+    },
+    {
+      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+      "body": "Two people are being monitored in Atlanta, while 16 others are in Nebraska at the nation's only national quarantine unit.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 17:17:25 GMT"
+    },
+    {
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "body": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:17:34 GMT"
+    },
+    {
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "body": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:26:20 GMT"
+    },
+    {
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "body": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:27:21 GMT"
+    },
+    {
+      "title": "Washington dinner shooting suspect pleads not guilty",
+      "body": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 14:52:12 GMT"
+    },
+    {
+      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "body": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 14:22:07 GMT"
+    },
+    {
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "body": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 16:30:04 GMT"
+    },
+    {
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-      "body": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+      "body": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 20:27:37 GMT"
+      "published": "Mon, 11 May 2026 01:55:13 GMT"
+    },
+    {
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "body": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 09:28:53 GMT"
+    },
+    {
+      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
+      "body": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 13:14:30 GMT"
+    },
+    {
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "body": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 10:16:50 GMT"
     },
     {
       "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
@@ -18,60 +95,46 @@
       "published": "Sun, 10 May 2026 19:56:45 GMT"
     },
     {
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "body": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+      "title": "Police find body believed to be of fugitive Australian shooter",
+      "body": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 19:43:57 GMT"
+      "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 09:44:29 GMT"
     },
     {
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "body": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "body": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 13:56:43 GMT"
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 21:01:17 GMT"
     },
     {
-      "title": "Lebanon says Israeli strikes killed 39",
-      "body": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "title": "Oil price predicted to remain above $100 for rest of year",
+      "body": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 21:23:14 GMT"
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 16:57:15 GMT"
     },
     {
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "body": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "body": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 11:55:09 GMT"
+      "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 03:41:34 GMT"
     },
     {
-      "title": "Dress made from 500 loaves stuns African film awards",
-      "body": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
+      "title": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+      "body": "He said the austerity measures would reduce India's fuel use and help save foreign exchange.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 14:29:45 GMT"
+      "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 07:13:41 GMT"
     },
     {
-      "title": "Suspected boat explosion injures 11 in Miami",
-      "body": "Officials are investigating what caused the incident at a popular marina in southern Florida.",
+      "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+      "body": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 03:24:44 GMT"
-    },
-    {
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "body": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 15:02:51 GMT"
-    },
-    {
-      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-      "body": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 03:09:45 GMT"
+      "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 02:48:53 GMT"
     },
     {
       "title": "Australia's right-wing One Nation party scores historic parliamentary win",
@@ -79,69 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 10 May 2026 14:37:16 GMT"
-    },
-    {
-      "title": "I will serve - not rule over Hungary, says new PM",
-      "body": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 15:12:04 GMT"
-    },
-    {
-      "title": "Iran demands guarantees for World Cup participation",
-      "body": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 18:44:01 GMT"
-    },
-    {
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "body": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 18:00:46 GMT"
-    },
-    {
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "body": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 19:40:55 GMT"
-    },
-    {
-      "title": "Person killed after being hit by plane on runway at Denver airport",
-      "body": "The unidentified individual had jumped a perimeter fence two minutes before being struck by the airliner.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 17:28:59 GMT"
-    },
-    {
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "body": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 06:13:30 GMT"
-    },
-    {
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "body": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 01:17:55 GMT"
-    },
-    {
-      "title": "Japanese council votes to remove unconscious mayor",
-      "body": "Kikuo Hatakeyama, 72, has served as the mayor of Hachirogata in north-east Japan since 2008, but fell ill in February.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 12:12:19 GMT"
-    },
-    {
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "body": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 14:03:11 GMT"
     }
   ],
   "signals": [
@@ -149,14 +149,124 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-      "body": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+      "body": "An American and a French national who have returned home have tested positive for hantavirus.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 20:27:37 GMT"
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 20:49:14 GMT"
     },
     {
       "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+      "body": "Two people are being monitored in Atlanta, while 16 others are in Nebraska at the nation's only national quarantine unit.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 17:17:25 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "body": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:17:34 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "body": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:26:20 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "body": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 18:27:21 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Washington dinner shooting suspect pleads not guilty",
+      "body": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 14:52:12 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "body": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 14:22:07 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "body": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 16:30:04 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "body": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 01:55:13 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "body": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 09:28:53 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
+      "body": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 13:14:30 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "body": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 10:16:50 GMT"
+    },
+    {
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
@@ -166,87 +276,67 @@
       "published": "Sun, 10 May 2026 19:56:45 GMT"
     },
     {
-      "number": 3,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "body": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+      "title": "Police find body believed to be of fugitive Australian shooter",
+      "body": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 19:43:57 GMT"
+      "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 09:44:29 GMT"
     },
     {
-      "number": 4,
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "body": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "body": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 13:56:43 GMT"
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 21:01:17 GMT"
     },
     {
-      "number": 5,
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "body": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "title": "Oil price predicted to remain above $100 for rest of year",
+      "body": "Investment bank JP Morgan expects oil to remain in the \"low $100s\" even if the Strait of Hormuz were to reopen next month.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 21:23:14 GMT"
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 16:57:15 GMT"
     },
     {
-      "number": 6,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "body": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "body": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 11:55:09 GMT"
+      "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 03:41:34 GMT"
     },
     {
-      "number": 7,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Dress made from 500 loaves stuns African film awards",
-      "body": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
+      "title": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+      "body": "He said the austerity measures would reduce India's fuel use and help save foreign exchange.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 14:29:45 GMT"
+      "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 07:13:41 GMT"
     },
     {
-      "number": 8,
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Suspected boat explosion injures 11 in Miami",
-      "body": "Officials are investigating what caused the incident at a popular marina in southern Florida.",
+      "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+      "body": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 03:24:44 GMT"
+      "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 02:48:53 GMT"
     },
     {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "body": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 15:02:51 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-      "body": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 03:09:45 GMT"
-    },
-    {
-      "number": 11,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Australia's right-wing One Nation party scores historic parliamentary win",
@@ -254,386 +344,404 @@
       "labels": [],
       "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 10 May 2026 14:37:16 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "I will serve - not rule over Hungary, says new PM",
-      "body": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 15:12:04 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Iran demands guarantees for World Cup participation",
-      "body": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 18:44:01 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "body": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 18:00:46 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "body": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 19:40:55 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Person killed after being hit by plane on runway at Denver airport",
-      "body": "The unidentified individual had jumped a perimeter fence two minutes before being struck by the airliner.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 17:28:59 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "body": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 06:13:30 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "body": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 01:17:55 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Japanese council votes to remove unconscious mayor",
-      "body": "Kikuo Hatakeyama, 72, has served as the mayor of Hachirogata in north-east Japan since 2008, but fell ill in February.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 12:12:19 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "body": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 14:03:11 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "signal_id": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+      "title": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.5656814469468525,
-      "contest_score": 0.9250324306184355,
+      "priority_score": 3.1929682210133894,
+      "contest_score": -0.22166799580514643,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.181500795716889,
-      "contestedness": 0.07888529575229652,
-      "impact": 0.5850000000000001,
+      "central_tendency": 0.9579661205552001,
+      "contestedness": 0.04638103723142173,
+      "impact": 0.645,
       "top_clusters": {
-        "governance_oriented": 1.2760386937132404,
-        "care_oriented": 1.273743710377582
+        "governance_oriented": 1.0423902419900628,
+        "care_oriented": 1.0239216988678579
       },
       "bottom_clusters": {
-        "expression_oriented": 1.066078356791811
+        "expression_oriented": 0.8410753106033105
       },
       "cluster_means": {
-        "survival_focused": 1.2721888404881454,
-        "stability_seeking": 1.272885449951533,
-        "achievement_oriented": 1.0734909569231246,
-        "care_oriented": 1.273743710377582,
-        "knowledge_oriented": 1.1162785470040677,
-        "governance_oriented": 1.2760386937132404,
-        "sovereignty_order_oriented": 1.1951638427563642,
-        "expression_oriented": 1.066078356791811,
-        "ecosystem_oriented": 1.0876387634461337
+        "survival_focused": 0.9826320630551679,
+        "stability_seeking": 1.0194183041938225,
+        "achievement_oriented": 0.9269637026511074,
+        "care_oriented": 1.0239216988678579,
+        "knowledge_oriented": 0.8695724722708397,
+        "governance_oriented": 1.0423902419900628,
+        "sovereignty_order_oriented": 0.9733447398825291,
+        "expression_oriented": 0.8410753106033105,
+        "ecosystem_oriented": 0.9423765514821032
       },
-      "priority_raw": 0.6220601689449422,
-      "contest_raw": 0.046147898015093475
+      "priority_raw": 0.4943105182064833,
+      "contest_raw": 0.029915769014267016
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
+      "signal_id": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.1954104105659007,
-      "contest_score": 0.6490426057751028,
+      "priority_score": 1.6500759304485924,
+      "contest_score": -1.1630685655855473,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.018699276938096,
-      "contestedness": 0.07008841735170446,
-      "impact": 0.605,
+      "central_tendency": 0.786633224056751,
+      "contestedness": 0.02757743663950951,
+      "impact": 0.5750000000000001,
       "top_clusters": {
-        "survival_focused": 1.1399422212401435,
-        "stability_seeking": 1.110557575020168
+        "care_oriented": 0.8819271499881691,
+        "expression_oriented": 0.8342766298929156
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8940550236762504
+        "ecosystem_oriented": 0.7032202672781909
       },
       "cluster_means": {
-        "survival_focused": 1.1399422212401435,
-        "stability_seeking": 1.110557575020168,
-        "achievement_oriented": 0.9995589466744961,
-        "care_oriented": 1.017840365904669,
-        "knowledge_oriented": 0.9477519485529646,
-        "governance_oriented": 1.0658213109159387,
-        "sovereignty_order_oriented": 1.0872220639036576,
-        "expression_oriented": 0.8940550236762504,
-        "ecosystem_oriented": 0.9055440365545756
+        "survival_focused": 0.8066991932534061,
+        "stability_seeking": 0.8238101800330824,
+        "achievement_oriented": 0.7192498795813546,
+        "care_oriented": 0.8819271499881691,
+        "knowledge_oriented": 0.818402758463102,
+        "governance_oriented": 0.7826511856218548,
+        "sovereignty_order_oriented": 0.7094617723986836,
+        "expression_oriented": 0.8342766298929156,
+        "ecosystem_oriented": 0.7032202672781909
       },
-      "priority_raw": 0.5546817562927933,
-      "contest_raw": 0.04240349249778119
+      "priority_raw": 0.3166198726828423,
+      "contest_raw": 0.01585702606771797
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "title": "I will serve - not rule over Hungary, says new PM",
+      "signal_id": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.0410939773844614,
-      "contest_score": -1.1077231322622085,
+      "priority_score": 1.2400334481313735,
+      "contest_score": -0.3273102535966872,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1144988674289715,
-      "contestedness": 0.03536975906706008,
-      "impact": 0.525,
+      "central_tendency": 0.8634500385576874,
+      "contestedness": 0.054496389383975385,
+      "impact": 0.52,
       "top_clusters": {
-        "governance_oriented": 1.2346618640925073,
-        "stability_seeking": 1.1752923844617036
+        "achievement_oriented": 0.9469720809410167,
+        "stability_seeking": 0.9176960174025182
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 1.047076526680553
+        "expression_oriented": 0.7896526260163291
       },
       "cluster_means": {
-        "survival_focused": 1.0967154279425442,
-        "stability_seeking": 1.1752923844617036,
-        "achievement_oriented": 1.082408120260185,
-        "care_oriented": 1.1691880088390747,
-        "knowledge_oriented": 1.0969534274792665,
-        "governance_oriented": 1.2346618640925073,
-        "sovereignty_order_oriented": 1.0668483782294267,
-        "expression_oriented": 1.061345668875484,
-        "ecosystem_oriented": 1.047076526680553
+        "survival_focused": 0.8483344131430722,
+        "stability_seeking": 0.9176960174025182,
+        "achievement_oriented": 0.9469720809410167,
+        "care_oriented": 0.8542222075866335,
+        "knowledge_oriented": 0.8403299132597521,
+        "governance_oriented": 0.9123667318652109,
+        "sovereignty_order_oriented": 0.8617505386019951,
+        "expression_oriented": 0.7896526260163291,
+        "ecosystem_oriented": 0.7997258182026581
       },
-      "priority_raw": 0.5266007148601891,
-      "contest_raw": 0.018569123510206544
+      "priority_raw": 0.2693964120299985,
+      "contest_raw": 0.028338122479667202
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "signal_id": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7384319994799042,
-      "contest_score": -0.36918262264366847,
+      "priority_score": 0.738407407015903,
+      "contest_score": -0.4949480758456848,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8110774193001451,
-      "contestedness": 0.04804880770927622,
-      "impact": 0.595,
+      "central_tendency": 0.7425457043933077,
+      "contestedness": 0.05438872201016254,
+      "impact": 0.47500000000000003,
       "top_clusters": {
-        "survival_focused": 0.8831825354004182,
-        "stability_seeking": 0.8791625837617081
+        "stability_seeking": 0.8228840260245146,
+        "survival_focused": 0.8009403247795954
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.7107035207422769
+        "ecosystem_oriented": 0.6369526283401925
       },
       "cluster_means": {
-        "survival_focused": 0.8831825354004182,
-        "stability_seeking": 0.8791625837617081,
-        "achievement_oriented": 0.8363300633355807,
-        "care_oriented": 0.8296076978870475,
-        "knowledge_oriented": 0.7568085046859461,
-        "governance_oriented": 0.8311137760524319,
-        "sovereignty_order_oriented": 0.8586327221456873,
-        "expression_oriented": 0.7141553696902083,
-        "ecosystem_oriented": 0.7107035207422769
+        "survival_focused": 0.8009403247795954,
+        "stability_seeking": 0.8228840260245146,
+        "achievement_oriented": 0.708116069583899,
+        "care_oriented": 0.7893646237378553,
+        "knowledge_oriented": 0.7038555875986279,
+        "governance_oriented": 0.7981888446460632,
+        "sovereignty_order_oriented": 0.7625047915940616,
+        "expression_oriented": 0.6601044432349605,
+        "ecosystem_oriented": 0.6369526283401925
       },
-      "priority_raw": 0.28955463869015174,
-      "contest_raw": 0.02858904058701935
+      "priority_raw": 0.2116255257520927,
+      "contest_raw": 0.02583464295482721
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
-      "title": "Person killed after being hit by plane on runway at Denver airport",
+      "signal_id": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "title": "Police find body believed to be of fugitive Australian shooter",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.25019383955165136,
-      "contest_score": -0.05844066557061228,
+      "priority_score": 0.6569930895820554,
+      "contest_score": -0.1505365635954436,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2707503251559515,
-      "contestedness": 0.048599903370509734,
-      "impact": 0.675,
+      "central_tendency": 0.5068903849121981,
+      "contestedness": 0.04658351242291242,
+      "impact": 0.665,
       "top_clusters": {
-        "expression_oriented": 0.49146840608647024,
-        "knowledge_oriented": 0.40758819865275175
+        "expression_oriented": 0.615796731679543,
+        "knowledge_oriented": 0.5985568820324667
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.14017353320001708
+        "care_oriented": 0.4329724701338709
       },
       "cluster_means": {
-        "survival_focused": 0.1647617196005848,
-        "stability_seeking": 0.20116712516282764,
-        "achievement_oriented": 0.21336162297109454,
-        "care_oriented": 0.2542479421248943,
-        "knowledge_oriented": 0.40758819865275175,
-        "governance_oriented": 0.20645294176392626,
-        "sovereignty_order_oriented": 0.14017353320001708,
-        "expression_oriented": 0.49146840608647024,
-        "ecosystem_oriented": 0.35753143684099675
+        "survival_focused": 0.43831941201141744,
+        "stability_seeking": 0.45316984037940045,
+        "achievement_oriented": 0.5075410035299974,
+        "care_oriented": 0.4329724701338709,
+        "knowledge_oriented": 0.5985568820324667,
+        "governance_oriented": 0.48490292443432986,
+        "sovereignty_order_oriented": 0.46739659700231706,
+        "expression_oriented": 0.615796731679543,
+        "ecosystem_oriented": 0.5633576030064396
       },
-      "priority_raw": 0.10965388168816036,
-      "contest_raw": 0.03280493477509407
+      "priority_raw": 0.20224926357996706,
+      "contest_raw": 0.030978035761236762
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
-      "title": "Japanese council votes to remove unconscious mayor",
+      "signal_id": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "title": "Washington dinner shooting suspect pleads not guilty",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.26296296320048407,
-      "contest_score": -0.3786849686186857,
+      "priority_score": -0.01287513425965259,
+      "contest_score": 1.6409223950619072,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.34073104009812444,
-      "contestedness": 0.06324471218630295,
+      "central_tendency": 0.23361790774329996,
+      "contestedness": 0.07546592215060655,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.41132423208058694,
+        "knowledge_oriented": 0.36165190032923017
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.09955657362782819
+      },
+      "cluster_means": {
+        "survival_focused": 0.09955657362782819,
+        "stability_seeking": 0.15921670113980516,
+        "achievement_oriented": 0.2784020650971137,
+        "care_oriented": 0.20293614294650714,
+        "knowledge_oriented": 0.36165190032923017,
+        "governance_oriented": 0.18132600809066027,
+        "sovereignty_order_oriented": 0.12844267701277184,
+        "expression_oriented": 0.41132423208058694,
+        "ecosystem_oriented": 0.2797048693651964
+      },
+      "priority_raw": 0.12510238959653713,
+      "contest_raw": 0.05773143044521401
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.03215199131130718,
+      "contest_score": 0.697982062355002,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3828109881276982,
+      "contestedness": 0.0815882110222848,
+      "impact": 0.535,
+      "top_clusters": {
+        "expression_oriented": 0.6284253131718505,
+        "knowledge_oriented": 0.5608924083773849
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.1921618242536524
+      },
+      "cluster_means": {
+        "survival_focused": 0.25407237549918854,
+        "stability_seeking": 0.3246906054941773,
+        "achievement_oriented": 0.33566058652147335,
+        "care_oriented": 0.3912596005086725,
+        "knowledge_oriented": 0.5608924083773849,
+        "governance_oriented": 0.3108844024452197,
+        "sovereignty_order_oriented": 0.1921618242536524,
+        "expression_oriented": 0.6284253131718505,
+        "ecosystem_oriented": 0.4472517768776649
+      },
+      "priority_raw": 0.12288232718899113,
+      "contest_raw": 0.043649692896922374
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.327098225611137,
+      "contest_score": -1.3001450816217033,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.32215283936702366,
+      "contestedness": 0.02001441270567683,
+      "impact": 0.6900000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.4606157939214893,
+        "knowledge_oriented": 0.43891988428693507
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.2514402795536662
+      },
+      "cluster_means": {
+        "survival_focused": 0.2577085543457157,
+        "stability_seeking": 0.26558764490656617,
+        "achievement_oriented": 0.39076849953817683,
+        "care_oriented": 0.2619458312029177,
+        "knowledge_oriented": 0.43891988428693507,
+        "governance_oriented": 0.2514402795536662,
+        "sovereignty_order_oriented": 0.27145469225934304,
+        "expression_oriented": 0.4606157939214893,
+        "ecosystem_oriented": 0.3009343742884027
+      },
+      "priority_raw": 0.08891418366529855,
+      "contest_raw": 0.013809944766917015
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3979541680478814,
+      "contest_score": -1.8621270150940359,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3773546747302625,
+      "contestedness": 0.010125955262889397,
+      "impact": 0.535,
+      "top_clusters": {
+        "achievement_oriented": 0.45842968474064194,
+        "knowledge_oriented": 0.4053775637415382
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.29990745937353125
+      },
+      "cluster_means": {
+        "survival_focused": 0.40436399385152044,
+        "stability_seeking": 0.3943300348727613,
+        "achievement_oriented": 0.45842968474064194,
+        "care_oriented": 0.3223823536528594,
+        "knowledge_oriented": 0.4053775637415382,
+        "governance_oriented": 0.29990745937353125,
+        "sovereignty_order_oriented": 0.3952516084786488,
+        "expression_oriented": 0.4023313826795388,
+        "ecosystem_oriented": 0.31381799118132264
+      },
+      "priority_raw": 0.08075390039227619,
+      "contest_raw": 0.005417386065645828
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+      "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.4095658454486088,
+      "contest_score": -1.1664611120544244,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.25211623988342846,
+      "contestedness": 0.035125249463628105,
       "impact": 0.45000000000000007,
       "top_clusters": {
-        "expression_oriented": 0.4765487649289866,
-        "knowledge_oriented": 0.43016487591698804
+        "expression_oriented": 0.32013673518353186,
+        "care_oriented": 0.3157900389465353
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.22034365084486646
+        "achievement_oriented": 0.16596963150326755
       },
       "cluster_means": {
-        "survival_focused": 0.2910648443625886,
-        "stability_seeking": 0.34606781385257934,
-        "achievement_oriented": 0.25552781416245884,
-        "care_oriented": 0.3989796021368346,
-        "knowledge_oriented": 0.43016487591698804,
-        "governance_oriented": 0.33573488995053163,
-        "sovereignty_order_oriented": 0.22034365084486646,
-        "expression_oriented": 0.4765487649289866,
-        "ecosystem_oriented": 0.31214710472728613
+        "survival_focused": 0.22566869542178544,
+        "stability_seeking": 0.28501148571990376,
+        "achievement_oriented": 0.16596963150326755,
+        "care_oriented": 0.3157900389465353,
+        "knowledge_oriented": 0.28911503259460036,
+        "governance_oriented": 0.2861122685623937,
+        "sovereignty_order_oriented": 0.18459129138420832,
+        "expression_oriented": 0.32013673518353186,
+        "ecosystem_oriented": 0.19665097963462969
       },
-      "priority_raw": 0.10733027763090922,
-      "contest_raw": 0.028460120483836334
+      "priority_raw": 0.07941661556327997,
+      "contest_raw": 0.01580636225863265
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran demands guarantees for World Cup participation",
+      "signal_id": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "title": "Oil price predicted to remain above $100 for rest of year",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.30322214586572005,
-      "contest_score": -1.4526503424267523,
+      "priority_score": -0.41126728062019907,
+      "contest_score": -0.9034904971797203,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.41154030151338666,
-      "contestedness": 0.03429489285567616,
-      "impact": 0.405,
+      "central_tendency": 0.28703139844873216,
+      "contestedness": 0.028599316266051472,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "expression_oriented": 0.45427008202870117,
-        "knowledge_oriented": 0.4497240680384947
+        "expression_oriented": 0.3749908332661865,
+        "knowledge_oriented": 0.3589911683800859
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.34525601093658664
+        "survival_focused": 0.22758652869415608
       },
       "cluster_means": {
-        "survival_focused": 0.37785770753532,
-        "stability_seeking": 0.444594088286531,
-        "achievement_oriented": 0.44900438823479716,
-        "care_oriented": 0.4126033866207185,
-        "knowledge_oriented": 0.4497240680384947,
-        "governance_oriented": 0.4154291751828185,
-        "sovereignty_order_oriented": 0.3551238067565126,
-        "expression_oriented": 0.45427008202870117,
-        "ecosystem_oriented": 0.34525601093658664
+        "survival_focused": 0.22758652869415608,
+        "stability_seeking": 0.25013123356625977,
+        "achievement_oriented": 0.28894283000510196,
+        "care_oriented": 0.3185323481996254,
+        "knowledge_oriented": 0.3589911683800859,
+        "governance_oriented": 0.26134471589525604,
+        "sovereignty_order_oriented": 0.23708180588293318,
+        "expression_oriented": 0.3749908332661865,
+        "ecosystem_oriented": 0.26568112214898465
       },
-      "priority_raw": 0.10000429326775297,
-      "contest_raw": 0.013889431606548847
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3522754670869477,
-      "contest_score": 0.22214664554257774,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.21841255383120642,
-      "contestedness": 0.052678726974943774,
-      "impact": 0.6950000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3636110070842261,
-        "knowledge_oriented": 0.33650766038371965
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.09470083013055328
-      },
-      "cluster_means": {
-        "survival_focused": 0.09470083013055328,
-        "stability_seeking": 0.16692798440182455,
-        "achievement_oriented": 0.247583853968319,
-        "care_oriented": 0.14934910679223434,
-        "knowledge_oriented": 0.33650766038371965,
-        "governance_oriented": 0.19490512699337523,
-        "sovereignty_order_oriented": 0.1571972313002255,
-        "expression_oriented": 0.3636110070842261,
-        "ecosystem_oriented": 0.2549301834263802
-      },
-      "priority_raw": 0.09107803494761309,
-      "contest_raw": 0.03661171524758593
+      "priority_raw": 0.07922066597185008,
+      "contest_raw": 0.019733528223575516
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
@@ -642,250 +750,106 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3746856314005197,
-      "contest_score": -0.14895818316310003,
+      "priority_score": -0.4256337849362322,
+      "contest_score": -0.9224706494047432,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.29491540921060116,
-      "contestedness": 0.053520113054864926,
+      "central_tendency": 0.2629359841778962,
+      "contestedness": 0.03296623951698069,
       "impact": 0.59,
       "top_clusters": {
-        "expression_oriented": 0.35465946425667394,
-        "knowledge_oriented": 0.3524644497785762
+        "achievement_oriented": 0.32076968098968733,
+        "knowledge_oriented": 0.3026329163114954
       },
       "bottom_clusters": {
-        "care_oriented": 0.23313395081681673
+        "care_oriented": 0.19143234916853935
       },
       "cluster_means": {
-        "survival_focused": 0.2669300079484009,
-        "stability_seeking": 0.2901763790419695,
-        "achievement_oriented": 0.34470937063804674,
-        "care_oriented": 0.23313395081681673,
-        "knowledge_oriented": 0.3524644497785762,
-        "governance_oriented": 0.2366562659871046,
-        "sovereignty_order_oriented": 0.29414080430069994,
-        "expression_oriented": 0.35465946425667394,
-        "ecosystem_oriented": 0.28136799012712155
+        "survival_focused": 0.2529501760769225,
+        "stability_seeking": 0.2696666767945147,
+        "achievement_oriented": 0.32076968098968733,
+        "care_oriented": 0.19143234916853935,
+        "knowledge_oriented": 0.3026329163114954,
+        "governance_oriented": 0.20799425469676172,
+        "sovereignty_order_oriented": 0.2894192407900015,
+        "expression_oriented": 0.29675963866404703,
+        "ecosystem_oriented": 0.23479892410909664
       },
-      "priority_raw": 0.08700004571712734,
-      "contest_raw": 0.0315768667023703
+      "priority_raw": 0.07756611533247938,
+      "contest_raw": 0.019450081315018606
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "title": "International cyber attack disrupts swathe of universities and schools",
+      "signal_id": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
+      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3804840814495169,
-      "contest_score": -0.1358139767422,
+      "priority_score": -0.49490014080889905,
+      "contest_score": 0.12482143360042533,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.22179328710310436,
-      "contestedness": 0.040974447234371325,
-      "impact": 0.775,
+      "central_tendency": 0.2521336969403937,
+      "contestedness": 0.050855352379057556,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "care_oriented": 0.29861714110456516,
-        "expression_oriented": 0.2902000968930266
+        "expression_oriented": 0.3942789529206125,
+        "knowledge_oriented": 0.3567853316450835
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.15893629662194858
+        "governance_oriented": 0.168829773311542
       },
       "cluster_means": {
-        "survival_focused": 0.17973765986636814,
-        "stability_seeking": 0.18916333935136243,
-        "achievement_oriented": 0.15893629662194858,
-        "care_oriented": 0.29861714110456516,
-        "knowledge_oriented": 0.2430049502777589,
-        "governance_oriented": 0.1999107438563199,
-        "sovereignty_order_oriented": 0.19496175626026208,
-        "expression_oriented": 0.2902000968930266,
-        "ecosystem_oriented": 0.24160759969632756
+        "survival_focused": 0.1707451759857465,
+        "stability_seeking": 0.19809236168453298,
+        "achievement_oriented": 0.27094463972891514,
+        "care_oriented": 0.22160052836480407,
+        "knowledge_oriented": 0.3567853316450835,
+        "governance_oriented": 0.168829773311542,
+        "sovereignty_order_oriented": 0.19454909124852124,
+        "expression_oriented": 0.3942789529206125,
+        "ecosystem_oriented": 0.2933774175737854
       },
-      "priority_raw": 0.08594489875245294,
-      "contest_raw": 0.03175519660663778
+      "priority_raw": 0.06958890035554868,
+      "contest_raw": 0.035090193141549715
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "title": "Suspected boat explosion injures 11 in Miami",
+      "signal_id": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.38902898408580766,
-      "contest_score": -0.2612166600697232,
+      "priority_score": -0.6652089177472544,
+      "contest_score": 0.20633308855384735,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2324792792978645,
-      "contestedness": 0.04967576028550433,
-      "impact": 0.605,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.14807380355561348,
+      "contestedness": 0.05378885432100114,
+      "impact": 0.675,
       "top_clusters": {
-        "expression_oriented": 0.40191406276451513,
-        "knowledge_oriented": 0.3651101559008927
+        "expression_oriented": 0.3361453408530564,
+        "knowledge_oriented": 0.2872460639114307
       },
       "bottom_clusters": {
-        "survival_focused": 0.11855745106262933
+        "survival_focused": -0.029234062705481234
       },
       "cluster_means": {
-        "survival_focused": 0.11855745106262933,
-        "stability_seeking": 0.16535284701596148,
-        "achievement_oriented": 0.23724532871715262,
-        "care_oriented": 0.1946698623317226,
-        "knowledge_oriented": 0.3651101559008927,
-        "governance_oriented": 0.20961705888832696,
-        "sovereignty_order_oriented": 0.14055392782574838,
-        "expression_oriented": 0.40191406276451513,
-        "ecosystem_oriented": 0.2592928191738313
+        "survival_focused": -0.029234062705481234,
+        "stability_seeking": 0.053734653869329935,
+        "achievement_oriented": 0.15896785127826238,
+        "care_oriented": 0.10752350819033107,
+        "knowledge_oriented": 0.2872460639114307,
+        "governance_oriented": 0.09086248138988731,
+        "sovereignty_order_oriented": 0.013687501197060359,
+        "expression_oriented": 0.3361453408530564,
+        "ecosystem_oriented": 0.1610453440374709
       },
-      "priority_raw": 0.08438997838512481,
-      "contest_raw": 0.030053834972730117
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.420132663335561,
-      "contest_score": -0.2777562502364942,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4267210066665235,
-      "contestedness": 0.04850315327287302,
-      "impact": 0.615,
-      "top_clusters": {
-        "care_oriented": 0.4948269491086895,
-        "expression_oriented": 0.48250417119546907
-      },
-      "bottom_clusters": {
-        "stability_seeking": 0.36287620870363735
-      },
-      "cluster_means": {
-        "survival_focused": 0.404241839480919,
-        "stability_seeking": 0.36287620870363735,
-        "achievement_oriented": 0.43400101792259604,
-        "care_oriented": 0.4948269491086895,
-        "knowledge_oriented": 0.44888217537503217,
-        "governance_oriented": 0.37855968695196557,
-        "sovereignty_order_oriented": 0.3697079283373077,
-        "expression_oriented": 0.48250417119546907,
-        "ecosystem_oriented": 0.46488908292309505
-      },
-      "priority_raw": 0.07873002572997359,
-      "contest_raw": 0.02982943926281691
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "title": "Dress made from 500 loaves stuns African film awards",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.48950417453502204,
-      "contest_score": -1.328674812058567,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4989166478100733,
-      "contestedness": 0.05876011618724408,
-      "impact": 0.265,
-      "top_clusters": {
-        "expression_oriented": 0.5624788857322843,
-        "knowledge_oriented": 0.5620431898671109
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.4169945720433591
-      },
-      "cluster_means": {
-        "survival_focused": 0.44214359574497764,
-        "stability_seeking": 0.5414033116293325,
-        "achievement_oriented": 0.5032830736798668,
-        "care_oriented": 0.49477948569404345,
-        "knowledge_oriented": 0.5620431898671109,
-        "governance_oriented": 0.5334216840856336,
-        "sovereignty_order_oriented": 0.4169945720433591,
-        "expression_oriented": 0.5624788857322843,
-        "ecosystem_oriented": 0.43370203181405065
-      },
-      "priority_raw": 0.06610645583483471,
-      "contest_raw": 0.015571430789619683
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5228224713805103,
-      "contest_score": 2.6313962354374425,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.1220396505415721,
-      "contestedness": 0.08451031043660226,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.28161359788251594,
-        "knowledge_oriented": 0.22953488049968201
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.04312979277306944
-      },
-      "cluster_means": {
-        "survival_focused": -0.04312979277306944,
-        "stability_seeking": 0.003470566391952312,
-        "achievement_oriented": 0.09237346535504523,
-        "care_oriented": 0.09523171390901605,
-        "knowledge_oriented": 0.22953488049968201,
-        "governance_oriented": 0.0515862842697776,
-        "sovereignty_order_oriented": 0.007863154918442972,
-        "expression_oriented": 0.28161359788251594,
-        "ecosystem_oriented": 0.15547314307264454
-      },
-      "priority_raw": 0.06004350806645348,
-      "contest_raw": 0.06929845455801385
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5596373203143721,
-      "contest_score": -1.4224528008277417,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.16618159158854548,
-      "contestedness": 0.026727340738845334,
-      "impact": 0.535,
-      "top_clusters": {
-        "expression_oriented": 0.22171342440562988,
-        "knowledge_oriented": 0.19353000432433687
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.10578313828700465
-      },
-      "cluster_means": {
-        "survival_focused": 0.16152261218132652,
-        "stability_seeking": 0.18824995292017185,
-        "achievement_oriented": 0.12277413748513495,
-        "care_oriented": 0.18712641679810926,
-        "knowledge_oriented": 0.19353000432433687,
-        "governance_oriented": 0.15505924837225638,
-        "sovereignty_order_oriented": 0.15987538952293887,
-        "expression_oriented": 0.22171342440562988,
-        "ecosystem_oriented": 0.10578313828700465
-      },
-      "priority_raw": 0.053344290899923104,
-      "contest_raw": 0.014299127295282255
+      "priority_raw": 0.049974908700019555,
+      "contest_raw": 0.03630747666667577
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
@@ -894,34 +858,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5877785801555667,
-      "contest_score": 0.674031839942162,
+      "priority_score": -0.6728885231546824,
+      "contest_score": 0.43424555882723037,
       "category": "background_noise",
-      "polarity": -1,
+      "polarity": 1,
       "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.1004654400874435,
-      "contestedness": 0.05342815763313513,
-      "impact": 0.8,
+      "central_tendency": 0.09977737753438996,
+      "contestedness": 0.048428157633135016,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.19452367414801755,
-        "knowledge_oriented": 0.13261757345295766
+        "expression_oriented": 0.20452367414801756,
+        "knowledge_oriented": 0.14761757345295756
       },
       "bottom_clusters": {
-        "survival_focused": -0.10095962727256158
+        "survival_focused": -0.08595962727256157
       },
       "cluster_means": {
-        "survival_focused": -0.10095962727256158,
-        "stability_seeking": -0.07035921124898453,
-        "achievement_oriented": 0.013129031927359508,
-        "care_oriented": -0.0169310536158494,
-        "knowledge_oriented": 0.13261757345295766,
-        "governance_oriented": -0.0631811428021746,
-        "sovereignty_order_oriented": -0.06386481351341494,
-        "expression_oriented": 0.19452367414801755,
-        "ecosystem_oriented": 0.05923768776942143
+        "survival_focused": -0.08595962727256157,
+        "stability_seeking": -0.05535921124898441,
+        "achievement_oriented": 0.03812903192735942,
+        "care_oriented": -0.006931053615849392,
+        "knowledge_oriented": 0.14761757345295756,
+        "governance_oriented": -0.04818114280217459,
+        "sovereignty_order_oriented": -0.03886481351341503,
+        "expression_oriented": 0.20452367414801756,
+        "ecosystem_oriented": 0.08423768776942145
       },
-      "priority_raw": 0.04822341124197288,
-      "contest_raw": 0.04274252610650811
+      "priority_raw": 0.049090469746919864,
+      "contest_raw": 0.03971108925917072
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6784256002296847,
+      "contest_score": 0.5880816146782689,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.19075897585363727,
+      "contestedness": 0.0661550474911883,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.3282713379362446,
+        "knowledge_oriented": 0.28310590913596556
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.11644612366007348
+      },
+      "cluster_means": {
+        "survival_focused": 0.13050377414956937,
+        "stability_seeking": 0.14568945732123006,
+        "achievement_oriented": 0.19726319329172856,
+        "care_oriented": 0.1980271901590964,
+        "knowledge_oriented": 0.28310590913596556,
+        "governance_oriented": 0.11644612366007348,
+        "sovereignty_order_oriented": 0.12086497538806974,
+        "expression_oriented": 0.3282713379362446,
+        "ecosystem_oriented": 0.19665882164075768
+      },
+      "priority_raw": 0.04845277986682387,
+      "contest_raw": 0.04200845515690457
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
@@ -930,652 +930,652 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6377435940377213,
-      "contest_score": 0.7853125918600928,
+      "priority_score": -0.6867428357697634,
+      "contest_score": 1.7821408920688,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.11857955071265823,
-      "contestedness": 0.06704892857357067,
-      "impact": 0.6599999999999999,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.12256750144955109,
+      "contestedness": 0.07721337742444181,
+      "impact": 0.775,
       "top_clusters": {
-        "expression_oriented": 0.23414831932941005,
-        "knowledge_oriented": 0.18130351250759083
+        "expression_oriented": 0.26178640436274103,
+        "knowledge_oriented": 0.19678393187704607
       },
       "bottom_clusters": {
-        "stability_seeking": 0.0299780570168246
+        "stability_seeking": 0.009031996542814058
       },
       "cluster_means": {
-        "survival_focused": 0.04245491883728078,
-        "stability_seeking": 0.0299780570168246,
-        "achievement_oriented": 0.12559287563080773,
-        "care_oriented": 0.12622703633570276,
-        "knowledge_oriented": 0.18130351250759083,
-        "governance_oriented": 0.0582074007521263,
-        "sovereignty_order_oriented": 0.05854394705723706,
-        "expression_oriented": 0.23414831932941005,
-        "ecosystem_oriented": 0.1771586490998513
+        "survival_focused": 0.016868662598429812,
+        "stability_seeking": 0.009031996542814058,
+        "achievement_oriented": 0.09408204002287163,
+        "care_oriented": 0.14458095176563554,
+        "knowledge_oriented": 0.19678393187704607,
+        "governance_oriented": 0.046484758022545564,
+        "sovereignty_order_oriented": 0.03393040683315646,
+        "expression_oriented": 0.26178640436274103,
+        "ecosystem_oriented": 0.1813598527072795
       },
-      "priority_raw": 0.03913125173517721,
-      "contest_raw": 0.044252292858556634
+      "priority_raw": 0.04749490681170105,
+      "contest_raw": 0.05984036750394241
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "title": "Iran accuses US of 'reckless military adventure'",
+      "signal_id": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6663080062918896,
-      "contest_score": 1.615390713109256,
+      "priority_score": -0.7141039641519933,
+      "contest_score": 1.0171565867818573,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.11541962861575536,
-      "contestedness": 0.07552941199250959,
-      "impact": 0.735,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.12853275708370612,
+      "contestedness": 0.07016840593766382,
+      "impact": 0.69,
       "top_clusters": {
-        "expression_oriented": 0.27084276301181764,
-        "knowledge_oriented": 0.21013440592451346
+        "expression_oriented": 0.26168806098524033,
+        "knowledge_oriented": 0.21510089625597262
       },
       "bottom_clusters": {
-        "survival_focused": -0.022185724414677088
+        "survival_focused": 0.036077426648917665
       },
       "cluster_means": {
-        "survival_focused": -0.022185724414677088,
-        "stability_seeking": 0.009142069113782875,
-        "achievement_oriented": 0.08467148110629247,
-        "care_oriented": 0.11664897650696512,
-        "knowledge_oriented": 0.21013440592451346,
-        "governance_oriented": 0.01654512927349655,
-        "sovereignty_order_oriented": -0.007047202998108876,
-        "expression_oriented": 0.27084276301181764,
-        "ecosystem_oriented": 0.13641252034935902
+        "survival_focused": 0.036077426648917665,
+        "stability_seeking": 0.046049627356323675,
+        "achievement_oriented": 0.13579306369145155,
+        "care_oriented": 0.13345863776325842,
+        "knowledge_oriented": 0.21510089625597262,
+        "governance_oriented": 0.08132843610193294,
+        "sovereignty_order_oriented": 0.0632902318255946,
+        "expression_oriented": 0.26168806098524033,
+        "ecosystem_oriented": 0.17021855055464552
       },
-      "priority_raw": 0.03393337081303208,
-      "contest_raw": 0.05551411781449455
+      "priority_raw": 0.04434380119387861,
+      "contest_raw": 0.048416200096988035
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+      "signal_id": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6676702246547739,
-      "contest_score": 0.11745212466496538,
+      "priority_score": -0.7632021706056755,
+      "contest_score": 0.9287303647215698,
       "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.09055238502843801,
-      "contestedness": 0.056760169552545967,
-      "impact": 0.6199999999999999,
+      "polarity": 1,
+      "sign_agreement": 0.5833333333333334,
+      "central_tendency": 0.09436413733117151,
+      "contestedness": 0.05743372610337091,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.12385287124257131,
-        "ecosystem_oriented": 0.05661593339912083
+        "expression_oriented": 0.2071508553207441,
+        "knowledge_oriented": 0.14044792361973937
       },
       "bottom_clusters": {
-        "stability_seeking": -0.09747966403040614
+        "survival_focused": -0.05316331335685315
       },
       "cluster_means": {
-        "survival_focused": -0.0960245338493537,
-        "stability_seeking": -0.09747966403040614,
-        "achievement_oriented": -0.03926436429680773,
-        "care_oriented": -0.007477910943210958,
-        "knowledge_oriented": 0.046579692980425844,
-        "governance_oriented": -0.07807874347536761,
-        "sovereignty_order_oriented": -0.09560428013248592,
-        "expression_oriented": 0.12385287124257131,
-        "ecosystem_oriented": 0.05661593339912083
+        "survival_focused": -0.05316331335685315,
+        "stability_seeking": -0.038295764601605914,
+        "achievement_oriented": 0.019137961501765,
+        "care_oriented": 0.05392911328963099,
+        "knowledge_oriented": 0.14044792361973937,
+        "governance_oriented": -0.03298528279721144,
+        "sovereignty_order_oriented": -0.02534968380450131,
+        "expression_oriented": 0.2071508553207441,
+        "ecosystem_oriented": 0.11114491641780569
       },
-      "priority_raw": 0.03368548723057894,
-      "contest_raw": 0.035191305122578495
+      "priority_raw": 0.03868929630578032,
+      "contest_raw": 0.04709565540476415
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "title": "Israel deports two activists detained on board Gaza flotilla",
+      "signal_id": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.676167687031053,
-      "contest_score": -0.6782507723302865,
+      "priority_score": -0.7864595134883444,
+      "contest_score": 1.0918118131342298,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9166666666666666,
-      "central_tendency": 0.10803092299827056,
-      "contestedness": 0.04100143740584336,
-      "impact": 0.595,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.09414591459949793,
+      "contestedness": 0.06474652377416776,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.21750684789405472,
-        "knowledge_oriented": 0.17923080303733163
+        "expression_oriented": 0.2052043934747965,
+        "knowledge_oriented": 0.140052014034336
       },
       "bottom_clusters": {
-        "survival_focused": 0.02926815716165923
+        "survival_focused": -0.04464518059817879
       },
       "cluster_means": {
-        "survival_focused": 0.02926815716165923,
-        "stability_seeking": 0.07778610626593589,
-        "achievement_oriented": 0.1144036706386487,
-        "care_oriented": 0.08832446919275384,
-        "knowledge_oriented": 0.17923080303733163,
-        "governance_oriented": 0.0608749846497189,
-        "sovereignty_order_oriented": 0.04732303178691048,
-        "expression_oriented": 0.21750684789405472,
-        "ecosystem_oriented": 0.1316130170737911
+        "survival_focused": -0.04464518059817879,
+        "stability_seeking": -0.03126722292887801,
+        "achievement_oriented": -0.007570893561037101,
+        "care_oriented": 0.09235701500372198,
+        "knowledge_oriented": 0.140052014034336,
+        "governance_oriented": 0.020101343175988967,
+        "sovereignty_order_oriented": -0.02050182264515829,
+        "expression_oriented": 0.2052043934747965,
+        "ecosystem_oriented": 0.11817150749639299
       },
-      "priority_raw": 0.03213919959198549,
-      "contest_raw": 0.0243958552564768
+      "priority_raw": 0.03601081233430796,
+      "contest_raw": 0.049531090687238336
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "signal_id": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+      "title": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.5656814469468525,
-      "contest_score": 0.9250324306184355,
+      "priority_score": 3.1929682210133894,
+      "contest_score": -0.22166799580514643,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.181500795716889,
-      "contestedness": 0.07888529575229652,
-      "impact": 0.5850000000000001,
+      "central_tendency": 0.9579661205552001,
+      "contestedness": 0.04638103723142173,
+      "impact": 0.645,
       "top_clusters": {
-        "governance_oriented": 1.2760386937132404,
-        "care_oriented": 1.273743710377582
+        "governance_oriented": 1.0423902419900628,
+        "care_oriented": 1.0239216988678579
       },
       "bottom_clusters": {
-        "expression_oriented": 1.066078356791811
+        "expression_oriented": 0.8410753106033105
       },
       "cluster_means": {
-        "survival_focused": 1.2721888404881454,
-        "stability_seeking": 1.272885449951533,
-        "achievement_oriented": 1.0734909569231246,
-        "care_oriented": 1.273743710377582,
-        "knowledge_oriented": 1.1162785470040677,
-        "governance_oriented": 1.2760386937132404,
-        "sovereignty_order_oriented": 1.1951638427563642,
-        "expression_oriented": 1.066078356791811,
-        "ecosystem_oriented": 1.0876387634461337
+        "survival_focused": 0.9826320630551679,
+        "stability_seeking": 1.0194183041938225,
+        "achievement_oriented": 0.9269637026511074,
+        "care_oriented": 1.0239216988678579,
+        "knowledge_oriented": 0.8695724722708397,
+        "governance_oriented": 1.0423902419900628,
+        "sovereignty_order_oriented": 0.9733447398825291,
+        "expression_oriented": 0.8410753106033105,
+        "ecosystem_oriented": 0.9423765514821032
       },
-      "priority_raw": 0.6220601689449422,
-      "contest_raw": 0.046147898015093475
+      "priority_raw": 0.4943105182064833,
+      "contest_raw": 0.029915769014267016
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
+      "signal_id": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.1954104105659007,
-      "contest_score": 0.6490426057751028,
+      "priority_score": 1.6500759304485924,
+      "contest_score": -1.1630685655855473,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.018699276938096,
-      "contestedness": 0.07008841735170446,
-      "impact": 0.605,
+      "central_tendency": 0.786633224056751,
+      "contestedness": 0.02757743663950951,
+      "impact": 0.5750000000000001,
       "top_clusters": {
-        "survival_focused": 1.1399422212401435,
-        "stability_seeking": 1.110557575020168
+        "care_oriented": 0.8819271499881691,
+        "expression_oriented": 0.8342766298929156
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8940550236762504
+        "ecosystem_oriented": 0.7032202672781909
       },
       "cluster_means": {
-        "survival_focused": 1.1399422212401435,
-        "stability_seeking": 1.110557575020168,
-        "achievement_oriented": 0.9995589466744961,
-        "care_oriented": 1.017840365904669,
-        "knowledge_oriented": 0.9477519485529646,
-        "governance_oriented": 1.0658213109159387,
-        "sovereignty_order_oriented": 1.0872220639036576,
-        "expression_oriented": 0.8940550236762504,
-        "ecosystem_oriented": 0.9055440365545756
+        "survival_focused": 0.8066991932534061,
+        "stability_seeking": 0.8238101800330824,
+        "achievement_oriented": 0.7192498795813546,
+        "care_oriented": 0.8819271499881691,
+        "knowledge_oriented": 0.818402758463102,
+        "governance_oriented": 0.7826511856218548,
+        "sovereignty_order_oriented": 0.7094617723986836,
+        "expression_oriented": 0.8342766298929156,
+        "ecosystem_oriented": 0.7032202672781909
       },
-      "priority_raw": 0.5546817562927933,
-      "contest_raw": 0.04240349249778119
+      "priority_raw": 0.3166198726828423,
+      "contest_raw": 0.01585702606771797
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "title": "I will serve - not rule over Hungary, says new PM",
+      "signal_id": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.0410939773844614,
-      "contest_score": -1.1077231322622085,
+      "priority_score": 1.2400334481313735,
+      "contest_score": -0.3273102535966872,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1144988674289715,
-      "contestedness": 0.03536975906706008,
-      "impact": 0.525,
+      "central_tendency": 0.8634500385576874,
+      "contestedness": 0.054496389383975385,
+      "impact": 0.52,
       "top_clusters": {
-        "governance_oriented": 1.2346618640925073,
-        "stability_seeking": 1.1752923844617036
+        "achievement_oriented": 0.9469720809410167,
+        "stability_seeking": 0.9176960174025182
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 1.047076526680553
+        "expression_oriented": 0.7896526260163291
       },
       "cluster_means": {
-        "survival_focused": 1.0967154279425442,
-        "stability_seeking": 1.1752923844617036,
-        "achievement_oriented": 1.082408120260185,
-        "care_oriented": 1.1691880088390747,
-        "knowledge_oriented": 1.0969534274792665,
-        "governance_oriented": 1.2346618640925073,
-        "sovereignty_order_oriented": 1.0668483782294267,
-        "expression_oriented": 1.061345668875484,
-        "ecosystem_oriented": 1.047076526680553
+        "survival_focused": 0.8483344131430722,
+        "stability_seeking": 0.9176960174025182,
+        "achievement_oriented": 0.9469720809410167,
+        "care_oriented": 0.8542222075866335,
+        "knowledge_oriented": 0.8403299132597521,
+        "governance_oriented": 0.9123667318652109,
+        "sovereignty_order_oriented": 0.8617505386019951,
+        "expression_oriented": 0.7896526260163291,
+        "ecosystem_oriented": 0.7997258182026581
       },
-      "priority_raw": 0.5266007148601891,
-      "contest_raw": 0.018569123510206544
+      "priority_raw": 0.2693964120299985,
+      "contest_raw": 0.028338122479667202
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "signal_id": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7384319994799042,
-      "contest_score": -0.36918262264366847,
+      "priority_score": 0.738407407015903,
+      "contest_score": -0.4949480758456848,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8110774193001451,
-      "contestedness": 0.04804880770927622,
-      "impact": 0.595,
+      "central_tendency": 0.7425457043933077,
+      "contestedness": 0.05438872201016254,
+      "impact": 0.47500000000000003,
       "top_clusters": {
-        "survival_focused": 0.8831825354004182,
-        "stability_seeking": 0.8791625837617081
+        "stability_seeking": 0.8228840260245146,
+        "survival_focused": 0.8009403247795954
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.7107035207422769
+        "ecosystem_oriented": 0.6369526283401925
       },
       "cluster_means": {
-        "survival_focused": 0.8831825354004182,
-        "stability_seeking": 0.8791625837617081,
-        "achievement_oriented": 0.8363300633355807,
-        "care_oriented": 0.8296076978870475,
-        "knowledge_oriented": 0.7568085046859461,
-        "governance_oriented": 0.8311137760524319,
-        "sovereignty_order_oriented": 0.8586327221456873,
-        "expression_oriented": 0.7141553696902083,
-        "ecosystem_oriented": 0.7107035207422769
+        "survival_focused": 0.8009403247795954,
+        "stability_seeking": 0.8228840260245146,
+        "achievement_oriented": 0.708116069583899,
+        "care_oriented": 0.7893646237378553,
+        "knowledge_oriented": 0.7038555875986279,
+        "governance_oriented": 0.7981888446460632,
+        "sovereignty_order_oriented": 0.7625047915940616,
+        "expression_oriented": 0.6601044432349605,
+        "ecosystem_oriented": 0.6369526283401925
       },
-      "priority_raw": 0.28955463869015174,
-      "contest_raw": 0.02858904058701935
+      "priority_raw": 0.2116255257520927,
+      "contest_raw": 0.02583464295482721
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
-      "title": "Person killed after being hit by plane on runway at Denver airport",
+      "signal_id": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "title": "Police find body believed to be of fugitive Australian shooter",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.25019383955165136,
-      "contest_score": -0.05844066557061228,
+      "priority_score": 0.6569930895820554,
+      "contest_score": -0.1505365635954436,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2707503251559515,
-      "contestedness": 0.048599903370509734,
-      "impact": 0.675,
+      "central_tendency": 0.5068903849121981,
+      "contestedness": 0.04658351242291242,
+      "impact": 0.665,
       "top_clusters": {
-        "expression_oriented": 0.49146840608647024,
-        "knowledge_oriented": 0.40758819865275175
+        "expression_oriented": 0.615796731679543,
+        "knowledge_oriented": 0.5985568820324667
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.14017353320001708
+        "care_oriented": 0.4329724701338709
       },
       "cluster_means": {
-        "survival_focused": 0.1647617196005848,
-        "stability_seeking": 0.20116712516282764,
-        "achievement_oriented": 0.21336162297109454,
-        "care_oriented": 0.2542479421248943,
-        "knowledge_oriented": 0.40758819865275175,
-        "governance_oriented": 0.20645294176392626,
-        "sovereignty_order_oriented": 0.14017353320001708,
-        "expression_oriented": 0.49146840608647024,
-        "ecosystem_oriented": 0.35753143684099675
+        "survival_focused": 0.43831941201141744,
+        "stability_seeking": 0.45316984037940045,
+        "achievement_oriented": 0.5075410035299974,
+        "care_oriented": 0.4329724701338709,
+        "knowledge_oriented": 0.5985568820324667,
+        "governance_oriented": 0.48490292443432986,
+        "sovereignty_order_oriented": 0.46739659700231706,
+        "expression_oriented": 0.615796731679543,
+        "ecosystem_oriented": 0.5633576030064396
       },
-      "priority_raw": 0.10965388168816036,
-      "contest_raw": 0.03280493477509407
+      "priority_raw": 0.20224926357996706,
+      "contest_raw": 0.030978035761236762
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
-      "title": "Japanese council votes to remove unconscious mayor",
+      "signal_id": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "title": "Washington dinner shooting suspect pleads not guilty",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.26296296320048407,
-      "contest_score": -0.3786849686186857,
+      "priority_score": -0.01287513425965259,
+      "contest_score": 1.6409223950619072,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.34073104009812444,
-      "contestedness": 0.06324471218630295,
+      "central_tendency": 0.23361790774329996,
+      "contestedness": 0.07546592215060655,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.41132423208058694,
+        "knowledge_oriented": 0.36165190032923017
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.09955657362782819
+      },
+      "cluster_means": {
+        "survival_focused": 0.09955657362782819,
+        "stability_seeking": 0.15921670113980516,
+        "achievement_oriented": 0.2784020650971137,
+        "care_oriented": 0.20293614294650714,
+        "knowledge_oriented": 0.36165190032923017,
+        "governance_oriented": 0.18132600809066027,
+        "sovereignty_order_oriented": 0.12844267701277184,
+        "expression_oriented": 0.41132423208058694,
+        "ecosystem_oriented": 0.2797048693651964
+      },
+      "priority_raw": 0.12510238959653713,
+      "contest_raw": 0.05773143044521401
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.03215199131130718,
+      "contest_score": 0.697982062355002,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3828109881276982,
+      "contestedness": 0.0815882110222848,
+      "impact": 0.535,
+      "top_clusters": {
+        "expression_oriented": 0.6284253131718505,
+        "knowledge_oriented": 0.5608924083773849
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.1921618242536524
+      },
+      "cluster_means": {
+        "survival_focused": 0.25407237549918854,
+        "stability_seeking": 0.3246906054941773,
+        "achievement_oriented": 0.33566058652147335,
+        "care_oriented": 0.3912596005086725,
+        "knowledge_oriented": 0.5608924083773849,
+        "governance_oriented": 0.3108844024452197,
+        "sovereignty_order_oriented": 0.1921618242536524,
+        "expression_oriented": 0.6284253131718505,
+        "ecosystem_oriented": 0.4472517768776649
+      },
+      "priority_raw": 0.12288232718899113,
+      "contest_raw": 0.043649692896922374
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.327098225611137,
+      "contest_score": -1.3001450816217033,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.32215283936702366,
+      "contestedness": 0.02001441270567683,
+      "impact": 0.6900000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.4606157939214893,
+        "knowledge_oriented": 0.43891988428693507
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.2514402795536662
+      },
+      "cluster_means": {
+        "survival_focused": 0.2577085543457157,
+        "stability_seeking": 0.26558764490656617,
+        "achievement_oriented": 0.39076849953817683,
+        "care_oriented": 0.2619458312029177,
+        "knowledge_oriented": 0.43891988428693507,
+        "governance_oriented": 0.2514402795536662,
+        "sovereignty_order_oriented": 0.27145469225934304,
+        "expression_oriented": 0.4606157939214893,
+        "ecosystem_oriented": 0.3009343742884027
+      },
+      "priority_raw": 0.08891418366529855,
+      "contest_raw": 0.013809944766917015
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3979541680478814,
+      "contest_score": -1.8621270150940359,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3773546747302625,
+      "contestedness": 0.010125955262889397,
+      "impact": 0.535,
+      "top_clusters": {
+        "achievement_oriented": 0.45842968474064194,
+        "knowledge_oriented": 0.4053775637415382
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.29990745937353125
+      },
+      "cluster_means": {
+        "survival_focused": 0.40436399385152044,
+        "stability_seeking": 0.3943300348727613,
+        "achievement_oriented": 0.45842968474064194,
+        "care_oriented": 0.3223823536528594,
+        "knowledge_oriented": 0.4053775637415382,
+        "governance_oriented": 0.29990745937353125,
+        "sovereignty_order_oriented": 0.3952516084786488,
+        "expression_oriented": 0.4023313826795388,
+        "ecosystem_oriented": 0.31381799118132264
+      },
+      "priority_raw": 0.08075390039227619,
+      "contest_raw": 0.005417386065645828
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+      "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.4095658454486088,
+      "contest_score": -1.1664611120544244,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.25211623988342846,
+      "contestedness": 0.035125249463628105,
       "impact": 0.45000000000000007,
       "top_clusters": {
-        "expression_oriented": 0.4765487649289866,
-        "knowledge_oriented": 0.43016487591698804
+        "expression_oriented": 0.32013673518353186,
+        "care_oriented": 0.3157900389465353
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.22034365084486646
+        "achievement_oriented": 0.16596963150326755
       },
       "cluster_means": {
-        "survival_focused": 0.2910648443625886,
-        "stability_seeking": 0.34606781385257934,
-        "achievement_oriented": 0.25552781416245884,
-        "care_oriented": 0.3989796021368346,
-        "knowledge_oriented": 0.43016487591698804,
-        "governance_oriented": 0.33573488995053163,
-        "sovereignty_order_oriented": 0.22034365084486646,
-        "expression_oriented": 0.4765487649289866,
-        "ecosystem_oriented": 0.31214710472728613
+        "survival_focused": 0.22566869542178544,
+        "stability_seeking": 0.28501148571990376,
+        "achievement_oriented": 0.16596963150326755,
+        "care_oriented": 0.3157900389465353,
+        "knowledge_oriented": 0.28911503259460036,
+        "governance_oriented": 0.2861122685623937,
+        "sovereignty_order_oriented": 0.18459129138420832,
+        "expression_oriented": 0.32013673518353186,
+        "ecosystem_oriented": 0.19665097963462969
       },
-      "priority_raw": 0.10733027763090922,
-      "contest_raw": 0.028460120483836334
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran demands guarantees for World Cup participation",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.30322214586572005,
-      "contest_score": -1.4526503424267523,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.41154030151338666,
-      "contestedness": 0.03429489285567616,
-      "impact": 0.405,
-      "top_clusters": {
-        "expression_oriented": 0.45427008202870117,
-        "knowledge_oriented": 0.4497240680384947
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.34525601093658664
-      },
-      "cluster_means": {
-        "survival_focused": 0.37785770753532,
-        "stability_seeking": 0.444594088286531,
-        "achievement_oriented": 0.44900438823479716,
-        "care_oriented": 0.4126033866207185,
-        "knowledge_oriented": 0.4497240680384947,
-        "governance_oriented": 0.4154291751828185,
-        "sovereignty_order_oriented": 0.3551238067565126,
-        "expression_oriented": 0.45427008202870117,
-        "ecosystem_oriented": 0.34525601093658664
-      },
-      "priority_raw": 0.10000429326775297,
-      "contest_raw": 0.013889431606548847
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3522754670869477,
-      "contest_score": 0.22214664554257774,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.21841255383120642,
-      "contestedness": 0.052678726974943774,
-      "impact": 0.6950000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3636110070842261,
-        "knowledge_oriented": 0.33650766038371965
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.09470083013055328
-      },
-      "cluster_means": {
-        "survival_focused": 0.09470083013055328,
-        "stability_seeking": 0.16692798440182455,
-        "achievement_oriented": 0.247583853968319,
-        "care_oriented": 0.14934910679223434,
-        "knowledge_oriented": 0.33650766038371965,
-        "governance_oriented": 0.19490512699337523,
-        "sovereignty_order_oriented": 0.1571972313002255,
-        "expression_oriented": 0.3636110070842261,
-        "ecosystem_oriented": 0.2549301834263802
-      },
-      "priority_raw": 0.09107803494761309,
-      "contest_raw": 0.03661171524758593
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3746856314005197,
-      "contest_score": -0.14895818316310003,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.29491540921060116,
-      "contestedness": 0.053520113054864926,
-      "impact": 0.59,
-      "top_clusters": {
-        "expression_oriented": 0.35465946425667394,
-        "knowledge_oriented": 0.3524644497785762
-      },
-      "bottom_clusters": {
-        "care_oriented": 0.23313395081681673
-      },
-      "cluster_means": {
-        "survival_focused": 0.2669300079484009,
-        "stability_seeking": 0.2901763790419695,
-        "achievement_oriented": 0.34470937063804674,
-        "care_oriented": 0.23313395081681673,
-        "knowledge_oriented": 0.3524644497785762,
-        "governance_oriented": 0.2366562659871046,
-        "sovereignty_order_oriented": 0.29414080430069994,
-        "expression_oriented": 0.35465946425667394,
-        "ecosystem_oriented": 0.28136799012712155
-      },
-      "priority_raw": 0.08700004571712734,
-      "contest_raw": 0.0315768667023703
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3804840814495169,
-      "contest_score": -0.1358139767422,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22179328710310436,
-      "contestedness": 0.040974447234371325,
-      "impact": 0.775,
-      "top_clusters": {
-        "care_oriented": 0.29861714110456516,
-        "expression_oriented": 0.2902000968930266
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.15893629662194858
-      },
-      "cluster_means": {
-        "survival_focused": 0.17973765986636814,
-        "stability_seeking": 0.18916333935136243,
-        "achievement_oriented": 0.15893629662194858,
-        "care_oriented": 0.29861714110456516,
-        "knowledge_oriented": 0.2430049502777589,
-        "governance_oriented": 0.1999107438563199,
-        "sovereignty_order_oriented": 0.19496175626026208,
-        "expression_oriented": 0.2902000968930266,
-        "ecosystem_oriented": 0.24160759969632756
-      },
-      "priority_raw": 0.08594489875245294,
-      "contest_raw": 0.03175519660663778
+      "priority_raw": 0.07941661556327997,
+      "contest_raw": 0.01580636225863265
     }
   ],
   "mood": {
-    "score": 0.02691621848510109,
+    "score": 0.03927427322692323,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "name": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "root_cause": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "target": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+      "title": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+      "name": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+      "root_cause": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.5656814469468525,
-      "contest_score": 0.9250324306184355,
-      "contestedness": 0.07888529575229652,
+      "priority_score": 3.1929682210133894,
+      "contest_score": -0.22166799580514643,
+      "contestedness": 0.04638103723142173,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Army parachutes onto remote island to help Briton with suspected hantavirus"
+        "Modi urges Indians to work from home and limit foreign travel as Iran war continues"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Army parachutes onto remote island to help Briton with suspected hantavirus is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Army parachutes onto remote island to help Briton with suspected hantavirus fade or reverse without spillover."
+      "prediction": "Momentum around Modi urges Indians to work from home and limit foreign travel as Iran war continues is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Modi urges Indians to work from home and limit foreign travel as Iran war continues fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Greece conducts controlled blast of mystery naval drone explosives",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "name": "Greece conducts controlled blast of mystery naval drone explosives",
-      "root_cause": "Greece conducts controlled blast of mystery naval drone explosives",
+      "target": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "name": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "root_cause": "Ailing Iranian Nobel laureate given bail and hospital transfer",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.1954104105659007,
-      "contest_score": 0.6490426057751028,
-      "contestedness": 0.07008841735170446,
+      "priority_score": 1.6500759304485924,
+      "contest_score": -1.1630685655855473,
+      "contestedness": 0.02757743663950951,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "Greece conducts controlled blast of mystery naval drone explosives"
+        "Ailing Iranian Nobel laureate given bail and hospital transfer"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Greece conducts controlled blast of mystery naval drone explosives is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Greece conducts controlled blast of mystery naval drone explosives fade or reverse without spillover."
+      "prediction": "Momentum around Ailing Iranian Nobel laureate given bail and hospital transfer is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Ailing Iranian Nobel laureate given bail and hospital transfer fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "I will serve - not rule over Hungary, says new PM",
-      "title": "I will serve - not rule over Hungary, says new PM",
-      "name": "I will serve - not rule over Hungary, says new PM",
-      "root_cause": "I will serve - not rule over Hungary, says new PM",
+      "target": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "name": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "root_cause": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.0410939773844614,
-      "contest_score": -1.1077231322622085,
-      "contestedness": 0.03536975906706008,
+      "priority_score": 1.2400334481313735,
+      "contest_score": -0.3273102535966872,
+      "contestedness": 0.054496389383975385,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "I will serve - not rule over Hungary, says new PM"
+        "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around I will serve - not rule over Hungary, says new PM is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to I will serve - not rule over Hungary, says new PM fade or reverse without spillover."
+      "prediction": "Momentum around Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "name": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "root_cause": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "target": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+      "name": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+      "root_cause": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7384319994799042,
-      "contest_score": -0.36918262264366847,
-      "contestedness": 0.04804880770927622,
+      "priority_score": 0.738407407015903,
+      "contest_score": -0.4949480758456848,
+      "contestedness": 0.05438872201016254,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
       "signal_count": 1,
       "signals": [
-        "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission"
+        "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission fade or reverse without spillover."
+      "prediction": "Momentum around US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low' is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low' fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Person killed after being hit by plane on runway at Denver airport",
-      "title": "Person killed after being hit by plane on runway at Denver airport",
-      "name": "Person killed after being hit by plane on runway at Denver airport",
-      "root_cause": "Person killed after being hit by plane on runway at Denver airport",
+      "target": "Police find body believed to be of fugitive Australian shooter",
+      "title": "Police find body believed to be of fugitive Australian shooter",
+      "name": "Police find body believed to be of fugitive Australian shooter",
+      "root_cause": "Police find body believed to be of fugitive Australian shooter",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": -0.25019383955165136,
-      "contest_score": -0.05844066557061228,
-      "contestedness": 0.048599903370509734,
+      "priority_score": 0.6569930895820554,
+      "contest_score": -0.1505365635954436,
+      "contestedness": 0.04658351242291242,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Person killed after being hit by plane on runway at Denver airport"
+        "Police find body believed to be of fugitive Australian shooter"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Person killed after being hit by plane on runway at Denver airport is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Person killed after being hit by plane on runway at Denver airport fade or reverse without spillover."
+      "prediction": "Momentum around Police find body believed to be of fugitive Australian shooter is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Police find body believed to be of fugitive Australian shooter fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Cautious mood persists amid mixed signals of governance, stability, and emerging risks. Today's structural pattern highlights positive governance actions and stability-seeking measures, but underlying tensions remain.**\n\nThe top signals today reflect a cautious optimism in governance and stability-oriented actions. The British Army's intervention to assist a suspected hantavirus case on a remote island underscores the **care-oriented and governance-driven response to health crises**, suggesting robust institutional capacity to address emergent threats. Similarly, Greece's controlled detonation of naval drone explosives signals **proactive measures to ensure regional stability and mitigate potential risks**, reinforcing survival-focused priorities. These actions contribute to a broader narrative of states actively managing crises, but they also hint at the fragility of underlying systems that necessitate such interventions.\n\nSignals from Hungary's new Prime Minister declaring a commitment to \"serve, not rule\" further emphasize governance-oriented priorities. While this rhetoric aligns with stability-seeking values, its contestedness score suggests skepticism about whether such promises will translate into substantive policy shifts. Meanwhile, the deployment of HMS Dragon to the Middle East for a potential Strait of Hormuz mission reflects **geopolitical positioning and survival-focused priorities**, but the relatively low priority score indicates limited immediate structural impact unless tensions escalate in the region.\n\nContested signals today include the tragic incident at Denver airport, where a person was struck by a plane on the runway. While the event itself is isolated, its low priority score and contestedness highlight the **expression-oriented undertones of public safety and operational risks**. Similarly, supporting signals such as Trump's rejection of Iran's response to a U.S. proposal to end war and Putin's comments on the Ukraine conflict nearing resolution reflect **speculative geopolitical narratives** that require cautious interpretation. These signals, while notable, lack concrete outcomes and should be monitored for follow-through.\n\nStructurally, today's signals reinforce the importance of governance and stability-seeking measures in mitigating risks, but they also expose the fragility of systems under stress. The recurring themes of health crises, geopolitical maneuvers, and contested narratives suggest a world grappling with both immediate challenges and longer-term uncertainties. The cautious portfolio mood reflects this tension, balancing optimism with vigilance.\n\n**Watch for next:** Concrete developments in the Strait of Hormuz mission, Hungary's governance trajectory under its new PM, and follow-up actions on Greece's naval drone incident. Additionally, monitor speculative geopolitical narratives for shifts toward actionable outcomes, particularly in Iran and Ukraine.",
+  "narrative": "🟡 **Cautious mood dominates today's signals, reflecting a mix of governance shifts, geopolitical tensions, and public health concerns with modest positive undertones.**\n\nThe structural pattern emerging today highlights cautious optimism amidst ongoing global disruptions. While several signals point to governance-oriented actions and stability-seeking measures, the contestedness of certain narratives reveals underlying fragility. Notably, the Iran conflict continues to ripple across sectors, influencing travel advisories, public health responses, and diplomatic engagements.\n\n**1. Governance and care-oriented signals are driving today's structural shifts.** Indian Prime Minister Narendra Modi's call for citizens to work from home and limit foreign travel underscores the cascading impact of the Iran war on domestic policy. This directive, while framed positively, signals heightened risk management as geopolitical instability persists. Similarly, the conditional bail and hospital transfer of an ailing Iranian Nobel laureate reflect care-oriented governance amid international scrutiny of Iran's human rights record. Both signals suggest a recalibration of priorities toward safeguarding stability and addressing humanitarian concerns.\n\n**2. Economic and diplomatic undertones are evident but carry speculative weight.** The announcement that Elon Musk and Tim Cook will accompany former President Trump on a China trip highlights potential high-level economic diplomacy. While the signal is framed positively, its speculative nature tempers its structural significance. The trip may signal attempts to stabilize U.S.-China relations or bolster corporate interests, but the lack of concrete outcomes limits its immediate impact.\n\n**3. Public health signals remain low-contested but structurally significant.** The quarantine of U.S. passengers in Nebraska due to hantavirus concerns reflects stability-seeking measures in public health. Officials emphasize the risk remains \"very low,\" but the signal reinforces the broader theme of heightened vigilance in managing health crises. This aligns with ongoing efforts to contain viral outbreaks, such as the departure of passengers from a virus-hit cruise ship, further underscoring the global interplay between governance and survival-focused priorities.\n\n**4. Contested signals reveal fragility in narratives of resolution.** The discovery of a fugitive Australian shooter’s body and the contested ceasefire in Iran highlight unresolved tensions. While these signals are framed positively, their contestedness underscores the precariousness of perceived resolutions. The Iran ceasefire, described as being on \"massive life support,\" reflects the fragility of diplomatic efforts, with potential ripple effects on regional stability and energy markets.\n\nLooking ahead, **watch for concrete outcomes in governance and diplomacy**—particularly Modi's domestic policy shifts and the implications of the U.S.-China trip. Additionally, monitor public health narratives for escalation or resolution, as signals of containment efforts may influence broader stability-seeking measures. The cautious mood suggests that while positive undertones exist, structural fragility remains a defining feature of today's ensemble.",
   "noise_filtered": [
-    "Army parachutes onto remote island to help Briton with suspected hantavirus",
-    "Greece conducts controlled blast of mystery naval drone explosives",
-    "I will serve - not rule over Hungary, says new PM",
-    "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-    "Person killed after being hit by plane on runway at Denver airport",
-    "Japanese council votes to remove unconscious mayor",
-    "Iran demands guarantees for World Cup participation",
-    "French national shows symptoms on return from hantavirus-hit ship",
+    "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+    "Ailing Iranian Nobel laureate given bail and hospital transfer",
+    "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+    "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+    "Police find body believed to be of fugitive Australian shooter",
+    "Washington dinner shooting suspect pleads not guilty",
+    "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+    "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+    "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+    "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "Oil price predicted to remain above $100 for rest of year",
     "Australia's right-wing One Nation party scores historic parliamentary win",
-    "International cyber attack disrupts swathe of universities and schools",
-    "Suspected boat explosion injures 11 in Miami",
-    "Putin says he thinks Ukraine conflict 'coming to an end'",
-    "Dress made from 500 loaves stuns African film awards",
-    "Lebanon says Israeli strikes killed 39",
-    "Mexican parents criticise ending school year a month early for World Cup",
+    "Bosnia's powerful peace envoy quits, with questions over role's future",
+    "Last passengers leave virus-hit cruise ship as three more test positive",
     "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+    "Philippine VP Sara Duterte impeached for a second time",
     "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "Iran accuses US of 'reckless military adventure'",
-    "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-    "Israel deports two activists detained on board Gaza flotilla"
+    "Trump says Iran ceasefire is on 'massive life support'",
+    "Iran activists tell BBC how threat of war intensifies trauma of repression",
+    "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram"
   ],
   "matured_predictions": [],
   "delta": {
@@ -1584,70 +1584,86 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "US jet fuel could be used in Europe to ease possible shortages",
+        "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+        "title": "Greece conducts controlled blast of mystery naval drone explosives",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+        "title": "I will serve - not rule over Hungary, says new PM",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+        "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "South Africa president faces call to resign after court ruling",
+        "title": "Person killed after being hit by plane on runway at Denver airport",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Three dead after volcano erupts on Indonesian island",
+        "title": "Japanese council votes to remove unconscious mayor",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Putin denounces Nato at scaled-back Victory Day parade",
+        "title": "Iran demands guarantees for World Cup participation",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Greece examines mystery naval drone found in Ionian Sea",
+        "title": "French national shows symptoms on return from hantavirus-hit ship",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+        "title": "International cyber attack disrupts swathe of universities and schools",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Suspected boat explosion injures 11 in Miami",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Dress made from 500 loaves stuns African film awards",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Lebanon says Israeli strikes killed 39",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Mexican parents criticise ending school year a month early for World Cup",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Iran accuses US of 'reckless military adventure'",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Israel deports two activists detained on board Gaza flotilla",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
-    "priority_score_changes": [
-      "Greece conducts controlled blast of mystery naval drone explosives: 0.86 → 2.20",
-      "I will serve - not rule over Hungary, says new PM: 3.49 → 2.04",
-      "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission: 1.00 → 0.74"
-    ],
+    "priority_score_changes": [],
     "mood_shift": "",
-    "structural_shifts": [
-      "Priority score movement — Greece conducts controlled blast of mystery naval drone explosives: 0.86 → 2.20",
-      "Priority score movement — I will serve - not rule over Hungary, says new PM: 3.49 → 2.04",
-      "Priority score movement — UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission: 1.00 → 0.74"
-    ],
+    "structural_shifts": [],
     "continuing_priorities": [
-      "Greece conducts controlled blast of mystery naval drone explosives",
-      "I will serve - not rule over Hungary, says new PM",
-      "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "Person killed after being hit by plane on runway at Denver airport",
-      "Japanese council votes to remove unconscious mayor",
-      "Iran demands guarantees for World Cup participation",
       "Australia's right-wing One Nation party scores historic parliamentary win",
-      "International cyber attack disrupts swathe of universities and schools",
-      "Lebanon says Israeli strikes killed 39",
-      "Mexican parents criticise ending school year a month early for World Cup",
-      "Iran accuses US of 'reckless military adventure'"
+      "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "Trump calls Iran response to US proposal to end war 'totally unacceptable'"
     ],
-    "new_stories": 9,
-    "carried_stories": 11,
+    "new_stories": 17,
+    "carried_stories": 3,
     "total_stories": 20,
-    "summary": "9 priorities dropped: US jet fuel could be used in Europe to ease possible shortages (No longer in today's news feed — story left the RSS cycle); WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship (No longer in today's news feed — story left the RSS cycle); Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon (No longer in today's news feed — story left the RSS cycle); Oil prices rise after US and Iran exchange fire in Hormuz strait (No longer in today's news feed — story left the RSS cycle); South Africa president faces call to resign after court ruling (No longer in today's news feed — story left the RSS cycle); Three dead after volcano erupts on Indonesian island (No longer in today's news feed — story left the RSS cycle); Putin denounces Nato at scaled-back Victory Day parade (No longer in today's news feed — story left the RSS cycle); Greece examines mystery naval drone found in Ionian Sea (No longer in today's news feed — story left the RSS cycle); White House calls Mark Hamill 'sick' after actor's Trump grave post (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Greece conducts controlled blast of mystery naval drone explosives: 0.86 → 2.20; I will serve - not rule over Hungary, says new PM: 3.49 → 2.04; UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission: 1.00 → 0.74 · Structural shifts: Priority score movement — Greece conducts controlled blast of mystery naval drone explosives: 0.86 → 2.20; Priority score movement — I will serve - not rule over Hungary, says new PM: 3.49 → 2.04; Priority score movement — UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission: 1.00 → 0.74 · Signal freshness: 9 new, 11 carried, 20 total"
+    "summary": "17 priorities dropped: Army parachutes onto remote island to help Briton with suspected hantavirus (No longer in today's news feed — story left the RSS cycle); Greece conducts controlled blast of mystery naval drone explosives (No longer in today's news feed — story left the RSS cycle); I will serve - not rule over Hungary, says new PM (No longer in today's news feed — story left the RSS cycle); UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission (No longer in today's news feed — story left the RSS cycle); Person killed after being hit by plane on runway at Denver airport (No longer in today's news feed — story left the RSS cycle); Japanese council votes to remove unconscious mayor (No longer in today's news feed — story left the RSS cycle); Iran demands guarantees for World Cup participation (No longer in today's news feed — story left the RSS cycle); French national shows symptoms on return from hantavirus-hit ship (No longer in today's news feed — story left the RSS cycle); International cyber attack disrupts swathe of universities and schools (No longer in today's news feed — story left the RSS cycle); Suspected boat explosion injures 11 in Miami (No longer in today's news feed — story left the RSS cycle); Putin says he thinks Ukraine conflict 'coming to an end' (No longer in today's news feed — story left the RSS cycle); Dress made from 500 loaves stuns African film awards (No longer in today's news feed — story left the RSS cycle); Lebanon says Israeli strikes killed 39 (No longer in today's news feed — story left the RSS cycle); Mexican parents criticise ending school year a month early for World Cup (No longer in today's news feed — story left the RSS cycle); Iran accuses US of 'reckless military adventure' (No longer in today's news feed — story left the RSS cycle); Buddhist monk arrested over alleged rape of teen in Sri Lanka (No longer in today's news feed — story left the RSS cycle); Israel deports two activists detained on board Gaza flotilla (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 17 new, 3 carried, 20 total"
   }
 }
