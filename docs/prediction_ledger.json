@@ -139,9 +139,14 @@
       "maturity_date": "2026-05-16",
       "falsification": "Signals tied to Australia wants to become the first country to eliminate a cancer - can it? fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals directly related to Australia's efforts to eliminate a cancer were identified in the provided evidence. The prediction cannot be validated, falsified, or partially validated based on the available data.",
+      "validated_at": "2026-05-15T21:14:31.729672+00:00",
+      "evidence_used": [
+        "ABC Australia articles focused on sports and unrelated topics such as America's Cup, ALM grand final, AFLW rules, and PGA Championship.",
+        "BBC World articles discussing geopolitical and cultural topics unrelated to Australia's cancer elimination efforts.",
+        "Al Jazeera article addressing Canadian separatist issues, which is unrelated to the prediction."
+      ]
     },
     {
       "id": "e8afa007b542e1ed",
@@ -326,5 +331,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-05-14T21:21:24.200096+00:00"
+  "last_updated": "2026-05-15T21:14:29.130915+00:00"
 }
