@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "f4e92d0c44fb8087",
+      "created_at": "2026-05-21",
+      "root_cause": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+      "prediction": "Momentum around Man who murdered teen TikTok star in Pakistan gets death sentence is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-04",
+      "falsification": "Signals tied to Man who murdered teen TikTok star in Pakistan gets death sentence fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "31edca715cef4877",
       "created_at": "2026-05-18",
       "root_cause": "Senior IS leader killed in joint operation, US and Nigeria say",
@@ -363,5 +376,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-05-19T21:27:23.221139+00:00"
+  "last_updated": "2026-05-20T22:02:25.453223+00:00"
 }
