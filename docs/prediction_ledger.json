@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "8916583e1b35ef02",
+      "created_at": "2026-05-22",
+      "root_cause": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+      "prediction": "Momentum around From AI to interceptors, Ukraine is trying to drone-proof its skies is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-05",
+      "falsification": "Signals tied to From AI to interceptors, Ukraine is trying to drone-proof its skies fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "f4e92d0c44fb8087",
       "created_at": "2026-05-21",
       "root_cause": "Man who murdered teen TikTok star in Pakistan gets death sentence",
@@ -376,5 +389,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-05-20T22:02:25.453223+00:00"
+  "last_updated": "2026-05-21T21:42:49.922666+00:00"
 }
