@@ -1,28 +1,84 @@
 {
-  "report_date": "2026-05-24",
-  "generated_at": "2026-05-23T21:02:03.741807+00:00",
+  "report_date": "2026-05-25",
+  "generated_at": "2026-05-24T21:04:33.256527+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-      "body": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "body": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 20:55:01 GMT"
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 20:26:26 GMT"
     },
     {
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "body": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "body": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:18:40 GMT"
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 16:50:46 GMT"
+    },
+    {
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "body": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 19:49:39 GMT"
+    },
+    {
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "body": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 10:34:52 GMT"
+    },
+    {
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "body": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 12:26:09 GMT"
+    },
+    {
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "body": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 15:24:11 GMT"
+    },
+    {
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "body": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 15:29:08 GMT"
+    },
+    {
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "body": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 14:25:00 GMT"
+    },
+    {
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "body": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 11:42:48 GMT"
+    },
+    {
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "body": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 18:51:00 GMT"
     },
     {
       "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
       "body": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 19:55:16 GMT"
+      "published": "Sun, 24 May 2026 11:09:54 GMT"
     },
     {
       "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
@@ -32,13 +88,6 @@
       "published": "Sat, 23 May 2026 14:24:48 GMT"
     },
     {
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "body": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 14:06:12 GMT"
-    },
-    {
       "title": "F1 great Prost 'injured as masked gang raid home'",
       "body": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
       "source": "BBC World",
@@ -46,11 +95,18 @@
       "published": "Sat, 23 May 2026 15:33:20 GMT"
     },
     {
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "body": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 03:18:38 GMT"
+    },
+    {
       "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
       "body": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 17:33:30 GMT"
+      "published": "Sun, 24 May 2026 14:10:12 GMT"
     },
     {
       "title": "Rubio meets Modi during India visit with energy high on agenda",
@@ -60,11 +116,18 @@
       "published": "Sat, 23 May 2026 11:55:39 GMT"
     },
     {
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
-      "body": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "body": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 20:07:01 GMT"
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 01:18:31 GMT"
+    },
+    {
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "body": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 14:06:12 GMT"
     },
     {
       "title": "Senegal's president sacks PM and former ally after months-long feud",
@@ -79,69 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 23 May 2026 08:10:51 GMT"
-    },
-    {
-      "title": "India's parody 'cockroach party' claims website has been blocked",
-      "body": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:25:39 GMT"
-    },
-    {
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "body": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 03:53:20 GMT"
-    },
-    {
-      "title": "DR Congo players told to isolate before World Cup",
-      "body": "The Democratic Republic of Congo's World Cup squad must isolate for 21 days before they can enter the US because of the Ebola outbreak.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 08:14:10 GMT"
-    },
-    {
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "body": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 20:30:26 GMT"
-    },
-    {
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "body": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 22:32:12 GMT"
-    },
-    {
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "body": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 00:35:16 GMT"
-    },
-    {
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "body": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 17:54:11 GMT"
-    },
-    {
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "body": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 15:18:30 GMT"
-    },
-    {
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "body": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 20:59:28 GMT"
     }
   ],
   "signals": [
@@ -149,34 +149,114 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-      "body": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "body": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 20:55:01 GMT"
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 20:26:26 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "body": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "body": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:18:40 GMT"
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 16:50:46 GMT"
     },
     {
       "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "body": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 19:49:39 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "body": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 10:34:52 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "body": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 12:26:09 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "body": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 15:24:11 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "body": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 15:29:08 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "body": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 14:25:00 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "body": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 11:42:48 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "body": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 18:51:00 GMT"
+    },
+    {
+      "number": 11,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
       "body": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
       "labels": [],
       "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 19:55:16 GMT"
+      "published": "Sun, 24 May 2026 11:09:54 GMT"
     },
     {
-      "number": 4,
+      "number": 12,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
@@ -186,17 +266,7 @@
       "published": "Sat, 23 May 2026 14:24:48 GMT"
     },
     {
-      "number": 5,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "body": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 14:06:12 GMT"
-    },
-    {
-      "number": 6,
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "F1 great Prost 'injured as masked gang raid home'",
@@ -206,17 +276,27 @@
       "published": "Sat, 23 May 2026 15:33:20 GMT"
     },
     {
-      "number": 7,
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "body": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 03:18:38 GMT"
+    },
+    {
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
       "body": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
       "labels": [],
       "url": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 17:33:30 GMT"
+      "published": "Sun, 24 May 2026 14:10:12 GMT"
     },
     {
-      "number": 8,
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Rubio meets Modi during India visit with energy high on agenda",
@@ -226,17 +306,27 @@
       "published": "Sat, 23 May 2026 11:55:39 GMT"
     },
     {
-      "number": 9,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
-      "body": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "body": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 20:07:01 GMT"
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 24 May 2026 01:18:31 GMT"
     },
     {
-      "number": 10,
+      "number": 18,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "body": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 14:06:12 GMT"
+    },
+    {
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Senegal's president sacks PM and former ally after months-long feud",
@@ -246,7 +336,7 @@
       "published": "Sat, 23 May 2026 11:36:09 GMT"
     },
     {
-      "number": 11,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
@@ -254,96 +344,6 @@
       "labels": [],
       "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 23 May 2026 08:10:51 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "India's parody 'cockroach party' claims website has been blocked",
-      "body": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:25:39 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "body": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 03:53:20 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "DR Congo players told to isolate before World Cup",
-      "body": "The Democratic Republic of Congo's World Cup squad must isolate for 21 days before they can enter the US because of the Ebola outbreak.",
-      "labels": [],
-      "url": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 08:14:10 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "body": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 20:30:26 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "body": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 22:32:12 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "body": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 00:35:16 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "body": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 17:54:11 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "body": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 15:18:30 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "body": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 20:59:28 GMT"
     }
   ],
   "priorities": [
@@ -354,430 +354,286 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.438223016067055,
-      "contest_score": -0.5636023065761877,
+      "priority_score": 3.36128095815384,
+      "contest_score": -1.4940256885314747,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.987788085143217,
-      "contestedness": 0.040448287405086436,
+      "central_tendency": 1.0216890176561932,
+      "contestedness": 0.03301672595972782,
       "impact": 0.675,
       "top_clusters": {
-        "achievement_oriented": 1.0795068293010477,
-        "stability_seeking": 1.0588588280918034
+        "stability_seeking": 1.1024202409576227,
+        "achievement_oriented": 1.0995068293010477
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8466649623158528
+        "expression_oriented": 0.8891836689390064
       },
       "cluster_means": {
-        "survival_focused": 1.0558875767889533,
-        "stability_seeking": 1.0588588280918034,
-        "achievement_oriented": 1.0795068293010477,
-        "care_oriented": 0.9834466978967453,
-        "knowledge_oriented": 0.9139331284806032,
-        "governance_oriented": 1.018410540686717,
-        "sovereignty_order_oriented": 1.0487957467657123,
-        "expression_oriented": 0.8466649623158528,
-        "ecosystem_oriented": 0.884588455961519
+        "survival_focused": 1.0758875767889535,
+        "stability_seeking": 1.1024202409576227,
+        "achievement_oriented": 1.0995068293010477,
+        "care_oriented": 1.0110992017775082,
+        "knowledge_oriented": 0.9526610273671394,
+        "governance_oriented": 1.0759221116605475,
+        "sovereignty_order_oriented": 1.0694035149978949,
+        "expression_oriented": 0.8891836689390064,
+        "ecosystem_oriented": 0.9191169871160201
       },
-      "priority_raw": 0.46672987023017004,
-      "contest_raw": 0.027302593998433346
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 2.1045947042575817,
-      "contest_score": -1.3941789715789095,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.9820093875446072,
-      "contestedness": 0.021693565362250533,
-      "impact": 0.615,
-      "top_clusters": {
-        "achievement_oriented": 1.0987464520817203,
-        "stability_seeking": 1.0243142886950736
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.9079645867550278
-      },
-      "cluster_means": {
-        "survival_focused": 0.9660600549415777,
-        "stability_seeking": 1.0243142886950736,
-        "achievement_oriented": 1.0987464520817203,
-        "care_oriented": 0.949978863648582,
-        "knowledge_oriented": 1.001686133309994,
-        "governance_oriented": 0.9877536203038282,
-        "sovereignty_order_oriented": 0.9456897194840074,
-        "expression_oriented": 0.955890768681655,
-        "ecosystem_oriented": 0.9079645867550278
-      },
-      "priority_raw": 0.4227550413379534,
-      "contest_raw": 0.013341542697784078
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.4643695897129325,
-      "contest_score": -0.798724849474076,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.9478105000513012,
-      "contestedness": 0.03924445519491304,
-      "impact": 0.595,
-      "top_clusters": {
-        "survival_focused": 1.03328114491297,
-        "stability_seeking": 1.0228020334624954
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.8292332916938515
-      },
-      "cluster_means": {
-        "survival_focused": 1.03328114491297,
-        "stability_seeking": 1.0228020334624954,
-        "achievement_oriented": 0.9480923967584216,
-        "care_oriented": 0.9887504278958205,
-        "knowledge_oriented": 0.8797232802369245,
-        "governance_oriented": 0.9835575782675824,
-        "sovereignty_order_oriented": 0.9966935804383545,
-        "expression_oriented": 0.8292332916938515,
-        "ecosystem_oriented": 0.8481607667952918
-      },
-      "priority_raw": 0.3383683485183145,
-      "contest_raw": 0.023350450840973258
+      "priority_raw": 0.6206760782261375,
+      "contest_raw": 0.02228629002281628
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.002275469894178,
-      "contest_score": -0.12394496326153745,
+      "priority_score": 1.9116700631662025,
+      "contest_score": -0.777782156914825,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9023112789749,
-      "contestedness": 0.05641095133255325,
-      "impact": 0.615,
+      "central_tendency": 1.022081952521445,
+      "contestedness": 0.05167624961125572,
+      "impact": 0.66,
       "top_clusters": {
-        "survival_focused": 1.0067513351918933,
-        "sovereignty_order_oriented": 0.981258396891528
+        "survival_focused": 1.0928728266594299,
+        "achievement_oriented": 1.0879582071296774
       },
       "bottom_clusters": {
-        "expression_oriented": 0.7434727617060393
+        "expression_oriented": 0.9003640301122174
       },
       "cluster_means": {
-        "survival_focused": 1.0067513351918933,
-        "stability_seeking": 0.9464955422708679,
-        "achievement_oriented": 0.9779275710129184,
-        "care_oriented": 0.9248474455589748,
-        "knowledge_oriented": 0.789637412888905,
-        "governance_oriented": 0.9020477274852015,
-        "sovereignty_order_oriented": 0.981258396891528,
-        "expression_oriented": 0.7434727617060393,
-        "ecosystem_oriented": 0.8483633177677716
+        "survival_focused": 1.0928728266594299,
+        "stability_seeking": 1.0787655853816847,
+        "achievement_oriented": 1.0879582071296774,
+        "care_oriented": 1.0342555808920233,
+        "knowledge_oriented": 0.9457643236747113,
+        "governance_oriented": 1.0362819575184217,
+        "sovereignty_order_oriented": 1.0693956642909117,
+        "expression_oriented": 0.9003640301122174,
+        "ecosystem_oriented": 0.9530793970339285
       },
-      "priority_raw": 0.27746071828478175,
-      "contest_raw": 0.034692735069520246
+      "priority_raw": 0.4047444531984923,
+      "contest_raw": 0.03410632474342878
     },
     {
-      "signal_id": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo players told to isolate before World Cup",
+      "signal_id": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.9366386519053724,
-      "contest_score": -0.4450561420358796,
+      "priority_score": 1.3671187351761764,
+      "contest_score": -1.51995037189853,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6047452659999146,
-      "contestedness": 0.04613420553148273,
-      "impact": 0.635,
+      "central_tendency": 0.8172449347653711,
+      "contestedness": 0.033118878426045884,
+      "impact": 0.66,
       "top_clusters": {
-        "care_oriented": 0.6859922474976244,
-        "stability_seeking": 0.650722488089747
+        "survival_focused": 0.8764544554487308,
+        "achievement_oriented": 0.8665644283396516
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5223582141522312
+        "expression_oriented": 0.7459860967998361
       },
       "cluster_means": {
-        "survival_focused": 0.640932778625774,
-        "stability_seeking": 0.650722488089747,
-        "achievement_oriented": 0.5223582141522312,
-        "care_oriented": 0.6859922474976244,
-        "knowledge_oriented": 0.5947985730942913,
-        "governance_oriented": 0.6260027907591061,
-        "sovereignty_order_oriented": 0.5911893275405002,
-        "expression_oriented": 0.5911757646828553,
-        "ecosystem_oriented": 0.5395352095571027
+        "survival_focused": 0.8764544554487308,
+        "stability_seeking": 0.8598615902931334,
+        "achievement_oriented": 0.8665644283396516,
+        "care_oriented": 0.8540853384833897,
+        "knowledge_oriented": 0.7602573305830681,
+        "governance_oriented": 0.801284290594203,
+        "sovereignty_order_oriented": 0.8334455499136058,
+        "expression_oriented": 0.7459860967998361,
+        "ecosystem_oriented": 0.7572653324327223
       },
-      "priority_raw": 0.26880927073696204,
-      "contest_raw": 0.029295220512491536
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.03578661312096987,
-      "contest_score": -0.0002006373122800612,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.30846845759617847,
-      "contestedness": 0.05291041263110413,
-      "impact": 0.695,
-      "top_clusters": {
-        "expression_oriented": 0.5165032837928822,
-        "knowledge_oriented": 0.46353034949540695
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.1635152741232892
-      },
-      "cluster_means": {
-        "survival_focused": 0.1635152741232892,
-        "stability_seeking": 0.23663479435071794,
-        "achievement_oriented": 0.30783175545809527,
-        "care_oriented": 0.28821311163020025,
-        "knowledge_oriented": 0.46353034949540695,
-        "governance_oriented": 0.28954520698182207,
-        "sovereignty_order_oriented": 0.17531855375530864,
-        "expression_oriented": 0.5165032837928822,
-        "ecosystem_oriented": 0.33512378877788274
-      },
-      "priority_raw": 0.15006990462054082,
-      "contest_raw": 0.036772736778617365
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.08510114727407773,
-      "contest_score": -0.8434942202362583,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.3664916650448583,
-      "contestedness": 0.03704578445464546,
-      "impact": 0.6100000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.46710151464077143,
-        "knowledge_oriented": 0.4233258039437142
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.3112921410100065
-      },
-      "cluster_means": {
-        "survival_focused": 0.35437758443700973,
-        "stability_seeking": 0.3677193047257997,
-        "achievement_oriented": 0.3112921410100065,
-        "care_oriented": 0.3914233688916552,
-        "knowledge_oriented": 0.4233258039437142,
-        "governance_oriented": 0.32531484561769186,
-        "sovereignty_order_oriented": 0.3168665435613721,
-        "expression_oriented": 0.46710151464077143,
-        "ecosystem_oriented": 0.34100387857570374
-      },
-      "priority_raw": 0.13413594940641815,
-      "contest_raw": 0.022597928517333735
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.23782369422497943,
-      "contest_score": -1.1276070110384175,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5428853312978335,
-      "contestedness": 0.04243408304956431,
-      "impact": 0.42000000000000004,
-      "top_clusters": {
-        "knowledge_oriented": 0.6111437631703556,
-        "expression_oriented": 0.5969362620066174
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.4601624917003035
-      },
-      "cluster_means": {
-        "survival_focused": 0.4601624917003035,
-        "stability_seeking": 0.545896127454148,
-        "achievement_oriented": 0.584491841804437,
-        "care_oriented": 0.5407185502249638,
-        "knowledge_oriented": 0.6111437631703556,
-        "governance_oriented": 0.5790296665705903,
-        "sovereignty_order_oriented": 0.4641272343445022,
-        "expression_oriented": 0.5969362620066174,
-        "ecosystem_oriented": 0.5034620444045836
-      },
-      "priority_raw": 0.11400591957254504,
-      "contest_raw": 0.017822314880817012
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.32196911186647703,
-      "contest_score": 0.8381004879831423,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.28004052622043035,
-      "contestedness": 0.06920221427483358,
-      "impact": 0.735,
-      "top_clusters": {
-        "expression_oriented": 0.4720307385649905,
-        "knowledge_oriented": 0.42430014514405884
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.17663069508907628
-      },
-      "cluster_means": {
-        "survival_focused": 0.2014515646335851,
-        "stability_seeking": 0.21181843714370005,
-        "achievement_oriented": 0.3105765143248117,
-        "care_oriented": 0.2706537789084187,
-        "knowledge_oriented": 0.42430014514405884,
-        "governance_oriented": 0.17663069508907628,
-        "sovereignty_order_oriented": 0.1818294564365452,
-        "expression_oriented": 0.4720307385649905,
-        "ecosystem_oriented": 0.2710734057386871
-      },
-      "priority_raw": 0.10291489338600815,
-      "contest_raw": 0.05086362749200268
+      "priority_raw": 0.32362899416708696,
+      "contest_raw": 0.021858459761190285
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.34226195710797563,
-      "contest_score": -0.7827440698020077,
+      "priority_score": -0.02835943257410939,
+      "contest_score": -0.3419461278221766,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.18358999483670893,
-      "contestedness": 0.03028085847974718,
+      "central_tendency": 0.21201628213734075,
+      "contestedness": 0.05294723876643151,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.2904626225834138,
-        "knowledge_oriented": 0.2800249712372104
+        "expression_oriented": 0.3440195562074486,
+        "knowledge_oriented": 0.32724222801937886
       },
       "bottom_clusters": {
-        "survival_focused": 0.08288457227198756
+        "survival_focused": 0.0975134913645612
       },
       "cluster_means": {
-        "survival_focused": 0.08288457227198756,
-        "stability_seeking": 0.1353431712034012,
-        "achievement_oriented": 0.2304667289120864,
-        "care_oriented": 0.1492129269662406,
-        "knowledge_oriented": 0.2800249712372104,
-        "governance_oriented": 0.17712739862239915,
-        "sovereignty_order_oriented": 0.14116353205049295,
-        "expression_oriented": 0.2904626225834138,
-        "ecosystem_oriented": 0.16562402968314838
+        "survival_focused": 0.0975134913645612,
+        "stability_seeking": 0.15220806791068187,
+        "achievement_oriented": 0.25331738932957343,
+        "care_oriented": 0.1869451380102754,
+        "knowledge_oriented": 0.32724222801937886,
+        "governance_oriented": 0.1989616452128977,
+        "sovereignty_order_oriented": 0.14601440644646618,
+        "expression_oriented": 0.3440195562074486,
+        "ecosystem_oriented": 0.2019246167347838
       },
-      "priority_raw": 0.10024013718084308,
-      "contest_raw": 0.023619069614202803
+      "priority_raw": 0.11576089004698804,
+      "contest_raw": 0.04129884623781658
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
+      "signal_id": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3574661114674332,
-      "contest_score": -0.054089927740198565,
+      "priority_score": -0.05236394557793882,
+      "contest_score": -0.29650426976186295,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2462057903658044,
-      "contestedness": 0.0539352164715485,
-      "impact": 0.665,
+      "central_tendency": 0.2094962049714543,
+      "contestedness": 0.05496570565858236,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.40103597032728294,
-        "knowledge_oriented": 0.3369487757771728
+        "expression_oriented": 0.3687140598305335,
+        "knowledge_oriented": 0.3079032650554745
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.16289097280688675
+        "survival_focused": 0.10388202685293746
       },
       "cluster_means": {
-        "survival_focused": 0.16801618212886274,
-        "stability_seeking": 0.18581925035925848,
-        "achievement_oriented": 0.22255503098840546,
-        "care_oriented": 0.22195139860041124,
-        "knowledge_oriented": 0.3369487757771728,
-        "governance_oriented": 0.19538755615215186,
-        "sovereignty_order_oriented": 0.16289097280688675,
-        "expression_oriented": 0.40103597032728294,
-        "ecosystem_oriented": 0.32124697615180753
+        "survival_focused": 0.10388202685293746,
+        "stability_seeking": 0.14159282265680698,
+        "achievement_oriented": 0.19034337411776397,
+        "care_oriented": 0.18990057622796608,
+        "knowledge_oriented": 0.3079032650554745,
+        "governance_oriented": 0.17691418390879693,
+        "sovereignty_order_oriented": 0.13493487056938372,
+        "expression_oriented": 0.3687140598305335,
+        "ecosystem_oriented": 0.27128066552342583
       },
-      "priority_raw": 0.09823611035595595,
-      "contest_raw": 0.035866918953579754
+      "priority_raw": 0.11218521776221377,
+      "contest_raw": 0.042048764828815505
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "title": "India's parody 'cockroach party' claims website has been blocked",
+      "signal_id": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "title": "Man killed in shark attack off Australia's north-east coast",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.37649870726384327,
-      "contest_score": -1.2251346606380955,
+      "priority_score": -0.1752803416606237,
+      "contest_score": -0.9595358479153578,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3867776360186617,
-      "contestedness": 0.0326929005124032,
-      "impact": 0.495,
+      "central_tendency": 0.2980184002600654,
+      "contestedness": 0.04937599547395374,
+      "impact": 0.6300000000000001,
       "top_clusters": {
-        "care_oriented": 0.47775627209456023,
-        "expression_oriented": 0.4505914357181212
+        "expression_oriented": 0.46850629544815015,
+        "knowledge_oriented": 0.4074063271106493
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.30570582772601607
+        "sovereignty_order_oriented": 0.20527617995005157
       },
       "cluster_means": {
-        "survival_focused": 0.3546453307703942,
-        "stability_seeking": 0.3873382312827974,
-        "achievement_oriented": 0.31911361705209224,
-        "care_oriented": 0.47775627209456023,
-        "knowledge_oriented": 0.4180490585270546,
-        "governance_oriented": 0.39382116108516063,
-        "sovereignty_order_oriented": 0.30570582772601607,
-        "expression_oriented": 0.4505914357181212,
-        "ecosystem_oriented": 0.3739777899117588
+        "survival_focused": 0.20779466202133942,
+        "stability_seeking": 0.24737012129135838,
+        "achievement_oriented": 0.25717065749529316,
+        "care_oriented": 0.26881854360189184,
+        "knowledge_oriented": 0.4074063271106493,
+        "governance_oriented": 0.25533414197363924,
+        "sovereignty_order_oriented": 0.20527617995005157,
+        "expression_oriented": 0.46850629544815015,
+        "ecosystem_oriented": 0.3644886734482155
       },
-      "priority_raw": 0.09572746491461877,
-      "contest_raw": 0.016182985753639585
+      "priority_raw": 0.0938757960819206,
+      "contest_raw": 0.031106877148590863
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.21904381248167418,
+      "contest_score": -0.1409613012654519,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.22572832646841764,
+      "contestedness": 0.06917156854414952,
+      "impact": 0.645,
+      "top_clusters": {
+        "expression_oriented": 0.4072236623691857,
+        "knowledge_oriented": 0.3484125924233492
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.12779902758759504
+      },
+      "cluster_means": {
+        "survival_focused": 0.12875795778659022,
+        "stability_seeking": 0.16754832219490873,
+        "achievement_oriented": 0.20753665048452247,
+        "care_oriented": 0.19792952633073974,
+        "knowledge_oriented": 0.3484125924233492,
+        "governance_oriented": 0.17318845773915573,
+        "sovereignty_order_oriented": 0.12779902758759504,
+        "expression_oriented": 0.4072236623691857,
+        "ecosystem_oriented": 0.2731587412997116
+      },
+      "priority_raw": 0.08735686234327762,
+      "contest_raw": 0.04461566171097644
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2517267162566709,
+      "contest_score": 1.4613990495932196,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.21150890107813464,
+      "contestedness": 0.09110143415936947,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.3840943827000624,
+        "knowledge_oriented": 0.33715382356552426
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.08751349136456119
+      },
+      "cluster_means": {
+        "survival_focused": 0.08751349136456119,
+        "stability_seeking": 0.12645371937395797,
+        "achievement_oriented": 0.2233173893295735,
+        "care_oriented": 0.21755515353332744,
+        "knowledge_oriented": 0.33715382356552426,
+        "governance_oriented": 0.17900792910822017,
+        "sovereignty_order_oriented": 0.11344547937519697,
+        "expression_oriented": 0.3840943827000624,
+        "ecosystem_oriented": 0.23503874135278796
+      },
+      "priority_raw": 0.08248847142047251,
+      "contest_raw": 0.0710591186443082
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
@@ -786,8 +642,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.49824232152995757,
-      "contest_score": 1.779103236511837,
+      "priority_score": -0.27057608093509145,
+      "contest_score": 1.1960926395648006,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.8888888888888888,
@@ -816,14 +672,86 @@
       "contest_raw": 0.06668081595854601
     },
     {
+      "signal_id": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.37002153749191247,
+      "contest_score": -1.0036351188352135,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.14593356992939385,
+      "contestedness": 0.047841126023954406,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.2921551746983276,
+        "knowledge_oriented": 0.24383224075502286
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.03585320344151807
+      },
+      "cluster_means": {
+        "survival_focused": 0.03585320344151807,
+        "stability_seeking": 0.11099234079224365,
+        "achievement_oriented": 0.10340479198250968,
+        "care_oriented": 0.13647637354377679,
+        "knowledge_oriented": 0.24383224075502286,
+        "governance_oriented": 0.1340333136133936,
+        "sovereignty_order_oriented": 0.057611929026200104,
+        "expression_oriented": 0.2921551746983276,
+        "ecosystem_oriented": 0.181874439637348
+      },
+      "priority_raw": 0.06486747183361556,
+      "contest_raw": 0.030379115025211047
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.42274154355225335,
+      "contest_score": 1.1588682960131114,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.11588290146369075,
+      "contestedness": 0.08056891401439728,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.25983573135403293,
+        "knowledge_oriented": 0.19454092312296875
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.07077812806042938
+      },
+      "cluster_means": {
+        "survival_focused": -0.07077812806042938,
+        "stability_seeking": -0.02796317718710245,
+        "achievement_oriented": 0.05260573682729483,
+        "care_oriented": 0.07282356305408058,
+        "knowledge_oriented": 0.19454092312296875,
+        "governance_oriented": 0.012513668371689934,
+        "sovereignty_order_oriented": -0.03084768137780952,
+        "expression_oriented": 0.25983573135403293,
+        "ecosystem_oriented": 0.11938685233022728
+      },
+      "priority_raw": 0.05701438752013585,
+      "contest_raw": 0.06606650949180577
+    },
+    {
       "signal_id": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7227904933131183,
-      "contest_score": 2.0785861005502797,
+      "priority_score": -0.4692706401605331,
+      "contest_score": 1.5011295094791532,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.7777777777777778,
@@ -858,8 +786,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7261498867083755,
-      "contest_score": -0.1236860179355097,
+      "priority_score": -0.47224324592541145,
+      "contest_score": -0.7419844525815446,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -888,40 +816,76 @@
       "contest_raw": 0.0346970876466309
     },
     {
+      "signal_id": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5052594834972689,
+      "contest_score": 0.9210566097804443,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.11467346819145179,
+      "contestedness": 0.07966916301909818,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.25973007232992196,
+        "knowledge_oriented": 0.1876968853103488
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.07040191448121397
+      },
+      "cluster_means": {
+        "survival_focused": -0.07040191448121397,
+        "stability_seeking": -0.04344073357803238,
+        "achievement_oriented": 0.03274290772080932,
+        "care_oriented": 0.04955217640033355,
+        "knowledge_oriented": 0.1876968853103488,
+        "governance_oriented": -0.0230064231346456,
+        "sovereignty_order_oriented": -0.04790489221803523,
+        "expression_oriented": 0.25973007232992196,
+        "ecosystem_oriented": 0.1124120707399075
+      },
+      "priority_raw": 0.0447226525946662,
+      "contest_raw": 0.062141947154896585
+    },
+    {
       "signal_id": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
       "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.777444563112225,
-      "contest_score": 0.4745788996774579,
+      "priority_score": -0.5223580852312869,
+      "contest_score": -0.5868636997600319,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.32984350458055267,
-      "contestedness": 0.06885114165070874,
+      "central_tendency": 0.32442825656100605,
+      "contestedness": 0.05731848735613415,
       "impact": 0.65,
       "top_clusters": {
-        "expression_oriented": 0.5299403662081384,
-        "knowledge_oriented": 0.4639897569342583
+        "expression_oriented": 0.5189073716112649,
+        "knowledge_oriented": 0.4529141401797785
       },
       "bottom_clusters": {
-        "governance_oriented": 0.22196048333395887
+        "governance_oriented": 0.21935550799285708
       },
       "cluster_means": {
-        "survival_focused": 0.265124927193292,
-        "stability_seeking": 0.24948026889776193,
-        "achievement_oriented": 0.30310456905502736,
-        "care_oriented": 0.3064333780540404,
-        "knowledge_oriented": 0.4639897569342583,
-        "governance_oriented": 0.22196048333395887,
-        "sovereignty_order_oriented": 0.23425342740431862,
-        "expression_oriented": 0.5299403662081384,
-        "ecosystem_oriented": 0.3943043641441785
+        "survival_focused": 0.2628531219194583,
+        "stability_seeking": 0.24583034148701172,
+        "achievement_oriented": 0.29092634406919293,
+        "care_oriented": 0.3054463765118505,
+        "knowledge_oriented": 0.4529141401797785,
+        "governance_oriented": 0.21935550799285708,
+        "sovereignty_order_oriented": 0.23360785671305878,
+        "expression_oriented": 0.5189073716112649,
+        "ecosystem_oriented": 0.39001324856458125
       },
-      "priority_raw": 0.042879655595471855,
-      "contest_raw": 0.044753242072960685
+      "priority_raw": 0.04217567335293079,
+      "contest_raw": 0.0372570167814872
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
@@ -930,8 +894,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7885694078527882,
-      "contest_score": 2.01974284671846,
+      "priority_score": -0.5274760235622244,
+      "contest_score": 1.4411949886107744,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.6388888888888888,
@@ -960,76 +924,112 @@
       "contest_raw": 0.07072569475736454
     },
     {
+      "signal_id": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5320961582294684,
+      "contest_score": 0.5264829567974301,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.11890541960567898,
+      "contestedness": 0.08121222048580472,
+      "impact": 0.6849999999999999,
+      "top_clusters": {
+        "expression_oriented": 0.21737942293484097,
+        "knowledge_oriented": 0.15959731368603633
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.12702337216000203
+      },
+      "cluster_means": {
+        "survival_focused": -0.12702337216000203,
+        "stability_seeking": -0.06677069673730682,
+        "achievement_oriented": -0.0027792902743045272,
+        "care_oriented": 0.05174692931335001,
+        "knowledge_oriented": 0.15959731368603633,
+        "governance_oriented": -0.018412271872527586,
+        "sovereignty_order_oriented": -0.09356724238503256,
+        "expression_oriented": 0.21737942293484097,
+        "ecosystem_oriented": 0.07843293021150019
+      },
+      "priority_raw": 0.040725106214945045,
+      "contest_raw": 0.055630371032776224
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5680052702279023,
+      "contest_score": -0.22179269620924585,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.09248665277765611,
+      "contestedness": 0.05657740670433434,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.176650368331656,
+        "knowledge_oriented": 0.11528247890793433
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.07646860381673415
+      },
+      "cluster_means": {
+        "survival_focused": -0.07646860381673415,
+        "stability_seeking": -0.04574226133621398,
+        "achievement_oriented": 0.010835145368120358,
+        "care_oriented": 0.05834736097609902,
+        "knowledge_oriented": 0.11528247890793433,
+        "governance_oriented": -0.023441301681440707,
+        "sovereignty_order_oriented": -0.04151743321721796,
+        "expression_oriented": 0.176650368331656,
+        "ecosystem_oriented": 0.0997052689445121
+      },
+      "priority_raw": 0.03537614468745346,
+      "contest_raw": 0.04328171612881577
+    },
+    {
       "signal_id": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
       "title": "F1 great Prost 'injured as masked gang raid home'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8736869447074547,
-      "contest_score": 0.14572992239226112,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.09233686439202249,
-      "contestedness": 0.07197369523464835,
-      "impact": 0.545,
-      "top_clusters": {
-        "expression_oriented": 0.18797170517605216,
-        "knowledge_oriented": 0.13213104097982215
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.06826723789316969
-      },
-      "cluster_means": {
-        "survival_focused": -0.06826723789316969,
-        "stability_seeking": -0.009974682272529567,
-        "achievement_oriented": -0.0369478540687197,
-        "care_oriented": 0.06914709643206327,
-        "knowledge_oriented": 0.13213104097982215,
-        "governance_oriented": 0.03502584116592865,
-        "sovereignty_order_oriented": -0.06083363553964061,
-        "expression_oriented": 0.18797170517605216,
-        "ecosystem_oriented": 0.0907676524520792
-      },
-      "priority_raw": 0.030194154656191356,
-      "contest_raw": 0.03922566390288335
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.916646942829594,
-      "contest_score": -0.27858228006317315,
+      "priority_score": -0.5868433864597472,
+      "contest_score": -0.8922562449302449,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.08840248602521796,
-      "contestedness": 0.05782604907716771,
-      "impact": 0.5549999999999999,
+      "central_tendency": 0.0996026001919219,
+      "contestedness": 0.059114091763141516,
+      "impact": 0.545,
       "top_clusters": {
-        "expression_oriented": 0.19883589899466853,
-        "knowledge_oriented": 0.13775465150164673
+        "expression_oriented": 0.2100376943697994,
+        "knowledge_oriented": 0.1542822744887818
       },
       "bottom_clusters": {
-        "survival_focused": -0.058577397150804095
+        "survival_focused": -0.0637236273455023
       },
       "cluster_means": {
-        "survival_focused": -0.058577397150804095,
-        "stability_seeking": -0.004858617380038482,
-        "achievement_oriented": -0.011142937827583951,
-        "care_oriented": 0.04446828881961619,
-        "knowledge_oriented": 0.13775465150164673,
-        "governance_oriented": 0.007125347344511007,
-        "sovereignty_order_oriented": -0.0507007017326567,
-        "expression_oriented": 0.19883589899466853,
-        "ecosystem_oriented": 0.09343042002424835
+        "survival_focused": -0.0637236273455023,
+        "stability_seeking": -0.002674827451029149,
+        "achievement_oriented": -0.01259140409705084,
+        "care_oriented": 0.07112109951644309,
+        "knowledge_oriented": 0.1542822744887818,
+        "governance_oriented": 0.04023579184813224,
+        "sovereignty_order_oriented": -0.0595424941571209,
+        "expression_oriented": 0.2100376943697994,
+        "ecosystem_oriented": 0.09934988361127375
       },
-      "priority_raw": 0.02453168987199798,
-      "contest_raw": 0.032093457237828076
+      "priority_raw": 0.03257005026275846,
+      "contest_raw": 0.03221718001091213
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
@@ -1038,34 +1038,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.95723675569979,
-      "contest_score": 0.42520456385910343,
+      "priority_score": -0.6664040526720996,
+      "contest_score": 0.7710139265870223,
       "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.10312706504674149,
-      "contestedness": 0.07084405727723367,
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.11139153714010165,
+      "contestedness": 0.0962351942987962,
       "impact": 0.6199999999999999,
       "top_clusters": {
-        "expression_oriented": 0.07885287124257138,
-        "ecosystem_oriented": 0.0266159333991208
+        "expression_oriented": 0.21725473795031683,
+        "knowledge_oriented": 0.14730144024308725
       },
       "bottom_clusters": {
-        "stability_seeking": -0.15747966403040609
+        "stability_seeking": -0.05461800636209968
       },
       "cluster_means": {
-        "survival_focused": -0.1260245338493536,
-        "stability_seeking": -0.15747966403040609,
-        "achievement_oriented": -0.06926436429680775,
-        "care_oriented": -0.037477910943210985,
-        "knowledge_oriented": 0.0015796929804259147,
-        "governance_oriented": -0.15307874347536757,
-        "sovereignty_order_oriented": -0.12560428013248595,
-        "expression_oriented": 0.07885287124257138,
-        "ecosystem_oriented": 0.0266159333991208
+        "survival_focused": -0.034577184764385094,
+        "stability_seeking": -0.05461800636209968,
+        "achievement_oriented": 0.07298513824971485,
+        "care_oriented": 0.06165800953441111,
+        "knowledge_oriented": 0.14730144024308725,
+        "governance_oriented": -0.03670609016410539,
+        "sovereignty_order_oriented": -0.040854398017406784,
+        "expression_oriented": 0.21725473795031683,
+        "ecosystem_oriented": 0.14035195311370538
       },
-      "priority_raw": 0.01918163409869391,
-      "contest_raw": 0.043923315511884865
+      "priority_raw": 0.020718825908058906,
+      "contest_raw": 0.059665820465253636
     }
   ],
   "selected_priorities": [
@@ -1076,362 +1076,362 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.438223016067055,
-      "contest_score": -0.5636023065761877,
+      "priority_score": 3.36128095815384,
+      "contest_score": -1.4940256885314747,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.987788085143217,
-      "contestedness": 0.040448287405086436,
+      "central_tendency": 1.0216890176561932,
+      "contestedness": 0.03301672595972782,
       "impact": 0.675,
       "top_clusters": {
-        "achievement_oriented": 1.0795068293010477,
-        "stability_seeking": 1.0588588280918034
+        "stability_seeking": 1.1024202409576227,
+        "achievement_oriented": 1.0995068293010477
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8466649623158528
+        "expression_oriented": 0.8891836689390064
       },
       "cluster_means": {
-        "survival_focused": 1.0558875767889533,
-        "stability_seeking": 1.0588588280918034,
-        "achievement_oriented": 1.0795068293010477,
-        "care_oriented": 0.9834466978967453,
-        "knowledge_oriented": 0.9139331284806032,
-        "governance_oriented": 1.018410540686717,
-        "sovereignty_order_oriented": 1.0487957467657123,
-        "expression_oriented": 0.8466649623158528,
-        "ecosystem_oriented": 0.884588455961519
+        "survival_focused": 1.0758875767889535,
+        "stability_seeking": 1.1024202409576227,
+        "achievement_oriented": 1.0995068293010477,
+        "care_oriented": 1.0110992017775082,
+        "knowledge_oriented": 0.9526610273671394,
+        "governance_oriented": 1.0759221116605475,
+        "sovereignty_order_oriented": 1.0694035149978949,
+        "expression_oriented": 0.8891836689390064,
+        "ecosystem_oriented": 0.9191169871160201
       },
-      "priority_raw": 0.46672987023017004,
-      "contest_raw": 0.027302593998433346
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 2.1045947042575817,
-      "contest_score": -1.3941789715789095,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.9820093875446072,
-      "contestedness": 0.021693565362250533,
-      "impact": 0.615,
-      "top_clusters": {
-        "achievement_oriented": 1.0987464520817203,
-        "stability_seeking": 1.0243142886950736
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.9079645867550278
-      },
-      "cluster_means": {
-        "survival_focused": 0.9660600549415777,
-        "stability_seeking": 1.0243142886950736,
-        "achievement_oriented": 1.0987464520817203,
-        "care_oriented": 0.949978863648582,
-        "knowledge_oriented": 1.001686133309994,
-        "governance_oriented": 0.9877536203038282,
-        "sovereignty_order_oriented": 0.9456897194840074,
-        "expression_oriented": 0.955890768681655,
-        "ecosystem_oriented": 0.9079645867550278
-      },
-      "priority_raw": 0.4227550413379534,
-      "contest_raw": 0.013341542697784078
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.4643695897129325,
-      "contest_score": -0.798724849474076,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.9478105000513012,
-      "contestedness": 0.03924445519491304,
-      "impact": 0.595,
-      "top_clusters": {
-        "survival_focused": 1.03328114491297,
-        "stability_seeking": 1.0228020334624954
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.8292332916938515
-      },
-      "cluster_means": {
-        "survival_focused": 1.03328114491297,
-        "stability_seeking": 1.0228020334624954,
-        "achievement_oriented": 0.9480923967584216,
-        "care_oriented": 0.9887504278958205,
-        "knowledge_oriented": 0.8797232802369245,
-        "governance_oriented": 0.9835575782675824,
-        "sovereignty_order_oriented": 0.9966935804383545,
-        "expression_oriented": 0.8292332916938515,
-        "ecosystem_oriented": 0.8481607667952918
-      },
-      "priority_raw": 0.3383683485183145,
-      "contest_raw": 0.023350450840973258
+      "priority_raw": 0.6206760782261375,
+      "contest_raw": 0.02228629002281628
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.002275469894178,
-      "contest_score": -0.12394496326153745,
+      "priority_score": 1.9116700631662025,
+      "contest_score": -0.777782156914825,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9023112789749,
-      "contestedness": 0.05641095133255325,
-      "impact": 0.615,
+      "central_tendency": 1.022081952521445,
+      "contestedness": 0.05167624961125572,
+      "impact": 0.66,
       "top_clusters": {
-        "survival_focused": 1.0067513351918933,
-        "sovereignty_order_oriented": 0.981258396891528
+        "survival_focused": 1.0928728266594299,
+        "achievement_oriented": 1.0879582071296774
       },
       "bottom_clusters": {
-        "expression_oriented": 0.7434727617060393
+        "expression_oriented": 0.9003640301122174
       },
       "cluster_means": {
-        "survival_focused": 1.0067513351918933,
-        "stability_seeking": 0.9464955422708679,
-        "achievement_oriented": 0.9779275710129184,
-        "care_oriented": 0.9248474455589748,
-        "knowledge_oriented": 0.789637412888905,
-        "governance_oriented": 0.9020477274852015,
-        "sovereignty_order_oriented": 0.981258396891528,
-        "expression_oriented": 0.7434727617060393,
-        "ecosystem_oriented": 0.8483633177677716
+        "survival_focused": 1.0928728266594299,
+        "stability_seeking": 1.0787655853816847,
+        "achievement_oriented": 1.0879582071296774,
+        "care_oriented": 1.0342555808920233,
+        "knowledge_oriented": 0.9457643236747113,
+        "governance_oriented": 1.0362819575184217,
+        "sovereignty_order_oriented": 1.0693956642909117,
+        "expression_oriented": 0.9003640301122174,
+        "ecosystem_oriented": 0.9530793970339285
       },
-      "priority_raw": 0.27746071828478175,
-      "contest_raw": 0.034692735069520246
+      "priority_raw": 0.4047444531984923,
+      "contest_raw": 0.03410632474342878
     },
     {
-      "signal_id": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo players told to isolate before World Cup",
+      "signal_id": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.9366386519053724,
-      "contest_score": -0.4450561420358796,
+      "priority_score": 1.3671187351761764,
+      "contest_score": -1.51995037189853,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6047452659999146,
-      "contestedness": 0.04613420553148273,
-      "impact": 0.635,
+      "central_tendency": 0.8172449347653711,
+      "contestedness": 0.033118878426045884,
+      "impact": 0.66,
       "top_clusters": {
-        "care_oriented": 0.6859922474976244,
-        "stability_seeking": 0.650722488089747
+        "survival_focused": 0.8764544554487308,
+        "achievement_oriented": 0.8665644283396516
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5223582141522312
+        "expression_oriented": 0.7459860967998361
       },
       "cluster_means": {
-        "survival_focused": 0.640932778625774,
-        "stability_seeking": 0.650722488089747,
-        "achievement_oriented": 0.5223582141522312,
-        "care_oriented": 0.6859922474976244,
-        "knowledge_oriented": 0.5947985730942913,
-        "governance_oriented": 0.6260027907591061,
-        "sovereignty_order_oriented": 0.5911893275405002,
-        "expression_oriented": 0.5911757646828553,
-        "ecosystem_oriented": 0.5395352095571027
+        "survival_focused": 0.8764544554487308,
+        "stability_seeking": 0.8598615902931334,
+        "achievement_oriented": 0.8665644283396516,
+        "care_oriented": 0.8540853384833897,
+        "knowledge_oriented": 0.7602573305830681,
+        "governance_oriented": 0.801284290594203,
+        "sovereignty_order_oriented": 0.8334455499136058,
+        "expression_oriented": 0.7459860967998361,
+        "ecosystem_oriented": 0.7572653324327223
       },
-      "priority_raw": 0.26880927073696204,
-      "contest_raw": 0.029295220512491536
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.03578661312096987,
-      "contest_score": -0.0002006373122800612,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.30846845759617847,
-      "contestedness": 0.05291041263110413,
-      "impact": 0.695,
-      "top_clusters": {
-        "expression_oriented": 0.5165032837928822,
-        "knowledge_oriented": 0.46353034949540695
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.1635152741232892
-      },
-      "cluster_means": {
-        "survival_focused": 0.1635152741232892,
-        "stability_seeking": 0.23663479435071794,
-        "achievement_oriented": 0.30783175545809527,
-        "care_oriented": 0.28821311163020025,
-        "knowledge_oriented": 0.46353034949540695,
-        "governance_oriented": 0.28954520698182207,
-        "sovereignty_order_oriented": 0.17531855375530864,
-        "expression_oriented": 0.5165032837928822,
-        "ecosystem_oriented": 0.33512378877788274
-      },
-      "priority_raw": 0.15006990462054082,
-      "contest_raw": 0.036772736778617365
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.08510114727407773,
-      "contest_score": -0.8434942202362583,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.3664916650448583,
-      "contestedness": 0.03704578445464546,
-      "impact": 0.6100000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.46710151464077143,
-        "knowledge_oriented": 0.4233258039437142
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.3112921410100065
-      },
-      "cluster_means": {
-        "survival_focused": 0.35437758443700973,
-        "stability_seeking": 0.3677193047257997,
-        "achievement_oriented": 0.3112921410100065,
-        "care_oriented": 0.3914233688916552,
-        "knowledge_oriented": 0.4233258039437142,
-        "governance_oriented": 0.32531484561769186,
-        "sovereignty_order_oriented": 0.3168665435613721,
-        "expression_oriented": 0.46710151464077143,
-        "ecosystem_oriented": 0.34100387857570374
-      },
-      "priority_raw": 0.13413594940641815,
-      "contest_raw": 0.022597928517333735
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.23782369422497943,
-      "contest_score": -1.1276070110384175,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5428853312978335,
-      "contestedness": 0.04243408304956431,
-      "impact": 0.42000000000000004,
-      "top_clusters": {
-        "knowledge_oriented": 0.6111437631703556,
-        "expression_oriented": 0.5969362620066174
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.4601624917003035
-      },
-      "cluster_means": {
-        "survival_focused": 0.4601624917003035,
-        "stability_seeking": 0.545896127454148,
-        "achievement_oriented": 0.584491841804437,
-        "care_oriented": 0.5407185502249638,
-        "knowledge_oriented": 0.6111437631703556,
-        "governance_oriented": 0.5790296665705903,
-        "sovereignty_order_oriented": 0.4641272343445022,
-        "expression_oriented": 0.5969362620066174,
-        "ecosystem_oriented": 0.5034620444045836
-      },
-      "priority_raw": 0.11400591957254504,
-      "contest_raw": 0.017822314880817012
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.32196911186647703,
-      "contest_score": 0.8381004879831423,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.28004052622043035,
-      "contestedness": 0.06920221427483358,
-      "impact": 0.735,
-      "top_clusters": {
-        "expression_oriented": 0.4720307385649905,
-        "knowledge_oriented": 0.42430014514405884
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.17663069508907628
-      },
-      "cluster_means": {
-        "survival_focused": 0.2014515646335851,
-        "stability_seeking": 0.21181843714370005,
-        "achievement_oriented": 0.3105765143248117,
-        "care_oriented": 0.2706537789084187,
-        "knowledge_oriented": 0.42430014514405884,
-        "governance_oriented": 0.17663069508907628,
-        "sovereignty_order_oriented": 0.1818294564365452,
-        "expression_oriented": 0.4720307385649905,
-        "ecosystem_oriented": 0.2710734057386871
-      },
-      "priority_raw": 0.10291489338600815,
-      "contest_raw": 0.05086362749200268
+      "priority_raw": 0.32362899416708696,
+      "contest_raw": 0.021858459761190285
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.34226195710797563,
-      "contest_score": -0.7827440698020077,
+      "priority_score": -0.02835943257410939,
+      "contest_score": -0.3419461278221766,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.18358999483670893,
-      "contestedness": 0.03028085847974718,
+      "central_tendency": 0.21201628213734075,
+      "contestedness": 0.05294723876643151,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.2904626225834138,
-        "knowledge_oriented": 0.2800249712372104
+        "expression_oriented": 0.3440195562074486,
+        "knowledge_oriented": 0.32724222801937886
       },
       "bottom_clusters": {
-        "survival_focused": 0.08288457227198756
+        "survival_focused": 0.0975134913645612
       },
       "cluster_means": {
-        "survival_focused": 0.08288457227198756,
-        "stability_seeking": 0.1353431712034012,
-        "achievement_oriented": 0.2304667289120864,
-        "care_oriented": 0.1492129269662406,
-        "knowledge_oriented": 0.2800249712372104,
-        "governance_oriented": 0.17712739862239915,
-        "sovereignty_order_oriented": 0.14116353205049295,
-        "expression_oriented": 0.2904626225834138,
-        "ecosystem_oriented": 0.16562402968314838
+        "survival_focused": 0.0975134913645612,
+        "stability_seeking": 0.15220806791068187,
+        "achievement_oriented": 0.25331738932957343,
+        "care_oriented": 0.1869451380102754,
+        "knowledge_oriented": 0.32724222801937886,
+        "governance_oriented": 0.1989616452128977,
+        "sovereignty_order_oriented": 0.14601440644646618,
+        "expression_oriented": 0.3440195562074486,
+        "ecosystem_oriented": 0.2019246167347838
       },
-      "priority_raw": 0.10024013718084308,
-      "contest_raw": 0.023619069614202803
+      "priority_raw": 0.11576089004698804,
+      "contest_raw": 0.04129884623781658
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.05236394557793882,
+      "contest_score": -0.29650426976186295,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2094962049714543,
+      "contestedness": 0.05496570565858236,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.3687140598305335,
+        "knowledge_oriented": 0.3079032650554745
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10388202685293746
+      },
+      "cluster_means": {
+        "survival_focused": 0.10388202685293746,
+        "stability_seeking": 0.14159282265680698,
+        "achievement_oriented": 0.19034337411776397,
+        "care_oriented": 0.18990057622796608,
+        "knowledge_oriented": 0.3079032650554745,
+        "governance_oriented": 0.17691418390879693,
+        "sovereignty_order_oriented": 0.13493487056938372,
+        "expression_oriented": 0.3687140598305335,
+        "ecosystem_oriented": 0.27128066552342583
+      },
+      "priority_raw": 0.11218521776221377,
+      "contest_raw": 0.042048764828815505
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1752803416606237,
+      "contest_score": -0.9595358479153578,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2980184002600654,
+      "contestedness": 0.04937599547395374,
+      "impact": 0.6300000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.46850629544815015,
+        "knowledge_oriented": 0.4074063271106493
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.20527617995005157
+      },
+      "cluster_means": {
+        "survival_focused": 0.20779466202133942,
+        "stability_seeking": 0.24737012129135838,
+        "achievement_oriented": 0.25717065749529316,
+        "care_oriented": 0.26881854360189184,
+        "knowledge_oriented": 0.4074063271106493,
+        "governance_oriented": 0.25533414197363924,
+        "sovereignty_order_oriented": 0.20527617995005157,
+        "expression_oriented": 0.46850629544815015,
+        "ecosystem_oriented": 0.3644886734482155
+      },
+      "priority_raw": 0.0938757960819206,
+      "contest_raw": 0.031106877148590863
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.21904381248167418,
+      "contest_score": -0.1409613012654519,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.22572832646841764,
+      "contestedness": 0.06917156854414952,
+      "impact": 0.645,
+      "top_clusters": {
+        "expression_oriented": 0.4072236623691857,
+        "knowledge_oriented": 0.3484125924233492
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.12779902758759504
+      },
+      "cluster_means": {
+        "survival_focused": 0.12875795778659022,
+        "stability_seeking": 0.16754832219490873,
+        "achievement_oriented": 0.20753665048452247,
+        "care_oriented": 0.19792952633073974,
+        "knowledge_oriented": 0.3484125924233492,
+        "governance_oriented": 0.17318845773915573,
+        "sovereignty_order_oriented": 0.12779902758759504,
+        "expression_oriented": 0.4072236623691857,
+        "ecosystem_oriented": 0.2731587412997116
+      },
+      "priority_raw": 0.08735686234327762,
+      "contest_raw": 0.04461566171097644
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2517267162566709,
+      "contest_score": 1.4613990495932196,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.21150890107813464,
+      "contestedness": 0.09110143415936947,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.3840943827000624,
+        "knowledge_oriented": 0.33715382356552426
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.08751349136456119
+      },
+      "cluster_means": {
+        "survival_focused": 0.08751349136456119,
+        "stability_seeking": 0.12645371937395797,
+        "achievement_oriented": 0.2233173893295735,
+        "care_oriented": 0.21755515353332744,
+        "knowledge_oriented": 0.33715382356552426,
+        "governance_oriented": 0.17900792910822017,
+        "sovereignty_order_oriented": 0.11344547937519697,
+        "expression_oriented": 0.3840943827000624,
+        "ecosystem_oriented": 0.23503874135278796
+      },
+      "priority_raw": 0.08248847142047251,
+      "contest_raw": 0.0710591186443082
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.27057608093509145,
+      "contest_score": 1.1960926395648006,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.1629462197257802,
+      "contestedness": 0.08181695209637546,
+      "impact": 0.8150000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.3636960507648661,
+        "knowledge_oriented": 0.3043579974397997
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.022109965213678945
+      },
+      "cluster_means": {
+        "survival_focused": 0.022109965213678945,
+        "stability_seeking": 0.05219394041091005,
+        "achievement_oriented": 0.1920524128320184,
+        "care_oriented": 0.11023546073564294,
+        "knowledge_oriented": 0.3043579974397997,
+        "governance_oriented": 0.07902535994437576,
+        "sovereignty_order_oriented": 0.05794081059007014,
+        "expression_oriented": 0.3636960507648661,
+        "ecosystem_oriented": 0.21883501704135597
+      },
+      "priority_raw": 0.07968070144590651,
+      "contest_raw": 0.06668081595854601
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.37002153749191247,
+      "contest_score": -1.0036351188352135,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.14593356992939385,
+      "contestedness": 0.047841126023954406,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.2921551746983276,
+        "knowledge_oriented": 0.24383224075502286
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.03585320344151807
+      },
+      "cluster_means": {
+        "survival_focused": 0.03585320344151807,
+        "stability_seeking": 0.11099234079224365,
+        "achievement_oriented": 0.10340479198250968,
+        "care_oriented": 0.13647637354377679,
+        "knowledge_oriented": 0.24383224075502286,
+        "governance_oriented": 0.1340333136133936,
+        "sovereignty_order_oriented": 0.057611929026200104,
+        "expression_oriented": 0.2921551746983276,
+        "ecosystem_oriented": 0.181874439637348
+      },
+      "priority_raw": 0.06486747183361556,
+      "contest_raw": 0.030379115025211047
     }
   ],
   "mood": {
-    "score": 0.027360236055649856,
+    "score": 0.026301570519171927,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
@@ -1446,11 +1446,11 @@
       "root_cause": "Rubio meets Modi during India visit with energy high on agenda",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.438223016067055,
-      "contest_score": -0.5636023065761877,
-      "contestedness": 0.040448287405086436,
+      "priority_score": 3.36128095815384,
+      "contest_score": -1.4940256885314747,
+      "contestedness": 0.03301672595972782,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, achievement_oriented.",
       "signal_count": 1,
       "signals": [
         "Rubio meets Modi during India visit with energy high on agenda"
@@ -1461,120 +1461,120 @@
       "falsification": "Signals tied to Rubio meets Modi during India visit with energy high on agenda fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
-      "target": "SpaceX launches massive Starship V3 rocket on test flight",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "name": "SpaceX launches massive Starship V3 rocket on test flight",
-      "root_cause": "SpaceX launches massive Starship V3 rocket on test flight",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 2.1045947042575817,
-      "contest_score": -1.3941789715789095,
-      "contestedness": 0.021693565362250533,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
-      "signal_count": 1,
-      "signals": [
-        "SpaceX launches massive Starship V3 rocket on test flight"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around SpaceX launches massive Starship V3 rocket on test flight is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to SpaceX launches massive Starship V3 rocket on test flight fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
-      "target": "Rubio tries to reassure Nato allies over US troop deployments",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "name": "Rubio tries to reassure Nato allies over US troop deployments",
-      "root_cause": "Rubio tries to reassure Nato allies over US troop deployments",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 1.4643695897129325,
-      "contest_score": -0.798724849474076,
-      "contestedness": 0.03924445519491304,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
-      "signal_count": 1,
-      "signals": [
-        "Rubio tries to reassure Nato allies over US troop deployments"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Rubio tries to reassure Nato allies over US troop deployments is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Rubio tries to reassure Nato allies over US troop deployments fade or reverse without spillover."
-    },
-    {
       "id": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-      "name": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-      "root_cause": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
+      "rank": 2,
+      "target": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "name": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "root_cause": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.002275469894178,
-      "contest_score": -0.12394496326153745,
-      "contestedness": 0.05641095133255325,
+      "priority_score": 1.9116700631662025,
+      "contest_score": -0.777782156914825,
+      "contestedness": 0.05167624961125572,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, sovereignty_order_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, achievement_oriented.",
       "signal_count": 1,
       "signals": [
-        "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz"
+        "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz fade or reverse without spillover."
+      "prediction": "Momentum around Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "rank": 5,
-      "target": "DR Congo players told to isolate before World Cup",
-      "title": "DR Congo players told to isolate before World Cup",
-      "name": "DR Congo players told to isolate before World Cup",
-      "root_cause": "DR Congo players told to isolate before World Cup",
+      "id": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "rank": 3,
+      "target": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "name": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "root_cause": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.9366386519053724,
-      "contest_score": -0.4450561420358796,
-      "contestedness": 0.04613420553148273,
+      "priority_score": 1.3671187351761764,
+      "contest_score": -1.51995037189853,
+      "contestedness": 0.033118878426045884,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, achievement_oriented.",
       "signal_count": 1,
       "signals": [
-        "DR Congo players told to isolate before World Cup"
+        "Trump tells US negotiators 'not to rush' into deal with Iran"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around DR Congo players told to isolate before World Cup is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to DR Congo players told to isolate before World Cup fade or reverse without spillover."
+      "prediction": "Momentum around Trump tells US negotiators 'not to rush' into deal with Iran is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump tells US negotiators 'not to rush' into deal with Iran fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "California declares emergency as fire crews race to contain toxic leak",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "name": "California declares emergency as fire crews race to contain toxic leak",
+      "root_cause": "California declares emergency as fire crews race to contain toxic leak",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.02835943257410939,
+      "contest_score": -0.3419461278221766,
+      "contestedness": 0.05294723876643151,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "California declares emergency as fire crews race to contain toxic leak"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around California declares emergency as fire crews race to contain toxic leak is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to California declares emergency as fire crews race to contain toxic leak fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "rank": 5,
+      "target": "One killed and many feared trapped under collapsed building in Philippines",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "name": "One killed and many feared trapped under collapsed building in Philippines",
+      "root_cause": "One killed and many feared trapped under collapsed building in Philippines",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.05236394557793882,
+      "contest_score": -0.29650426976186295,
+      "contestedness": 0.05496570565858236,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "One killed and many feared trapped under collapsed building in Philippines"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around One killed and many feared trapped under collapsed building in Philippines is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to One killed and many feared trapped under collapsed building in Philippines fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautiously optimistic structural pattern, with positive momentum in diplomatic and technological developments tempered by contested geopolitical and humanitarian challenges.\n\n**1. Diplomatic and energy cooperation emerge as key stabilizing themes.** Rubio's meeting with Modi in India, with energy high on the agenda, signals a potential deepening of bilateral ties between the U.S. and India. This development aligns with achievement-oriented and stability-seeking clusters, suggesting a focus on pragmatic outcomes such as energy security and economic collaboration. While the signal direction is positive, the contestedness score highlights underlying uncertainties, likely tied to broader geopolitical tensions in the Indo-Pacific region.\n\n**2. Technological advancements continue to drive optimism, but risks remain.** SpaceX's test flight of its massive Starship V3 rocket represents significant progress in aerospace innovation, reinforcing achievement-oriented and stability-seeking priorities. However, the contested score reflects skepticism around the sustainability and ecosystem impacts of such ventures. This underscores the need to balance technological breakthroughs with environmental considerations, particularly as space exploration becomes increasingly commercialized.\n\n**3. Geopolitical signals reveal underlying fragility.** Rubio's reassurance to NATO allies regarding U.S. troop deployments highlights ongoing concerns about alliance cohesion amidst shifting global power dynamics. Similarly, Trump's claim of a \"largely negotiated\" deal with Iran, including reopening the Strait of Hormuz, introduces speculative optimism but remains heavily contested. The survival-focused clusters indicate the critical importance of these developments for regional stability, yet the contestedness suggests unresolved tensions and potential backlash from stakeholders.\n\n**4. Humanitarian and public health challenges persist.** Signals from DR Congo, including player isolation ahead of the World Cup and suspected Ebola deaths among Red Cross volunteers, reflect a care-oriented priority but also highlight fragility in health infrastructure. These developments, coupled with broader humanitarian crises, underscore the need for sustained international attention and resources to mitigate risks.\n\n**What to watch next:**  \n- **Concrete outcomes from Rubio-Modi discussions**: Monitor for announcements on energy agreements or joint initiatives, which could signal deeper alignment between the U.S. and India.  \n- **Verification of Trump's Iran deal claims**: Look for official statements or actions confirming progress, particularly regarding the Strait of Hormuz.  \n- **SpaceX's next steps**: Assess whether the Starship V3 test flight leads to tangible advancements in commercial space exploration or sparks regulatory scrutiny.  \n- **Humanitarian response in DR Congo**: Track international aid efforts and public health interventions to address Ebola risks and broader vulnerabilities.  \n\nThe cautious mood reflects a day of mixed signals, with positive developments tempered by contested geopolitical and humanitarian challenges. Structural stability remains fragile, requiring close attention to unfolding trajectories.",
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautious portfolio mood, with a slight positive tilt in key geopolitical developments but overshadowed by ongoing instability and humanitarian crises. Structural patterns suggest a mix of stability-seeking and survival-focused dynamics, with contested signals around the pace and direction of negotiations and disaster response.\n\n**1. Geopolitical signals point to incremental progress but remain fragile.** Senator Rubio's meeting with Prime Minister Modi in India highlights energy cooperation as a stabilizing force in bilateral relations. The emphasis on achievement-oriented clusters suggests alignment on shared goals, such as energy security and economic growth. Meanwhile, Trump’s remarks on the Iran deal being \"largely negotiated\" signal potential movement toward reopening the Strait of Hormuz, a critical chokepoint for global oil flows. However, his directive to \"not rush\" into finalizing the deal underscores lingering uncertainty, with survival-focused clusters reflecting the precarious nature of these negotiations. Both signals lean positive but remain speculative, as no concrete outcomes have been confirmed.\n\n**2. Humanitarian crises and contested signals weigh on global stability.** California's emergency declaration due to a toxic leak and the Philippines building collapse highlight vulnerabilities in infrastructure and disaster response. These signals, though categorized as background noise, reflect expression-oriented clusters, suggesting heightened public concern and media attention. The contestedness of these signals stems from their localized nature, which may limit broader structural impact but still warrants attention for ripple effects on governance and resilience.\n\n**3. Longer-term trajectories show a bifurcation between stabilization efforts and systemic fragility.** On one hand, the geopolitical signals around energy and trade negotiations suggest incremental steps toward stability, particularly in regions like the Middle East and South Asia. On the other hand, recurring crises—whether natural disasters, infrastructure failures, or violent incidents—underscore persistent fragility in governance and emergency preparedness. The ensemble's cautious mood reflects this tension between progress and vulnerability.\n\n**What to watch next:**  \n- Concrete developments in the Iran deal, particularly regarding the reopening of the Strait of Hormuz, which could shift energy markets and regional dynamics.  \n- Follow-up actions from Rubio’s India visit, especially any formal agreements on energy cooperation.  \n- Escalation risks in humanitarian crises, such as the toxic leak in California and the building collapse in the Philippines, which could strain local and international response systems.  \n- Broader implications of contested signals, including how they may influence public sentiment and policy shifts in affected regions.",
   "noise_filtered": [
     "Rubio meets Modi during India visit with energy high on agenda",
-    "SpaceX launches massive Starship V3 rocket on test flight",
-    "Rubio tries to reassure Nato allies over US troop deployments",
-    "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-    "DR Congo players told to isolate before World Cup",
-    "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-    "Tulsi Gabbard to resign as US national intelligence director",
-    "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-    "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-    "California declares state of emergency as fire crews race to contain toxic chemical leak",
-    "Bodies of Italian divers did not have optimal equipment, says rescuer",
-    "India's parody 'cockroach party' claims website has been blocked",
+    "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+    "Trump tells US negotiators 'not to rush' into deal with Iran",
+    "California declares emergency as fire crews race to contain toxic leak",
+    "One killed and many feared trapped under collapsed building in Philippines",
+    "Man killed in shark attack off Australia's north-east coast",
+    "Suspect killed after opening fire on Secret Service near White House",
+    "BBC at the site of China's worst mining disaster in more than a decade",
     "Red Cross volunteers die from suspected Ebola in DR Congo",
+    "French mum and partner held until trial after sons abandoned by road in Portugal",
+    "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
     "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
     "Senegal's president sacks PM and former ally after months-long feud",
+    "Blast targeting train kills at least 20 in Pakistan",
     "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
     "At least 82 killed in Chinese coal mine explosion",
+    "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+    "Turkish riot police storm opposition offices after leaders ousted",
     "F1 great Prost 'injured as masked gang raid home'",
-    "French mum and partner held until trial after sons abandoned by road in Portugal",
     "Gaza flotilla activists allege abuse by Israeli forces while detained"
   ],
   "matured_predictions": [],
@@ -1584,86 +1584,84 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+        "title": "SpaceX launches massive Starship V3 rocket on test flight",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "How Cuban-Americans feel about Raúl Castro's indictment",
+        "title": "Rubio tries to reassure Nato allies over US troop deployments",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ebola risk raised to 'very high' in DR Congo",
+        "title": "DR Congo players told to isolate before World Cup",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+        "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Iran steps up claim to control Strait of Hormuz",
+        "title": "Tulsi Gabbard to resign as US national intelligence director",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+        "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+        "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+        "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Trump is putting pressure on Cuba - why and to what end?",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "AI used to fake evidence that ended Korean actor's career, say police",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Sabalenka cuts media short as French Open players protest",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Slow Food founder Carlo Petrini dies aged 76",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
+        "title": "India's parody 'cockroach party' claims website has been blocked",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "Rubio tries to reassure Nato allies over US troop deployments: 0.50 → 1.46",
-      "Tulsi Gabbard to resign as US national intelligence director: 0.75 → -0.09",
-      "Gaza flotilla activists allege abuse by Israeli forces while detained: -0.62 → -0.96"
+      "Rubio meets Modi during India visit with energy high on agenda: 2.44 → 3.36",
+      "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz: 1.00 → 1.91",
+      "California declares emergency as fire crews race to contain toxic leak: -0.34 → -0.03",
+      "French mum and partner held until trial after sons abandoned by road in Portugal: -0.92 → -0.37",
+      "Putin vows retaliation after accusing Ukraine of hitting student dormitory: -0.72 → -0.47",
+      "Senegal's president sacks PM and former ally after months-long feud: -0.73 → -0.47",
+      "Nascar champion Kyle Busch died of pneumonia and sepsis, family says: -0.78 → -0.52",
+      "At least 82 killed in Chinese coal mine explosion: -0.79 → -0.53",
+      "F1 great Prost 'injured as masked gang raid home': -0.87 → -0.59",
+      "Gaza flotilla activists allege abuse by Israeli forces while detained: -0.96 → -0.67"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 1 → 0",
-      "Priority score movement — Rubio tries to reassure Nato allies over US troop deployments: 0.50 → 1.46",
-      "Priority score movement — Tulsi Gabbard to resign as US national intelligence director: 0.75 → -0.09",
-      "Priority score movement — Gaza flotilla activists allege abuse by Israeli forces while detained: -0.62 → -0.96"
+      "Priority score movement — Rubio meets Modi during India visit with energy high on agenda: 2.44 → 3.36",
+      "Priority score movement — Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz: 1.00 → 1.91",
+      "Priority score movement — California declares emergency as fire crews race to contain toxic leak: -0.34 → -0.03",
+      "Priority score movement — French mum and partner held until trial after sons abandoned by road in Portugal: -0.92 → -0.37",
+      "Priority score movement — Putin vows retaliation after accusing Ukraine of hitting student dormitory: -0.72 → -0.47",
+      "Priority score movement — Senegal's president sacks PM and former ally after months-long feud: -0.73 → -0.47",
+      "Priority score movement — Nascar champion Kyle Busch died of pneumonia and sepsis, family says: -0.78 → -0.52",
+      "Priority score movement — At least 82 killed in Chinese coal mine explosion: -0.79 → -0.53",
+      "Priority score movement — F1 great Prost 'injured as masked gang raid home': -0.87 → -0.59",
+      "Priority score movement — Gaza flotilla activists allege abuse by Israeli forces while detained: -0.96 → -0.67"
     ],
     "continuing_priorities": [
-      "Rubio tries to reassure Nato allies over US troop deployments",
-      "Tulsi Gabbard to resign as US national intelligence director",
-      "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "Bodies of Italian divers did not have optimal equipment, says rescuer",
+      "Rubio meets Modi during India visit with energy high on agenda",
+      "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "California declares emergency as fire crews race to contain toxic leak",
+      "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "French mum and partner held until trial after sons abandoned by road in Portugal",
       "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "Senegal's president sacks PM and former ally after months-long feud",
+      "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+      "At least 82 killed in Chinese coal mine explosion",
+      "F1 great Prost 'injured as masked gang raid home'",
       "Gaza flotilla activists allege abuse by Israeli forces while detained"
     ],
-    "new_stories": 16,
-    "carried_stories": 4,
+    "new_stories": 11,
+    "carried_stories": 9,
     "total_stories": 20,
-    "summary": "14 priorities dropped: From AI to interceptors, Ukraine is trying to drone-proof its skies (No longer in today's news feed — story left the RSS cycle); How Cuban-Americans feel about Raúl Castro's indictment (No longer in today's news feed — story left the RSS cycle); Ebola risk raised to 'very high' in DR Congo (No longer in today's news feed — story left the RSS cycle); Judge dismisses criminal case against Kilmar Abrego Garcia (No longer in today's news feed — story left the RSS cycle); Iran steps up claim to control Strait of Hormuz (No longer in today's news feed — story left the RSS cycle); Timelapse footage shows 'giant cave' inflating on Paris bridge (No longer in today's news feed — story left the RSS cycle); 'No means no': Greenlanders protest against Trump outside new US consulate (No longer in today's news feed — story left the RSS cycle); Waymo pauses robotaxis in five US cities after cars drive into flooded roads (No longer in today's news feed — story left the RSS cycle); Trump is putting pressure on Cuba - why and to what end? (No longer in today's news feed — story left the RSS cycle); AI used to fake evidence that ended Korean actor's career, say police (No longer in today's news feed — story left the RSS cycle); Why thousands of stock trades tied to Trump are raising eyebrows (No longer in today's news feed — story left the RSS cycle); Sabalenka cuts media short as French Open players protest (No longer in today's news feed — story left the RSS cycle); Slow Food founder Carlo Petrini dies aged 76 (No longer in today's news feed — story left the RSS cycle); An Indian bride dies. Rival claims of murder and suicide set off media frenzy (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Rubio tries to reassure Nato allies over US troop deployments: 0.50 → 1.46; Tulsi Gabbard to resign as US national intelligence director: 0.75 → -0.09; Gaza flotilla activists allege abuse by Israeli forces while detained: -0.62 → -0.96 · Structural shifts: convergent_priority: 1 → 0; Priority score movement — Rubio tries to reassure Nato allies over US troop deployments: 0.50 → 1.46; Priority score movement — Tulsi Gabbard to resign as US national intelligence director: 0.75 → -0.09; Priority score movement — Gaza flotilla activists allege abuse by Israeli forces while detained: -0.62 → -0.96 · Signal freshness: 16 new, 4 carried, 20 total"
+    "summary": "9 priorities dropped: SpaceX launches massive Starship V3 rocket on test flight (No longer in today's news feed — story left the RSS cycle); Rubio tries to reassure Nato allies over US troop deployments (No longer in today's news feed — story left the RSS cycle); DR Congo players told to isolate before World Cup (No longer in today's news feed — story left the RSS cycle); One dead and dozens of firefighters injured in Staten Island shipyard explosion (No longer in today's news feed — story left the RSS cycle); Tulsi Gabbard to resign as US national intelligence director (No longer in today's news feed — story left the RSS cycle); US government releases UFO sighting reports - 'Orbs swarming in all directions' (No longer in today's news feed — story left the RSS cycle); Carney says Alberta is 'essential' to Canada as province plans vote on separation (No longer in today's news feed — story left the RSS cycle); Bodies of Italian divers did not have optimal equipment, says rescuer (No longer in today's news feed — story left the RSS cycle); India's parody 'cockroach party' claims website has been blocked (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Rubio meets Modi during India visit with energy high on agenda: 2.44 → 3.36; Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz: 1.00 → 1.91; California declares emergency as fire crews race to contain toxic leak: -0.34 → -0.03; French mum and partner held until trial after sons abandoned by road in Portugal: -0.92 → -0.37; Putin vows retaliation after accusing Ukraine of hitting student dormitory: -0.72 → -0.47; Senegal's president sacks PM and former ally after months-long feud: -0.73 → -0.47; Nascar champion Kyle Busch died of pneumonia and sepsis, family says: -0.78 → -0.52; At least 82 killed in Chinese coal mine explosion: -0.79 → -0.53; F1 great Prost 'injured as masked gang raid home': -0.87 → -0.59; Gaza flotilla activists allege abuse by Israeli forces while detained: -0.96 → -0.67 · Structural shifts: Priority score movement — Rubio meets Modi during India visit with energy high on agenda: 2.44 → 3.36; Priority score movement — Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz: 1.00 → 1.91; Priority score movement — California declares emergency as fire crews race to contain toxic leak: -0.34 → -0.03; Priority score movement — French mum and partner held until trial after sons abandoned by road in Portugal: -0.92 → -0.37; Priority score movement — Putin vows retaliation after accusing Ukraine of hitting student dormitory: -0.72 → -0.47; Priority score movement — Senegal's president sacks PM and former ally after months-long feud: -0.73 → -0.47; Priority score movement — Nascar champion Kyle Busch died of pneumonia and sepsis, family says: -0.78 → -0.52; Priority score movement — At least 82 killed in Chinese coal mine explosion: -0.79 → -0.53; Priority score movement — F1 great Prost 'injured as masked gang raid home': -0.87 → -0.59; Priority score movement — Gaza flotilla activists allege abuse by Israeli forces while detained: -0.96 → -0.67 · Signal freshness: 11 new, 9 carried, 20 total"
   }
 }
