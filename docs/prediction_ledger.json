@@ -66,6 +66,45 @@
       "validated_at": null
     },
     {
+      "id": "e8097da88b885224",
+      "created_at": "2026-05-31",
+      "root_cause": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "prediction": "Momentum around Ukraine using AI drones to strike vital convoys supplying Russian troops is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-14",
+      "falsification": "Signals tied to Ukraine using AI drones to strike vital convoys supplying Russian troops fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "539c9f103d2f7782",
+      "created_at": "2026-05-31",
+      "root_cause": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "prediction": "Momentum around US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-14",
+      "falsification": "Signals tied to US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "3efca452bb21594e",
+      "created_at": "2026-05-31",
+      "root_cause": "US, UK and Australia to develop underwater drone technology",
+      "prediction": "Momentum around US, UK and Australia to develop underwater drone technology is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-14",
+      "falsification": "Signals tied to US, UK and Australia to develop underwater drone technology fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "b15ea29d2066881b",
       "created_at": "2026-05-28",
       "root_cause": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
@@ -139,9 +178,16 @@
       "maturity_date": "2026-05-31",
       "falsification": "Signals tied to Senior IS leader killed in joint operation, US and Nigeria say fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-05-30T21:08:49.209313+00:00",
+      "evidence_used": [
+        "- Al Jazeera: Putin says drone that crashed in Romania likely Ukrainian (https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss)",
+        "- Al Jazeera: Qatar says temporary charges ‘negotiable’ (https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss)",
+        "- Al Jazeera: 22 killed as truck carrying refugees overturns in Afghanistan (https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss)",
+        "- BBC World: Italy bans Kanye West and Travis Scott concerts over security concerns (https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area (https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss)"
+      ]
     },
     {
       "id": "d49bfb8adc5779ea",
@@ -444,5 +490,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-05-29T21:58:48.274954+00:00"
+  "last_updated": "2026-05-30T21:08:46.953237+00:00"
 }
