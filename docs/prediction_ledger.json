@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "3493b3792c0b8fc8",
+      "created_at": "2026-06-02",
+      "root_cause": "Three Ebola vaccines in development amid growing outbreak fears",
+      "prediction": "Momentum around Three Ebola vaccines in development amid growing outbreak fears is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-16",
+      "falsification": "Signals tied to Three Ebola vaccines in development amid growing outbreak fears fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "e8097da88b885224",
       "created_at": "2026-05-31",
       "root_cause": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
@@ -500,5 +513,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-05-31T21:09:38.732427+00:00"
+  "last_updated": "2026-06-01T22:35:05.714531+00:00"
 }
