@@ -165,9 +165,16 @@
       "maturity_date": "2026-06-04",
       "falsification": "Signals tied to Man who murdered teen TikTok star in Pakistan gets death sentence fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-06-03T22:31:14.257426+00:00",
+      "evidence_used": [
+        "- ABC Australia: Foran gets Manly's top job, Origin rep signs with two clubs in one day (https://www.abc.net.au/news/2026-06-02/nrl-kieran-foran-sea-eagles-head-coach-chiefs-connor-watson/106750464)",
+        "- BBC World: Four sentenced to death for killing worshippers at Catholic church in Nigeria (https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Foreign nationals among at least 21 killed in Delhi fire (https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Director Wim Wenders withdraws 1975 film over actress's teen topless scene (https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Celine Dion 'heartbroken' by death of Beauty and the Beast singer Peabo Bryson (https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss)"
+      ]
     },
     {
       "id": "31edca715cef4877",
@@ -513,5 +520,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-02T22:26:08.339365+00:00"
+  "last_updated": "2026-06-03T22:31:11.759610+00:00"
 }
