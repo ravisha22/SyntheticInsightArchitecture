@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "bdcb85d06eabb3ff",
+      "created_at": "2026-06-05",
+      "root_cause": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "prediction": "Momentum around Zelensky proposes face-to-face talks in open letter to Putin is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-19",
+      "falsification": "Signals tied to Zelensky proposes face-to-face talks in open letter to Putin fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "3493b3792c0b8fc8",
       "created_at": "2026-06-02",
       "root_cause": "Three Ebola vaccines in development amid growing outbreak fears",
@@ -152,9 +165,14 @@
       "maturity_date": "2026-06-05",
       "falsification": "Signals tied to From AI to interceptors, Ukraine is trying to drone-proof its skies fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "partially_validated",
+      "validation_notes": "The prediction regarding Ukraine's efforts to drone-proof its skies has seen some momentum, as evidenced by ongoing conflict-related developments and Ukraine's continued focus on defense strategies. However, the fresh signals provided do not directly address advancements in AI or interceptor technologies specific to drone defense, nor do they indicate a significant compounding of momentum in this area. The signals are more broadly related to Ukraine's geopolitical and military situation.",
+      "validated_at": "2026-06-04T21:48:46.453992+00:00",
+      "evidence_used": [
+        "Al Jazeera: Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022 - Indicates ongoing conflict and the need for defense measures, but lacks specific mention of drone-proofing efforts.",
+        "BBC World: Zelensky proposes face-to-face talks in open letter to Putin - Suggests diplomatic efforts but does not directly relate to drone defense technologies.",
+        "BBC World: Ukraine accused of killing four in occupied Crimea - Reflects military activity but does not provide evidence of advancements in AI or interceptors for drone defense."
+      ]
     },
     {
       "id": "f4e92d0c44fb8087",
@@ -520,5 +538,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-03T22:31:11.759610+00:00"
+  "last_updated": "2026-06-04T21:48:41.433572+00:00"
 }
