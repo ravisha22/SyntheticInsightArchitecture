@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "cd17820679eab50c",
+      "created_at": "2026-06-08",
+      "root_cause": "Hundreds of captives freed from Boko Haram mountain hideout",
+      "prediction": "Momentum around Hundreds of captives freed from Boko Haram mountain hideout is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-22",
+      "falsification": "Signals tied to Hundreds of captives freed from Boko Haram mountain hideout fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "6b9e18f4cf0310a0",
+      "created_at": "2026-06-08",
+      "root_cause": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+      "prediction": "Momentum around Zelensky in Downing Street for Ukraine war talks with European leaders is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-22",
+      "falsification": "Signals tied to Zelensky in Downing Street for Ukraine war talks with European leaders fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "ce5833e554e00dec",
       "created_at": "2026-06-07",
       "root_cause": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
@@ -571,5 +597,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-06T21:11:22.217784+00:00"
+  "last_updated": "2026-06-07T21:20:01.737984+00:00"
 }
