@@ -1,77 +1,105 @@
 {
-  "report_date": "2026-06-08",
-  "generated_at": "2026-06-07T21:20:01.739162+00:00",
+  "report_date": "2026-06-09",
+  "generated_at": "2026-06-08T21:56:40.069866+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "body": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "body": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 21:39:44 GMT"
+    },
+    {
+      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+      "body": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 14:11:22 GMT"
+    },
+    {
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
+      "body": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 17:28:40 GMT"
+    },
+    {
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "body": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 10:28:40 GMT"
+    },
+    {
+      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
+      "body": "Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 11:19:58 GMT"
+    },
+    {
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "body": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 17:18:21 GMT"
+    },
+    {
+      "title": "Watch: Southern Lights timelapse filmed from space",
+      "body": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 18:58:57 GMT"
+    },
+    {
+      "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
+      "body": "The Knicks' stunning winning streak has energised New York as the team prepares for the third game of the NBA Finals at home.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 20:38:31 GMT"
+    },
+    {
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+      "body": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 20:54:29 GMT"
+    },
+    {
+      "title": "Eriksen at home and 'doing well' after collapse",
+      "body": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 16:29:19 GMT"
+    },
+    {
+      "title": "Somali referee Artan barred from entering USA",
+      "body": "Omar Artan, who was set to be the first Somalian to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 21:42:25 GMT"
+    },
+    {
+      "title": "Kenya's ex-chief justice arrested at protest against building on national park",
+      "body": "Activists allege there is a plan to build a car park on protected land belonging to a wildlife sanctuary.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cwyel0kv0zyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 16:11:56 GMT"
+    },
+    {
+      "title": "Peru election result close as vote counting continues",
+      "body": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 08:48:37 GMT"
+    },
+    {
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "body": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 18:49:17 GMT"
-    },
-    {
-      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "body": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 19:55:49 GMT"
-    },
-    {
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
-      "body": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 17:11:54 GMT"
-    },
-    {
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "body": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 18:31:56 GMT"
-    },
-    {
-      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-      "body": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 10:27:15 GMT"
-    },
-    {
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "body": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:17:43 GMT"
-    },
-    {
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "body": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 20:56:09 GMT"
-    },
-    {
-      "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-      "body": "Iran's participation has become one of the most complex stories of the tournament.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 17:22:06 GMT"
-    },
-    {
-      "title": "One dead, five injured after shooting in Israel",
-      "body": "The suspect opened fire from a car in several locations before being shot dead.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 15:40:49 GMT"
-    },
-    {
-      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "body": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:25:20 GMT"
+      "published": "Sun, 07 Jun 2026 21:39:43 GMT"
     },
     {
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
@@ -81,67 +109,39 @@
       "published": "Sun, 07 Jun 2026 14:00:16 GMT"
     },
     {
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "body": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+      "body": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 07:11:18 GMT"
+      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 19:55:49 GMT"
     },
     {
-      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
-      "body": "Thousands lined the streets in Mexico City on Saturday as they attempted to set the world record for largest human wave.",
+      "title": "Mexico City attempts record-breaking wave",
+      "body": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 16:03:41 GMT"
+      "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 17:53:32 GMT"
     },
     {
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "body": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "body": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 02:28:56 GMT"
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 23:17:43 GMT"
     },
     {
-      "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
-      "body": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "body": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 23:22:18 GMT"
+      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 18:31:56 GMT"
     },
     {
-      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-      "body": "Fifty years after his debut, Ilaiyaraaja remains one of the most celebrated composers in Indian cinema.",
+      "title": "How Eriksen's heart device kicked into action",
+      "body": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
       "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 22:27:05 GMT"
-    },
-    {
-      "title": "Giant banquets rile radical left in France",
-      "body": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 18:16:42 GMT"
-    },
-    {
-      "title": "Is there an AI stock market bubble, and is it ready to burst?",
-      "body": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 12:46:00 GMT"
-    },
-    {
-      "title": "Why are devastating mice plagues happening in Australia?",
-      "body": "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 22:01:20 GMT"
-    },
-    {
-      "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
-      "body": "Authorities said that a bear in north-east Japan has eluded capture by opening a window.",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:08:57 GMT"
+      "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 16:55:15 GMT"
     }
   ],
   "signals": [
@@ -149,104 +149,144 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "body": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "body": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 18:49:17 GMT"
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 21:39:44 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "body": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+      "body": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 19:55:49 GMT"
+      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 14:11:22 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
-      "body": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
+      "body": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 17:11:54 GMT"
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 17:28:40 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "body": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "body": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
       "labels": [],
-      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 18:31:56 GMT"
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 10:28:40 GMT"
     },
     {
       "number": 5,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-      "body": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
+      "body": "Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 10:27:15 GMT"
+      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 11:19:58 GMT"
     },
     {
       "number": 6,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "body": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "body": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:17:43 GMT"
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 17:18:21 GMT"
     },
     {
       "number": 7,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "body": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
+      "title": "Watch: Southern Lights timelapse filmed from space",
+      "body": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 20:56:09 GMT"
+      "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 18:58:57 GMT"
     },
     {
       "number": 8,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-      "body": "Iran's participation has become one of the most complex stories of the tournament.",
+      "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
+      "body": "The Knicks' stunning winning streak has energised New York as the team prepares for the third game of the NBA Finals at home.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 17:22:06 GMT"
+      "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 20:38:31 GMT"
     },
     {
       "number": 9,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "One dead, five injured after shooting in Israel",
-      "body": "The suspect opened fire from a car in several locations before being shot dead.",
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+      "body": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 15:40:49 GMT"
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 20:54:29 GMT"
     },
     {
       "number": 10,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "body": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
+      "title": "Eriksen at home and 'doing well' after collapse",
+      "body": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:25:20 GMT"
+      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 16:29:19 GMT"
     },
     {
       "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Somali referee Artan barred from entering USA",
+      "body": "Omar Artan, who was set to be the first Somalian to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
+      "labels": [],
+      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 21:42:25 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Kenya's ex-chief justice arrested at protest against building on national park",
+      "body": "Activists allege there is a plan to build a car park on protected land belonging to a wildlife sanctuary.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cwyel0kv0zyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 16:11:56 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Peru election result close as vote counting continues",
+      "body": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 08:48:37 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "body": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
+      "labels": [],
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 21:39:43 GMT"
+    },
+    {
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
@@ -256,133 +296,57 @@
       "published": "Sun, 07 Jun 2026 14:00:16 GMT"
     },
     {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "body": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 07:11:18 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
-      "body": "Thousands lined the streets in Mexico City on Saturday as they attempted to set the world record for largest human wave.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 16:03:41 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "body": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 02:28:56 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
-      "body": "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
-      "labels": [],
-      "url": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 23:22:18 GMT"
-    },
-    {
       "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-      "body": "Fifty years after his debut, Ilaiyaraaja remains one of the most celebrated composers in Indian cinema.",
+      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+      "body": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 22:27:05 GMT"
+      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 19:55:49 GMT"
     },
     {
       "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Giant banquets rile radical left in France",
-      "body": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
+      "title": "Mexico City attempts record-breaking wave",
+      "body": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
       "labels": [],
-      "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 18:16:42 GMT"
+      "url": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 17:53:32 GMT"
     },
     {
       "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Is there an AI stock market bubble, and is it ready to burst?",
-      "body": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "body": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
       "labels": [],
-      "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 12:46:00 GMT"
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 23:17:43 GMT"
     },
     {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Why are devastating mice plagues happening in Australia?",
-      "body": "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "body": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
       "labels": [],
-      "url": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 22:01:20 GMT"
+      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 18:31:56 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
-      "body": "Authorities said that a bear in north-east Japan has eluded capture by opening a window.",
+      "title": "How Eriksen's heart device kicked into action",
+      "body": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
       "labels": [],
-      "url": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:08:57 GMT"
+      "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 16:55:15 GMT"
     }
   ],
   "priorities": [
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 2.8444735350430648,
-      "contest_score": -0.562232844388442,
-      "category": "convergent_priority",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.1932907882510253,
-      "contestedness": 0.03250102894063178,
-      "impact": 0.695,
-      "top_clusters": {
-        "stability_seeking": 1.2677137627857111,
-        "survival_focused": 1.2667568272043406
-      },
-      "bottom_clusters": {
-        "expression_oriented": 1.0720293567693395
-      },
-      "cluster_means": {
-        "survival_focused": 1.2667568272043406,
-        "stability_seeking": 1.2677137627857111,
-        "achievement_oriented": 1.2391717929633672,
-        "care_oriented": 1.1909344277315017,
-        "knowledge_oriented": 1.1399043821278743,
-        "governance_oriented": 1.2352127338450793,
-        "sovereignty_order_oriented": 1.2417581793732377,
-        "expression_oriented": 1.0720293567693395,
-        "ecosystem_oriented": 1.0861356314587736
-      },
-      "priority_raw": 0.5805359684841237,
-      "contest_raw": 0.022588215113739086
-    },
     {
       "signal_id": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
@@ -390,34 +354,178 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.73794283854329,
-      "contest_score": 1.05103838145306,
+      "priority_score": 2.3006249622608843,
+      "contest_score": 0.12546533945470242,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.2116275464502058,
-      "contestedness": 0.06734740323669408,
+      "central_tendency": 1.1867160319396308,
+      "contestedness": 0.05443123044043441,
       "impact": 0.665,
       "top_clusters": {
-        "care_oriented": 1.32406555516706,
-        "survival_focused": 1.303838943517012
+        "survival_focused": 1.2862646753115805,
+        "care_oriented": 1.2672815923538314
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 1.0985007975867178
+        "ecosystem_oriented": 1.060104294554282
       },
       "cluster_means": {
-        "survival_focused": 1.303838943517012,
-        "stability_seeking": 1.2752348229672181,
-        "achievement_oriented": 1.1636407336194112,
-        "care_oriented": 1.32406555516706,
-        "knowledge_oriented": 1.1496741082337802,
-        "governance_oriented": 1.2622033705100995,
-        "sovereignty_order_oriented": 1.2170215114704743,
-        "expression_oriented": 1.1104680749800788,
-        "ecosystem_oriented": 1.0985007975867178
+        "survival_focused": 1.2862646753115805,
+        "stability_seeking": 1.2557711684982376,
+        "achievement_oriented": 1.1622961958042852,
+        "care_oriented": 1.2672815923538314,
+        "knowledge_oriented": 1.1239965504938585,
+        "governance_oriented": 1.231690003789455,
+        "sovereignty_order_oriented": 1.212850361913397,
+        "expression_oriented": 1.0801894447377491,
+        "ecosystem_oriented": 1.060104294554282
       },
-      "priority_raw": 0.5640126228725708,
-      "contest_raw": 0.044786023152401565
+      "priority_raw": 0.5524163128678982,
+      "contest_raw": 0.03619676824288889
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+      "title": "How Eriksen's heart device kicked into action",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.8331865022006262,
+      "contest_score": 0.06770607504579268,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.10566404163345,
+      "contestedness": 0.06491708749496494,
+      "impact": 0.54,
+      "top_clusters": {
+        "stability_seeking": 1.190522986014257,
+        "survival_focused": 1.181874921561834
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.9454077377842842
+      },
+      "cluster_means": {
+        "survival_focused": 1.181874921561834,
+        "stability_seeking": 1.190522986014257,
+        "achievement_oriented": 1.0545319105989241,
+        "care_oriented": 1.167516424728424,
+        "knowledge_oriented": 1.0998366281199925,
+        "governance_oriented": 1.1647537156149574,
+        "sovereignty_order_oriented": 1.0832141360929137,
+        "expression_oriented": 1.0633179141854627,
+        "ecosystem_oriented": 0.9454077377842842
+      },
+      "priority_raw": 0.4776468659856504,
+      "contest_raw": 0.03505522724728107
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.580906675937613,
+      "contest_score": -0.5323870942734146,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.0959731061404914,
+      "contestedness": 0.03487988273106035,
+      "impact": 0.6649999999999999,
+      "top_clusters": {
+        "survival_focused": 1.1941256276394108,
+        "stability_seeking": 1.1517207091048265
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.9835463285340909
+      },
+      "cluster_means": {
+        "survival_focused": 1.1941256276394108,
+        "stability_seeking": 1.1517207091048265,
+        "achievement_oriented": 1.1256826227914767,
+        "care_oriented": 1.1168408263737661,
+        "knowledge_oriented": 1.0286170199313318,
+        "governance_oriented": 1.109870890131895,
+        "sovereignty_order_oriented": 1.1422986992558972,
+        "expression_oriented": 0.9835463285340909,
+        "ecosystem_oriented": 1.011055231501727
+      },
+      "priority_raw": 0.437293269350056,
+      "contest_raw": 0.02319512201615513
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.1859761787104892,
+      "contest_score": -0.865409350622004,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.9806602478162253,
+      "contestedness": 0.03048320313366859,
+      "impact": 0.545,
+      "top_clusters": {
+        "achievement_oriented": 1.0401135899743044,
+        "stability_seeking": 1.0265304035554241
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.909394320032269
+      },
+      "cluster_means": {
+        "survival_focused": 0.972290952231291,
+        "stability_seeking": 1.0265304035554241,
+        "achievement_oriented": 1.0401135899743044,
+        "care_oriented": 0.9490913184564661,
+        "knowledge_oriented": 0.9895638296467795,
+        "governance_oriented": 1.025471921596355,
+        "sovereignty_order_oriented": 0.9716781457555164,
+        "expression_oriented": 0.9418077490976224,
+        "ecosystem_oriented": 0.909394320032269
+      },
+      "priority_raw": 0.37412188454189,
+      "contest_raw": 0.01661334570784938
+    },
+    {
+      "signal_id": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "title": "Eriksen at home and 'doing well' after collapse",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.5036161472835365,
+      "contest_score": -0.7215282995490503,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.9706025893788102,
+      "contestedness": 0.049889687572225894,
+      "impact": 0.39,
+      "top_clusters": {
+        "stability_seeking": 1.0668263884253637,
+        "governance_oriented": 1.048597534283738
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.8506987106607118
+      },
+      "cluster_means": {
+        "survival_focused": 1.0061853039324742,
+        "stability_seeking": 1.0668263884253637,
+        "achievement_oriented": 0.9212898278734654,
+        "care_oriented": 1.0189354342004058,
+        "knowledge_oriented": 0.9562956163602483,
+        "governance_oriented": 1.048597534283738,
+        "sovereignty_order_oriented": 0.9495308967144838,
+        "expression_oriented": 0.9170635919584026,
+        "ecosystem_oriented": 0.8506987106607118
+      },
+      "priority_raw": 0.2649745069004152,
+      "contest_raw": 0.0194569781531681
     },
     {
       "signal_id": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
@@ -426,8 +534,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7423262559765786,
-      "contest_score": 1.3752372609903971,
+      "priority_score": 0.4380345090622168,
+      "contest_score": 0.7857678969212426,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -456,364 +564,400 @@
       "contest_raw": 0.049246838159230616
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
-      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
+      "signal_id": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2972245973260191,
-      "contest_score": -0.656155443332884,
+      "priority_score": 0.39905622771777793,
+      "contest_score": -0.8185756275293953,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9157889724564109,
-      "contestedness": 0.05258243694272713,
-      "impact": 0.405,
+      "central_tendency": 0.6953768952274205,
+      "contestedness": 0.02947723829243576,
+      "impact": 0.595,
       "top_clusters": {
-        "knowledge_oriented": 0.9940630038985486,
-        "expression_oriented": 0.9903643796791136
+        "care_oriented": 0.7962101569324598,
+        "governance_oriented": 0.7396277407397194
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.7685878417552208
+        "achievement_oriented": 0.6096136902967271
       },
       "cluster_means": {
-        "survival_focused": 0.8200955256188437,
-        "stability_seeking": 0.9278905520319631,
-        "achievement_oriented": 0.9160591318602181,
-        "care_oriented": 0.9744395692010164,
-        "knowledge_oriented": 0.9940630038985486,
-        "governance_oriented": 0.9752926329735374,
-        "sovereignty_order_oriented": 0.7685878417552208,
-        "expression_oriented": 0.9903643796791136,
-        "ecosystem_oriented": 0.875308115089236
+        "survival_focused": 0.7013306760002276,
+        "stability_seeking": 0.7168617650552155,
+        "achievement_oriented": 0.6096136902967271,
+        "care_oriented": 0.7962101569324598,
+        "knowledge_oriented": 0.6901810871867091,
+        "governance_oriented": 0.7396277407397194,
+        "sovereignty_order_oriented": 0.6607038488942734,
+        "expression_oriented": 0.688616379527654,
+        "ecosystem_oriented": 0.6552467124137988
       },
-      "priority_raw": 0.18544726692242322,
-      "contest_raw": 0.02129588696180449
+      "priority_raw": 0.2482495515961891,
+      "contest_raw": 0.017538956783999277
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
+      "signal_id": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico City attempts record-breaking wave",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.10949508870234696,
-      "contest_score": -1.2329687584965872,
+      "priority_score": 0.18763065610164517,
+      "contest_score": -1.1700652540624976,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8315407143917329,
-      "contestedness": 0.02842387919107303,
-      "impact": 0.47000000000000003,
-      "top_clusters": {
-        "care_oriented": 0.9598619854826939,
-        "governance_oriented": 0.9305008286447565
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.7659169539217803
-      },
-      "cluster_means": {
-        "survival_focused": 0.8048111101695552,
-        "stability_seeking": 0.875314422473392,
-        "achievement_oriented": 0.7873564527052845,
-        "care_oriented": 0.9598619854826939,
-        "knowledge_oriented": 0.8058033854247908,
-        "governance_oriented": 0.9305008286447565,
-        "sovereignty_order_oriented": 0.7779140597248606,
-        "expression_oriented": 0.7763872309784822,
-        "ecosystem_oriented": 0.7659169539217803
-      },
-      "priority_raw": 0.15632965430564583,
-      "contest_raw": 0.013359223219804326
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.02910906085751266,
-      "contest_score": -0.6684456819741745,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4123290069819318,
-      "contestedness": 0.03876473285020421,
-      "impact": 0.545,
-      "top_clusters": {
-        "expression_oriented": 0.5028108961398753,
-        "knowledge_oriented": 0.4743205297688425
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.33575496371199604
-      },
-      "cluster_means": {
-        "survival_focused": 0.3950197530096121,
-        "stability_seeking": 0.40782649259093856,
-        "achievement_oriented": 0.36944343679603303,
-        "care_oriented": 0.47406104584670405,
-        "knowledge_oriented": 0.4743205297688425,
-        "governance_oriented": 0.3952443389117942,
-        "sovereignty_order_oriented": 0.33575496371199604,
-        "expression_oriented": 0.5028108961398753,
-        "ecosystem_oriented": 0.35647960606159
-      },
-      "priority_raw": 0.13483158528309172,
-      "contest_raw": 0.021126779403361294
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
-      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.041530889773252457,
-      "contest_score": -0.5176750306103656,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7594566225387911,
-      "contestedness": 0.06628945264118369,
+      "central_tendency": 0.8752278609396702,
+      "contestedness": 0.030263415890864676,
       "impact": 0.35,
       "top_clusters": {
-        "care_oriented": 0.876006588337483,
-        "governance_oriented": 0.8469779504730707
+        "governance_oriented": 1.0027833878235923,
+        "care_oriented": 0.9631388044226072
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6196322897197443
+        "ecosystem_oriented": 0.7913718629961131
       },
       "cluster_means": {
-        "survival_focused": 0.6675486370262469,
-        "stability_seeking": 0.7780324036724189,
-        "achievement_oriented": 0.7117429510312352,
-        "care_oriented": 0.876006588337483,
-        "knowledge_oriented": 0.8067439570828216,
-        "governance_oriented": 0.8469779504730707,
-        "sovereignty_order_oriented": 0.6196322897197443,
-        "expression_oriented": 0.809217779161495,
-        "ecosystem_oriented": 0.7192070463446048
+        "survival_focused": 0.8445609393486602,
+        "stability_seeking": 0.9530744952327124,
+        "achievement_oriented": 0.8383005715512111,
+        "care_oriented": 0.9631388044226072,
+        "knowledge_oriented": 0.8505103826982591,
+        "governance_oriented": 1.0027833878235923,
+        "sovereignty_order_oriented": 0.8142975234577955,
+        "expression_oriented": 0.8190127809260811,
+        "ecosystem_oriented": 0.7913718629961131
       },
-      "priority_raw": 0.13290490894428844,
-      "contest_raw": 0.02320130842441429
+      "priority_raw": 0.2144308259302192,
+      "contest_raw": 0.010592195561802636
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "title": "One dead, five injured after shooting in Israel",
+      "signal_id": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
+      "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.288032046183919,
-      "contest_score": 0.9347314384778985,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.1878404246050992,
-      "contestedness": 0.05998013553140005,
-      "impact": 0.7200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4004860153225249,
-        "knowledge_oriented": 0.33507603892153714
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.058831987325465046
-      },
-      "cluster_means": {
-        "survival_focused": 0.058831987325465046,
-        "stability_seeking": 0.11490070999762564,
-        "achievement_oriented": 0.17872750148657504,
-        "care_oriented": 0.1335215586089262,
-        "knowledge_oriented": 0.33507603892153714,
-        "governance_oriented": 0.1198601380397171,
-        "sovereignty_order_oriented": 0.07354142307752615,
-        "expression_oriented": 0.4004860153225249,
-        "ecosystem_oriented": 0.24884164703625267
-      },
-      "priority_raw": 0.09467157400097001,
-      "contest_raw": 0.04318569758260804
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
-      "title": "Is there an AI stock market bubble, and is it ready to burst?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.30369546068335385,
-      "contest_score": 0.3789482905615257,
+      "priority_score": 0.006550420369225731,
+      "contest_score": -0.06033353795278362,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3441869944564053,
-      "contestedness": 0.05304238576242942,
-      "impact": 0.6699999999999999,
+      "central_tendency": 0.8430273170861996,
+      "contestedness": 0.07391973043063516,
+      "impact": 0.44,
       "top_clusters": {
-        "expression_oriented": 0.4705902135491278,
-        "knowledge_oriented": 0.4325495984661593
+        "care_oriented": 0.9259760368977421,
+        "governance_oriented": 0.9180159607516403
       },
       "bottom_clusters": {
-        "stability_seeking": 0.2646659389827384
+        "expression_oriented": 0.7569228571915827
       },
       "cluster_means": {
-        "survival_focused": 0.2926609122103955,
-        "stability_seeking": 0.2646659389827384,
-        "achievement_oriented": 0.36934614268681326,
-        "care_oriented": 0.3399818176625041,
-        "knowledge_oriented": 0.4325495984661593,
-        "governance_oriented": 0.27298519083551925,
-        "sovereignty_order_oriented": 0.2869394319000747,
-        "expression_oriented": 0.4705902135491278,
-        "ecosystem_oriented": 0.3679637038143154
+        "survival_focused": 0.861731104849168,
+        "stability_seeking": 0.9142447175917757,
+        "achievement_oriented": 0.8340561381235252,
+        "care_oriented": 0.9259760368977421,
+        "knowledge_oriented": 0.7885930756515347,
+        "governance_oriented": 0.9180159607516403,
+        "sovereignty_order_oriented": 0.8275695550259375,
+        "expression_oriented": 0.7569228571915827,
+        "ecosystem_oriented": 0.76013640769289
       },
-      "priority_raw": 0.09224211451431663,
-      "contest_raw": 0.03553839846082771
+      "priority_raw": 0.1854660097589639,
+      "contest_raw": 0.03252468138947947
     },
     {
-      "signal_id": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
-      "title": "Why are devastating mice plagues happening in Australia?",
+      "signal_id": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.35360415814723123,
-      "contest_score": -0.03054081236678932,
+      "priority_score": -0.4284444146296928,
+      "contest_score": 1.3567137199946364,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17369182310106826,
-      "contestedness": 0.04302738487401439,
-      "impact": 0.695,
+      "central_tendency": 0.21640729353728358,
+      "contestedness": 0.07912533575553765,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.3150051856744557,
-        "knowledge_oriented": 0.29320230921183327
+        "expression_oriented": 0.3947770631197008,
+        "knowledge_oriented": 0.35429328126311965
       },
       "bottom_clusters": {
-        "survival_focused": 0.06296367012313048
+        "survival_focused": 0.06391581560139142
       },
       "cluster_means": {
-        "survival_focused": 0.06296367012313048,
-        "stability_seeking": 0.12738543469495894,
-        "achievement_oriented": 0.17041281956897333,
-        "care_oriented": 0.17116171139139158,
-        "knowledge_oriented": 0.29320230921183327,
-        "governance_oriented": 0.1818560987267336,
-        "sovereignty_order_oriented": 0.09524852491567845,
-        "expression_oriented": 0.3150051856744557,
-        "ecosystem_oriented": 0.1459906536024591
+        "survival_focused": 0.06391581560139142,
+        "stability_seeking": 0.13201587271354556,
+        "achievement_oriented": 0.2294245305543617,
+        "care_oriented": 0.18782495570590596,
+        "knowledge_oriented": 0.35429328126311965,
+        "governance_oriented": 0.1946329103328529,
+        "sovereignty_order_oriented": 0.11550757457731525,
+        "expression_oriented": 0.3947770631197008,
+        "ecosystem_oriented": 0.2752736379673589
       },
-      "priority_raw": 0.08450107193866971,
-      "contest_raw": 0.02990403248744
+      "priority_raw": 0.11588610568921534,
+      "contest_raw": 0.0605308818529863
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "signal_id": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "title": "Peru election result close as vote counting continues",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.39860418644116563,
-      "contest_score": 0.6345666638667726,
+      "priority_score": -0.4288554688540462,
+      "contest_score": -0.915564027960134,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.28711623694759053,
-      "contestedness": 0.05786011834273347,
-      "impact": 0.675,
+      "central_tendency": 0.3244267653286292,
+      "contestedness": 0.0262556303286548,
+      "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.46149945482375887,
-        "knowledge_oriented": 0.42877111023183456
+        "expression_oriented": 0.4835967591785319,
+        "knowledge_oriented": 0.4423960470096614
       },
       "bottom_clusters": {
-        "survival_focused": 0.17640295710545198
+        "sovereignty_order_oriented": 0.21415166759591958
       },
       "cluster_means": {
-        "survival_focused": 0.17640295710545198,
-        "stability_seeking": 0.21050931362389633,
-        "achievement_oriented": 0.3542056025305257,
-        "care_oriented": 0.23426307544818545,
-        "knowledge_oriented": 0.42877111023183456,
-        "governance_oriented": 0.19410281672298046,
-        "sovereignty_order_oriented": 0.20468346262476678,
-        "expression_oriented": 0.46149945482375887,
-        "ecosystem_oriented": 0.31960833941691486
+        "survival_focused": 0.23604948389027566,
+        "stability_seeking": 0.28643175967872475,
+        "achievement_oriented": 0.32858634204032056,
+        "care_oriented": 0.33535168730684156,
+        "knowledge_oriented": 0.4423960470096614,
+        "governance_oriented": 0.28418108427920064,
+        "sovereignty_order_oriented": 0.21415166759591958,
+        "expression_oriented": 0.4835967591785319,
+        "ecosystem_oriented": 0.30909605697818676
       },
-      "priority_raw": 0.07752138397584946,
-      "contest_raw": 0.039055579881345094
+      "priority_raw": 0.1158203552223206,
+      "contest_raw": 0.015622100045549606
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
-      "title": "Giant banquets rile radical left in France",
+      "signal_id": "https://www.bbc.com/news/articles/cwyel0kv0zyo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya's ex-chief justice arrested at protest against building on national park",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4005781282531924,
-      "contest_score": -0.42753360987534694,
+      "priority_score": -0.7470301294572548,
+      "contest_score": 0.5576657287050305,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.28919557134175344,
-      "contestedness": 0.05492496505318373,
-      "impact": 0.445,
+      "central_tendency": 0.16272306797290595,
+      "contestedness": 0.06727620851929081,
+      "impact": 0.6649999999999999,
       "top_clusters": {
-        "achievement_oriented": 0.416853871880137,
-        "knowledge_oriented": 0.345703870173416
+        "achievement_oriented": 0.24828411645380521,
+        "expression_oriented": 0.24339271985964137
       },
       "bottom_clusters": {
-        "care_oriented": 0.18214718914123157
+        "governance_oriented": 0.08420451823305933
       },
       "cluster_means": {
-        "survival_focused": 0.27716127316004174,
-        "stability_seeking": 0.32203604558283366,
-        "achievement_oriented": 0.416853871880137,
-        "care_oriented": 0.18214718914123157,
-        "knowledge_oriented": 0.345703870173416,
-        "governance_oriented": 0.2337873569549182,
-        "sovereignty_order_oriented": 0.29077890512023225,
-        "expression_oriented": 0.3350645059585924,
-        "ecosystem_oriented": 0.19922712410437807
+        "survival_focused": 0.16535740450924252,
+        "stability_seeking": 0.14422228981396973,
+        "achievement_oriented": 0.24828411645380521,
+        "care_oriented": 0.09382532808800662,
+        "knowledge_oriented": 0.2272941762941421,
+        "governance_oriented": 0.08420451823305933,
+        "sovereignty_order_oriented": 0.16260163351178875,
+        "expression_oriented": 0.24339271985964137,
+        "ecosystem_oriented": 0.09532542499249794
       },
-      "priority_raw": 0.07721521754824817,
-      "contest_raw": 0.02444160944866676
+      "priority_raw": 0.06492650412118947,
+      "contest_raw": 0.04473867866532838
     },
     {
-      "signal_id": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss",
-      "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
+      "signal_id": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Southern Lights timelapse filmed from space",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4492682627813539,
-      "contest_score": -0.8260011553717683,
+      "priority_score": -0.7703738451753889,
+      "contest_score": -0.9436767114334892,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17307622125458894,
-      "contestedness": 0.03297199063055936,
-      "impact": 0.5750000000000001,
+      "central_tendency": 0.5999268989521865,
+      "contestedness": 0.04431319808364298,
+      "impact": 0.34,
       "top_clusters": {
-        "expression_oriented": 0.3137411280307906,
-        "knowledge_oriented": 0.28197901778239987
+        "expression_oriented": 0.7131429443041981,
+        "knowledge_oriented": 0.6965419771982602
       },
       "bottom_clusters": {
-        "survival_focused": 0.04411221940589728
+        "sovereignty_order_oriented": 0.45885536601264176
       },
       "cluster_means": {
-        "survival_focused": 0.04411221940589728,
-        "stability_seeking": 0.1520655210145115,
-        "achievement_oriented": 0.16585976435957747,
-        "care_oriented": 0.15422780563676053,
-        "knowledge_oriented": 0.28197901778239987,
-        "governance_oriented": 0.19712274200090574,
-        "sovereignty_order_oriented": 0.08442704169011114,
-        "expression_oriented": 0.3137411280307906,
-        "ecosystem_oriented": 0.16415075137034638
+        "survival_focused": 0.4772050805405771,
+        "stability_seeking": 0.5998337820768149,
+        "achievement_oriented": 0.5912569223675864,
+        "care_oriented": 0.6329533698310408,
+        "knowledge_oriented": 0.6965419771982602,
+        "governance_oriented": 0.6441469801604579,
+        "sovereignty_order_oriented": 0.45885536601264176,
+        "expression_oriented": 0.7131429443041981,
+        "ecosystem_oriented": 0.5854056680781016
       },
-      "priority_raw": 0.06966317905497205,
-      "contest_raw": 0.018958894612571636
+      "priority_raw": 0.06119254369312303,
+      "contest_raw": 0.015066487348438615
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7713370506485989,
+      "contest_score": 1.528528317022095,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.1565089063737714,
+      "contestedness": 0.08195716225915589,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.33713069807611873,
+        "knowledge_oriented": 0.28825715904552424
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.016399696223061422
+      },
+      "cluster_means": {
+        "survival_focused": 0.016399696223061422,
+        "stability_seeking": 0.06037671004405773,
+        "achievement_oriented": 0.1633155241423869,
+        "care_oriented": 0.14233387230321362,
+        "knowledge_oriented": 0.28825715904552424,
+        "governance_oriented": 0.11478894346453594,
+        "sovereignty_order_oriented": 0.052865235767377255,
+        "expression_oriented": 0.33713069807611873,
+        "ecosystem_oriented": 0.1826115693706258
+      },
+      "priority_raw": 0.06103847348577085,
+      "contest_raw": 0.06392658656214159
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.807097295070857,
+      "contest_score": 1.7929628741242074,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.14004662910408053,
+      "contestedness": 0.08753520398201625,
+      "impact": 0.79,
+      "top_clusters": {
+        "expression_oriented": 0.29841991791395495,
+        "knowledge_oriented": 0.23638758744596788
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.021436783396959896
+      },
+      "cluster_means": {
+        "survival_focused": 0.021436783396959896,
+        "stability_seeking": 0.03233646518491998,
+        "achievement_oriented": 0.11987166916693623,
+        "care_oriented": 0.16418558569604674,
+        "knowledge_oriented": 0.23638758744596788,
+        "governance_oriented": 0.07968930657096454,
+        "sovereignty_order_oriented": 0.048914618234613905,
+        "expression_oriented": 0.29841991791395495,
+        "ecosystem_oriented": 0.20852948411315525
+      },
+      "priority_raw": 0.05531841849611181,
+      "contest_raw": 0.06915281114579284
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.8360090126706712,
+      "contest_score": 1.6236405685540138,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.1736089877396355,
+      "contestedness": 0.0901457034513321,
+      "impact": 0.73,
+      "top_clusters": {
+        "expression_oriented": 0.36971295550955285,
+        "knowledge_oriented": 0.30738362683666226
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.02693310793198908
+      },
+      "cluster_means": {
+        "survival_focused": 0.02693310793198908,
+        "stability_seeking": 0.07484638705268981,
+        "achievement_oriented": 0.11891190376462929,
+        "care_oriented": 0.22849381726155016,
+        "knowledge_oriented": 0.30738362683666226,
+        "governance_oriented": 0.13834811381021805,
+        "sovereignty_order_oriented": 0.04882762305998359,
+        "expression_oriented": 0.36971295550955285,
+        "ecosystem_oriented": 0.24117840124697895
+      },
+      "priority_raw": 0.05069382441997357,
+      "contest_raw": 0.06580636351947243
+    },
+    {
+      "signal_id": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Somali referee Artan barred from entering USA",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.8585186892745694,
+      "contest_score": -1.0531108526731146,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.18467950315165907,
+      "contestedness": 0.02530128590727143,
+      "impact": 0.51,
+      "top_clusters": {
+        "expression_oriented": 0.24404680744577534,
+        "knowledge_oriented": 0.21093456273327377
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.12630848980261317
+      },
+      "cluster_means": {
+        "survival_focused": 0.18895203392175813,
+        "stability_seeking": 0.2028686686323901,
+        "achievement_oriented": 0.12630848980261317,
+        "care_oriented": 0.20921822795521924,
+        "knowledge_oriented": 0.21093456273327377,
+        "governance_oriented": 0.16181079952409896,
+        "sovereignty_order_oriented": 0.1636507480144867,
+        "expression_oriented": 0.24404680744577534,
+        "ecosystem_oriented": 0.15432519033531605
+      },
+      "priority_raw": 0.047093273303673064,
+      "contest_raw": 0.01290365581270843
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
@@ -822,178 +966,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4864035675902045,
-      "contest_score": 0.43593382466586217,
+      "priority_score": -0.8731716813258324,
+      "contest_score": 0.8444054540128492,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.16015875134905067,
-      "contestedness": 0.05462028723219939,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.11215399418058694,
+      "contestedness": 0.07579810155206862,
       "impact": 0.6649999999999999,
       "top_clusters": {
-        "expression_oriented": 0.3168063410737283,
-        "knowledge_oriented": 0.25787019026408803
+        "expression_oriented": 0.24088017625812452,
+        "knowledge_oriented": 0.17259020369758613
       },
       "bottom_clusters": {
-        "survival_focused": 0.051242052939996535
+        "survival_focused": -0.06218572441467701
       },
       "cluster_means": {
-        "survival_focused": 0.051242052939996535,
-        "stability_seeking": 0.09327129711713406,
-        "achievement_oriented": 0.14126514453837077,
-        "care_oriented": 0.19227152162308003,
-        "knowledge_oriented": 0.25787019026408803,
-        "governance_oriented": 0.12597565508627928,
-        "sovereignty_order_oriented": 0.05623729006795847,
-        "expression_oriented": 0.3168063410737283,
-        "ecosystem_oriented": 0.19588543177057016
+        "survival_focused": -0.06218572441467701,
+        "stability_seeking": -0.013735105154578986,
+        "achievement_oriented": 0.03467148110629242,
+        "care_oriented": 0.09695398426849106,
+        "knowledge_oriented": 0.17259020369758613,
+        "governance_oriented": 0.02656827122115779,
+        "sovereignty_order_oriented": -0.05083166653374355,
+        "expression_oriented": 0.24088017625812452,
+        "ecosystem_oriented": 0.11046958265836104
       },
-      "priority_raw": 0.06390334178827121,
-      "contest_raw": 0.03632249100941259
+      "priority_raw": 0.04474944367805418,
+      "contest_raw": 0.05040573753212563
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "signal_id": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5282919721172026,
-      "contest_score": 1.2423057177616137,
+      "priority_score": -0.913480945491725,
+      "contest_score": -0.2565164358290281,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.22600897387933758,
-      "contestedness": 0.07467364783525296,
-      "impact": 0.635,
+      "central_tendency": 0.24089149083797462,
+      "contestedness": 0.05405163605993646,
+      "impact": 0.53,
       "top_clusters": {
-        "expression_oriented": 0.4010292530801015,
-        "knowledge_oriented": 0.3517410885989083
+        "expression_oriented": 0.41013770536738026,
+        "knowledge_oriented": 0.3527829134153427
       },
       "bottom_clusters": {
-        "survival_focused": 0.10389488803052349
+        "governance_oriented": 0.1443367334777751
       },
       "cluster_means": {
-        "survival_focused": 0.10389488803052349,
-        "stability_seeking": 0.1505922920609061,
-        "achievement_oriented": 0.22526593989615906,
-        "care_oriented": 0.2488261503191715,
-        "knowledge_oriented": 0.3517410885989083,
-        "governance_oriented": 0.1790872546586657,
-        "sovereignty_order_oriented": 0.10768258652251872,
-        "expression_oriented": 0.4010292530801015,
-        "ecosystem_oriented": 0.26596131174708404
+        "survival_focused": 0.189934460554586,
+        "stability_seeking": 0.1856161401931017,
+        "achievement_oriented": 0.21774538416936184,
+        "care_oriented": 0.24651967601907662,
+        "knowledge_oriented": 0.3527829134153427,
+        "governance_oriented": 0.1443367334777751,
+        "sovereignty_order_oriented": 0.14915338411584927,
+        "expression_oriented": 0.41013770536738026,
+        "ecosystem_oriented": 0.2717970202292983
       },
-      "priority_raw": 0.057406279365351746,
-      "contest_raw": 0.04741776637538563
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5817758930052961,
-      "contest_score": 2.0283441298548697,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.12592488474804603,
-      "contestedness": 0.07465802971365429,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.2833825046676479,
-        "knowledge_oriented": 0.23393178967289519
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.0014367833969598787
-      },
-      "cluster_means": {
-        "survival_focused": 0.0014367833969598787,
-        "stability_seeking": 0.03521363945328193,
-        "achievement_oriented": 0.10987166916693622,
-        "care_oriented": 0.1388805779345208,
-        "knowledge_oriented": 0.23393178967289519,
-        "governance_oriented": 0.06466616462330332,
-        "sovereignty_order_oriented": 0.03269908177024852,
-        "expression_oriented": 0.2833825046676479,
-        "ecosystem_oriented": 0.15447242180415321
-      },
-      "priority_raw": 0.04911070505173795,
-      "contest_raw": 0.05823326317665035
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
-      "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6545536659017372,
-      "contest_score": -0.4268368951000148,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.17674100740058626,
-      "contestedness": 0.045703169900455476,
-      "impact": 0.535,
-      "top_clusters": {
-        "expression_oriented": 0.33125308194453573,
-        "knowledge_oriented": 0.2845924559329367
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.09158955690718598
-      },
-      "cluster_means": {
-        "survival_focused": 0.12154854370494161,
-        "stability_seeking": 0.13550500516157876,
-        "achievement_oriented": 0.18311296134793936,
-        "care_oriented": 0.18031384951875468,
-        "knowledge_oriented": 0.2845924559329367,
-        "governance_oriented": 0.09550189848200637,
-        "sovereignty_order_oriented": 0.09158955690718598,
-        "expression_oriented": 0.33125308194453573,
-        "ecosystem_oriented": 0.1672517136053971
-      },
-      "priority_raw": 0.03782257558372547,
-      "contest_raw": 0.02445119589674368
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6661727464629046,
-      "contest_score": 0.5123450228961803,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.09479054944597759,
-      "contestedness": 0.049176146072271804,
-      "impact": 0.76,
-      "top_clusters": {
-        "expression_oriented": 0.19279382537749556,
-        "knowledge_oriented": 0.12398328314508456
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.0765739174460425
-      },
-      "cluster_means": {
-        "survival_focused": -0.0765739174460425,
-        "stability_seeking": -0.06312094993615378,
-        "achievement_oriented": -0.013944803863881972,
-        "care_oriented": 0.0022632889572882786,
-        "knowledge_oriented": 0.12398328314508456,
-        "governance_oriented": -0.05175118365288692,
-        "sovereignty_order_oriented": -0.03815445651368199,
-        "expression_oriented": 0.19279382537749556,
-        "ecosystem_oriented": 0.12279890237340985
-      },
-      "priority_raw": 0.036020408789471485,
-      "contest_raw": 0.03737387101492657
+      "priority_raw": 0.03830174704323796,
+      "contest_raw": 0.028647367111766325
     },
     {
       "signal_id": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
@@ -1002,109 +1038,37 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7045945306954132,
-      "contest_score": -1.3234122192056244,
+      "priority_score": -1.0012637470453751,
+      "contest_score": -1.3456887819496566,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.16840915023002534,
-      "contestedness": 0.02036095172443919,
+      "central_tendency": 0.13591253458378116,
+      "contestedness": 0.011968423541885265,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.27760642524885476,
-        "knowledge_oriented": 0.23635939983935755
+        "expression_oriented": 0.19577118824311485,
+        "knowledge_oriented": 0.16760244401494234
       },
       "bottom_clusters": {
-        "governance_oriented": 0.06799857886143428
+        "governance_oriented": 0.04984345240108201
       },
       "cluster_means": {
-        "survival_focused": 0.15466602235635224,
-        "stability_seeking": 0.143695753288907,
-        "achievement_oriented": 0.18856892783611945,
-        "care_oriented": 0.17502697408079143,
-        "knowledge_oriented": 0.23635939983935755,
-        "governance_oriented": 0.06799857886143428,
-        "sovereignty_order_oriented": 0.1369286371200807,
-        "expression_oriented": 0.27760642524885476,
-        "ecosystem_oriented": 0.13483163343833082
+        "survival_focused": 0.1429824523766362,
+        "stability_seeking": 0.12942961434332628,
+        "achievement_oriented": 0.1442121448162714,
+        "care_oriented": 0.1413465148059504,
+        "knowledge_oriented": 0.16760244401494234,
+        "governance_oriented": 0.04984345240108201,
+        "sovereignty_order_oriented": 0.14139803788521155,
+        "expression_oriented": 0.19577118824311485,
+        "ecosystem_oriented": 0.11062696236749556
       },
-      "priority_raw": 0.03006103331605952,
-      "contest_raw": 0.012114766276041319
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.8452477466975576,
-      "contest_score": -1.9216482798061878,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.350857265075979,
-      "contestedness": 0.016524835036545393,
-      "impact": 0.23500000000000004,
-      "top_clusters": {
-        "care_oriented": 0.4284824352674676,
-        "governance_oriented": 0.3728240396391622
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.31886229376705044
-      },
-      "cluster_means": {
-        "survival_focused": 0.35082202661695255,
-        "stability_seeking": 0.35679220947878354,
-        "achievement_oriented": 0.33740857854113987,
-        "care_oriented": 0.4284824352674676,
-        "knowledge_oriented": 0.31982304997244987,
-        "governance_oriented": 0.3728240396391622,
-        "sovereignty_order_oriented": 0.3324333779585663,
-        "expression_oriented": 0.31886229376705044,
-        "ecosystem_oriented": 0.34026737444223815
-      },
-      "priority_raw": 0.008245145729285508,
-      "contest_raw": 0.003883336233588168
+      "priority_raw": 0.024260387423204934,
+      "contest_raw": 0.0071212120074217325
     }
   ],
   "selected_priorities": [
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 2.8444735350430648,
-      "contest_score": -0.562232844388442,
-      "category": "convergent_priority",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.1932907882510253,
-      "contestedness": 0.03250102894063178,
-      "impact": 0.695,
-      "top_clusters": {
-        "stability_seeking": 1.2677137627857111,
-        "survival_focused": 1.2667568272043406
-      },
-      "bottom_clusters": {
-        "expression_oriented": 1.0720293567693395
-      },
-      "cluster_means": {
-        "survival_focused": 1.2667568272043406,
-        "stability_seeking": 1.2677137627857111,
-        "achievement_oriented": 1.2391717929633672,
-        "care_oriented": 1.1909344277315017,
-        "knowledge_oriented": 1.1399043821278743,
-        "governance_oriented": 1.2352127338450793,
-        "sovereignty_order_oriented": 1.2417581793732377,
-        "expression_oriented": 1.0720293567693395,
-        "ecosystem_oriented": 1.0861356314587736
-      },
-      "priority_raw": 0.5805359684841237,
-      "contest_raw": 0.022588215113739086
-    },
     {
       "signal_id": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
@@ -1112,34 +1076,178 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.73794283854329,
-      "contest_score": 1.05103838145306,
+      "priority_score": 2.3006249622608843,
+      "contest_score": 0.12546533945470242,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.2116275464502058,
-      "contestedness": 0.06734740323669408,
+      "central_tendency": 1.1867160319396308,
+      "contestedness": 0.05443123044043441,
       "impact": 0.665,
       "top_clusters": {
-        "care_oriented": 1.32406555516706,
-        "survival_focused": 1.303838943517012
+        "survival_focused": 1.2862646753115805,
+        "care_oriented": 1.2672815923538314
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 1.0985007975867178
+        "ecosystem_oriented": 1.060104294554282
       },
       "cluster_means": {
-        "survival_focused": 1.303838943517012,
-        "stability_seeking": 1.2752348229672181,
-        "achievement_oriented": 1.1636407336194112,
-        "care_oriented": 1.32406555516706,
-        "knowledge_oriented": 1.1496741082337802,
-        "governance_oriented": 1.2622033705100995,
-        "sovereignty_order_oriented": 1.2170215114704743,
-        "expression_oriented": 1.1104680749800788,
-        "ecosystem_oriented": 1.0985007975867178
+        "survival_focused": 1.2862646753115805,
+        "stability_seeking": 1.2557711684982376,
+        "achievement_oriented": 1.1622961958042852,
+        "care_oriented": 1.2672815923538314,
+        "knowledge_oriented": 1.1239965504938585,
+        "governance_oriented": 1.231690003789455,
+        "sovereignty_order_oriented": 1.212850361913397,
+        "expression_oriented": 1.0801894447377491,
+        "ecosystem_oriented": 1.060104294554282
       },
-      "priority_raw": 0.5640126228725708,
-      "contest_raw": 0.044786023152401565
+      "priority_raw": 0.5524163128678982,
+      "contest_raw": 0.03619676824288889
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+      "title": "How Eriksen's heart device kicked into action",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.8331865022006262,
+      "contest_score": 0.06770607504579268,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.10566404163345,
+      "contestedness": 0.06491708749496494,
+      "impact": 0.54,
+      "top_clusters": {
+        "stability_seeking": 1.190522986014257,
+        "survival_focused": 1.181874921561834
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.9454077377842842
+      },
+      "cluster_means": {
+        "survival_focused": 1.181874921561834,
+        "stability_seeking": 1.190522986014257,
+        "achievement_oriented": 1.0545319105989241,
+        "care_oriented": 1.167516424728424,
+        "knowledge_oriented": 1.0998366281199925,
+        "governance_oriented": 1.1647537156149574,
+        "sovereignty_order_oriented": 1.0832141360929137,
+        "expression_oriented": 1.0633179141854627,
+        "ecosystem_oriented": 0.9454077377842842
+      },
+      "priority_raw": 0.4776468659856504,
+      "contest_raw": 0.03505522724728107
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.580906675937613,
+      "contest_score": -0.5323870942734146,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.0959731061404914,
+      "contestedness": 0.03487988273106035,
+      "impact": 0.6649999999999999,
+      "top_clusters": {
+        "survival_focused": 1.1941256276394108,
+        "stability_seeking": 1.1517207091048265
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.9835463285340909
+      },
+      "cluster_means": {
+        "survival_focused": 1.1941256276394108,
+        "stability_seeking": 1.1517207091048265,
+        "achievement_oriented": 1.1256826227914767,
+        "care_oriented": 1.1168408263737661,
+        "knowledge_oriented": 1.0286170199313318,
+        "governance_oriented": 1.109870890131895,
+        "sovereignty_order_oriented": 1.1422986992558972,
+        "expression_oriented": 0.9835463285340909,
+        "ecosystem_oriented": 1.011055231501727
+      },
+      "priority_raw": 0.437293269350056,
+      "contest_raw": 0.02319512201615513
+    },
+    {
+      "signal_id": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.1859761787104892,
+      "contest_score": -0.865409350622004,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.9806602478162253,
+      "contestedness": 0.03048320313366859,
+      "impact": 0.545,
+      "top_clusters": {
+        "achievement_oriented": 1.0401135899743044,
+        "stability_seeking": 1.0265304035554241
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.909394320032269
+      },
+      "cluster_means": {
+        "survival_focused": 0.972290952231291,
+        "stability_seeking": 1.0265304035554241,
+        "achievement_oriented": 1.0401135899743044,
+        "care_oriented": 0.9490913184564661,
+        "knowledge_oriented": 0.9895638296467795,
+        "governance_oriented": 1.025471921596355,
+        "sovereignty_order_oriented": 0.9716781457555164,
+        "expression_oriented": 0.9418077490976224,
+        "ecosystem_oriented": 0.909394320032269
+      },
+      "priority_raw": 0.37412188454189,
+      "contest_raw": 0.01661334570784938
+    },
+    {
+      "signal_id": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "title": "Eriksen at home and 'doing well' after collapse",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.5036161472835365,
+      "contest_score": -0.7215282995490503,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.9706025893788102,
+      "contestedness": 0.049889687572225894,
+      "impact": 0.39,
+      "top_clusters": {
+        "stability_seeking": 1.0668263884253637,
+        "governance_oriented": 1.048597534283738
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.8506987106607118
+      },
+      "cluster_means": {
+        "survival_focused": 1.0061853039324742,
+        "stability_seeking": 1.0668263884253637,
+        "achievement_oriented": 0.9212898278734654,
+        "care_oriented": 1.0189354342004058,
+        "knowledge_oriented": 0.9562956163602483,
+        "governance_oriented": 1.048597534283738,
+        "sovereignty_order_oriented": 0.9495308967144838,
+        "expression_oriented": 0.9170635919584026,
+        "ecosystem_oriented": 0.8506987106607118
+      },
+      "priority_raw": 0.2649745069004152,
+      "contest_raw": 0.0194569781531681
     },
     {
       "signal_id": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
@@ -1148,8 +1256,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7423262559765786,
-      "contest_score": 1.3752372609903971,
+      "priority_score": 0.4380345090622168,
+      "contest_score": 0.7857678969212426,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -1178,302 +1286,171 @@
       "contest_raw": 0.049246838159230616
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
-      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
+      "signal_id": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2972245973260191,
-      "contest_score": -0.656155443332884,
+      "priority_score": 0.39905622771777793,
+      "contest_score": -0.8185756275293953,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9157889724564109,
-      "contestedness": 0.05258243694272713,
-      "impact": 0.405,
+      "central_tendency": 0.6953768952274205,
+      "contestedness": 0.02947723829243576,
+      "impact": 0.595,
       "top_clusters": {
-        "knowledge_oriented": 0.9940630038985486,
-        "expression_oriented": 0.9903643796791136
+        "care_oriented": 0.7962101569324598,
+        "governance_oriented": 0.7396277407397194
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.7685878417552208
+        "achievement_oriented": 0.6096136902967271
       },
       "cluster_means": {
-        "survival_focused": 0.8200955256188437,
-        "stability_seeking": 0.9278905520319631,
-        "achievement_oriented": 0.9160591318602181,
-        "care_oriented": 0.9744395692010164,
-        "knowledge_oriented": 0.9940630038985486,
-        "governance_oriented": 0.9752926329735374,
-        "sovereignty_order_oriented": 0.7685878417552208,
-        "expression_oriented": 0.9903643796791136,
-        "ecosystem_oriented": 0.875308115089236
+        "survival_focused": 0.7013306760002276,
+        "stability_seeking": 0.7168617650552155,
+        "achievement_oriented": 0.6096136902967271,
+        "care_oriented": 0.7962101569324598,
+        "knowledge_oriented": 0.6901810871867091,
+        "governance_oriented": 0.7396277407397194,
+        "sovereignty_order_oriented": 0.6607038488942734,
+        "expression_oriented": 0.688616379527654,
+        "ecosystem_oriented": 0.6552467124137988
       },
-      "priority_raw": 0.18544726692242322,
-      "contest_raw": 0.02129588696180449
+      "priority_raw": 0.2482495515961891,
+      "contest_raw": 0.017538956783999277
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
+      "signal_id": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico City attempts record-breaking wave",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.10949508870234696,
-      "contest_score": -1.2329687584965872,
+      "priority_score": 0.18763065610164517,
+      "contest_score": -1.1700652540624976,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8315407143917329,
-      "contestedness": 0.02842387919107303,
-      "impact": 0.47000000000000003,
-      "top_clusters": {
-        "care_oriented": 0.9598619854826939,
-        "governance_oriented": 0.9305008286447565
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.7659169539217803
-      },
-      "cluster_means": {
-        "survival_focused": 0.8048111101695552,
-        "stability_seeking": 0.875314422473392,
-        "achievement_oriented": 0.7873564527052845,
-        "care_oriented": 0.9598619854826939,
-        "knowledge_oriented": 0.8058033854247908,
-        "governance_oriented": 0.9305008286447565,
-        "sovereignty_order_oriented": 0.7779140597248606,
-        "expression_oriented": 0.7763872309784822,
-        "ecosystem_oriented": 0.7659169539217803
-      },
-      "priority_raw": 0.15632965430564583,
-      "contest_raw": 0.013359223219804326
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.02910906085751266,
-      "contest_score": -0.6684456819741745,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4123290069819318,
-      "contestedness": 0.03876473285020421,
-      "impact": 0.545,
-      "top_clusters": {
-        "expression_oriented": 0.5028108961398753,
-        "knowledge_oriented": 0.4743205297688425
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.33575496371199604
-      },
-      "cluster_means": {
-        "survival_focused": 0.3950197530096121,
-        "stability_seeking": 0.40782649259093856,
-        "achievement_oriented": 0.36944343679603303,
-        "care_oriented": 0.47406104584670405,
-        "knowledge_oriented": 0.4743205297688425,
-        "governance_oriented": 0.3952443389117942,
-        "sovereignty_order_oriented": 0.33575496371199604,
-        "expression_oriented": 0.5028108961398753,
-        "ecosystem_oriented": 0.35647960606159
-      },
-      "priority_raw": 0.13483158528309172,
-      "contest_raw": 0.021126779403361294
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
-      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.041530889773252457,
-      "contest_score": -0.5176750306103656,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7594566225387911,
-      "contestedness": 0.06628945264118369,
+      "central_tendency": 0.8752278609396702,
+      "contestedness": 0.030263415890864676,
       "impact": 0.35,
       "top_clusters": {
-        "care_oriented": 0.876006588337483,
-        "governance_oriented": 0.8469779504730707
+        "governance_oriented": 1.0027833878235923,
+        "care_oriented": 0.9631388044226072
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6196322897197443
+        "ecosystem_oriented": 0.7913718629961131
       },
       "cluster_means": {
-        "survival_focused": 0.6675486370262469,
-        "stability_seeking": 0.7780324036724189,
-        "achievement_oriented": 0.7117429510312352,
-        "care_oriented": 0.876006588337483,
-        "knowledge_oriented": 0.8067439570828216,
-        "governance_oriented": 0.8469779504730707,
-        "sovereignty_order_oriented": 0.6196322897197443,
-        "expression_oriented": 0.809217779161495,
-        "ecosystem_oriented": 0.7192070463446048
+        "survival_focused": 0.8445609393486602,
+        "stability_seeking": 0.9530744952327124,
+        "achievement_oriented": 0.8383005715512111,
+        "care_oriented": 0.9631388044226072,
+        "knowledge_oriented": 0.8505103826982591,
+        "governance_oriented": 1.0027833878235923,
+        "sovereignty_order_oriented": 0.8142975234577955,
+        "expression_oriented": 0.8190127809260811,
+        "ecosystem_oriented": 0.7913718629961131
       },
-      "priority_raw": 0.13290490894428844,
-      "contest_raw": 0.02320130842441429
+      "priority_raw": 0.2144308259302192,
+      "contest_raw": 0.010592195561802636
     },
     {
-      "signal_id": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "title": "One dead, five injured after shooting in Israel",
+      "signal_id": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
+      "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.288032046183919,
-      "contest_score": 0.9347314384778985,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.1878404246050992,
-      "contestedness": 0.05998013553140005,
-      "impact": 0.7200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4004860153225249,
-        "knowledge_oriented": 0.33507603892153714
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.058831987325465046
-      },
-      "cluster_means": {
-        "survival_focused": 0.058831987325465046,
-        "stability_seeking": 0.11490070999762564,
-        "achievement_oriented": 0.17872750148657504,
-        "care_oriented": 0.1335215586089262,
-        "knowledge_oriented": 0.33507603892153714,
-        "governance_oriented": 0.1198601380397171,
-        "sovereignty_order_oriented": 0.07354142307752615,
-        "expression_oriented": 0.4004860153225249,
-        "ecosystem_oriented": 0.24884164703625267
-      },
-      "priority_raw": 0.09467157400097001,
-      "contest_raw": 0.04318569758260804
-    },
-    {
-      "signal_id": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
-      "title": "Is there an AI stock market bubble, and is it ready to burst?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.30369546068335385,
-      "contest_score": 0.3789482905615257,
+      "priority_score": 0.006550420369225731,
+      "contest_score": -0.06033353795278362,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3441869944564053,
-      "contestedness": 0.05304238576242942,
-      "impact": 0.6699999999999999,
+      "central_tendency": 0.8430273170861996,
+      "contestedness": 0.07391973043063516,
+      "impact": 0.44,
       "top_clusters": {
-        "expression_oriented": 0.4705902135491278,
-        "knowledge_oriented": 0.4325495984661593
+        "care_oriented": 0.9259760368977421,
+        "governance_oriented": 0.9180159607516403
       },
       "bottom_clusters": {
-        "stability_seeking": 0.2646659389827384
+        "expression_oriented": 0.7569228571915827
       },
       "cluster_means": {
-        "survival_focused": 0.2926609122103955,
-        "stability_seeking": 0.2646659389827384,
-        "achievement_oriented": 0.36934614268681326,
-        "care_oriented": 0.3399818176625041,
-        "knowledge_oriented": 0.4325495984661593,
-        "governance_oriented": 0.27298519083551925,
-        "sovereignty_order_oriented": 0.2869394319000747,
-        "expression_oriented": 0.4705902135491278,
-        "ecosystem_oriented": 0.3679637038143154
+        "survival_focused": 0.861731104849168,
+        "stability_seeking": 0.9142447175917757,
+        "achievement_oriented": 0.8340561381235252,
+        "care_oriented": 0.9259760368977421,
+        "knowledge_oriented": 0.7885930756515347,
+        "governance_oriented": 0.9180159607516403,
+        "sovereignty_order_oriented": 0.8275695550259375,
+        "expression_oriented": 0.7569228571915827,
+        "ecosystem_oriented": 0.76013640769289
       },
-      "priority_raw": 0.09224211451431663,
-      "contest_raw": 0.03553839846082771
+      "priority_raw": 0.1854660097589639,
+      "contest_raw": 0.03252468138947947
     },
     {
-      "signal_id": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
-      "title": "Why are devastating mice plagues happening in Australia?",
+      "signal_id": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
+      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.35360415814723123,
-      "contest_score": -0.03054081236678932,
+      "priority_score": -0.4284444146296928,
+      "contest_score": 1.3567137199946364,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17369182310106826,
-      "contestedness": 0.04302738487401439,
-      "impact": 0.695,
+      "central_tendency": 0.21640729353728358,
+      "contestedness": 0.07912533575553765,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.3150051856744557,
-        "knowledge_oriented": 0.29320230921183327
+        "expression_oriented": 0.3947770631197008,
+        "knowledge_oriented": 0.35429328126311965
       },
       "bottom_clusters": {
-        "survival_focused": 0.06296367012313048
+        "survival_focused": 0.06391581560139142
       },
       "cluster_means": {
-        "survival_focused": 0.06296367012313048,
-        "stability_seeking": 0.12738543469495894,
-        "achievement_oriented": 0.17041281956897333,
-        "care_oriented": 0.17116171139139158,
-        "knowledge_oriented": 0.29320230921183327,
-        "governance_oriented": 0.1818560987267336,
-        "sovereignty_order_oriented": 0.09524852491567845,
-        "expression_oriented": 0.3150051856744557,
-        "ecosystem_oriented": 0.1459906536024591
+        "survival_focused": 0.06391581560139142,
+        "stability_seeking": 0.13201587271354556,
+        "achievement_oriented": 0.2294245305543617,
+        "care_oriented": 0.18782495570590596,
+        "knowledge_oriented": 0.35429328126311965,
+        "governance_oriented": 0.1946329103328529,
+        "sovereignty_order_oriented": 0.11550757457731525,
+        "expression_oriented": 0.3947770631197008,
+        "ecosystem_oriented": 0.2752736379673589
       },
-      "priority_raw": 0.08450107193866971,
-      "contest_raw": 0.02990403248744
+      "priority_raw": 0.11588610568921534,
+      "contest_raw": 0.0605308818529863
     }
   ],
   "mood": {
-    "score": 0.031102590739923292,
+    "score": 0.0488163207363146,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "rank": 1,
-      "target": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "name": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "root_cause": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "severity": "high",
-      "category": "convergent_priority",
-      "priority_score": 2.8444735350430648,
-      "contest_score": -0.562232844388442,
-      "contestedness": 0.03250102894063178,
-      "mood": "↗ positive",
-      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
-      "signal_count": 1,
-      "signals": [
-        "Zelensky in Downing Street for Ukraine war talks with European leaders"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Zelensky in Downing Street for Ukraine war talks with European leaders is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Zelensky in Downing Street for Ukraine war talks with European leaders fade or reverse without spillover."
-    },
-    {
       "id": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
+      "rank": 1,
       "target": "Hundreds of captives freed from Boko Haram mountain hideout",
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
       "name": "Hundreds of captives freed from Boko Haram mountain hideout",
       "root_cause": "Hundreds of captives freed from Boko Haram mountain hideout",
       "severity": "high",
       "category": "convergent_priority",
-      "priority_score": 2.73794283854329,
-      "contest_score": 1.05103838145306,
-      "contestedness": 0.06734740323669408,
+      "priority_score": 2.3006249622608843,
+      "contest_score": 0.12546533945470242,
+      "contestedness": 0.05443123044043441,
       "mood": "↗ positive",
-      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from care_oriented, survival_focused.",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from survival_focused, care_oriented.",
       "signal_count": 1,
       "signals": [
         "Hundreds of captives freed from Boko Haram mountain hideout"
@@ -1484,203 +1461,228 @@
       "falsification": "Signals tied to Hundreds of captives freed from Boko Haram mountain hideout fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+      "rank": 2,
+      "target": "How Eriksen's heart device kicked into action",
+      "title": "How Eriksen's heart device kicked into action",
+      "name": "How Eriksen's heart device kicked into action",
+      "root_cause": "How Eriksen's heart device kicked into action",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 1.8331865022006262,
+      "contest_score": 0.06770607504579268,
+      "contestedness": 0.06491708749496494,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
+      "signal_count": 1,
+      "signals": [
+        "How Eriksen's heart device kicked into action"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around How Eriksen's heart device kicked into action is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to How Eriksen's heart device kicked into action fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Eriksen conscious after collapsing in Denmark game",
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "name": "Eriksen conscious after collapsing in Denmark game",
-      "root_cause": "Eriksen conscious after collapsing in Denmark game",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.7423262559765786,
-      "contest_score": 1.3752372609903971,
-      "contestedness": 0.0856466750595315,
+      "target": "Zelensky's close European allies set out five conditions for peace talks",
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "name": "Zelensky's close European allies set out five conditions for peace talks",
+      "root_cause": "Zelensky's close European allies set out five conditions for peace talks",
+      "severity": "high",
+      "category": "convergent_priority",
+      "priority_score": 1.580906675937613,
+      "contest_score": -0.5323870942734146,
+      "contestedness": 0.03487988273106035,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Eriksen conscious after collapsing in Denmark game"
+        "Zelensky's close European allies set out five conditions for peace talks"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Eriksen conscious after collapsing in Denmark game is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Eriksen conscious after collapsing in Denmark game fade or reverse without spillover."
+      "prediction": "Momentum around Zelensky's close European allies set out five conditions for peace talks is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Zelensky's close European allies set out five conditions for peace talks fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-      "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-      "name": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-      "root_cause": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
+      "target": "Armenia's pro-West government wins election despite Russian pressure",
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "name": "Armenia's pro-West government wins election despite Russian pressure",
+      "root_cause": "Armenia's pro-West government wins election despite Russian pressure",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.2972245973260191,
-      "contest_score": -0.656155443332884,
-      "contestedness": 0.05258243694272713,
+      "priority_score": 1.1859761787104892,
+      "contest_score": -0.865409350622004,
+      "contestedness": 0.03048320313366859,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on"
+        "Armenia's pro-West government wins election despite Russian pressure"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on fade or reverse without spillover."
+      "prediction": "Momentum around Armenia's pro-West government wins election despite Russian pressure is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Armenia's pro-West government wins election despite Russian pressure fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-      "name": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-      "root_cause": "Huge crowds throng Madrid streets for Pope's open-air Mass",
+      "target": "Eriksen at home and 'doing well' after collapse",
+      "title": "Eriksen at home and 'doing well' after collapse",
+      "name": "Eriksen at home and 'doing well' after collapse",
+      "root_cause": "Eriksen at home and 'doing well' after collapse",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.10949508870234696,
-      "contest_score": -1.2329687584965872,
-      "contestedness": 0.02842387919107303,
+      "priority_score": 0.5036161472835365,
+      "contest_score": -0.7215282995490503,
+      "contestedness": 0.049889687572225894,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, governance_oriented.",
       "signal_count": 1,
       "signals": [
-        "Huge crowds throng Madrid streets for Pope's open-air Mass"
+        "Eriksen at home and 'doing well' after collapse"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Huge crowds throng Madrid streets for Pope's open-air Mass is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Huge crowds throng Madrid streets for Pope's open-air Mass fade or reverse without spillover."
+      "prediction": "Momentum around Eriksen at home and 'doing well' after collapse is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Eriksen at home and 'doing well' after collapse fade or reverse without spillover."
     }
   ],
   "predictions": [
-    {
-      "root_cause": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "prediction": "Momentum around Zelensky in Downing Street for Ukraine war talks with European leaders is likely to compound if current conditions hold.",
-      "timeline": "1-2 weeks",
-      "falsification": "Signals tied to Zelensky in Downing Street for Ukraine war talks with European leaders fade or reverse without downstream spillover.",
-      "severity": "high"
-    },
     {
       "root_cause": "Hundreds of captives freed from Boko Haram mountain hideout",
       "prediction": "Momentum around Hundreds of captives freed from Boko Haram mountain hideout is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
       "falsification": "Signals tied to Hundreds of captives freed from Boko Haram mountain hideout fade or reverse without downstream spillover.",
       "severity": "high"
+    },
+    {
+      "root_cause": "Zelensky's close European allies set out five conditions for peace talks",
+      "prediction": "Momentum around Zelensky's close European allies set out five conditions for peace talks is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "falsification": "Signals tied to Zelensky's close European allies set out five conditions for peace talks fade or reverse without downstream spillover.",
+      "severity": "high"
     }
   ],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's structural pattern reflects a cautious optimism, with positive developments in conflict resolution and humanitarian efforts, tempered by underlying instability and contested geopolitical dynamics.\n\n---\n\n**1. Structural Significance of Top Signals**  \nTwo convergent priorities stand out: Ukrainian President Zelensky's visit to Downing Street for war talks and the liberation of hundreds of captives from Boko Haram. Zelensky's engagement with European leaders signals a continued push for stability and alignment in the Ukraine conflict. This is a fact-based development, underscoring Europe's commitment to supporting Ukraine's survival and sovereignty. Meanwhile, the rescue operation in Nigeria marks a significant humanitarian victory, emphasizing care-oriented and survival-focused priorities. Both signals are grounded in completed actions, not speculation, and reflect tangible progress in addressing crises.\n\n---\n\n**2. Contested Signals and Background Noise**  \nWhile the Eriksen health update and the Pope's Mass in Madrid are positive, they fall into the category of background noise. These signals, though emotionally resonant, lack structural weight in shaping broader geopolitical or economic trajectories. Similarly, the narrative around Armenia's elections and Russia's pressure on its pro-West government introduces contested undertones. This highlights the fragility of smaller states navigating between major powers, but the signal remains speculative as the election outcome and its implications are yet to unfold.\n\n---\n\n**3. Long-Term Trajectories**  \nThe Zelensky signal aligns with Europe's broader trajectory of deepening its role in global security frameworks, while the Boko Haram rescue underscores the ongoing challenge of combating insurgencies in Africa. Both reflect survival-focused priorities that are likely to persist as dominant themes. However, the contested dynamics in Armenia and the Middle East (e.g., Israel's strike on Beirut) suggest that geopolitical volatility remains a countercurrent to these stabilizing efforts. These tensions could disrupt regional alignments and demand sustained attention.\n\n---\n\n**4. What to Watch For Next**  \nMonitor follow-up actions from Zelensky's talks, particularly any shifts in European military or financial commitments to Ukraine. In Nigeria, watch for potential retaliatory actions from Boko Haram or broader implications for regional security cooperation. Finally, track developments in Armenia's elections and Russia's response, as these could signal shifts in the balance of power in the Caucasus region. Concrete outcomes in these areas will shape the next phase of stability-seeking efforts globally.",
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautiously optimistic trajectory, with several positive developments in survival and stability-focused domains, tempered by ongoing geopolitical tensions and contested narratives.\n\n**1. Structural Highlights:**  \nThe most significant signal comes from the rescue of hundreds of captives from Boko Haram's mountain hideout, marking a critical win in the fight against extremism. This event is structurally important as it reinforces survival-focused and care-oriented priorities, signaling progress in humanitarian and security efforts in a region long plagued by instability. The direction is clearly positive, with high agreement across clusters, suggesting broad alignment on its significance.\n\nSimilarly, the report on Zelensky's European allies outlining conditions for peace talks signals a forward-moving, stability-seeking effort in the Ukraine conflict. While the contestedness is low, the structural importance lies in its potential to shape the trajectory of peace negotiations. This signal aligns with broader survival and governance priorities, though its ultimate impact remains contingent on the conditions being met.\n\n**2. Contested Signals:**  \nThe election victory of Armenia's pro-West government under Russian pressure is notable but contested in terms of its implications. While the signal is positive, the contest score reveals underlying geopolitical friction, particularly in the context of Armenia's pivot away from Russian influence. This development highlights the delicate balance of power in the region and the potential for longer-term shifts in alliances.\n\nAdditionally, the narrative around Eriksen's heart device and recovery, while uplifting, falls into the category of background noise. Its structural relevance is limited, serving more as a human interest story than a signal of broader systemic change.\n\n**3. Longer-Term Implications:**  \nThe signals collectively point to incremental progress in survival and stability-focused domains, particularly in conflict resolution and humanitarian efforts. However, the contested signals underscore the fragility of these gains, especially in regions where geopolitical tensions remain high. The cautious mood reflects this duality—positive steps forward tempered by the potential for setbacks.\n\n**4. What to Watch:**  \nKey areas to monitor include the implementation of conditions for Ukraine peace talks and the geopolitical ripple effects of Armenia's election outcome. Additionally, the ceasefire between Iran and Israel warrants close attention, as any breach could destabilize the region further. Finally, humanitarian efforts in Boko Haram-affected areas should be tracked to assess whether this rescue operation signals a sustained shift in regional security dynamics.",
   "noise_filtered": [
+    "How Eriksen's heart device kicked into action",
+    "Armenia's pro-West government wins election despite Russian pressure",
+    "Eriksen at home and 'doing well' after collapse",
     "Eriksen conscious after collapsing in Denmark game",
-    "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
-    "Huge crowds throng Madrid streets for Pope's open-air Mass",
-    "Last-minute visas and moving training camp: Iran's road to the World Cup",
-    "Mexicans chase a world record wave - but is the trend even Mexican?",
-    "One dead, five injured after shooting in Israel",
-    "Is there an AI stock market bubble, and is it ready to burst?",
-    "Why are devastating mice plagues happening in Australia?",
-    "Armenia votes as Russia piles pressure on pro-West government",
-    "Giant banquets rile radical left in France",
-    "'Extremely intelligent' bear on the run in Japan after injuring four people",
+    "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+    "Mexico City attempts record-breaking wave",
+    "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
+    "Malawians repatriated from South Africa amid xenophobia concerns",
+    "Peru election result close as vote counting continues",
+    "Kenya's ex-chief justice arrested at protest against building on national park",
+    "Watch: Southern Lights timelapse filmed from space",
+    "At least 35 dead after major earthquake strikes southern Philippines",
+    "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+    "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+    "Somali referee Artan barred from entering USA",
     "Insecurity and instability drive voters in Peru's tight presidential race",
-    "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-    "Israel strikes Beirut suburb days after US-brokered truce",
-    "The cash-in-the-sofa saga that just won't go away for South Africa's president",
-    "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-    "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-    "Rumours and speculation as fans forecast date of Taylor Swift's wedding"
+    "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+    "Trump abruptly ends NBC interview after clash over 'rigged election' claim"
   ],
   "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [
-      "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "Hundreds of captives freed from Boko Haram mountain hideout"
-    ],
+    "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+        "title": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
+        "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+        "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Fall in official Ebola numbers appears to be good news but it's not that simple",
+        "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+        "title": "One dead, five injured after shooting in Israel",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "title": "Is there an AI stock market bubble, and is it ready to burst?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara",
+        "title": "Why are devastating mice plagues happening in Australia?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+        "title": "Armenia votes as Russia piles pressure on pro-West government",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+        "title": "Giant banquets rile radical left in France",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Iran says staff blocked from entering US after players given World Cup visas",
+        "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Andreeva wins French Open as Chwalinska fairytale ends",
+        "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+        "title": "Israel strikes Beirut suburb days after US-brokered truce",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+        "title": "The cash-in-the-sofa saga that just won't go away for South Africa's president",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "Is there an AI stock market bubble, and is it ready to burst?: 0.02 → -0.30",
-      "Why are devastating mice plagues happening in Australia?: -0.06 → -0.35",
-      "Giant banquets rile radical left in France: -0.66 → -0.40",
-      "'Extremely intelligent' bear on the run in Japan after injuring four people: 0.18 → -0.45",
-      "The cash-in-the-sofa saga that just won't go away for South Africa's president: -0.39 → -0.65"
+      "Hundreds of captives freed from Boko Haram mountain hideout: 2.74 → 2.30",
+      "Zelensky's close European allies set out five conditions for peace talks: 2.84 → 1.58",
+      "Eriksen conscious after collapsing in Denmark game: 0.74 → 0.44",
+      "Insecurity and instability drive voters in Peru's tight presidential race: -0.49 → -0.87",
+      "Trump abruptly ends NBC interview after clash over 'rigged election' claim: -0.70 → -1.00"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 1 → 2",
-      "Priority score movement — Is there an AI stock market bubble, and is it ready to burst?: 0.02 → -0.30",
-      "Priority score movement — Why are devastating mice plagues happening in Australia?: -0.06 → -0.35",
-      "Priority score movement — Giant banquets rile radical left in France: -0.66 → -0.40",
-      "Priority score movement — 'Extremely intelligent' bear on the run in Japan after injuring four people: 0.18 → -0.45",
-      "Priority score movement — The cash-in-the-sofa saga that just won't go away for South Africa's president: -0.39 → -0.65"
+      "Priority score movement — Hundreds of captives freed from Boko Haram mountain hideout: 2.74 → 2.30",
+      "Priority score movement — Zelensky's close European allies set out five conditions for peace talks: 2.84 → 1.58",
+      "Priority score movement — Eriksen conscious after collapsing in Denmark game: 0.74 → 0.44",
+      "Priority score movement — Insecurity and instability drive voters in Peru's tight presidential race: -0.49 → -0.87",
+      "Priority score movement — Trump abruptly ends NBC interview after clash over 'rigged election' claim: -0.70 → -1.00"
     ],
     "continuing_priorities": [
-      "Is there an AI stock market bubble, and is it ready to burst?",
-      "Why are devastating mice plagues happening in Australia?",
-      "Armenia votes as Russia piles pressure on pro-West government",
-      "Giant banquets rile radical left in France",
-      "'Extremely intelligent' bear on the run in Japan after injuring four people",
-      "The cash-in-the-sofa saga that just won't go away for South Africa's president",
-      "Rumours and speculation as fans forecast date of Taylor Swift's wedding"
+      "Hundreds of captives freed from Boko Haram mountain hideout",
+      "Zelensky's close European allies set out five conditions for peace talks",
+      "Eriksen conscious after collapsing in Denmark game",
+      "Insecurity and instability drive voters in Peru's tight presidential race",
+      "Trump abruptly ends NBC interview after clash over 'rigged election' claim"
     ],
-    "new_stories": 14,
-    "carried_stories": 6,
+    "new_stories": 16,
+    "carried_stories": 4,
     "total_stories": 20,
-    "summary": "2 new convergent priorities emerged: Zelensky in Downing Street for Ukraine war talks with European leaders, Hundreds of captives freed from Boko Haram mountain hideout · 13 priorities dropped: Pope begins Spain visit with praise for country's opposition to war and support for migrants (No longer in today's news feed — story left the RSS cycle); US plans to fight flesh-eating screwworm outbreak with flies and dogs (No longer in today's news feed — story left the RSS cycle); Canada bans Texas cattle over flesh-eating screwworm outbreak in US (No longer in today's news feed — story left the RSS cycle); Fall in official Ebola numbers appears to be good news but it's not that simple (No longer in today's news feed — story left the RSS cycle); Lebanese general among three soldiers killed in Israeli attack on car (No longer in today's news feed — story left the RSS cycle); Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' (No longer in today's news feed — story left the RSS cycle); I wanted to quit Eurovision twice - then won it, says Bangaranga singer Dara (No longer in today's news feed — story left the RSS cycle); US and Iran exchange strikes in Gulf in latest test of ceasefire (No longer in today's news feed — story left the RSS cycle); Funeral held for baby shot dead by Israeli troops in occupied West Bank (No longer in today's news feed — story left the RSS cycle); Iran says staff blocked from entering US after players given World Cup visas (No longer in today's news feed — story left the RSS cycle); Andreeva wins French Open as Chwalinska fairytale ends (No longer in today's news feed — story left the RSS cycle); Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech (No longer in today's news feed — story left the RSS cycle); From Nescafe to Ted Lasso: Anthony Head's life in pictures (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Is there an AI stock market bubble, and is it ready to burst?: 0.02 → -0.30; Why are devastating mice plagues happening in Australia?: -0.06 → -0.35; Giant banquets rile radical left in France: -0.66 → -0.40; 'Extremely intelligent' bear on the run in Japan after injuring four people: 0.18 → -0.45; The cash-in-the-sofa saga that just won't go away for South Africa's president: -0.39 → -0.65 · Structural shifts: convergent_priority: 1 → 2; Priority score movement — Is there an AI stock market bubble, and is it ready to burst?: 0.02 → -0.30; Priority score movement — Why are devastating mice plagues happening in Australia?: -0.06 → -0.35; Priority score movement — Giant banquets rile radical left in France: -0.66 → -0.40; Priority score movement — 'Extremely intelligent' bear on the run in Japan after injuring four people: 0.18 → -0.45; Priority score movement — The cash-in-the-sofa saga that just won't go away for South Africa's president: -0.39 → -0.65 · Signal freshness: 14 new, 6 carried, 20 total"
+    "summary": "15 priorities dropped: Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on (No longer in today's news feed — story left the RSS cycle); Huge crowds throng Madrid streets for Pope's open-air Mass (No longer in today's news feed — story left the RSS cycle); Last-minute visas and moving training camp: Iran's road to the World Cup (No longer in today's news feed — story left the RSS cycle); Mexicans chase a world record wave - but is the trend even Mexican? (No longer in today's news feed — story left the RSS cycle); One dead, five injured after shooting in Israel (No longer in today's news feed — story left the RSS cycle); Is there an AI stock market bubble, and is it ready to burst? (No longer in today's news feed — story left the RSS cycle); Why are devastating mice plagues happening in Australia? (No longer in today's news feed — story left the RSS cycle); Armenia votes as Russia piles pressure on pro-West government (No longer in today's news feed — story left the RSS cycle); Giant banquets rile radical left in France (No longer in today's news feed — story left the RSS cycle); 'Extremely intelligent' bear on the run in Japan after injuring four people (No longer in today's news feed — story left the RSS cycle); Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg (No longer in today's news feed — story left the RSS cycle); Israel strikes Beirut suburb days after US-brokered truce (No longer in today's news feed — story left the RSS cycle); The cash-in-the-sofa saga that just won't go away for South Africa's president (No longer in today's news feed — story left the RSS cycle); 'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia (No longer in today's news feed — story left the RSS cycle); Rumours and speculation as fans forecast date of Taylor Swift's wedding (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Hundreds of captives freed from Boko Haram mountain hideout: 2.74 → 2.30; Zelensky's close European allies set out five conditions for peace talks: 2.84 → 1.58; Eriksen conscious after collapsing in Denmark game: 0.74 → 0.44; Insecurity and instability drive voters in Peru's tight presidential race: -0.49 → -0.87; Trump abruptly ends NBC interview after clash over 'rigged election' claim: -0.70 → -1.00 · Structural shifts: Priority score movement — Hundreds of captives freed from Boko Haram mountain hideout: 2.74 → 2.30; Priority score movement — Zelensky's close European allies set out five conditions for peace talks: 2.84 → 1.58; Priority score movement — Eriksen conscious after collapsing in Denmark game: 0.74 → 0.44; Priority score movement — Insecurity and instability drive voters in Peru's tight presidential race: -0.49 → -0.87; Priority score movement — Trump abruptly ends NBC interview after clash over 'rigged election' claim: -0.70 → -1.00 · Signal freshness: 16 new, 4 carried, 20 total"
   }
 }
