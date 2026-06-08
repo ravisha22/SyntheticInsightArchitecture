@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "d5dbff469ee24cfa",
+      "created_at": "2026-06-09",
+      "root_cause": "Hundreds of captives freed from Boko Haram mountain hideout",
+      "prediction": "Momentum around Hundreds of captives freed from Boko Haram mountain hideout is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-23",
+      "falsification": "Signals tied to Hundreds of captives freed from Boko Haram mountain hideout fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "bef3a1705a454556",
+      "created_at": "2026-06-09",
+      "root_cause": "Zelensky's close European allies set out five conditions for peace talks",
+      "prediction": "Momentum around Zelensky's close European allies set out five conditions for peace talks is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-23",
+      "falsification": "Signals tied to Zelensky's close European allies set out five conditions for peace talks fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "cd17820679eab50c",
       "created_at": "2026-06-08",
       "root_cause": "Hundreds of captives freed from Boko Haram mountain hideout",
@@ -597,5 +623,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-07T21:20:01.737984+00:00"
+  "last_updated": "2026-06-08T21:56:40.068376+00:00"
 }
