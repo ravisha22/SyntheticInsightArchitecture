@@ -217,9 +217,19 @@
       "maturity_date": "2026-06-11",
       "falsification": "Signals tied to Can EU find a Russia whisperer to mediate an end to war in Ukraine? fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there is no evidence of significant momentum or developments regarding the EU finding a 'Russia whisperer' to mediate an end to the war in Ukraine. The fresh signals provided do not indicate any progress or compounding momentum on this topic.",
+      "validated_at": "2026-06-10T22:11:11.343323+00:00",
+      "evidence_used": [
+        "BBC World: Ukraine says missiles hit military plant deep inside Russia - This signal highlights ongoing military actions rather than diplomatic mediation efforts.",
+        "BBC World: Zelensky under pressure to end row with Poland over WW2 name of army unit - This signal pertains to Ukraine's internal and bilateral issues, not EU mediation efforts.",
+        "ABC Australia: Schwarzer confident 'written off' Socceroos can stun American doubters - Irrelevant to the prediction.",
+        "ABC Australia: No friends but a Commonwealth Games berth? Worth it, says Sienna Toohey - Irrelevant to the prediction.",
+        "BBC World: Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks - Irrelevant to the prediction.",
+        "BBC World: 'No dead ends': What the Dutch can teach us about tackling youth unemployment - Irrelevant to the prediction.",
+        "BBC World: Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg - This signal highlights ongoing tensions and military actions rather than diplomatic mediation efforts.",
+        "Al Jazeera: Trump warns of more attacks on Iran after US Apache helicopter downing - Irrelevant to the prediction."
+      ]
     },
     {
       "id": "6aae30130e581f45",
@@ -623,5 +633,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-09T21:53:34.707842+00:00"
+  "last_updated": "2026-06-10T22:11:07.980053+00:00"
 }
