@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "84304395cf7276c0",
+      "created_at": "2026-06-13",
+      "root_cause": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "prediction": "Momentum around Deal to end fighting would lead to Hormuz reopening, Iran says is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-27",
+      "falsification": "Signals tied to Deal to end fighting would lead to Hormuz reopening, Iran says fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "d5dbff469ee24cfa",
       "created_at": "2026-06-09",
       "root_cause": "Hundreds of captives freed from Boko Haram mountain hideout",
@@ -633,5 +646,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-11T22:06:40.524400+00:00"
+  "last_updated": "2026-06-12T21:55:46.954425+00:00"
 }
