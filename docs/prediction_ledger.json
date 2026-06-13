@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "d8b0622b366ff605",
+      "created_at": "2026-06-14",
+      "root_cause": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "prediction": "Momentum around US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-28",
+      "falsification": "Signals tied to US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "2d9c9cc2b772ebdc",
+      "created_at": "2026-06-14",
+      "root_cause": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "prediction": "Momentum around Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-28",
+      "falsification": "Signals tied to Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "84304395cf7276c0",
       "created_at": "2026-06-13",
       "root_cause": "Deal to end fighting would lead to Hormuz reopening, Iran says",
@@ -191,9 +217,18 @@
       "maturity_date": "2026-06-14",
       "falsification": "Signals tied to Ukraine using AI drones to strike vital convoys supplying Russian troops fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly indicate Ukraine using AI drones to strike vital convoys supplying Russian troops. The provided signals are unrelated to the prediction's subject matter, focusing on other geopolitical and technological developments.",
+      "validated_at": "2026-06-13T21:22:34.260208+00:00",
+      "evidence_used": [
+        "Al Jazeera: Ukraine to keep targeting Russian energy after hitting sea terminal",
+        "BBC World: US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+        "BBC World: 'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
+        "Al Jazeera: Hungary’s former PM Orban re-elected party leader despite election loss",
+        "Al Jazeera: As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "ABC Australia: Berry using AI to prepare for 'iconic' 24 Hours of Le Mans",
+        "ABC Australia: SANFL players consider industrial action as hourly salary drops to $8"
+      ]
     },
     {
       "id": "539c9f103d2f7782",
@@ -204,9 +239,19 @@
       "maturity_date": "2026-06-14",
       "falsification": "Signals tied to US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly address the US's stance on Asia allies or expectations for their defense contributions. The provided signals focus on unrelated geopolitical, social, and economic developments.",
+      "validated_at": "2026-06-13T21:22:36.017905+00:00",
+      "evidence_used": [
+        "BBC World: Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "BBC World: Married at First Sight Australia stars not told partners had drug and violence convictions",
+        "Al Jazeera: Albania protests escalate over Kushner-backed coastal development",
+        "Al Jazeera: As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "Al Jazeera: Thousands attend anti-racism rallies following unrest in Belfast",
+        "BBC World: Switzerland to vote on plan to cap population at 10 million",
+        "BBC World: Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+        "BBC World: King leads tributes to 'giant of the art world' David Hockney"
+      ]
     },
     {
       "id": "3efca452bb21594e",
@@ -217,9 +262,19 @@
       "maturity_date": "2026-06-14",
       "falsification": "Signals tied to US, UK and Australia to develop underwater drone technology fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to the development of underwater drone technology by the US, UK, and Australia were identified. The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-06-13T21:22:37.963344+00:00",
+      "evidence_used": [
+        "Al Jazeera: Albania protests escalate over Kushner-backed coastal development",
+        "ABC Australia: Australia claims statement win over South Africa in T20 World Cup opener",
+        "BBC World: Married at First Sight Australia stars not told partners had drug and violence convictions",
+        "BBC World: Warner Bros $111bn sale to Paramount approved by US justice department",
+        "ABC Australia: What to know if you're jumping on the Socceroos bandwagon",
+        "ABC Australia: How this globe shows the incredibly diverse story of our Socceroos",
+        "ABC Australia: Underdog status embraced as Socceroos prepare for Türkiye",
+        "ABC Australia: Berry using AI to prepare for 'iconic' 24 Hours of Le Mans"
+      ]
     },
     {
       "id": "b15ea29d2066881b",
@@ -646,5 +701,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-12T21:55:46.954425+00:00"
+  "last_updated": "2026-06-13T21:22:31.576264+00:00"
 }
