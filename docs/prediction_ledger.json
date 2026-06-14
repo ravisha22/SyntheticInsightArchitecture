@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "ebaf2bbc3ea1bec0",
+      "created_at": "2026-06-15",
+      "root_cause": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "prediction": "Momentum around US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-29",
+      "falsification": "Signals tied to US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "d8b0622b366ff605",
       "created_at": "2026-06-14",
       "root_cause": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
@@ -701,5 +714,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-13T21:22:31.576264+00:00"
+  "last_updated": "2026-06-14T21:21:19.883725+00:00"
 }
