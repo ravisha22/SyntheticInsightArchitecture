@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "75fbd33fc9c32dc8",
+      "created_at": "2026-06-16",
+      "root_cause": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "prediction": "Momentum around Trump says deal to end war with Iran already signed and details to be released 'pretty soon' is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-30",
+      "falsification": "Signals tied to Trump says deal to end war with Iran already signed and details to be released 'pretty soon' fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "2e5e77a942446e58",
+      "created_at": "2026-06-16",
+      "root_cause": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "prediction": "Momentum around Bowen: Iran deal ends Trump's war that revealed limit of US dominance is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-30",
+      "falsification": "Signals tied to Bowen: Iran deal ends Trump's war that revealed limit of US dominance fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "ebaf2bbc3ea1bec0",
       "created_at": "2026-06-15",
       "root_cause": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
@@ -217,9 +243,15 @@
       "maturity_date": "2026-06-16",
       "falsification": "Signals tied to Three Ebola vaccines in development amid growing outbreak fears fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to the momentum around the development of three Ebola vaccines or growing outbreak fears were identified. The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-06-15T22:23:57.426915+00:00",
+      "evidence_used": [
+        "Al Jazeera: Police, mourners clash over coffin of suspected Ebola victim in DRC - While this mentions Ebola, it does not provide evidence of vaccine development momentum or outbreak fears compounding.",
+        "BBC World: Brazil woman dies after rope-jumping instructors fail to attach cord - Unrelated to Ebola or vaccine development.",
+        "BBC World: Russian strikes kill 11 and set historic cathedral in Kyiv ablaze - Unrelated to Ebola or vaccine development.",
+        "Al Jazeera: Trump touts Iran deal and Ukraine ambition as he arrives at G7 - Unrelated to Ebola or vaccine development."
+      ]
     },
     {
       "id": "e8097da88b885224",
@@ -714,5 +746,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-14T21:21:19.883725+00:00"
+  "last_updated": "2026-06-15T22:23:55.248957+00:00"
 }
