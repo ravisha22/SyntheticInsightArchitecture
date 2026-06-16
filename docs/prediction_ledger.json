@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "9ae74eff70d48130",
+      "created_at": "2026-06-17",
+      "root_cause": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "prediction": "Momentum around Venezuela signs deal with US energy giant to rebuild power grid is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-01",
+      "falsification": "Signals tied to Venezuela signs deal with US energy giant to rebuild power grid fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "75fbd33fc9c32dc8",
       "created_at": "2026-06-16",
       "root_cause": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
@@ -746,5 +759,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-15T22:23:55.248957+00:00"
+  "last_updated": "2026-06-16T22:20:27.581473+00:00"
 }
