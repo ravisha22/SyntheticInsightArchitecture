@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "60268545aa1f5d4c",
+      "created_at": "2026-06-18",
+      "root_cause": "Serial killer who murdered eight women in Long Island town imprisoned for life",
+      "prediction": "Momentum around Serial killer who murdered eight women in Long Island town imprisoned for life is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-02",
+      "falsification": "Signals tied to Serial killer who murdered eight women in Long Island town imprisoned for life fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "9ae74eff70d48130",
       "created_at": "2026-06-17",
       "root_cause": "Venezuela signs deal with US energy giant to rebuild power grid",
@@ -759,5 +772,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-16T22:20:27.581473+00:00"
+  "last_updated": "2026-06-17T22:07:25.977838+00:00"
 }
