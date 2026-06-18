@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "2b6aeff0226bd58a",
+      "created_at": "2026-06-19",
+      "root_cause": "Serial killer who murdered eight women in Long Island town imprisoned for life",
+      "prediction": "Momentum around Serial killer who murdered eight women in Long Island town imprisoned for life is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-03",
+      "falsification": "Signals tied to Serial killer who murdered eight women in Long Island town imprisoned for life fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "60268545aa1f5d4c",
       "created_at": "2026-06-18",
       "root_cause": "Serial killer who murdered eight women in Long Island town imprisoned for life",
@@ -256,9 +269,17 @@
       "maturity_date": "2026-06-19",
       "falsification": "Signals tied to Zelensky proposes face-to-face talks in open letter to Putin fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum around Zelensky's proposal for face-to-face talks with Putin. The provided signals are unrelated to the prediction topic, suggesting the issue has faded or been overshadowed by other global events.",
+      "validated_at": "2026-06-18T22:20:44.117492+00:00",
+      "evidence_used": [
+        "BBC World: Obamas host star-studded opening of Chicago presidential centre",
+        "BBC World: Will Putin change tactics after Ukrainian drone attacks?",
+        "Al Jazeera: Cuba’s Communist Party approves opening economy in unprecedented move",
+        "Al Jazeera: Somalia warns Israel against meddling in Somaliland",
+        "ABC Australia: Giants not sweating on Greene contract extension talks",
+        "ABC Australia: England's high-octane start betrays World Cup nerves"
+      ]
     },
     {
       "id": "3493b3792c0b8fc8",
@@ -772,5 +793,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-17T22:07:25.977838+00:00"
+  "last_updated": "2026-06-18T22:20:38.569651+00:00"
 }
