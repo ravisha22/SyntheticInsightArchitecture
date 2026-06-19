@@ -256,9 +256,16 @@
       "maturity_date": "2026-06-20",
       "falsification": "Signals tied to US plans to fight flesh-eating screwworm outbreak with flies and dogs fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to US plans to fight the flesh-eating screwworm outbreak with flies and dogs were identified. The provided signals focus on unrelated topics such as Ebola outbreaks, gunmen attacks, and US-Iran agreements, which do not offer evidence of momentum or activity tied to the prediction.",
+      "validated_at": "2026-06-19T21:14:40.937790+00:00",
+      "evidence_used": [
+        "BBC World: Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+        "BBC World: Thirty-five killed as gunmen attack Niger's biggest airport",
+        "BBC World: What's in the US-Iran agreement?",
+        "BBC World: 'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely",
+        "Al Jazeera: More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’"
+      ]
     },
     {
       "id": "bdcb85d06eabb3ff",
@@ -793,5 +800,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-18T22:20:38.569651+00:00"
+  "last_updated": "2026-06-19T21:14:39.276030+00:00"
 }
