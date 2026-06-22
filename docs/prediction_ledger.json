@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "9c779015984e968c",
+      "created_at": "2026-06-23",
+      "root_cause": "Largest ever cocaine bust in Australia after police raid underground bunker",
+      "prediction": "Momentum around Largest ever cocaine bust in Australia after police raid underground bunker is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-07",
+      "falsification": "Signals tied to Largest ever cocaine bust in Australia after police raid underground bunker fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "c87163e04b3e1265",
       "created_at": "2026-06-22",
       "root_cause": "Half of France under red heat alert as alcohol banned at street music festival",
@@ -204,9 +217,13 @@
       "maturity_date": "2026-06-23",
       "falsification": "Signals tied to Hundreds of captives freed from Boko Haram mountain hideout fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or downstream spillover related to the freeing of captives from Boko Haram's mountain hideout. The topic appears to have faded from the news cycle.",
+      "validated_at": "2026-06-22T22:09:44.256626+00:00",
+      "evidence_used": [
+        "No relevant signals tied to the prediction were found in the provided fresh signals from BBC World.",
+        "The timeline for validation has elapsed without any indication of sustained or compounded momentum."
+      ]
     },
     {
       "id": "bef3a1705a454556",
@@ -217,9 +234,19 @@
       "maturity_date": "2026-06-23",
       "falsification": "Signals tied to Zelensky's close European allies set out five conditions for peace talks fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to Zelensky's close European allies setting out five conditions for peace talks were identified in the provided evidence. The signals instead focus on unrelated geopolitical, sports, and environmental topics.",
+      "validated_at": "2026-06-22T22:09:46.281685+00:00",
+      "evidence_used": [
+        "BBC World: Colombia's escalating, brutal internal conflict is defining its presidential election",
+        "Al Jazeera: Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
+        "ABC Australia: Rugby Australia's new women's high-performance boss sets lofty goals",
+        "ABC Australia: Vegemite levels help Socceroos' chef find out if players like his food",
+        "BBC World: Vance says Iran will allow nuclear inspectors back into the country",
+        "BBC World: Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+        "BBC World: Trump-backed political outsider wins Colombia election, initial count shows",
+        "BBC World: Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say"
+      ]
     },
     {
       "id": "cd17820679eab50c",
@@ -833,5 +860,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-21T21:21:54.589674+00:00"
+  "last_updated": "2026-06-22T22:09:41.545296+00:00"
 }
