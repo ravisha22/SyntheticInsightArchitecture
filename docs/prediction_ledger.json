@@ -66,6 +66,45 @@
       "validated_at": null
     },
     {
+      "id": "8fadd88fc4282931",
+      "created_at": "2026-06-25",
+      "root_cause": "Air conditioning creates political divide after France records hottest day",
+      "prediction": "Momentum around Air conditioning creates political divide after France records hottest day is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-09",
+      "falsification": "Signals tied to Air conditioning creates political divide after France records hottest day fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "12d2c4845d5b97d5",
+      "created_at": "2026-06-25",
+      "root_cause": "Stanford graduates rethink their futures as AI transforms tech",
+      "prediction": "Momentum around Stanford graduates rethink their futures as AI transforms tech is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-09",
+      "falsification": "Signals tied to Stanford graduates rethink their futures as AI transforms tech fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "11455b90f4089c21",
+      "created_at": "2026-06-25",
+      "root_cause": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "prediction": "Momentum around UN nuclear chief says inspectors will visit Iran sites as part of war deal is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-09",
+      "falsification": "Signals tied to UN nuclear chief says inspectors will visit Iran sites as part of war deal fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "9c779015984e968c",
       "created_at": "2026-06-23",
       "root_cause": "Largest ever cocaine bust in Australia after police raid underground bunker",
@@ -860,5 +899,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-23T21:46:54.055527+00:00"
+  "last_updated": "2026-06-24T21:37:56.198204+00:00"
 }
