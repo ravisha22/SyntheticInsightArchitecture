@@ -1,35 +1,133 @@
 {
-  "report_date": "2026-06-26",
-  "generated_at": "2026-06-25T21:49:24.816402+00:00",
+  "report_date": "2026-06-27",
+  "generated_at": "2026-06-26T21:24:12.688601+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "body": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "body": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 13:09:58 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:15:37 GMT"
     },
     {
-      "title": "People flee as building collapses on Caracas outskirts",
-      "body": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "body": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 12:08:30 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:36:32 GMT"
     },
     {
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "body": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "body": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:05:16 GMT"
+    },
+    {
+      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "body": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:03:32 GMT"
+    },
+    {
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "body": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 17:05:22 GMT"
+    },
+    {
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "body": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:14:36 GMT"
+    },
+    {
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "body": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 19:29:31 GMT"
+    },
+    {
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "body": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 16:45:21 GMT"
+    },
+    {
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "body": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 10:49:11 GMT"
+    },
+    {
+      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "body": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 10:38:37 GMT"
+    },
+    {
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "body": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 15:34:39 GMT"
+    },
+    {
+      "title": "Canada eligible to join Eurovision competition",
+      "body": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 13:41:36 GMT"
+    },
+    {
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "body": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 12:54:18 GMT"
+    },
+    {
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "body": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 06:16:01 GMT"
+    },
+    {
+      "title": "Asia stock markets slide as tech shares slump",
+      "body": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 07:33:10 GMT"
+    },
+    {
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "body": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 09:42:26 GMT"
+    },
+    {
+      "title": "Row over alleged theft of donations from India's landmark Ram temple",
+      "body": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 01:02:36 GMT"
+    },
+    {
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "body": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 21:27:06 GMT"
-    },
-    {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "body": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 19:19:12 GMT"
+      "published": "Fri, 26 Jun 2026 00:06:45 GMT"
     },
     {
       "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
@@ -43,105 +141,7 @@
       "body": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 18:43:14 GMT"
-    },
-    {
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "body": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 09:06:59 GMT"
-    },
-    {
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "body": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 16:53:51 GMT"
-    },
-    {
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "body": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 12:08:33 GMT"
-    },
-    {
-      "title": "Oil price falls back to pre-Iran war levels",
-      "body": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 15:32:04 GMT"
-    },
-    {
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "body": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 14:00:13 GMT"
-    },
-    {
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "body": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 10:04:43 GMT"
-    },
-    {
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "body": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 22:14:12 GMT"
-    },
-    {
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "body": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 03:12:17 GMT"
-    },
-    {
-      "title": "Independent MPs launch new Australian centrist party",
-      "body": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 02:41:28 GMT"
-    },
-    {
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "body": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 13:03:35 GMT"
-    },
-    {
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "body": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 13:51:24 GMT"
-    },
-    {
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "body": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 09:48:24 GMT"
-    },
-    {
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "body": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 17:31:48 GMT"
-    },
-    {
-      "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
-      "body": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 17:00:51 GMT"
+      "published": "Fri, 26 Jun 2026 02:18:04 GMT"
     }
   ],
   "signals": [
@@ -149,44 +149,184 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "body": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "body": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 13:09:58 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:15:37 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "body": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "body": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 12:08:30 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:36:32 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-      "body": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "body": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 21:27:06 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 21:05:16 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "body": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "body": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 19:19:12 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:03:32 GMT"
     },
     {
       "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "body": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 17:05:22 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "body": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:14:36 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "body": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 19:29:31 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "body": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 16:45:21 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "body": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 10:49:11 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "body": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 10:38:37 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "body": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 15:34:39 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Canada eligible to join Eurovision competition",
+      "body": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 13:41:36 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "body": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 12:54:18 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "body": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 06:16:01 GMT"
+    },
+    {
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Asia stock markets slide as tech shares slump",
+      "body": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 07:33:10 GMT"
+    },
+    {
+      "number": 16,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "body": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 09:42:26 GMT"
+    },
+    {
+      "number": 17,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Row over alleged theft of donations from India's landmark Ram temple",
+      "body": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 01:02:36 GMT"
+    },
+    {
+      "number": 18,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "body": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 00:06:45 GMT"
+    },
+    {
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
@@ -196,228 +336,52 @@
       "published": "Thu, 25 Jun 2026 18:50:12 GMT"
     },
     {
-      "number": 6,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
       "body": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 18:43:14 GMT"
-    },
-    {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "body": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 09:06:59 GMT"
-    },
-    {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "body": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 16:53:51 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "body": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 12:08:33 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "body": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 15:32:04 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "body": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 14:00:13 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "body": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 10:04:43 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "body": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 22:14:12 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "body": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 03:12:17 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Independent MPs launch new Australian centrist party",
-      "body": "Zali Steggall and Allegra Spender say Community Strong Australia will offer citizens 'reason over rage'.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 02:41:28 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "body": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 13:03:35 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "body": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 13:51:24 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "body": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 09:48:24 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "body": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 17:31:48 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
-      "body": "Officials confirmed someone applied for a permit to close the streets near Madison Square Garden on 4 July.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 17:00:51 GMT"
+      "published": "Fri, 26 Jun 2026 02:18:04 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.885157783458969,
-      "contest_score": -0.2322543299837139,
+      "priority_score": 2.9062675523869386,
+      "contest_score": -0.3058658496613215,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0717547749688343,
-      "contestedness": 0.045415613560132906,
-      "impact": 0.695,
+      "central_tendency": 1.0414026336564015,
+      "contestedness": 0.041198332282479155,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "survival_focused": 1.152919144061279,
-        "stability_seeking": 1.13739264813074
+        "knowledge_oriented": 1.1170357838329532,
+        "expression_oriented": 1.0906572367475391
       },
       "bottom_clusters": {
-        "expression_oriented": 0.9710894731459592
+        "achievement_oriented": 0.987450872135231
       },
       "cluster_means": {
-        "survival_focused": 1.152919144061279,
-        "stability_seeking": 1.13739264813074,
-        "achievement_oriented": 1.0796101088773005,
-        "care_oriented": 1.091977034570607,
-        "knowledge_oriented": 1.0130980598533157,
-        "governance_oriented": 1.096046380149024,
-        "sovereignty_order_oriented": 1.1131552482170093,
-        "expression_oriented": 0.9710894731459592,
-        "ecosystem_oriented": 0.9905048777142731
+        "survival_focused": 1.0567803398826296,
+        "stability_seeking": 1.0475276078549447,
+        "achievement_oriented": 0.987450872135231,
+        "care_oriented": 1.0429035036770966,
+        "knowledge_oriented": 1.1170357838329532,
+        "governance_oriented": 1.0313543534562455,
+        "sovereignty_order_oriented": 1.0017051713946175,
+        "expression_oriented": 1.0906572367475391,
+        "ecosystem_oriented": 0.9972088339263547
       },
-      "priority_raw": 0.44692174116200384,
-      "contest_raw": 0.03156385142429237
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.5809410238254475,
-      "contest_score": -0.24352395759688736,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.9776383199329979,
-      "contestedness": 0.053114946362683324,
-      "impact": 0.5900000000000001,
-      "top_clusters": {
-        "achievement_oriented": 1.0825945262467003,
-        "stability_seeking": 1.0698733254490278
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.825212507217384
-      },
-      "cluster_means": {
-        "survival_focused": 1.0430767176215294,
-        "stability_seeking": 1.0698733254490278,
-        "achievement_oriented": 1.0825945262467003,
-        "care_oriented": 0.9729844562755202,
-        "knowledge_oriented": 0.8989207455881694,
-        "governance_oriented": 1.0260994026382035,
-        "sovereignty_order_oriented": 1.036834371416758,
-        "expression_oriented": 0.825212507217384,
-        "ecosystem_oriented": 0.8431488269436895
-      },
-      "priority_raw": 0.40376462613232816,
-      "contest_raw": 0.031337818353983166
+      "priority_raw": 0.5790198643129594,
+      "contest_raw": 0.028632840936323015
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
@@ -426,610 +390,574 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.4851786594717544,
-      "contest_score": -0.281044695721501,
+      "priority_score": 1.6404192529639408,
+      "contest_score": -0.5430507870014298,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7906372559080116,
-      "contestedness": 0.04338336322152225,
+      "central_tendency": 0.8014677519471051,
+      "contestedness": 0.0345420374941976,
       "impact": 0.705,
       "top_clusters": {
-        "survival_focused": 0.8651023316381751,
-        "expression_oriented": 0.855694748806795
+        "expression_oriented": 0.8777607380005421,
+        "survival_focused": 0.8696459421858425
       },
       "bottom_clusters": {
-        "governance_oriented": 0.6825117094033066
+        "governance_oriented": 0.6877216600855103
       },
       "cluster_means": {
-        "survival_focused": 0.8651023316381751,
-        "stability_seeking": 0.8092472468508929,
-        "achievement_oriented": 0.8123113855852727,
-        "care_oriented": 0.833129901607265,
-        "knowledge_oriented": 0.8301703583708413,
-        "governance_oriented": 0.6825117094033066,
-        "sovereignty_order_oriented": 0.7333139064051999,
-        "expression_oriented": 0.855694748806795,
-        "ecosystem_oriented": 0.6942537145043568
+        "survival_focused": 0.8696459421858425,
+        "stability_seeking": 0.8165471016723933,
+        "achievement_oriented": 0.8366678355569415,
+        "care_oriented": 0.8351039046916449,
+        "knowledge_oriented": 0.8523215918798009,
+        "governance_oriented": 0.6877216600855103,
+        "sovereignty_order_oriented": 0.7346050477877196,
+        "expression_oriented": 0.8777607380005421,
+        "ecosystem_oriented": 0.7028359456635513
       },
-      "priority_raw": 0.3901794857906037,
-      "contest_raw": 0.030585271071173186
+      "priority_raw": 0.3955243355858963,
+      "contest_raw": 0.024352136433409305
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.448728961155723,
-      "contest_score": -1.152150747234943,
+      "priority_score": 1.4584357407073272,
+      "contest_score": -0.04794102933030828,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.2126255770010783,
-      "contestedness": 0.020651401655622736,
-      "impact": 0.635,
+      "central_tendency": 1.0340175638205906,
+      "contestedness": 0.055945979897398246,
+      "impact": 0.595,
       "top_clusters": {
-        "achievement_oriented": 1.3521211814613352,
-        "knowledge_oriented": 1.2265297601558527
+        "care_oriented": 1.1141343892475417,
+        "stability_seeking": 1.093472472504474
       },
       "bottom_clusters": {
-        "care_oriented": 1.152697319983621
+        "expression_oriented": 0.9352334617558427
       },
       "cluster_means": {
-        "survival_focused": 1.1866416826582198,
-        "stability_seeking": 1.2260165749729768,
-        "achievement_oriented": 1.3521211814613352,
-        "care_oriented": 1.152697319983621,
-        "knowledge_oriented": 1.2265297601558527,
-        "governance_oriented": 1.1963697555093027,
-        "sovereignty_order_oriented": 1.17571835385368,
-        "expression_oriented": 1.18975663251186,
-        "ecosystem_oriented": 1.2077789319028593
+        "survival_focused": 1.0807531136599864,
+        "stability_seeking": 1.093472472504474,
+        "achievement_oriented": 1.012409401030942,
+        "care_oriented": 1.1141343892475417,
+        "knowledge_oriented": 0.9700044155241011,
+        "governance_oriented": 1.091749823948488,
+        "sovereignty_order_oriented": 1.0375264926070757,
+        "expression_oriented": 0.9352334617558427,
+        "ecosystem_oriented": 0.9708745041068636
       },
-      "priority_raw": 0.38500862069784236,
-      "contest_raw": 0.013113640051320439
+      "priority_raw": 0.3691442702839508,
+      "contest_raw": 0.033287858038951956
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "title": "Air conditioning creates political divide after France records hottest day",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.9695917967462558,
-      "contest_score": 1.011994903012212,
+      "priority_score": 1.2017791180642994,
+      "contest_score": -0.9363268290169376,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7602800117323475,
-      "contestedness": 0.08132309921809167,
-      "impact": 0.6950000000000001,
+      "central_tendency": 0.9298030797975054,
+      "contestedness": 0.028998833207103836,
+      "impact": 0.595,
       "top_clusters": {
-        "achievement_oriented": 0.9200698195865586,
-        "survival_focused": 0.8835418009724724
+        "stability_seeking": 0.9934190658322186,
+        "survival_focused": 0.9861787499879326
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.5862353291375634
+        "expression_oriented": 0.8251216988822064
       },
       "cluster_means": {
-        "survival_focused": 0.8835418009724724,
-        "stability_seeking": 0.8246301034875256,
-        "achievement_oriented": 0.9200698195865586,
-        "care_oriented": 0.6808378494601812,
-        "knowledge_oriented": 0.7621609486782729,
-        "governance_oriented": 0.6432761661682527,
-        "sovereignty_order_oriented": 0.8320406595064415,
-        "expression_oriented": 0.7097274285938587,
-        "ecosystem_oriented": 0.5862353291375634
+        "survival_focused": 0.9861787499879326,
+        "stability_seeking": 0.9934190658322186,
+        "achievement_oriented": 0.9311656885601252,
+        "care_oriented": 0.9571799167808288,
+        "knowledge_oriented": 0.8736382219158324,
+        "governance_oriented": 0.9782481534507856,
+        "sovereignty_order_oriented": 0.9726316712906131,
+        "expression_oriented": 0.8251216988822064,
+        "ecosystem_oriented": 0.8506445514770046
       },
-      "priority_raw": 0.3170367648923889,
-      "contest_raw": 0.05651955395657371
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.7414088714415015,
-      "contest_score": 0.8405190620554011,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7461757297920869,
-      "contestedness": 0.0973950296783882,
-      "impact": 0.545,
-      "top_clusters": {
-        "care_oriented": 0.9180252034810448,
-        "survival_focused": 0.8910268615186917
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.5194569805188658
-      },
-      "cluster_means": {
-        "survival_focused": 0.8910268615186917,
-        "stability_seeking": 0.8206301738026566,
-        "achievement_oriented": 0.5832476879966176,
-        "care_oriented": 0.9180252034810448,
-        "knowledge_oriented": 0.5597755144112758,
-        "governance_oriented": 0.8712098294311994,
-        "sovereignty_order_oriented": 0.8510029781736442,
-        "expression_oriented": 0.5194569805188658,
-        "ecosystem_oriented": 0.7012063387947872
-      },
-      "priority_raw": 0.28466604091568115,
-      "contest_raw": 0.05308029117472157
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-      "title": "Independent MPs launch new Australian centrist party",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5606966690408441,
-      "contest_score": -1.22448828187323,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.8810532588730523,
-      "contestedness": 0.02776851904414912,
-      "impact": 0.42000000000000004,
-      "top_clusters": {
-        "governance_oriented": 0.9710019247227396,
-        "knowledge_oriented": 0.9273325548285986
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.7926997705130445
-      },
-      "cluster_means": {
-        "survival_focused": 0.8050682693617573,
-        "stability_seeking": 0.9163265472470418,
-        "achievement_oriented": 0.8855119968077239,
-        "care_oriented": 0.8995640357844494,
-        "knowledge_oriented": 0.9273325548285986,
-        "governance_oriented": 0.9710019247227396,
-        "sovereignty_order_oriented": 0.7926997705130445,
-        "expression_oriented": 0.9021473484590756,
-        "ecosystem_oriented": 0.82982688213304
-      },
-      "priority_raw": 0.2590296581086774,
-      "contest_raw": 0.011662777998542631
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5428118834048703,
-      "contest_score": -1.0425136686318115,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7184662969414481,
-      "contestedness": 0.030024731239158498,
-      "impact": 0.51,
-      "top_clusters": {
-        "knowledge_oriented": 0.7621559517250297,
-        "achievement_oriented": 0.7551415870418141
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.6411344292772656
-      },
-      "cluster_means": {
-        "survival_focused": 0.696164440721127,
-        "stability_seeking": 0.7547356651671125,
-        "achievement_oriented": 0.7551415870418141,
-        "care_oriented": 0.6941473261215185,
-        "knowledge_oriented": 0.7621559517250297,
-        "governance_oriented": 0.748056750092373,
-        "sovereignty_order_oriented": 0.6884713503665061,
-        "expression_oriented": 0.7261891719602855,
-        "ecosystem_oriented": 0.6411344292772656
-      },
-      "priority_raw": 0.256492468008097,
-      "contest_raw": 0.015312612931970834
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3904374854813364,
-      "contest_score": -1.0335032381322522,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6113244992404526,
-      "contestedness": 0.05342528847166772,
-      "impact": 0.29000000000000004,
-      "top_clusters": {
-        "governance_oriented": 0.7171112997264895,
-        "stability_seeking": 0.6834558194503753
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.53160453106032
-      },
-      "cluster_means": {
-        "survival_focused": 0.574522768789494,
-        "stability_seeking": 0.6834558194503753,
-        "achievement_oriented": 0.53160453106032,
-        "care_oriented": 0.6765893727826003,
-        "knowledge_oriented": 0.6183582982890026,
-        "governance_oriented": 0.7171112997264895,
-        "sovereignty_order_oriented": 0.5512853096248111,
-        "expression_oriented": 0.6012091909563241,
-        "ecosystem_oriented": 0.5477839024846564
-      },
-      "priority_raw": 0.12409887334581189,
-      "contest_raw": 0.015493333656783641
+      "priority_raw": 0.3319396994877094,
+      "contest_raw": 0.01725430575822678
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4856050370754209,
-      "contest_score": -0.2849568708409586,
+      "priority_score": 0.6431513620992666,
+      "contest_score": 0.80891249177089,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2891453985666501,
-      "contestedness": 0.03987817675460134,
-      "impact": 0.765,
+      "central_tendency": 0.7149909752767994,
+      "contestedness": 0.08333729399144063,
+      "impact": 0.585,
       "top_clusters": {
-        "expression_oriented": 0.3748646841449965,
-        "knowledge_oriented": 0.3636028256603711
+        "care_oriented": 0.8398868294777168,
+        "governance_oriented": 0.7953046776944248
       },
       "bottom_clusters": {
-        "survival_focused": 0.2230867469801976
+        "expression_oriented": 0.6079064758887657
       },
       "cluster_means": {
-        "survival_focused": 0.2230867469801976,
-        "stability_seeking": 0.23210922937261422,
-        "achievement_oriented": 0.34721627678974143,
-        "care_oriented": 0.27198740612721556,
-        "knowledge_oriented": 0.3636028256603711,
-        "governance_oriented": 0.2611589651723298,
-        "sovereignty_order_oriented": 0.2555066808836101,
-        "expression_oriented": 0.3748646841449965,
-        "ecosystem_oriented": 0.2727757719687742
+        "survival_focused": 0.7730421458322385,
+        "stability_seeking": 0.7658387888524714,
+        "achievement_oriented": 0.6087985363583225,
+        "care_oriented": 0.8398868294777168,
+        "knowledge_oriented": 0.6458871228907687,
+        "governance_oriented": 0.7953046776944248,
+        "sovereignty_order_oriented": 0.7407957472439637,
+        "expression_oriented": 0.6079064758887657,
+        "ecosystem_oriented": 0.6574584532525231
       },
-      "priority_raw": 0.11059811495174367,
-      "contest_raw": 0.030506805217270026
+      "priority_raw": 0.2509618323221566,
+      "contest_raw": 0.048752316984992765
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "signal_id": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5175084741719982,
-      "contest_score": -1.1807657114259111,
+      "priority_score": 0.024130951909944593,
+      "contest_score": -0.884812635672332,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.23467300067811156,
-      "contestedness": 0.02219418480312868,
-      "impact": 0.5650000000000001,
+      "central_tendency": 0.3303883889782242,
+      "contestedness": 0.029809888379554172,
+      "impact": 0.6100000000000001,
       "top_clusters": {
-        "expression_oriented": 0.29000168519263014,
-        "care_oriented": 0.25881635795438795
+        "expression_oriented": 0.4275896377365819,
+        "knowledge_oriented": 0.3830880131744834
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.17288568418850903
+        "achievement_oriented": 0.27558923598568424
       },
       "cluster_means": {
-        "survival_focused": 0.217694877947532,
-        "stability_seeking": 0.239903389639684,
-        "achievement_oriented": 0.17288568418850903,
-        "care_oriented": 0.25881635795438795,
-        "knowledge_oriented": 0.2580083215257508,
-        "governance_oriented": 0.24072219452415353,
-        "sovereignty_order_oriented": 0.21631529029380125,
-        "expression_oriented": 0.29000168519263014,
-        "ecosystem_oriented": 0.21770920483655531
+        "survival_focused": 0.3194689588667575,
+        "stability_seeking": 0.3492788472463117,
+        "achievement_oriented": 0.27558923598568424,
+        "care_oriented": 0.3362757560327556,
+        "knowledge_oriented": 0.3830880131744834,
+        "governance_oriented": 0.3033355031979799,
+        "sovereignty_order_oriented": 0.2872514696156325,
+        "expression_oriented": 0.4275896377365819,
+        "ecosystem_oriented": 0.29161807894783026
       },
-      "priority_raw": 0.10607219630650644,
-      "contest_raw": 0.012539714413767706
+      "priority_raw": 0.16122953382137345,
+      "contest_raw": 0.018184031911528047
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada eligible to join Eurovision competition",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7697777015331476,
-      "contest_score": 0.3139524412438038,
+      "priority_score": -0.2912781033601692,
+      "contest_score": -1.1152091179252688,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2082504184982508,
-      "contestedness": 0.0629911569411469,
-      "impact": 0.675,
+      "central_tendency": 0.6210123431584571,
+      "contestedness": 0.04524466187546028,
+      "impact": 0.31000000000000005,
       "top_clusters": {
-        "expression_oriented": 0.39547429112976495,
-        "knowledge_oriented": 0.3514738508900535
+        "governance_oriented": 0.7120663948391739,
+        "stability_seeking": 0.6749590407242616
       },
       "bottom_clusters": {
-        "survival_focused": 0.06050578538459636
+        "sovereignty_order_oriented": 0.546416423595449
       },
       "cluster_means": {
-        "survival_focused": 0.06050578538459636,
-        "stability_seeking": 0.13155372241845162,
-        "achievement_oriented": 0.17432390481184973,
-        "care_oriented": 0.237944710316543,
-        "knowledge_oriented": 0.3514738508900535,
-        "governance_oriented": 0.19454487935959852,
-        "sovereignty_order_oriented": 0.0881794029540838,
-        "expression_oriented": 0.39547429112976495,
-        "ecosystem_oriented": 0.24025321921931592
+        "survival_focused": 0.5599845698048727,
+        "stability_seeking": 0.6749590407242616,
+        "achievement_oriented": 0.5948679079540599,
+        "care_oriented": 0.6650275377497725,
+        "knowledge_oriented": 0.646310197491079,
+        "governance_oriented": 0.7120663948391739,
+        "sovereignty_order_oriented": 0.546416423595449,
+        "expression_oriented": 0.6297143788488013,
+        "ecosystem_oriented": 0.5597646374186441
       },
-      "priority_raw": 0.07028451624315965,
-      "contest_raw": 0.04251903093527416
+      "priority_raw": 0.11550829582747303,
+      "contest_raw": 0.01402584518139269
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss",
-      "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.775962060315275,
-      "contest_score": -1.5525911666537113,
+      "priority_score": -0.3232702101250307,
+      "contest_score": 0.495099584540198,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4551290773237211,
-      "contestedness": 0.01666253219812719,
-      "impact": 0.30500000000000005,
+      "central_tendency": 0.322298739978974,
+      "contestedness": 0.05010306263800984,
+      "impact": 0.86,
       "top_clusters": {
-        "stability_seeking": 0.5068636305130985,
-        "governance_oriented": 0.5052639081964097
+        "expression_oriented": 0.43687627892767733,
+        "care_oriented": 0.388627945561955
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.37752606763970276
+        "stability_seeking": 0.2374917503100475
       },
       "cluster_means": {
-        "survival_focused": 0.4568731784914772,
-        "stability_seeking": 0.5068636305130985,
-        "achievement_oriented": 0.4315135637756115,
-        "care_oriented": 0.5045558097750636,
-        "knowledge_oriented": 0.44676816116183493,
-        "governance_oriented": 0.5052639081964097,
-        "sovereignty_order_oriented": 0.43010562896370774,
-        "expression_oriented": 0.43669174739658473,
-        "ecosystem_oriented": 0.37752606763970276
+        "survival_focused": 0.2557196520724301,
+        "stability_seeking": 0.2374917503100475,
+        "achievement_oriented": 0.2808440245636141,
+        "care_oriented": 0.388627945561955,
+        "knowledge_oriented": 0.3876071084308885,
+        "governance_oriented": 0.28759481294805733,
+        "sovereignty_order_oriented": 0.25474630546576665,
+        "expression_oriented": 0.43687627892767733,
+        "ecosystem_oriented": 0.3711807815303294
       },
-      "priority_raw": 0.06940718429186749,
-      "contest_raw": 0.005082072320428794
+      "priority_raw": 0.11087076655276706,
+      "contest_raw": 0.04308863386868846
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "title": "People flee as building collapses on Caracas outskirts",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7859943920558953,
-      "contest_score": 1.0037853127481557,
+      "priority_score": -0.3316018937369501,
+      "contest_score": 0.9907407711447241,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.13817879510188874,
-      "contestedness": 0.06872548238152229,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.267470775151363,
+      "contestedness": 0.06345603254012738,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.29409282857403196,
-        "knowledge_oriented": 0.24642905448174865
+        "expression_oriented": 0.39735912339359986,
+        "knowledge_oriented": 0.378565623164169
       },
       "bottom_clusters": {
-        "survival_focused": 0.013351264610952013
+        "survival_focused": 0.16136317755826415
       },
       "cluster_means": {
-        "survival_focused": 0.013351264610952013,
-        "stability_seeking": 0.051548260687714426,
-        "achievement_oriented": 0.12831039256505505,
-        "care_oriented": 0.14070258701751492,
-        "knowledge_oriented": 0.24642905448174865,
-        "governance_oriented": 0.10175330597152998,
-        "sovereignty_order_oriented": 0.05958491018353276,
-        "expression_oriented": 0.29409282857403196,
-        "ecosystem_oriented": 0.1693114351295218
+        "survival_focused": 0.16136317755826415,
+        "stability_seeking": 0.18726677074492942,
+        "achievement_oriented": 0.31616980046049836,
+        "care_oriented": 0.252713767920371,
+        "knowledge_oriented": 0.378565623164169,
+        "governance_oriented": 0.23307932893118566,
+        "sovereignty_order_oriented": 0.20789833492240734,
+        "expression_oriented": 0.39735912339359986,
+        "ecosystem_oriented": 0.27282104926684225
       },
-      "priority_raw": 0.06798396719012927,
-      "contest_raw": 0.05635489555284828
+      "priority_raw": 0.10966301781205885,
+      "contest_raw": 0.05203394668290446
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7940252110655402,
-      "contest_score": 2.1483423659621894,
+      "priority_score": -0.3469305176894075,
+      "contest_score": -0.8976812358565339,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.17475736149945031,
-      "contestedness": 0.10367462536857397,
-      "impact": 0.765,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.22084481556900235,
+      "contestedness": 0.02582989916123929,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "expression_oriented": 0.37267866279370643,
-        "knowledge_oriented": 0.31257194303890706
+        "expression_oriented": 0.3844533807577286,
+        "knowledge_oriented": 0.34071878158772206
       },
       "bottom_clusters": {
-        "survival_focused": 0.023741422753021352
+        "sovereignty_order_oriented": 0.12894804767554216
       },
       "cluster_means": {
-        "survival_focused": 0.023741422753021352,
-        "stability_seeking": 0.06781900054127793,
-        "achievement_oriented": 0.186352235179529,
-        "care_oriented": 0.1714936259098519,
-        "knowledge_oriented": 0.31257194303890706,
-        "governance_oriented": 0.10279769647508566,
-        "sovereignty_order_oriented": 0.047380398324013,
-        "expression_oriented": 0.37267866279370643,
-        "ecosystem_oriented": 0.2390947919622231
+        "survival_focused": 0.1339599018731839,
+        "stability_seeking": 0.17989573609697423,
+        "achievement_oriented": 0.20687218955551373,
+        "care_oriented": 0.22750184409849866,
+        "knowledge_oriented": 0.34071878158772206,
+        "governance_oriented": 0.17971177965730917,
+        "sovereignty_order_oriented": 0.12894804767554216,
+        "expression_oriented": 0.3844533807577286,
+        "ecosystem_oriented": 0.20554167881854846
       },
-      "priority_raw": 0.06684469077353974,
-      "contest_raw": 0.0793110884069591
+      "priority_raw": 0.10744100277431964,
+      "contest_raw": 0.017951779917061306
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8445849179077305,
-      "contest_score": -0.43811553197199654,
+      "priority_score": -0.5094205934127733,
+      "contest_score": 0.6731127986730833,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.14327043684242366,
-      "contestedness": 0.04610912118165955,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.22221636472975792,
+      "contestedness": 0.061326370089873544,
+      "impact": 0.755,
+      "top_clusters": {
+        "expression_oriented": 0.40344064787074635,
+        "knowledge_oriented": 0.3585142432573164
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10895178184696805
+      },
+      "cluster_means": {
+        "survival_focused": 0.10895178184696805,
+        "stability_seeking": 0.1418197513679957,
+        "achievement_oriented": 0.24517823254235216,
+        "care_oriented": 0.20314612145786926,
+        "knowledge_oriented": 0.3585142432573164,
+        "governance_oriented": 0.1494934498528318,
+        "sovereignty_order_oriented": 0.12735032113699,
+        "expression_oriented": 0.40344064787074635,
+        "ecosystem_oriented": 0.2620527332347515
+      },
+      "priority_raw": 0.08388667768548362,
+      "contest_raw": 0.046301409417854524
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5243509124880876,
+      "contest_score": 0.1047027956110952,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.16328151916789715,
+      "contestedness": 0.05040946551184225,
+      "impact": 0.715,
+      "top_clusters": {
+        "expression_oriented": 0.3327770361490078,
+        "knowledge_oriented": 0.2595474549006967
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.07091619532256446
+      },
+      "cluster_means": {
+        "survival_focused": 0.07091619532256446,
+        "stability_seeking": 0.11411826969382532,
+        "achievement_oriented": 0.09904627810860739,
+        "care_oriented": 0.18489123259774326,
+        "knowledge_oriented": 0.2595474549006967,
+        "governance_oriented": 0.12132566083440671,
+        "sovereignty_order_oriented": 0.07401690712008022,
+        "expression_oriented": 0.3327770361490078,
+        "ecosystem_oriented": 0.20733696016764136
+      },
+      "priority_raw": 0.08172240034353251,
+      "contest_raw": 0.03604276784096721
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "title": "Asia stock markets slide as tech shares slump",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5298587512326728,
+      "contest_score": -0.8715476061660733,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2415641553684941,
+      "contestedness": 0.02749766962230632,
+      "impact": 0.67,
+      "top_clusters": {
+        "expression_oriented": 0.3599702768709725,
+        "knowledge_oriented": 0.3324275612953655
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.1687308570650127
+      },
+      "cluster_means": {
+        "survival_focused": 0.1687308570650127,
+        "stability_seeking": 0.20723231951117738,
+        "achievement_oriented": 0.20616614252215848,
+        "care_oriented": 0.2557694421335304,
+        "knowledge_oriented": 0.3324275612953655,
+        "governance_oriented": 0.21617790291593728,
+        "sovereignty_order_oriented": 0.18868023329363096,
+        "expression_oriented": 0.3599702768709725,
+        "ecosystem_oriented": 0.23892266270866122
+      },
+      "priority_raw": 0.08092399204844553,
+      "contest_raw": 0.018423438646945234
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5995991494974512,
+      "contest_score": 0.1949092046596075,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.15228930178560235,
+      "contestedness": 0.048607496251549226,
+      "impact": 0.775,
+      "top_clusters": {
+        "expression_oriented": 0.33843749227353437,
+        "knowledge_oriented": 0.2766036344469498
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.02982670126348469
+      },
+      "cluster_means": {
+        "survival_focused": 0.02982670126348469,
+        "stability_seeking": 0.07049006102624511,
+        "achievement_oriented": 0.1630619090926284,
+        "care_oriented": 0.07499323642547578,
+        "knowledge_oriented": 0.2766036344469498,
+        "governance_oriented": 0.0737222245125691,
+        "sovereignty_order_oriented": 0.07843419751503392,
+        "expression_oriented": 0.33843749227353437,
+        "ecosystem_oriented": 0.2245173392796119
+      },
+      "priority_raw": 0.07081452533030509,
+      "contest_raw": 0.03767080959495065
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6707504068319305,
+      "contest_score": -0.9842188421641869,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.16946930681526126,
+      "contestedness": 0.027546138776342266,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.3456604466853438,
-        "knowledge_oriented": 0.28596664490033696
+        "expression_oriented": 0.3001206247927274,
+        "knowledge_oriented": 0.2710327283573809
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": -0.022870650568939
+        "governance_oriented": 0.10602906048251967
       },
       "cluster_means": {
-        "survival_focused": -0.006983855414191165,
-        "stability_seeking": 0.0712820597574519,
-        "achievement_oriented": 0.14996223208065498,
-        "care_oriented": 0.10385311089899543,
-        "knowledge_oriented": 0.28596664490033696,
-        "governance_oriented": 0.07279348781902863,
-        "sovereignty_order_oriented": -0.022870650568939,
-        "expression_oriented": 0.3456604466853438,
-        "ecosystem_oriented": 0.11481582299099212
+        "survival_focused": 0.13644975720370744,
+        "stability_seeking": 0.1446648160518198,
+        "achievement_oriented": 0.18433346455326963,
+        "care_oriented": 0.1471217214778885,
+        "knowledge_oriented": 0.2710327283573809,
+        "governance_oriented": 0.10602906048251967,
+        "sovereignty_order_oriented": 0.11711867727547753,
+        "expression_oriented": 0.3001206247927274,
+        "ecosystem_oriented": 0.11835291114256047
       },
-      "priority_raw": 0.05967213694486945,
-      "contest_raw": 0.027434927103087432
+      "priority_raw": 0.06050054253304826,
+      "contest_raw": 0.016389952571923647
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8463593112771923,
-      "contest_score": 1.125728577391718,
+      "priority_score": -0.6740443587864022,
+      "contest_score": 0.8958977872027016,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.1207732034619967,
-      "contestedness": 0.07170816047067927,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.12199808139774533,
+      "contestedness": 0.06136856610486699,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.2692379635297803,
-        "knowledge_oriented": 0.20510681719883853
+        "expression_oriented": 0.2552043934747965,
+        "knowledge_oriented": 0.20505201403433584
       },
       "bottom_clusters": {
-        "survival_focused": -0.07350600635228477
+        "survival_focused": -0.004645180598178866
       },
       "cluster_means": {
-        "survival_focused": -0.07350600635228477,
-        "stability_seeking": -0.02749046435129876,
-        "achievement_oriented": 0.04223629446153074,
-        "care_oriented": 0.0861556044435258,
-        "knowledge_oriented": 0.20510681719883853,
-        "governance_oriented": 0.029617946749943835,
-        "sovereignty_order_oriented": -0.02947186600914853,
-        "expression_oriented": 0.2692379635297803,
-        "ecosystem_oriented": 0.1319764558174654
+        "survival_focused": -0.004645180598178866,
+        "stability_seeking": 0.03873277707112205,
+        "achievement_oriented": 0.07742910643896297,
+        "care_oriented": 0.14735701500372214,
+        "knowledge_oriented": 0.20505201403433584,
+        "governance_oriented": 0.10010134317598904,
+        "sovereignty_order_oriented": 0.044498177354841656,
+        "expression_oriented": 0.2552043934747965,
+        "ecosystem_oriented": 0.17317150749639304
       },
-      "priority_raw": 0.05942041610330238,
-      "contest_raw": 0.058800691585957
+      "priority_raw": 0.060023056047690704,
+      "contest_raw": 0.05032222420599094
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9391284060632776,
-      "contest_score": 1.2292145522819455,
+      "priority_score": -0.6781352553895281,
+      "contest_score": 2.517349446598642,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.12015561062015226,
-      "contestedness": 0.07906012050595881,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.1543637548700166,
+      "contestedness": 0.10335859811114423,
       "impact": 0.77,
       "top_clusters": {
-        "expression_oriented": 0.253382504667648,
-        "knowledge_oriented": 0.19893178967289515
+        "expression_oriented": 0.31848902937303236,
+        "knowledge_oriented": 0.2617845908103762
       },
       "bottom_clusters": {
-        "survival_focused": 0.0014367833969598787
+        "survival_focused": 0.03917330195449131
       },
       "cluster_means": {
-        "survival_focused": 0.0014367833969598787,
-        "stability_seeking": 0.005213639453281904,
-        "achievement_oriented": 0.11987166916693634,
-        "care_oriented": 0.1338805779345208,
-        "knowledge_oriented": 0.19893178967289515,
-        "governance_oriented": 0.054666164623303315,
-        "sovereignty_order_oriented": 0.03269908177024852,
-        "expression_oriented": 0.253382504667648,
-        "ecosystem_oriented": 0.17447242180415323
+        "survival_focused": 0.03917330195449131,
+        "stability_seeking": 0.04383029330171487,
+        "achievement_oriented": 0.2005626060354645,
+        "care_oriented": 0.15393148033715176,
+        "knowledge_oriented": 0.2617845908103762,
+        "governance_oriented": 0.067058435005175,
+        "sovereignty_order_oriented": 0.05057288222600753,
+        "expression_oriented": 0.31848902937303236,
+        "ecosystem_oriented": 0.20833956709284426
       },
-      "priority_raw": 0.04625991008875862,
-      "contest_raw": 0.06087629278958829
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
-      "title": "Biggest city in Crimea without power after Ukraine strikes",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -1.0182419041161477,
-      "contest_score": 0.38366139685180306,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.10381223280217976,
-      "contestedness": 0.06506247705202034,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.20955512298727458,
-        "knowledge_oriented": 0.15274617038399413
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.09542733649195564
-      },
-      "cluster_means": {
-        "survival_focused": -0.09542733649195564,
-        "stability_seeking": -0.038799759263488165,
-        "achievement_oriented": -0.01207703148695724,
-        "care_oriented": 0.06830835922466946,
-        "knowledge_oriented": 0.15274617038399413,
-        "governance_oriented": -0.009615512147619576,
-        "sovereignty_order_oriented": -0.07467798919963992,
-        "expression_oriented": 0.20955512298727458,
-        "ecosystem_oriented": 0.05177982478864181
-      },
-      "priority_raw": 0.03503662857073567,
-      "contest_raw": 0.043917172010113734
+      "priority_raw": 0.05943004562495639,
+      "contest_raw": 0.07958612054558106
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
@@ -1038,108 +966,144 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -1.0468907474824036,
-      "contest_score": 0.6087095885196853,
+      "priority_score": -0.7504562442610316,
+      "contest_score": 0.2544092782042127,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.0809736378912917,
-      "contestedness": 0.06330840082664566,
-      "impact": 0.765,
+      "sign_agreement": 0.7777777777777778,
+      "central_tendency": 0.09948475659569073,
+      "contestedness": 0.047249590979008854,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.15938857076790322,
-        "knowledge_oriented": 0.10500804071391273
+        "expression_oriented": 0.21938857076790327,
+        "knowledge_oriented": 0.17500804071391268
       },
       "bottom_clusters": {
-        "survival_focused": -0.07420178640576758
+        "survival_focused": -0.024201786405767534
       },
       "cluster_means": {
-        "survival_focused": -0.07420178640576758,
-        "stability_seeking": -0.054367065194848074,
-        "achievement_oriented": -0.012117474215839225,
-        "care_oriented": 0.053652424492299594,
-        "knowledge_oriented": 0.10500804071391273,
-        "governance_oriented": -0.010893385579121923,
-        "sovereignty_order_oriented": -0.040136932772660366,
-        "expression_oriented": 0.15938857076790322,
-        "ecosystem_oriented": 0.0715220139391593
+        "survival_focused": -0.024201786405767534,
+        "stability_seeking": 0.015632934805151988,
+        "achievement_oriented": 0.06288252578416084,
+        "care_oriented": 0.09865242449229963,
+        "knowledge_oriented": 0.17500804071391268,
+        "governance_oriented": 0.05910661442087814,
+        "sovereignty_order_oriented": 0.029863067227339585,
+        "expression_oriented": 0.21938857076790327,
+        "ecosystem_oriented": 0.14152201393915925
       },
-      "priority_raw": 0.030972416493419072,
-      "contest_raw": 0.04843092663238393
+      "priority_raw": 0.048946500245079835,
+      "contest_raw": 0.03874466460278726
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.781955293415673,
+      "contest_score": 1.3296963073337869,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.7222222222222222,
+      "central_tendency": 0.11834785035883282,
+      "contestedness": 0.07753520398201626,
+      "impact": 0.75,
+      "top_clusters": {
+        "expression_oriented": 0.2584199179139549,
+        "knowledge_oriented": 0.20138758744596796
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.01856321660304014
+      },
+      "cluster_means": {
+        "survival_focused": -0.01856321660304014,
+        "stability_seeking": 0.0023364651849199503,
+        "achievement_oriented": 0.07987166916693621,
+        "care_oriented": 0.12418558569604671,
+        "knowledge_oriented": 0.20138758744596796,
+        "governance_oriented": 0.049689306570964514,
+        "sovereignty_order_oriented": 0.013914618234613874,
+        "expression_oriented": 0.2584199179139549,
+        "ecosystem_oriented": 0.1635294841131552
+      },
+      "priority_raw": 0.044380443884562304,
+      "contest_raw": 0.058151402986512196
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
+      "title": "Row over alleged theft of donations from India's landmark Ram temple",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.8625322879046133,
+      "contest_score": -1.6781765329445488,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.09909127253336097,
+      "contestedness": 0.007028056766056903,
+      "impact": 0.55,
+      "top_clusters": {
+        "expression_oriented": 0.18326110228025178,
+        "knowledge_oriented": 0.1450241803197219
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.04455718972247677
+      },
+      "cluster_means": {
+        "survival_focused": 0.0858446704417101,
+        "stability_seeking": 0.07916647606820422,
+        "achievement_oriented": 0.09193569171775441,
+        "care_oriented": 0.09315613426577082,
+        "knowledge_oriented": 0.1450241803197219,
+        "governance_oriented": 0.04455718972247677,
+        "sovereignty_order_oriented": 0.08092397560915095,
+        "expression_oriented": 0.18326110228025178,
+        "ecosystem_oriented": 0.08795203237520785
+      },
+      "priority_raw": 0.032700119936009124,
+      "contest_raw": 0.003865431221331297
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.885157783458969,
-      "contest_score": -0.2322543299837139,
+      "priority_score": 2.9062675523869386,
+      "contest_score": -0.3058658496613215,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0717547749688343,
-      "contestedness": 0.045415613560132906,
-      "impact": 0.695,
+      "central_tendency": 1.0414026336564015,
+      "contestedness": 0.041198332282479155,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "survival_focused": 1.152919144061279,
-        "stability_seeking": 1.13739264813074
+        "knowledge_oriented": 1.1170357838329532,
+        "expression_oriented": 1.0906572367475391
       },
       "bottom_clusters": {
-        "expression_oriented": 0.9710894731459592
+        "achievement_oriented": 0.987450872135231
       },
       "cluster_means": {
-        "survival_focused": 1.152919144061279,
-        "stability_seeking": 1.13739264813074,
-        "achievement_oriented": 1.0796101088773005,
-        "care_oriented": 1.091977034570607,
-        "knowledge_oriented": 1.0130980598533157,
-        "governance_oriented": 1.096046380149024,
-        "sovereignty_order_oriented": 1.1131552482170093,
-        "expression_oriented": 0.9710894731459592,
-        "ecosystem_oriented": 0.9905048777142731
+        "survival_focused": 1.0567803398826296,
+        "stability_seeking": 1.0475276078549447,
+        "achievement_oriented": 0.987450872135231,
+        "care_oriented": 1.0429035036770966,
+        "knowledge_oriented": 1.1170357838329532,
+        "governance_oriented": 1.0313543534562455,
+        "sovereignty_order_oriented": 1.0017051713946175,
+        "expression_oriented": 1.0906572367475391,
+        "ecosystem_oriented": 0.9972088339263547
       },
-      "priority_raw": 0.44692174116200384,
-      "contest_raw": 0.03156385142429237
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.5809410238254475,
-      "contest_score": -0.24352395759688736,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.9776383199329979,
-      "contestedness": 0.053114946362683324,
-      "impact": 0.5900000000000001,
-      "top_clusters": {
-        "achievement_oriented": 1.0825945262467003,
-        "stability_seeking": 1.0698733254490278
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.825212507217384
-      },
-      "cluster_means": {
-        "survival_focused": 1.0430767176215294,
-        "stability_seeking": 1.0698733254490278,
-        "achievement_oriented": 1.0825945262467003,
-        "care_oriented": 0.9729844562755202,
-        "knowledge_oriented": 0.8989207455881694,
-        "governance_oriented": 1.0260994026382035,
-        "sovereignty_order_oriented": 1.036834371416758,
-        "expression_oriented": 0.825212507217384,
-        "ecosystem_oriented": 0.8431488269436895
-      },
-      "priority_raw": 0.40376462613232816,
-      "contest_raw": 0.031337818353983166
+      "priority_raw": 0.5790198643129594,
+      "contest_raw": 0.028632840936323015
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
@@ -1148,355 +1112,368 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.4851786594717544,
-      "contest_score": -0.281044695721501,
+      "priority_score": 1.6404192529639408,
+      "contest_score": -0.5430507870014298,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7906372559080116,
-      "contestedness": 0.04338336322152225,
+      "central_tendency": 0.8014677519471051,
+      "contestedness": 0.0345420374941976,
       "impact": 0.705,
       "top_clusters": {
-        "survival_focused": 0.8651023316381751,
-        "expression_oriented": 0.855694748806795
+        "expression_oriented": 0.8777607380005421,
+        "survival_focused": 0.8696459421858425
       },
       "bottom_clusters": {
-        "governance_oriented": 0.6825117094033066
+        "governance_oriented": 0.6877216600855103
       },
       "cluster_means": {
-        "survival_focused": 0.8651023316381751,
-        "stability_seeking": 0.8092472468508929,
-        "achievement_oriented": 0.8123113855852727,
-        "care_oriented": 0.833129901607265,
-        "knowledge_oriented": 0.8301703583708413,
-        "governance_oriented": 0.6825117094033066,
-        "sovereignty_order_oriented": 0.7333139064051999,
-        "expression_oriented": 0.855694748806795,
-        "ecosystem_oriented": 0.6942537145043568
+        "survival_focused": 0.8696459421858425,
+        "stability_seeking": 0.8165471016723933,
+        "achievement_oriented": 0.8366678355569415,
+        "care_oriented": 0.8351039046916449,
+        "knowledge_oriented": 0.8523215918798009,
+        "governance_oriented": 0.6877216600855103,
+        "sovereignty_order_oriented": 0.7346050477877196,
+        "expression_oriented": 0.8777607380005421,
+        "ecosystem_oriented": 0.7028359456635513
       },
-      "priority_raw": 0.3901794857906037,
-      "contest_raw": 0.030585271071173186
+      "priority_raw": 0.3955243355858963,
+      "contest_raw": 0.024352136433409305
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.448728961155723,
-      "contest_score": -1.152150747234943,
+      "priority_score": 1.4584357407073272,
+      "contest_score": -0.04794102933030828,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.2126255770010783,
-      "contestedness": 0.020651401655622736,
-      "impact": 0.635,
+      "central_tendency": 1.0340175638205906,
+      "contestedness": 0.055945979897398246,
+      "impact": 0.595,
       "top_clusters": {
-        "achievement_oriented": 1.3521211814613352,
-        "knowledge_oriented": 1.2265297601558527
+        "care_oriented": 1.1141343892475417,
+        "stability_seeking": 1.093472472504474
       },
       "bottom_clusters": {
-        "care_oriented": 1.152697319983621
+        "expression_oriented": 0.9352334617558427
       },
       "cluster_means": {
-        "survival_focused": 1.1866416826582198,
-        "stability_seeking": 1.2260165749729768,
-        "achievement_oriented": 1.3521211814613352,
-        "care_oriented": 1.152697319983621,
-        "knowledge_oriented": 1.2265297601558527,
-        "governance_oriented": 1.1963697555093027,
-        "sovereignty_order_oriented": 1.17571835385368,
-        "expression_oriented": 1.18975663251186,
-        "ecosystem_oriented": 1.2077789319028593
+        "survival_focused": 1.0807531136599864,
+        "stability_seeking": 1.093472472504474,
+        "achievement_oriented": 1.012409401030942,
+        "care_oriented": 1.1141343892475417,
+        "knowledge_oriented": 0.9700044155241011,
+        "governance_oriented": 1.091749823948488,
+        "sovereignty_order_oriented": 1.0375264926070757,
+        "expression_oriented": 0.9352334617558427,
+        "ecosystem_oriented": 0.9708745041068636
       },
-      "priority_raw": 0.38500862069784236,
-      "contest_raw": 0.013113640051320439
+      "priority_raw": 0.3691442702839508,
+      "contest_raw": 0.033287858038951956
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "title": "Air conditioning creates political divide after France records hottest day",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.9695917967462558,
-      "contest_score": 1.011994903012212,
+      "priority_score": 1.2017791180642994,
+      "contest_score": -0.9363268290169376,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7602800117323475,
-      "contestedness": 0.08132309921809167,
-      "impact": 0.6950000000000001,
+      "central_tendency": 0.9298030797975054,
+      "contestedness": 0.028998833207103836,
+      "impact": 0.595,
       "top_clusters": {
-        "achievement_oriented": 0.9200698195865586,
-        "survival_focused": 0.8835418009724724
+        "stability_seeking": 0.9934190658322186,
+        "survival_focused": 0.9861787499879326
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.5862353291375634
+        "expression_oriented": 0.8251216988822064
       },
       "cluster_means": {
-        "survival_focused": 0.8835418009724724,
-        "stability_seeking": 0.8246301034875256,
-        "achievement_oriented": 0.9200698195865586,
-        "care_oriented": 0.6808378494601812,
-        "knowledge_oriented": 0.7621609486782729,
-        "governance_oriented": 0.6432761661682527,
-        "sovereignty_order_oriented": 0.8320406595064415,
-        "expression_oriented": 0.7097274285938587,
-        "ecosystem_oriented": 0.5862353291375634
+        "survival_focused": 0.9861787499879326,
+        "stability_seeking": 0.9934190658322186,
+        "achievement_oriented": 0.9311656885601252,
+        "care_oriented": 0.9571799167808288,
+        "knowledge_oriented": 0.8736382219158324,
+        "governance_oriented": 0.9782481534507856,
+        "sovereignty_order_oriented": 0.9726316712906131,
+        "expression_oriented": 0.8251216988822064,
+        "ecosystem_oriented": 0.8506445514770046
       },
-      "priority_raw": 0.3170367648923889,
-      "contest_raw": 0.05651955395657371
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.7414088714415015,
-      "contest_score": 0.8405190620554011,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7461757297920869,
-      "contestedness": 0.0973950296783882,
-      "impact": 0.545,
-      "top_clusters": {
-        "care_oriented": 0.9180252034810448,
-        "survival_focused": 0.8910268615186917
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.5194569805188658
-      },
-      "cluster_means": {
-        "survival_focused": 0.8910268615186917,
-        "stability_seeking": 0.8206301738026566,
-        "achievement_oriented": 0.5832476879966176,
-        "care_oriented": 0.9180252034810448,
-        "knowledge_oriented": 0.5597755144112758,
-        "governance_oriented": 0.8712098294311994,
-        "sovereignty_order_oriented": 0.8510029781736442,
-        "expression_oriented": 0.5194569805188658,
-        "ecosystem_oriented": 0.7012063387947872
-      },
-      "priority_raw": 0.28466604091568115,
-      "contest_raw": 0.05308029117472157
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
-      "title": "Independent MPs launch new Australian centrist party",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5606966690408441,
-      "contest_score": -1.22448828187323,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.8810532588730523,
-      "contestedness": 0.02776851904414912,
-      "impact": 0.42000000000000004,
-      "top_clusters": {
-        "governance_oriented": 0.9710019247227396,
-        "knowledge_oriented": 0.9273325548285986
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.7926997705130445
-      },
-      "cluster_means": {
-        "survival_focused": 0.8050682693617573,
-        "stability_seeking": 0.9163265472470418,
-        "achievement_oriented": 0.8855119968077239,
-        "care_oriented": 0.8995640357844494,
-        "knowledge_oriented": 0.9273325548285986,
-        "governance_oriented": 0.9710019247227396,
-        "sovereignty_order_oriented": 0.7926997705130445,
-        "expression_oriented": 0.9021473484590756,
-        "ecosystem_oriented": 0.82982688213304
-      },
-      "priority_raw": 0.2590296581086774,
-      "contest_raw": 0.011662777998542631
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5428118834048703,
-      "contest_score": -1.0425136686318115,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7184662969414481,
-      "contestedness": 0.030024731239158498,
-      "impact": 0.51,
-      "top_clusters": {
-        "knowledge_oriented": 0.7621559517250297,
-        "achievement_oriented": 0.7551415870418141
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.6411344292772656
-      },
-      "cluster_means": {
-        "survival_focused": 0.696164440721127,
-        "stability_seeking": 0.7547356651671125,
-        "achievement_oriented": 0.7551415870418141,
-        "care_oriented": 0.6941473261215185,
-        "knowledge_oriented": 0.7621559517250297,
-        "governance_oriented": 0.748056750092373,
-        "sovereignty_order_oriented": 0.6884713503665061,
-        "expression_oriented": 0.7261891719602855,
-        "ecosystem_oriented": 0.6411344292772656
-      },
-      "priority_raw": 0.256492468008097,
-      "contest_raw": 0.015312612931970834
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3904374854813364,
-      "contest_score": -1.0335032381322522,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6113244992404526,
-      "contestedness": 0.05342528847166772,
-      "impact": 0.29000000000000004,
-      "top_clusters": {
-        "governance_oriented": 0.7171112997264895,
-        "stability_seeking": 0.6834558194503753
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.53160453106032
-      },
-      "cluster_means": {
-        "survival_focused": 0.574522768789494,
-        "stability_seeking": 0.6834558194503753,
-        "achievement_oriented": 0.53160453106032,
-        "care_oriented": 0.6765893727826003,
-        "knowledge_oriented": 0.6183582982890026,
-        "governance_oriented": 0.7171112997264895,
-        "sovereignty_order_oriented": 0.5512853096248111,
-        "expression_oriented": 0.6012091909563241,
-        "ecosystem_oriented": 0.5477839024846564
-      },
-      "priority_raw": 0.12409887334581189,
-      "contest_raw": 0.015493333656783641
+      "priority_raw": 0.3319396994877094,
+      "contest_raw": 0.01725430575822678
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4856050370754209,
-      "contest_score": -0.2849568708409586,
+      "priority_score": 0.6431513620992666,
+      "contest_score": 0.80891249177089,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2891453985666501,
-      "contestedness": 0.03987817675460134,
-      "impact": 0.765,
+      "central_tendency": 0.7149909752767994,
+      "contestedness": 0.08333729399144063,
+      "impact": 0.585,
       "top_clusters": {
-        "expression_oriented": 0.3748646841449965,
-        "knowledge_oriented": 0.3636028256603711
+        "care_oriented": 0.8398868294777168,
+        "governance_oriented": 0.7953046776944248
       },
       "bottom_clusters": {
-        "survival_focused": 0.2230867469801976
+        "expression_oriented": 0.6079064758887657
       },
       "cluster_means": {
-        "survival_focused": 0.2230867469801976,
-        "stability_seeking": 0.23210922937261422,
-        "achievement_oriented": 0.34721627678974143,
-        "care_oriented": 0.27198740612721556,
-        "knowledge_oriented": 0.3636028256603711,
-        "governance_oriented": 0.2611589651723298,
-        "sovereignty_order_oriented": 0.2555066808836101,
-        "expression_oriented": 0.3748646841449965,
-        "ecosystem_oriented": 0.2727757719687742
+        "survival_focused": 0.7730421458322385,
+        "stability_seeking": 0.7658387888524714,
+        "achievement_oriented": 0.6087985363583225,
+        "care_oriented": 0.8398868294777168,
+        "knowledge_oriented": 0.6458871228907687,
+        "governance_oriented": 0.7953046776944248,
+        "sovereignty_order_oriented": 0.7407957472439637,
+        "expression_oriented": 0.6079064758887657,
+        "ecosystem_oriented": 0.6574584532525231
       },
-      "priority_raw": 0.11059811495174367,
-      "contest_raw": 0.030506805217270026
+      "priority_raw": 0.2509618323221566,
+      "contest_raw": 0.048752316984992765
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.024130951909944593,
+      "contest_score": -0.884812635672332,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3303883889782242,
+      "contestedness": 0.029809888379554172,
+      "impact": 0.6100000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.4275896377365819,
+        "knowledge_oriented": 0.3830880131744834
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.27558923598568424
+      },
+      "cluster_means": {
+        "survival_focused": 0.3194689588667575,
+        "stability_seeking": 0.3492788472463117,
+        "achievement_oriented": 0.27558923598568424,
+        "care_oriented": 0.3362757560327556,
+        "knowledge_oriented": 0.3830880131744834,
+        "governance_oriented": 0.3033355031979799,
+        "sovereignty_order_oriented": 0.2872514696156325,
+        "expression_oriented": 0.4275896377365819,
+        "ecosystem_oriented": 0.29161807894783026
+      },
+      "priority_raw": 0.16122953382137345,
+      "contest_raw": 0.018184031911528047
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada eligible to join Eurovision competition",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2912781033601692,
+      "contest_score": -1.1152091179252688,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.6210123431584571,
+      "contestedness": 0.04524466187546028,
+      "impact": 0.31000000000000005,
+      "top_clusters": {
+        "governance_oriented": 0.7120663948391739,
+        "stability_seeking": 0.6749590407242616
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.546416423595449
+      },
+      "cluster_means": {
+        "survival_focused": 0.5599845698048727,
+        "stability_seeking": 0.6749590407242616,
+        "achievement_oriented": 0.5948679079540599,
+        "care_oriented": 0.6650275377497725,
+        "knowledge_oriented": 0.646310197491079,
+        "governance_oriented": 0.7120663948391739,
+        "sovereignty_order_oriented": 0.546416423595449,
+        "expression_oriented": 0.6297143788488013,
+        "ecosystem_oriented": 0.5597646374186441
+      },
+      "priority_raw": 0.11550829582747303,
+      "contest_raw": 0.01402584518139269
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3232702101250307,
+      "contest_score": 0.495099584540198,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.322298739978974,
+      "contestedness": 0.05010306263800984,
+      "impact": 0.86,
+      "top_clusters": {
+        "expression_oriented": 0.43687627892767733,
+        "care_oriented": 0.388627945561955
+      },
+      "bottom_clusters": {
+        "stability_seeking": 0.2374917503100475
+      },
+      "cluster_means": {
+        "survival_focused": 0.2557196520724301,
+        "stability_seeking": 0.2374917503100475,
+        "achievement_oriented": 0.2808440245636141,
+        "care_oriented": 0.388627945561955,
+        "knowledge_oriented": 0.3876071084308885,
+        "governance_oriented": 0.28759481294805733,
+        "sovereignty_order_oriented": 0.25474630546576665,
+        "expression_oriented": 0.43687627892767733,
+        "ecosystem_oriented": 0.3711807815303294
+      },
+      "priority_raw": 0.11087076655276706,
+      "contest_raw": 0.04308863386868846
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3316018937369501,
+      "contest_score": 0.9907407711447241,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.267470775151363,
+      "contestedness": 0.06345603254012738,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.39735912339359986,
+        "knowledge_oriented": 0.378565623164169
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.16136317755826415
+      },
+      "cluster_means": {
+        "survival_focused": 0.16136317755826415,
+        "stability_seeking": 0.18726677074492942,
+        "achievement_oriented": 0.31616980046049836,
+        "care_oriented": 0.252713767920371,
+        "knowledge_oriented": 0.378565623164169,
+        "governance_oriented": 0.23307932893118566,
+        "sovereignty_order_oriented": 0.20789833492240734,
+        "expression_oriented": 0.39735912339359986,
+        "ecosystem_oriented": 0.27282104926684225
+      },
+      "priority_raw": 0.10966301781205885,
+      "contest_raw": 0.05203394668290446
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3469305176894075,
+      "contest_score": -0.8976812358565339,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.22084481556900235,
+      "contestedness": 0.02582989916123929,
+      "impact": 0.6950000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.3844533807577286,
+        "knowledge_oriented": 0.34071878158772206
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.12894804767554216
+      },
+      "cluster_means": {
+        "survival_focused": 0.1339599018731839,
+        "stability_seeking": 0.17989573609697423,
+        "achievement_oriented": 0.20687218955551373,
+        "care_oriented": 0.22750184409849866,
+        "knowledge_oriented": 0.34071878158772206,
+        "governance_oriented": 0.17971177965730917,
+        "sovereignty_order_oriented": 0.12894804767554216,
+        "expression_oriented": 0.3844533807577286,
+        "ecosystem_oriented": 0.20554167881854846
+      },
+      "priority_raw": 0.10744100277431964,
+      "contest_raw": 0.017951779917061306
     }
   ],
   "mood": {
-    "score": 0.04403617734906264,
+    "score": 0.05011892091653167,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "name": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "root_cause": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "target": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "name": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "root_cause": "Four men held over child marriage in Sierra Leone appear in landmark court case",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.885157783458969,
-      "contest_score": -0.2322543299837139,
-      "contestedness": 0.045415613560132906,
+      "priority_score": 2.9062675523869386,
+      "contest_score": -0.3058658496613215,
+      "contestedness": 0.041198332282479155,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "UN nuclear chief says inspectors will visit Iran sites as part of war deal"
+        "Four men held over child marriage in Sierra Leone appear in landmark court case"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around UN nuclear chief says inspectors will visit Iran sites as part of war deal is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to UN nuclear chief says inspectors will visit Iran sites as part of war deal fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
-      "target": "Oil price falls back to pre-Iran war levels",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "name": "Oil price falls back to pre-Iran war levels",
-      "root_cause": "Oil price falls back to pre-Iran war levels",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 1.5809410238254475,
-      "contest_score": -0.24352395759688736,
-      "contestedness": 0.053114946362683324,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
-      "signal_count": 1,
-      "signals": [
-        "Oil price falls back to pre-Iran war levels"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Oil price falls back to pre-Iran war levels is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Oil price falls back to pre-Iran war levels fade or reverse without spillover."
+      "prediction": "Momentum around Four men held over child marriage in Sierra Leone appear in landmark court case is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Four men held over child marriage in Sierra Leone appear in landmark court case fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
+      "rank": 2,
       "target": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
       "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
       "name": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
       "root_cause": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.4851786594717544,
-      "contest_score": -0.281044695721501,
-      "contestedness": 0.04338336322152225,
+      "priority_score": 1.6404192529639408,
+      "contest_score": -0.5430507870014298,
+      "contestedness": 0.0345420374941976,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, expression_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, survival_focused.",
       "signal_count": 1,
       "signals": [
         "Women alleging rape and sexual assault in France call to abolish statute of limitations"
@@ -1507,172 +1484,212 @@
       "falsification": "Signals tied to Women alleging rape and sexual assault in France call to abolish statute of limitations fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "name": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "root_cause": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "id": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
+      "rank": 3,
+      "target": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "name": "Housing board votes to freeze New York rents in victory for Mamdani",
+      "root_cause": "Housing board votes to freeze New York rents in victory for Mamdani",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.448728961155723,
-      "contest_score": -1.152150747234943,
-      "contestedness": 0.020651401655622736,
+      "priority_score": 1.4584357407073272,
+      "contest_score": -0.04794102933030828,
+      "contestedness": 0.055945979897398246,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "IBM hails new 'block of flats' design breakthrough for ultra tiny chips"
+        "Housing board votes to freeze New York rents in victory for Mamdani"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around IBM hails new 'block of flats' design breakthrough for ultra tiny chips is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to IBM hails new 'block of flats' design breakthrough for ultra tiny chips fade or reverse without spillover."
+      "prediction": "Momentum around Housing board votes to freeze New York rents in victory for Mamdani is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Housing board votes to freeze New York rents in victory for Mamdani fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "rank": 5,
-      "target": "Air conditioning creates political divide after France records hottest day",
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "name": "Air conditioning creates political divide after France records hottest day",
-      "root_cause": "Air conditioning creates political divide after France records hottest day",
+      "id": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "name": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "root_cause": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.9695917967462558,
-      "contest_score": 1.011994903012212,
-      "contestedness": 0.08132309921809167,
+      "priority_score": 1.2017791180642994,
+      "contest_score": -0.9363268290169376,
+      "contestedness": 0.028998833207103836,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
       "signal_count": 1,
       "signals": [
-        "Air conditioning creates political divide after France records hottest day"
+        "Israel and Lebanon sign framework agreement after US-brokered talks"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Air conditioning creates political divide after France records hottest day is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Air conditioning creates political divide after France records hottest day fade or reverse without spillover."
+      "prediction": "Momentum around Israel and Lebanon sign framework agreement after US-brokered talks is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Israel and Lebanon sign framework agreement after US-brokered talks fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "rank": 5,
+      "target": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "name": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "root_cause": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.6431513620992666,
+      "contest_score": 0.80891249177089,
+      "contestedness": 0.08333729399144063,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Paris restricts alcohol consumption and sales as Europe's heatwave shifts east is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Paris restricts alcohol consumption and sales as Europe's heatwave shifts east fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Mood: Cautious** — Today's signals suggest a cautiously optimistic structural pattern, with positive developments in energy markets and diplomatic progress, tempered by contested social and environmental signals.\n\nThe most structurally significant signal is the announcement that UN nuclear inspectors will visit Iranian sites as part of a war-related agreement. **This marks a tangible step toward stabilizing a volatile geopolitical situation**, with implications for global security and energy markets. The signal aligns strongly with stability-seeking and survival-focused clusters, underscoring its importance in reducing uncertainty in a region critical to global oil supply chains. Coupled with the drop in oil prices to pre-war levels, this suggests early signs of normalization, though the contestedness of these signals indicates lingering skepticism about the durability of these gains.\n\nAnother notable signal comes from France, where women are calling to abolish the statute of limitations on rape and sexual assault cases. **This reflects a broader societal shift toward accountability and justice**, with strong expression-oriented and survival-focused clusters driving the narrative. While the signal is positive in direction, its relatively high contestedness highlights the challenges of achieving systemic change in entrenched legal frameworks. Similarly, the political divide over air conditioning amid record-breaking heat in France points to growing tensions between immediate survival needs and long-term environmental priorities, as ecosystem-oriented clusters rank lower in this signal.\n\nIBM's breakthrough in chip design, described as a \"block of flats\" innovation, represents a significant achievement-oriented and knowledge-oriented signal. **This development could reshape the tech landscape**, enabling ultra-tiny chips that promise efficiency gains across industries. However, its low contestedness suggests limited immediate impact on broader portfolios, as the innovation remains in early stages of adoption.\n\nLong-term trajectories suggest cautious optimism in energy markets and technology, but persistent social and environmental tensions could undermine stability. The earthquake in Venezuela and heatwave in Europe are stark reminders of the fragility of infrastructure and ecosystems under stress, reinforcing the need for resilience-focused strategies.\n\n**Watch for:** Concrete follow-through on UN inspections in Iran, sustained stability in oil prices, and legislative momentum in France regarding sexual assault laws. Additionally, monitor how IBM's chip innovation translates into commercial applications and whether environmental tensions in Europe escalate further.",
+  "narrative": "🟡 **Cautious mood persists as structural signals reflect incremental progress amidst significant global disruptions.**\n\nToday's signals highlight a mix of positive developments and acute crises, underscoring a fragile balance between progress and instability. While several stories point to steps forward in governance and social justice, the backdrop of humanitarian disasters and geopolitical tensions tempers optimism. The portfolio mood remains cautious, reflecting the contested and uneven nature of the signals.\n\n**1. Structural progress emerges in governance and social justice.** The landmark court case in Sierra Leone addressing child marriage represents a significant step in combating entrenched social injustices, with clear momentum toward positive change. Similarly, the push in France to abolish the statute of limitations for sexual assault cases signals growing societal pressure for accountability and reform. Both signals align with broader trends of increasing global attention to human rights and gender equity, though their contestedness suggests resistance in implementation or cultural acceptance. The freeze on New York rents, a victory for housing advocates, further highlights governance-oriented progress, albeit within localized contexts.\n\n**2. Acute crises dominate the global landscape, overshadowing incremental gains.** The devastating earthquakes in Venezuela, with over 900 fatalities, illustrate the fragility of disaster response systems in vulnerable regions. These events demand immediate humanitarian attention and underscore the structural risks posed by inadequate infrastructure and governance in disaster-prone areas. Meanwhile, escalating tensions in the Strait of Hormuz, marked by U.S. strikes on Iran and accusations of ceasefire breaches, highlight the volatility of geopolitical flashpoints. These developments carry significant implications for energy security and regional stability, with ripple effects on global markets.\n\n**3. Contested signals reveal underlying complexity.** The Paris alcohol restrictions amid Europe's heatwave reflect a governance-oriented response to climate-driven disruptions, but the contestedness of this signal suggests public resistance or implementation challenges. Similarly, the Israel-Lebanon framework agreement, while structurally positive, carries a high contest score, indicating skepticism about its durability or broader impact. These signals reinforce the need to temper optimism with realism, as structural progress often unfolds unevenly.\n\n**4. Longer-term trajectories remain mixed.** The signals collectively point to a world grappling with systemic challenges—climate change, geopolitical instability, and social inequities—while making incremental strides in governance and justice. The contested nature of progress highlights the importance of sustained advocacy and institutional resilience. Structural shifts in housing policy, gender equity, and conflict resolution are promising but require vigilance to ensure their durability.\n\n**Watch for:** Concrete follow-ups on the Israel-Lebanon agreement to assess its implementation and regional impact. Monitor humanitarian responses in Venezuela for signs of international coordination or systemic gaps. Pay attention to evolving narratives around climate adaptation policies in Europe, as heatwaves intensify. These developments will shape the trajectory of global stability in the coming weeks.",
   "noise_filtered": [
-    "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-    "Oil price falls back to pre-Iran war levels",
+    "Four men held over child marriage in Sierra Leone appear in landmark court case",
     "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-    "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-    "Air conditioning creates political divide after France records hottest day",
-    "Philippines bans video game played by alleged high school shooter",
-    "Independent MPs launch new Australian centrist party",
-    "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-    "Ryanair says it will reluctantly not charge parents to sit next to children",
-    "France warns even young people's health at risk as Europe's heatwave shifts east",
-    "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-    "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-    "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
-    "People flee as building collapses on Caracas outskirts",
-    "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-    "Key figure in South Africa police corruption scandal pleads guilty",
-    "Earthquake is devastating blow to Venezuela at time of uncertainty",
-    "Trump asks Congress for billions for Iran war, after tension with Republicans",
-    "Biggest city in Crimea without power after Ukraine strikes",
-    "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants"
+    "Housing board votes to freeze New York rents in victory for Mamdani",
+    "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+    "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+    "Canada eligible to join Eurovision competition",
+    "Mother dies saving daughter in Venezuela earthquakes",
+    "Europe's deadly heatwave breaks German record and halts public events",
+    "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+    "US conducts strikes on Iran after attack on cargo ship",
+    "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+    "Asia stock markets slide as tech shares slump",
+    "Christmas market attacker jailed for life for murdering six in Germany",
+    "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+    "Venezuela earthquakes kill 920 people as families desperate for news",
+    "DR Congo takes Rwanda to international court over decades of conflict",
+    "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+    "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+    "Row over alleged theft of donations from India's landmark Ram temple"
   ],
-  "matured_predictions": [],
+  "matured_predictions": [
+    {
+      "id": "84304395cf7276c0",
+      "created_at": "2026-06-13",
+      "root_cause": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "prediction": "Momentum around Deal to end fighting would lead to Hormuz reopening, Iran says is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-06-27",
+      "falsification": "Signals tied to Deal to end fighting would lead to Hormuz reopening, Iran says fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around the deal to end fighting would lead to the reopening of the Strait of Hormuz has been falsified. Fresh signals indicate escalating tensions, including accusations of ceasefire breaches, military strikes, and attacks on cargo ships in the Strait of Hormuz. These developments contradict the prediction's premise of momentum toward reopening the strait under stable conditions.",
+      "validated_at": "2026-06-26T21:24:12.686816+00:00",
+      "evidence_used": [
+        "Al Jazeera: Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+        "BBC World: US conducts strikes on Iran after attack on cargo ship",
+        "BBC World: Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "BBC World: Oil price falls back to pre-Iran war levels"
+      ]
+    }
+  ],
   "delta": {
     "is_first_run": false,
     "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Stanford graduates rethink their futures as AI transforms tech",
+        "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+        "title": "Oil price falls back to pre-Iran war levels",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "From startups to global spotlight - Indian entrepreneur takes charge of WhatsApp",
+        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+        "title": "Air conditioning creates political divide after France records hottest day",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "France confirms first Ebola case",
+        "title": "Philippines bans video game played by alleged high school shooter",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+        "title": "Independent MPs launch new Australian centrist party",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Why are there holiday delay warnings over the EU's new border system?",
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Blood ties and opportunity: Why more World Cup players than ever are not representing their birth nations",
+        "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+        "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Colombia's left-wing presidential candidate concedes defeat",
+        "title": "People flee as building collapses on Caracas outskirts",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
+        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Kenya to charge students with murder over deadly school fire",
+        "title": "Key figure in South Africa police corruption scandal pleads guilty",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Power outages hit France as it records hottest day since measurements began",
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Biggest city in Crimea without power after Ukraine strikes",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
-    "category_changes": [
-      "UN nuclear chief says inspectors will visit Iran sites as part of war deal: convergent_priority → background_noise",
-      "Air conditioning creates political divide after France records hottest day: convergent_priority → background_noise"
-    ],
+    "category_changes": [],
     "priority_score_changes": [
-      "UN nuclear chief says inspectors will visit Iran sites as part of war deal: 2.44 → 1.89",
-      "Air conditioning creates political divide after France records hottest day: 1.39 → 0.97"
+      "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east: -0.49 → 0.64",
+      "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants: -1.05 → -0.75"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 3 → 0",
-      "Category change — UN nuclear chief says inspectors will visit Iran sites as part of war deal: convergent_priority → background_noise",
-      "Category change — Air conditioning creates political divide after France records hottest day: convergent_priority → background_noise",
-      "Priority score movement — UN nuclear chief says inspectors will visit Iran sites as part of war deal: 2.44 → 1.89",
-      "Priority score movement — Air conditioning creates political divide after France records hottest day: 1.39 → 0.97"
+      "Priority score movement — Paris restricts alcohol consumption and sales as Europe's heatwave shifts east: -0.49 → 0.64",
+      "Priority score movement — Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants: -1.05 → -0.75"
     ],
     "continuing_priorities": [
-      "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "Air conditioning creates political divide after France records hottest day",
-      "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "Biggest city in Crimea without power after Ukraine strikes"
+      "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+      "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+      "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants"
     ],
-    "new_stories": 16,
-    "carried_stories": 4,
+    "new_stories": 18,
+    "carried_stories": 2,
     "total_stories": 20,
-    "summary": "16 priorities dropped: Stanford graduates rethink their futures as AI transforms tech (No longer in today's news feed — story left the RSS cycle); Dozens of ships head through Strait of Hormuz after US-Iran deal (No longer in today's news feed — story left the RSS cycle); From startups to global spotlight - Indian entrepreneur takes charge of WhatsApp (No longer in today's news feed — story left the RSS cycle); Sydney woman wakes from induced coma more than a week after shark attack (No longer in today's news feed — story left the RSS cycle); France confirms first Ebola case (No longer in today's news feed — story left the RSS cycle); Congress passes war powers measure for first time, breaking with Trump over Iran (No longer in today's news feed — story left the RSS cycle); Why are there holiday delay warnings over the EU's new border system? (No longer in today's news feed — story left the RSS cycle); Blood ties and opportunity: Why more World Cup players than ever are not representing their birth nations (No longer in today's news feed — story left the RSS cycle); Germany rail network briefly halted nationwide due to IT malfunction (No longer in today's news feed — story left the RSS cycle); Chinese e-commerce giant Alibaba sues US government over defence blacklist (No longer in today's news feed — story left the RSS cycle); Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot (No longer in today's news feed — story left the RSS cycle); Colombia's left-wing presidential candidate concedes defeat (No longer in today's news feed — story left the RSS cycle); Bondi Beach shooting hero pleads not guilty to alleged assault on his father (No longer in today's news feed — story left the RSS cycle); Kenya to charge students with murder over deadly school fire (No longer in today's news feed — story left the RSS cycle); Power outages hit France as it records hottest day since measurements began (No longer in today's news feed — story left the RSS cycle); French woman allegedly held captive by husband for 12 years rescued in Pakistan (No longer in today's news feed — story left the RSS cycle) · Priority category shifted: UN nuclear chief says inspectors will visit Iran sites as part of war deal: convergent_priority → background_noise; Air conditioning creates political divide after France records hottest day: convergent_priority → background_noise · Priority intensity moved: UN nuclear chief says inspectors will visit Iran sites as part of war deal: 2.44 → 1.89; Air conditioning creates political divide after France records hottest day: 1.39 → 0.97 · Structural shifts: convergent_priority: 3 → 0; Category change — UN nuclear chief says inspectors will visit Iran sites as part of war deal: convergent_priority → background_noise; Category change — Air conditioning creates political divide after France records hottest day: convergent_priority → background_noise; Priority score movement — UN nuclear chief says inspectors will visit Iran sites as part of war deal: 2.44 → 1.89; Priority score movement — Air conditioning creates political divide after France records hottest day: 1.39 → 0.97 · Signal freshness: 16 new, 4 carried, 20 total"
+    "summary": "17 priorities dropped: UN nuclear chief says inspectors will visit Iran sites as part of war deal (No longer in today's news feed — story left the RSS cycle); Oil price falls back to pre-Iran war levels (No longer in today's news feed — story left the RSS cycle); IBM hails new 'block of flats' design breakthrough for ultra tiny chips (No longer in today's news feed — story left the RSS cycle); Air conditioning creates political divide after France records hottest day (No longer in today's news feed — story left the RSS cycle); Philippines bans video game played by alleged high school shooter (No longer in today's news feed — story left the RSS cycle); Independent MPs launch new Australian centrist party (No longer in today's news feed — story left the RSS cycle); Clean sweep for Mamdani-backed candidates in New York's Democratic primary (No longer in today's news feed — story left the RSS cycle); Ryanair says it will reluctantly not charge parents to sit next to children (No longer in today's news feed — story left the RSS cycle); Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities (No longer in today's news feed — story left the RSS cycle); UN pauses Strait of Hormuz evacuation plan after cargo ship attacked (No longer in today's news feed — story left the RSS cycle); Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams? (No longer in today's news feed — story left the RSS cycle); People flee as building collapses on Caracas outskirts (No longer in today's news feed — story left the RSS cycle); Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests (No longer in today's news feed — story left the RSS cycle); Key figure in South Africa police corruption scandal pleads guilty (No longer in today's news feed — story left the RSS cycle); Earthquake is devastating blow to Venezuela at time of uncertainty (No longer in today's news feed — story left the RSS cycle); Trump asks Congress for billions for Iran war, after tension with Republicans (No longer in today's news feed — story left the RSS cycle); Biggest city in Crimea without power after Ukraine strikes (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Paris restricts alcohol consumption and sales as Europe's heatwave shifts east: -0.49 → 0.64; Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants: -1.05 → -0.75 · Structural shifts: Priority score movement — Paris restricts alcohol consumption and sales as Europe's heatwave shifts east: -0.49 → 0.64; Priority score movement — Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants: -1.05 → -0.75 · Signal freshness: 18 new, 2 carried, 20 total"
   }
 }
