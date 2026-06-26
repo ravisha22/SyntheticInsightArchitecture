@@ -243,9 +243,15 @@
       "maturity_date": "2026-06-27",
       "falsification": "Signals tied to Deal to end fighting would lead to Hormuz reopening, Iran says fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around the deal to end fighting would lead to the reopening of the Strait of Hormuz has been falsified. Fresh signals indicate escalating tensions, including accusations of ceasefire breaches, military strikes, and attacks on cargo ships in the Strait of Hormuz. These developments contradict the prediction's premise of momentum toward reopening the strait under stable conditions.",
+      "validated_at": "2026-06-26T21:24:12.686816+00:00",
+      "evidence_used": [
+        "Al Jazeera: Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+        "BBC World: US conducts strikes on Iran after attack on cargo ship",
+        "BBC World: Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "BBC World: Oil price falls back to pre-Iran war levels"
+      ]
     },
     {
       "id": "d5dbff469ee24cfa",
@@ -899,5 +905,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-25T21:49:24.814541+00:00"
+  "last_updated": "2026-06-26T21:24:10.670111+00:00"
 }
