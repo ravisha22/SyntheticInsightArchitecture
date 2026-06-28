@@ -204,9 +204,19 @@
       "maturity_date": "2026-06-29",
       "falsification": "Signals tied to US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating momentum around the US killing the leader of Venezuela's Tren de Aragua gang in an air strike, as stated by Trump. The current signals are dominated by coverage of Venezuela's earthquake and unrelated geopolitical events.",
+      "validated_at": "2026-06-28T21:11:13.281184+00:00",
+      "evidence_used": [
+        "BBC World: Watch: A race against the clock for Venezuela earthquake rescuers",
+        "Al Jazeera: Drone captures ongoing rescue efforts after Venezuela earthquakes",
+        "BBC World: Watch: Inside the Venezuela country club now a makeshift hospital",
+        "BBC World: Newborn baby rescued from Venezuela earthquake rubble",
+        "Al Jazeera: Pope Leo prays for Venezuela’s recovery after deadly quakes",
+        "Al Jazeera: Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+        "BBC World: US and Iran exchange strikes and accuse each other of violating ceasefire",
+        "BBC World: Israel strikes southern Lebanon as Hezbollah condemns new deal"
+      ]
     },
     {
       "id": "d8b0622b366ff605",
@@ -925,5 +935,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-27T21:12:23.279799+00:00"
+  "last_updated": "2026-06-28T21:11:10.717232+00:00"
 }
