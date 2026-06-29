@@ -178,9 +178,14 @@
       "maturity_date": "2026-06-30",
       "falsification": "Signals tied to Trump says deal to end war with Iran already signed and details to be released 'pretty soon' fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around Trump's claim of a deal to end the war with Iran would compound has been falsified. Fresh signals indicate that the US-Iran situation remains unresolved, with continued exchanges of strikes and accusations of ceasefire violations. Additionally, the MoU mentioned in the Al Jazeera article focuses on managing the conflict rather than ending it, contradicting the prediction's premise. No evidence of significant downstream spillover or sustained momentum tied to Trump's claim has emerged.",
+      "validated_at": "2026-06-29T21:40:01.578375+00:00",
+      "evidence_used": [
+        "Al Jazeera: The US-Iran MoU looks at managing the pain rather than ending the war.",
+        "BBC World: US says it has agreed to 'stand down' after exchange of strikes with Iran.",
+        "BBC World: US and Iran exchange strikes and accuse each other of violating ceasefire."
+      ]
     },
     {
       "id": "2e5e77a942446e58",
@@ -191,9 +196,15 @@
       "maturity_date": "2026-06-30",
       "falsification": "Signals tied to Bowen: Iran deal ends Trump's war that revealed limit of US dominance fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "partially_validated",
+      "validation_notes": "The prediction regarding the momentum around Bowen's analysis of the Iran deal and its implications for US dominance is partially validated. While there are fresh signals indicating ongoing US-Iran tensions and related developments, the narrative has not fully compounded as predicted. Some signals suggest a focus on managing the situation rather than resolving it, and there is no clear evidence of widespread downstream spillover or sustained momentum around Bowen's analysis.",
+      "validated_at": "2026-06-29T21:40:03.826201+00:00",
+      "evidence_used": [
+        "BBC World: US and Iran exchange strikes and accuse each other of violating ceasefire",
+        "Al Jazeera: The US-Iran MoU looks at managing the pain rather than ending the war",
+        "BBC World: US says it has agreed to 'stand down' after exchange of strikes with Iran",
+        "Al Jazeera: US petrol prices ease despite ongoing uncertainties with Iran"
+      ]
     },
     {
       "id": "ebaf2bbc3ea1bec0",
@@ -935,5 +946,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-28T21:11:10.717232+00:00"
+  "last_updated": "2026-06-29T21:39:59.069057+00:00"
 }
