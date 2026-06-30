@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "7cbcbe123faeb0c4",
+      "created_at": "2026-07-01",
+      "root_cause": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "prediction": "Momentum around Three-year-old rescued and taken to hospital six days after Venezuela quake is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-15",
+      "falsification": "Signals tied to Three-year-old rescued and taken to hospital six days after Venezuela quake fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "8fadd88fc4282931",
       "created_at": "2026-06-25",
       "root_cause": "Air conditioning creates political divide after France records hottest day",
@@ -165,9 +178,14 @@
       "maturity_date": "2026-07-01",
       "falsification": "Signals tied to Venezuela signs deal with US energy giant to rebuild power grid fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals directly tied to the deal between Venezuela and a US energy giant to rebuild the power grid. Instead, the signals primarily focus on unrelated topics such as natural disasters in Venezuela, political developments in Senegal, and other global news.",
+      "validated_at": "2026-06-30T21:42:34.573607+00:00",
+      "evidence_used": [
+        "Al Jazeera article on US heatwave testing power grid amid AI-driven energy demand, which is unrelated to Venezuela's power grid deal.",
+        "Multiple BBC World articles focusing on the aftermath of a Venezuela earthquake, rescue efforts, and public dissatisfaction with the government's response, none of which mention the power grid deal.",
+        "Other BBC World articles covering global topics such as Senegalese political tensions, corruption in Asia, and US Supreme Court decisions, which are unrelated to the prediction."
+      ]
     },
     {
       "id": "75fbd33fc9c32dc8",
@@ -946,5 +964,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-06-29T21:39:59.069057+00:00"
+  "last_updated": "2026-06-30T21:42:32.077897+00:00"
 }
