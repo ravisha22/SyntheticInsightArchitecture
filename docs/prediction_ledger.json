@@ -66,6 +66,45 @@
       "validated_at": null
     },
     {
+      "id": "9dadf5f72b8a35e0",
+      "created_at": "2026-07-04",
+      "root_cause": "Nasa launches mission to save falling space telescope",
+      "prediction": "Momentum around Nasa launches mission to save falling space telescope is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-18",
+      "falsification": "Signals tied to Nasa launches mission to save falling space telescope fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "6ae49c2699d76bba",
+      "created_at": "2026-07-04",
+      "root_cause": "Venezuela quake survivor pulled out alive after eight days",
+      "prediction": "Momentum around Venezuela quake survivor pulled out alive after eight days is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-18",
+      "falsification": "Signals tied to Venezuela quake survivor pulled out alive after eight days fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "1852b67ae956cbfe",
+      "created_at": "2026-07-04",
+      "root_cause": "Ebola treatments trial begins in DR Congo",
+      "prediction": "Momentum around Ebola treatments trial begins in DR Congo is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-18",
+      "falsification": "Signals tied to Ebola treatments trial begins in DR Congo fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "b02a48e82c627e87",
       "created_at": "2026-07-03",
       "root_cause": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
@@ -1009,5 +1048,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-02T21:16:38.320239+00:00"
+  "last_updated": "2026-07-03T21:15:17.523062+00:00"
 }
