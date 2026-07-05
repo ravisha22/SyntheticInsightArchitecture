@@ -204,9 +204,13 @@
       "maturity_date": "2026-07-06",
       "falsification": "Signals tied to Half of France under red heat alert as alcohol banned at street music festival fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction regarding momentum around 'Half of France under red heat alert as alcohol banned at street music festival' has expired as the timeline of 1-2 weeks has passed without relevant signals or evidence indicating sustained or compounded momentum. The fresh signals provided do not directly relate to the prediction or its root cause.",
+      "validated_at": "2026-07-05T21:10:31.598747+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including articles from BBC World, ABC Australia, and Al Jazeera, which do not mention or connect to the red heat alert or alcohol ban at the street music festival in France.",
+        "Absence of new developments or downstream spillover tied to the prediction within the specified timeline."
+      ]
     },
     {
       "id": "2b6aeff0226bd58a",
@@ -1048,5 +1052,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-04T21:05:51.566170+00:00"
+  "last_updated": "2026-07-05T21:10:29.249381+00:00"
 }
