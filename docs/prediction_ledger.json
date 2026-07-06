@@ -66,6 +66,45 @@
       "validated_at": null
     },
     {
+      "id": "ccbba12c4f8c2f28",
+      "created_at": "2026-07-07",
+      "root_cause": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "prediction": "Momentum around More than 1,000 arrested as part of global human trafficking crackdown is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-21",
+      "falsification": "Signals tied to More than 1,000 arrested as part of global human trafficking crackdown fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "bbc606da916afd9e",
+      "created_at": "2026-07-07",
+      "root_cause": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "prediction": "Momentum around Huge crowds fill Tehran streets for Khamenei's funeral procession is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-21",
+      "falsification": "Signals tied to Huge crowds fill Tehran streets for Khamenei's funeral procession fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "0063cf2cb292ff83",
+      "created_at": "2026-07-07",
+      "root_cause": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "prediction": "Momentum around Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-21",
+      "falsification": "Signals tied to Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "9dadf5f72b8a35e0",
       "created_at": "2026-07-04",
       "root_cause": "Nasa launches mission to save falling space telescope",
@@ -191,9 +230,19 @@
       "maturity_date": "2026-07-07",
       "falsification": "Signals tied to Largest ever cocaine bust in Australia after police raid underground bunker fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction regarding the momentum around the largest ever cocaine bust in Australia did not mature as expected within the specified timeline of 1-2 weeks. Fresh signals indicate no significant media coverage or downstream spillover related to the cocaine bust. Instead, the focus of major outlets has shifted to unrelated topics such as sports events, political apologies, and space discoveries.",
+      "validated_at": "2026-07-06T21:41:35.615381+00:00",
+      "evidence_used": [
+        "BBC World: Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
+        "ABC Australia: 'Truly special': Australia wins T20 World Cup by downing England in final",
+        "BBC World: Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+        "BBC World: Australia space agency has found 'likely source' of mystery space balls",
+        "Al Jazeera: Influencers say they’re ‘honoured’ to attend Khamenei funeral",
+        "Al Jazeera: Belgian football body challenges reversal of Balogun’s World Cup suspension",
+        "ABC Australia: Severe blowback over FIFA's 'shameful, incomprehensible' Balogun decision",
+        "ABC Australia: Molineux proves inspired choice after leading Aussies to World Cup win"
+      ]
     },
     {
       "id": "c87163e04b3e1265",
@@ -1052,5 +1101,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-05T21:10:29.249381+00:00"
+  "last_updated": "2026-07-06T21:41:32.396650+00:00"
 }
