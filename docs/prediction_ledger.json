@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "02787a6ba18e2661",
+      "created_at": "2026-07-08",
+      "root_cause": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "prediction": "Momentum around More than 1,000 arrested as part of global human trafficking crackdown is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-22",
+      "falsification": "Signals tied to More than 1,000 arrested as part of global human trafficking crackdown fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "ccbba12c4f8c2f28",
       "created_at": "2026-07-07",
       "root_cause": "More than 1,000 arrested as part of global human trafficking crackdown",
@@ -1101,5 +1114,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-06T21:41:32.396650+00:00"
+  "last_updated": "2026-07-07T21:36:22.511567+00:00"
 }
