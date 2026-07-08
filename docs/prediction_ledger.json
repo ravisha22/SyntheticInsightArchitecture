@@ -204,9 +204,19 @@
       "maturity_date": "2026-07-09",
       "falsification": "Signals tied to Air conditioning creates political divide after France records hottest day fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals directly related to the political divide caused by air conditioning in France or its compounding momentum were identified. The provided signals focus on unrelated geopolitical, economic, and cultural events.",
+      "validated_at": "2026-07-08T21:16:28.170571+00:00",
+      "evidence_used": [
+        "Al Jazeera: Trump departs NATO summit on older Air Force One",
+        "Al Jazeera: US summer travel slumps under rising fares and fuel expenses",
+        "Al Jazeera: Israeli air strikes in Gaza kill eight, including two children",
+        "Al Jazeera: France returns Syrian artefacts it’s held since civil war",
+        "Al Jazeera: Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+        "ABC Australia: Quick hits: Belgium trolls Trump as Egypt fires up over 'fixed' World Cup",
+        "ABC Australia: Quick hits: American dream comes crashing down, Mbappé hits back at abuse",
+        "BBC World: Khamenei's coffin carried through Shia shrines as ceremonies held in Iraq"
+      ]
     },
     {
       "id": "12d2c4845d5b97d5",
@@ -217,9 +227,10 @@
       "maturity_date": "2026-07-09",
       "falsification": "Signals tied to Stanford graduates rethink their futures as AI transforms tech fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no relevant signals or evidence were found in the provided fresh signals to validate, falsify, or partially validate the prediction. The fresh signals are unrelated to the topic of Stanford graduates rethinking their futures due to AI's transformation of the tech industry.",
+      "validated_at": "2026-07-08T21:16:30.464106+00:00",
+      "evidence_used": "The fresh signals provided are focused on geopolitical events, criminal cases, and unrelated societal issues, with no mention of Stanford graduates, AI, or tech industry transformations. This lack of relevant evidence indicates the prediction has expired without validation or falsification."
     },
     {
       "id": "11455b90f4089c21",
@@ -230,9 +241,15 @@
       "maturity_date": "2026-07-09",
       "falsification": "Signals tied to UN nuclear chief says inspectors will visit Iran sites as part of war deal fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around the UN nuclear chief's statement about inspectors visiting Iran sites as part of a war deal would compound has been falsified. The fresh signals indicate a shift in focus to escalating US-Iran tensions, including military strikes and political rhetoric, rather than sustained or growing momentum around the UN nuclear chief's statement. There is no evidence of downstream spillover or continued relevance of the original topic in the provided signals.",
+      "validated_at": "2026-07-08T21:16:34.753610+00:00",
+      "evidence_used": [
+        "BBC World: US launches new wave of strikes against Iran after promising to 'hit them hard'",
+        "Al Jazeera: US says conducting new wave of strikes on Iran as ceasefire falters",
+        "BBC World: US strikes target Iranian military boats",
+        "Al Jazeera: Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target"
+      ]
     },
     {
       "id": "9c779015984e968c",
@@ -1114,5 +1131,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-07T21:36:22.511567+00:00"
+  "last_updated": "2026-07-08T21:16:24.443123+00:00"
 }
