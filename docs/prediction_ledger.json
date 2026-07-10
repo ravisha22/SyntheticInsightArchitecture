@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "7de9c02f44b009d9",
+      "created_at": "2026-07-11",
+      "root_cause": "Pressure builds on Europe's biggest port to be greener",
+      "prediction": "Momentum around Pressure builds on Europe's biggest port to be greener is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-25",
+      "falsification": "Signals tied to Pressure builds on Europe's biggest port to be greener fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "02787a6ba18e2661",
       "created_at": "2026-07-08",
       "root_cause": "More than 1,000 arrested as part of global human trafficking crackdown",
@@ -1131,5 +1144,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-09T21:28:05.372917+00:00"
+  "last_updated": "2026-07-10T21:12:49.817954+00:00"
 }
