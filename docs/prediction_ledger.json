@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "853086d51f533e15",
+      "created_at": "2026-07-13",
+      "root_cause": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "prediction": "Momentum around China evacuates nearly two million people as powerful typhoon makes landfall is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-27",
+      "falsification": "Signals tied to China evacuates nearly two million people as powerful typhoon makes landfall fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "7de9c02f44b009d9",
       "created_at": "2026-07-11",
       "root_cause": "Pressure builds on Europe's biggest port to be greener",
@@ -1144,5 +1157,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-11T20:58:52.428445+00:00"
+  "last_updated": "2026-07-12T20:59:31.428381+00:00"
 }
