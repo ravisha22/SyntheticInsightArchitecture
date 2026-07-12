@@ -1,42 +1,98 @@
 {
-  "report_date": "2026-07-12",
-  "generated_at": "2026-07-11T20:58:52.430243+00:00",
+  "report_date": "2026-07-13",
+  "generated_at": "2026-07-12T20:59:31.429821+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "China's second typhoon in a week makes landfall",
-      "body": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "body": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 17:41:56 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 20:13:14 GMT"
     },
     {
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "body": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "body": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 19:30:36 GMT"
+      "published": "Sun, 12 Jul 2026 16:46:24 GMT"
     },
     {
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "body": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "body": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 15:03:45 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 17:40:34 GMT"
     },
     {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "body": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "body": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 16:11:33 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 19:42:26 GMT"
+    },
+    {
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "body": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 13:35:01 GMT"
+    },
+    {
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "body": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 07:39:45 GMT"
+    },
+    {
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "body": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 15:22:52 GMT"
+    },
+    {
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "body": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+    },
+    {
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "body": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 16:35:50 GMT"
+    },
+    {
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "body": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 18:57:17 GMT"
+    },
+    {
+      "title": "At least two killed in Toronto street festival shooting",
+      "body": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+    },
+    {
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "body": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 00:49:24 GMT"
     },
     {
       "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "body": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 19:32:07 GMT"
+      "published": "Sat, 11 Jul 2026 21:56:52 GMT"
     },
     {
       "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
@@ -44,6 +100,13 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Jul 2026 18:00:09 GMT"
+    },
+    {
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "body": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 16:11:33 GMT"
     },
     {
       "title": "South Africa World Cup midfielder Adams dies aged 25",
@@ -67,81 +130,18 @@
       "published": "Sat, 11 Jul 2026 13:44:03 GMT"
     },
     {
-      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-      "body": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "body": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 13:11:52 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 05:00:15 GMT"
     },
     {
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "body": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "body": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 13:35:09 GMT"
-    },
-    {
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "body": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 08:23:45 GMT"
-    },
-    {
-      "title": "Australian killer's final police interview footage released",
-      "body": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 08:00:27 GMT"
-    },
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "body": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 01:45:59 GMT"
-    },
-    {
-      "title": "Small plane crash in Bahamas kills 10 people",
-      "body": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 04:47:37 GMT"
-    },
-    {
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "body": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 22:54:16 GMT"
-    },
-    {
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "body": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 22:38:03 GMT"
-    },
-    {
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "body": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 19:30:06 GMT"
-    },
-    {
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "body": "They think democracy has run its course - so they're setting up their own nations instead.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 23:03:11 GMT"
-    },
-    {
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "body": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 23:02:59 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 23:27:31 GMT"
     }
   ],
   "signals": [
@@ -149,54 +149,134 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "China's second typhoon in a week makes landfall",
-      "body": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "body": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 17:41:56 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 20:13:14 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "body": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "body": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 19:30:36 GMT"
+      "published": "Sun, 12 Jul 2026 16:46:24 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "body": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "body": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 15:03:45 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 17:40:34 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "body": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "body": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 16:11:33 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 19:42:26 GMT"
     },
     {
       "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "body": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 13:35:01 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "body": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 07:39:45 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "body": "One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 15:22:52 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "body": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 23:58:40 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "body": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 16:35:50 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "body": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 18:57:17 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "At least two killed in Toronto street festival shooting",
+      "body": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 03:56:02 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "body": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 00:49:24 GMT"
+    },
+    {
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "body": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 19:32:07 GMT"
+      "published": "Sat, 11 Jul 2026 21:56:52 GMT"
     },
     {
-      "number": 6,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
@@ -206,7 +286,17 @@
       "published": "Sat, 11 Jul 2026 18:00:09 GMT"
     },
     {
-      "number": 7,
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "body": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 16:11:33 GMT"
+    },
+    {
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "South Africa World Cup midfielder Adams dies aged 25",
@@ -216,7 +306,7 @@
       "published": "Sat, 11 Jul 2026 14:47:47 GMT"
     },
     {
-      "number": 8,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
@@ -226,7 +316,7 @@
       "published": "Sat, 11 Jul 2026 14:19:34 GMT"
     },
     {
-      "number": 9,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
@@ -236,153 +326,27 @@
       "published": "Sat, 11 Jul 2026 13:44:03 GMT"
     },
     {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-      "body": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 13:11:52 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "body": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 13:35:09 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "body": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 08:23:45 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Australian killer's final police interview footage released",
-      "body": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 08:00:27 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "body": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 01:45:59 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Small plane crash in Bahamas kills 10 people",
-      "body": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 04:47:37 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "body": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 22:54:16 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "body": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 22:38:03 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "body": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 19:30:06 GMT"
-    },
-    {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "body": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "body": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 23:03:11 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 05:00:15 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "body": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "body": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 23:02:59 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 23:27:31 GMT"
     }
   ],
   "priorities": [
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 3.2189827918892826,
-      "contest_score": -0.3637797030783711,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.0857095995595967,
-      "contestedness": 0.03710759511440287,
-      "impact": 0.5950000000000001,
-      "top_clusters": {
-        "stability_seeking": 1.1529388326471013,
-        "achievement_oriented": 1.1438367065785093
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.9981672465253761
-      },
-      "cluster_means": {
-        "survival_focused": 1.1086772455841325,
-        "stability_seeking": 1.1529388326471013,
-        "achievement_oriented": 1.1438367065785093,
-        "care_oriented": 1.1067291114641065,
-        "knowledge_oriented": 1.0354517947649664,
-        "governance_oriented": 1.1433504052180319,
-        "sovereignty_order_oriented": 1.0766039434421157,
-        "expression_oriented": 0.9981672465253761,
-        "ecosystem_oriented": 1.005631109812029
-      },
-      "priority_raw": 0.5813974905641641,
-      "contest_raw": 0.02207901909306971
-    },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
@@ -390,8 +354,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.5878759191386056,
-      "contest_score": 0.6345743170892674,
+      "priority_score": 2.9542148789123384,
+      "contest_score": 0.178781301427249,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -420,112 +384,148 @@
       "contest_raw": 0.03909016222984451
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.004561644265902954,
-      "contest_score": 1.000018668741072,
-      "category": "background_noise",
+      "priority_score": 2.4754842732355202,
+      "contest_score": 2.7085694952220734,
+      "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.43110117102097084,
-      "contestedness": 0.0676373697250563,
-      "impact": 0.6699999999999999,
+      "central_tendency": 0.6896571376058355,
+      "contestedness": 0.1261474320091618,
+      "impact": 0.78,
       "top_clusters": {
-        "achievement_oriented": 0.5898956658668718,
-        "expression_oriented": 0.5277505066164325
+        "care_oriented": 0.8951735242834342,
+        "governance_oriented": 0.8140854572840879
       },
       "bottom_clusters": {
-        "governance_oriented": 0.27329009514734387
+        "sovereignty_order_oriented": 0.5266157930562737
       },
       "cluster_means": {
-        "survival_focused": 0.4337545520952778,
-        "stability_seeking": 0.38036864311665874,
-        "achievement_oriented": 0.5898956658668718,
-        "care_oriented": 0.3008071049683246,
-        "knowledge_oriented": 0.5013919218203341,
-        "governance_oriented": 0.27329009514734387,
-        "sovereignty_order_oriented": 0.43181402486404663,
-        "expression_oriented": 0.5277505066164325,
-        "ecosystem_oriented": 0.4408380246934476
+        "survival_focused": 0.5435998103539452,
+        "stability_seeking": 0.6245076138575409,
+        "achievement_oriented": 0.5355557171291532,
+        "care_oriented": 0.8951735242834342,
+        "knowledge_oriented": 0.7532792640984818,
+        "governance_oriented": 0.8140854572840879,
+        "sovereignty_order_oriented": 0.5266157930562737,
+        "expression_oriented": 0.7634420125229004,
+        "ecosystem_oriented": 0.7506550458667027
       },
-      "priority_raw": 0.11553511383362017,
-      "contest_raw": 0.04531703771578771
+      "priority_raw": 0.43034605386604136,
+      "contest_raw": 0.0983949969671462
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.007537743232589245,
-      "contest_score": -0.21047962492752542,
+      "priority_score": 0.7987133496472361,
+      "contest_score": -0.6890633072507042,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3857002151053103,
-      "contestedness": 0.04184936973591624,
-      "impact": 0.59,
+      "central_tendency": 0.8118847455180842,
+      "contestedness": 0.04119916626508657,
+      "impact": 0.455,
       "top_clusters": {
-        "expression_oriented": 0.5211108063336978,
-        "knowledge_oriented": 0.49154584407276797
+        "achievement_oriented": 0.8924059706270402,
+        "stability_seeking": 0.8571355439317054
       },
       "bottom_clusters": {
-        "governance_oriented": 0.3053019900757126
+        "ecosystem_oriented": 0.7477220948919636
       },
       "cluster_means": {
-        "survival_focused": 0.3358258452818571,
-        "stability_seeking": 0.35493537425895655,
-        "achievement_oriented": 0.42192840359189976,
-        "care_oriented": 0.3191724756989101,
-        "knowledge_oriented": 0.49154584407276797,
-        "governance_oriented": 0.3053019900757126,
-        "sovereignty_order_oriented": 0.3246964526391182,
-        "expression_oriented": 0.5211108063336978,
-        "ecosystem_oriented": 0.3967847439948728
+        "survival_focused": 0.7646455882084777,
+        "stability_seeking": 0.8571355439317054,
+        "achievement_oriented": 0.8924059706270402,
+        "care_oriented": 0.8058447544735643,
+        "knowledge_oriented": 0.8244440395390886,
+        "governance_oriented": 0.8557712381571627,
+        "sovereignty_order_oriented": 0.7689537308560294,
+        "expression_oriented": 0.7900397489777264,
+        "ecosystem_oriented": 0.7477220948919636
       },
-      "priority_raw": 0.11378156345606652,
-      "contest_raw": 0.024691128144190583
+      "priority_raw": 0.22164453552643698,
+      "contest_raw": 0.01874562065061439
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.013727793272776657,
-      "contest_score": -0.9752849270720454,
+      "priority_score": 0.484302595384391,
+      "contest_score": -0.6837184285199881,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7055277911921103,
-      "contestedness": 0.029148664560712856,
-      "impact": 0.4,
+      "central_tendency": 0.4771528986281206,
+      "contestedness": 0.02466786738729665,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.8043717088427831,
-        "knowledge_oriented": 0.7872770166989349
+        "knowledge_oriented": 0.5175421648233752,
+        "expression_oriented": 0.5136298465927943
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6101799147833913
+        "survival_focused": 0.42251423686234474
       },
       "cluster_means": {
-        "survival_focused": 0.6468073655180995,
-        "stability_seeking": 0.7152790713123753,
-        "achievement_oriented": 0.6989790211927343,
-        "care_oriented": 0.6698303566320214,
-        "knowledge_oriented": 0.7872770166989349,
-        "governance_oriented": 0.6953972622148631,
-        "sovereignty_order_oriented": 0.6101799147833913,
-        "expression_oriented": 0.8043717088427831,
-        "ecosystem_oriented": 0.7216284035337897
+        "survival_focused": 0.42251423686234474,
+        "stability_seeking": 0.42735677614184975,
+        "achievement_oriented": 0.4673749742471544,
+        "care_oriented": 0.4928742974360786,
+        "knowledge_oriented": 0.5175421648233752,
+        "governance_oriented": 0.49456081739210966,
+        "sovereignty_order_oriented": 0.45803144077066416,
+        "expression_oriented": 0.5136298465927943,
+        "ecosystem_oriented": 0.5004915333867146
       },
-      "priority_raw": 0.11288444659073765,
-      "contest_raw": 0.011659465824285143
+      "priority_raw": 0.18251098372525612,
+      "contest_raw": 0.018870918551281937
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.28868443448809417,
+      "contest_score": 0.25807373981294146,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.5185675728316271,
+      "contestedness": 0.06712948169885202,
+      "impact": 0.6100000000000001,
+      "top_clusters": {
+        "survival_focused": 0.6066421170849856,
+        "sovereignty_order_oriented": 0.5939131112214125
+      },
+      "bottom_clusters": {
+        "care_oriented": 0.4225361424402089
+      },
+      "cluster_means": {
+        "survival_focused": 0.6066421170849856,
+        "stability_seeking": 0.5720780134994785,
+        "achievement_oriented": 0.5762734416587114,
+        "care_oriented": 0.4225361424402089,
+        "knowledge_oriented": 0.5037061310767852,
+        "governance_oriented": 0.43492673677368365,
+        "sovereignty_order_oriented": 0.5939131112214125,
+        "expression_oriented": 0.5120809717141152,
+        "ecosystem_oriented": 0.44495149001526313
+      },
+      "priority_raw": 0.1581631097136463,
+      "contest_raw": 0.04094898383629974
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
@@ -534,8 +534,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.02431688166221052,
-      "contest_score": 1.6925493794698108,
+      "priority_score": -0.08742795389604228,
+      "contest_score": 0.9477672784988116,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -564,256 +564,184 @@
       "contest_raw": 0.05711719959107199
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "title": "China's second typhoon in a week makes landfall",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.030742456304811094,
-      "contest_score": 1.5836679288971867,
+      "priority_score": -0.1606566117585866,
+      "contest_score": -0.35295153694419734,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2022317416806088,
-      "contestedness": 0.0708486512098023,
-      "impact": 0.78,
+      "central_tendency": 0.34656027134665657,
+      "contestedness": 0.045127046378878655,
+      "impact": 0.59,
       "top_clusters": {
-        "expression_oriented": 0.351224042764528,
-        "knowledge_oriented": 0.3249355174611379
+        "expression_oriented": 0.5052942862465363,
+        "knowledge_oriented": 0.46593775419962724
       },
       "bottom_clusters": {
-        "survival_focused": 0.06732848992183535
+        "governance_oriented": 0.2607696702520492
       },
       "cluster_means": {
-        "survival_focused": 0.06732848992183535,
-        "stability_seeking": 0.13474605241027207,
-        "achievement_oriented": 0.22507873951834967,
-        "care_oriented": 0.18312737963307268,
-        "knowledge_oriented": 0.3249355174611379,
-        "governance_oriented": 0.20559470362007437,
-        "sovereignty_order_oriented": 0.12215097797023572,
-        "expression_oriented": 0.351224042764528,
-        "ecosystem_oriented": 0.2058997718259733
+        "survival_focused": 0.28003457178929114,
+        "stability_seeking": 0.3058967166309279,
+        "achievement_oriented": 0.3814070875499078,
+        "care_oriented": 0.2856705098137755,
+        "knowledge_oriented": 0.46593775419962724,
+        "governance_oriented": 0.2607696702520492,
+        "sovereignty_order_oriented": 0.2658667546144949,
+        "expression_oriented": 0.5052942862465363,
+        "ecosystem_oriented": 0.3681650910232992
       },
-      "priority_raw": 0.1104185309576124,
-      "contest_raw": 0.05526194794364579
+      "priority_raw": 0.10223528004726368,
+      "contest_raw": 0.026624957363538405
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
-      "title": "Small plane crash in Bahamas kills 10 people",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.10043050529700703,
-      "contest_score": -0.1994782633927828,
+      "priority_score": -0.24290980962056732,
+      "contest_score": 1.0124095941889337,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.18698684270856913,
+      "contestedness": 0.07150315134594346,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.37282215008970226,
+        "knowledge_oriented": 0.31195348152183755
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.04870890510510442
+      },
+      "cluster_means": {
+        "survival_focused": 0.04870890510510442,
+        "stability_seeking": 0.09280917802072372,
+        "achievement_oriented": 0.14950222680117217,
+        "care_oriented": 0.21751762708549202,
+        "knowledge_oriented": 0.31195348152183755,
+        "governance_oriented": 0.1517935849492183,
+        "sovereignty_order_oriented": 0.08029043360327484,
+        "expression_oriented": 0.37282215008970226,
+        "ecosystem_oriented": 0.25111908760039325
+      },
+      "priority_raw": 0.09199752661261602,
+      "contest_raw": 0.05863258410367364
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2782034122843999,
+      "contest_score": 0.2657400069847355,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.1691209681794886,
+      "contestedness": 0.055579325861955575,
+      "impact": 0.74,
+      "top_clusters": {
+        "expression_oriented": 0.36628278285603955,
+        "knowledge_oriented": 0.3017693782592993
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.058225618736343715
+      },
+      "cluster_means": {
+        "survival_focused": 0.058225618736343715,
+        "stability_seeking": 0.10096185647238906,
+        "achievement_oriented": 0.165306280061819,
+        "care_oriented": 0.134845367736636,
+        "knowledge_oriented": 0.3017693782592993,
+        "governance_oriented": 0.11454766935699479,
+        "sovereignty_order_oriented": 0.06929598581408589,
+        "expression_oriented": 0.36628278285603955,
+        "ecosystem_oriented": 0.19042469359859157
+      },
+      "priority_raw": 0.0876046615169751,
+      "contest_raw": 0.041128701137847126
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.30787374588439886,
+      "contest_score": -1.0314635619363421,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.255263923163109,
-      "contestedness": 0.037982568589198046,
-      "impact": 0.655,
+      "central_tendency": 0.3771312542396171,
+      "contestedness": 0.024087338110188428,
+      "impact": 0.445,
       "top_clusters": {
-        "expression_oriented": 0.42286097281495527,
-        "knowledge_oriented": 0.3704062974026159
+        "achievement_oriented": 0.43552719267794415,
+        "expression_oriented": 0.42926292602740274
       },
       "bottom_clusters": {
-        "survival_focused": 0.17297342059054155
+        "ecosystem_oriented": 0.32710384662703945
       },
       "cluster_means": {
-        "survival_focused": 0.17297342059054155,
-        "stability_seeking": 0.21020602449325676,
-        "achievement_oriented": 0.23495522397976482,
-        "care_oriented": 0.20059147120431878,
-        "knowledge_oriented": 0.3704062974026159,
-        "governance_oriented": 0.21842710356484035,
-        "sovereignty_order_oriented": 0.1804445349756423,
-        "expression_oriented": 0.42286097281495527,
-        "ecosystem_oriented": 0.2865102594420447
+        "survival_focused": 0.34662676733925946,
+        "stability_seeking": 0.3941109785555017,
+        "achievement_oriented": 0.43552719267794415,
+        "care_oriented": 0.34305295010555004,
+        "knowledge_oriented": 0.4254782481857563,
+        "governance_oriented": 0.3511911847372279,
+        "sovereignty_order_oriented": 0.3418271939008723,
+        "expression_oriented": 0.42926292602740274,
+        "ecosystem_oriented": 0.32710384662703945
       },
-      "priority_raw": 0.10031872180310183,
-      "contest_raw": 0.024878582425924722
+      "priority_raw": 0.0839117040683148,
+      "contest_raw": 0.01071886545903385
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "title": "Meta pulls new AI image feature after days of backlash",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.15196086501226408,
-      "contest_score": -0.6196402966050402,
+      "priority_score": -0.3331302573233494,
+      "contest_score": 1.595897128342743,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2691318428021404,
-      "contestedness": 0.030816281749366736,
-      "impact": 0.575,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.16416284319665908,
+      "contestedness": 0.08818421225844691,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.32298536290895746,
-        "knowledge_oriented": 0.30686037463142707
+        "expression_oriented": 0.34719659474721865,
+        "knowledge_oriented": 0.27771898665866596
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.20745121693417595
+        "survival_focused": 0.03290781678560656
       },
       "cluster_means": {
-        "survival_focused": 0.24868802580387717,
-        "stability_seeking": 0.28556220017598233,
-        "achievement_oriented": 0.286480027866677,
-        "care_oriented": 0.2795043075532439,
-        "knowledge_oriented": 0.30686037463142707,
-        "governance_oriented": 0.24841520412534035,
-        "sovereignty_order_oriented": 0.23623986521958232,
-        "expression_oriented": 0.32298536290895746,
-        "ecosystem_oriented": 0.20745121693417595
+        "survival_focused": 0.03290781678560656,
+        "stability_seeking": 0.0737758817231865,
+        "achievement_oriented": 0.1476785748742988,
+        "care_oriented": 0.16239246601106244,
+        "knowledge_oriented": 0.27771898665866596,
+        "governance_oriented": 0.09346662460636587,
+        "sovereignty_order_oriented": 0.05949436261585189,
+        "expression_oriented": 0.34719659474721865,
+        "ecosystem_oriented": 0.2477716416831072
       },
-      "priority_raw": 0.09285048576673843,
-      "contest_raw": 0.01771936200588587
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.26025715528386123,
-      "contest_score": -0.8678237034263653,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2593453055671416,
-      "contestedness": 0.022673139422279,
-      "impact": 0.595,
-      "top_clusters": {
-        "expression_oriented": 0.3542729787012896,
-        "knowledge_oriented": 0.3201495674136311
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.21098314783737923
-      },
-      "cluster_means": {
-        "survival_focused": 0.22556923314558236,
-        "stability_seeking": 0.2442349265171752,
-        "achievement_oriented": 0.22227085303940963,
-        "care_oriented": 0.2911563455297619,
-        "knowledge_oriented": 0.3201495674136311,
-        "governance_oriented": 0.22139877924888318,
-        "sovereignty_order_oriented": 0.21098314783737923,
-        "expression_oriented": 0.3542729787012896,
-        "ecosystem_oriented": 0.24407191867116218
-      },
-      "priority_raw": 0.07715522840622462,
-      "contest_raw": 0.013490517956256004
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.33378945241587643,
-      "contest_score": -0.5230840564205629,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.24859168886016528,
-      "contestedness": 0.0361955178698353,
-      "impact": 0.5349999999999999,
-      "top_clusters": {
-        "achievement_oriented": 0.32129790288832216,
-        "expression_oriented": 0.3006058452278511
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.19026330740204914
-      },
-      "cluster_means": {
-        "survival_focused": 0.2219893742431051,
-        "stability_seeking": 0.2212910232526509,
-        "achievement_oriented": 0.32129790288832216,
-        "care_oriented": 0.206240324690873,
-        "knowledge_oriented": 0.2776411214997252,
-        "governance_oriented": 0.19026330740204914,
-        "sovereignty_order_oriented": 0.22645882527188443,
-        "expression_oriented": 0.3006058452278511,
-        "ecosystem_oriented": 0.27153747526502653
-      },
-      "priority_raw": 0.0664982767700942,
-      "contest_raw": 0.01936460206036188
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.34317139120299306,
-      "contest_score": 0.6829500352913305,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.16702195672582057,
-      "contestedness": 0.051172365704808986,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.29988757781995407,
-        "knowledge_oriented": 0.26293976100145955
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.08842627026922664
-      },
-      "cluster_means": {
-        "survival_focused": 0.08842627026922664,
-        "stability_seeking": 0.09760835826768102,
-        "achievement_oriented": 0.16460448938623592,
-        "care_oriented": 0.17299713184151566,
-        "knowledge_oriented": 0.26293976100145955,
-        "governance_oriented": 0.1285417438484906,
-        "sovereignty_order_oriented": 0.11343212368142694,
-        "expression_oriented": 0.29988757781995407,
-        "ecosystem_oriented": 0.1747601544163947
-      },
-      "priority_raw": 0.06513856312307002,
-      "contest_raw": 0.03991444524975101
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.48129389702348735,
-      "contest_score": 1.3655137624130051,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.1179624221990155,
-      "contestedness": 0.06737879451583959,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.2705630811960048,
-        "knowledge_oriented": 0.1931153310897443
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.011660304012923367
-      },
-      "cluster_means": {
-        "survival_focused": -0.011660304012923367,
-        "stability_seeking": 0.00047141308108045177,
-        "achievement_oriented": 0.06188894573023415,
-        "care_oriented": 0.09778783208065125,
-        "knowledge_oriented": 0.1931153310897443,
-        "governance_oriented": 0.0002620760579470083,
-        "sovereignty_order_oriented": -0.0054898487856054334,
-        "expression_oriented": 0.2705630811960048,
-        "ecosystem_oriented": 0.17060201027723146
-      },
-      "priority_raw": 0.04512062649112343,
-      "contest_raw": 0.05154477780461728
+      "priority_raw": 0.08076811885275627,
+      "contest_raw": 0.07231105405192648
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
@@ -822,70 +750,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5319856902244597,
-      "contest_score": -0.762589689843058,
+      "priority_score": -0.342727048311402,
+      "contest_score": -0.2775601418952075,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.7777777777777778,
-      "central_tendency": 0.1176757723975063,
-      "contestedness": 0.02856751445675902,
-      "impact": 0.535,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.1790183161439766,
+      "contestedness": 0.044712328090558195,
+      "impact": 0.635,
       "top_clusters": {
-        "expression_oriented": 0.26768580840444184,
-        "knowledge_oriented": 0.2241270525399869
+        "expression_oriented": 0.35254649328327703,
+        "knowledge_oriented": 0.3112882736700261
       },
       "bottom_clusters": {
-        "survival_focused": -0.04511592222366431
+        "survival_focused": 0.04609694367361997
       },
       "cluster_means": {
-        "survival_focused": -0.04511592222366431,
-        "stability_seeking": 0.04830779096510926,
-        "achievement_oriented": 0.10070339282960342,
-        "care_oriented": 0.07687530542186828,
-        "knowledge_oriented": 0.2241270525399869,
-        "governance_oriented": 0.07057547919180467,
-        "sovereignty_order_oriented": -0.027047726229882607,
-        "expression_oriented": 0.26768580840444184,
-        "ecosystem_oriented": 0.10197339642861276
+        "survival_focused": 0.04609694367361997,
+        "stability_seeking": 0.13857596373061887,
+        "achievement_oriented": 0.20003112392204034,
+        "care_oriented": 0.148483324015254,
+        "knowledge_oriented": 0.3112882736700261,
+        "governance_oriented": 0.15531879583148214,
+        "sovereignty_order_oriented": 0.07086669899157869,
+        "expression_oriented": 0.35254649328327703,
+        "ecosystem_oriented": 0.18277514491239494
       },
-      "priority_raw": 0.037773922939599525,
-      "contest_raw": 0.015283620234366078
+      "priority_raw": 0.0795736415259976,
+      "contest_raw": 0.028392328337504453
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran supreme leader calls for revenge for father's killing",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5369121489319203,
-      "contest_score": 1.8017851395335729,
+      "priority_score": -0.4572712412450229,
+      "contest_score": 0.017366265254616417,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.75,
-      "central_tendency": 0.11802527681348904,
-      "contestedness": 0.07513183233756436,
-      "impact": 0.785,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.1814354070405484,
+      "contestedness": 0.0490363509687691,
+      "impact": 0.72,
       "top_clusters": {
-        "expression_oriented": 0.2482806027927901,
-        "knowledge_oriented": 0.1910488085760071
+        "expression_oriented": 0.2956791496055767,
+        "knowledge_oriented": 0.26061887303256825
       },
       "bottom_clusters": {
-        "stability_seeking": -0.009895362049570366
+        "survival_focused": 0.09255344253713804
       },
       "cluster_means": {
-        "survival_focused": 0.00014964929424418627,
-        "stability_seeking": -0.009895362049570366,
-        "achievement_oriented": 0.10669940025937315,
-        "care_oriented": 0.11579360428943236,
-        "knowledge_oriented": 0.1910488085760071,
-        "governance_oriented": 0.031932623210642164,
-        "sovereignty_order_oriented": 0.039329043456075186,
-        "expression_oriented": 0.2482806027927901,
-        "ecosystem_oriented": 0.1818312325969375
+        "survival_focused": 0.09255344253713804,
+        "stability_seeking": 0.1245417820180224,
+        "achievement_oriented": 0.19142074798610906,
+        "care_oriented": 0.1738853652086562,
+        "knowledge_oriented": 0.26061887303256825,
+        "governance_oriented": 0.1396685594184578,
+        "sovereignty_order_oriented": 0.13162902738098176,
+        "expression_oriented": 0.2956791496055767,
+        "ecosystem_oriented": 0.2229217161774253
       },
-      "priority_raw": 0.037059936919435564,
-      "contest_raw": 0.05897848838498802
+      "priority_raw": 0.06531674653459742,
+      "contest_raw": 0.03530617269751375
     },
     {
       "signal_id": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
@@ -894,34 +822,142 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5371267000568715,
-      "contest_score": -0.5703630286936219,
+      "priority_score": -0.5192546849909526,
+      "contest_score": -0.27928594337692275,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.28483724823489415,
-      "contestedness": 0.028552318003003507,
-      "impact": 0.65,
+      "central_tendency": 0.268540302783743,
+      "contestedness": 0.03965296650162742,
+      "impact": 0.7150000000000001,
       "top_clusters": {
-        "expression_oriented": 0.444915211214609,
-        "knowledge_oriented": 0.38405537256726047
+        "expression_oriented": 0.4440924270543205,
+        "knowledge_oriented": 0.38462779759742066
       },
       "bottom_clusters": {
-        "governance_oriented": 0.17781200768300284
+        "governance_oriented": 0.14868560476852113
       },
       "cluster_means": {
-        "survival_focused": 0.24868027584490643,
-        "stability_seeking": 0.22484280453317712,
-        "achievement_oriented": 0.26626690103163553,
-        "care_oriented": 0.25339512253618063,
-        "knowledge_oriented": 0.38405537256726047,
-        "governance_oriented": 0.17781200768300284,
-        "sovereignty_order_oriented": 0.22673559625716477,
-        "expression_oriented": 0.444915211214609,
-        "ecosystem_oriented": 0.3368319424461105
+        "survival_focused": 0.22095676327388297,
+        "stability_seeking": 0.1975159612644307,
+        "achievement_oriented": 0.2606097297755104,
+        "care_oriented": 0.2148212656127616,
+        "knowledge_oriented": 0.38462779759742066,
+        "governance_oriented": 0.14868560476852113,
+        "sovereignty_order_oriented": 0.21576035863029683,
+        "expression_oriented": 0.4440924270543205,
+        "ecosystem_oriented": 0.3297928170765429
       },
-      "priority_raw": 0.03702884227053624,
-      "contest_raw": 0.01855900670195228
+      "priority_raw": 0.05760189494711288,
+      "contest_raw": 0.02835187104866361
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "title": "At least two killed in Toronto street festival shooting",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5326314644722487,
+      "contest_score": 1.0417759997632998,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6666666666666666,
+      "central_tendency": 0.14681610586853386,
+      "contestedness": 0.09341891221837496,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.35140503452739336,
+        "knowledge_oriented": 0.2788009159869593
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.05388289034317578
+      },
+      "cluster_means": {
+        "survival_focused": -0.05388289034317578,
+        "stability_seeking": 0.016418321845507317,
+        "achievement_oriented": 0.08097000726857906,
+        "care_oriented": 0.04845741645149869,
+        "knowledge_oriented": 0.2788009159869593,
+        "governance_oriented": 0.026489739188119615,
+        "sovereignty_order_oriented": -0.044961495766876275,
+        "expression_oriented": 0.35140503452739336,
+        "ecosystem_oriented": 0.16137889168207198
+      },
+      "priority_raw": 0.055936936335911396,
+      "contest_raw": 0.0593210092586681
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5631675687655963,
+      "contest_score": -0.8672582101491324,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.43811949234362546,
+      "contestedness": 0.02448448280417581,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.558551367546775,
+        "knowledge_oriented": 0.5142470573864736
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.3174529224394498
+      },
+      "cluster_means": {
+        "survival_focused": 0.4362680059167853,
+        "stability_seeking": 0.4054134231354741,
+        "achievement_oriented": 0.4191209127886907,
+        "care_oriented": 0.39463642998451487,
+        "knowledge_oriented": 0.5142470573864736,
+        "governance_oriented": 0.3174529224394498,
+        "sovereignty_order_oriented": 0.40447377382959393,
+        "expression_oriented": 0.558551367546775,
+        "ecosystem_oriented": 0.49291153806487165
+      },
+      "priority_raw": 0.05213621958889143,
+      "contest_raw": 0.014568267268484607
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5880749433411944,
+      "contest_score": -0.8044737046650231,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4457826377853531,
+      "contestedness": 0.029163817933410663,
+      "impact": 0.55,
+      "top_clusters": {
+        "expression_oriented": 0.5520843576572386,
+        "knowledge_oriented": 0.5189471076510298
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.37538610292090335
+      },
+      "cluster_means": {
+        "survival_focused": 0.4144689213237037,
+        "stability_seeking": 0.4173783040691301,
+        "achievement_oriented": 0.42551468579888935,
+        "care_oriented": 0.4340669864653452,
+        "knowledge_oriented": 0.5189471076510298,
+        "governance_oriented": 0.37538610292090335,
+        "sovereignty_order_oriented": 0.3963508678654787,
+        "expression_oriented": 0.5520843576572386,
+        "ecosystem_oriented": 0.47784640631645936
+      },
+      "priority_raw": 0.04903609015638885,
+      "contest_raw": 0.016040099863375866
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
@@ -930,8 +966,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5615741277649239,
-      "contest_score": -1.2494667827387163,
+      "priority_score": -0.7130114297718311,
+      "contest_score": -1.1906282787326694,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -960,151 +996,79 @@
       "contest_raw": 0.006987629283306336
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "title": "The photo that shows who's really on top in Le Pen's party",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6048739001337031,
-      "contest_score": -1.0269544747783594,
+      "priority_score": -0.8930136835543266,
+      "contest_score": -1.1748045946805126,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.14909763357396832,
-      "contestedness": 0.02953166745188493,
-      "impact": 0.365,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.07642403554991609,
+      "contestedness": 0.025374405920121954,
+      "impact": 0.29000000000000004,
       "top_clusters": {
-        "expression_oriented": 0.23583189784067046,
-        "knowledge_oriented": 0.22572517567576988
+        "expression_oriented": 0.1374563620695678,
+        "knowledge_oriented": 0.10660690952285762
       },
       "bottom_clusters": {
-        "survival_focused": 0.09271008824762964
+        "survival_focused": 0.03202831175322846
       },
       "cluster_means": {
-        "survival_focused": 0.09271008824762964,
-        "stability_seeking": 0.15320093301816234,
-        "achievement_oriented": 0.1938617883038125,
-        "care_oriented": 0.09825914991782851,
-        "knowledge_oriented": 0.22572517567576988,
-        "governance_oriented": 0.12224175569951456,
-        "sovereignty_order_oriented": 0.10634447923508877,
-        "expression_oriented": 0.23583189784067046,
-        "ecosystem_oriented": 0.11370343422723823
+        "survival_focused": 0.03202831175322846,
+        "stability_seeking": 0.05622564696967662,
+        "achievement_oriented": 0.05339371176699833,
+        "care_oriented": 0.08858025784580337,
+        "knowledge_oriented": 0.10660690952285762,
+        "governance_oriented": 0.08160005288979857,
+        "sovereignty_order_oriented": 0.03786781075568402,
+        "expression_oriented": 0.1374563620695678,
+        "ecosystem_oriented": 0.09073920188110482
       },
-      "priority_raw": 0.02721031812724922,
-      "contest_raw": 0.010779058619938
+      "priority_raw": 0.011081485154737834,
+      "contest_raw": 0.007358577716835368
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6126089034000407,
-      "contest_score": -1.233236219904533,
+      "priority_score": -0.9820456764476605,
+      "contest_score": -0.6751731013447062,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.465880231422735,
-      "contestedness": 0.025943517556652695,
-      "impact": 0.28,
+      "central_tendency": 0.532399724128549,
+      "contestedness": 0.04191482046707817,
+      "impact": 0.45500000000000007,
       "top_clusters": {
-        "expression_oriented": 0.5409523514782524,
-        "knowledge_oriented": 0.5366201148890466
+        "expression_oriented": 0.6510940736656895,
+        "knowledge_oriented": 0.615305658043118
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.3881347918785699
+        "governance_oriented": 0.44526894567286857
       },
       "cluster_means": {
-        "survival_focused": 0.40944755396277654,
-        "stability_seeking": 0.4902784958463041,
-        "achievement_oriented": 0.4528947512379508,
-        "care_oriented": 0.4643349782896514,
-        "knowledge_oriented": 0.5366201148890466,
-        "governance_oriented": 0.47143224233132963,
-        "sovereignty_order_oriented": 0.3881347918785699,
-        "expression_oriented": 0.5409523514782524,
-        "ecosystem_oriented": 0.4388268028907339
+        "survival_focused": 0.5167110407685385,
+        "stability_seeking": 0.5133453406996606,
+        "achievement_oriented": 0.5046256318340574,
+        "care_oriented": 0.5015048010323422,
+        "knowledge_oriented": 0.615305658043118,
+        "governance_oriented": 0.44526894567286857,
+        "sovereignty_order_oriented": 0.4714305202325825,
+        "expression_oriented": 0.6510940736656895,
+        "ecosystem_oriented": 0.5723115052080838
       },
-      "priority_raw": 0.02608929295967316,
-      "contest_raw": 0.007264184915862755
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "title": "Australian killer's final police interview footage released",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6791107440739952,
-      "contest_score": -0.158878460554262,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.18484558796440112,
-      "contestedness": 0.05746150595950786,
-      "impact": 0.44500000000000006,
-      "top_clusters": {
-        "expression_oriented": 0.32497489406783653,
-        "knowledge_oriented": 0.28531458119260783
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.08009573495619146
-      },
-      "cluster_means": {
-        "survival_focused": 0.1257470638650252,
-        "stability_seeking": 0.13183872192409024,
-        "achievement_oriented": 0.23443464558341423,
-        "care_oriented": 0.08487373888254038,
-        "knowledge_oriented": 0.28531458119260783,
-        "governance_oriented": 0.08009573495619146,
-        "sovereignty_order_oriented": 0.13755724091569932,
-        "expression_oriented": 0.32497489406783653,
-        "ecosystem_oriented": 0.25877367029220494
-      },
-      "priority_raw": 0.016451257328831705,
-      "contest_raw": 0.025570370151981
+      "priority_raw": 0.0,
+      "contest_raw": 0.01907124331252057
     }
   ],
   "selected_priorities": [
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 3.2189827918892826,
-      "contest_score": -0.3637797030783711,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.0857095995595967,
-      "contestedness": 0.03710759511440287,
-      "impact": 0.5950000000000001,
-      "top_clusters": {
-        "stability_seeking": 1.1529388326471013,
-        "achievement_oriented": 1.1438367065785093
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.9981672465253761
-      },
-      "cluster_means": {
-        "survival_focused": 1.1086772455841325,
-        "stability_seeking": 1.1529388326471013,
-        "achievement_oriented": 1.1438367065785093,
-        "care_oriented": 1.1067291114641065,
-        "knowledge_oriented": 1.0354517947649664,
-        "governance_oriented": 1.1433504052180319,
-        "sovereignty_order_oriented": 1.0766039434421157,
-        "expression_oriented": 0.9981672465253761,
-        "ecosystem_oriented": 1.005631109812029
-      },
-      "priority_raw": 0.5813974905641641,
-      "contest_raw": 0.02207901909306971
-    },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
@@ -1112,8 +1076,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.5878759191386056,
-      "contest_score": 0.6345743170892674,
+      "priority_score": 2.9542148789123384,
+      "contest_score": 0.178781301427249,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -1142,112 +1106,148 @@
       "contest_raw": 0.03909016222984451
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.004561644265902954,
-      "contest_score": 1.000018668741072,
-      "category": "background_noise",
+      "priority_score": 2.4754842732355202,
+      "contest_score": 2.7085694952220734,
+      "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.43110117102097084,
-      "contestedness": 0.0676373697250563,
-      "impact": 0.6699999999999999,
+      "central_tendency": 0.6896571376058355,
+      "contestedness": 0.1261474320091618,
+      "impact": 0.78,
       "top_clusters": {
-        "achievement_oriented": 0.5898956658668718,
-        "expression_oriented": 0.5277505066164325
+        "care_oriented": 0.8951735242834342,
+        "governance_oriented": 0.8140854572840879
       },
       "bottom_clusters": {
-        "governance_oriented": 0.27329009514734387
+        "sovereignty_order_oriented": 0.5266157930562737
       },
       "cluster_means": {
-        "survival_focused": 0.4337545520952778,
-        "stability_seeking": 0.38036864311665874,
-        "achievement_oriented": 0.5898956658668718,
-        "care_oriented": 0.3008071049683246,
-        "knowledge_oriented": 0.5013919218203341,
-        "governance_oriented": 0.27329009514734387,
-        "sovereignty_order_oriented": 0.43181402486404663,
-        "expression_oriented": 0.5277505066164325,
-        "ecosystem_oriented": 0.4408380246934476
+        "survival_focused": 0.5435998103539452,
+        "stability_seeking": 0.6245076138575409,
+        "achievement_oriented": 0.5355557171291532,
+        "care_oriented": 0.8951735242834342,
+        "knowledge_oriented": 0.7532792640984818,
+        "governance_oriented": 0.8140854572840879,
+        "sovereignty_order_oriented": 0.5266157930562737,
+        "expression_oriented": 0.7634420125229004,
+        "ecosystem_oriented": 0.7506550458667027
       },
-      "priority_raw": 0.11553511383362017,
-      "contest_raw": 0.04531703771578771
+      "priority_raw": 0.43034605386604136,
+      "contest_raw": 0.0983949969671462
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.007537743232589245,
-      "contest_score": -0.21047962492752542,
+      "priority_score": 0.7987133496472361,
+      "contest_score": -0.6890633072507042,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3857002151053103,
-      "contestedness": 0.04184936973591624,
-      "impact": 0.59,
+      "central_tendency": 0.8118847455180842,
+      "contestedness": 0.04119916626508657,
+      "impact": 0.455,
       "top_clusters": {
-        "expression_oriented": 0.5211108063336978,
-        "knowledge_oriented": 0.49154584407276797
+        "achievement_oriented": 0.8924059706270402,
+        "stability_seeking": 0.8571355439317054
       },
       "bottom_clusters": {
-        "governance_oriented": 0.3053019900757126
+        "ecosystem_oriented": 0.7477220948919636
       },
       "cluster_means": {
-        "survival_focused": 0.3358258452818571,
-        "stability_seeking": 0.35493537425895655,
-        "achievement_oriented": 0.42192840359189976,
-        "care_oriented": 0.3191724756989101,
-        "knowledge_oriented": 0.49154584407276797,
-        "governance_oriented": 0.3053019900757126,
-        "sovereignty_order_oriented": 0.3246964526391182,
-        "expression_oriented": 0.5211108063336978,
-        "ecosystem_oriented": 0.3967847439948728
+        "survival_focused": 0.7646455882084777,
+        "stability_seeking": 0.8571355439317054,
+        "achievement_oriented": 0.8924059706270402,
+        "care_oriented": 0.8058447544735643,
+        "knowledge_oriented": 0.8244440395390886,
+        "governance_oriented": 0.8557712381571627,
+        "sovereignty_order_oriented": 0.7689537308560294,
+        "expression_oriented": 0.7900397489777264,
+        "ecosystem_oriented": 0.7477220948919636
       },
-      "priority_raw": 0.11378156345606652,
-      "contest_raw": 0.024691128144190583
+      "priority_raw": 0.22164453552643698,
+      "contest_raw": 0.01874562065061439
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.013727793272776657,
-      "contest_score": -0.9752849270720454,
+      "priority_score": 0.484302595384391,
+      "contest_score": -0.6837184285199881,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7055277911921103,
-      "contestedness": 0.029148664560712856,
-      "impact": 0.4,
+      "central_tendency": 0.4771528986281206,
+      "contestedness": 0.02466786738729665,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.8043717088427831,
-        "knowledge_oriented": 0.7872770166989349
+        "knowledge_oriented": 0.5175421648233752,
+        "expression_oriented": 0.5136298465927943
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6101799147833913
+        "survival_focused": 0.42251423686234474
       },
       "cluster_means": {
-        "survival_focused": 0.6468073655180995,
-        "stability_seeking": 0.7152790713123753,
-        "achievement_oriented": 0.6989790211927343,
-        "care_oriented": 0.6698303566320214,
-        "knowledge_oriented": 0.7872770166989349,
-        "governance_oriented": 0.6953972622148631,
-        "sovereignty_order_oriented": 0.6101799147833913,
-        "expression_oriented": 0.8043717088427831,
-        "ecosystem_oriented": 0.7216284035337897
+        "survival_focused": 0.42251423686234474,
+        "stability_seeking": 0.42735677614184975,
+        "achievement_oriented": 0.4673749742471544,
+        "care_oriented": 0.4928742974360786,
+        "knowledge_oriented": 0.5175421648233752,
+        "governance_oriented": 0.49456081739210966,
+        "sovereignty_order_oriented": 0.45803144077066416,
+        "expression_oriented": 0.5136298465927943,
+        "ecosystem_oriented": 0.5004915333867146
       },
-      "priority_raw": 0.11288444659073765,
-      "contest_raw": 0.011659465824285143
+      "priority_raw": 0.18251098372525612,
+      "contest_raw": 0.018870918551281937
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.28868443448809417,
+      "contest_score": 0.25807373981294146,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.5185675728316271,
+      "contestedness": 0.06712948169885202,
+      "impact": 0.6100000000000001,
+      "top_clusters": {
+        "survival_focused": 0.6066421170849856,
+        "sovereignty_order_oriented": 0.5939131112214125
+      },
+      "bottom_clusters": {
+        "care_oriented": 0.4225361424402089
+      },
+      "cluster_means": {
+        "survival_focused": 0.6066421170849856,
+        "stability_seeking": 0.5720780134994785,
+        "achievement_oriented": 0.5762734416587114,
+        "care_oriented": 0.4225361424402089,
+        "knowledge_oriented": 0.5037061310767852,
+        "governance_oriented": 0.43492673677368365,
+        "sovereignty_order_oriented": 0.5939131112214125,
+        "expression_oriented": 0.5120809717141152,
+        "ecosystem_oriented": 0.44495149001526313
+      },
+      "priority_raw": 0.1581631097136463,
+      "contest_raw": 0.04094898383629974
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
@@ -1256,8 +1256,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.02431688166221052,
-      "contest_score": 1.6925493794698108,
+      "priority_score": -0.08742795389604228,
+      "contest_score": 0.9477672784988116,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -1286,191 +1286,168 @@
       "contest_raw": 0.05711719959107199
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "title": "China's second typhoon in a week makes landfall",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.030742456304811094,
-      "contest_score": 1.5836679288971867,
+      "priority_score": -0.1606566117585866,
+      "contest_score": -0.35295153694419734,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2022317416806088,
-      "contestedness": 0.0708486512098023,
-      "impact": 0.78,
+      "central_tendency": 0.34656027134665657,
+      "contestedness": 0.045127046378878655,
+      "impact": 0.59,
       "top_clusters": {
-        "expression_oriented": 0.351224042764528,
-        "knowledge_oriented": 0.3249355174611379
+        "expression_oriented": 0.5052942862465363,
+        "knowledge_oriented": 0.46593775419962724
       },
       "bottom_clusters": {
-        "survival_focused": 0.06732848992183535
+        "governance_oriented": 0.2607696702520492
       },
       "cluster_means": {
-        "survival_focused": 0.06732848992183535,
-        "stability_seeking": 0.13474605241027207,
-        "achievement_oriented": 0.22507873951834967,
-        "care_oriented": 0.18312737963307268,
-        "knowledge_oriented": 0.3249355174611379,
-        "governance_oriented": 0.20559470362007437,
-        "sovereignty_order_oriented": 0.12215097797023572,
-        "expression_oriented": 0.351224042764528,
-        "ecosystem_oriented": 0.2058997718259733
+        "survival_focused": 0.28003457178929114,
+        "stability_seeking": 0.3058967166309279,
+        "achievement_oriented": 0.3814070875499078,
+        "care_oriented": 0.2856705098137755,
+        "knowledge_oriented": 0.46593775419962724,
+        "governance_oriented": 0.2607696702520492,
+        "sovereignty_order_oriented": 0.2658667546144949,
+        "expression_oriented": 0.5052942862465363,
+        "ecosystem_oriented": 0.3681650910232992
       },
-      "priority_raw": 0.1104185309576124,
-      "contest_raw": 0.05526194794364579
+      "priority_raw": 0.10223528004726368,
+      "contest_raw": 0.026624957363538405
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
-      "title": "Small plane crash in Bahamas kills 10 people",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.10043050529700703,
-      "contest_score": -0.1994782633927828,
+      "priority_score": -0.24290980962056732,
+      "contest_score": 1.0124095941889337,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.255263923163109,
-      "contestedness": 0.037982568589198046,
-      "impact": 0.655,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.18698684270856913,
+      "contestedness": 0.07150315134594346,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.42286097281495527,
-        "knowledge_oriented": 0.3704062974026159
+        "expression_oriented": 0.37282215008970226,
+        "knowledge_oriented": 0.31195348152183755
       },
       "bottom_clusters": {
-        "survival_focused": 0.17297342059054155
+        "survival_focused": 0.04870890510510442
       },
       "cluster_means": {
-        "survival_focused": 0.17297342059054155,
-        "stability_seeking": 0.21020602449325676,
-        "achievement_oriented": 0.23495522397976482,
-        "care_oriented": 0.20059147120431878,
-        "knowledge_oriented": 0.3704062974026159,
-        "governance_oriented": 0.21842710356484035,
-        "sovereignty_order_oriented": 0.1804445349756423,
-        "expression_oriented": 0.42286097281495527,
-        "ecosystem_oriented": 0.2865102594420447
+        "survival_focused": 0.04870890510510442,
+        "stability_seeking": 0.09280917802072372,
+        "achievement_oriented": 0.14950222680117217,
+        "care_oriented": 0.21751762708549202,
+        "knowledge_oriented": 0.31195348152183755,
+        "governance_oriented": 0.1517935849492183,
+        "sovereignty_order_oriented": 0.08029043360327484,
+        "expression_oriented": 0.37282215008970226,
+        "ecosystem_oriented": 0.25111908760039325
       },
-      "priority_raw": 0.10031872180310183,
-      "contest_raw": 0.024878582425924722
+      "priority_raw": 0.09199752661261602,
+      "contest_raw": 0.05863258410367364
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-      "title": "Meta pulls new AI image feature after days of backlash",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.15196086501226408,
-      "contest_score": -0.6196402966050402,
+      "priority_score": -0.2782034122843999,
+      "contest_score": 0.2657400069847355,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2691318428021404,
-      "contestedness": 0.030816281749366736,
-      "impact": 0.575,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.1691209681794886,
+      "contestedness": 0.055579325861955575,
+      "impact": 0.74,
       "top_clusters": {
-        "expression_oriented": 0.32298536290895746,
-        "knowledge_oriented": 0.30686037463142707
+        "expression_oriented": 0.36628278285603955,
+        "knowledge_oriented": 0.3017693782592993
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.20745121693417595
+        "survival_focused": 0.058225618736343715
       },
       "cluster_means": {
-        "survival_focused": 0.24868802580387717,
-        "stability_seeking": 0.28556220017598233,
-        "achievement_oriented": 0.286480027866677,
-        "care_oriented": 0.2795043075532439,
-        "knowledge_oriented": 0.30686037463142707,
-        "governance_oriented": 0.24841520412534035,
-        "sovereignty_order_oriented": 0.23623986521958232,
-        "expression_oriented": 0.32298536290895746,
-        "ecosystem_oriented": 0.20745121693417595
+        "survival_focused": 0.058225618736343715,
+        "stability_seeking": 0.10096185647238906,
+        "achievement_oriented": 0.165306280061819,
+        "care_oriented": 0.134845367736636,
+        "knowledge_oriented": 0.3017693782592993,
+        "governance_oriented": 0.11454766935699479,
+        "sovereignty_order_oriented": 0.06929598581408589,
+        "expression_oriented": 0.36628278285603955,
+        "ecosystem_oriented": 0.19042469359859157
       },
-      "priority_raw": 0.09285048576673843,
-      "contest_raw": 0.01771936200588587
+      "priority_raw": 0.0876046615169751,
+      "contest_raw": 0.041128701137847126
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "signal_id": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.26025715528386123,
-      "contest_score": -0.8678237034263653,
+      "priority_score": -0.30787374588439886,
+      "contest_score": -1.0314635619363421,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2593453055671416,
-      "contestedness": 0.022673139422279,
-      "impact": 0.595,
+      "central_tendency": 0.3771312542396171,
+      "contestedness": 0.024087338110188428,
+      "impact": 0.445,
       "top_clusters": {
-        "expression_oriented": 0.3542729787012896,
-        "knowledge_oriented": 0.3201495674136311
+        "achievement_oriented": 0.43552719267794415,
+        "expression_oriented": 0.42926292602740274
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.21098314783737923
+        "ecosystem_oriented": 0.32710384662703945
       },
       "cluster_means": {
-        "survival_focused": 0.22556923314558236,
-        "stability_seeking": 0.2442349265171752,
-        "achievement_oriented": 0.22227085303940963,
-        "care_oriented": 0.2911563455297619,
-        "knowledge_oriented": 0.3201495674136311,
-        "governance_oriented": 0.22139877924888318,
-        "sovereignty_order_oriented": 0.21098314783737923,
-        "expression_oriented": 0.3542729787012896,
-        "ecosystem_oriented": 0.24407191867116218
+        "survival_focused": 0.34662676733925946,
+        "stability_seeking": 0.3941109785555017,
+        "achievement_oriented": 0.43552719267794415,
+        "care_oriented": 0.34305295010555004,
+        "knowledge_oriented": 0.4254782481857563,
+        "governance_oriented": 0.3511911847372279,
+        "sovereignty_order_oriented": 0.3418271939008723,
+        "expression_oriented": 0.42926292602740274,
+        "ecosystem_oriented": 0.32710384662703945
       },
-      "priority_raw": 0.07715522840622462,
-      "contest_raw": 0.013490517956256004
+      "priority_raw": 0.0839117040683148,
+      "contest_raw": 0.01071886545903385
     }
   ],
   "mood": {
-    "score": 0.032327622567409314,
+    "score": 0.03271148131242677,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "rank": 1,
-      "target": "Landmark US housing bill becomes law despite Trump protest",
-      "title": "Landmark US housing bill becomes law despite Trump protest",
-      "name": "Landmark US housing bill becomes law despite Trump protest",
-      "root_cause": "Landmark US housing bill becomes law despite Trump protest",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 3.2189827918892826,
-      "contest_score": -0.3637797030783711,
-      "contestedness": 0.03710759511440287,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, achievement_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Landmark US housing bill becomes law despite Trump protest"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Landmark US housing bill becomes law despite Trump protest is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Landmark US housing bill becomes law despite Trump protest fade or reverse without spillover."
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
+      "rank": 1,
       "target": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "name": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "root_cause": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.5878759191386056,
-      "contest_score": 0.6345743170892674,
+      "priority_score": 2.9542148789123384,
+      "contest_score": 0.178781301427249,
       "contestedness": 0.06682079013648634,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, care_oriented.",
@@ -1484,98 +1461,128 @@
       "falsification": "Signals tied to More than 40 kidnapped children and teachers freed after Nigerian army operation fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "rank": 2,
+      "target": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "name": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "root_cause": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "severity": "high",
+      "category": "convergent_priority",
+      "priority_score": 2.4754842732355202,
+      "contest_score": 2.7085694952220734,
+      "contestedness": 0.1261474320091618,
+      "mood": "↗ positive",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "China evacuates nearly two million people as powerful typhoon makes landfall"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around China evacuates nearly two million people as powerful typhoon makes landfall is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to China evacuates nearly two million people as powerful typhoon makes landfall fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Meet the crypto billionaires building a world where money buys you a vote",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "name": "Meet the crypto billionaires building a world where money buys you a vote",
-      "root_cause": "Meet the crypto billionaires building a world where money buys you a vote",
+      "target": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "name": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "root_cause": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.004561644265902954,
-      "contest_score": 1.000018668741072,
-      "contestedness": 0.0676373697250563,
+      "priority_score": 0.7987133496472361,
+      "contest_score": -0.6890633072507042,
+      "contestedness": 0.04119916626508657,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, expression_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Meet the crypto billionaires building a world where money buys you a vote"
+        "How Aldi is taking on US supermarkets with its $4 almond butter"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Meet the crypto billionaires building a world where money buys you a vote is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Meet the crypto billionaires building a world where money buys you a vote fade or reverse without spillover."
+      "prediction": "Momentum around How Aldi is taking on US supermarkets with its $4 almond butter is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to How Aldi is taking on US supermarkets with its $4 almond butter fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "name": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "root_cause": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "target": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "name": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+      "root_cause": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": -0.007537743232589245,
-      "contest_score": -0.21047962492752542,
-      "contestedness": 0.04184936973591624,
+      "priority_score": 0.484302595384391,
+      "contest_score": -0.6837184285199881,
+      "contestedness": 0.02466786738729665,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'"
+        "Badly burned British couple rescued from ravine during Spain wildfires, reports say"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists' is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists' fade or reverse without spillover."
+      "prediction": "Momentum around Badly burned British couple rescued from ravine during Spain wildfires, reports say is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Badly burned British couple rescued from ravine during Spain wildfires, reports say fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "name": "New dinosaur species as long as cricket pitch discovered in Thailand",
-      "root_cause": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "target": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "name": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "root_cause": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": -0.013727793272776657,
-      "contest_score": -0.9752849270720454,
-      "contestedness": 0.029148664560712856,
+      "priority_score": 0.28868443448809417,
+      "contest_score": 0.25807373981294146,
+      "contestedness": 0.06712948169885202,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, sovereignty_order_oriented.",
       "signal_count": 1,
       "signals": [
-        "New dinosaur species as long as cricket pitch discovered in Thailand"
+        "T. rex could become most expensive fossil ever - but it's a ​problem for scientists"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around New dinosaur species as long as cricket pitch discovered in Thailand is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to New dinosaur species as long as cricket pitch discovered in Thailand fade or reverse without spillover."
+      "prediction": "Momentum around T. rex could become most expensive fossil ever - but it's a ​problem for scientists is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to T. rex could become most expensive fossil ever - but it's a ​problem for scientists fade or reverse without spillover."
     }
   ],
-  "predictions": [],
-  "narrative": "🟡 **Cautious mood persists as global narratives signal incremental progress amid persistent volatility.**\n\nToday's signals reflect a mixed landscape of cautious optimism tempered by ongoing geopolitical and environmental instability. While positive developments in housing reform and humanitarian rescue operations suggest progress in key areas, contested narratives and emerging risks highlight the fragility of these gains. The portfolio mood remains cautious, underscoring the need for vigilance as structural shifts unfold.\n\n**1. Structural progress in housing and humanitarian efforts:** The landmark U.S. housing bill becoming law represents a significant step toward addressing systemic housing challenges, particularly in a polarized political environment. With strong alignment in stability-seeking and achievement-oriented clusters, this development signals a potential pivot toward long-term structural reform in the U.S. domestic policy landscape. Similarly, the Nigerian army's successful rescue operation of kidnapped children and teachers underscores the importance of survival-focused and care-oriented priorities in mitigating human security risks in volatile regions. These signals mark tangible, completed actions that contribute to stability and resilience.\n\n**2. Contested narratives and emerging risks:** While the housing and rescue signals are positive, other developments reveal underlying tensions. The Polish Prime Minister's pledge to memorialize victims of WWII atrocities by Ukrainian nationalists introduces a contested narrative with potential geopolitical implications, particularly in Eastern Europe. Similarly, the discovery of a new dinosaur species in Thailand, while scientifically significant, carries limited structural impact and is overshadowed by more pressing global concerns. These signals, though positive in direction, highlight the uneven distribution of attention and resources across global priorities.\n\n**3. Longer-term trajectories and systemic vulnerabilities:** Supporting signals point to persistent instability, including China's second typhoon in a week, deadly wildfires in Spain, and escalating tensions in Iran. These events underscore the fragility of ecosystems and governance structures in the face of climate change and geopolitical volatility. The subpoenaing of journalists by the Trump administration and the detention of a U.S. Democrat by Israeli settlers further highlight the erosion of democratic norms and the intensification of contested governance narratives. These trajectories suggest that while incremental progress is possible, systemic vulnerabilities remain entrenched.\n\n**4. What to watch next:** The structural importance of the U.S. housing reform warrants close monitoring for its implementation and ripple effects on economic stability and social equity. Additionally, the Nigerian rescue operation highlights the need for sustained attention to human security in conflict zones. Geopolitical tensions in Eastern Europe and the Middle East should be watched for escalation, particularly as contested narratives around historical grievances and governance challenges gain traction. Finally, climate-related risks, including typhoons and wildfires, demand heightened scrutiny as they increasingly intersect with economic and political stability.\n\nIn summary, while today's signals offer glimpses of progress, the broader landscape remains fraught with volatility and contested narratives. The cautious mood reflects the need for strategic foresight and adaptive resilience in navigating these complexities.",
+  "predictions": [
+    {
+      "root_cause": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "prediction": "Momentum around China evacuates nearly two million people as powerful typhoon makes landfall is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "falsification": "Signals tied to China evacuates nearly two million people as powerful typhoon makes landfall fade or reverse without downstream spillover.",
+      "severity": "high"
+    }
+  ],
+  "narrative": "🟡 **Cautious mood prevails as global events reflect a mix of resilience and underlying fragility.** Today's signals highlight a structural pattern of crisis response and adaptive governance, but the ensemble remains wary of unresolved tensions and potential cascading risks.\n\n1. **Key signals emphasize resilience in the face of acute crises.** The Nigerian army's successful operation to free over 40 kidnapped children and teachers underscores a survival-focused and care-oriented response to a critical humanitarian situation. Similarly, China's evacuation of nearly two million people ahead of a powerful typhoon demonstrates governance-oriented preparedness and an ability to mobilize resources at scale. Both events reflect positive outcomes, but they also highlight the persistent vulnerabilities that necessitate such responses—kidnapping as a symptom of insecurity in Nigeria and extreme weather as a growing climate risk in Asia.\n\n2. **Background signals reveal quieter but meaningful dynamics.** The rescue of a British couple during Spain's wildfires and Aldi's strategic pricing in the U.S. grocery market both point to adaptive strategies in different domains. The wildfire rescue reflects the increasing frequency of climate-driven emergencies and the need for rapid response mechanisms, while Aldi's market positioning highlights shifts in consumer behavior toward affordability and value. These signals, though categorized as \"background noise,\" contribute to a broader narrative of adaptation under pressure.\n\n3. **Contested signals remain limited but notable.** While most signals show high sign agreement, the contestedness around China's typhoon evacuation reflects underlying geopolitical sensitivities. The relatively high contest score suggests that while the evacuation itself is a positive action, it may be viewed through the lens of broader regional power dynamics, particularly in the context of China's governance model and its implications for sovereignty and order.\n\n4. **Longer-term trajectories point to structural vulnerabilities.** The recurring themes of climate resilience, governance under stress, and societal adaptation suggest that these events are not isolated but part of broader patterns. The Nigerian kidnapping and Spanish wildfire highlight the human cost of insecurity and climate change, while China's evacuation efforts and Aldi's market strategy reflect the importance of proactive planning in mitigating risks. However, the cautious portfolio mood indicates that these responses, while effective in the short term, may not address the systemic drivers of these crises.\n\n**What to watch next:** Monitor for follow-up actions in Nigeria, particularly whether the army's operation leads to sustained improvements in security or merely a temporary reprieve. In China, track the aftermath of the typhoon, including the effectiveness of evacuation measures and the potential for cascading impacts on infrastructure and governance. Additionally, keep an eye on signals of climate-related stress, as the wildfire and typhoon events may foreshadow more frequent and severe disruptions. Finally, observe how consumer behavior and market competition evolve in response to economic pressures, as exemplified by Aldi's strategy.",
   "noise_filtered": [
-    "Landmark US housing bill becomes law despite Trump protest",
     "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-    "Meet the crypto billionaires building a world where money buys you a vote",
-    "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-    "New dinosaur species as long as cricket pitch discovered in Thailand",
+    "How Aldi is taking on US supermarkets with its $4 almond butter",
+    "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+    "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
     "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-    "China's second typhoon in a week makes landfall",
-    "Small plane crash in Bahamas kills 10 people",
-    "Meta pulls new AI image feature after days of backlash",
-    "Apple sues OpenAI, its employees claiming theft of trade secrets",
-    "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-    "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-    "Man fatally shot by ICE in Houston was not intended target, DHS says",
+    "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+    "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+    "At least 27 killed in Bangkok bar fire, Thai authorities say",
+    "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+    "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
     "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-    "Iran supreme leader calls for revenge for father's killing",
+    "South Africa says more than 53,000 foreigners deported in migration campaign",
     "South Africa World Cup midfielder Adams dies aged 25",
+    "At least two killed in Toronto street festival shooting",
+    "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+    "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
     "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-    "The photo that shows who's really on top in Le Pen's party",
-    "New species named after Cape Verde goalkeeper Vozinha",
-    "Australian killer's final police interview footage released"
+    "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+    "David Willey, esteemed BBC Vatican correspondent, dies aged 93"
   ],
   "matured_predictions": [],
   "delta": {
@@ -1584,97 +1591,83 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Pressure builds on Europe's biggest port to be greener",
+        "title": "Landmark US housing bill becomes law despite Trump protest",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
+        "title": "Meet the crypto billionaires building a world where money buys you a vote",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "How an app in South Korea will let victims track their stalkers",
+        "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "China lands reusable rocket for first time, state media says",
+        "title": "Small plane crash in Bahamas kills 10 people",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+        "title": "Meta pulls new AI image feature after days of backlash",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "What's next for Iran after the funeral of their late supreme leader?",
+        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "title": "The photo that shows who's really on top in Le Pen's party",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+        "title": "New species named after Cape Verde goalkeeper Vozinha",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Boxy forms and odd lights: US declassifies more UFO files",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Lebanon historic sites destroyed by Israeli strikes",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Zulu king expresses regret after video captures tirade against his wife",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Superb Sinner ends Djokovic's latest bid for history",
+        "title": "Australian killer's final police interview footage released",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
-    "category_changes": [],
+    "category_changes": [
+      "China evacuates nearly two million people as powerful typhoon makes landfall: background_noise → convergent_priority"
+    ],
     "priority_score_changes": [
-      "Man fatally shot by ICE in Houston was not intended target, DHS says: -0.78 → -0.48"
+      "More than 40 kidnapped children and teachers freed after Nigerian army operation: 2.59 → 2.95",
+      "China evacuates nearly two million people as powerful typhoon makes landfall: -0.03 → 2.48",
+      "US insists Strait of Hormuz is open as it exchanges strikes with Iran: -0.54 → -0.24"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 1 → 0",
-      "Priority score movement — Man fatally shot by ICE in Houston was not intended target, DHS says: -0.78 → -0.48"
+      "convergent_priority: 0 → 1",
+      "Category change — China evacuates nearly two million people as powerful typhoon makes landfall: background_noise → convergent_priority",
+      "Priority score movement — More than 40 kidnapped children and teachers freed after Nigerian army operation: 2.59 → 2.95",
+      "Priority score movement — China evacuates nearly two million people as powerful typhoon makes landfall: -0.03 → 2.48",
+      "Priority score movement — US insists Strait of Hormuz is open as it exchanges strikes with Iran: -0.54 → -0.24"
     ],
     "continuing_priorities": [
-      "Man fatally shot by ICE in Houston was not intended target, DHS says"
+      "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "South Africa World Cup midfielder Adams dies aged 25",
+      "Trump administration subpoenas New York Times journalists over Air Force One reporting"
     ],
-    "new_stories": 19,
-    "carried_stories": 1,
+    "new_stories": 14,
+    "carried_stories": 6,
     "total_stories": 20,
-    "summary": "19 priorities dropped: Pressure builds on Europe's biggest port to be greener (No longer in today's news feed — story left the RSS cycle); Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing (No longer in today's news feed — story left the RSS cycle); How an app in South Korea will let victims track their stalkers (No longer in today's news feed — story left the RSS cycle); China lands reusable rocket for first time, state media says (No longer in today's news feed — story left the RSS cycle); We've saved £6,000 on holidays by swapping homes with strangers (No longer in today's news feed — story left the RSS cycle); Huge crowds in Mashhad as Iran's late supreme leader is buried (No longer in today's news feed — story left the RSS cycle); Watch: Nato chief asked if there really is 'unity' in Nato (No longer in today's news feed — story left the RSS cycle); What's next for Iran after the funeral of their late supreme leader? (No longer in today's news feed — story left the RSS cycle); East Asia braces for destructive typhoon as landslides kill 15 in Philippines (No longer in today's news feed — story left the RSS cycle); All the best looks from Paris Haute Couture Week 2026 (No longer in today's news feed — story left the RSS cycle); Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies (No longer in today's news feed — story left the RSS cycle); Boxy forms and odd lights: US declassifies more UFO files (No longer in today's news feed — story left the RSS cycle); Man nearly sucked out of window mid-air on Ryanair plane, passengers say (No longer in today's news feed — story left the RSS cycle); Lebanon historic sites destroyed by Israeli strikes (No longer in today's news feed — story left the RSS cycle); Wildfire in southern Spain leaves at least 12 dead and 23 missing (No longer in today's news feed — story left the RSS cycle); Zulu king expresses regret after video captures tirade against his wife (No longer in today's news feed — story left the RSS cycle); Nolan Wells' family demands answers about US teen's death after boating trip (No longer in today's news feed — story left the RSS cycle); Watch: What links a bomb in Monaco and a shooting in Ukraine? (No longer in today's news feed — story left the RSS cycle); Superb Sinner ends Djokovic's latest bid for history (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Man fatally shot by ICE in Houston was not intended target, DHS says: -0.78 → -0.48 · Structural shifts: convergent_priority: 1 → 0; Priority score movement — Man fatally shot by ICE in Houston was not intended target, DHS says: -0.78 → -0.48 · Signal freshness: 19 new, 1 carried, 20 total"
+    "summary": "12 priorities dropped: Landmark US housing bill becomes law despite Trump protest (No longer in today's news feed — story left the RSS cycle); Meet the crypto billionaires building a world where money buys you a vote (No longer in today's news feed — story left the RSS cycle); New dinosaur species as long as cricket pitch discovered in Thailand (No longer in today's news feed — story left the RSS cycle); Small plane crash in Bahamas kills 10 people (No longer in today's news feed — story left the RSS cycle); Meta pulls new AI image feature after days of backlash (No longer in today's news feed — story left the RSS cycle); Apple sues OpenAI, its employees claiming theft of trade secrets (No longer in today's news feed — story left the RSS cycle); US pays out $3m to victims of mystery Havana Syndrome condition reported by spies (No longer in today's news feed — story left the RSS cycle); Spain battles to contain one of its deadliest wildfires as at least 12 killed (No longer in today's news feed — story left the RSS cycle); Man fatally shot by ICE in Houston was not intended target, DHS says (No longer in today's news feed — story left the RSS cycle); The photo that shows who's really on top in Le Pen's party (No longer in today's news feed — story left the RSS cycle); New species named after Cape Verde goalkeeper Vozinha (No longer in today's news feed — story left the RSS cycle); Australian killer's final police interview footage released (No longer in today's news feed — story left the RSS cycle) · Priority category shifted: China evacuates nearly two million people as powerful typhoon makes landfall: background_noise → convergent_priority · Priority intensity moved: More than 40 kidnapped children and teachers freed after Nigerian army operation: 2.59 → 2.95; China evacuates nearly two million people as powerful typhoon makes landfall: -0.03 → 2.48; US insists Strait of Hormuz is open as it exchanges strikes with Iran: -0.54 → -0.24 · Structural shifts: convergent_priority: 0 → 1; Category change — China evacuates nearly two million people as powerful typhoon makes landfall: background_noise → convergent_priority; Priority score movement — More than 40 kidnapped children and teachers freed after Nigerian army operation: 2.59 → 2.95; Priority score movement — China evacuates nearly two million people as powerful typhoon makes landfall: -0.03 → 2.48; Priority score movement — US insists Strait of Hormuz is open as it exchanges strikes with Iran: -0.54 → -0.24 · Signal freshness: 14 new, 6 carried, 20 total"
   }
 }
