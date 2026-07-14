@@ -217,9 +217,13 @@
       "maturity_date": "2026-07-15",
       "falsification": "Signals tied to Three-year-old rescued and taken to hospital six days after Venezuela quake fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals or evidence directly tied to the momentum around the rescue of the three-year-old in Venezuela have emerged. The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-07-14T21:06:10.871090+00:00",
+      "evidence_used": [
+        "BBC World article on Indian activist's health concerns, which is unrelated to the Venezuela quake or rescue.",
+        "Al Jazeera article on Cuba's power grid issues, which is also unrelated to the prediction's focus."
+      ]
     },
     {
       "id": "8fadd88fc4282931",
@@ -1157,5 +1161,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-13T21:05:04.762462+00:00"
+  "last_updated": "2026-07-14T21:06:09.288205+00:00"
 }
