@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "85b264221882438f",
+      "created_at": "2026-07-17",
+      "root_cause": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "prediction": "Momentum around Italian officials handed jail terms for Genoa bridge disaster that killed 43 is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-07-31",
+      "falsification": "Signals tied to Italian officials handed jail terms for Genoa bridge disaster that killed 43 fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "853086d51f533e15",
       "created_at": "2026-07-13",
       "root_cause": "China evacuates nearly two million people as powerful typhoon makes landfall",
@@ -191,9 +204,13 @@
       "maturity_date": "2026-07-17",
       "falsification": "Signals tied to Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth' fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction regarding the momentum around the story of the Venezuelan boy and his aunt did not materialize as expected. There is no evidence of sustained or growing attention to this story in the provided fresh signals. Instead, the focus has shifted to unrelated topics across various news outlets.",
+      "validated_at": "2026-07-16T21:10:03.014224+00:00",
+      "evidence_used": [
+        "BBC World articles covering unrelated topics such as luxury bunkers, a Chinese dissident, Messi's meeting with Lamine Yamal, and a wildfire in Canada.",
+        "ABC Australia's coverage of a swimmer's injury and its impact on the Commonwealth Games."
+      ]
     },
     {
       "id": "2816f927b4014aa1",
@@ -204,9 +221,19 @@
       "maturity_date": "2026-07-17",
       "falsification": "Signals tied to Venezuela quake survivor pulled out alive after eight days fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction regarding momentum around the Venezuela quake survivor pulled out alive after eight days has expired. No fresh signals or evidence indicate ongoing or compounding momentum related to this event within the specified timeline of 1-2 weeks. The provided signals are unrelated to the prediction topic.",
+      "validated_at": "2026-07-16T21:10:06.196410+00:00",
+      "evidence_used": [
+        "ABC Australia: 'Reece Walsh was unbelievable': Broncos keep season alive with upset win",
+        "BBC World: 'I must get out into the free world', dissident who fled China on boat tells BBC",
+        "Al Jazeera: WHO: Ebola spreading faster than ever recorded in DR Congo",
+        "BBC World: Teenager accused of carrying out sabotage actions in Poland for Russia",
+        "BBC World: Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+        "BBC World: What to know about the Canadian and US wildfires and their impact",
+        "BBC World: Dramatic video shows wildfire surround freight train in Canada",
+        "Al Jazeera: Iraq says $19M found in hideouts linked to ex-oil minister"
+      ]
     },
     {
       "id": "7cbcbe123faeb0c4",
@@ -1161,5 +1188,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-15T21:07:27.902214+00:00"
+  "last_updated": "2026-07-16T21:09:59.820949+00:00"
 }
