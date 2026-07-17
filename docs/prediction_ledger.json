@@ -165,9 +165,10 @@
       "maturity_date": "2026-07-18",
       "falsification": "Signals tied to Nasa launches mission to save falling space telescope fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and the fresh signal provided does not pertain to the Nasa mission or its momentum. No evidence of validation, falsification, or partial validation was found within the specified timeframe.",
+      "validated_at": "2026-07-17T21:03:01.089496+00:00",
+      "evidence_used": "The fresh signal from BBC World discusses EU carbon emission policies, which is unrelated to the Nasa mission to save the falling space telescope. No relevant signals were provided to assess the prediction within the timeline."
     },
     {
       "id": "6ae49c2699d76bba",
@@ -178,9 +179,19 @@
       "maturity_date": "2026-07-18",
       "falsification": "Signals tied to Venezuela quake survivor pulled out alive after eight days fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around the Venezuela quake survivor story would compound has been falsified. None of the fresh signals provided indicate continued or increased attention to the Venezuela quake survivor story. Instead, the signals focus on unrelated topics such as sports, international politics, environmental policies, and other global events. This suggests that the initial momentum around the story has faded without any downstream spillover.",
+      "validated_at": "2026-07-17T21:03:03.789704+00:00",
+      "evidence_used": [
+        "ABC Australia: 'Walsh was unbelievable': Broncos keep season alive with upset win",
+        "BBC World: Magnitude 7.3 earthquake quake strikes off Mexico coast",
+        "ABC Australia: When is the World Cup final? All you need to know about Spain vs Argentina",
+        "BBC World: Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+        "BBC World: EU proposes slowing down cuts to carbon emissions for businesses",
+        "BBC World: China hits out at British Steel nationalisation",
+        "BBC World: Philippines condemns monkey video on Chinese media as racist",
+        "BBC World: Olympic cyclist admits to driving despite ban after crash that killed wife"
+      ]
     },
     {
       "id": "1852b67ae956cbfe",
@@ -191,9 +202,13 @@
       "maturity_date": "2026-07-18",
       "falsification": "Signals tied to Ebola treatments trial begins in DR Congo fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and the fresh signals provided do not directly pertain to the Ebola treatments trial in DR Congo. There is no evidence of momentum compounding or fading tied to the trial within the specified timeframe.",
+      "validated_at": "2026-07-17T21:03:05.612046+00:00",
+      "evidence_used": [
+        "BBC World: 'Moment of joy' as Uganda discharges last Ebola patient - This signal pertains to Uganda's Ebola situation, not the DR Congo trial.",
+        "BBC World: Watch: What to know as Genoa bridge disaster trial ends - This signal is unrelated to Ebola or the DR Congo trial."
+      ]
     },
     {
       "id": "b02a48e82c627e87",
@@ -1188,5 +1203,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-16T21:09:59.820949+00:00"
+  "last_updated": "2026-07-17T21:02:59.468191+00:00"
 }
