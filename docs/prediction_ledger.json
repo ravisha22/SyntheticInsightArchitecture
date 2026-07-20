@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "0ddc6e6a9cbd213d",
+      "created_at": "2026-07-21",
+      "root_cause": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "prediction": "Momentum around Notorious drug cartel leader Ismael Zambada sentenced to life in US prison is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-04",
+      "falsification": "Signals tied to Notorious drug cartel leader Ismael Zambada sentenced to life in US prison fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "85b264221882438f",
       "created_at": "2026-07-17",
       "root_cause": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
@@ -126,9 +139,19 @@
       "maturity_date": "2026-07-21",
       "falsification": "Signals tied to More than 1,000 arrested as part of global human trafficking crackdown fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals indicating sustained momentum or downstream spillover related to the global human trafficking crackdown involving over 1,000 arrests. The available signals focus on unrelated topics such as economic strain in Russia, legal proceedings involving the Tate brothers, and other global incidents.",
+      "validated_at": "2026-07-20T21:17:15.935234+00:00",
+      "evidence_used": [
+        "BBC World: Russians turn to cash, putting more strain on slowing wartime economy",
+        "BBC World: Tate brothers appear in US court for extradition proceedings",
+        "Al Jazeera: Man arrested after fire outside New York immigration court",
+        "Al Jazeera: Indian police attack Cockroach Janta Party’s parliament march",
+        "ABC Australia: Quick hits: Trump crashes Spain's party, Argentina lose heads in defeat",
+        "BBC World: Boy, 13, dies during World Cup celebrations in Spain",
+        "BBC World: Scores feared dead after passenger ferry capsizes off Guyana",
+        "BBC World: Tate brothers arrested in US as further UK charges take total to 59"
+      ]
     },
     {
       "id": "bbc606da916afd9e",
@@ -139,9 +162,13 @@
       "maturity_date": "2026-07-21",
       "falsification": "Signals tied to Huge crowds fill Tehran streets for Khamenei's funeral procession fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to the momentum around 'Huge crowds fill Tehran streets for Khamenei's funeral procession' were observed. The provided signals are unrelated to the prediction's context.",
+      "validated_at": "2026-07-20T21:17:18.714137+00:00",
+      "evidence_used": [
+        "Prediction timeline of 1-2 weeks has elapsed.",
+        "Fresh signals provided (World Cup half-time show and New York flash floods) are unrelated to the prediction's subject matter."
+      ]
     },
     {
       "id": "0063cf2cb292ff83",
@@ -152,9 +179,13 @@
       "maturity_date": "2026-07-21",
       "falsification": "Signals tied to Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals directly related to the Ex-Syrian intelligence chief's conviction or its downstream effects were identified. The provided signals are unrelated to the prediction's subject matter, indicating that momentum around the case has not compounded as anticipated.",
+      "validated_at": "2026-07-20T21:17:22.094958+00:00",
+      "evidence_used": [
+        "Fresh signals reviewed from sources such as Al Jazeera and BBC World, none of which pertain to the Ex-Syrian intelligence chief's conviction or its downstream impact.",
+        "The absence of relevant updates or spillover effects within the specified timeline."
+      ]
     },
     {
       "id": "9dadf5f72b8a35e0",
@@ -1203,5 +1234,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-19T20:59:17.599704+00:00"
+  "last_updated": "2026-07-20T21:17:13.214347+00:00"
 }
