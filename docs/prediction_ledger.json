@@ -126,9 +126,19 @@
       "maturity_date": "2026-07-22",
       "falsification": "Signals tied to More than 1,000 arrested as part of global human trafficking crackdown fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals indicating sustained momentum or downstream spillover related to the global human trafficking crackdown involving over 1,000 arrests. The available signals focus on unrelated topics such as political events, sports, and other criminal cases.",
+      "validated_at": "2026-07-21T21:18:20.398087+00:00",
+      "evidence_used": [
+        "BBC World: Russians turn to cash, putting more strain on slowing wartime economy",
+        "BBC World: Tate brothers appear in US court for extradition proceedings",
+        "ABC Australia: Quick hits: Trump crashes Spain's party, Argentina lose heads in defeat",
+        "BBC World: Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "BBC World: Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+        "BBC World: India's 'cockroach' protest continues a day after police crackdown",
+        "BBC World: Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+        "BBC World: Boy, 13, dies during World Cup celebrations in Spain"
+      ]
     },
     {
       "id": "ccbba12c4f8c2f28",
@@ -1234,5 +1244,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-20T21:17:13.214347+00:00"
+  "last_updated": "2026-07-21T21:18:17.305656+00:00"
 }
