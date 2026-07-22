@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "fab221d2865e78de",
+      "created_at": "2026-07-23",
+      "root_cause": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "prediction": "Momentum around US to announce deal allowing Saudi Arabia a nuclear programme is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-06",
+      "falsification": "Signals tied to US to announce deal allowing Saudi Arabia a nuclear programme fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "f91e1abf6f7c3b3e",
+      "created_at": "2026-07-23",
+      "root_cause": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+      "prediction": "Momentum around Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief? is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-06",
+      "falsification": "Signals tied to Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief? fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "0ddc6e6a9cbd213d",
       "created_at": "2026-07-21",
       "root_cause": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
@@ -1244,5 +1270,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-21T21:18:17.305656+00:00"
+  "last_updated": "2026-07-22T21:16:30.693329+00:00"
 }
