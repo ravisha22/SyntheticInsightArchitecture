@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "6bbedf43f6e15c74",
+      "created_at": "2026-07-25",
+      "root_cause": "Nigeria's president approves largest military expansion in recent times",
+      "prediction": "Momentum around Nigeria's president approves largest military expansion in recent times is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-08",
+      "falsification": "Signals tied to Nigeria's president approves largest military expansion in recent times fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "fab221d2865e78de",
       "created_at": "2026-07-23",
       "root_cause": "US to announce deal allowing Saudi Arabia a nuclear programme",
@@ -139,9 +152,18 @@
       "maturity_date": "2026-07-25",
       "falsification": "Signals tied to Pressure builds on Europe's biggest port to be greener fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to Europe's biggest port or its environmental pressures were identified in the provided evidence. The absence of relevant signals suggests the prediction's evaluation period has concluded without validation or falsification.",
+      "validated_at": "2026-07-24T21:12:25.873647+00:00",
+      "evidence_used": [
+        "ABC Australia: What it feels like to have your sport dumped from the Commonwealth Games",
+        "BBC World: Nigeria's president approves largest military expansion in recent times",
+        "BBC World: Tech titan ordered to pay ex-wife $644m in divorce settlement",
+        "BBC World: CJP protest: The youth movement India's Modi didn't see coming",
+        "ABC Australia: Sidelined for seven years by lack of funds, Aussie BMX rider now No. 1",
+        "ABC Australia: Swimmer praises Rinehart for bonuses amid warning to not thank billionaire",
+        "ABC Australia: Norway set to file complaint over Trump's push to overturn red card"
+      ]
     },
     {
       "id": "02787a6ba18e2661",
@@ -1270,5 +1292,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-23T21:12:55.600784+00:00"
+  "last_updated": "2026-07-24T21:12:23.374473+00:00"
 }
