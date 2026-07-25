@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "2e5581c0b13b85ad",
+      "created_at": "2026-07-26",
+      "root_cause": "Nigeria's president approves largest military expansion in recent times",
+      "prediction": "Momentum around Nigeria's president approves largest military expansion in recent times is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-09",
+      "falsification": "Signals tied to Nigeria's president approves largest military expansion in recent times fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "6bbedf43f6e15c74",
       "created_at": "2026-07-25",
       "root_cause": "Nigeria's president approves largest military expansion in recent times",
@@ -1292,5 +1305,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-24T21:12:23.374473+00:00"
+  "last_updated": "2026-07-25T21:00:15.677739+00:00"
 }
