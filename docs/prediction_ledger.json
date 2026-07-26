@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "6cc2864b29833b1e",
+      "created_at": "2026-07-27",
+      "root_cause": "Nigeria's president approves largest military expansion in recent times",
+      "prediction": "Momentum around Nigeria's president approves largest military expansion in recent times is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-10",
+      "falsification": "Signals tied to Nigeria's president approves largest military expansion in recent times fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "2e5581c0b13b85ad",
       "created_at": "2026-07-26",
       "root_cause": "Nigeria's president approves largest military expansion in recent times",
@@ -152,9 +165,13 @@
       "maturity_date": "2026-07-27",
       "falsification": "Signals tied to China evacuates nearly two million people as powerful typhoon makes landfall fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "The prediction that momentum around China's evacuation efforts due to the typhoon would compound has been validated. Fresh signals from Al Jazeera confirm ongoing coverage of the typhoon's impact, including rescue operations and damage reports. This indicates sustained attention and downstream spillover effects, aligning with the prediction.",
+      "validated_at": "2026-07-26T21:04:23.120260+00:00",
+      "evidence_used": [
+        "Al Jazeera: Typhoon Noul batters Southeast China",
+        "Al Jazeera: 46 people rescued from sunken ship in South China Sea"
+      ]
     },
     {
       "id": "7de9c02f44b009d9",
@@ -1305,5 +1322,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-25T21:00:15.677739+00:00"
+  "last_updated": "2026-07-26T21:04:21.246141+00:00"
 }
