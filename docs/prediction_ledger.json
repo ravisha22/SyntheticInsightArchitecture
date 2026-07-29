@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "1fae370b65907a73",
+      "created_at": "2026-07-30",
+      "root_cause": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "prediction": "Momentum around Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-13",
+      "falsification": "Signals tied to Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "6cc2864b29833b1e",
       "created_at": "2026-07-27",
       "root_cause": "Nigeria's president approves largest military expansion in recent times",
@@ -1322,5 +1335,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-28T21:14:24.989063+00:00"
+  "last_updated": "2026-07-29T21:03:57.495987+00:00"
 }
