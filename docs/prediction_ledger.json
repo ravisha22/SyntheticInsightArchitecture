@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "617c11f862233bab",
+      "created_at": "2026-07-31",
+      "root_cause": "Father of teen school shooter sentenced to 15 years in prison",
+      "prediction": "Momentum around Father of teen school shooter sentenced to 15 years in prison is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-14",
+      "falsification": "Signals tied to Father of teen school shooter sentenced to 15 years in prison fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "1fae370b65907a73",
       "created_at": "2026-07-30",
       "root_cause": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
@@ -165,9 +178,12 @@
       "maturity_date": "2026-07-31",
       "falsification": "Signals tied to Italian officials handed jail terms for Genoa bridge disaster that killed 43 fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or downstream spillover related to the Genoa bridge disaster jail terms. The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-07-30T21:17:44.524622+00:00",
+      "evidence_used": [
+        "Fresh signals from BBC World, Al Jazeera, and ABC Australia focus on unrelated events such as missile attacks, elephant deaths, earthquakes, a songwriter's death, a school shooter sentencing, and shipping delays for marathon medals."
+      ]
     },
     {
       "id": "853086d51f533e15",
@@ -1335,5 +1351,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-07-29T21:03:57.495987+00:00"
+  "last_updated": "2026-07-30T21:17:41.119793+00:00"
 }
