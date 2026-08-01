@@ -1,49 +1,91 @@
 {
-  "report_date": "2026-08-01",
-  "generated_at": "2026-07-31T21:13:56.911062+00:00",
+  "report_date": "2026-08-02",
+  "generated_at": "2026-08-01T21:02:19.814726+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "body": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "body": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 17:03:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:09:27 GMT"
     },
     {
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "body": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 15:18:31 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 17:07:46 GMT"
     },
     {
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
-      "body": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "body": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 20:22:46 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:51:09 GMT"
     },
     {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "body": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 05:01:56 GMT"
+    },
+    {
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "body": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 17:51:46 GMT"
+    },
+    {
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "body": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 15:25:30 GMT"
+    },
+    {
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "body": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 16:16:16 GMT"
+    },
+    {
+      "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+      "body": "Security officials said the female attacker tried to enter the restaurant but was stopped by a security guard.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:39:16 GMT"
+    },
+    {
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "body": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 13:35:39 GMT"
+    },
+    {
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "body": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 10:32:17 GMT"
+      "published": "Sat, 01 Aug 2026 02:21:29 GMT"
     },
     {
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "body": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "body": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 14:26:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 15:00:07 GMT"
     },
     {
-      "title": "Fifa says 'nobody selling football' as plan continues",
-      "body": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "body": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 08:21:37 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 17:16:51 GMT"
     },
     {
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
@@ -53,34 +95,6 @@
       "published": "Fri, 31 Jul 2026 05:21:18 GMT"
     },
     {
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "body": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 08:09:17 GMT"
-    },
-    {
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "body": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 15:20:19 GMT"
-    },
-    {
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "body": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 17:26:01 GMT"
-    },
-    {
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "body": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 16:47:40 GMT"
-    },
-    {
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "body": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
       "source": "BBC World",
@@ -88,60 +102,46 @@
       "published": "Thu, 30 Jul 2026 17:55:24 GMT"
     },
     {
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "body": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "body": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 15:35:50 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 23:41:10 GMT"
     },
     {
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
-      "body": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "body": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 17:33:41 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 10:02:43 GMT"
     },
     {
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "body": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 12:14:00 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 15:18:31 GMT"
     },
     {
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "body": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "body": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 10:34:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 23:42:32 GMT"
     },
     {
-      "title": "Anthropic's Claude AI escapes to hack into three organisations",
-      "body": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "body": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 10:18:54 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 21:09:39 GMT"
     },
     {
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "body": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "body": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 16:04:53 GMT"
-    },
-    {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "body": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 07:23:11 GMT"
-    },
-    {
-      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "body": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 09:34:00 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Jul 2026 17:26:01 GMT"
     }
   ],
   "signals": [
@@ -149,64 +149,124 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "body": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "body": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 17:03:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:09:27 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "body": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 15:18:31 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 17:07:46 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
-      "body": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "body": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 20:22:46 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:51:09 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "body": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "body": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 10:32:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 05:01:56 GMT"
     },
     {
       "number": 5,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "body": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "body": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 14:26:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 17:51:46 GMT"
     },
     {
       "number": 6,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Fifa says 'nobody selling football' as plan continues",
-      "body": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "body": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 08:21:37 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 15:25:30 GMT"
     },
     {
       "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "body": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 16:16:16 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+      "body": "Security officials said the female attacker tried to enter the restaurant but was stopped by a security guard.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 20:39:16 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "body": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 13:35:39 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "body": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 02:21:29 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "body": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 15:00:07 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "body": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 17:16:51 GMT"
+    },
+    {
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
@@ -216,47 +276,7 @@
       "published": "Fri, 31 Jul 2026 05:21:18 GMT"
     },
     {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "body": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 08:09:17 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "body": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 15:20:19 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Why limited war with the US may suit Iran better than peace",
-      "body": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 17:26:01 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "body": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 16:47:40 GMT"
-    },
-    {
-      "number": 12,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -266,348 +286,328 @@
       "published": "Thu, 30 Jul 2026 17:55:24 GMT"
     },
     {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "body": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 15:35:50 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
-      "body": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 17:33:41 GMT"
-    },
-    {
       "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "body": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "body": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 12:14:00 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 23:41:10 GMT"
     },
     {
       "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "body": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "body": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 10:34:07 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 10:02:43 GMT"
     },
     {
       "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Anthropic's Claude AI escapes to hack into three organisations",
-      "body": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 10:18:54 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 15:18:31 GMT"
     },
     {
       "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "body": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "body": "More police departments are trying to invigorate unsolved murder or missing cases through the power of podcasts.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 16:04:53 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 23:42:32 GMT"
     },
     {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "body": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "body": "At least two chartered flights carrying up to 150 greyhounds are set to fly to Australia's eastern states, the BBC understands.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 07:23:11 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 31 Jul 2026 21:09:39 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "body": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+      "title": "Why limited war with the US may suit Iran better than peace",
+      "body": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 09:34:00 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Jul 2026 17:26:01 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 4.075528633140137,
-      "contest_score": -0.8702175035101032,
+      "priority_score": 3.944004052477932,
+      "contest_score": -1.4464561030046261,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8276544180535725,
-      "contestedness": 0.04921135730343651,
-      "impact": 0.565,
+      "central_tendency": 0.8982095758746822,
+      "contestedness": 0.020376616250552315,
+      "impact": 0.605,
       "top_clusters": {
-        "governance_oriented": 0.8951715367460645,
-        "stability_seeking": 0.890317890864897
+        "governance_oriented": 0.9264967130599143,
+        "survival_focused": 0.9260691886302472
       },
       "bottom_clusters": {
-        "expression_oriented": 0.7223911873280738
+        "achievement_oriented": 0.838179899512093
       },
       "cluster_means": {
-        "survival_focused": 0.8759964087387359,
-        "stability_seeking": 0.890317890864897,
-        "achievement_oriented": 0.8411065335614605,
-        "care_oriented": 0.838817652076816,
-        "knowledge_oriented": 0.7695543255685059,
-        "governance_oriented": 0.8951715367460645,
-        "sovereignty_order_oriented": 0.8647719296043334,
-        "expression_oriented": 0.7223911873280738,
-        "ecosystem_oriented": 0.750762297993266
+        "survival_focused": 0.9260691886302472,
+        "stability_seeking": 0.906947227688472,
+        "achievement_oriented": 0.838179899512093,
+        "care_oriented": 0.9194595267427315,
+        "knowledge_oriented": 0.8936167032751668,
+        "governance_oriented": 0.9264967130599143,
+        "sovereignty_order_oriented": 0.8827616051213493,
+        "expression_oriented": 0.8849893512958075,
+        "ecosystem_oriented": 0.9053659675463598
       },
-      "priority_raw": 0.3740997969602148,
-      "contest_raw": 0.027804416876441626
+      "priority_raw": 0.38039175538292785,
+      "contest_raw": 0.01232785283158415
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy putting nearly all major cities on highest heat alert",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6950411536513011,
-      "contest_score": 0.22100892473495323,
+      "priority_score": 0.7545971853807599,
+      "contest_score": -0.8484154489766561,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2491243472473649,
-      "contestedness": 0.0585606943100172,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.42530360137699097,
-        "knowledge_oriented": 0.3809795190557861
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.11549868438412758
-      },
-      "cluster_means": {
-        "survival_focused": 0.11549868438412758,
-        "stability_seeking": 0.17145372794315097,
-        "achievement_oriented": 0.28522956126924615,
-        "care_oriented": 0.22767850657674893,
-        "knowledge_oriented": 0.3809795190557861,
-        "governance_oriented": 0.20615639405349956,
-        "sovereignty_order_oriented": 0.14357992967996816,
-        "expression_oriented": 0.42530360137699097,
-        "ecosystem_oriented": 0.28623920088676613
-      },
-      "priority_raw": 0.1334060879509639,
-      "contest_raw": 0.044798931147163164
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.38293422009030226,
-      "contest_score": 0.9409088698147207,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22598332776426616,
-      "contestedness": 0.06830547624465302,
+      "central_tendency": 0.2926564500124295,
+      "contestedness": 0.026280002974043343,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.38841647889874575,
-        "knowledge_oriented": 0.3519777964517711
+        "expression_oriented": 0.36783708617899047,
+        "knowledge_oriented": 0.3655014421626961
       },
       "bottom_clusters": {
-        "survival_focused": 0.10937157218510227
+        "survival_focused": 0.2240405443528275
       },
       "cluster_means": {
-        "survival_focused": 0.10937157218510227,
-        "stability_seeking": 0.1503862084444811,
-        "achievement_oriented": 0.2951634152858901,
-        "care_oriented": 0.18320336128472678,
-        "knowledge_oriented": 0.3519777964517711,
-        "governance_oriented": 0.15788964065485334,
-        "sovereignty_order_oriented": 0.1459326391434454,
-        "expression_oriented": 0.38841647889874575,
-        "ecosystem_oriented": 0.2515088375293798
+        "survival_focused": 0.2240405443528275,
+        "stability_seeking": 0.24513823319854497,
+        "achievement_oriented": 0.3548821673583305,
+        "care_oriented": 0.26589095889787684,
+        "knowledge_oriented": 0.3655014421626961,
+        "governance_oriented": 0.2714182361725883,
+        "sovereignty_order_oriented": 0.2719791497287525,
+        "expression_oriented": 0.36783708617899047,
+        "ecosystem_oriented": 0.2672202320612592
       },
-      "priority_raw": 0.11118379726001897,
-      "contest_raw": 0.056010490520615484
+      "priority_raw": 0.14398697340611533,
+      "contest_raw": 0.021549602438715544
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "title": "Fifa says 'nobody selling football' as plan continues",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.18709187890346562,
-      "contest_score": -1.3257753457434793,
+      "priority_score": 0.7328910980184594,
+      "contest_score": 0.08831845029753019,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.329625927934953,
-      "contestedness": 0.03510112167994944,
+      "central_tendency": 0.39881814496114737,
+      "contestedness": 0.060494085337144454,
+      "impact": 0.595,
+      "top_clusters": {
+        "achievement_oriented": 0.49613240399392294,
+        "expression_oriented": 0.4692491373025157
+      },
+      "bottom_clusters": {
+        "care_oriented": 0.30215021918001556
+      },
+      "cluster_means": {
+        "survival_focused": 0.38531678292499,
+        "stability_seeking": 0.4049965832623963,
+        "achievement_oriented": 0.49613240399392294,
+        "care_oriented": 0.30215021918001556,
+        "knowledge_oriented": 0.46050855153017156,
+        "governance_oriented": 0.3423171825646294,
+        "sovereignty_order_oriented": 0.39459326461441463,
+        "expression_oriented": 0.4692491373025157,
+        "ecosystem_oriented": 0.3340991792772702
+      },
+      "priority_raw": 0.1423780777511296,
+      "contest_raw": 0.035993980775600946
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.4566983620277938,
+      "contest_score": 1.499648406392177,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2477767425650993,
+      "contestedness": 0.07043487893343217,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.4367005189718754,
+        "knowledge_oriented": 0.3984757345424216
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10185708324796758
+      },
+      "cluster_means": {
+        "survival_focused": 0.10185708324796758,
+        "stability_seeking": 0.1529455789211782,
+        "achievement_oriented": 0.2932802952736284,
+        "care_oriented": 0.21280495280352338,
+        "knowledge_oriented": 0.3984757345424216,
+        "governance_oriented": 0.2016645565040792,
+        "sovereignty_order_oriented": 0.1490221310842644,
+        "expression_oriented": 0.4367005189718754,
+        "ecosystem_oriented": 0.28323983173695555
+      },
+      "priority_raw": 0.12190615734202885,
+      "contest_raw": 0.057756600725414386
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.07071611524815065,
+      "contest_score": -0.9992274422240306,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.26354924787542794,
+      "contestedness": 0.03258320492115871,
       "impact": 0.59,
       "top_clusters": {
-        "expression_oriented": 0.447537961866171,
-        "knowledge_oriented": 0.41513562560329687
+        "expression_oriented": 0.4007029774611749,
+        "knowledge_oriented": 0.3624831603058318
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2509689337191085
+        "sovereignty_order_oriented": 0.1915438706486716
       },
       "cluster_means": {
-        "survival_focused": 0.2720799388155488,
-        "stability_seeking": 0.30494948651750203,
-        "achievement_oriented": 0.3400506081974515,
-        "care_oriented": 0.34859190290066466,
-        "knowledge_oriented": 0.41513562560329687,
-        "governance_oriented": 0.28461509859825507,
-        "sovereignty_order_oriented": 0.2509689337191085,
-        "expression_oriented": 0.447537961866171,
-        "ecosystem_oriented": 0.3027037951965786
+        "survival_focused": 0.20763094749013963,
+        "stability_seeking": 0.24706080595464672,
+        "achievement_oriented": 0.3089010812745403,
+        "care_oriented": 0.23629636040746613,
+        "knowledge_oriented": 0.3624831603058318,
+        "governance_oriented": 0.20371315548630742,
+        "sovereignty_order_oriented": 0.1915438706486716,
+        "expression_oriented": 0.4007029774611749,
+        "ecosystem_oriented": 0.2136108718500731
       },
-      "priority_raw": 0.09723964874081113,
-      "contest_raw": 0.020709661791170172
+      "priority_raw": 0.09329643374790149,
+      "contest_raw": 0.019224090903483638
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.11263770527021227,
-      "contest_score": -0.821368823571918,
+      "priority_score": 0.027528805146789764,
+      "contest_score": -1.0987783091333763,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3331103097598664,
-      "contestedness": 0.04139880463786855,
-      "impact": 0.6900000000000001,
+      "central_tendency": 0.30284137755612617,
+      "contestedness": 0.029729449985038015,
+      "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.4739451041668497,
-        "knowledge_oriented": 0.43362271189948814
+        "expression_oriented": 0.4238129450469834,
+        "knowledge_oriented": 0.3900297528822656
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2528509409289665
+        "sovereignty_order_oriented": 0.23406197900606807
       },
       "cluster_means": {
-        "survival_focused": 0.27445643557665594,
-        "stability_seeking": 0.2880266408858958,
-        "achievement_oriented": 0.3515902089551332,
-        "care_oriented": 0.3533801478843377,
-        "knowledge_oriented": 0.43362271189948814,
-        "governance_oriented": 0.2542653573269458,
-        "sovereignty_order_oriented": 0.2528509409289665,
-        "expression_oriented": 0.4739451041668497,
-        "ecosystem_oriented": 0.3158552402145245
+        "survival_focused": 0.2569002416700009,
+        "stability_seeking": 0.2787779233824348,
+        "achievement_oriented": 0.2993951356044233,
+        "care_oriented": 0.3145386029928918,
+        "knowledge_oriented": 0.3900297528822656,
+        "governance_oriented": 0.243246664412214,
+        "sovereignty_order_oriented": 0.23406197900606807,
+        "expression_oriented": 0.4238129450469834,
+        "ecosystem_oriented": 0.2848091530078538
       },
-      "priority_raw": 0.09193844549372314,
-      "contest_raw": 0.0285651752001293
+      "priority_raw": 0.09009530982294753,
+      "contest_raw": 0.01768902274109762
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "title": "Tourist plane crashes in Peru, killing 13",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.09019169641588705,
-      "contest_score": 0.6833098886676959,
+      "priority_score": -0.08305484321344488,
+      "contest_score": 0.06724808580046976,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3072798290495123,
-      "contestedness": 0.07074653345427234,
-      "impact": 0.7350000000000001,
+      "central_tendency": 0.20839349537120494,
+      "contestedness": 0.054456606211368386,
+      "impact": 0.655,
       "top_clusters": {
-        "expression_oriented": 0.4725340462468405,
-        "knowledge_oriented": 0.415004293390265
+        "expression_oriented": 0.38394845449851006,
+        "knowledge_oriented": 0.32243566342412766
       },
       "bottom_clusters": {
-        "survival_focused": 0.21395829288516227
+        "survival_focused": 0.11622915421935653
       },
       "cluster_means": {
-        "survival_focused": 0.21395829288516227,
-        "stability_seeking": 0.23161769002842333,
-        "achievement_oriented": 0.28938252716053803,
-        "care_oriented": 0.299346266111416,
-        "knowledge_oriented": 0.415004293390265,
-        "governance_oriented": 0.24272951308882174,
-        "sovereignty_order_oriented": 0.21863599370626569,
-        "expression_oriented": 0.4725340462468405,
-        "ecosystem_oriented": 0.38230983882787817
+        "survival_focused": 0.11622915421935653,
+        "stability_seeking": 0.15524845880421528,
+        "achievement_oriented": 0.14626802857318089,
+        "care_oriented": 0.18083217020293835,
+        "knowledge_oriented": 0.32243566342412766,
+        "governance_oriented": 0.18083004211167258,
+        "sovereignty_order_oriented": 0.1263734359003042,
+        "expression_oriented": 0.38394845449851006,
+        "ecosystem_oriented": 0.26337605060653885
       },
-      "priority_raw": 0.09034026974055663,
-      "contest_raw": 0.05199870208889018
+      "priority_raw": 0.08189864368088354,
+      "contest_raw": 0.03566907706844629
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.09613934826012145,
-      "contest_score": 0.7474116542276422,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.19762393326923827,
-      "contestedness": 0.0679448827279033,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.33588056794690824,
-        "knowledge_oriented": 0.298541307847093
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.1092459745801346
-      },
-      "cluster_means": {
-        "survival_focused": 0.1092459745801346,
-        "stability_seeking": 0.12453865290687222,
-        "achievement_oriented": 0.19248353563477552,
-        "care_oriented": 0.22438887118608325,
-        "knowledge_oriented": 0.298541307847093,
-        "governance_oriented": 0.16289744870336642,
-        "sovereignty_order_oriented": 0.11742025638610912,
-        "expression_oriented": 0.33588056794690824,
-        "ecosystem_oriented": 0.2132187842318018
-      },
-      "priority_raw": 0.07707333397500293,
-      "contest_raw": 0.05299700852776458
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.12417516675712222,
-      "contest_score": 0.18645206288607544,
+      "priority_score": -0.17508551406873585,
+      "contest_score": 0.6244275953619035,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -636,112 +636,76 @@
       "contest_raw": 0.04426075037492272
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.15057326744879423,
-      "contest_score": -0.5314328922438913,
+      "priority_score": -0.25819590404451254,
+      "contest_score": -0.11195827672152799,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.19262523845801222,
-      "contestedness": 0.04352706842167606,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.15113346884389756,
+      "contestedness": 0.04329700806436937,
       "impact": 0.76,
       "top_clusters": {
-        "expression_oriented": 0.34311979681595306,
-        "knowledge_oriented": 0.3073574128898238
+        "expression_oriented": 0.34536939875012457,
+        "knowledge_oriented": 0.28832983022710107
       },
       "bottom_clusters": {
-        "stability_seeking": 0.1112635715147591
+        "survival_focused": 0.02294029152717625
       },
       "cluster_means": {
-        "survival_focused": 0.12007232937486534,
-        "stability_seeking": 0.1112635715147591,
-        "achievement_oriented": 0.2149161450859201,
-        "care_oriented": 0.15479063993643516,
-        "knowledge_oriented": 0.3073574128898238,
-        "governance_oriented": 0.12166537869864813,
-        "sovereignty_order_oriented": 0.14454061887823885,
-        "expression_oriented": 0.34311979681595306,
-        "ecosystem_oriented": 0.21590125292746631
+        "survival_focused": 0.02294029152717625,
+        "stability_seeking": 0.06271164504396662,
+        "achievement_oriented": 0.1674185255883868,
+        "care_oriented": 0.06266796372432334,
+        "knowledge_oriented": 0.28832983022710107,
+        "governance_oriented": 0.060393192110016536,
+        "sovereignty_order_oriented": 0.06623729959154562,
+        "expression_oriented": 0.34536939875012457,
+        "ecosystem_oriented": 0.19638225924012584
       },
-      "priority_raw": 0.07319759061404464,
-      "contest_raw": 0.033080572000473804
+      "priority_raw": 0.06891686179281728,
+      "contest_raw": 0.03290572612892072
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.19538498707544186,
-      "contest_score": 0.3778614131505459,
+      "priority_score": -0.2636675841920679,
+      "contest_score": 0.913765421685454,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22582889162071482,
-      "contestedness": 0.06095705345051733,
-      "impact": 0.775,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.13925059077476287,
+      "contestedness": 0.05941746539193449,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.4346435077842461,
-        "knowledge_oriented": 0.3727294895826063
+        "expression_oriented": 0.30364243743686214,
+        "knowledge_oriented": 0.2545560557078296
       },
       "bottom_clusters": {
-        "survival_focused": 0.10898717422015042
+        "survival_focused": -0.008588617160608103
       },
       "cluster_means": {
-        "survival_focused": 0.10898717422015042,
-        "stability_seeking": 0.1300676593120873,
-        "achievement_oriented": 0.2679497949072076,
-        "care_oriented": 0.16994422767066775,
-        "knowledge_oriented": 0.3727294895826063,
-        "governance_oriented": 0.11323397435954288,
-        "sovereignty_order_oriented": 0.1267553077716288,
-        "expression_oriented": 0.4346435077842461,
-        "ecosystem_oriented": 0.30814888897829606
+        "survival_focused": -0.008588617160608103,
+        "stability_seeking": 0.0447300999324616,
+        "achievement_oriented": 0.14915391853884333,
+        "care_oriented": 0.10414756532439609,
+        "knowledge_oriented": 0.2545560557078296,
+        "governance_oriented": 0.0927293994757856,
+        "sovereignty_order_oriented": 0.04480822017750602,
+        "expression_oriented": 0.30364243743686214,
+        "ecosystem_oriented": 0.17505022909604198
       },
-      "priority_raw": 0.07000695640242159,
-      "contest_raw": 0.04724171642415093
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.37174725132506264,
-      "contest_score": -1.5050948820114534,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.28724903325682843,
-      "contestedness": 0.03583395955660601,
-      "impact": 0.5,
-      "top_clusters": {
-        "expression_oriented": 0.42544230227970115,
-        "knowledge_oriented": 0.38481750991773744
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.2040235285971872
-      },
-      "cluster_means": {
-        "survival_focused": 0.24638569802727336,
-        "stability_seeking": 0.26588554910519574,
-        "achievement_oriented": 0.281094236708306,
-        "care_oriented": 0.25004148987912506,
-        "knowledge_oriented": 0.38481750991773744,
-        "governance_oriented": 0.2040235285971872,
-        "sovereignty_order_oriented": 0.22583147613512872,
-        "expression_oriented": 0.42544230227970115,
-        "ecosystem_oriented": 0.30171950866180175
-      },
-      "priority_raw": 0.05744980665136569,
-      "contest_raw": 0.017916979778303005
+      "priority_raw": 0.06851129066118333,
+      "contest_raw": 0.04872232162138628
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
@@ -750,142 +714,178 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.38447818473021306,
-      "contest_score": -1.4216901900152468,
+      "priority_score": -0.3148871473600784,
+      "contest_score": -1.2506369783589866,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.14978371627320453,
-      "contestedness": 0.02545153064871522,
-      "impact": 0.755,
+      "central_tendency": 0.16700593849542683,
+      "contestedness": 0.01980306003551524,
+      "impact": 0.775,
       "top_clusters": {
-        "expression_oriented": 0.24499781171384177,
-        "knowledge_oriented": 0.23163855628092858
+        "expression_oriented": 0.2549978117138418,
+        "knowledge_oriented": 0.24663855628092857
       },
       "bottom_clusters": {
-        "survival_focused": 0.07944584843547359
+        "survival_focused": 0.0944458484354736
       },
       "cluster_means": {
-        "survival_focused": 0.07944584843547359,
-        "stability_seeking": 0.09625052828221883,
-        "achievement_oriented": 0.1471521898155421,
-        "care_oriented": 0.16224810885618243,
-        "knowledge_oriented": 0.23163855628092858,
-        "governance_oriented": 0.12699351817195198,
-        "sovereignty_order_oriented": 0.12253030669523415,
-        "expression_oriented": 0.24499781171384177,
-        "ecosystem_oriented": 0.1367965782074672
+        "survival_focused": 0.0944458484354736,
+        "stability_seeking": 0.11125052828221885,
+        "achievement_oriented": 0.17215218981554223,
+        "care_oriented": 0.17224810885618244,
+        "knowledge_oriented": 0.24663855628092857,
+        "governance_oriented": 0.1419935181719521,
+        "sovereignty_order_oriented": 0.1475303066952343,
+        "expression_oriented": 0.2549978117138418,
+        "ecosystem_oriented": 0.16179657820746735
       },
-      "priority_raw": 0.05654335289313471,
-      "contest_raw": 0.01921590563977999
+      "priority_raw": 0.06471480116697789,
+      "contest_raw": 0.015347371527524313
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3965877997554146,
-      "contest_score": -0.09177415257231841,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.1427721475769972,
-      "contestedness": 0.05118938211338647,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.2828299405682551,
-        "knowledge_oriented": 0.25394633266161626
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.047897889329513166
-      },
-      "cluster_means": {
-        "survival_focused": 0.047897889329513166,
-        "stability_seeking": 0.06964944277471372,
-        "achievement_oriented": 0.17553100970825608,
-        "care_oriented": 0.14050927938586036,
-        "knowledge_oriented": 0.25394633266161626,
-        "governance_oriented": 0.10864045345586945,
-        "sovereignty_order_oriented": 0.07640727428264818,
-        "expression_oriented": 0.2828299405682551,
-        "ecosystem_oriented": 0.12434162759486961
-      },
-      "priority_raw": 0.0556811375550289,
-      "contest_raw": 0.03992771804844145
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4043567371674481,
-      "contest_score": -1.5332287003826415,
+      "priority_score": -0.372023535822325,
+      "contest_score": -1.2251725722927747,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.19973906636123395,
-      "contestedness": 0.025331637734038237,
-      "impact": 0.6900000000000001,
+      "central_tendency": 0.34169347770127295,
+      "contestedness": 0.026678018782676616,
+      "impact": 0.59,
       "top_clusters": {
-        "expression_oriented": 0.3093419809941641,
-        "knowledge_oriented": 0.2507075926669172
+        "expression_oriented": 0.4704423022797011,
+        "knowledge_oriented": 0.42481750991773737
       },
       "bottom_clusters": {
-        "governance_oriented": 0.1101558692423133
+        "governance_oriented": 0.23902352859718723
       },
       "cluster_means": {
-        "survival_focused": 0.18267775295168853,
-        "stability_seeking": 0.1727491864395421,
-        "achievement_oriented": 0.18181121995909777,
-        "care_oriented": 0.20800939068572677,
-        "knowledge_oriented": 0.2507075926669172,
-        "governance_oriented": 0.1101558692423133,
-        "sovereignty_order_oriented": 0.16136732386101413,
-        "expression_oriented": 0.3093419809941641,
-        "ecosystem_oriented": 0.22083128045064185
+        "survival_focused": 0.32638569802727335,
+        "stability_seeking": 0.3058855491051958,
+        "achievement_oriented": 0.33109423670830607,
+        "care_oriented": 0.3300414898791251,
+        "knowledge_oriented": 0.42481750991773737,
+        "governance_oriented": 0.23902352859718723,
+        "sovereignty_order_oriented": 0.29083147613512883,
+        "expression_oriented": 0.4704423022797011,
+        "ecosystem_oriented": 0.35671950866180174
       },
-      "priority_raw": 0.055127982315700576,
-      "contest_raw": 0.017478830036486384
+      "priority_raw": 0.060479745553125304,
+      "contest_raw": 0.015740031081779203
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
-      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+      "signal_id": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4061303426687493,
-      "contest_score": 0.6477349127092893,
+      "priority_score": -0.39662127127090646,
+      "contest_score": -0.829539292432761,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.1437952941955097,
-      "contestedness": 0.06724792867600057,
-      "impact": 0.765,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2734569489604335,
+      "contestedness": 0.030546393840566566,
+      "impact": 0.7150000000000001,
       "top_clusters": {
-        "expression_oriented": 0.2974883500801788,
-        "knowledge_oriented": 0.2417058200856048
+        "expression_oriented": 0.438893967411829,
+        "knowledge_oriented": 0.3864819141570958
       },
       "bottom_clusters": {
-        "survival_focused": 0.03858194522361172
+        "governance_oriented": 0.19103207890594215
       },
       "cluster_means": {
-        "survival_focused": 0.03858194522361172,
-        "stability_seeking": 0.06196985181590489,
-        "achievement_oriented": 0.13972456054662433,
-        "care_oriented": 0.12921778049190547,
-        "knowledge_oriented": 0.2417058200856048,
-        "governance_oriented": 0.0754915106019535,
-        "sovereignty_order_oriented": 0.07621545962483742,
-        "expression_oriented": 0.2974883500801788,
-        "ecosystem_oriented": 0.2151948334817969
+        "survival_focused": 0.20024522586437513,
+        "stability_seeking": 0.198855951904007,
+        "achievement_oriented": 0.2821334489655992,
+        "care_oriented": 0.22157847274650871,
+        "knowledge_oriented": 0.3864819141570958,
+        "governance_oriented": 0.19103207890594215,
+        "sovereignty_order_oriented": 0.21109010566690203,
+        "expression_oriented": 0.438893967411829,
+        "ecosystem_oriented": 0.330801375021642
       },
-      "priority_raw": 0.05500170002978246,
-      "contest_raw": 0.05144466543714044
+      "priority_raw": 0.05865651555201298,
+      "contest_raw": 0.0218406715960051
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.42269196395182373,
+      "contest_score": 0.6128483923424948,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.7222222222222222,
+      "central_tendency": 0.11529290084406203,
+      "contestedness": 0.05375878022699504,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.2738971278592139,
+        "knowledge_oriented": 0.22044292010826683
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.015539434687421888
+      },
+      "cluster_means": {
+        "survival_focused": -0.015539434687421888,
+        "stability_seeking": 0.010544343086324903,
+        "achievement_oriented": 0.1015010083868384,
+        "care_oriented": 0.06430312331331994,
+        "knowledge_oriented": 0.22044292010826683,
+        "governance_oriented": 0.018185423611987356,
+        "sovereignty_order_oriented": 0.024815758907181518,
+        "expression_oriented": 0.2738971278592139,
+        "ecosystem_oriented": 0.1491579277926305
+      },
+      "priority_raw": 0.05672410721527852,
+      "contest_raw": 0.04408219978613594
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.43477722720473416,
+      "contest_score": 1.314883255456963,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.13870391298458468,
+      "contestedness": 0.06820811629199489,
+      "impact": 0.8049999999999999,
+      "top_clusters": {
+        "expression_oriented": 0.3145958248561169,
+        "knowledge_oriented": 0.2386905746927929
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.026368473106288176
+      },
+      "cluster_means": {
+        "survival_focused": 0.026717031567272176,
+        "stability_seeking": 0.03159408733326155,
+        "achievement_oriented": 0.1296298436310217,
+        "care_oriented": 0.09492514785926706,
+        "knowledge_oriented": 0.2386905746927929,
+        "governance_oriented": 0.026368473106288176,
+        "sovereignty_order_oriented": 0.03648869186746059,
+        "expression_oriented": 0.3145958248561169,
+        "ecosystem_oriented": 0.2243754647617493
+      },
+      "priority_raw": 0.05582832497629533,
+      "contest_raw": 0.054907533615055876
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
@@ -894,8 +894,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.48094019005550737,
-      "contest_score": -0.16122544666154154,
+      "priority_score": -0.5177912280706662,
+      "contest_score": 0.2732814861352875,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -924,76 +924,112 @@
       "contest_raw": 0.03884609925882181
     },
     {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6081844373385924,
+      "contest_score": 1.5114155463754402,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.1545865443660705,
+      "contestedness": 0.0833640996985166,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.35725473795031687,
+        "knowledge_oriented": 0.28730144024308724
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.01914560198259327
+      },
+      "cluster_means": {
+        "survival_focused": 0.02542281523561485,
+        "stability_seeking": 0.0653819936379002,
+        "achievement_oriented": 0.1579851382497148,
+        "care_oriented": 0.1466580095344112,
+        "knowledge_oriented": 0.28730144024308724,
+        "governance_oriented": 0.06329390983589459,
+        "sovereignty_order_oriented": 0.01914560198259327,
+        "expression_oriented": 0.35725473795031687,
+        "ecosystem_oriented": 0.20035195311370543
+      },
+      "priority_raw": 0.0429750593337676,
+      "contest_raw": 0.057938049290469036
+    },
+    {
       "signal_id": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
       "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5546544558654642,
-      "contest_score": 2.2390799121936813,
+      "priority_score": -0.6233354401959682,
+      "contest_score": 1.0318408427611818,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8611111111111112,
-      "central_tendency": 0.1433117785239226,
-      "contestedness": 0.09835859811114422,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.13500657664782917,
+      "contestedness": 0.06521682226363512,
       "impact": 0.775,
       "top_clusters": {
-        "expression_oriented": 0.29848902937303234,
-        "knowledge_oriented": 0.2417845908103762
+        "expression_oriented": 0.26014945179631815,
+        "knowledge_oriented": 0.2177704853139275
       },
       "bottom_clusters": {
-        "stability_seeking": 0.02383029330171485
+        "governance_oriented": 0.026480543558015462
       },
       "cluster_means": {
-        "survival_focused": 0.03917330195449131,
-        "stability_seeking": 0.02383029330171485,
-        "achievement_oriented": 0.17556260603546436,
-        "care_oriented": 0.14393148033715175,
-        "knowledge_oriented": 0.2417845908103762,
-        "governance_oriented": 0.03705843500517497,
-        "sovereignty_order_oriented": 0.04557288222600753,
-        "expression_oriented": 0.29848902937303234,
-        "ecosystem_oriented": 0.19333956709284425
+        "survival_focused": 0.07023533058804216,
+        "stability_seeking": 0.043777271160269166,
+        "achievement_oriented": 0.20858415699776073,
+        "care_oriented": 0.10899409342390429,
+        "knowledge_oriented": 0.2177704853139275,
+        "governance_oriented": 0.026480543558015462,
+        "sovereignty_order_oriented": 0.0859642163405305,
+        "expression_oriented": 0.26014945179631815,
+        "ecosystem_oriented": 0.16716957471762822
       },
-      "priority_raw": 0.04442665134241601,
-      "contest_raw": 0.07622791353613678
+      "priority_raw": 0.04185203876082705,
+      "contest_raw": 0.05054303725431722
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "title": "Anthropic's Claude AI escapes to hack into three organisations",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6089962624524409,
-      "contest_score": 1.1599668690827942,
+      "priority_score": -0.6812513416582263,
+      "contest_score": -1.1110877960027423,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5,
-      "central_tendency": 0.10333112479097131,
-      "contestedness": 0.07569687948198472,
-      "impact": 0.785,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.20031575568222776,
+      "contestedness": 0.04666456325564175,
+      "impact": 0.375,
       "top_clusters": {
-        "expression_oriented": 0.1761102515485176,
-        "knowledge_oriented": 0.10623828493095577
+        "expression_oriented": 0.3309200907200247,
+        "knowledge_oriented": 0.3038903844540178
       },
       "bottom_clusters": {
-        "stability_seeking": -0.09686757440102023
+        "sovereignty_order_oriented": 0.10221777425528716
       },
       "cluster_means": {
-        "survival_focused": -0.08635511384662925,
-        "stability_seeking": -0.09686757440102023,
-        "achievement_oriented": -0.021170694919035504,
-        "care_oriented": 0.05533831798931746,
-        "knowledge_oriented": 0.10623828493095577,
-        "governance_oriented": -0.05403446698657166,
-        "sovereignty_order_oriented": -0.06485471403352469,
-        "expression_oriented": 0.1761102515485176,
-        "ecosystem_oriented": 0.08933544452193176
+        "survival_focused": 0.12679555018272737,
+        "stability_seeking": 0.20578928355897227,
+        "achievement_oriented": 0.21003375983257588,
+        "care_oriented": 0.19808485567064593,
+        "knowledge_oriented": 0.3038903844540178,
+        "governance_oriented": 0.1736898100507945,
+        "sovereignty_order_oriented": 0.10221777425528716,
+        "expression_oriented": 0.3309200907200247,
+        "ecosystem_oriented": 0.15142029241500418
       },
-      "priority_raw": 0.040557466480456245,
-      "contest_raw": 0.05942205039335801
+      "priority_raw": 0.03755920419041771,
+      "contest_raw": 0.017499211220865656
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
@@ -1002,334 +1038,298 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6833664175291192,
-      "contest_score": 0.9653260277401429,
+      "priority_score": -0.834868179907806,
+      "contest_score": 0.9835947365385876,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6111111111111112,
-      "central_tendency": 0.09727515980460688,
-      "contestedness": 0.07778035562887047,
-      "impact": 0.725,
+      "sign_agreement": 0.5277777777777778,
+      "central_tendency": 0.09482912246663483,
+      "contestedness": 0.0721725873966877,
+      "impact": 0.69,
       "top_clusters": {
-        "expression_oriented": 0.21086379804449457,
-        "knowledge_oriented": 0.16520389078635891
+        "expression_oriented": 0.17338250466764793,
+        "knowledge_oriented": 0.1189317896728952
       },
       "bottom_clusters": {
-        "survival_focused": -0.04356321660304016
+        "survival_focused": -0.07856321660304019
       },
       "cluster_means": {
-        "survival_focused": -0.04356321660304016,
-        "stability_seeking": -0.02334777341253716,
-        "achievement_oriented": 0.06987166916693631,
-        "care_oriented": 0.07622807405375778,
-        "knowledge_oriented": 0.16520389078635891,
-        "governance_oriented": 0.012154593649472578,
-        "sovereignty_order_oriented": -0.007908686461934156,
-        "expression_oriented": 0.21086379804449457,
-        "ecosystem_oriented": 0.10994389064965215
+        "survival_focused": -0.07856321660304019,
+        "stability_seeking": -0.07478636054671806,
+        "achievement_oriented": 0.019871669166936265,
+        "care_oriented": 0.04888057793452072,
+        "knowledge_oriented": 0.1189317896728952,
+        "governance_oriented": -0.035333835376696765,
+        "sovereignty_order_oriented": -0.05230091822975144,
+        "expression_oriented": 0.17338250466764793,
+        "ecosystem_oriented": 0.07947242180415325
       },
-      "priority_raw": 0.035262245429169996,
-      "contest_raw": 0.05639075783093109
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6858948763804048,
-      "contest_score": 0.09274740150505499,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.7222222222222222,
-      "central_tendency": 0.10861367465862709,
-      "contestedness": 0.053004848437613716,
-      "impact": 0.8075,
-      "top_clusters": {
-        "expression_oriented": 0.2535615395069372,
-        "knowledge_oriented": 0.19546702267003183
-      },
-      "bottom_clusters": {
-        "governance_oriented": -0.009576260304470174
-      },
-      "cluster_means": {
-        "survival_focused": 0.001665313328964052,
-        "stability_seeking": 0.008630122223789005,
-        "achievement_oriented": 0.10175620947121561,
-        "care_oriented": 0.012989740704606206,
-        "knowledge_oriented": 0.19546702267003183,
-        "governance_oriented": -0.009576260304470174,
-        "sovereignty_order_oriented": 0.05467016176657777,
-        "expression_oriented": 0.2535615395069372,
-        "ecosystem_oriented": 0.16941204252291772
-      },
-      "priority_raw": 0.03508221691473656,
-      "contest_raw": 0.04280141511337308
+      "priority_raw": 0.026172837800791212,
+      "contest_raw": 0.04979908530371451
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 4.075528633140137,
-      "contest_score": -0.8702175035101032,
+      "priority_score": 3.944004052477932,
+      "contest_score": -1.4464561030046261,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8276544180535725,
-      "contestedness": 0.04921135730343651,
-      "impact": 0.565,
+      "central_tendency": 0.8982095758746822,
+      "contestedness": 0.020376616250552315,
+      "impact": 0.605,
       "top_clusters": {
-        "governance_oriented": 0.8951715367460645,
-        "stability_seeking": 0.890317890864897
+        "governance_oriented": 0.9264967130599143,
+        "survival_focused": 0.9260691886302472
       },
       "bottom_clusters": {
-        "expression_oriented": 0.7223911873280738
+        "achievement_oriented": 0.838179899512093
       },
       "cluster_means": {
-        "survival_focused": 0.8759964087387359,
-        "stability_seeking": 0.890317890864897,
-        "achievement_oriented": 0.8411065335614605,
-        "care_oriented": 0.838817652076816,
-        "knowledge_oriented": 0.7695543255685059,
-        "governance_oriented": 0.8951715367460645,
-        "sovereignty_order_oriented": 0.8647719296043334,
-        "expression_oriented": 0.7223911873280738,
-        "ecosystem_oriented": 0.750762297993266
+        "survival_focused": 0.9260691886302472,
+        "stability_seeking": 0.906947227688472,
+        "achievement_oriented": 0.838179899512093,
+        "care_oriented": 0.9194595267427315,
+        "knowledge_oriented": 0.8936167032751668,
+        "governance_oriented": 0.9264967130599143,
+        "sovereignty_order_oriented": 0.8827616051213493,
+        "expression_oriented": 0.8849893512958075,
+        "ecosystem_oriented": 0.9053659675463598
       },
-      "priority_raw": 0.3740997969602148,
-      "contest_raw": 0.027804416876441626
+      "priority_raw": 0.38039175538292785,
+      "contest_raw": 0.01232785283158415
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy putting nearly all major cities on highest heat alert",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6950411536513011,
-      "contest_score": 0.22100892473495323,
+      "priority_score": 0.7545971853807599,
+      "contest_score": -0.8484154489766561,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2491243472473649,
-      "contestedness": 0.0585606943100172,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.42530360137699097,
-        "knowledge_oriented": 0.3809795190557861
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.11549868438412758
-      },
-      "cluster_means": {
-        "survival_focused": 0.11549868438412758,
-        "stability_seeking": 0.17145372794315097,
-        "achievement_oriented": 0.28522956126924615,
-        "care_oriented": 0.22767850657674893,
-        "knowledge_oriented": 0.3809795190557861,
-        "governance_oriented": 0.20615639405349956,
-        "sovereignty_order_oriented": 0.14357992967996816,
-        "expression_oriented": 0.42530360137699097,
-        "ecosystem_oriented": 0.28623920088676613
-      },
-      "priority_raw": 0.1334060879509639,
-      "contest_raw": 0.044798931147163164
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.38293422009030226,
-      "contest_score": 0.9409088698147207,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22598332776426616,
-      "contestedness": 0.06830547624465302,
+      "central_tendency": 0.2926564500124295,
+      "contestedness": 0.026280002974043343,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.38841647889874575,
-        "knowledge_oriented": 0.3519777964517711
+        "expression_oriented": 0.36783708617899047,
+        "knowledge_oriented": 0.3655014421626961
       },
       "bottom_clusters": {
-        "survival_focused": 0.10937157218510227
+        "survival_focused": 0.2240405443528275
       },
       "cluster_means": {
-        "survival_focused": 0.10937157218510227,
-        "stability_seeking": 0.1503862084444811,
-        "achievement_oriented": 0.2951634152858901,
-        "care_oriented": 0.18320336128472678,
-        "knowledge_oriented": 0.3519777964517711,
-        "governance_oriented": 0.15788964065485334,
-        "sovereignty_order_oriented": 0.1459326391434454,
-        "expression_oriented": 0.38841647889874575,
-        "ecosystem_oriented": 0.2515088375293798
+        "survival_focused": 0.2240405443528275,
+        "stability_seeking": 0.24513823319854497,
+        "achievement_oriented": 0.3548821673583305,
+        "care_oriented": 0.26589095889787684,
+        "knowledge_oriented": 0.3655014421626961,
+        "governance_oriented": 0.2714182361725883,
+        "sovereignty_order_oriented": 0.2719791497287525,
+        "expression_oriented": 0.36783708617899047,
+        "ecosystem_oriented": 0.2672202320612592
       },
-      "priority_raw": 0.11118379726001897,
-      "contest_raw": 0.056010490520615484
+      "priority_raw": 0.14398697340611533,
+      "contest_raw": 0.021549602438715544
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-      "title": "Fifa says 'nobody selling football' as plan continues",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.18709187890346562,
-      "contest_score": -1.3257753457434793,
+      "priority_score": 0.7328910980184594,
+      "contest_score": 0.08831845029753019,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.329625927934953,
-      "contestedness": 0.03510112167994944,
+      "central_tendency": 0.39881814496114737,
+      "contestedness": 0.060494085337144454,
+      "impact": 0.595,
+      "top_clusters": {
+        "achievement_oriented": 0.49613240399392294,
+        "expression_oriented": 0.4692491373025157
+      },
+      "bottom_clusters": {
+        "care_oriented": 0.30215021918001556
+      },
+      "cluster_means": {
+        "survival_focused": 0.38531678292499,
+        "stability_seeking": 0.4049965832623963,
+        "achievement_oriented": 0.49613240399392294,
+        "care_oriented": 0.30215021918001556,
+        "knowledge_oriented": 0.46050855153017156,
+        "governance_oriented": 0.3423171825646294,
+        "sovereignty_order_oriented": 0.39459326461441463,
+        "expression_oriented": 0.4692491373025157,
+        "ecosystem_oriented": 0.3340991792772702
+      },
+      "priority_raw": 0.1423780777511296,
+      "contest_raw": 0.035993980775600946
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.4566983620277938,
+      "contest_score": 1.499648406392177,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2477767425650993,
+      "contestedness": 0.07043487893343217,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.4367005189718754,
+        "knowledge_oriented": 0.3984757345424216
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10185708324796758
+      },
+      "cluster_means": {
+        "survival_focused": 0.10185708324796758,
+        "stability_seeking": 0.1529455789211782,
+        "achievement_oriented": 0.2932802952736284,
+        "care_oriented": 0.21280495280352338,
+        "knowledge_oriented": 0.3984757345424216,
+        "governance_oriented": 0.2016645565040792,
+        "sovereignty_order_oriented": 0.1490221310842644,
+        "expression_oriented": 0.4367005189718754,
+        "ecosystem_oriented": 0.28323983173695555
+      },
+      "priority_raw": 0.12190615734202885,
+      "contest_raw": 0.057756600725414386
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.07071611524815065,
+      "contest_score": -0.9992274422240306,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.26354924787542794,
+      "contestedness": 0.03258320492115871,
       "impact": 0.59,
       "top_clusters": {
-        "expression_oriented": 0.447537961866171,
-        "knowledge_oriented": 0.41513562560329687
+        "expression_oriented": 0.4007029774611749,
+        "knowledge_oriented": 0.3624831603058318
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2509689337191085
+        "sovereignty_order_oriented": 0.1915438706486716
       },
       "cluster_means": {
-        "survival_focused": 0.2720799388155488,
-        "stability_seeking": 0.30494948651750203,
-        "achievement_oriented": 0.3400506081974515,
-        "care_oriented": 0.34859190290066466,
-        "knowledge_oriented": 0.41513562560329687,
-        "governance_oriented": 0.28461509859825507,
-        "sovereignty_order_oriented": 0.2509689337191085,
-        "expression_oriented": 0.447537961866171,
-        "ecosystem_oriented": 0.3027037951965786
+        "survival_focused": 0.20763094749013963,
+        "stability_seeking": 0.24706080595464672,
+        "achievement_oriented": 0.3089010812745403,
+        "care_oriented": 0.23629636040746613,
+        "knowledge_oriented": 0.3624831603058318,
+        "governance_oriented": 0.20371315548630742,
+        "sovereignty_order_oriented": 0.1915438706486716,
+        "expression_oriented": 0.4007029774611749,
+        "ecosystem_oriented": 0.2136108718500731
       },
-      "priority_raw": 0.09723964874081113,
-      "contest_raw": 0.020709661791170172
+      "priority_raw": 0.09329643374790149,
+      "contest_raw": 0.019224090903483638
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.11263770527021227,
-      "contest_score": -0.821368823571918,
+      "priority_score": 0.027528805146789764,
+      "contest_score": -1.0987783091333763,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3331103097598664,
-      "contestedness": 0.04139880463786855,
-      "impact": 0.6900000000000001,
+      "central_tendency": 0.30284137755612617,
+      "contestedness": 0.029729449985038015,
+      "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.4739451041668497,
-        "knowledge_oriented": 0.43362271189948814
+        "expression_oriented": 0.4238129450469834,
+        "knowledge_oriented": 0.3900297528822656
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2528509409289665
+        "sovereignty_order_oriented": 0.23406197900606807
       },
       "cluster_means": {
-        "survival_focused": 0.27445643557665594,
-        "stability_seeking": 0.2880266408858958,
-        "achievement_oriented": 0.3515902089551332,
-        "care_oriented": 0.3533801478843377,
-        "knowledge_oriented": 0.43362271189948814,
-        "governance_oriented": 0.2542653573269458,
-        "sovereignty_order_oriented": 0.2528509409289665,
-        "expression_oriented": 0.4739451041668497,
-        "ecosystem_oriented": 0.3158552402145245
+        "survival_focused": 0.2569002416700009,
+        "stability_seeking": 0.2787779233824348,
+        "achievement_oriented": 0.2993951356044233,
+        "care_oriented": 0.3145386029928918,
+        "knowledge_oriented": 0.3900297528822656,
+        "governance_oriented": 0.243246664412214,
+        "sovereignty_order_oriented": 0.23406197900606807,
+        "expression_oriented": 0.4238129450469834,
+        "ecosystem_oriented": 0.2848091530078538
       },
-      "priority_raw": 0.09193844549372314,
-      "contest_raw": 0.0285651752001293
+      "priority_raw": 0.09009530982294753,
+      "contest_raw": 0.01768902274109762
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "title": "Tourist plane crashes in Peru, killing 13",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.09019169641588705,
-      "contest_score": 0.6833098886676959,
+      "priority_score": -0.08305484321344488,
+      "contest_score": 0.06724808580046976,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3072798290495123,
-      "contestedness": 0.07074653345427234,
-      "impact": 0.7350000000000001,
+      "central_tendency": 0.20839349537120494,
+      "contestedness": 0.054456606211368386,
+      "impact": 0.655,
       "top_clusters": {
-        "expression_oriented": 0.4725340462468405,
-        "knowledge_oriented": 0.415004293390265
+        "expression_oriented": 0.38394845449851006,
+        "knowledge_oriented": 0.32243566342412766
       },
       "bottom_clusters": {
-        "survival_focused": 0.21395829288516227
+        "survival_focused": 0.11622915421935653
       },
       "cluster_means": {
-        "survival_focused": 0.21395829288516227,
-        "stability_seeking": 0.23161769002842333,
-        "achievement_oriented": 0.28938252716053803,
-        "care_oriented": 0.299346266111416,
-        "knowledge_oriented": 0.415004293390265,
-        "governance_oriented": 0.24272951308882174,
-        "sovereignty_order_oriented": 0.21863599370626569,
-        "expression_oriented": 0.4725340462468405,
-        "ecosystem_oriented": 0.38230983882787817
+        "survival_focused": 0.11622915421935653,
+        "stability_seeking": 0.15524845880421528,
+        "achievement_oriented": 0.14626802857318089,
+        "care_oriented": 0.18083217020293835,
+        "knowledge_oriented": 0.32243566342412766,
+        "governance_oriented": 0.18083004211167258,
+        "sovereignty_order_oriented": 0.1263734359003042,
+        "expression_oriented": 0.38394845449851006,
+        "ecosystem_oriented": 0.26337605060653885
       },
-      "priority_raw": 0.09034026974055663,
-      "contest_raw": 0.05199870208889018
+      "priority_raw": 0.08189864368088354,
+      "contest_raw": 0.03566907706844629
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.09613934826012145,
-      "contest_score": 0.7474116542276422,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.19762393326923827,
-      "contestedness": 0.0679448827279033,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.33588056794690824,
-        "knowledge_oriented": 0.298541307847093
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.1092459745801346
-      },
-      "cluster_means": {
-        "survival_focused": 0.1092459745801346,
-        "stability_seeking": 0.12453865290687222,
-        "achievement_oriented": 0.19248353563477552,
-        "care_oriented": 0.22438887118608325,
-        "knowledge_oriented": 0.298541307847093,
-        "governance_oriented": 0.16289744870336642,
-        "sovereignty_order_oriented": 0.11742025638610912,
-        "expression_oriented": 0.33588056794690824,
-        "ecosystem_oriented": 0.2132187842318018
-      },
-      "priority_raw": 0.07707333397500293,
-      "contest_raw": 0.05299700852776458
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.12417516675712222,
-      "contest_score": 0.18645206288607544,
+      "priority_score": -0.17508551406873585,
+      "contest_score": 0.6244275953619035,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -1358,224 +1358,224 @@
       "contest_raw": 0.04426075037492272
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.15057326744879423,
-      "contest_score": -0.5314328922438913,
+      "priority_score": -0.25819590404451254,
+      "contest_score": -0.11195827672152799,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.19262523845801222,
-      "contestedness": 0.04352706842167606,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.15113346884389756,
+      "contestedness": 0.04329700806436937,
       "impact": 0.76,
       "top_clusters": {
-        "expression_oriented": 0.34311979681595306,
-        "knowledge_oriented": 0.3073574128898238
+        "expression_oriented": 0.34536939875012457,
+        "knowledge_oriented": 0.28832983022710107
       },
       "bottom_clusters": {
-        "stability_seeking": 0.1112635715147591
+        "survival_focused": 0.02294029152717625
       },
       "cluster_means": {
-        "survival_focused": 0.12007232937486534,
-        "stability_seeking": 0.1112635715147591,
-        "achievement_oriented": 0.2149161450859201,
-        "care_oriented": 0.15479063993643516,
-        "knowledge_oriented": 0.3073574128898238,
-        "governance_oriented": 0.12166537869864813,
-        "sovereignty_order_oriented": 0.14454061887823885,
-        "expression_oriented": 0.34311979681595306,
-        "ecosystem_oriented": 0.21590125292746631
+        "survival_focused": 0.02294029152717625,
+        "stability_seeking": 0.06271164504396662,
+        "achievement_oriented": 0.1674185255883868,
+        "care_oriented": 0.06266796372432334,
+        "knowledge_oriented": 0.28832983022710107,
+        "governance_oriented": 0.060393192110016536,
+        "sovereignty_order_oriented": 0.06623729959154562,
+        "expression_oriented": 0.34536939875012457,
+        "ecosystem_oriented": 0.19638225924012584
       },
-      "priority_raw": 0.07319759061404464,
-      "contest_raw": 0.033080572000473804
+      "priority_raw": 0.06891686179281728,
+      "contest_raw": 0.03290572612892072
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "title": "Father of teen school shooter sentenced to 15 years in prison",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.19538498707544186,
-      "contest_score": 0.3778614131505459,
+      "priority_score": -0.2636675841920679,
+      "contest_score": 0.913765421685454,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22582889162071482,
-      "contestedness": 0.06095705345051733,
-      "impact": 0.775,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.13925059077476287,
+      "contestedness": 0.05941746539193449,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.4346435077842461,
-        "knowledge_oriented": 0.3727294895826063
+        "expression_oriented": 0.30364243743686214,
+        "knowledge_oriented": 0.2545560557078296
       },
       "bottom_clusters": {
-        "survival_focused": 0.10898717422015042
+        "survival_focused": -0.008588617160608103
       },
       "cluster_means": {
-        "survival_focused": 0.10898717422015042,
-        "stability_seeking": 0.1300676593120873,
-        "achievement_oriented": 0.2679497949072076,
-        "care_oriented": 0.16994422767066775,
-        "knowledge_oriented": 0.3727294895826063,
-        "governance_oriented": 0.11323397435954288,
-        "sovereignty_order_oriented": 0.1267553077716288,
-        "expression_oriented": 0.4346435077842461,
-        "ecosystem_oriented": 0.30814888897829606
+        "survival_focused": -0.008588617160608103,
+        "stability_seeking": 0.0447300999324616,
+        "achievement_oriented": 0.14915391853884333,
+        "care_oriented": 0.10414756532439609,
+        "knowledge_oriented": 0.2545560557078296,
+        "governance_oriented": 0.0927293994757856,
+        "sovereignty_order_oriented": 0.04480822017750602,
+        "expression_oriented": 0.30364243743686214,
+        "ecosystem_oriented": 0.17505022909604198
       },
-      "priority_raw": 0.07000695640242159,
-      "contest_raw": 0.04724171642415093
+      "priority_raw": 0.06851129066118333,
+      "contest_raw": 0.04872232162138628
     }
   ],
   "mood": {
-    "score": 0.03558184240895958,
+    "score": 0.0373088903677654,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cpw9q0ekd9eo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Trump considering AI controls after OpenAI hacking incidents",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "name": "Trump considering AI controls after OpenAI hacking incidents",
-      "root_cause": "Trump considering AI controls after OpenAI hacking incidents",
+      "target": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "title": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "name": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+      "root_cause": "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 4.075528633140137,
-      "contest_score": -0.8702175035101032,
-      "contestedness": 0.04921135730343651,
+      "priority_score": 3.944004052477932,
+      "contest_score": -1.4464561030046261,
+      "contestedness": 0.020376616250552315,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, survival_focused.",
       "signal_count": 1,
       "signals": [
-        "Trump considering AI controls after OpenAI hacking incidents"
+        "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Trump considering AI controls after OpenAI hacking incidents is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Trump considering AI controls after OpenAI hacking incidents fade or reverse without spillover."
+      "prediction": "Momentum around Chelsea was murdered 10 years ago - will a new police podcast catch her killer? is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Chelsea was murdered 10 years ago - will a new police podcast catch her killer? fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "name": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "root_cause": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "target": "Italy putting nearly all major cities on highest heat alert",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "name": "Italy putting nearly all major cities on highest heat alert",
+      "root_cause": "Italy putting nearly all major cities on highest heat alert",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.6950411536513011,
-      "contest_score": 0.22100892473495323,
-      "contestedness": 0.0585606943100172,
+      "priority_score": 0.7545971853807599,
+      "contest_score": -0.8484154489766561,
+      "contestedness": 0.026280002974043343,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Missile that left crater deep inside Poland was probably Russian - Polish PM"
+        "Italy putting nearly all major cities on highest heat alert"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Missile that left crater deep inside Poland was probably Russian - Polish PM is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Missile that left crater deep inside Poland was probably Russian - Polish PM fade or reverse without spillover."
+      "prediction": "Momentum around Italy putting nearly all major cities on highest heat alert is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Italy putting nearly all major cities on highest heat alert fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c5y62pe9g3no?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "name": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "root_cause": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "target": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "title": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "name": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+      "root_cause": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.38293422009030226,
-      "contest_score": 0.9409088698147207,
-      "contestedness": 0.06830547624465302,
+      "priority_score": 0.7328910980184594,
+      "contest_score": 0.08831845029753019,
+      "contestedness": 0.060494085337144454,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "Spain sending troops as thousands enter enclave of Ceuta from Morocco"
+        "Greyhounds bound for Australia as New Zealand racing ban takes effect"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Spain sending troops as thousands enter enclave of Ceuta from Morocco is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Spain sending troops as thousands enter enclave of Ceuta from Morocco fade or reverse without spillover."
+      "prediction": "Momentum around Greyhounds bound for Australia as New Zealand racing ban takes effect is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Greyhounds bound for Australia as New Zealand racing ban takes effect fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Fifa says 'nobody selling football' as plan continues",
-      "title": "Fifa says 'nobody selling football' as plan continues",
-      "name": "Fifa says 'nobody selling football' as plan continues",
-      "root_cause": "Fifa says 'nobody selling football' as plan continues",
+      "target": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "name": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "root_cause": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.18709187890346562,
-      "contest_score": -1.3257753457434793,
-      "contestedness": 0.03510112167994944,
+      "priority_score": 0.4566983620277938,
+      "contest_score": 1.499648406392177,
+      "contestedness": 0.07043487893343217,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Fifa says 'nobody selling football' as plan continues"
+        "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Fifa says 'nobody selling football' as plan continues is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Fifa says 'nobody selling football' as plan continues fade or reverse without spillover."
+      "prediction": "Momentum around Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Uefa to boycott World Cups if Fifa plans approved",
-      "title": "Uefa to boycott World Cups if Fifa plans approved",
-      "name": "Uefa to boycott World Cups if Fifa plans approved",
-      "root_cause": "Uefa to boycott World Cups if Fifa plans approved",
+      "target": "Call for 'full review' as pressure grows on Infantino",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "name": "Call for 'full review' as pressure grows on Infantino",
+      "root_cause": "Call for 'full review' as pressure grows on Infantino",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.11263770527021227,
-      "contest_score": -0.821368823571918,
-      "contestedness": 0.04139880463786855,
+      "priority_score": 0.07071611524815065,
+      "contest_score": -0.9992274422240306,
+      "contestedness": 0.03258320492115871,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Uefa to boycott World Cups if Fifa plans approved"
+        "Call for 'full review' as pressure grows on Infantino"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Uefa to boycott World Cups if Fifa plans approved is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Uefa to boycott World Cups if Fifa plans approved fade or reverse without spillover."
+      "prediction": "Momentum around Call for 'full review' as pressure grows on Infantino is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Call for 'full review' as pressure grows on Infantino fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautious portfolio mood, marked by governance-focused developments and stability-seeking undertones. While several narratives point to positive trajectories, contested signals and speculative elements temper confidence in the broader structural pattern.\n\n**1. Governance and stability dominate the structural landscape.**  \nThe most significant signal centers on former U.S. President Trump considering AI controls following alleged OpenAI hacking incidents. While the headline suggests a proactive governance approach, the structural weight lies in the alignment of top clusters with governance and stability-seeking priorities. This reflects growing global momentum toward regulating AI technologies amid cybersecurity concerns. However, the speculative nature of the headline (\"considering\") limits its immediate structural impact, as no concrete actions have been taken yet.\n\n**2. Migration pressures in Spain highlight geopolitical strain.**  \nSpain's deployment of troops to Ceuta in response to a surge of migrants from Morocco underscores the enduring challenge of border management in the region. Supporting signals, such as Spain's PM blaming traffickers, reinforce the structural importance of migration as a destabilizing factor. While the signal direction is positive, indicating Spain's active response, the contestedness score suggests underlying uncertainties about the effectiveness of these measures. This development ties into longer-term trajectories of European migration policy and regional cooperation.\n\n**3. Contested signals in sports governance reveal deeper fractures.**  \nThe ongoing friction between FIFA and UEFA, as seen in FIFA's defense of its plans and UEFA's boycott threats, reflects structural fragmentation in sports governance. While both signals are categorized as \"background noise,\" their contested scores highlight disagreement over the direction of global football's future. This tension could have ripple effects on the commercial and cultural dimensions of the sport, particularly if UEFA's boycott materializes.\n\n**4. Longer-term trajectories point to governance consolidation and regional instability.**  \nThe signals collectively suggest a world grappling with governance challenges across domains—AI regulation, migration, and sports administration. The cautious mood reflects uncertainty about whether these governance efforts will stabilize or exacerbate existing tensions. Migration pressures in Ceuta and contested sports governance signal potential flashpoints for broader regional and institutional instability.\n\n**What to watch next:**  \n- Concrete actions from U.S. policymakers on AI regulation, particularly in response to cybersecurity threats.  \n- Spain's ability to manage migration flows and its impact on EU border policy.  \n- Escalation in FIFA-UEFA tensions, especially if UEFA formalizes its boycott plans.  \n- Any shifts in contested signals, particularly those tied to governance and stability, as these will influence the portfolio mood in the coming days.",
+  "narrative": "🟡 **Cautious mood persists amidst fragmented signals and contested priorities.** Today's structural pattern reflects a mix of governance, survival, and expression-oriented clusters, with signals pointing to uneven directional momentum and a subdued portfolio mood.\n\nThe most structurally significant signal centers on the renewed investigation into Chelsea's murder, now amplified by a police podcast. This development highlights the enduring role of public engagement in governance-oriented issues, particularly in cases of unresolved justice. The signal's high priority score and strong agreement suggest a growing societal demand for accountability and transparency in law enforcement. While the podcast's impact remains speculative, its potential to mobilize public sentiment and uncover new leads could reshape the trajectory of cold-case investigations.\n\nItaly's extreme heat alert, affecting nearly all major cities, underscores the escalating urgency of climate resilience. While the signal is categorized as \"background noise,\" its implications are far-reaching, particularly for urban infrastructure and public health systems. The high alignment with knowledge and expression-oriented clusters suggests that this event may catalyze broader discussions on climate adaptation strategies. However, the contestedness of the signal reflects the challenge of translating awareness into actionable governance.\n\nThe contested signal regarding Ukraine's sinking of a Russian container ship and the deadly strikes on Kyiv reveals a complex interplay of survival and expression-oriented dynamics. While the priority score is moderate, the high contest score indicates divergent interpretations of the incident's significance. On one hand, it represents Ukraine's tactical resilience; on the other, it highlights the enduring volatility of the conflict. This signal reinforces the need to monitor escalation risks and their ripple effects on geopolitical stability.\n\nStructurally, these signals point to longer-term trajectories of governance accountability, climate adaptation, and conflict resilience. The recurring theme of contestedness suggests that while directional momentum is positive, the underlying dynamics remain fragile and prone to shifts. The cautious portfolio mood reflects this uncertainty, emphasizing the need for vigilance in interpreting emerging patterns.\n\n**Key watchpoints:** Monitor public response to the Chelsea podcast for signs of increased pressure on law enforcement transparency. Track policy responses to Italy's heat crisis, particularly in urban planning and emergency preparedness. Finally, observe developments in Ukraine for indications of escalation or de-escalation, as well as broader geopolitical implications.",
   "noise_filtered": [
-    "Trump considering AI controls after OpenAI hacking incidents",
-    "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-    "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-    "Fifa says 'nobody selling football' as plan continues",
-    "Uefa to boycott World Cups if Fifa plans approved",
-    "Body of US climber the latest recovered after Pakistan avalanche",
-    "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-    "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-    "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-    "Father of teen school shooter sentenced to 15 years in prison",
-    "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+    "Chelsea was murdered 10 years ago - will a new police podcast catch her killer?",
+    "Italy putting nearly all major cities on highest heat alert",
+    "Greyhounds bound for Australia as New Zealand racing ban takes effect",
+    "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+    "Call for 'full review' as pressure grows on Infantino",
+    "Infantino on the brink? Who might replace him if he goes?",
+    "Tourist plane crashes in Peru, killing 13",
+    "EU calls emergency meeting to discuss Ceuta migrant crossings",
+    "Three killed after woman detonates bomb at Moscow restaurant, state media say",
+    "Current Ebola outbreak worst ever in DR Congo, WHO says",
     "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-    "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-    "Nicaraguan leader proposes extending presidential term by another year",
-    "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+    "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+    "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+    "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
     "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+    "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
     "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-    "Anthropic's Claude AI escapes to hack into three organisations",
-    "Why limited war with the US may suit Iran better than peace",
-    "At least five members of same family killed in Russian missile attack, Zelensky says"
+    "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+    "Why limited war with the US may suit Iran better than peace"
   ],
   "matured_predictions": [],
   "delta": {
@@ -1584,79 +1584,80 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+        "title": "Trump considering AI controls after OpenAI hacking incidents",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Salman Rushdie attacker convicted of terror offences",
+        "title": "Fifa says 'nobody selling football' as plan continues",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
+        "title": "Uefa to boycott World Cups if Fifa plans approved",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+        "title": "Body of US climber the latest recovered after Pakistan avalanche",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+        "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Four women accuse Jared Leto of criminal sexual conduct",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Father of teen school shooter sentenced to 15 years in prison",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Nicaraguan leader proposes extending presidential term by another year",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Anthropic's Claude AI escapes to hack into three organisations",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
-    "category_changes": [
-      "Father of teen school shooter sentenced to 15 years in prison: convergent_priority → background_noise"
-    ],
-    "priority_score_changes": [
-      "Trump considering AI controls after OpenAI hacking incidents: 2.48 → 4.08",
-      "Missile that left crater deep inside Poland was probably Russian - Polish PM: -0.31 → 0.70",
-      "Uefa to boycott World Cups if Fifa plans approved: 0.54 → 0.11",
-      "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect: -0.57 → -0.15",
-      "Father of teen school shooter sentenced to 15 years in prison: 2.66 → -0.20",
-      "Thousands evacuated in Crete as wildfires threaten tourist resorts: -0.68 → -0.40",
-      "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says: -0.74 → -0.41"
-    ],
+    "category_changes": [],
+    "priority_score_changes": [],
     "mood_shift": "",
-    "structural_shifts": [
-      "convergent_priority: 1 → 0",
-      "Category change — Father of teen school shooter sentenced to 15 years in prison: convergent_priority → background_noise",
-      "Priority score movement — Trump considering AI controls after OpenAI hacking incidents: 2.48 → 4.08",
-      "Priority score movement — Missile that left crater deep inside Poland was probably Russian - Polish PM: -0.31 → 0.70",
-      "Priority score movement — Uefa to boycott World Cups if Fifa plans approved: 0.54 → 0.11",
-      "Priority score movement — Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect: -0.57 → -0.15",
-      "Priority score movement — Father of teen school shooter sentenced to 15 years in prison: 2.66 → -0.20",
-      "Priority score movement — Thousands evacuated in Crete as wildfires threaten tourist resorts: -0.68 → -0.40",
-      "Priority score movement — Veteran Ugandan opposition leader collapses in court and in ICU, his wife says: -0.74 → -0.41"
-    ],
+    "structural_shifts": [],
     "continuing_priorities": [
-      "Trump considering AI controls after OpenAI hacking incidents",
-      "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "Uefa to boycott World Cups if Fifa plans approved",
-      "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "Father of teen school shooter sentenced to 15 years in prison",
       "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "Nicaraguan leader proposes extending presidential term by another year",
-      "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
-      "Why limited war with the US may suit Iran better than peace",
-      "At least five members of same family killed in Russian missile attack, Zelensky says"
+      "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "Why limited war with the US may suit Iran better than peace"
     ],
-    "new_stories": 9,
-    "carried_stories": 11,
+    "new_stories": 16,
+    "carried_stories": 4,
     "total_stories": 20,
-    "summary": "8 priorities dropped: Australia takes Telegram to court over alleged failure to remove 'pro-terror' material (No longer in today's news feed — story left the RSS cycle); More than 100 aftershocks hit Japan after powerful quake that killed 13 (No longer in today's news feed — story left the RSS cycle); US launches 'heavy' strikes on Iran after attempted attack on American troops (No longer in today's news feed — story left the RSS cycle); Salman Rushdie attacker convicted of terror offences (No longer in today's news feed — story left the RSS cycle); Worth $5m? Visitors react to renovated Washington horse statues (No longer in today's news feed — story left the RSS cycle); Singapore fines French teen $465 for viral straw-licking stunt (No longer in today's news feed — story left the RSS cycle); Oscar-winning songwriter Glen Hansard killed in crash (No longer in today's news feed — story left the RSS cycle); Four women accuse Jared Leto of criminal sexual conduct (No longer in today's news feed — story left the RSS cycle) · Priority category shifted: Father of teen school shooter sentenced to 15 years in prison: convergent_priority → background_noise · Priority intensity moved: Trump considering AI controls after OpenAI hacking incidents: 2.48 → 4.08; Missile that left crater deep inside Poland was probably Russian - Polish PM: -0.31 → 0.70; Uefa to boycott World Cups if Fifa plans approved: 0.54 → 0.11; Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect: -0.57 → -0.15; Father of teen school shooter sentenced to 15 years in prison: 2.66 → -0.20; Thousands evacuated in Crete as wildfires threaten tourist resorts: -0.68 → -0.40; Veteran Ugandan opposition leader collapses in court and in ICU, his wife says: -0.74 → -0.41 · Structural shifts: convergent_priority: 1 → 0; Category change — Father of teen school shooter sentenced to 15 years in prison: convergent_priority → background_noise; Priority score movement — Trump considering AI controls after OpenAI hacking incidents: 2.48 → 4.08; Priority score movement — Missile that left crater deep inside Poland was probably Russian - Polish PM: -0.31 → 0.70; Priority score movement — Uefa to boycott World Cups if Fifa plans approved: 0.54 → 0.11; Priority score movement — Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect: -0.57 → -0.15; Priority score movement — Father of teen school shooter sentenced to 15 years in prison: 2.66 → -0.20; Priority score movement — Thousands evacuated in Crete as wildfires threaten tourist resorts: -0.68 → -0.40; Priority score movement — Veteran Ugandan opposition leader collapses in court and in ICU, his wife says: -0.74 → -0.41 · Signal freshness: 9 new, 11 carried, 20 total"
+    "summary": "15 priorities dropped: Trump considering AI controls after OpenAI hacking incidents (No longer in today's news feed — story left the RSS cycle); Missile that left crater deep inside Poland was probably Russian - Polish PM (No longer in today's news feed — story left the RSS cycle); Spain sending troops as thousands enter enclave of Ceuta from Morocco (No longer in today's news feed — story left the RSS cycle); Fifa says 'nobody selling football' as plan continues (No longer in today's news feed — story left the RSS cycle); Uefa to boycott World Cups if Fifa plans approved (No longer in today's news feed — story left the RSS cycle); Body of US climber the latest recovered after Pakistan avalanche (No longer in today's news feed — story left the RSS cycle); Hundreds escape Greek wildfire by sea as blazes continue across Europe (No longer in today's news feed — story left the RSS cycle); Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco (No longer in today's news feed — story left the RSS cycle); Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect (No longer in today's news feed — story left the RSS cycle); Father of teen school shooter sentenced to 15 years in prison (No longer in today's news feed — story left the RSS cycle); Thousands evacuated in Crete as wildfires threaten tourist resorts (No longer in today's news feed — story left the RSS cycle); Nicaraguan leader proposes extending presidential term by another year (No longer in today's news feed — story left the RSS cycle); Veteran Ugandan opposition leader collapses in court and in ICU, his wife says (No longer in today's news feed — story left the RSS cycle); Anthropic's Claude AI escapes to hack into three organisations (No longer in today's news feed — story left the RSS cycle); At least five members of same family killed in Russian missile attack, Zelensky says (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 16 new, 4 carried, 20 total"
   }
 }
