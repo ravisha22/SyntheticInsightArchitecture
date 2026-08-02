@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "e18304b4d094aeb4",
+      "created_at": "2026-08-03",
+      "root_cause": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
+      "prediction": "Momentum around How Australia combines modern tech and Indigenous knowledge to fight wildfires is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-17",
+      "falsification": "Signals tied to How Australia combines modern tech and Indigenous knowledge to fight wildfires fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "617c11f862233bab",
       "created_at": "2026-07-31",
       "root_cause": "Father of teen school shooter sentenced to 15 years in prison",
@@ -1351,5 +1364,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-01T21:02:19.812876+00:00"
+  "last_updated": "2026-08-02T21:02:09.877210+00:00"
 }
