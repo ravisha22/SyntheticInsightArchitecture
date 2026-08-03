@@ -178,9 +178,15 @@
       "maturity_date": "2026-08-04",
       "falsification": "Signals tied to Notorious drug cartel leader Ismael Zambada sentenced to life in US prison fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals or evidence indicate sustained momentum or downstream spillover related to Ismael Zambada's sentencing. The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-08-03T21:11:55.883093+00:00",
+      "evidence_used": [
+        "BBC World: Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "BBC World: US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+        "BBC World: Solitude as a new aspirational lifestyle: 'We are not lonely'",
+        "Al Jazeera: Iraqi Kurdish regional leader meets Syrian president in Damascus"
+      ]
     },
     {
       "id": "85b264221882438f",
@@ -1364,5 +1370,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-02T21:02:09.877210+00:00"
+  "last_updated": "2026-08-03T21:11:53.884352+00:00"
 }
