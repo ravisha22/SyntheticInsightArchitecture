@@ -152,9 +152,19 @@
       "maturity_date": "2026-08-06",
       "falsification": "Signals tied to US to announce deal allowing Saudi Arabia a nuclear programme fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals directly indicate momentum around the US announcing a deal allowing Saudi Arabia a nuclear program. The provided signals are unrelated to the prediction's subject matter, focusing on sports, political developments, and other global events.",
+      "validated_at": "2026-08-05T21:19:12.018007+00:00",
+      "evidence_used": [
+        "Al Jazeera: LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
+        "Al Jazeera: War on Iran: US-Iran deal edges closer",
+        "BBC World: The avalanche that killed a climbing legend - and a generation of record-setting guides",
+        "Al Jazeera: Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+        "Al Jazeera: Ex-PM Sheikh Hasina announces plan to return to Bangladesh",
+        "ABC Australia: Pay war on ice as Australia's netball stars sign truce",
+        "ABC Australia: Age is just a number as Roar announce youngest-ever A-League manager",
+        "ABC Australia: Blues announce King as new Origin coach after Daley steps down"
+      ]
     },
     {
       "id": "f91e1abf6f7c3b3e",
@@ -165,9 +175,19 @@
       "maturity_date": "2026-08-06",
       "falsification": "Signals tied to Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief? fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction regarding momentum around Mykhailo Drapatyi, Ukraine's new commander-in-chief, has not matured as expected within the 1-2 week timeline. None of the fresh signals provided directly reference Mykhailo Drapatyi or indicate increased momentum or attention surrounding his role. The absence of relevant signals suggests the prediction has expired without validation or falsification.",
+      "validated_at": "2026-08-05T21:19:14.783069+00:00",
+      "evidence_used": [
+        "BBC World: After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "ABC Australia: Blues announce King as new Origin coach after Daley steps down",
+        "BBC World: Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+        "BBC World: South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+        "BBC World: Mexican influencer shot dead during livestream",
+        "BBC World: Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+        "Al Jazeera: New Mexico sues US Justice Department for impeding Epstein probe",
+        "Al Jazeera: Is the conflict between Russia and Ukraine deepening?"
+      ]
     },
     {
       "id": "0ddc6e6a9cbd213d",
@@ -1370,5 +1390,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-04T21:18:55.633666+00:00"
+  "last_updated": "2026-08-05T21:19:09.279256+00:00"
 }
