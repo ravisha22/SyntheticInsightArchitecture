@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "45475e0e25fd02cc",
+      "created_at": "2026-08-07",
+      "root_cause": "Meta fined $567m in largest child safety ruling against social media giant",
+      "prediction": "Momentum around Meta fined $567m in largest child safety ruling against social media giant is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-21",
+      "falsification": "Signals tied to Meta fined $567m in largest child safety ruling against social media giant fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "e18304b4d094aeb4",
       "created_at": "2026-08-03",
       "root_cause": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
@@ -1390,5 +1403,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-05T21:19:09.279256+00:00"
+  "last_updated": "2026-08-07T00:54:45.695485+00:00"
 }
