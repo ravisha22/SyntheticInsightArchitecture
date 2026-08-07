@@ -1,35 +1,91 @@
 {
-  "report_date": "2026-08-07",
-  "generated_at": "2026-08-07T00:54:45.696898+00:00",
+  "report_date": "2026-08-08",
+  "generated_at": "2026-08-07T20:49:48.790614+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Seven killed after Thai student opens fire at home and school",
+      "body": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 15:51:16 GMT"
+    },
+    {
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "body": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 20:33:23 GMT"
+    },
+    {
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "body": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 17:42:54 GMT"
+    },
+    {
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "body": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 16:13:45 GMT"
+    },
+    {
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "body": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 20:40:56 GMT"
+    },
+    {
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "body": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 15:38:28 GMT"
+    },
+    {
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "body": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 09:22:03 GMT"
+    },
+    {
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "body": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:34:14 GMT"
+    },
+    {
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "body": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 08:32:57 GMT"
+    },
+    {
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "body": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 13:32:41 GMT"
+    },
+    {
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "body": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 05:44:29 GMT"
+    },
     {
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "body": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 06 Aug 2026 18:53:51 GMT"
-    },
-    {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "body": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:06:17 GMT"
-    },
-    {
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "body": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:11:30 GMT"
-    },
-    {
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "body": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 17:38:51 GMT"
     },
     {
       "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
@@ -39,6 +95,20 @@
       "published": "Thu, 06 Aug 2026 17:36:07 GMT"
     },
     {
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "body": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 17:38:51 GMT"
+    },
+    {
+      "title": "Two people convicted in relation to death of French streamer",
+      "body": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:51:40 GMT"
+    },
+    {
       "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
       "body": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
       "source": "BBC World",
@@ -46,102 +116,32 @@
       "published": "Thu, 06 Aug 2026 18:37:12 GMT"
     },
     {
-      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
       "body": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 06 Aug 2026 23:55:35 GMT"
     },
     {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "body": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "body": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:44:12 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 08:48:16 GMT"
     },
     {
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "body": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "body": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 15:41:05 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:26:52 GMT"
     },
     {
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "body": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "body": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:20:15 GMT"
-    },
-    {
-      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "body": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 19:17:39 GMT"
-    },
-    {
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "body": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 18:01:52 GMT"
-    },
-    {
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "body": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 22:41:09 GMT"
-    },
-    {
-      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-      "body": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:47:45 GMT"
-    },
-    {
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
-      "body": "The health minister says all the passengers are being screened as a precautionary measure.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:04:27 GMT"
-    },
-    {
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "body": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:35:32 GMT"
-    },
-    {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "body": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 01:19:59 GMT"
-    },
-    {
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "body": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 09:49:24 GMT"
-    },
-    {
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "body": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 04:44:22 GMT"
-    },
-    {
-      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-      "body": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 06:04:28 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 22:07:11 GMT"
     }
   ],
   "signals": [
@@ -149,6 +149,116 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
+      "title": "Seven killed after Thai student opens fire at home and school",
+      "body": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 15:51:16 GMT"
+    },
+    {
+      "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "body": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 20:33:23 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "body": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 17:42:54 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "body": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 16:13:45 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "body": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 20:40:56 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "body": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 15:38:28 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "body": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 09:22:03 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "body": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:34:14 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "body": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 08:32:57 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "body": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 13:32:41 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "body": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 05:44:29 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "body": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "labels": [],
@@ -156,37 +266,7 @@
       "published": "Thu, 06 Aug 2026 18:53:51 GMT"
     },
     {
-      "number": 2,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "body": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:06:17 GMT"
-    },
-    {
-      "number": 3,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "body": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:11:30 GMT"
-    },
-    {
-      "number": 4,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "body": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 17:38:51 GMT"
-    },
-    {
-      "number": 5,
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
@@ -196,7 +276,27 @@
       "published": "Thu, 06 Aug 2026 17:36:07 GMT"
     },
     {
-      "number": 6,
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "body": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 17:38:51 GMT"
+    },
+    {
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Two people convicted in relation to death of French streamer",
+      "body": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:51:40 GMT"
+    },
+    {
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
@@ -206,147 +306,83 @@
       "published": "Thu, 06 Aug 2026 18:37:12 GMT"
     },
     {
-      "number": 7,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
       "body": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 06 Aug 2026 23:55:35 GMT"
     },
     {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "body": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 00:44:12 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "body": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 15:41:05 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "body": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:20:15 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "body": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 19:17:39 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "body": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 18:01:52 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "body": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 22:41:09 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-      "body": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:47:45 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
-      "body": "The health minister says all the passengers are being screened as a precautionary measure.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 14:04:27 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "body": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 16:35:32 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "body": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 01:19:59 GMT"
-    },
-    {
       "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "body": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "body": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 09:49:24 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 08:48:16 GMT"
     },
     {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "body": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "body": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 04:44:22 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 00:26:52 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-      "body": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "body": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 06 Aug 2026 06:04:28 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 22:07:11 GMT"
     }
   ],
   "priorities": [
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 2.095064877000963,
+      "contest_score": -0.07642929986474772,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.0868444174373764,
+      "contestedness": 0.04931704784128321,
+      "impact": 0.655,
+      "top_clusters": {
+        "survival_focused": 1.2047158258989148,
+        "stability_seeking": 1.204303932531226
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.890926888480079
+      },
+      "cluster_means": {
+        "survival_focused": 1.2047158258989148,
+        "stability_seeking": 1.204303932531226,
+        "achievement_oriented": 1.0510388587085906,
+        "care_oriented": 1.1553987780576316,
+        "knowledge_oriented": 0.9608504761436154,
+        "governance_oriented": 1.1859079479252381,
+        "sovereignty_order_oriented": 1.1748253609669739,
+        "expression_oriented": 0.890926888480079,
+        "ecosystem_oriented": 0.9536316882241163
+      },
+      "priority_raw": 0.5695064747371853,
+      "contest_raw": 0.03230266633604051
+    },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -354,142 +390,106 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.6170607137422803,
-      "contest_score": 0.07765477933297885,
+      "priority_score": 1.9867062121332801,
+      "contest_score": 0.49413037446639596,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0321066769524065,
-      "contestedness": 0.04730949686268282,
+      "central_tendency": 1.067251726496047,
+      "contestedness": 0.057663050872249766,
       "impact": 0.735,
       "top_clusters": {
-        "care_oriented": 1.1809982109783768,
-        "governance_oriented": 1.1121485404728189
+        "care_oriented": 1.2611741551982196,
+        "governance_oriented": 1.1629185905537862
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.8949352692481229
+        "achievement_oriented": 0.9069520759708121
       },
       "cluster_means": {
-        "survival_focused": 1.0730254659897476,
-        "stability_seeking": 1.0597075870084263,
-        "achievement_oriented": 0.8949352692481229,
-        "care_oriented": 1.1809982109783768,
-        "knowledge_oriented": 0.997723681229765,
-        "governance_oriented": 1.1121485404728189,
-        "sovereignty_order_oriented": 1.0123980901457434,
-        "expression_oriented": 0.9810638972693352,
-        "ecosystem_oriented": 0.9769593502293228
+        "survival_focused": 1.0893868682978947,
+        "stability_seeking": 1.0889030687118972,
+        "achievement_oriented": 0.9069520759708121,
+        "care_oriented": 1.2611741551982196,
+        "knowledge_oriented": 1.0312400178396475,
+        "governance_oriented": 1.1629185905537862,
+        "sovereignty_order_oriented": 1.0236548144813595,
+        "expression_oriented": 1.0114818426328294,
+        "ecosystem_oriented": 1.0295541047779762
       },
-      "priority_raw": 0.5310188852920131,
-      "contest_raw": 0.03477248019407187
+      "priority_raw": 0.5491010132822162,
+      "contest_raw": 0.04238234239110358
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.050303745955762,
-      "contest_score": -0.08280344200458707,
+      "priority_score": 1.8260911440619076,
+      "contest_score": 0.6465187066245669,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9374752999327325,
-      "contestedness": 0.04726282234292856,
-      "impact": 0.68,
+      "central_tendency": 1.2010530919766695,
+      "contestedness": 0.08347125882219375,
+      "impact": 0.54,
       "top_clusters": {
-        "achievement_oriented": 1.0040907844067704,
-        "stability_seeking": 0.9935610775844208
+        "governance_oriented": 1.316505806815663,
+        "stability_seeking": 1.3047096155197189
       },
       "bottom_clusters": {
-        "expression_oriented": 0.854204423986116
+        "ecosystem_oriented": 1.0607048458395318
       },
       "cluster_means": {
-        "survival_focused": 0.9725840025829622,
-        "stability_seeking": 0.9935610775844208,
-        "achievement_oriented": 1.0040907844067704,
-        "care_oriented": 0.8970818612095504,
-        "knowledge_oriented": 0.8919857456917772,
-        "governance_oriented": 0.9462982552414922,
-        "sovereignty_order_oriented": 0.9737623968066383,
-        "expression_oriented": 0.854204423986116,
-        "ecosystem_oriented": 0.9037091518848659
+        "survival_focused": 1.2861010787728355,
+        "stability_seeking": 1.3047096155197189,
+        "achievement_oriented": 1.1085235102774114,
+        "care_oriented": 1.2942364849103956,
+        "knowledge_oriented": 1.1423586595371509,
+        "governance_oriented": 1.316505806815663,
+        "sovereignty_order_oriented": 1.2212383566975251,
+        "expression_oriented": 1.0750994694197953,
+        "ecosystem_oriented": 1.0607048458395318
       },
-      "priority_raw": 0.4462382427679807,
-      "contest_raw": 0.03213871919319142
+      "priority_raw": 0.5188549357339213,
+      "contest_raw": 0.045074479763984626
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.572537757255848,
-      "contest_score": -0.09473655920471379,
+      "priority_score": 1.5993862469966327,
+      "contest_score": -0.6091445752890003,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.118715454408692,
-      "contestedness": 0.04767589406809858,
-      "impact": 0.67,
+      "central_tendency": 0.9757442896460657,
+      "contestedness": 0.037527148576282476,
+      "impact": 0.61,
       "top_clusters": {
-        "achievement_oriented": 1.2020740789650242,
-        "survival_focused": 1.1856760270438707
+        "care_oriented": 1.0792926184077498,
+        "expression_oriented": 1.0470352771144327
       },
       "bottom_clusters": {
-        "expression_oriented": 0.9676819046307263
+        "achievement_oriented": 0.8040471603392378
       },
       "cluster_means": {
-        "survival_focused": 1.1856760270438707,
-        "stability_seeking": 1.181859994148358,
-        "achievement_oriented": 1.2020740789650242,
-        "care_oriented": 1.118520635816123,
-        "knowledge_oriented": 1.0323831100995515,
-        "governance_oriented": 1.138000132975772,
-        "sovereignty_order_oriented": 1.184420611794094,
-        "expression_oriented": 0.9676819046307263,
-        "ecosystem_oriented": 1.0578225942047073
+        "survival_focused": 0.937324542537889,
+        "stability_seeking": 0.9887331740677626,
+        "achievement_oriented": 0.8040471603392378,
+        "care_oriented": 1.0792926184077498,
+        "knowledge_oriented": 1.016436301053457,
+        "governance_oriented": 1.037394567754674,
+        "sovereignty_order_oriented": 0.8619268370012406,
+        "expression_oriented": 1.0470352771144327,
+        "ecosystem_oriented": 1.0095081285381502
       },
-      "priority_raw": 0.3747696772269118,
-      "contest_raw": 0.03194284902562605
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.7886395228233162,
-      "contest_score": -1.4025249810646563,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7213083377035542,
-      "contestedness": 0.01760808715824702,
-      "impact": 0.595,
-      "top_clusters": {
-        "survival_focused": 0.7530475627585778,
-        "care_oriented": 0.7486750086450898
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.6568605261005904
-      },
-      "cluster_means": {
-        "survival_focused": 0.7530475627585778,
-        "stability_seeking": 0.739880347241843,
-        "achievement_oriented": 0.6568605261005904,
-        "care_oriented": 0.7486750086450898,
-        "knowledge_oriented": 0.7444448229092289,
-        "governance_oriented": 0.7137638194745934,
-        "sovereignty_order_oriented": 0.7116481756143922,
-        "expression_oriented": 0.7313719066328405,
-        "ecosystem_oriented": 0.6920828699548317
-      },
-      "priority_raw": 0.2575070765601688,
-      "contest_raw": 0.010476811859156977
+      "priority_raw": 0.47616321334728007,
+      "contest_raw": 0.02289156063153231
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
@@ -498,8 +498,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6753661484113154,
-      "contest_score": -0.6208865997776521,
+      "priority_score": 0.348281687741331,
+      "contest_score": -0.5856499825197813,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -528,364 +528,364 @@
       "contest_raw": 0.023306623060255428
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.4071542666053826,
-      "contest_score": -1.4167107205312872,
+      "priority_score": 0.27650348508491573,
+      "contest_score": -1.2010879723024934,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4509360075727391,
-      "contestedness": 0.016132231737223335,
-      "impact": 0.635,
+      "central_tendency": 0.8226296131097349,
+      "contestedness": 0.02703068131169606,
+      "impact": 0.46,
       "top_clusters": {
-        "expression_oriented": 0.5341014475181072,
-        "knowledge_oriented": 0.5201000275007239
+        "governance_oriented": 0.8948344522069643,
+        "stability_seeking": 0.885582845510495
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.39840813511839346
+        "ecosystem_oriented": 0.7532783315690151
       },
       "cluster_means": {
-        "survival_focused": 0.40481146414691993,
-        "stability_seeking": 0.43960791039476127,
-        "achievement_oriented": 0.4331888830315509,
-        "care_oriented": 0.4557401421319846,
-        "knowledge_oriented": 0.5201000275007239,
-        "governance_oriented": 0.4457213360179329,
-        "sovereignty_order_oriented": 0.39840813511839346,
-        "expression_oriented": 0.5341014475181072,
-        "ecosystem_oriented": 0.4267447222942783
+        "survival_focused": 0.8314295965837968,
+        "stability_seeking": 0.885582845510495,
+        "achievement_oriented": 0.8096686407040729,
+        "care_oriented": 0.8494349203137911,
+        "knowledge_oriented": 0.7990003109218149,
+        "governance_oriented": 0.8948344522069643,
+        "sovereignty_order_oriented": 0.822404239002095,
+        "expression_oriented": 0.7580331811755695,
+        "ecosystem_oriented": 0.7532783315690151
       },
-      "priority_raw": 0.20044105536608253,
-      "contest_raw": 0.010243967153136817
+      "priority_raw": 0.22704577321828684,
+      "contest_raw": 0.012434113403380187
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.02020019252325929,
-      "contest_score": -0.15244170350290026,
+      "priority_score": 0.2229207547038224,
+      "contest_score": -0.4439421848354839,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.26621280829859906,
-      "contestedness": 0.04051722467309826,
-      "impact": 0.765,
+      "central_tendency": 0.7860702574381301,
+      "contestedness": 0.03740590572519087,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "expression_oriented": 0.406972455676908,
-        "knowledge_oriented": 0.36435248187696706
+        "survival_focused": 0.8504834794473234,
+        "sovereignty_order_oriented": 0.8312028781033889
       },
       "bottom_clusters": {
-        "survival_focused": 0.15583962894590894
+        "expression_oriented": 0.6983641795199331
       },
       "cluster_means": {
-        "survival_focused": 0.15583962894590894,
-        "stability_seeking": 0.20522606805726024,
-        "achievement_oriented": 0.2784883943481315,
-        "care_oriented": 0.2253329373439131,
-        "knowledge_oriented": 0.36435248187696706,
-        "governance_oriented": 0.24108919445561006,
-        "sovereignty_order_oriented": 0.2005719697825118,
-        "expression_oriented": 0.406972455676908,
-        "ecosystem_oriented": 0.31804214420018084
+        "survival_focused": 0.8504834794473234,
+        "stability_seeking": 0.8294293763840856,
+        "achievement_oriented": 0.8130775737221325,
+        "care_oriented": 0.8280679817948748,
+        "knowledge_oriented": 0.7323798906042921,
+        "governance_oriented": 0.7748892826268389,
+        "sovereignty_order_oriented": 0.8312028781033889,
+        "expression_oriented": 0.6983641795199331,
+        "ecosystem_oriented": 0.7167376747403018
       },
-      "priority_raw": 0.1425569588438998,
-      "contest_raw": 0.03099567687492017
+      "priority_raw": 0.21695539105292394,
+      "contest_raw": 0.025810074950381703
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4467631103899256,
-      "contest_score": -0.8919851291692132,
+      "priority_score": -0.3779258496672146,
+      "contest_score": 0.4116058496924203,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.20365366085152561,
-      "contestedness": 0.036974141590838755,
+      "central_tendency": 0.23539120210856485,
+      "contestedness": 0.05567950981576486,
+      "impact": 0.735,
+      "top_clusters": {
+        "expression_oriented": 0.39330557735988164,
+        "knowledge_oriented": 0.35218658990087964
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.12131612002192507
+      },
+      "cluster_means": {
+        "survival_focused": 0.12131612002192507,
+        "stability_seeking": 0.175241386227208,
+        "achievement_oriented": 0.24968833525099512,
+        "care_oriented": 0.21289570966478688,
+        "knowledge_oriented": 0.35218658990087964,
+        "governance_oriented": 0.18953490426372205,
+        "sovereignty_order_oriented": 0.15577697680713357,
+        "expression_oriented": 0.39330557735988164,
+        "ecosystem_oriented": 0.26857521948055174
+      },
+      "priority_raw": 0.10380752012987708,
+      "contest_raw": 0.040924439714587174
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5337990717723092,
+      "contest_score": -0.8574386108558814,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.18660250352360638,
+      "contestedness": 0.027827255218677238,
+      "impact": 0.6649999999999999,
+      "top_clusters": {
+        "expression_oriented": 0.29257676696291046,
+        "knowledge_oriented": 0.24704766959393007
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.13395852718994616
+      },
+      "cluster_means": {
+        "survival_focused": 0.14091650103028872,
+        "stability_seeking": 0.1502698643327248,
+        "achievement_oriented": 0.16712427040249678,
+        "care_oriented": 0.2062401594582927,
+        "knowledge_oriented": 0.24704766959393007,
+        "governance_oriented": 0.14633724712069374,
+        "sovereignty_order_oriented": 0.13395852718994616,
+        "expression_oriented": 0.29257676696291046,
+        "ecosystem_oriented": 0.19495152562117402
+      },
+      "priority_raw": 0.07445439890591894,
+      "contest_raw": 0.01850512472042036
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5888135611356387,
+      "contest_score": -1.452414419610708,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4578171169714026,
+      "contestedness": 0.02855037860375137,
+      "impact": 0.28,
+      "top_clusters": {
+        "care_oriented": 0.5443009749445595,
+        "governance_oriented": 0.5381317547649764
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.3913992969459219
+      },
+      "cluster_means": {
+        "survival_focused": 0.44022869619409977,
+        "stability_seeking": 0.5083117338852665,
+        "achievement_oriented": 0.3913992969459219,
+        "care_oriented": 0.5443009749445595,
+        "knowledge_oriented": 0.4412474117503311,
+        "governance_oriented": 0.5381317547649764,
+        "sovereignty_order_oriented": 0.41275798338673686,
+        "expression_oriented": 0.43229788328038377,
+        "ecosystem_oriented": 0.4116783175903484
+      },
+      "priority_raw": 0.06409439637599637,
+      "contest_raw": 0.007994106009050385
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5946242283362269,
+      "contest_score": 2.7471683017679522,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.16800044259311767,
+      "contestedness": 0.10958023622214938,
+      "impact": 0.75,
+      "top_clusters": {
+        "expression_oriented": 0.36307233039208775,
+        "knowledge_oriented": 0.2996324679143926
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.0132909704664885
+      },
+      "cluster_means": {
+        "survival_focused": 0.0132909704664885,
+        "stability_seeking": 0.043616291444046884,
+        "achievement_oriented": 0.15319652766619626,
+        "care_oriented": 0.19057467103893508,
+        "knowledge_oriented": 0.2996324679143926,
+        "governance_oriented": 0.0965163316122063,
+        "sovereignty_order_oriented": 0.022696271056707656,
+        "expression_oriented": 0.36307233039208775,
+        "ecosystem_oriented": 0.231932732811286
+      },
+      "priority_raw": 0.06300016597241913,
+      "contest_raw": 0.08218517716661203
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6013130176753653,
+      "contest_score": 0.8507911274154518,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.19144363662919772,
+      "contestedness": 0.07547785550534326,
+      "impact": 0.645,
+      "top_clusters": {
+        "expression_oriented": 0.4116261234917561,
+        "knowledge_oriented": 0.34680649119190327
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.03995603389827007
+      },
+      "cluster_means": {
+        "survival_focused": 0.0518570671580873,
+        "stability_seeking": 0.09112206865324636,
+        "achievement_oriented": 0.16659992415858962,
+        "care_oriented": 0.22442989666788327,
+        "knowledge_oriented": 0.34680649119190327,
+        "governance_oriented": 0.12329063220501728,
+        "sovereignty_order_oriented": 0.03995603389827007,
+        "expression_oriented": 0.4116261234917561,
+        "ecosystem_oriented": 0.2315528130268484
+      },
+      "priority_raw": 0.06174057281291627,
+      "contest_raw": 0.04868321680094641
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "title": "Two people convicted in relation to death of French streamer",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6223703195114992,
+      "contest_score": -0.8544339738810046,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.17118573793061198,
+      "contestedness": 0.02749363781688069,
+      "impact": 0.675,
+      "top_clusters": {
+        "expression_oriented": 0.36793329783081263,
+        "knowledge_oriented": 0.3061938514732881
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.06462294438372004
+      },
+      "cluster_means": {
+        "survival_focused": 0.06462294438372004,
+        "stability_seeking": 0.09211658220060073,
+        "achievement_oriented": 0.2017964848801654,
+        "care_oriented": 0.08467848464680552,
+        "knowledge_oriented": 0.3061938514732881,
+        "governance_oriented": 0.06489315482622829,
+        "sovereignty_order_oriented": 0.08164087642474827,
+        "expression_oriented": 0.36793329783081263,
+        "ecosystem_oriented": 0.24916281210018548
+      },
+      "priority_raw": 0.05777518655158155,
+      "contest_raw": 0.018558205526394467
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6302957997110891,
+      "contest_score": -0.7605103405816835,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.15765464173646146,
+      "contestedness": 0.03964213377943107,
       "impact": 0.51,
       "top_clusters": {
-        "expression_oriented": 0.3554365514668111,
-        "knowledge_oriented": 0.3162936557081374
+        "expression_oriented": 0.26852197715827403,
+        "knowledge_oriented": 0.22336653109248655
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.1150351214730267
+        "achievement_oriented": 0.10155810921200732
       },
       "cluster_means": {
-        "survival_focused": 0.14066898503962938,
-        "stability_seeking": 0.20147202822635207,
-        "achievement_oriented": 0.22346560739916876,
-        "care_oriented": 0.17764312663046813,
-        "knowledge_oriented": 0.3162936557081374,
-        "governance_oriented": 0.1595093709294712,
-        "sovereignty_order_oriented": 0.1150351214730267,
-        "expression_oriented": 0.3554365514668111,
-        "ecosystem_oriented": 0.1433585007906659
+        "survival_focused": 0.11729802641529269,
+        "stability_seeking": 0.16748314133216666,
+        "achievement_oriented": 0.10155810921200732,
+        "care_oriented": 0.17972430473523154,
+        "knowledge_oriented": 0.22336653109248655,
+        "governance_oriented": 0.1480696648668643,
+        "sovereignty_order_oriented": 0.1044424897283969,
+        "expression_oriented": 0.26852197715827403,
+        "ecosystem_oriented": 0.10842753108743322
       },
-      "priority_raw": 0.07270435692399464,
-      "contest_raw": 0.018856812211327765
+      "priority_raw": 0.056282707099916736,
+      "contest_raw": 0.020217488227509847
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "title": "Artificial Intelligence used to design brand new viruses",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "title": "Seven killed after Thai student opens fire at home and school",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.47140880927653384,
-      "contest_score": 1.4867351861796205,
+      "priority_score": -0.6518447100309348,
+      "contest_score": 0.9020176822916041,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.75,
-      "central_tendency": 0.13532868622413596,
-      "contestedness": 0.06811896923292474,
-      "impact": 0.8500000000000001,
+      "central_tendency": 0.13390960011029612,
+      "contestedness": 0.06357461574243173,
+      "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.3080248616364082,
-        "knowledge_oriented": 0.25323426161266205
+        "expression_oriented": 0.31458536458114783,
+        "knowledge_oriented": 0.24814703599818524
       },
       "bottom_clusters": {
-        "stability_seeking": -0.008009409364376968
+        "survival_focused": -0.00352782422985784
       },
       "cluster_means": {
-        "survival_focused": -0.007603685869759985,
-        "stability_seeking": -0.008009409364376968,
-        "achievement_oriented": 0.1750315367139702,
-        "care_oriented": 0.06010955986854777,
-        "knowledge_oriented": 0.25323426161266205,
-        "governance_oriented": 0.00830718720518192,
-        "sovereignty_order_oriented": 0.01688581122353852,
-        "expression_oriented": 0.3080248616364082,
-        "ecosystem_oriented": 0.16060165234900142
+        "survival_focused": -0.00352782422985784,
+        "stability_seeking": 0.028461547397373443,
+        "achievement_oriented": 0.11764323153179146,
+        "care_oriented": 0.09067868414731917,
+        "knowledge_oriented": 0.24814703599818524,
+        "governance_oriented": 0.033406689130014156,
+        "sovereignty_order_oriented": 0.027104068404887438,
+        "expression_oriented": 0.31458536458114783,
+        "ecosystem_oriented": 0.19556857754769788
       },
-      "priority_raw": 0.06901762997430935,
-      "contest_raw": 0.057901123847986034
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.523195564534739,
-      "contest_score": 0.890779794064499,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.16672353167986576,
-      "contestedness": 0.06546818088247391,
-      "impact": 0.735,
-      "top_clusters": {
-        "expression_oriented": 0.3468107528657631,
-        "knowledge_oriented": 0.31217452982189076
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.047876661414214594
-      },
-      "cluster_means": {
-        "survival_focused": 0.047876661414214594,
-        "stability_seeking": 0.086587748935716,
-        "achievement_oriented": 0.18082799570293462,
-        "care_oriented": 0.1520559298181899,
-        "knowledge_oriented": 0.31217452982189076,
-        "governance_oriented": 0.1201163308275407,
-        "sovereignty_order_oriented": 0.0781203140980718,
-        "expression_oriented": 0.3468107528657631,
-        "ecosystem_oriented": 0.17527625552802814
-      },
-      "priority_raw": 0.06127089789235066,
-      "contest_raw": 0.04811911294861833
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5686149978621915,
-      "contest_score": 1.583593999689415,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.11278809009927124,
-      "contestedness": 0.07390181896342204,
-      "impact": 0.805,
-      "top_clusters": {
-        "expression_oriented": 0.2572113657067686,
-        "knowledge_oriented": 0.19896898642381247
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.04040191448121405
-      },
-      "cluster_means": {
-        "survival_focused": -0.04040191448121405,
-        "stability_seeking": -0.017002146443851368,
-        "achievement_oriented": 0.07774290772080925,
-        "care_oriented": 0.056899672519570677,
-        "knowledge_oriented": 0.19896898642381247,
-        "governance_oriented": 0.009482005891523815,
-        "sovereignty_order_oriented": 0.0014873395497820019,
-        "expression_oriented": 0.2572113657067686,
-        "ecosystem_oriented": 0.14788353958540654
-      },
-      "priority_raw": 0.054476647517948014,
-      "contest_raw": 0.05949096426555475
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
-      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5874844525597964,
-      "contest_score": 0.6022232795104476,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5270814644036651,
-      "contestedness": 0.0885362178730566,
-      "impact": 0.4900000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.686064424054093,
-        "knowledge_oriented": 0.6325201965698353
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.39303367885019436
-      },
-      "cluster_means": {
-        "survival_focused": 0.45573698087342296,
-        "stability_seeking": 0.48156989672325096,
-        "achievement_oriented": 0.46327778613013826,
-        "care_oriented": 0.5732659051014862,
-        "knowledge_oriented": 0.6325201965698353,
-        "governance_oriented": 0.4778077418117479,
-        "sovereignty_order_oriented": 0.39303367885019436,
-        "expression_oriented": 0.686064424054093,
-        "ecosystem_oriented": 0.5804565695188167
-      },
-      "priority_raw": 0.05165398351155919,
-      "contest_raw": 0.04338274675779774
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6012317655598722,
-      "contest_score": -0.8238321716476885,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.19075975335033693,
-      "contestedness": 0.030731499619052388,
-      "impact": 0.65,
-      "top_clusters": {
-        "expression_oriented": 0.26601206027990576,
-        "knowledge_oriented": 0.22853280990502786
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.12015328548048941
-      },
-      "cluster_means": {
-        "survival_focused": 0.16564649675038048,
-        "stability_seeking": 0.14580364102433485,
-        "achievement_oriented": 0.19637799636943287,
-        "care_oriented": 0.20245226006048123,
-        "knowledge_oriented": 0.22853280990502786,
-        "governance_oriented": 0.12015328548048941,
-        "sovereignty_order_oriented": 0.17825081554386127,
-        "expression_oriented": 0.26601206027990576,
-        "ecosystem_oriented": 0.21360841473911873
-      },
-      "priority_raw": 0.04959753587108761,
-      "contest_raw": 0.019975474752384054
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.626633125115189,
-      "contest_score": 0.7604417471936601,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.13085077243334878,
-      "contestedness": 0.06568534920800523,
-      "impact": 0.7000000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3115691565302434,
-        "knowledge_oriented": 0.23011799855793605
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.015970691746856863
-      },
-      "cluster_means": {
-        "survival_focused": -0.015970691746856863,
-        "stability_seeking": 0.0074845119681842265,
-        "achievement_oriented": 0.057709210991058135,
-        "care_oriented": 0.07914809746334796,
-        "knowledge_oriented": 0.23011799855793605,
-        "governance_oriented": 0.015189283665755476,
-        "sovereignty_order_oriented": -0.007976138216947093,
-        "expression_oriented": 0.3115691565302434,
-        "ecosystem_oriented": 0.202959189794763
-      },
-      "priority_raw": 0.045797770351672075,
-      "contest_raw": 0.04597974444560366
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6510854304974144,
-      "contest_score": 0.2787992717518472,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.15158263652761136,
-      "contestedness": 0.05478282818211842,
-      "impact": 0.6950000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3402962753398178,
-        "knowledge_oriented": 0.28812780651258096
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.04157784874010878
-      },
-      "cluster_means": {
-        "survival_focused": 0.04157784874010878,
-        "stability_seeking": 0.0739642214315133,
-        "achievement_oriented": 0.18452967058740213,
-        "care_oriented": 0.0963606769222272,
-        "knowledge_oriented": 0.28812780651258096,
-        "governance_oriented": 0.049332416738904775,
-        "sovereignty_order_oriented": 0.05943815643776837,
-        "expression_oriented": 0.3402962753398178,
-        "ecosystem_oriented": 0.1951321616059228
-      },
-      "priority_raw": 0.04213997295467597,
-      "contest_raw": 0.03807406558657231
+      "priority_raw": 0.05222474404301549,
+      "contest_raw": 0.04958820027909675
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
@@ -894,8 +894,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6715829106749486,
-      "contest_score": 1.6155977464638407,
+      "priority_score": -0.7216800108854161,
+      "contest_score": 1.4922983770077607,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.5833333333333334,
@@ -924,112 +924,76 @@
       "contest_raw": 0.06001627371641305
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6889324018167216,
-      "contest_score": -1.4009971854496592,
+      "priority_score": -0.7293805402262779,
+      "contest_score": 0.24288400735887877,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.13765464173646147,
-      "contestedness": 0.019814885083126094,
-      "impact": 0.53,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.13533689246897118,
+      "contestedness": 0.05459532333424143,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "expression_oriented": 0.20352197715827408,
-        "care_oriented": 0.17472430473523143
+        "expression_oriented": 0.3071972915491969,
+        "knowledge_oriented": 0.25490095624914144
       },
       "bottom_clusters": {
-        "governance_oriented": 0.10306966486686435
+        "survival_focused": 0.03476243291860778
       },
       "cluster_means": {
-        "survival_focused": 0.1272980264152927,
-        "stability_seeking": 0.1074831413321666,
-        "achievement_oriented": 0.11155810921200733,
-        "care_oriented": 0.17472430473523143,
-        "knowledge_oriented": 0.15836653109248652,
-        "governance_oriented": 0.10306966486686435,
-        "sovereignty_order_oriented": 0.11944248972839691,
-        "expression_oriented": 0.20352197715827408,
-        "ecosystem_oriented": 0.13342753108743324
+        "survival_focused": 0.03476243291860778,
+        "stability_seeking": 0.0630144391992627,
+        "achievement_oriented": 0.1479949956298989,
+        "care_oriented": 0.09339967229565747,
+        "knowledge_oriented": 0.25490095624914144,
+        "governance_oriented": 0.0415174907155994,
+        "sovereignty_order_oriented": 0.057501444363988824,
+        "expression_oriented": 0.3071972915491969,
+        "ecosystem_oriented": 0.182258814867131
       },
-      "priority_raw": 0.03647848006016229,
-      "contest_raw": 0.01050188909405683
+      "priority_raw": 0.037623656106374,
+      "contest_raw": 0.037943749717297796
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan's invisible children - born in war with no legal identity",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6959886680573922,
-      "contest_score": 1.250047664573894,
+      "priority_score": -0.7365352821329552,
+      "contest_score": 0.42698339296328797,
       "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.0926089929943236,
-      "contestedness": 0.07060932709607193,
-      "impact": 0.765,
+      "polarity": -1,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.08847882322282641,
+      "contestedness": 0.05023915115214256,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.20981456206483473,
-        "knowledge_oriented": 0.14243439763671203
+        "expression_oriented": 0.11350821599542818,
+        "ecosystem_oriented": 0.0600576046975729
       },
       "bottom_clusters": {
-        "survival_focused": -0.039210061967491994
+        "stability_seeking": -0.1174134366560407
       },
       "cluster_means": {
-        "survival_focused": -0.039210061967491994,
-        "stability_seeking": -0.030110453298932777,
-        "achievement_oriented": 0.04697758708750391,
-        "care_oriented": 0.043329492351928206,
-        "knowledge_oriented": 0.14243439763671203,
-        "governance_oriented": -0.02727983474414372,
-        "sovereignty_order_oriented": -0.017183464788110447,
-        "expression_oriented": 0.20981456206483473,
-        "ecosystem_oriented": 0.10173584518247497
+        "survival_focused": -0.10557162249279445,
+        "stability_seeking": -0.1174134366560407,
+        "achievement_oriented": -0.056612610874155755,
+        "care_oriented": -0.006373459722013197,
+        "knowledge_oriented": 0.044700410171898464,
+        "governance_oriented": -0.09546532217977141,
+        "sovereignty_order_oriented": -0.06923451307283993,
+        "expression_oriented": 0.11350821599542818,
+        "ecosystem_oriented": 0.0600576046975729
       },
-      "priority_raw": 0.03542293982032878,
-      "contest_raw": 0.05401613522849503
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.7812754422930738,
-      "contest_score": -1.028184966652018,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.43586483388649166,
-      "contestedness": 0.0639278011004909,
-      "impact": 0.26,
-      "top_clusters": {
-        "expression_oriented": 0.5120660131274859,
-        "knowledge_oriented": 0.5100254120595722
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.35121496020325016
-      },
-      "cluster_means": {
-        "survival_focused": 0.3755376969803586,
-        "stability_seeking": 0.46484930888316295,
-        "achievement_oriented": 0.4588420451706179,
-        "care_oriented": 0.4460976109590813,
-        "knowledge_oriented": 0.5100254120595722,
-        "governance_oriented": 0.4282435551401002,
-        "sovereignty_order_oriented": 0.35121496020325016,
-        "expression_oriented": 0.5120660131274859,
-        "ecosystem_oriented": 0.37590690245479574
-      },
-      "priority_raw": 0.022664971362097566,
-      "contest_raw": 0.016621228286127634
+      "priority_raw": 0.036276317521358833,
+      "contest_raw": 0.0411961039447569
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
@@ -1038,37 +1002,109 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8170656686793651,
-      "contest_score": -0.6307700097558242,
+      "priority_score": -0.7485432603196727,
+      "contest_score": -0.9695059009389585,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.10035446382874655,
-      "contestedness": 0.040251124841586744,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.19718867390378364,
+      "contestedness": 0.02873967097257038,
       "impact": 0.575,
       "top_clusters": {
-        "expression_oriented": 0.18014697453311793,
-        "ecosystem_oriented": 0.15121295525539635
+        "expression_oriented": 0.25607313934872167,
+        "ecosystem_oriented": 0.23662880436760542
       },
       "bottom_clusters": {
-        "stability_seeking": 0.03349265204153211
+        "governance_oriented": 0.1378172558122563
       },
       "cluster_means": {
-        "survival_focused": 0.06165795489041184,
-        "stability_seeking": 0.03349265204153211,
-        "achievement_oriented": 0.09723173978557742,
-        "care_oriented": 0.12265252219604432,
-        "knowledge_oriented": 0.13748286462716416,
-        "governance_oriented": 0.038409871947134855,
-        "sovereignty_order_oriented": 0.0769668084834819,
-        "expression_oriented": 0.18014697453311793,
-        "ecosystem_oriented": 0.15121295525539635
+        "survival_focused": 0.17508573224508536,
+        "stability_seeking": 0.1404990543132451,
+        "achievement_oriented": 0.20382540321765574,
+        "care_oriented": 0.21797005955063328,
+        "knowledge_oriented": 0.222762851193666,
+        "governance_oriented": 0.1378172558122563,
+        "sovereignty_order_oriented": 0.18403576508518388,
+        "expression_oriented": 0.25607313934872167,
+        "ecosystem_oriented": 0.23662880436760542
       },
-      "priority_raw": 0.01731114501045878,
-      "contest_raw": 0.023144396783912377
+      "priority_raw": 0.034015046248402674,
+      "contest_raw": 0.016525310809227967
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.8178287563182539,
+      "contest_score": -0.4038405589085687,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.07180689158407749,
+      "contestedness": 0.036326742659539474,
+      "impact": 0.73,
+      "top_clusters": {
+        "expression_oriented": 0.1549861798422607,
+        "knowledge_oriented": 0.13558599480139408
+      },
+      "bottom_clusters": {
+        "governance_oriented": -0.0052756588242229285
+      },
+      "cluster_means": {
+        "survival_focused": 0.042414297253028366,
+        "stability_seeking": 0.03202805113119589,
+        "achievement_oriented": 0.11254502594512363,
+        "care_oriented": 0.05833786981906458,
+        "knowledge_oriented": 0.13558599480139408,
+        "governance_oriented": -0.0052756588242229285,
+        "sovereignty_order_oriented": 0.07262600203352731,
+        "expression_oriented": 0.1549861798422607,
+        "ecosystem_oriented": 0.022011127159525107
+      },
+      "priority_raw": 0.020967612342550627,
+      "contest_raw": 0.026518522141463816
     }
   ],
   "selected_priorities": [
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 2.095064877000963,
+      "contest_score": -0.07642929986474772,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.0868444174373764,
+      "contestedness": 0.04931704784128321,
+      "impact": 0.655,
+      "top_clusters": {
+        "survival_focused": 1.2047158258989148,
+        "stability_seeking": 1.204303932531226
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.890926888480079
+      },
+      "cluster_means": {
+        "survival_focused": 1.2047158258989148,
+        "stability_seeking": 1.204303932531226,
+        "achievement_oriented": 1.0510388587085906,
+        "care_oriented": 1.1553987780576316,
+        "knowledge_oriented": 0.9608504761436154,
+        "governance_oriented": 1.1859079479252381,
+        "sovereignty_order_oriented": 1.1748253609669739,
+        "expression_oriented": 0.890926888480079,
+        "ecosystem_oriented": 0.9536316882241163
+      },
+      "priority_raw": 0.5695064747371853,
+      "contest_raw": 0.03230266633604051
+    },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -1076,142 +1112,106 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.6170607137422803,
-      "contest_score": 0.07765477933297885,
+      "priority_score": 1.9867062121332801,
+      "contest_score": 0.49413037446639596,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0321066769524065,
-      "contestedness": 0.04730949686268282,
+      "central_tendency": 1.067251726496047,
+      "contestedness": 0.057663050872249766,
       "impact": 0.735,
       "top_clusters": {
-        "care_oriented": 1.1809982109783768,
-        "governance_oriented": 1.1121485404728189
+        "care_oriented": 1.2611741551982196,
+        "governance_oriented": 1.1629185905537862
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.8949352692481229
+        "achievement_oriented": 0.9069520759708121
       },
       "cluster_means": {
-        "survival_focused": 1.0730254659897476,
-        "stability_seeking": 1.0597075870084263,
-        "achievement_oriented": 0.8949352692481229,
-        "care_oriented": 1.1809982109783768,
-        "knowledge_oriented": 0.997723681229765,
-        "governance_oriented": 1.1121485404728189,
-        "sovereignty_order_oriented": 1.0123980901457434,
-        "expression_oriented": 0.9810638972693352,
-        "ecosystem_oriented": 0.9769593502293228
+        "survival_focused": 1.0893868682978947,
+        "stability_seeking": 1.0889030687118972,
+        "achievement_oriented": 0.9069520759708121,
+        "care_oriented": 1.2611741551982196,
+        "knowledge_oriented": 1.0312400178396475,
+        "governance_oriented": 1.1629185905537862,
+        "sovereignty_order_oriented": 1.0236548144813595,
+        "expression_oriented": 1.0114818426328294,
+        "ecosystem_oriented": 1.0295541047779762
       },
-      "priority_raw": 0.5310188852920131,
-      "contest_raw": 0.03477248019407187
+      "priority_raw": 0.5491010132822162,
+      "contest_raw": 0.04238234239110358
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.050303745955762,
-      "contest_score": -0.08280344200458707,
+      "priority_score": 1.8260911440619076,
+      "contest_score": 0.6465187066245669,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9374752999327325,
-      "contestedness": 0.04726282234292856,
-      "impact": 0.68,
+      "central_tendency": 1.2010530919766695,
+      "contestedness": 0.08347125882219375,
+      "impact": 0.54,
       "top_clusters": {
-        "achievement_oriented": 1.0040907844067704,
-        "stability_seeking": 0.9935610775844208
+        "governance_oriented": 1.316505806815663,
+        "stability_seeking": 1.3047096155197189
       },
       "bottom_clusters": {
-        "expression_oriented": 0.854204423986116
+        "ecosystem_oriented": 1.0607048458395318
       },
       "cluster_means": {
-        "survival_focused": 0.9725840025829622,
-        "stability_seeking": 0.9935610775844208,
-        "achievement_oriented": 1.0040907844067704,
-        "care_oriented": 0.8970818612095504,
-        "knowledge_oriented": 0.8919857456917772,
-        "governance_oriented": 0.9462982552414922,
-        "sovereignty_order_oriented": 0.9737623968066383,
-        "expression_oriented": 0.854204423986116,
-        "ecosystem_oriented": 0.9037091518848659
+        "survival_focused": 1.2861010787728355,
+        "stability_seeking": 1.3047096155197189,
+        "achievement_oriented": 1.1085235102774114,
+        "care_oriented": 1.2942364849103956,
+        "knowledge_oriented": 1.1423586595371509,
+        "governance_oriented": 1.316505806815663,
+        "sovereignty_order_oriented": 1.2212383566975251,
+        "expression_oriented": 1.0750994694197953,
+        "ecosystem_oriented": 1.0607048458395318
       },
-      "priority_raw": 0.4462382427679807,
-      "contest_raw": 0.03213871919319142
+      "priority_raw": 0.5188549357339213,
+      "contest_raw": 0.045074479763984626
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.572537757255848,
-      "contest_score": -0.09473655920471379,
+      "priority_score": 1.5993862469966327,
+      "contest_score": -0.6091445752890003,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.118715454408692,
-      "contestedness": 0.04767589406809858,
-      "impact": 0.67,
+      "central_tendency": 0.9757442896460657,
+      "contestedness": 0.037527148576282476,
+      "impact": 0.61,
       "top_clusters": {
-        "achievement_oriented": 1.2020740789650242,
-        "survival_focused": 1.1856760270438707
+        "care_oriented": 1.0792926184077498,
+        "expression_oriented": 1.0470352771144327
       },
       "bottom_clusters": {
-        "expression_oriented": 0.9676819046307263
+        "achievement_oriented": 0.8040471603392378
       },
       "cluster_means": {
-        "survival_focused": 1.1856760270438707,
-        "stability_seeking": 1.181859994148358,
-        "achievement_oriented": 1.2020740789650242,
-        "care_oriented": 1.118520635816123,
-        "knowledge_oriented": 1.0323831100995515,
-        "governance_oriented": 1.138000132975772,
-        "sovereignty_order_oriented": 1.184420611794094,
-        "expression_oriented": 0.9676819046307263,
-        "ecosystem_oriented": 1.0578225942047073
+        "survival_focused": 0.937324542537889,
+        "stability_seeking": 0.9887331740677626,
+        "achievement_oriented": 0.8040471603392378,
+        "care_oriented": 1.0792926184077498,
+        "knowledge_oriented": 1.016436301053457,
+        "governance_oriented": 1.037394567754674,
+        "sovereignty_order_oriented": 0.8619268370012406,
+        "expression_oriented": 1.0470352771144327,
+        "ecosystem_oriented": 1.0095081285381502
       },
-      "priority_raw": 0.3747696772269118,
-      "contest_raw": 0.03194284902562605
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.7886395228233162,
-      "contest_score": -1.4025249810646563,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7213083377035542,
-      "contestedness": 0.01760808715824702,
-      "impact": 0.595,
-      "top_clusters": {
-        "survival_focused": 0.7530475627585778,
-        "care_oriented": 0.7486750086450898
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.6568605261005904
-      },
-      "cluster_means": {
-        "survival_focused": 0.7530475627585778,
-        "stability_seeking": 0.739880347241843,
-        "achievement_oriented": 0.6568605261005904,
-        "care_oriented": 0.7486750086450898,
-        "knowledge_oriented": 0.7444448229092289,
-        "governance_oriented": 0.7137638194745934,
-        "sovereignty_order_oriented": 0.7116481756143922,
-        "expression_oriented": 0.7313719066328405,
-        "ecosystem_oriented": 0.6920828699548317
-      },
-      "priority_raw": 0.2575070765601688,
-      "contest_raw": 0.010476811859156977
+      "priority_raw": 0.47616321334728007,
+      "contest_raw": 0.02289156063153231
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
@@ -1220,8 +1220,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6753661484113154,
-      "contest_score": -0.6208865997776521,
+      "priority_score": 0.348281687741331,
+      "contest_score": -0.5856499825197813,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -1250,205 +1250,228 @@
       "contest_raw": 0.023306623060255428
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.4071542666053826,
-      "contest_score": -1.4167107205312872,
+      "priority_score": 0.27650348508491573,
+      "contest_score": -1.2010879723024934,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4509360075727391,
-      "contestedness": 0.016132231737223335,
-      "impact": 0.635,
+      "central_tendency": 0.8226296131097349,
+      "contestedness": 0.02703068131169606,
+      "impact": 0.46,
       "top_clusters": {
-        "expression_oriented": 0.5341014475181072,
-        "knowledge_oriented": 0.5201000275007239
+        "governance_oriented": 0.8948344522069643,
+        "stability_seeking": 0.885582845510495
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.39840813511839346
+        "ecosystem_oriented": 0.7532783315690151
       },
       "cluster_means": {
-        "survival_focused": 0.40481146414691993,
-        "stability_seeking": 0.43960791039476127,
-        "achievement_oriented": 0.4331888830315509,
-        "care_oriented": 0.4557401421319846,
-        "knowledge_oriented": 0.5201000275007239,
-        "governance_oriented": 0.4457213360179329,
-        "sovereignty_order_oriented": 0.39840813511839346,
-        "expression_oriented": 0.5341014475181072,
-        "ecosystem_oriented": 0.4267447222942783
+        "survival_focused": 0.8314295965837968,
+        "stability_seeking": 0.885582845510495,
+        "achievement_oriented": 0.8096686407040729,
+        "care_oriented": 0.8494349203137911,
+        "knowledge_oriented": 0.7990003109218149,
+        "governance_oriented": 0.8948344522069643,
+        "sovereignty_order_oriented": 0.822404239002095,
+        "expression_oriented": 0.7580331811755695,
+        "ecosystem_oriented": 0.7532783315690151
       },
-      "priority_raw": 0.20044105536608253,
-      "contest_raw": 0.010243967153136817
+      "priority_raw": 0.22704577321828684,
+      "contest_raw": 0.012434113403380187
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.02020019252325929,
-      "contest_score": -0.15244170350290026,
+      "priority_score": 0.2229207547038224,
+      "contest_score": -0.4439421848354839,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.26621280829859906,
-      "contestedness": 0.04051722467309826,
-      "impact": 0.765,
+      "central_tendency": 0.7860702574381301,
+      "contestedness": 0.03740590572519087,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "expression_oriented": 0.406972455676908,
-        "knowledge_oriented": 0.36435248187696706
+        "survival_focused": 0.8504834794473234,
+        "sovereignty_order_oriented": 0.8312028781033889
       },
       "bottom_clusters": {
-        "survival_focused": 0.15583962894590894
+        "expression_oriented": 0.6983641795199331
       },
       "cluster_means": {
-        "survival_focused": 0.15583962894590894,
-        "stability_seeking": 0.20522606805726024,
-        "achievement_oriented": 0.2784883943481315,
-        "care_oriented": 0.2253329373439131,
-        "knowledge_oriented": 0.36435248187696706,
-        "governance_oriented": 0.24108919445561006,
-        "sovereignty_order_oriented": 0.2005719697825118,
-        "expression_oriented": 0.406972455676908,
-        "ecosystem_oriented": 0.31804214420018084
+        "survival_focused": 0.8504834794473234,
+        "stability_seeking": 0.8294293763840856,
+        "achievement_oriented": 0.8130775737221325,
+        "care_oriented": 0.8280679817948748,
+        "knowledge_oriented": 0.7323798906042921,
+        "governance_oriented": 0.7748892826268389,
+        "sovereignty_order_oriented": 0.8312028781033889,
+        "expression_oriented": 0.6983641795199331,
+        "ecosystem_oriented": 0.7167376747403018
       },
-      "priority_raw": 0.1425569588438998,
-      "contest_raw": 0.03099567687492017
+      "priority_raw": 0.21695539105292394,
+      "contest_raw": 0.025810074950381703
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4467631103899256,
-      "contest_score": -0.8919851291692132,
+      "priority_score": -0.3779258496672146,
+      "contest_score": 0.4116058496924203,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.20365366085152561,
-      "contestedness": 0.036974141590838755,
-      "impact": 0.51,
-      "top_clusters": {
-        "expression_oriented": 0.3554365514668111,
-        "knowledge_oriented": 0.3162936557081374
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.1150351214730267
-      },
-      "cluster_means": {
-        "survival_focused": 0.14066898503962938,
-        "stability_seeking": 0.20147202822635207,
-        "achievement_oriented": 0.22346560739916876,
-        "care_oriented": 0.17764312663046813,
-        "knowledge_oriented": 0.3162936557081374,
-        "governance_oriented": 0.1595093709294712,
-        "sovereignty_order_oriented": 0.1150351214730267,
-        "expression_oriented": 0.3554365514668111,
-        "ecosystem_oriented": 0.1433585007906659
-      },
-      "priority_raw": 0.07270435692399464,
-      "contest_raw": 0.018856812211327765
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.47140880927653384,
-      "contest_score": 1.4867351861796205,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.75,
-      "central_tendency": 0.13532868622413596,
-      "contestedness": 0.06811896923292474,
-      "impact": 0.8500000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3080248616364082,
-        "knowledge_oriented": 0.25323426161266205
-      },
-      "bottom_clusters": {
-        "stability_seeking": -0.008009409364376968
-      },
-      "cluster_means": {
-        "survival_focused": -0.007603685869759985,
-        "stability_seeking": -0.008009409364376968,
-        "achievement_oriented": 0.1750315367139702,
-        "care_oriented": 0.06010955986854777,
-        "knowledge_oriented": 0.25323426161266205,
-        "governance_oriented": 0.00830718720518192,
-        "sovereignty_order_oriented": 0.01688581122353852,
-        "expression_oriented": 0.3080248616364082,
-        "ecosystem_oriented": 0.16060165234900142
-      },
-      "priority_raw": 0.06901762997430935,
-      "contest_raw": 0.057901123847986034
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.523195564534739,
-      "contest_score": 0.890779794064499,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.16672353167986576,
-      "contestedness": 0.06546818088247391,
+      "central_tendency": 0.23539120210856485,
+      "contestedness": 0.05567950981576486,
       "impact": 0.735,
       "top_clusters": {
-        "expression_oriented": 0.3468107528657631,
-        "knowledge_oriented": 0.31217452982189076
+        "expression_oriented": 0.39330557735988164,
+        "knowledge_oriented": 0.35218658990087964
       },
       "bottom_clusters": {
-        "survival_focused": 0.047876661414214594
+        "survival_focused": 0.12131612002192507
       },
       "cluster_means": {
-        "survival_focused": 0.047876661414214594,
-        "stability_seeking": 0.086587748935716,
-        "achievement_oriented": 0.18082799570293462,
-        "care_oriented": 0.1520559298181899,
-        "knowledge_oriented": 0.31217452982189076,
-        "governance_oriented": 0.1201163308275407,
-        "sovereignty_order_oriented": 0.0781203140980718,
-        "expression_oriented": 0.3468107528657631,
-        "ecosystem_oriented": 0.17527625552802814
+        "survival_focused": 0.12131612002192507,
+        "stability_seeking": 0.175241386227208,
+        "achievement_oriented": 0.24968833525099512,
+        "care_oriented": 0.21289570966478688,
+        "knowledge_oriented": 0.35218658990087964,
+        "governance_oriented": 0.18953490426372205,
+        "sovereignty_order_oriented": 0.15577697680713357,
+        "expression_oriented": 0.39330557735988164,
+        "ecosystem_oriented": 0.26857521948055174
       },
-      "priority_raw": 0.06127089789235066,
-      "contest_raw": 0.04811911294861833
+      "priority_raw": 0.10380752012987708,
+      "contest_raw": 0.040924439714587174
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5337990717723092,
+      "contest_score": -0.8574386108558814,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.18660250352360638,
+      "contestedness": 0.027827255218677238,
+      "impact": 0.6649999999999999,
+      "top_clusters": {
+        "expression_oriented": 0.29257676696291046,
+        "knowledge_oriented": 0.24704766959393007
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.13395852718994616
+      },
+      "cluster_means": {
+        "survival_focused": 0.14091650103028872,
+        "stability_seeking": 0.1502698643327248,
+        "achievement_oriented": 0.16712427040249678,
+        "care_oriented": 0.2062401594582927,
+        "knowledge_oriented": 0.24704766959393007,
+        "governance_oriented": 0.14633724712069374,
+        "sovereignty_order_oriented": 0.13395852718994616,
+        "expression_oriented": 0.29257676696291046,
+        "ecosystem_oriented": 0.19495152562117402
+      },
+      "priority_raw": 0.07445439890591894,
+      "contest_raw": 0.01850512472042036
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5888135611356387,
+      "contest_score": -1.452414419610708,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4578171169714026,
+      "contestedness": 0.02855037860375137,
+      "impact": 0.28,
+      "top_clusters": {
+        "care_oriented": 0.5443009749445595,
+        "governance_oriented": 0.5381317547649764
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.3913992969459219
+      },
+      "cluster_means": {
+        "survival_focused": 0.44022869619409977,
+        "stability_seeking": 0.5083117338852665,
+        "achievement_oriented": 0.3913992969459219,
+        "care_oriented": 0.5443009749445595,
+        "knowledge_oriented": 0.4412474117503311,
+        "governance_oriented": 0.5381317547649764,
+        "sovereignty_order_oriented": 0.41275798338673686,
+        "expression_oriented": 0.43229788328038377,
+        "ecosystem_oriented": 0.4116783175903484
+      },
+      "priority_raw": 0.06409439637599637,
+      "contest_raw": 0.007994106009050385
     }
   ],
   "mood": {
-    "score": 0.031147460451829454,
+    "score": 0.031157259953790886,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
+      "target": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "name": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "root_cause": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 2.095064877000963,
+      "contest_score": -0.07642929986474772,
+      "contestedness": 0.04931704784128321,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
+      "signal_count": 1,
+      "signals": [
+        "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Spanish police arrest 78 people in bust of 'one of largest' smuggling networks is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Spanish police arrest 78 people in bust of 'one of largest' smuggling networks fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "rank": 2,
       "target": "Meta fined $567m in largest child safety ruling against social media giant",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "name": "Meta fined $567m in largest child safety ruling against social media giant",
       "root_cause": "Meta fined $567m in largest child safety ruling against social media giant",
       "severity": "high",
       "category": "convergent_priority",
-      "priority_score": 2.6170607137422803,
-      "contest_score": 0.07765477933297885,
-      "contestedness": 0.04730949686268282,
+      "priority_score": 1.9867062121332801,
+      "contest_score": 0.49413037446639596,
+      "contestedness": 0.057663050872249766,
       "mood": "↗ positive",
       "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
       "signal_count": 1,
@@ -1461,73 +1484,50 @@
       "falsification": "Signals tied to Meta fined $567m in largest child safety ruling against social media giant fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
-      "target": "EasyJet agrees to £5.7bn takeover by US firm",
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "name": "EasyJet agrees to £5.7bn takeover by US firm",
-      "root_cause": "EasyJet agrees to £5.7bn takeover by US firm",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 2.050303745955762,
-      "contest_score": -0.08280344200458707,
-      "contestedness": 0.04726282234292856,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
-      "signal_count": 1,
-      "signals": [
-        "EasyJet agrees to £5.7bn takeover by US firm"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around EasyJet agrees to £5.7bn takeover by US firm is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to EasyJet agrees to £5.7bn takeover by US firm fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "name": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "root_cause": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "target": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "name": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "root_cause": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.572537757255848,
-      "contest_score": -0.09473655920471379,
-      "contestedness": 0.04767589406809858,
+      "priority_score": 1.8260911440619076,
+      "contest_score": 0.6465187066245669,
+      "contestedness": 0.08347125882219375,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Iran says deal with Oman on Strait of Hormuz is in final stages"
+        "Australian aviation crew carries out daring midwinter Antarctica rescue"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Iran says deal with Oman on Strait of Hormuz is in final stages is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Iran says deal with Oman on Strait of Hormuz is in final stages fade or reverse without spillover."
+      "prediction": "Momentum around Australian aviation crew carries out daring midwinter Antarctica rescue is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Australian aviation crew carries out daring midwinter Antarctica rescue fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "name": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "root_cause": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "target": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "name": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "root_cause": "Kidnapped rare Serbian eagle freed into wild after rescue",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7886395228233162,
-      "contest_score": -1.4025249810646563,
-      "contestedness": 0.01760808715824702,
+      "priority_score": 1.5993862469966327,
+      "contest_score": -0.6091445752890003,
+      "contestedness": 0.037527148576282476,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, care_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape"
+        "Kidnapped rare Serbian eagle freed into wild after rescue"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape fade or reverse without spillover."
+      "prediction": "Momentum around Kidnapped rare Serbian eagle freed into wild after rescue is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Kidnapped rare Serbian eagle freed into wild after rescue fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
@@ -1538,8 +1538,8 @@
       "root_cause": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.6753661484113154,
-      "contest_score": -0.6208865997776521,
+      "priority_score": 0.348281687741331,
+      "contest_score": -0.5856499825197813,
       "contestedness": 0.045255578757777526,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
@@ -1562,128 +1562,136 @@
       "severity": "high"
     }
   ],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a mix of consequential developments and background noise, with a cautious undertone driven by governance and care-oriented priorities. Structural patterns suggest a focus on accountability and consolidation, alongside geopolitical and corporate maneuvers that merit close attention.\n\n---\n\n**1. Meta's record fine signals a structural shift in digital governance.**  \nThe $567 million penalty imposed on Meta for child safety violations represents the largest ruling of its kind against a social media giant. This is not merely a punitive action but a precedent-setting moment that underscores growing regulatory scrutiny of tech platforms. The ruling aligns strongly with care-oriented and governance-oriented clusters, indicating a societal pivot toward safeguarding vulnerable populations and holding corporations accountable. Structurally, this could accelerate global momentum for stricter oversight of digital ecosystems, with ripple effects on other tech firms.\n\n**2. EasyJet's acquisition reflects consolidation amid economic uncertainty.**  \nThe £5.7 billion takeover of EasyJet by a US firm highlights ongoing consolidation in the aviation sector, driven by achievement-oriented and stability-seeking dynamics. While the deal suggests confidence in the long-term viability of air travel, it also reflects the industry's need to adapt to post-pandemic volatility and geopolitical pressures. This move may signal broader trends of cross-border acquisitions as companies seek scale and resilience in uncertain markets.\n\n**3. Geopolitical developments around the Strait of Hormuz signal strategic recalibration.**  \nIran's announcement of a near-finalized deal with Oman regarding the Strait of Hormuz carries significant survival-focused and achievement-oriented implications. This agreement, if finalized, could stabilize one of the world's most critical maritime chokepoints, reducing tensions and ensuring energy security. However, the contestedness of this signal suggests caution in interpreting its immediate impact, as geopolitical agreements in this region often face implementation hurdles.\n\n---\n\n**Contested signals reveal underlying tensions.**  \nWhile most signals align positively, contestedness emerges in narratives such as the South Korea space agency's Moon imagery release following SpaceX rocket debris incidents. This reflects a subtle sovereignty-order-oriented undertone, as nations increasingly assert their technological capabilities amidst competitive pressures. Similarly, the sentencing of Indian journalist Tarun Tejpal for rape, while care-oriented, underscores societal struggles with justice and accountability in high-profile cases.\n\n---\n\n**Longer-term trajectories point to governance and consolidation.**  \nThe Meta ruling and EasyJet acquisition both highlight structural shifts toward greater oversight and strategic consolidation. These developments suggest a broader recalibration of corporate practices and governance frameworks, with implications for sectors ranging from technology to aviation. Meanwhile, geopolitical agreements like the Iran-Oman deal could influence energy and security dynamics in the Middle East, though their durability remains uncertain.\n\n---\n\n**What to watch next:**  \n1. **Regulatory ripple effects:** Monitor whether other governments follow suit with stricter penalties for tech firms, particularly in child safety and data privacy domains.  \n2. **Post-acquisition strategies:** Track how EasyJet’s new ownership integrates operations and navigates economic headwinds.  \n3. **Geopolitical execution:** Watch for concrete outcomes from the Iran-Oman deal, particularly in maritime security and energy flows.  \n4. **Space sovereignty narratives:** Pay attention to how nations frame their technological achievements in space exploration amidst competitive tensions.  \n\nToday's signals suggest a cautious but pivotal moment across governance, corporate strategy, and geopolitical recalibration.",
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautious portfolio mood, with a mix of governance-oriented interventions and survival-focused actions dominating the narrative. Structural patterns suggest a tilt toward stability-seeking measures, but contested signals and underlying tensions warrant close monitoring.\n\n**1. Governance and accountability take center stage.**  \nMeta's record $567 million fine for child safety violations underscores the increasing regulatory scrutiny on tech giants. This ruling, while positive in direction, signals a broader governance-oriented trend where governments are asserting their role in safeguarding vulnerable populations. The fine is not just punitive but symbolic, marking a shift in how digital platforms are held accountable for societal impacts. This aligns with growing care-oriented priorities globally, as policymakers grapple with the balance between innovation and regulation.\n\n**2. Survival-focused actions highlight global security and humanitarian challenges.**  \nSpanish police dismantling a major smuggling network reflects Europe's ongoing struggle with migration-related crime and border security. While the operation is a positive development, it also underscores the systemic pressures driving such networks. Similarly, the daring Antarctic rescue by Australian aviation crews showcases the resilience of governance-oriented responses to extreme situations, emphasizing stability-seeking behavior in crisis management. These signals collectively point to a world increasingly focused on survival-driven interventions to mitigate immediate risks.\n\n**3. Contested signals reveal underlying tensions.**  \nThe rescue and release of a rare Serbian eagle, while positive, carries a contested undertone. The low contest score suggests limited structural impact, highlighting the gap between symbolic environmental wins and broader ecosystem-oriented priorities. Similarly, South Korea's Moon images following SpaceX debris crashes reflect knowledge-oriented advancements but are overshadowed by sovereignty concerns tied to space exploration and debris management. These signals, while uplifting, remain peripheral to larger structural shifts.\n\n**4. Longer-term trajectories suggest governance consolidation.**  \nThe Saudi-Turkey-Pakistan defense pact hints at emerging geopolitical alignments, signaling a potential consolidation of regional power blocs. Meanwhile, Spain's border controls against Italy over migrant tensions suggest a hardening of national policies in response to transnational pressures. These developments align with a broader trajectory of governance-oriented measures aimed at asserting control amid rising global uncertainties.\n\n**5. Watch for regulatory ripple effects and geopolitical recalibrations.**  \nKey areas to monitor include potential follow-up actions against Meta by other jurisdictions, as regulatory momentum could snowball. Additionally, Spain's border controls may escalate tensions within the EU, prompting broader policy debates on migration. Finally, the Saudi-led defense pact warrants attention for its implications on regional stability and alliances. These signals collectively point to a cautious but active recalibration of governance and survival strategies globally.",
   "noise_filtered": [
-    "EasyJet agrees to £5.7bn takeover by US firm",
-    "Iran says deal with Oman on Strait of Hormuz is in final stages",
-    "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+    "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+    "Australian aviation crew carries out daring midwinter Antarctica rescue",
+    "Kidnapped rare Serbian eagle freed into wild after rescue",
     "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-    "Trump imposes 15% tariff on key chip material to counter China",
-    "DR Congo river boat under quarantine for Ebola after five deaths",
-    "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-    "Artificial Intelligence used to design brand new viruses",
-    "Ukraine hits two oil refineries deep in Russian territory",
-    "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-    "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-    "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-    "Outrage as Ugandan football captain beaten to death in street gang attack",
-    "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+    "Mexico and Peru restore diplomatic relations after asylum row",
+    "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+    "Trump again tries to limit US birthright citizenship with new executive orders",
+    "'Put your phone down': K-pop band weighs in on concert etiquette",
+    "German airport drone-bomb: Could Russia be involved?",
+    "A new youth agitation grips an Indian state after 'cockroach' protests",
+    "Two people convicted in relation to death of French streamer",
+    "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+    "Seven killed after Thai student opens fire at home and school",
     "Thousands of migrants still in Ceuta after border crisis, local leader says",
-    "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
-    "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-    "Rihanna is 'in the studio', says partner A$AP Rocky",
-    "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'"
+    "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+    "Sudan's invisible children - born in war with no legal identity",
+    "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+    "Trump administration to pay German firm $1.2bn to halt US wind projects"
   ],
-  "matured_predictions": [],
+  "matured_predictions": [
+    {
+      "id": "6bbedf43f6e15c74",
+      "created_at": "2026-07-25",
+      "root_cause": "Nigeria's president approves largest military expansion in recent times",
+      "prediction": "Momentum around Nigeria's president approves largest military expansion in recent times is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-08",
+      "falsification": "Signals tied to Nigeria's president approves largest military expansion in recent times fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals directly related to Nigeria's president approving the largest military expansion or its momentum were identified in the provided evidence. The absence of relevant signals suggests that the prediction cannot be validated or falsified within the specified timeframe.",
+      "validated_at": "2026-08-07T20:49:48.789111+00:00",
+      "evidence_used": [
+        "BBC World: Why was Taiwan’s president evacuated in the middle of the night?",
+        "BBC World: Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+        "BBC World: Meta fined $567m in largest child safety ruling against social media giant",
+        "BBC World: Thousands of migrants still in Ceuta after border crisis, local leader says",
+        "BBC World: Does Africa still back Infantino as Fifa president?",
+        "BBC World: In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "BBC World: Watch: BBC questions Infantino over backing as Fifa president",
+        "Al Jazeera: Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested"
+      ]
+    }
+  ],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [
-      "Meta fined $567m in largest child safety ruling against social media giant"
-    ],
+    "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "El-Sayed's victory sends tremors through Democratic Party",
+        "title": "EasyJet agrees to £5.7bn takeover by US firm",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+        "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+        "title": "DR Congo river boat under quarantine for Ebola after five deaths",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "title": "Artificial Intelligence used to design brand new viruses",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Drone carrying explosives found at German airport, police say",
+        "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+        "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+        "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+        "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+        "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Mexican influencer shot dead during livestream",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "UN rights chief alarmed by rise in Iran executions since March",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Pakistan restricts international media reporting",
+        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "Iran says deal with Oman on Strait of Hormuz is in final stages: 1.24 → 1.57"
+      "Meta fined $567m in largest child safety ruling against social media giant: 2.62 → 1.99",
+      "South Korea space agency shares Moon images after SpaceX rocket debris crash: 0.68 → 0.35"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 0 → 1",
-      "Priority score movement — Iran says deal with Oman on Strait of Hormuz is in final stages: 1.24 → 1.57"
+      "Priority score movement — Meta fined $567m in largest child safety ruling against social media giant: 2.62 → 1.99",
+      "Priority score movement — South Korea space agency shares Moon images after SpaceX rocket debris crash: 0.68 → 0.35"
     ],
     "continuing_priorities": [
-      "Iran says deal with Oman on Strait of Hormuz is in final stages"
+      "Meta fined $567m in largest child safety ruling against social media giant",
+      "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'"
     ],
-    "new_stories": 20,
-    "carried_stories": 0,
+    "new_stories": 15,
+    "carried_stories": 5,
     "total_stories": 20,
-    "summary": "1 new convergent priorities emerged: Meta fined $567m in largest child safety ruling against social media giant · 19 priorities dropped: El-Sayed's victory sends tremors through Democratic Party (No longer in today's news feed — story left the RSS cycle); Waste workers help winner find binned €1m lottery ticket in Italy (No longer in today's news feed — story left the RSS cycle); Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon (No longer in today's news feed — story left the RSS cycle); Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC (No longer in today's news feed — story left the RSS cycle); Record heatwave in South Korea as temperatures soar to 42.5C (No longer in today's news feed — story left the RSS cycle); 'I feel like I dug my own grave': The workers caught in the AI transition (No longer in today's news feed — story left the RSS cycle); After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives (No longer in today's news feed — story left the RSS cycle); South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India (No longer in today's news feed — story left the RSS cycle); Drone carrying explosives found at German airport, police say (No longer in today's news feed — story left the RSS cycle); Ex-leader Hasina gambles on return to Bangladesh despite death penalty (No longer in today's news feed — story left the RSS cycle); Watch: 'Scariest night' as Ukraine fails to intercept Russian attack (No longer in today's news feed — story left the RSS cycle); Israel strikes south Lebanon after first evacuation warning in weeks (No longer in today's news feed — story left the RSS cycle); 'My grandmother subjected my baby to female genital mutilation behind my back' (No longer in today's news feed — story left the RSS cycle); Mexican influencer shot dead during livestream (No longer in today's news feed — story left the RSS cycle); UN rights chief alarmed by rise in Iran executions since March (No longer in today's news feed — story left the RSS cycle); The avalanche that killed a climbing legend - and a generation of record-setting guides (No longer in today's news feed — story left the RSS cycle); Ukrainian vegetable seller targeted in 'human safari' drone attack (No longer in today's news feed — story left the RSS cycle); 'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused (No longer in today's news feed — story left the RSS cycle); Pakistan restricts international media reporting (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Iran says deal with Oman on Strait of Hormuz is in final stages: 1.24 → 1.57 · Structural shifts: convergent_priority: 0 → 1; Priority score movement — Iran says deal with Oman on Strait of Hormuz is in final stages: 1.24 → 1.57 · Signal freshness: 20 new, 0 carried, 20 total"
+    "summary": "14 priorities dropped: EasyJet agrees to £5.7bn takeover by US firm (No longer in today's news feed — story left the RSS cycle); Iran says deal with Oman on Strait of Hormuz is in final stages (No longer in today's news feed — story left the RSS cycle); Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape (No longer in today's news feed — story left the RSS cycle); Trump imposes 15% tariff on key chip material to counter China (No longer in today's news feed — story left the RSS cycle); DR Congo river boat under quarantine for Ebola after five deaths (No longer in today's news feed — story left the RSS cycle); Uefa says boycott may still go ahead as FA withdraws Infantino support (No longer in today's news feed — story left the RSS cycle); Artificial Intelligence used to design brand new viruses (No longer in today's news feed — story left the RSS cycle); Ukraine hits two oil refineries deep in Russian territory (No longer in today's news feed — story left the RSS cycle); Houthi attacks reportedly kill at least 30 Yemeni government forces (No longer in today's news feed — story left the RSS cycle); TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26 (No longer in today's news feed — story left the RSS cycle); US Senate committee votes to hold Fauci in contempt over Covid hearing (No longer in today's news feed — story left the RSS cycle); Outrage as Ugandan football captain beaten to death in street gang attack (No longer in today's news feed — story left the RSS cycle); Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime (No longer in today's news feed — story left the RSS cycle); Rihanna is 'in the studio', says partner A$AP Rocky (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Meta fined $567m in largest child safety ruling against social media giant: 2.62 → 1.99; South Korea space agency shares Moon images after SpaceX rocket debris crash: 0.68 → 0.35 · Structural shifts: Priority score movement — Meta fined $567m in largest child safety ruling against social media giant: 2.62 → 1.99; Priority score movement — South Korea space agency shares Moon images after SpaceX rocket debris crash: 0.68 → 0.35 · Signal freshness: 15 new, 5 carried, 20 total"
   }
 }
