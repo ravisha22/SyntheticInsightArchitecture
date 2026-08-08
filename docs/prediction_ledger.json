@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "f0a4465145b69f74",
+      "created_at": "2026-08-09",
+      "root_cause": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "prediction": "Momentum around Thai PM vows to introduce stricter gun laws after eight killed in shooting is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-23",
+      "falsification": "Signals tied to Thai PM vows to introduce stricter gun laws after eight killed in shooting fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "44db5c08418c8cf3",
+      "created_at": "2026-08-09",
+      "root_cause": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "prediction": "Momentum around Saudi Arabia, Turkey and Pakistan sign defence pact is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-23",
+      "falsification": "Signals tied to Saudi Arabia, Turkey and Pakistan sign defence pact fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "26b2842599beaea5",
       "created_at": "2026-08-08",
       "root_cause": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -152,9 +178,12 @@
       "maturity_date": "2026-08-09",
       "falsification": "Signals tied to Nigeria's president approves largest military expansion in recent times fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals directly related to Nigeria's military expansion or its momentum were identified in the provided evidence. The absence of relevant signals suggests the prediction's conditions were not met within the specified timeframe.",
+      "validated_at": "2026-08-08T20:37:51.983697+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including articles from BBC World and Al Jazeera, none of which pertain to Nigeria's military expansion or its downstream effects."
+      ]
     },
     {
       "id": "6bbedf43f6e15c74",
@@ -1426,5 +1455,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-07T20:49:46.594402+00:00"
+  "last_updated": "2026-08-08T20:37:50.262891+00:00"
 }
