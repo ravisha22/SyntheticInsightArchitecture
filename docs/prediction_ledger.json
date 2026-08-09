@@ -165,9 +165,12 @@
       "maturity_date": "2026-08-10",
       "falsification": "Signals tied to Nigeria's president approves largest military expansion in recent times fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "partially_validated",
+      "validation_notes": "The prediction regarding Nigeria's military expansion has shown some momentum, as evidenced by the Nigerian army's recent rescue operation of 33 kidnapped individuals. However, broader signals tied to the military expansion, such as policy updates, public discourse, or further actions, are not evident in the provided data. The prediction is partially validated as there is some activity related to the military, but the overall momentum is not clearly compounding.",
+      "validated_at": "2026-08-09T20:41:06.458567+00:00",
+      "evidence_used": [
+        "BBC World: Nigerian army says it safely rescued 33 people kidnapped by gunmen"
+      ]
     },
     {
       "id": "2e5581c0b13b85ad",
@@ -1455,5 +1458,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-08T20:37:50.262891+00:00"
+  "last_updated": "2026-08-09T20:41:03.880993+00:00"
 }
