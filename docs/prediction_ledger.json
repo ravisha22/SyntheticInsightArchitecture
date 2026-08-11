@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "7dc6c9c0c1932652",
+      "created_at": "2026-08-12",
+      "root_cause": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "prediction": "Momentum around Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-26",
+      "falsification": "Signals tied to Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "2145afaa0316c911",
+      "created_at": "2026-08-12",
+      "root_cause": "Thailand suspends new gun permits after mass shooting",
+      "prediction": "Momentum around Thailand suspends new gun permits after mass shooting is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-26",
+      "falsification": "Signals tied to Thailand suspends new gun permits after mass shooting fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "f0a4465145b69f74",
       "created_at": "2026-08-09",
       "root_cause": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
@@ -1458,5 +1484,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-10T20:51:40.194869+00:00"
+  "last_updated": "2026-08-11T20:54:22.466816+00:00"
 }
