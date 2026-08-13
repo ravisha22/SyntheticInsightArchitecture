@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "205d791218b6be7a",
+      "created_at": "2026-08-14",
+      "root_cause": "Family of Irish plane crash victim awarded $29m in damages",
+      "prediction": "Momentum around Family of Irish plane crash victim awarded $29m in damages is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-08-28",
+      "falsification": "Signals tied to Family of Irish plane crash victim awarded $29m in damages fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "6bc701868eaa42b2",
       "created_at": "2026-08-13",
       "root_cause": "Woman pulled alive from rubble 36 hours after Colombia quake",
@@ -178,9 +191,19 @@
       "maturity_date": "2026-08-14",
       "falsification": "Signals tied to Father of teen school shooter sentenced to 15 years in prison fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals directly related to the sentencing of the father of the teen school shooter were identified. The available signals do not indicate any momentum or downstream spillover tied to the original event.",
+      "validated_at": "2026-08-13T20:51:32.281456+00:00",
+      "evidence_used": [
+        "ABC Australia: Former Hurricanes cricketer jailed for abusing 15yo girl",
+        "ABC Australia: Teenager breaks Kaylee McKeown's backstroke world record",
+        "ABC Australia: Messi doubts playing 'for much longer' after father's death",
+        "ABC Australia: Legendary boot-studder hangs up his own after 58 years with Port Adelaide",
+        "BBC World: Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+        "BBC World: BTS star V reveals hearing loss battle during livestream",
+        "BBC World: Zambians voting as president bids for second term",
+        "BBC World: Australian army whistleblower released on parole after more than two years in jail"
+      ]
     },
     {
       "id": "1fae370b65907a73",
@@ -1502,5 +1525,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-12T20:53:28.297177+00:00"
+  "last_updated": "2026-08-13T20:51:29.373281+00:00"
 }
