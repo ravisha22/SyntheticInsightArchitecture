@@ -1,35 +1,119 @@
 {
-  "report_date": "2026-08-14",
-  "generated_at": "2026-08-13T20:51:32.283100+00:00",
+  "report_date": "2026-08-15",
+  "generated_at": "2026-08-14T20:36:45.658116+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "body": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "body": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 20:12:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 18:25:38 GMT"
     },
     {
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "body": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "body": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:46:27 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 12:19:21 GMT"
     },
     {
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "body": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "body": "Two families have been trapped in their homes in the occupied West Bank for several days.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 04:55:58 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "body": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 10:36:14 GMT"
+    },
+    {
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "body": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 13:18:08 GMT"
+    },
+    {
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "body": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 10:55:39 GMT"
+    },
+    {
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "body": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 20:22:56 GMT"
+    },
+    {
+      "title": "France's top court blocks social media ban for under-15s",
+      "body": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 16:35:06 GMT"
+    },
+    {
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "body": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 19:05:22 GMT"
+    },
+    {
+      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "body": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 16:28:59 GMT"
+    },
+    {
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "body": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 17:00:46 GMT"
     },
     {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "body": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 20:01:30 GMT"
+      "published": "Thu, 13 Aug 2026 23:06:23 GMT"
+    },
+    {
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "body": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 08:39:46 GMT"
+    },
+    {
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "body": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 21:43:47 GMT"
+    },
+    {
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "body": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 10:18:02 GMT"
+    },
+    {
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "body": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 20:12:17 GMT"
     },
     {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
@@ -39,25 +123,11 @@
       "published": "Thu, 13 Aug 2026 15:30:57 GMT"
     },
     {
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "body": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "body": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 11:10:31 GMT"
-    },
-    {
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "body": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 18:45:51 GMT"
-    },
-    {
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "body": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:08:49 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 19:46:27 GMT"
     },
     {
       "title": "Air India to test all pilots for banned substances",
@@ -67,81 +137,11 @@
       "published": "Thu, 13 Aug 2026 16:52:15 GMT"
     },
     {
-      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-      "body": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "body": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 14:51:44 GMT"
-    },
-    {
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "body": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 01:31:21 GMT"
-    },
-    {
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "body": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 15:50:49 GMT"
-    },
-    {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "body": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 01:19:23 GMT"
-    },
-    {
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "body": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 08:15:10 GMT"
-    },
-    {
-      "title": "BTS star V reveals hearing loss battle during livestream",
-      "body": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 04:09:12 GMT"
-    },
-    {
-      "title": "Zambians voting as president bids for second term",
-      "body": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 14:29:11 GMT"
-    },
-    {
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "body": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 07:05:35 GMT"
-    },
-    {
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "body": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 13:27:00 GMT"
-    },
-    {
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "body": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 09:54:03 GMT"
-    },
-    {
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "body": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 02:23:39 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 08:02:35 GMT"
     }
   ],
   "signals": [
@@ -149,6 +149,156 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "body": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 18:25:38 GMT"
+    },
+    {
+      "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "body": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 12:19:21 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "body": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 17:03:17 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "body": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 10:36:14 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "body": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 13:18:08 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "body": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 10:55:39 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "body": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 20:22:56 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "France's top court blocks social media ban for under-15s",
+      "body": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 16:35:06 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
+      "body": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 19:05:22 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "body": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 16:28:59 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "body": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 17:00:46 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "body": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 23:06:23 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "body": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 08:39:46 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "body": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 21:43:47 GMT"
+    },
+    {
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "body": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 10:18:02 GMT"
+    },
+    {
+      "number": 16,
+      "signal_type": "community_report",
+      "source": "bbc-world",
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "body": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "labels": [],
@@ -156,37 +306,7 @@
       "published": "Thu, 13 Aug 2026 20:12:17 GMT"
     },
     {
-      "number": 2,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "body": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:46:27 GMT"
-    },
-    {
-      "number": 3,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "body": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 04:55:58 GMT"
-    },
-    {
-      "number": 4,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "body": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 20:01:30 GMT"
-    },
-    {
-      "number": 5,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Person fined after using foghorn to wake sleeping polar bear",
@@ -196,37 +316,17 @@
       "published": "Thu, 13 Aug 2026 15:30:57 GMT"
     },
     {
-      "number": 6,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "body": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "body": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 11:10:31 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 13 Aug 2026 19:46:27 GMT"
     },
     {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "body": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 18:45:51 GMT"
-    },
-    {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "body": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 19:08:49 GMT"
-    },
-    {
-      "number": 9,
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Air India to test all pilots for banned substances",
@@ -236,114 +336,14 @@
       "published": "Thu, 13 Aug 2026 16:52:15 GMT"
     },
     {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-      "body": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 14:51:44 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "body": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 01:31:21 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "body": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 15:50:49 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "body": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 01:19:23 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "body": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 08:15:10 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "BTS star V reveals hearing loss battle during livestream",
-      "body": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 04:09:12 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Zambians voting as president bids for second term",
-      "body": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 14:29:11 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "body": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 07:05:35 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "body": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 13:27:00 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "body": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 09:54:03 GMT"
-    },
-    {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "body": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "body": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 13 Aug 2026 02:23:39 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 08:02:35 GMT"
     }
   ],
   "priorities": [
@@ -354,322 +354,358 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.365782404936612,
-      "contest_score": 0.44334828684665056,
+      "priority_score": 3.5970424561211924,
+      "contest_score": 0.5964282925484927,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0742177997014188,
-      "contestedness": 0.05846416569862045,
+      "central_tendency": 1.0946838507826946,
+      "contestedness": 0.06121535670640865,
       "impact": 0.645,
       "top_clusters": {
-        "survival_focused": 1.2166111923352103,
-        "stability_seeking": 1.1858716748911564
+        "survival_focused": 1.2323771081765553,
+        "stability_seeking": 1.219810184327058
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8568355632171873
+        "expression_oriented": 0.8821669050470763
       },
       "cluster_means": {
-        "survival_focused": 1.2166111923352103,
-        "stability_seeking": 1.1858716748911564,
-        "achievement_oriented": 1.0244560693639977,
-        "care_oriented": 1.1581470266365899,
-        "knowledge_oriented": 0.9345774551251324,
-        "governance_oriented": 1.1682096901774073,
-        "sovereignty_order_oriented": 1.175786582927918,
-        "expression_oriented": 0.8568355632171873,
-        "ecosystem_oriented": 0.9474649426381705
+        "survival_focused": 1.2323771081765553,
+        "stability_seeking": 1.219810184327058,
+        "achievement_oriented": 1.0493900378543903,
+        "care_oriented": 1.1711617514701467,
+        "knowledge_oriented": 0.9578220564515684,
+        "governance_oriented": 1.1969016272423172,
+        "sovereignty_order_oriented": 1.182902018383612,
+        "expression_oriented": 0.8821669050470763,
+        "ecosystem_oriented": 0.9596229680915253
       },
-      "priority_raw": 0.48500933656519063,
-      "contest_raw": 0.03770938687561019
+      "priority_raw": 0.6354639753793543,
+      "contest_raw": 0.03948390507563358
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.864071985259847,
-      "contest_score": 1.9832259637542489,
-      "category": "convergent_priority",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6773096035950545,
-      "contestedness": 0.09707201410841593,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.8588092352055721,
-        "knowledge_oriented": 0.7984007141909438
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.5304739409435621
-      },
-      "cluster_means": {
-        "survival_focused": 0.5775565478840199,
-        "stability_seeking": 0.6227509978049274,
-        "achievement_oriented": 0.733425579433482,
-        "care_oriented": 0.636353565325066,
-        "knowledge_oriented": 0.7984007141909438,
-        "governance_oriented": 0.5943026678966855,
-        "sovereignty_order_oriented": 0.5304739409435621,
-        "expression_oriented": 0.8588092352055721,
-        "ecosystem_oriented": 0.74371318367123
-      },
-      "priority_raw": 0.3200287876986633,
-      "contest_raw": 0.06552360952318076
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.7016973061303117,
-      "contest_score": -0.82414515008592,
+      "priority_score": 1.7800232327149927,
+      "contest_score": 0.01747054043685109,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5991534589644846,
-      "contestedness": 0.02769184443960704,
-      "impact": 0.5349999999999999,
+      "central_tendency": 0.9667368403309337,
+      "contestedness": 0.061822236021569,
+      "impact": 0.49000000000000005,
       "top_clusters": {
-        "expression_oriented": 0.742348639576637,
-        "knowledge_oriented": 0.6955254588050294
+        "stability_seeking": 1.0716690918335376,
+        "survival_focused": 1.0425766119646496
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.47185538925194936
+        "ecosystem_oriented": 0.8097520883851834
       },
       "cluster_means": {
-        "survival_focused": 0.5758501570908637,
-        "stability_seeking": 0.5902962612583869,
-        "achievement_oriented": 0.5637496747212544,
-        "care_oriented": 0.6491778750737776,
-        "knowledge_oriented": 0.6955254588050294,
-        "governance_oriented": 0.5481583126512567,
-        "sovereignty_order_oriented": 0.47185538925194936,
-        "expression_oriented": 0.742348639576637,
-        "ecosystem_oriented": 0.5554193622512054
+        "survival_focused": 1.0425766119646496,
+        "stability_seeking": 1.0716690918335376,
+        "achievement_oriented": 0.9509497928019724,
+        "care_oriented": 0.9626238444297264,
+        "knowledge_oriented": 0.9456944293474006,
+        "governance_oriented": 1.0244460804512954,
+        "sovereignty_order_oriented": 1.0024912005163171,
+        "expression_oriented": 0.8904284232483226,
+        "ecosystem_oriented": 0.8097520883851834
       },
-      "priority_raw": 0.19232826032759953,
-      "contest_raw": 0.014815136775189763
+      "priority_raw": 0.3789608414097261,
+      "contest_raw": 0.03029289565056881
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "title": "France's top court blocks social media ban for under-15s",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.5530015347131647,
-      "contest_score": -0.921906285359782,
+      "priority_score": 0.40060947681007064,
+      "contest_score": 0.11861997352447838,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8502042572911575,
-      "contestedness": 0.03782410060265362,
-      "impact": 0.3450000000000001,
+      "central_tendency": 0.6699387416630375,
+      "contestedness": 0.0579975500529597,
+      "impact": 0.55,
       "top_clusters": {
-        "stability_seeking": 0.9393776409517259,
-        "governance_oriented": 0.9326909522713566
+        "expression_oriented": 0.8069376255954646,
+        "knowledge_oriented": 0.7787931321695212
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.7443509349159967
+        "sovereignty_order_oriented": 0.529451654088319
       },
       "cluster_means": {
-        "survival_focused": 0.8314166388669292,
-        "stability_seeking": 0.9393776409517259,
-        "achievement_oriented": 0.8815990982493757,
-        "care_oriented": 0.8663253505197918,
-        "knowledge_oriented": 0.8406577584554702,
-        "governance_oriented": 0.9326909522713566,
-        "sovereignty_order_oriented": 0.8125862835369555,
-        "expression_oriented": 0.8028336578528166,
-        "ecosystem_oriented": 0.7443509349159967
+        "survival_focused": 0.5901339428895065,
+        "stability_seeking": 0.6399743306030827,
+        "achievement_oriented": 0.6985509530301623,
+        "care_oriented": 0.7191769595504809,
+        "knowledge_oriented": 0.7787931321695212,
+        "governance_oriented": 0.6405534029772026,
+        "sovereignty_order_oriented": 0.529451654088319,
+        "expression_oriented": 0.8069376255954646,
+        "ecosystem_oriented": 0.6258766740635975
       },
-      "priority_raw": 0.1759922812592696,
-      "contest_raw": 0.013049314707915502
+      "priority_raw": 0.1842331539573353,
+      "contest_raw": 0.03189865252912784
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "title": "Zambians voting as president bids for second term",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.3550706522594135,
-      "contest_score": -0.6162348625402225,
+      "priority_score": 0.3039813872588698,
+      "contest_score": 1.6507822445916454,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5558459324919447,
-      "contestedness": 0.03346043411133537,
-      "impact": 0.5549999999999999,
+      "central_tendency": 0.31244039823497194,
+      "contestedness": 0.07207932618846652,
+      "impact": 0.78,
       "top_clusters": {
-        "knowledge_oriented": 0.5985957202537902,
-        "care_oriented": 0.5936436267344002
+        "expression_oriented": 0.5020620034707615,
+        "knowledge_oriented": 0.43864079088223606
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.49853432646652385
+        "survival_focused": 0.18712108063926175
       },
       "cluster_means": {
-        "survival_focused": 0.5259256132657846,
-        "stability_seeking": 0.5592482321887104,
-        "achievement_oriented": 0.527875420577711,
-        "care_oriented": 0.5936436267344002,
-        "knowledge_oriented": 0.5985957202537902,
-        "governance_oriented": 0.5863503355233121,
-        "sovereignty_order_oriented": 0.5197314511172237,
-        "expression_oriented": 0.5927086663000458,
-        "ecosystem_oriented": 0.49853432646652385
+        "survival_focused": 0.18712108063926175,
+        "stability_seeking": 0.24024217676723236,
+        "achievement_oriented": 0.3086226653729166,
+        "care_oriented": 0.29806913373060445,
+        "knowledge_oriented": 0.43864079088223606,
+        "governance_oriented": 0.2698608573338829,
+        "sovereignty_order_oriented": 0.19719641599878063,
+        "expression_oriented": 0.5020620034707615,
+        "ecosystem_oriented": 0.37014845991907097
       },
-      "priority_raw": 0.15424724626651465,
-      "contest_raw": 0.018570540931791127
+      "priority_raw": 0.17059245743629467,
+      "contest_raw": 0.05622187442700389
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "title": "BTS star V reveals hearing loss battle during livestream",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.07721913271197464,
-      "contest_score": -0.34227577252985025,
+      "priority_score": 0.23745049496099077,
+      "contest_score": -0.9088618224077438,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4948879578701444,
-      "contestedness": 0.04703791878789798,
-      "impact": 0.5,
+      "central_tendency": 0.7360753043355599,
+      "contestedness": 0.04270488003821038,
+      "impact": 0.365,
       "top_clusters": {
-        "expression_oriented": 0.590034868192611,
-        "knowledge_oriented": 0.5586970880550128
+        "achievement_oriented": 0.8260257043708867,
+        "stability_seeking": 0.8147913321537246
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.3971462658641224
+        "ecosystem_oriented": 0.6465201943583968
       },
       "cluster_means": {
-        "survival_focused": 0.4215166535623531,
-        "stability_seeking": 0.47988961614137315,
-        "achievement_oriented": 0.4466215926153281,
-        "care_oriented": 0.5320359303125755,
-        "knowledge_oriented": 0.5586970880550128,
-        "governance_oriented": 0.5116591692671149,
-        "sovereignty_order_oriented": 0.3971462658641224,
-        "expression_oriented": 0.590034868192611,
-        "ecosystem_oriented": 0.5163904368208085
+        "survival_focused": 0.7168187678798794,
+        "stability_seeking": 0.8147913321537246,
+        "achievement_oriented": 0.8260257043708867,
+        "care_oriented": 0.6744721878749538,
+        "knowledge_oriented": 0.754076473822881,
+        "governance_oriented": 0.7652157208088382,
+        "sovereignty_order_oriented": 0.7095802898373151,
+        "expression_oriented": 0.7171770679131642,
+        "ecosystem_oriented": 0.6465201943583968
       },
-      "priority_raw": 0.1237219894675361,
-      "contest_raw": 0.02351895939394899
+      "priority_raw": 0.1612004916494876,
+      "contest_raw": 0.015587281213946789
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.06334823563979253,
-      "contest_score": -0.7487390906806258,
+      "priority_score": 0.17735483263031285,
+      "contest_score": -1.2163699806055923,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.30330255199260514,
-      "contestedness": 0.027188517043429505,
+      "central_tendency": 0.658262792694339,
+      "contestedness": 0.03691572390077247,
+      "impact": 0.29000000000000004,
+      "top_clusters": {
+        "governance_oriented": 0.7863570046067905,
+        "stability_seeking": 0.7456160580567478
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.571705035486262
+      },
+      "cluster_means": {
+        "survival_focused": 0.6088327703663023,
+        "stability_seeking": 0.7456160580567478,
+        "achievement_oriented": 0.6063514194264792,
+        "care_oriented": 0.6724398907449665,
+        "knowledge_oriented": 0.6803063930082789,
+        "governance_oriented": 0.7863570046067905,
+        "sovereignty_order_oriented": 0.607920419326226,
+        "expression_oriented": 0.6448361432269984,
+        "ecosystem_oriented": 0.571705035486262
+      },
+      "priority_raw": 0.15271696790508668,
+      "contest_raw": 0.010705559931224016
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.10344292432694514,
+      "contest_score": 0.3182075104714786,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2416187902668446,
+      "contestedness": 0.04495785086751178,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.37198645504854194,
+        "knowledge_oriented": 0.35500573108447364
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.12755566830390133
+      },
+      "cluster_means": {
+        "survival_focused": 0.12755566830390133,
+        "stability_seeking": 0.17661035917338258,
+        "achievement_oriented": 0.2777309625886309,
+        "care_oriented": 0.21135940035408673,
+        "knowledge_oriented": 0.35500573108447364,
+        "governance_oriented": 0.22156821004089436,
+        "sovereignty_order_oriented": 0.18307308521345403,
+        "expression_oriented": 0.37198645504854194,
+        "ecosystem_oriented": 0.24967924059423546
+      },
+      "priority_raw": 0.11307759384488328,
+      "contest_raw": 0.035067123676659186
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.16451761472622586,
+      "contest_score": -0.7874229000788667,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.292593455616862,
+      "contestedness": 0.02943720279923151,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.41244558466789855,
-        "knowledge_oriented": 0.3882844688904351
+        "expression_oriented": 0.43431541510394567,
+        "knowledge_oriented": 0.39820912600109587
       },
       "bottom_clusters": {
-        "governance_oriented": 0.2447911840221249
+        "sovereignty_order_oriented": 0.21426564070883783
       },
       "cluster_means": {
-        "survival_focused": 0.2800976119399783,
-        "stability_seeking": 0.29082666397309226,
-        "achievement_oriented": 0.335634908328865,
-        "care_oriented": 0.2653908244821278,
-        "knowledge_oriented": 0.3882844688904351,
-        "governance_oriented": 0.2447911840221249,
-        "sovereignty_order_oriented": 0.25934262673237585,
-        "expression_oriented": 0.41244558466789855,
-        "ecosystem_oriented": 0.2529090948965488
+        "survival_focused": 0.22519640916779926,
+        "stability_seeking": 0.26379954942484285,
+        "achievement_oriented": 0.26890049696018253,
+        "care_oriented": 0.29833769975941404,
+        "knowledge_oriented": 0.39820912600109587,
+        "governance_oriented": 0.2694864585382277,
+        "sovereignty_order_oriented": 0.21426564070883783,
+        "expression_oriented": 0.43431541510394567,
+        "ecosystem_oriented": 0.2608303048874122
       },
-      "priority_raw": 0.10827901106136004,
-      "contest_raw": 0.016177167640840553
+      "priority_raw": 0.10445586365521972,
+      "contest_raw": 0.017515135665542747
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.1882896247376431,
-      "contest_score": -1.1876286092357295,
+      "priority_score": -0.27281409675270046,
+      "contest_score": -0.24564702818753134,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.41561639661056393,
-      "contestedness": 0.01813115122671205,
-      "impact": 0.455,
+      "central_tendency": 0.22863583408710594,
+      "contestedness": 0.03348189641386112,
+      "impact": 0.78,
       "top_clusters": {
-        "survival_focused": 0.46455794663094,
-        "achievement_oriented": 0.44202034423839653
+        "expression_oriented": 0.3366901161901116,
+        "knowledge_oriented": 0.31707508571915854
       },
       "bottom_clusters": {
-        "governance_oriented": 0.3660644209878828
+        "survival_focused": 0.15678205613651938
       },
       "cluster_means": {
-        "survival_focused": 0.46455794663094,
-        "stability_seeking": 0.4181435295123099,
-        "achievement_oriented": 0.44202034423839653,
-        "care_oriented": 0.4000123782855978,
-        "knowledge_oriented": 0.41151070031604003,
-        "governance_oriented": 0.3660644209878828,
-        "sovereignty_order_oriented": 0.4241409051112942,
-        "expression_oriented": 0.42279405693595035,
-        "ecosystem_oriented": 0.391303287476664
+        "survival_focused": 0.15678205613651938,
+        "stability_seeking": 0.16935599022492628,
+        "achievement_oriented": 0.25776822316866566,
+        "care_oriented": 0.2338528136560695,
+        "knowledge_oriented": 0.31707508571915854,
+        "governance_oriented": 0.2028378866387874,
+        "sovereignty_order_oriented": 0.18218508950183063,
+        "expression_oriented": 0.3366901161901116,
+        "ecosystem_oriented": 0.20117524554788416
       },
-      "priority_raw": 0.0945527302289033,
-      "contest_raw": 0.008249673808153984
+      "priority_raw": 0.08916797529397132,
+      "contest_raw": 0.026115879202811675
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.2119666388904091,
-      "contest_score": 2.011845482549682,
+      "priority_score": -0.3279070232101842,
+      "contest_score": -1.1285094566722358,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.18689335730879947,
-      "contestedness": 0.08053725971465109,
-      "impact": 0.8200000000000001,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.37420998948497824,
+      "contestedness": 0.027816906004606234,
+      "impact": 0.43500000000000005,
       "top_clusters": {
-        "expression_oriented": 0.4066499841606406,
-        "knowledge_oriented": 0.3472274071566854
+        "achievement_oriented": 0.42828485342002975,
+        "expression_oriented": 0.4007285307285307
       },
       "bottom_clusters": {
-        "survival_focused": 0.014153892195657214
+        "ecosystem_oriented": 0.32237782193704034
       },
       "cluster_means": {
-        "survival_focused": 0.014153892195657214,
-        "stability_seeking": 0.07237799352328289,
-        "achievement_oriented": 0.20636119545208884,
-        "care_oriented": 0.15220700754804128,
-        "knowledge_oriented": 0.3472274071566854,
-        "governance_oriented": 0.12374618463756207,
-        "sovereignty_order_oriented": 0.0530699648821735,
-        "expression_oriented": 0.4066499841606406,
-        "ecosystem_oriented": 0.23274426726269237
+        "survival_focused": 0.3729116247239245,
+        "stability_seeking": 0.39607650876966005,
+        "achievement_oriented": 0.42828485342002975,
+        "care_oriented": 0.33647032035820806,
+        "knowledge_oriented": 0.400056232278062,
+        "governance_oriented": 0.34353417147789955,
+        "sovereignty_order_oriented": 0.36744984167144934,
+        "expression_oriented": 0.4007285307285307,
+        "ecosystem_oriented": 0.32237782193704034
       },
-      "priority_raw": 0.09195153179592934,
-      "contest_raw": 0.0660405529660139
+      "priority_raw": 0.08139067271298278,
+      "contest_raw": 0.012100354112003714
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
@@ -678,34 +714,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.24176115746502883,
-      "contest_score": -0.7977530535069555,
+      "priority_score": -0.3536509346078544,
+      "contest_score": -0.8329795477219565,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.35685413908983243,
-      "contestedness": 0.04307562574878698,
-      "impact": 0.355,
+      "central_tendency": 0.30855746919934,
+      "contestedness": 0.046644220965906036,
+      "impact": 0.36,
       "top_clusters": {
-        "knowledge_oriented": 0.4318464927729739,
-        "expression_oriented": 0.4268969363370724
+        "knowledge_oriented": 0.3815669940476104,
+        "expression_oriented": 0.3623726704492867
       },
       "bottom_clusters": {
-        "survival_focused": 0.28998513831397366
+        "ecosystem_oriented": 0.22943903682139682
       },
       "cluster_means": {
-        "survival_focused": 0.28998513831397366,
-        "stability_seeking": 0.3843214236012357,
-        "achievement_oriented": 0.328056087467105,
-        "care_oriented": 0.33306076406276064,
-        "knowledge_oriented": 0.4318464927729739,
-        "governance_oriented": 0.4019817376670233,
-        "sovereignty_order_oriented": 0.29359774427967616,
-        "expression_oriented": 0.4268969363370724,
-        "ecosystem_oriented": 0.32194092730667084
+        "survival_focused": 0.2571084071769447,
+        "stability_seeking": 0.3490440420740245,
+        "achievement_oriented": 0.33254523682268733,
+        "care_oriented": 0.2304798399784935,
+        "knowledge_oriented": 0.3815669940476104,
+        "governance_oriented": 0.34855997956683543,
+        "sovereignty_order_oriented": 0.2859010158567813,
+        "expression_oriented": 0.3623726704492867,
+        "ecosystem_oriented": 0.22943903682139682
       },
-      "priority_raw": 0.08867825356382335,
-      "contest_raw": 0.015291847140819378
+      "priority_raw": 0.07775648223823367,
+      "contest_raw": 0.016791919547726172
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
@@ -714,16 +750,16 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.375371687159612,
-      "contest_score": -0.48126386826059625,
+      "priority_score": -0.3791701591034618,
+      "contest_score": -0.7802404524118765,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.26618548810297177,
-      "contestedness": 0.030228015076050607,
-      "impact": 0.6950000000000001,
+      "central_tendency": 0.26674104365852735,
+      "contestedness": 0.02536569454092774,
+      "impact": 0.695,
       "top_clusters": {
-        "expression_oriented": 0.3711744151595099,
+        "expression_oriented": 0.3761744151595099,
         "knowledge_oriented": 0.35989864891052636
       },
       "bottom_clusters": {
@@ -733,87 +769,51 @@
         "survival_focused": 0.2062143944359049,
         "stability_seeking": 0.21802705993222102,
         "achievement_oriented": 0.27575469281366005,
-        "care_oriented": 0.27642990587292166,
+        "care_oriented": 0.29142990587292167,
         "knowledge_oriented": 0.35989864891052636,
-        "governance_oriented": 0.22658008897683263,
-        "sovereignty_order_oriented": 0.22514777731321423,
-        "expression_oriented": 0.3711744151595099,
-        "ecosystem_oriented": 0.2364424095119555
+        "governance_oriented": 0.23158008897683263,
+        "sovereignty_order_oriented": 0.21514777731321422,
+        "expression_oriented": 0.3761744151595099,
+        "ecosystem_oriented": 0.22644240951195546
       },
-      "priority_raw": 0.07399956569262615,
-      "contest_raw": 0.021008470477855173
+      "priority_raw": 0.07415401013707061,
+      "contest_raw": 0.017629157705944778
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.40649839971230345,
-      "contest_score": 0.7451030828180337,
+      "priority_score": -0.405401051832613,
+      "contest_score": 2.3722270794929643,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.18573665864784583,
-      "contestedness": 0.05678930074191316,
-      "impact": 0.76,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.1917036026495867,
+      "contestedness": 0.09207466646874682,
+      "impact": 0.735,
       "top_clusters": {
-        "expression_oriented": 0.385972598768206,
-        "knowledge_oriented": 0.32316149311138015
+        "expression_oriented": 0.43957062333823504,
+        "knowledge_oriented": 0.366141372761756
       },
       "bottom_clusters": {
-        "survival_focused": 0.06937157218510234
+        "survival_focused": 0.03781532679083052
       },
       "cluster_means": {
-        "survival_focused": 0.06937157218510234,
-        "stability_seeking": 0.09107044704193817,
-        "achievement_oriented": 0.21516341528589011,
-        "care_oriented": 0.1261608729270155,
-        "knowledge_oriented": 0.32316149311138015,
-        "governance_oriented": 0.09042435357634501,
-        "sovereignty_order_oriented": 0.09275594383999344,
-        "expression_oriented": 0.385972598768206,
-        "ecosystem_oriented": 0.27009443099288283
+        "survival_focused": 0.03781532679083052,
+        "stability_seeking": 0.08310600933934248,
+        "achievement_oriented": 0.19802119973892152,
+        "care_oriented": 0.16264806174872845,
+        "knowledge_oriented": 0.366141372761756,
+        "governance_oriented": 0.09125809429406187,
+        "sovereignty_order_oriented": 0.052371814832214175,
+        "expression_oriented": 0.43957062333823504,
+        "ecosystem_oriented": 0.25472272821747527
       },
-      "priority_raw": 0.07057993028618141,
-      "contest_raw": 0.043159868563854
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4820715285132863,
-      "contest_score": -0.34415036694241224,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2830787881370437,
-      "contestedness": 0.04270018056487185,
-      "impact": 0.55,
-      "top_clusters": {
-        "expression_oriented": 0.4055081853889708,
-        "knowledge_oriented": 0.3751138700247124
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.20485047198724557
-      },
-      "cluster_means": {
-        "survival_focused": 0.20616068641574314,
-        "stability_seeking": 0.24997268669933886,
-        "achievement_oriented": 0.29215201243035377,
-        "care_oriented": 0.28739556375958236,
-        "knowledge_oriented": 0.3751138700247124,
-        "governance_oriented": 0.24192771798128737,
-        "sovereignty_order_oriented": 0.20485047198724557,
-        "expression_oriented": 0.4055081853889708,
-        "ecosystem_oriented": 0.2846278985461592
-      },
-      "priority_raw": 0.06227733339014962,
-      "contest_raw": 0.02348509931067952
+      "priority_raw": 0.0704510739737231,
+      "contest_raw": 0.06767487985452891
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
@@ -822,106 +822,142 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5684434055860514,
-      "contest_score": -0.1824479941891786,
+      "priority_score": -0.5701131587100556,
+      "contest_score": -0.34604203736740546,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.10696730903605184,
-      "contestedness": 0.03745513126484992,
-      "impact": 0.705,
+      "sign_agreement": 0.75,
+      "central_tendency": 0.09989240567410716,
+      "contestedness": 0.03632903537126064,
+      "impact": 0.675,
       "top_clusters": {
-        "expression_oriented": 0.22560141175927373,
-        "knowledge_oriented": 0.18487560533325298
+        "expression_oriented": 0.22983032833586042,
+        "knowledge_oriented": 0.1901391423291077
       },
       "bottom_clusters": {
-        "survival_focused": 0.010430581284465806
+        "survival_focused": -0.05520518887910389
       },
       "cluster_means": {
-        "survival_focused": 0.010430581284465806,
-        "stability_seeking": 0.06216412173829,
-        "achievement_oriented": 0.12789898161201924,
-        "care_oriented": 0.08525504829990282,
-        "knowledge_oriented": 0.18487560533325298,
-        "governance_oriented": 0.07687086576065544,
-        "sovereignty_order_oriented": 0.0477999170350529,
-        "expression_oriented": 0.22560141175927373,
-        "ecosystem_oriented": 0.09795344277846631
+        "survival_focused": -0.05520518887910389,
+        "stability_seeking": 0.033676611715595633,
+        "achievement_oriented": 0.09405229163906126,
+        "care_oriented": 0.04817329520452812,
+        "knowledge_oriented": 0.1901391423291077,
+        "governance_oriented": 0.057723256267800616,
+        "sovereignty_order_oriented": -0.0014778833858838936,
+        "expression_oriented": 0.22983032833586042,
+        "ecosystem_oriented": 0.08646805081107797
       },
-      "priority_raw": 0.052788367009291584,
-      "contest_raw": 0.026405867541719193
+      "priority_raw": 0.047199161681015636,
+      "contest_raw": 0.024522098875600935
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5864846079035989,
-      "contest_score": 1.8339905444092282,
+      "priority_score": -0.579897095361425,
+      "contest_score": -0.3524559634650084,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.13824851368809646,
-      "contestedness": 0.08548030899651568,
-      "impact": 0.735,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.119785602082783,
+      "contestedness": 0.03192193096505565,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.33046566532082955,
-        "knowledge_oriented": 0.2695097335173887
+        "expression_oriented": 0.21853702517463297,
+        "knowledge_oriented": 0.18169250616815616
       },
       "bottom_clusters": {
-        "survival_focused": -0.01950050575856821
+        "stability_seeking": 0.057932115013739766
       },
       "cluster_means": {
-        "survival_focused": -0.01950050575856821,
-        "stability_seeking": 0.027370148141496187,
-        "achievement_oriented": 0.1371513899378781,
-        "care_oriented": 0.11285045713801187,
-        "knowledge_oriented": 0.2695097335173887,
-        "governance_oriented": 0.03960303909532567,
-        "sovereignty_order_oriented": -0.01280393725146714,
-        "expression_oriented": 0.33046566532082955,
-        "ecosystem_oriented": 0.14257801503036216
+        "survival_focused": 0.0687825967564947,
+        "stability_seeking": 0.057932115013739766,
+        "achievement_oriented": 0.09902276987104132,
+        "care_oriented": 0.14941203295449604,
+        "knowledge_oriented": 0.18169250616815616,
+        "governance_oriented": 0.08195087217195746,
+        "sovereignty_order_oriented": 0.08352829279563034,
+        "expression_oriented": 0.21853702517463297,
+        "ecosystem_oriented": 0.13094470083609697
       },
-      "priority_raw": 0.05080632878037545,
-      "contest_raw": 0.06282802711243902
+      "priority_raw": 0.04581799279666449,
+      "contest_raw": 0.024420277188267572
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6336620874509964,
-      "contest_score": -0.8906254617071426,
+      "priority_score": -0.6110068921131161,
+      "contest_score": 0.5554829018208249,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.15361389855765023,
-      "contestedness": 0.027503693503963936,
-      "impact": 0.495,
+      "sign_agreement": 0.75,
+      "central_tendency": 0.10382535448493406,
+      "contestedness": 0.05839683172975839,
+      "impact": 0.665,
       "top_clusters": {
-        "expression_oriented": 0.2927550840978409,
-        "knowledge_oriented": 0.2518535727695228
+        "expression_oriented": 0.23349275094813135,
+        "knowledge_oriented": 0.18059454423342933
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.06780413842414247
+        "survival_focused": -0.008642378813703888
       },
       "cluster_means": {
-        "survival_focused": 0.07381355904932405,
-        "stability_seeking": 0.13275563768611143,
-        "achievement_oriented": 0.1612273579749369,
-        "care_oriented": 0.14381146590384725,
-        "knowledge_oriented": 0.2518535727695228,
-        "governance_oriented": 0.1155002888045812,
-        "sovereignty_order_oriented": 0.06780413842414247,
-        "expression_oriented": 0.2927550840978409,
-        "ecosystem_oriented": 0.14300398230854514
+        "survival_focused": -0.008642378813703888,
+        "stability_seeking": 0.03401266803319797,
+        "achievement_oriented": 0.09454308603804275,
+        "care_oriented": 0.09240949976295636,
+        "knowledge_oriented": 0.18059454423342933,
+        "governance_oriented": 0.04749160749563047,
+        "sovereignty_order_oriented": 0.01958504146375542,
+        "expression_oriented": 0.23349275094813135,
+        "ecosystem_oriented": 0.13678854448173705
       },
-      "priority_raw": 0.04562332787162212,
-      "contest_raw": 0.013614328284462148
+      "priority_raw": 0.04142631643948869,
+      "contest_raw": 0.038833893100289334
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6545622190544947,
+      "contest_score": 1.7056681690870683,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5,
+      "central_tendency": 0.08604327329363406,
+      "contestedness": 0.0696258459791389,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.13761364010513788,
+        "ecosystem_oriented": 0.08087580139463049
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.10492588464843083
+      },
+      "cluster_means": {
+        "survival_focused": -0.10492588464843083,
+        "stability_seeking": -0.0727115073997062,
+        "achievement_oriented": -0.059744359270782504,
+        "care_oriented": 0.057496529604167734,
+        "knowledge_oriented": 0.07966167104141647,
+        "governance_oriented": -0.012129316374971166,
+        "sovereignty_order_oriented": -0.04771405889433167,
+        "expression_oriented": 0.13761364010513788,
+        "ecosystem_oriented": 0.08087580139463049
+      },
+      "priority_raw": 0.03527774205038997,
+      "contest_raw": 0.0570931937028939
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
@@ -930,8 +966,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7299809849466627,
-      "contest_score": 0.776825678524077,
+      "priority_score": -0.6562352569576219,
+      "contest_score": 0.864077498691495,
       "category": "background_noise",
       "polarity": -1,
       "sign_agreement": 0.5833333333333334,
@@ -960,112 +996,76 @@
       "contest_raw": 0.043732861700359935
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7341277028519928,
-      "contest_score": 0.5378046698469164,
+      "priority_score": -0.6941582459077639,
+      "contest_score": -0.5504077852940439,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.09372899349869329,
-      "contestedness": 0.06409027067336141,
-      "impact": 0.615,
+      "sign_agreement": 0.6388888888888888,
+      "central_tendency": 0.06824848307124762,
+      "contestedness": 0.02934865265370437,
+      "impact": 0.7250000000000001,
       "top_clusters": {
-        "expression_oriented": 0.210854836528965,
-        "knowledge_oriented": 0.14210216451668303
+        "expression_oriented": 0.14601428494236213,
+        "knowledge_oriented": 0.1052755301030337
       },
       "bottom_clusters": {
-        "survival_focused": -0.0809861755749183
+        "survival_focused": -0.038583468398938864
       },
       "cluster_means": {
-        "survival_focused": -0.0809861755749183,
-        "stability_seeking": -0.026334616826200974,
-        "achievement_oriented": 0.003934931402559683,
-        "care_oriented": 0.01461314656149415,
-        "knowledge_oriented": 0.14210216451668303,
-        "governance_oriented": -0.022713037946465425,
-        "sovereignty_order_oriented": -0.06876875177662009,
-        "expression_oriented": 0.210854836528965,
-        "ecosystem_oriented": 0.0680252020759211
+        "survival_focused": -0.038583468398938864,
+        "stability_seeking": -0.014581617629558147,
+        "achievement_oriented": 0.017998324752857925,
+        "care_oriented": -0.0072729078760178645,
+        "knowledge_oriented": 0.1052755301030337,
+        "governance_oriented": -0.0124642803344919,
+        "sovereignty_order_oriented": 0.014767035024146224,
+        "expression_oriented": 0.14601428494236213,
+        "ecosystem_oriented": 0.08323155836803733
       },
-      "priority_raw": 0.03458599860101782,
-      "contest_raw": 0.03941551646411727
+      "priority_raw": 0.029688090135992717,
+      "contest_raw": 0.02127777317393567
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-      "title": "Three men will be executed on the same day as death penalties rise in US",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7823687103890667,
-      "contest_score": 0.09677567678077721,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9166666666666666,
-      "central_tendency": 0.0957063942356569,
-      "contestedness": 0.04111029819615347,
-      "impact": 0.7649999999999999,
-      "top_clusters": {
-        "expression_oriented": 0.2136642728786758,
-        "ecosystem_oriented": 0.15360758250041526
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.003482197887642008
-      },
-      "cluster_means": {
-        "survival_focused": 0.05495987720203402,
-        "stability_seeking": 0.03028898128985702,
-        "achievement_oriented": 0.07786992968460826,
-        "care_oriented": 0.0634876153799736,
-        "knowledge_oriented": 0.14573566841194976,
-        "governance_oriented": 0.003482197887642008,
-        "sovereignty_order_oriented": 0.07139927948601049,
-        "expression_oriented": 0.2136642728786758,
-        "ecosystem_oriented": 0.15360758250041526
-      },
-      "priority_raw": 0.029286156636111005,
-      "contest_raw": 0.0314493781200574
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.9124682447648822,
-      "contest_score": -1.0917488704912042,
+      "priority_score": -0.7235852078319677,
+      "contest_score": -1.0500272364530356,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3331820641777615,
-      "contestedness": 0.0443622796805338,
-      "impact": 0.225,
+      "central_tendency": 0.139912189071517,
+      "contestedness": 0.0365651145989362,
+      "impact": 0.365,
       "top_clusters": {
-        "expression_oriented": 0.3940969416140607,
-        "knowledge_oriented": 0.3888420858302953
+        "expression_oriented": 0.24870726727508807,
+        "knowledge_oriented": 0.21802904088642613
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2711649856029031
+        "sovereignty_order_oriented": 0.06431692858430031
       },
       "cluster_means": {
-        "survival_focused": 0.28478378418965467,
-        "stability_seeking": 0.36352556189489954,
-        "achievement_oriented": 0.31719880372508324,
-        "care_oriented": 0.34958911511319934,
-        "knowledge_oriented": 0.3888420858302953,
-        "governance_oriented": 0.3444798061497615,
-        "sovereignty_order_oriented": 0.2711649856029031,
-        "expression_oriented": 0.3940969416140607,
-        "ecosystem_oriented": 0.284957493479997
+        "survival_focused": 0.0663830485603311,
+        "stability_seeking": 0.140833851436971,
+        "achievement_oriented": 0.1042687368380348,
+        "care_oriented": 0.15116430381832652,
+        "knowledge_oriented": 0.21802904088642613,
+        "governance_oriented": 0.14859794332892715,
+        "sovereignty_order_oriented": 0.06431692858430031,
+        "expression_oriented": 0.24870726727508807,
+        "ecosystem_oriented": 0.11690858091524751
       },
-      "priority_raw": 0.014993192887999269,
-      "contest_raw": 0.009981512928120105
+      "priority_raw": 0.025533974505551855,
+      "contest_raw": 0.013346266828611713
     }
   ],
   "selected_priorities": [
@@ -1076,362 +1076,362 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.365782404936612,
-      "contest_score": 0.44334828684665056,
+      "priority_score": 3.5970424561211924,
+      "contest_score": 0.5964282925484927,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0742177997014188,
-      "contestedness": 0.05846416569862045,
+      "central_tendency": 1.0946838507826946,
+      "contestedness": 0.06121535670640865,
       "impact": 0.645,
       "top_clusters": {
-        "survival_focused": 1.2166111923352103,
-        "stability_seeking": 1.1858716748911564
+        "survival_focused": 1.2323771081765553,
+        "stability_seeking": 1.219810184327058
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8568355632171873
+        "expression_oriented": 0.8821669050470763
       },
       "cluster_means": {
-        "survival_focused": 1.2166111923352103,
-        "stability_seeking": 1.1858716748911564,
-        "achievement_oriented": 1.0244560693639977,
-        "care_oriented": 1.1581470266365899,
-        "knowledge_oriented": 0.9345774551251324,
-        "governance_oriented": 1.1682096901774073,
-        "sovereignty_order_oriented": 1.175786582927918,
-        "expression_oriented": 0.8568355632171873,
-        "ecosystem_oriented": 0.9474649426381705
+        "survival_focused": 1.2323771081765553,
+        "stability_seeking": 1.219810184327058,
+        "achievement_oriented": 1.0493900378543903,
+        "care_oriented": 1.1711617514701467,
+        "knowledge_oriented": 0.9578220564515684,
+        "governance_oriented": 1.1969016272423172,
+        "sovereignty_order_oriented": 1.182902018383612,
+        "expression_oriented": 0.8821669050470763,
+        "ecosystem_oriented": 0.9596229680915253
       },
-      "priority_raw": 0.48500933656519063,
-      "contest_raw": 0.03770938687561019
+      "priority_raw": 0.6354639753793543,
+      "contest_raw": 0.03948390507563358
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.864071985259847,
-      "contest_score": 1.9832259637542489,
-      "category": "convergent_priority",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6773096035950545,
-      "contestedness": 0.09707201410841593,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.8588092352055721,
-        "knowledge_oriented": 0.7984007141909438
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.5304739409435621
-      },
-      "cluster_means": {
-        "survival_focused": 0.5775565478840199,
-        "stability_seeking": 0.6227509978049274,
-        "achievement_oriented": 0.733425579433482,
-        "care_oriented": 0.636353565325066,
-        "knowledge_oriented": 0.7984007141909438,
-        "governance_oriented": 0.5943026678966855,
-        "sovereignty_order_oriented": 0.5304739409435621,
-        "expression_oriented": 0.8588092352055721,
-        "ecosystem_oriented": 0.74371318367123
-      },
-      "priority_raw": 0.3200287876986633,
-      "contest_raw": 0.06552360952318076
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.7016973061303117,
-      "contest_score": -0.82414515008592,
+      "priority_score": 1.7800232327149927,
+      "contest_score": 0.01747054043685109,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5991534589644846,
-      "contestedness": 0.02769184443960704,
-      "impact": 0.5349999999999999,
+      "central_tendency": 0.9667368403309337,
+      "contestedness": 0.061822236021569,
+      "impact": 0.49000000000000005,
       "top_clusters": {
-        "expression_oriented": 0.742348639576637,
-        "knowledge_oriented": 0.6955254588050294
+        "stability_seeking": 1.0716690918335376,
+        "survival_focused": 1.0425766119646496
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.47185538925194936
+        "ecosystem_oriented": 0.8097520883851834
       },
       "cluster_means": {
-        "survival_focused": 0.5758501570908637,
-        "stability_seeking": 0.5902962612583869,
-        "achievement_oriented": 0.5637496747212544,
-        "care_oriented": 0.6491778750737776,
-        "knowledge_oriented": 0.6955254588050294,
-        "governance_oriented": 0.5481583126512567,
-        "sovereignty_order_oriented": 0.47185538925194936,
-        "expression_oriented": 0.742348639576637,
-        "ecosystem_oriented": 0.5554193622512054
+        "survival_focused": 1.0425766119646496,
+        "stability_seeking": 1.0716690918335376,
+        "achievement_oriented": 0.9509497928019724,
+        "care_oriented": 0.9626238444297264,
+        "knowledge_oriented": 0.9456944293474006,
+        "governance_oriented": 1.0244460804512954,
+        "sovereignty_order_oriented": 1.0024912005163171,
+        "expression_oriented": 0.8904284232483226,
+        "ecosystem_oriented": 0.8097520883851834
       },
-      "priority_raw": 0.19232826032759953,
-      "contest_raw": 0.014815136775189763
+      "priority_raw": 0.3789608414097261,
+      "contest_raw": 0.03029289565056881
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "title": "France's top court blocks social media ban for under-15s",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.5530015347131647,
-      "contest_score": -0.921906285359782,
+      "priority_score": 0.40060947681007064,
+      "contest_score": 0.11861997352447838,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8502042572911575,
-      "contestedness": 0.03782410060265362,
-      "impact": 0.3450000000000001,
+      "central_tendency": 0.6699387416630375,
+      "contestedness": 0.0579975500529597,
+      "impact": 0.55,
       "top_clusters": {
-        "stability_seeking": 0.9393776409517259,
-        "governance_oriented": 0.9326909522713566
+        "expression_oriented": 0.8069376255954646,
+        "knowledge_oriented": 0.7787931321695212
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.7443509349159967
+        "sovereignty_order_oriented": 0.529451654088319
       },
       "cluster_means": {
-        "survival_focused": 0.8314166388669292,
-        "stability_seeking": 0.9393776409517259,
-        "achievement_oriented": 0.8815990982493757,
-        "care_oriented": 0.8663253505197918,
-        "knowledge_oriented": 0.8406577584554702,
-        "governance_oriented": 0.9326909522713566,
-        "sovereignty_order_oriented": 0.8125862835369555,
-        "expression_oriented": 0.8028336578528166,
-        "ecosystem_oriented": 0.7443509349159967
+        "survival_focused": 0.5901339428895065,
+        "stability_seeking": 0.6399743306030827,
+        "achievement_oriented": 0.6985509530301623,
+        "care_oriented": 0.7191769595504809,
+        "knowledge_oriented": 0.7787931321695212,
+        "governance_oriented": 0.6405534029772026,
+        "sovereignty_order_oriented": 0.529451654088319,
+        "expression_oriented": 0.8069376255954646,
+        "ecosystem_oriented": 0.6258766740635975
       },
-      "priority_raw": 0.1759922812592696,
-      "contest_raw": 0.013049314707915502
+      "priority_raw": 0.1842331539573353,
+      "contest_raw": 0.03189865252912784
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "title": "Zambians voting as president bids for second term",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.3550706522594135,
-      "contest_score": -0.6162348625402225,
+      "priority_score": 0.3039813872588698,
+      "contest_score": 1.6507822445916454,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5558459324919447,
-      "contestedness": 0.03346043411133537,
-      "impact": 0.5549999999999999,
+      "central_tendency": 0.31244039823497194,
+      "contestedness": 0.07207932618846652,
+      "impact": 0.78,
       "top_clusters": {
-        "knowledge_oriented": 0.5985957202537902,
-        "care_oriented": 0.5936436267344002
+        "expression_oriented": 0.5020620034707615,
+        "knowledge_oriented": 0.43864079088223606
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.49853432646652385
+        "survival_focused": 0.18712108063926175
       },
       "cluster_means": {
-        "survival_focused": 0.5259256132657846,
-        "stability_seeking": 0.5592482321887104,
-        "achievement_oriented": 0.527875420577711,
-        "care_oriented": 0.5936436267344002,
-        "knowledge_oriented": 0.5985957202537902,
-        "governance_oriented": 0.5863503355233121,
-        "sovereignty_order_oriented": 0.5197314511172237,
-        "expression_oriented": 0.5927086663000458,
-        "ecosystem_oriented": 0.49853432646652385
+        "survival_focused": 0.18712108063926175,
+        "stability_seeking": 0.24024217676723236,
+        "achievement_oriented": 0.3086226653729166,
+        "care_oriented": 0.29806913373060445,
+        "knowledge_oriented": 0.43864079088223606,
+        "governance_oriented": 0.2698608573338829,
+        "sovereignty_order_oriented": 0.19719641599878063,
+        "expression_oriented": 0.5020620034707615,
+        "ecosystem_oriented": 0.37014845991907097
       },
-      "priority_raw": 0.15424724626651465,
-      "contest_raw": 0.018570540931791127
+      "priority_raw": 0.17059245743629467,
+      "contest_raw": 0.05622187442700389
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "title": "BTS star V reveals hearing loss battle during livestream",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.07721913271197464,
-      "contest_score": -0.34227577252985025,
+      "priority_score": 0.23745049496099077,
+      "contest_score": -0.9088618224077438,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4948879578701444,
-      "contestedness": 0.04703791878789798,
-      "impact": 0.5,
+      "central_tendency": 0.7360753043355599,
+      "contestedness": 0.04270488003821038,
+      "impact": 0.365,
       "top_clusters": {
-        "expression_oriented": 0.590034868192611,
-        "knowledge_oriented": 0.5586970880550128
+        "achievement_oriented": 0.8260257043708867,
+        "stability_seeking": 0.8147913321537246
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.3971462658641224
+        "ecosystem_oriented": 0.6465201943583968
       },
       "cluster_means": {
-        "survival_focused": 0.4215166535623531,
-        "stability_seeking": 0.47988961614137315,
-        "achievement_oriented": 0.4466215926153281,
-        "care_oriented": 0.5320359303125755,
-        "knowledge_oriented": 0.5586970880550128,
-        "governance_oriented": 0.5116591692671149,
-        "sovereignty_order_oriented": 0.3971462658641224,
-        "expression_oriented": 0.590034868192611,
-        "ecosystem_oriented": 0.5163904368208085
+        "survival_focused": 0.7168187678798794,
+        "stability_seeking": 0.8147913321537246,
+        "achievement_oriented": 0.8260257043708867,
+        "care_oriented": 0.6744721878749538,
+        "knowledge_oriented": 0.754076473822881,
+        "governance_oriented": 0.7652157208088382,
+        "sovereignty_order_oriented": 0.7095802898373151,
+        "expression_oriented": 0.7171770679131642,
+        "ecosystem_oriented": 0.6465201943583968
       },
-      "priority_raw": 0.1237219894675361,
-      "contest_raw": 0.02351895939394899
+      "priority_raw": 0.1612004916494876,
+      "contest_raw": 0.015587281213946789
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.06334823563979253,
-      "contest_score": -0.7487390906806258,
+      "priority_score": 0.17735483263031285,
+      "contest_score": -1.2163699806055923,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.30330255199260514,
-      "contestedness": 0.027188517043429505,
+      "central_tendency": 0.658262792694339,
+      "contestedness": 0.03691572390077247,
+      "impact": 0.29000000000000004,
+      "top_clusters": {
+        "governance_oriented": 0.7863570046067905,
+        "stability_seeking": 0.7456160580567478
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.571705035486262
+      },
+      "cluster_means": {
+        "survival_focused": 0.6088327703663023,
+        "stability_seeking": 0.7456160580567478,
+        "achievement_oriented": 0.6063514194264792,
+        "care_oriented": 0.6724398907449665,
+        "knowledge_oriented": 0.6803063930082789,
+        "governance_oriented": 0.7863570046067905,
+        "sovereignty_order_oriented": 0.607920419326226,
+        "expression_oriented": 0.6448361432269984,
+        "ecosystem_oriented": 0.571705035486262
+      },
+      "priority_raw": 0.15271696790508668,
+      "contest_raw": 0.010705559931224016
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.10344292432694514,
+      "contest_score": 0.3182075104714786,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2416187902668446,
+      "contestedness": 0.04495785086751178,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.37198645504854194,
+        "knowledge_oriented": 0.35500573108447364
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.12755566830390133
+      },
+      "cluster_means": {
+        "survival_focused": 0.12755566830390133,
+        "stability_seeking": 0.17661035917338258,
+        "achievement_oriented": 0.2777309625886309,
+        "care_oriented": 0.21135940035408673,
+        "knowledge_oriented": 0.35500573108447364,
+        "governance_oriented": 0.22156821004089436,
+        "sovereignty_order_oriented": 0.18307308521345403,
+        "expression_oriented": 0.37198645504854194,
+        "ecosystem_oriented": 0.24967924059423546
+      },
+      "priority_raw": 0.11307759384488328,
+      "contest_raw": 0.035067123676659186
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.16451761472622586,
+      "contest_score": -0.7874229000788667,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.292593455616862,
+      "contestedness": 0.02943720279923151,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.41244558466789855,
-        "knowledge_oriented": 0.3882844688904351
+        "expression_oriented": 0.43431541510394567,
+        "knowledge_oriented": 0.39820912600109587
       },
       "bottom_clusters": {
-        "governance_oriented": 0.2447911840221249
+        "sovereignty_order_oriented": 0.21426564070883783
       },
       "cluster_means": {
-        "survival_focused": 0.2800976119399783,
-        "stability_seeking": 0.29082666397309226,
-        "achievement_oriented": 0.335634908328865,
-        "care_oriented": 0.2653908244821278,
-        "knowledge_oriented": 0.3882844688904351,
-        "governance_oriented": 0.2447911840221249,
-        "sovereignty_order_oriented": 0.25934262673237585,
-        "expression_oriented": 0.41244558466789855,
-        "ecosystem_oriented": 0.2529090948965488
+        "survival_focused": 0.22519640916779926,
+        "stability_seeking": 0.26379954942484285,
+        "achievement_oriented": 0.26890049696018253,
+        "care_oriented": 0.29833769975941404,
+        "knowledge_oriented": 0.39820912600109587,
+        "governance_oriented": 0.2694864585382277,
+        "sovereignty_order_oriented": 0.21426564070883783,
+        "expression_oriented": 0.43431541510394567,
+        "ecosystem_oriented": 0.2608303048874122
       },
-      "priority_raw": 0.10827901106136004,
-      "contest_raw": 0.016177167640840553
+      "priority_raw": 0.10445586365521972,
+      "contest_raw": 0.017515135665542747
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.1882896247376431,
-      "contest_score": -1.1876286092357295,
+      "priority_score": -0.27281409675270046,
+      "contest_score": -0.24564702818753134,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.41561639661056393,
-      "contestedness": 0.01813115122671205,
-      "impact": 0.455,
+      "central_tendency": 0.22863583408710594,
+      "contestedness": 0.03348189641386112,
+      "impact": 0.78,
       "top_clusters": {
-        "survival_focused": 0.46455794663094,
-        "achievement_oriented": 0.44202034423839653
+        "expression_oriented": 0.3366901161901116,
+        "knowledge_oriented": 0.31707508571915854
       },
       "bottom_clusters": {
-        "governance_oriented": 0.3660644209878828
+        "survival_focused": 0.15678205613651938
       },
       "cluster_means": {
-        "survival_focused": 0.46455794663094,
-        "stability_seeking": 0.4181435295123099,
-        "achievement_oriented": 0.44202034423839653,
-        "care_oriented": 0.4000123782855978,
-        "knowledge_oriented": 0.41151070031604003,
-        "governance_oriented": 0.3660644209878828,
-        "sovereignty_order_oriented": 0.4241409051112942,
-        "expression_oriented": 0.42279405693595035,
-        "ecosystem_oriented": 0.391303287476664
+        "survival_focused": 0.15678205613651938,
+        "stability_seeking": 0.16935599022492628,
+        "achievement_oriented": 0.25776822316866566,
+        "care_oriented": 0.2338528136560695,
+        "knowledge_oriented": 0.31707508571915854,
+        "governance_oriented": 0.2028378866387874,
+        "sovereignty_order_oriented": 0.18218508950183063,
+        "expression_oriented": 0.3366901161901116,
+        "ecosystem_oriented": 0.20117524554788416
       },
-      "priority_raw": 0.0945527302289033,
-      "contest_raw": 0.008249673808153984
+      "priority_raw": 0.08916797529397132,
+      "contest_raw": 0.026115879202811675
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump asks Supreme Court to allow ballroom work to continue",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.2119666388904091,
-      "contest_score": 2.011845482549682,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.18689335730879947,
-      "contestedness": 0.08053725971465109,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4066499841606406,
-        "knowledge_oriented": 0.3472274071566854
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.014153892195657214
-      },
-      "cluster_means": {
-        "survival_focused": 0.014153892195657214,
-        "stability_seeking": 0.07237799352328289,
-        "achievement_oriented": 0.20636119545208884,
-        "care_oriented": 0.15220700754804128,
-        "knowledge_oriented": 0.3472274071566854,
-        "governance_oriented": 0.12374618463756207,
-        "sovereignty_order_oriented": 0.0530699648821735,
-        "expression_oriented": 0.4066499841606406,
-        "ecosystem_oriented": 0.23274426726269237
-      },
-      "priority_raw": 0.09195153179592934,
-      "contest_raw": 0.0660405529660139
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.24176115746502883,
-      "contest_score": -0.7977530535069555,
+      "priority_score": -0.3279070232101842,
+      "contest_score": -1.1285094566722358,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.35685413908983243,
-      "contestedness": 0.04307562574878698,
-      "impact": 0.355,
+      "central_tendency": 0.37420998948497824,
+      "contestedness": 0.027816906004606234,
+      "impact": 0.43500000000000005,
       "top_clusters": {
-        "knowledge_oriented": 0.4318464927729739,
-        "expression_oriented": 0.4268969363370724
+        "achievement_oriented": 0.42828485342002975,
+        "expression_oriented": 0.4007285307285307
       },
       "bottom_clusters": {
-        "survival_focused": 0.28998513831397366
+        "ecosystem_oriented": 0.32237782193704034
       },
       "cluster_means": {
-        "survival_focused": 0.28998513831397366,
-        "stability_seeking": 0.3843214236012357,
-        "achievement_oriented": 0.328056087467105,
-        "care_oriented": 0.33306076406276064,
-        "knowledge_oriented": 0.4318464927729739,
-        "governance_oriented": 0.4019817376670233,
-        "sovereignty_order_oriented": 0.29359774427967616,
-        "expression_oriented": 0.4268969363370724,
-        "ecosystem_oriented": 0.32194092730667084
+        "survival_focused": 0.3729116247239245,
+        "stability_seeking": 0.39607650876966005,
+        "achievement_oriented": 0.42828485342002975,
+        "care_oriented": 0.33647032035820806,
+        "knowledge_oriented": 0.400056232278062,
+        "governance_oriented": 0.34353417147789955,
+        "sovereignty_order_oriented": 0.36744984167144934,
+        "expression_oriented": 0.4007285307285307,
+        "ecosystem_oriented": 0.32237782193704034
       },
-      "priority_raw": 0.08867825356382335,
-      "contest_raw": 0.015291847140819378
+      "priority_raw": 0.08139067271298278,
+      "contest_raw": 0.012100354112003714
     }
   ],
   "mood": {
-    "score": 0.028554801497594966,
+    "score": 0.027921593536985027,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
@@ -1446,9 +1446,9 @@
       "root_cause": "Air India to test all pilots for banned substances",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 3.365782404936612,
-      "contest_score": 0.44334828684665056,
-      "contestedness": 0.05846416569862045,
+      "priority_score": 3.5970424561211924,
+      "contest_score": 0.5964282925484927,
+      "contestedness": 0.06121535670640865,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
@@ -1461,250 +1461,205 @@
       "falsification": "Signals tied to Air India to test all pilots for banned substances fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Family of Irish plane crash victim awarded $29m in damages",
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "name": "Family of Irish plane crash victim awarded $29m in damages",
-      "root_cause": "Family of Irish plane crash victim awarded $29m in damages",
-      "severity": "high",
-      "category": "convergent_priority",
-      "priority_score": 1.864071985259847,
-      "contest_score": 1.9832259637542489,
-      "contestedness": 0.09707201410841593,
+      "target": "US missionary released following kidnap in Niger, Christian group says",
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "name": "US missionary released following kidnap in Niger, Christian group says",
+      "root_cause": "US missionary released following kidnap in Niger, Christian group says",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 1.7800232327149927,
+      "contest_score": 0.01747054043685109,
+      "contestedness": 0.061822236021569,
       "mood": "↗ positive",
-      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
       "signal_count": 1,
       "signals": [
-        "Family of Irish plane crash victim awarded $29m in damages"
+        "US missionary released following kidnap in Niger, Christian group says"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Family of Irish plane crash victim awarded $29m in damages is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Family of Irish plane crash victim awarded $29m in damages fade or reverse without spillover."
+      "prediction": "Momentum around US missionary released following kidnap in Niger, Christian group says is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to US missionary released following kidnap in Niger, Christian group says fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Australian army whistleblower released on parole after more than two years in jail",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "name": "Australian army whistleblower released on parole after more than two years in jail",
-      "root_cause": "Australian army whistleblower released on parole after more than two years in jail",
+      "target": "France's top court blocks social media ban for under-15s",
+      "title": "France's top court blocks social media ban for under-15s",
+      "name": "France's top court blocks social media ban for under-15s",
+      "root_cause": "France's top court blocks social media ban for under-15s",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7016973061303117,
-      "contest_score": -0.82414515008592,
-      "contestedness": 0.02769184443960704,
+      "priority_score": 0.40060947681007064,
+      "contest_score": 0.11861997352447838,
+      "contestedness": 0.0579975500529597,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Australian army whistleblower released on parole after more than two years in jail"
+        "France's top court blocks social media ban for under-15s"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Australian army whistleblower released on parole after more than two years in jail is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Australian army whistleblower released on parole after more than two years in jail fade or reverse without spillover."
+      "prediction": "Momentum around France's top court blocks social media ban for under-15s is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to France's top court blocks social media ban for under-15s fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "name": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "root_cause": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "target": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "name": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "root_cause": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.5530015347131647,
-      "contest_score": -0.921906285359782,
-      "contestedness": 0.03782410060265362,
+      "priority_score": 0.3039813872588698,
+      "contest_score": 1.6507822445916454,
+      "contestedness": 0.07207932618846652,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, governance_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria"
+        "Engine parts smashed Ryanair window that man's head was sucked out of, report says"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Eurovision Song Contest 2027 to be held in Burgas, Bulgaria is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Eurovision Song Contest 2027 to be held in Burgas, Bulgaria fade or reverse without spillover."
+      "prediction": "Momentum around Engine parts smashed Ryanair window that man's head was sucked out of, report says is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Engine parts smashed Ryanair window that man's head was sucked out of, report says fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Zambians voting as president bids for second term",
-      "title": "Zambians voting as president bids for second term",
-      "name": "Zambians voting as president bids for second term",
-      "root_cause": "Zambians voting as president bids for second term",
+      "target": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "name": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "root_cause": "Builders unearth €9m gold stash sealed in walls of Belgian property",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.3550706522594135,
-      "contest_score": -0.6162348625402225,
-      "contestedness": 0.03346043411133537,
+      "priority_score": 0.23745049496099077,
+      "contest_score": -0.9088618224077438,
+      "contestedness": 0.04270488003821038,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, care_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Zambians voting as president bids for second term"
+        "Builders unearth €9m gold stash sealed in walls of Belgian property"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Zambians voting as president bids for second term is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Zambians voting as president bids for second term fade or reverse without spillover."
+      "prediction": "Momentum around Builders unearth €9m gold stash sealed in walls of Belgian property is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Builders unearth €9m gold stash sealed in walls of Belgian property fade or reverse without spillover."
     }
   ],
-  "predictions": [
-    {
-      "root_cause": "Family of Irish plane crash victim awarded $29m in damages",
-      "prediction": "Momentum around Family of Irish plane crash victim awarded $29m in damages is likely to compound if current conditions hold.",
-      "timeline": "1-2 weeks",
-      "falsification": "Signals tied to Family of Irish plane crash victim awarded $29m in damages fade or reverse without downstream spillover.",
-      "severity": "high"
-    }
-  ],
-  "narrative": "🟡 **Cautious mood dominates today's portfolio, reflecting a mix of stability-seeking signals and contested undercurrents. The structural pattern leans toward positive developments, but with tempered optimism and unresolved tensions.**\n\nThe most structurally significant signal today is Air India's decision to test all pilots for banned substances. This move, categorized as \"background noise,\" signals a proactive step toward ensuring operational safety and stability in a critical sector. The high priority score and alignment with survival-focused and stability-seeking clusters suggest this action is not just a procedural update but a broader effort to reinforce trust in aviation governance. While the direction is positive, the contestedness score highlights latent concerns about implementation challenges or potential backlash from labor groups.\n\nAnother notable signal is the $29 million damages awarded to the family of an Irish plane crash victim. This \"convergent priority\" reflects a clear outcome in accountability and justice, with strong alignment to expression-oriented and knowledge-oriented clusters. The structural implication here is twofold: it underscores the importance of legal recourse in aviation safety while potentially setting a precedent for similar cases globally. The contestedness score, however, suggests lingering debates over the broader implications for liability frameworks in the industry.\n\nSignals with lower priority scores, such as the Eurovision Song Contest announcement and the release of an Australian army whistleblower, add texture to the day's narrative but remain secondary. The Eurovision decision, while positive, reflects a governance-oriented focus that is unlikely to shift major trajectories. Similarly, the whistleblower's parole, though symbolically significant, carries limited structural weight due to its low contest score and alignment with expression-oriented clusters rather than stability or survival-focused ones.\n\nLonger-term trajectories point to a cautious recalibration across sectors. Aviation safety and accountability are emerging as focal points, with ripple effects likely to influence regulatory frameworks and public trust. Meanwhile, governance-oriented signals, such as Bulgaria hosting Eurovision, suggest a subtle but steady emphasis on stability and cultural diplomacy amid broader geopolitical uncertainties.\n\n**Watch for:** Concrete follow-ups on Air India's testing protocols, particularly any labor disputes or operational disruptions. Monitor aviation liability cases for signs of precedent-setting rulings. Additionally, track stability-seeking signals in governance and cultural diplomacy, as they may offer early indicators of broader alignment or divergence in contested regions.",
+  "predictions": [],
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals suggest a cautious but slightly positive structural pattern, with stability-seeking and survival-focused dynamics dominating the landscape. While several developments point to incremental progress, underlying risks and contested narratives temper the optimism.\n\n---\n\n**1. Stability and survival-focused signals are shaping the day’s tone.**  \nAir India’s decision to test all pilots for banned substances reflects a proactive move toward operational safety and regulatory compliance. This signal aligns strongly with stability-seeking and survival-focused clusters, reinforcing the airline’s commitment to mitigating systemic risks. Similarly, the release of a US missionary in Niger highlights a positive resolution to a high-stakes situation, underscoring the importance of diplomatic and humanitarian interventions in volatile regions. Both signals contribute to a cautious optimism, though their broader implications remain confined to specific sectors.\n\n**2. Contested signals reveal underlying tensions in governance and safety.**  \nFrance’s top court blocking a social media ban for under-15s illustrates a contested balance between expression-oriented freedoms and sovereignty-driven regulation. While the ruling leans toward preserving individual rights, it leaves unresolved questions about digital safety for minors. Meanwhile, the Ryanair incident involving engine parts smashing a window and injuring a passenger underscores critical vulnerabilities in aviation safety. Despite the positive direction of the report’s transparency, the contestedness of this signal highlights ongoing concerns about operational risks in high-stakes industries.\n\n**3. Longer-term trajectories point to structural recalibrations.**  \nThe discovery of a €9m gold stash in Belgium hints at broader themes of hidden wealth and unexpected economic injections, which could ripple through local property markets and financial systems. However, its low priority score and contestedness suggest limited immediate impact. On the other hand, the recovery of stolen Matisse artworks in Brazil signals progress in cultural preservation and law enforcement, contributing to achievement-oriented narratives. These signals, while positive, remain isolated and unlikely to drive systemic change.\n\n---\n\n**What to watch next:**  \nMonitor developments in aviation safety protocols following the Ryanair incident, as this could prompt broader industry-wide reforms. Additionally, track the implementation of Air India’s substance-testing policy to assess its impact on operational reliability. Finally, keep an eye on France’s digital governance debates, as the court ruling may catalyze further discussions on balancing freedom and regulation in the digital space.",
   "noise_filtered": [
     "Air India to test all pilots for banned substances",
-    "Australian army whistleblower released on parole after more than two years in jail",
-    "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-    "Zambians voting as president bids for second term",
-    "BTS star V reveals hearing loss battle during livestream",
-    "Indian actor's video with endangered gibbon sparks investigation",
-    "Presidential pardon for French alleged spy accused of plotting Mali coup",
-    "Ebola outbreak on track to be deadliest ever, WHO chief says",
+    "US missionary released following kidnap in Niger, Christian group says",
+    "France's top court blocks social media ban for under-15s",
+    "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "Builders unearth €9m gold stash sealed in walls of Belgian property",
+    "Stolen Matisse artworks recovered by police in Brazil",
+    "'Unprecedented' rain in Japan kills eight people",
+    "US says dozens of countries helped China dodge Trump's tariffs",
+    "Dozens injured and thousands evacuated in Croatia wildfire",
+    "Trump asks Supreme Court to allow ballroom work to continue",
     "Person fined after using foghorn to wake sleeping polar bear",
     "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-    "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-    "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+    "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
     "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-    "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-    "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
+    "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+    "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+    "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
     "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-    "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-    "Three men will be executed on the same day as death penalties rise in US",
-    "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'"
+    "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "UK diplomats no longer get hardship bonus for being posted to Buenos Aires"
   ],
-  "matured_predictions": [
-    {
-      "id": "617c11f862233bab",
-      "created_at": "2026-07-31",
-      "root_cause": "Father of teen school shooter sentenced to 15 years in prison",
-      "prediction": "Momentum around Father of teen school shooter sentenced to 15 years in prison is likely to compound if current conditions hold.",
-      "timeline": "1-2 weeks",
-      "maturity_date": "2026-08-14",
-      "falsification": "Signals tied to Father of teen school shooter sentenced to 15 years in prison fade or reverse without downstream spillover.",
-      "severity": "high",
-      "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals directly related to the sentencing of the father of the teen school shooter were identified. The available signals do not indicate any momentum or downstream spillover tied to the original event.",
-      "validated_at": "2026-08-13T20:51:32.281456+00:00",
-      "evidence_used": [
-        "ABC Australia: Former Hurricanes cricketer jailed for abusing 15yo girl",
-        "ABC Australia: Teenager breaks Kaylee McKeown's backstroke world record",
-        "ABC Australia: Messi doubts playing 'for much longer' after father's death",
-        "ABC Australia: Legendary boot-studder hangs up his own after 58 years with Port Adelaide",
-        "BBC World: Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-        "BBC World: BTS star V reveals hearing loss battle during livestream",
-        "BBC World: Zambians voting as president bids for second term",
-        "BBC World: Australian army whistleblower released on parole after more than two years in jail"
-      ]
-    }
-  ],
+  "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [
-      "Family of Irish plane crash victim awarded $29m in damages"
-    ],
+    "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Lebanon parliament votes to abolish death penalty",
+        "title": "Family of Irish plane crash victim awarded $29m in damages",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+        "title": "Australian army whistleblower released on parole after more than two years in jail",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "LA Lakers to be sold in record $12.5bn deal",
+        "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US inflation eases as food and fuel costs cool",
+        "title": "BTS star V reveals hearing loss battle during livestream",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "title": "Indian actor's video with endangered gibbon sparks investigation",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+        "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "New Zealand PM survives second leadership challenge ahead of election",
+        "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+        "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Tata Group Chairman N Chandrasekaran to step down in February",
+        "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+        "title": "Three men will be executed on the same day as death penalties rise in US",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Thousands of Canadians call for US ambassador's expulsion",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Bondi Beach shooting hero's assault charges dropped by police",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+        "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
-    "priority_score_changes": [],
+    "priority_score_changes": [
+      "Zambia vote counting resumes after pause over alleged attacks on polling staff: 0.36 → -0.61"
+    ],
     "mood_shift": "",
-    "structural_shifts": [],
-    "continuing_priorities": [],
-    "new_stories": 20,
-    "carried_stories": 0,
+    "structural_shifts": [
+      "convergent_priority: 1 → 0",
+      "Priority score movement — Zambia vote counting resumes after pause over alleged attacks on polling staff: 0.36 → -0.61"
+    ],
+    "continuing_priorities": [
+      "Air India to test all pilots for banned substances",
+      "Person fined after using foghorn to wake sleeping polar bear",
+      "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "Palestinians told to leave homes in village where Israeli settlers besieged houses"
+    ],
+    "new_stories": 15,
+    "carried_stories": 5,
     "total_stories": 20,
-    "summary": "1 new convergent priorities emerged: Family of Irish plane crash victim awarded $29m in damages · 20 priorities dropped: Lebanon parliament votes to abolish death penalty (No longer in today's news feed — story left the RSS cycle); Woman pulled alive from rubble 36 hours after Colombia quake (No longer in today's news feed — story left the RSS cycle); LA Lakers to be sold in record $12.5bn deal (No longer in today's news feed — story left the RSS cycle); US inflation eases as food and fuel costs cool (No longer in today's news feed — story left the RSS cycle); Zhu Rongji, who helped turn China into a trading giant, dies at 97 (No longer in today's news feed — story left the RSS cycle); Members of Trump's cabinet remained on decoy plane, after president's quiet exit (No longer in today's news feed — story left the RSS cycle); Danube river's low water levels reveal remains of WWII soldiers and motorcycle (No longer in today's news feed — story left the RSS cycle); Singapore and S Korea pull Trader Joe's seasoning over poppy seeds (No longer in today's news feed — story left the RSS cycle); New Zealand PM survives second leadership challenge ahead of election (No longer in today's news feed — story left the RSS cycle); Major Russian grain export terminals hit in Ukraine Black Sea port attack (No longer in today's news feed — story left the RSS cycle); At least 44 die as ferry sinks in Zimbabwe's Lake Kariba (No longer in today's news feed — story left the RSS cycle); Tata Group Chairman N Chandrasekaran to step down in February (No longer in today's news feed — story left the RSS cycle); Wisconsin result dents winning streak for Democratic Party's left wing (No longer in today's news feed — story left the RSS cycle); Thousands of Canadians call for US ambassador's expulsion (No longer in today's news feed — story left the RSS cycle); US says helicopter fired missiles to disable ship breaking Iran blockade (No longer in today's news feed — story left the RSS cycle); Bondi Beach shooting hero's assault charges dropped by police (No longer in today's news feed — story left the RSS cycle); Trump says White House press secretary Karoline Leavitt to leave post (No longer in today's news feed — story left the RSS cycle); Israeli settlers besieging Palestinian families in West Bank village (No longer in today's news feed — story left the RSS cycle); US immigration officers to be equipped with gloves that deliver electric shocks (No longer in today's news feed — story left the RSS cycle); Cristiano Ronaldo marries long-time partner Georgina Rodríguez (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 20 new, 0 carried, 20 total"
+    "summary": "14 priorities dropped: Family of Irish plane crash victim awarded $29m in damages (No longer in today's news feed — story left the RSS cycle); Australian army whistleblower released on parole after more than two years in jail (No longer in today's news feed — story left the RSS cycle); Eurovision Song Contest 2027 to be held in Burgas, Bulgaria (No longer in today's news feed — story left the RSS cycle); BTS star V reveals hearing loss battle during livestream (No longer in today's news feed — story left the RSS cycle); Indian actor's video with endangered gibbon sparks investigation (No longer in today's news feed — story left the RSS cycle); Presidential pardon for French alleged spy accused of plotting Mali coup (No longer in today's news feed — story left the RSS cycle); Ebola outbreak on track to be deadliest ever, WHO chief says (No longer in today's news feed — story left the RSS cycle); Mangione lawyers to meet federal prosecutors amid reports of plea deal (No longer in today's news feed — story left the RSS cycle); Japan PM says Putin's visit to disputed islands 'absolutely unacceptable' (No longer in today's news feed — story left the RSS cycle); Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC (No longer in today's news feed — story left the RSS cycle); French ambassador to CAR accused of misconduct at official residence faces disciplinary action (No longer in today's news feed — story left the RSS cycle); Four Canadian hockey stars remain suspended after sexual assault acquittal (No longer in today's news feed — story left the RSS cycle); Three men will be executed on the same day as death penalties rise in US (No longer in today's news feed — story left the RSS cycle); Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life' (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Zambia vote counting resumes after pause over alleged attacks on polling staff: 0.36 → -0.61 · Structural shifts: convergent_priority: 1 → 0; Priority score movement — Zambia vote counting resumes after pause over alleged attacks on polling staff: 0.36 → -0.61 · Signal freshness: 15 new, 5 carried, 20 total"
   }
 }
