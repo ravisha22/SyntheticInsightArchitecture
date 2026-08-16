@@ -178,9 +178,13 @@
       "maturity_date": "2026-08-17",
       "falsification": "Signals tied to How Australia combines modern tech and Indigenous knowledge to fight wildfires fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to Australia's use of modern tech and Indigenous knowledge to fight wildfires were identified. The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-08-16T20:29:43.041110+00:00",
+      "evidence_used": [
+        "ABC Australia articles focused on sports and unrelated topics such as cricket and rugby.",
+        "BBC World articles covering international incidents, wildfires in other countries, and unrelated events in Australia."
+      ]
     },
     {
       "id": "617c11f862233bab",
@@ -1525,5 +1529,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-15T20:30:01.688012+00:00"
+  "last_updated": "2026-08-16T20:29:41.354324+00:00"
 }
