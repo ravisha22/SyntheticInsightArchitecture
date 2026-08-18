@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "cd8b8c2b734353dd",
+      "created_at": "2026-08-19",
+      "root_cause": "Brazil's President Lula hails oil discovery near Amazon river",
+      "prediction": "Momentum around Brazil's President Lula hails oil discovery near Amazon river is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-02",
+      "falsification": "Signals tied to Brazil's President Lula hails oil discovery near Amazon river fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "ad38e1a4379908b9",
+      "created_at": "2026-08-19",
+      "root_cause": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "prediction": "Momentum around UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-02",
+      "falsification": "Signals tied to UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "205d791218b6be7a",
       "created_at": "2026-08-14",
       "root_cause": "Family of Irish plane crash victim awarded $29m in damages",
@@ -1529,5 +1555,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-17T20:33:37.414693+00:00"
+  "last_updated": "2026-08-18T20:31:20.396694+00:00"
 }
