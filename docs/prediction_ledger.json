@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "665be40ff74c5424",
+      "created_at": "2026-08-21",
+      "root_cause": "Giant whales move into Greenland waters as ice disappears",
+      "prediction": "Momentum around Giant whales move into Greenland waters as ice disappears is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-04",
+      "falsification": "Signals tied to Giant whales move into Greenland waters as ice disappears fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "cd8b8c2b734353dd",
       "created_at": "2026-08-19",
       "root_cause": "Brazil's President Lula hails oil discovery near Amazon river",
@@ -191,9 +204,12 @@
       "maturity_date": "2026-08-21",
       "falsification": "Signals tied to Meta fined $567m in largest child safety ruling against social media giant fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals directly related to the Meta fine or its downstream effects were observed in the provided evidence. The absence of relevant signals suggests the prediction did not mature as validated or falsified within the specified timeframe.",
+      "validated_at": "2026-08-20T20:36:08.266198+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including articles from BBC World, Al Jazeera, ABC Australia, and others, which do not mention or connect to the Meta fine or its potential compounding momentum."
+      ]
     },
     {
       "id": "e18304b4d094aeb4",
@@ -1555,5 +1571,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-19T20:35:39.090800+00:00"
+  "last_updated": "2026-08-20T20:36:05.673936+00:00"
 }
