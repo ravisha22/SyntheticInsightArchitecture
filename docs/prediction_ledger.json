@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "198a3d27219dcdda",
+      "created_at": "2026-08-22",
+      "root_cause": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "prediction": "Momentum around Ebola vaccine trial to start in DR Congo as warning issued over speed of infections is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-05",
+      "falsification": "Signals tied to Ebola vaccine trial to start in DR Congo as warning issued over speed of infections fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "665be40ff74c5424",
       "created_at": "2026-08-21",
       "root_cause": "Giant whales move into Greenland waters as ice disappears",
@@ -191,9 +204,13 @@
       "maturity_date": "2026-08-22",
       "falsification": "Signals tied to Meta fined $567m in largest child safety ruling against social media giant fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals or evidence indicate continued momentum or downstream spillover related to Meta's $567m fine in the child safety ruling. The prediction is considered expired due to the absence of relevant developments within the specified timeframe.",
+      "validated_at": "2026-08-21T20:32:37.561464+00:00",
+      "evidence_used": [
+        "Fresh signals provided do not reference Meta's fine or any related child safety ruling.",
+        "No observable downstream spillover or sustained media coverage tied to the prediction within the timeline."
+      ]
     },
     {
       "id": "45475e0e25fd02cc",
@@ -1571,5 +1588,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-20T20:36:05.673936+00:00"
+  "last_updated": "2026-08-21T20:32:35.572397+00:00"
 }
