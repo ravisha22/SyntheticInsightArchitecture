@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "c7df9637f15bd78b",
+      "created_at": "2026-08-23",
+      "root_cause": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "prediction": "Momentum around Ebola vaccine trial to start in DR Congo as warning issued over speed of infections is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-06",
+      "falsification": "Signals tied to Ebola vaccine trial to start in DR Congo as warning issued over speed of infections fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "198a3d27219dcdda",
       "created_at": "2026-08-22",
       "root_cause": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
@@ -178,9 +191,13 @@
       "maturity_date": "2026-08-23",
       "falsification": "Signals tied to Thai PM vows to introduce stricter gun laws after eight killed in shooting fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals directly related to the Thai PM's vow to introduce stricter gun laws or any momentum around this issue. The provided signals focus on unrelated global events, indicating that the prediction has not matured within the specified timeframe.",
+      "validated_at": "2026-08-22T20:30:04.673902+00:00",
+      "evidence_used": [
+        "Fresh signals provided, none of which pertain to the Thai PM's vow or stricter gun laws in Thailand.",
+        "Timeline of 1-2 weeks has elapsed without relevant updates or downstream spillover."
+      ]
     },
     {
       "id": "44db5c08418c8cf3",
@@ -191,9 +208,17 @@
       "maturity_date": "2026-08-23",
       "falsification": "Signals tied to Saudi Arabia, Turkey and Pakistan sign defence pact fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no relevant signals or evidence were found in the provided sources to indicate momentum around a Saudi Arabia, Turkey, and Pakistan defense pact. The fresh signals are unrelated to the prediction topic.",
+      "validated_at": "2026-08-22T20:30:06.482723+00:00",
+      "evidence_used": [
+        "BBC World: Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+        "BBC World: Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+        "BBC World: How Israel is expanding settlements in drive to reshape West Bank",
+        "BBC World: Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+        "Al Jazeera: Elche vs Barcelona: La Liga – prediction, team news, lineups",
+        "Al Jazeera: Walk-In 'Human Fridges' are Japan’s newest heatwave weapon"
+      ]
     },
     {
       "id": "26b2842599beaea5",
@@ -1588,5 +1613,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-21T20:32:35.572397+00:00"
+  "last_updated": "2026-08-22T20:30:02.162233+00:00"
 }
