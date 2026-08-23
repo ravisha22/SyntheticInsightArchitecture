@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "fc344cd755dfc39d",
+      "created_at": "2026-08-24",
+      "root_cause": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "prediction": "Momentum around TikTok to pay $400m to US in one of largest child privacy settlements is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-07",
+      "falsification": "Signals tied to TikTok to pay $400m to US in one of largest child privacy settlements fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "c7df9637f15bd78b",
       "created_at": "2026-08-23",
       "root_cause": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
@@ -1613,5 +1626,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-22T20:30:02.162233+00:00"
+  "last_updated": "2026-08-23T20:30:30.399842+00:00"
 }
