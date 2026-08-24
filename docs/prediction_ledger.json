@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "1cb2beadb4c1ade7",
+      "created_at": "2026-08-25",
+      "root_cause": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "prediction": "Momentum around UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-08",
+      "falsification": "Signals tied to UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "fc344cd755dfc39d",
       "created_at": "2026-08-24",
       "root_cause": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -1626,5 +1639,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-23T20:30:30.399842+00:00"
+  "last_updated": "2026-08-24T20:37:52.000601+00:00"
 }
