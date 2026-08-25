@@ -191,9 +191,16 @@
       "maturity_date": "2026-08-26",
       "falsification": "Signals tied to Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating momentum around Bashar al-Assad being sentenced to death in absentia. The provided signals are unrelated to the prediction topic, and no downstream spillover effects tied to the prediction have been observed.",
+      "validated_at": "2026-08-25T20:36:15.824954+00:00",
+      "evidence_used": [
+        "BBC World: French tourist dies in Death Valley after car gets stuck in mud",
+        "BBC World: NZ religious sect leader jailed over death of Chinese follower",
+        "BBC World: 'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+        "Al Jazeera: Kurdish-led forces in Syria dissolve after merging with army",
+        "ABC Australia: Matildas star receives rousing welcome in return after mother's death"
+      ]
     },
     {
       "id": "2145afaa0316c911",
@@ -204,9 +211,13 @@
       "maturity_date": "2026-08-26",
       "falsification": "Signals tied to Thailand suspends new gun permits after mass shooting fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals or evidence were found to indicate continued momentum or downstream spillover related to Thailand's suspension of new gun permits after the mass shooting. The provided signals are unrelated to the prediction's context.",
+      "validated_at": "2026-08-25T20:36:19.931746+00:00",
+      "evidence_used": [
+        "No relevant signals tied to Thailand's suspension of new gun permits or its downstream effects were identified in the fresh signals provided.",
+        "The timeline for the prediction (1-2 weeks) has elapsed without any updates or developments supporting the prediction's momentum."
+      ]
     },
     {
       "id": "f0a4465145b69f74",
@@ -1639,5 +1650,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-24T20:37:52.000601+00:00"
+  "last_updated": "2026-08-25T20:36:13.500477+00:00"
 }
