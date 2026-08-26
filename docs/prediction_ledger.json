@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "d9c8207790664383",
+      "created_at": "2026-08-27",
+      "root_cause": "Trump says all mines cleared from Strait of Hormuz",
+      "prediction": "Momentum around Trump says all mines cleared from Strait of Hormuz is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-10",
+      "falsification": "Signals tied to Trump says all mines cleared from Strait of Hormuz fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "1cb2beadb4c1ade7",
       "created_at": "2026-08-25",
       "root_cause": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
@@ -178,9 +191,14 @@
       "maturity_date": "2026-08-27",
       "falsification": "Signals tied to Woman pulled alive from rubble 36 hours after Colombia quake fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals related to the woman being pulled alive from the rubble after the Colombia quake were identified. The provided signals are unrelated to the original prediction, indicating that momentum around the event has not compounded or persisted.",
+      "validated_at": "2026-08-26T23:14:28.208112+00:00",
+      "evidence_used": [
+        "Prediction timeline of 1-2 weeks has passed.",
+        "Fresh signals provided (BBC World and ABC Australia articles) are unrelated to the original event.",
+        "No evidence of continued momentum or downstream spillover tied to the original event."
+      ]
     },
     {
       "id": "7dc6c9c0c1932652",
@@ -1650,5 +1668,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-25T20:36:13.500477+00:00"
+  "last_updated": "2026-08-26T23:14:25.808842+00:00"
 }
