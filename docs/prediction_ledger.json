@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "596fe75feefb7892",
+      "created_at": "2026-08-31",
+      "root_cause": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "prediction": "Momentum around Head teacher evacuated 900 children minutes before Nepal floods hit school is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-14",
+      "falsification": "Signals tied to Head teacher evacuated 900 children minutes before Nepal floods hit school fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "d9c8207790664383",
       "created_at": "2026-08-27",
       "root_cause": "Trump says all mines cleared from Strait of Hormuz",
@@ -1673,5 +1686,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-29T22:33:40.701124+00:00"
+  "last_updated": "2026-08-30T22:37:18.688491+00:00"
 }
