@@ -165,9 +165,19 @@
       "maturity_date": "2026-09-02",
       "falsification": "Signals tied to Brazil's President Lula hails oil discovery near Amazon river fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals directly related to Brazil's President Lula or the oil discovery near the Amazon river were identified in the provided evidence. As such, the prediction cannot be validated, falsified, or partially validated within the given timeframe.",
+      "validated_at": "2026-09-01T22:31:11.030515+00:00",
+      "evidence_used": [
+        "BBC World: Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
+        "Al Jazeera: US energy secretary will travel to Venezuela to unveil oil arrangement",
+        "Al Jazeera: China’s Xi makes his first visit to Egypt in a decade",
+        "BBC World: River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+        "BBC World: Zambia's president sworn in for second term while opponent detained",
+        "Al Jazeera: Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+        "Al Jazeera: Guinea-Bissau referendum nods to expansion of presidential powers",
+        "Al Jazeera: Hakainde Hichilema returns as Zambia’s president following disputed vote"
+      ]
     },
     {
       "id": "ad38e1a4379908b9",
@@ -178,9 +188,19 @@
       "maturity_date": "2026-09-02",
       "falsification": "Signals tied to UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there is insufficient evidence in the fresh signals to confirm sustained momentum around the UK 'supports Ukraine 100%' narrative tied to Burnham's statement. The signals provided do not directly address or reinforce the prediction's focus.",
+      "validated_at": "2026-09-01T22:31:13.039384+00:00",
+      "evidence_used": [
+        "BBC World: Germany says Russia behind Leipzig airport drone attack",
+        "Al Jazeera: Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+        "BBC World: 'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+        "BBC World: Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+        "BBC World: Trump says US position on Falklands 'one of many' under review",
+        "BBC World: Why did Modi urge Putin to end Ukraine war - and will he listen?",
+        "ABC Australia: Former rival says Nick Kyrgios's drug ban 'pretty much expected'",
+        "BBC World: US strikes Iran as state media reports four killed at wedding party"
+      ]
     },
     {
       "id": "205d791218b6be7a",
@@ -1686,5 +1706,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-08-31T23:42:05.945944+00:00"
+  "last_updated": "2026-09-01T22:31:08.767477+00:00"
 }
