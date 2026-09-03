@@ -152,9 +152,12 @@
       "maturity_date": "2026-09-04",
       "falsification": "Signals tied to Giant whales move into Greenland waters as ice disappears fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and no fresh signals directly related to Giant whales moving into Greenland waters as ice disappears were identified. The provided signals are unrelated to the prediction's subject matter, indicating no momentum or downstream spillover tied to the prediction.",
+      "validated_at": "2026-09-03T22:28:34.997827+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including articles from BBC World and Al Jazeera, which focus on topics such as legal cases, political comments, and international treaties, none of which pertain to the movement of Giant whales into Greenland waters or related environmental conditions."
+      ]
     },
     {
       "id": "cd8b8c2b734353dd",
@@ -1706,5 +1709,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-02T22:30:31.100623+00:00"
+  "last_updated": "2026-09-03T22:28:31.696338+00:00"
 }
