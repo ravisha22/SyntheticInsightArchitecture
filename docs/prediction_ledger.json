@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "3a68164c7a2ccf81",
+      "created_at": "2026-09-05",
+      "root_cause": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "prediction": "Momentum around 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-19",
+      "falsification": "Signals tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "0ab3a330bcdfdb2c",
+      "created_at": "2026-09-05",
+      "root_cause": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
+      "prediction": "Momentum around 'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-19",
+      "falsification": "Signals tied to 'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "596fe75feefb7892",
       "created_at": "2026-08-31",
       "root_cause": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
@@ -139,9 +165,12 @@
       "maturity_date": "2026-09-05",
       "falsification": "Signals tied to Ebola vaccine trial to start in DR Congo as warning issued over speed of infections fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals or evidence related to the Ebola vaccine trial in DR Congo or the momentum around it were identified in the provided sources. The prediction is considered expired due to the lack of relevant updates within the specified timeframe.",
+      "validated_at": "2026-09-04T22:17:13.969245+00:00",
+      "evidence_used": [
+        "Fresh signals provided from BBC World, Al Jazeera, and ABC Australia do not mention the Ebola vaccine trial or related developments in DR Congo."
+      ]
     },
     {
       "id": "665be40ff74c5424",
@@ -1709,5 +1738,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-03T22:28:31.696338+00:00"
+  "last_updated": "2026-09-04T22:17:09.775419+00:00"
 }
