@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "e4dd34687220a050",
+      "created_at": "2026-09-06",
+      "root_cause": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "prediction": "Momentum around Nepal rescuers try to reach dozens trapped in tunnel after two found alive is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-20",
+      "falsification": "Signals tied to Nepal rescuers try to reach dozens trapped in tunnel after two found alive fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "304aeb4e7856fc72",
+      "created_at": "2026-09-06",
+      "root_cause": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "prediction": "Momentum around 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-20",
+      "falsification": "Signals tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "3a68164c7a2ccf81",
       "created_at": "2026-09-05",
       "root_cause": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -152,9 +178,12 @@
       "maturity_date": "2026-09-06",
       "falsification": "Signals tied to Ebola vaccine trial to start in DR Congo as warning issued over speed of infections fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals related to the Ebola vaccine trial in DR Congo or the warning over the speed of infections were identified in the provided evidence. The prediction cannot be validated, falsified, or partially validated due to the absence of relevant signals.",
+      "validated_at": "2026-09-05T22:00:38.812781+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including articles from BBC World and ABC Australia, which focus on unrelated topics such as the Lindsay Clancy trial, Russia-Ukraine conflict, basketball, and sports. None of these signals pertain to the Ebola vaccine trial or related developments in DR Congo."
+      ]
     },
     {
       "id": "198a3d27219dcdda",
@@ -1738,5 +1767,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-04T22:17:09.775419+00:00"
+  "last_updated": "2026-09-05T22:00:36.475114+00:00"
 }
