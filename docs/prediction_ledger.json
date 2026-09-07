@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "ed7fe71977f98f2c",
+      "created_at": "2026-09-08",
+      "root_cause": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "prediction": "Momentum around The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs' is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-22",
+      "falsification": "Signals tied to The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs' fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "cd715d52472bd5a7",
       "created_at": "2026-09-07",
       "root_cause": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -178,9 +191,15 @@
       "maturity_date": "2026-09-08",
       "falsification": "Signals tied to UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals directly tied to UK PM Burnham's support for Ukraine or related momentum. The available evidence does not indicate sustained or compounded momentum around the prediction's root cause.",
+      "validated_at": "2026-09-07T22:43:14.299769+00:00",
+      "evidence_used": [
+        "BBC World: Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+        "BBC World: Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+        "Al Jazeera: Russia shutters German consulate as diplomatic freeze deepens",
+        "Other articles unrelated to the prediction's root cause"
+      ]
     },
     {
       "id": "fc344cd755dfc39d",
@@ -1803,5 +1822,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-06T22:03:05.143902+00:00"
+  "last_updated": "2026-09-07T22:43:12.627570+00:00"
 }
