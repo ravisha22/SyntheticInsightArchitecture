@@ -178,9 +178,19 @@
       "maturity_date": "2026-09-10",
       "falsification": "Signals tied to Trump says all mines cleared from Strait of Hormuz fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence directly related to the claim that 'Trump says all mines cleared from Strait of Hormuz.' The available signals focus on unrelated geopolitical and domestic issues, indicating that the prediction's momentum did not materialize or sustain within the specified timeframe.",
+      "validated_at": "2026-09-09T22:25:17.633985+00:00",
+      "evidence_used": [
+        "Al Jazeera: Trump says Putin wants to make a deal to end Ukraine war",
+        "ABC Australia: Lynagh makes timely return after Wallabies fly half Gordon breaks leg",
+        "ABC Australia: Football league says Swans scandal comments 'clearly insensitive'",
+        "BBC World: N Korea has built two-storey uranium enrichment facility, says watchdog",
+        "BBC World: White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+        "Al Jazeera: Trump says Iran war ‘will end immediately’ after US midterm elections",
+        "Al Jazeera: Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
+        "Al Jazeera: Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says"
+      ]
     },
     {
       "id": "1cb2beadb4c1ade7",
@@ -1822,5 +1832,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-08T22:30:48.196262+00:00"
+  "last_updated": "2026-09-09T22:25:14.362492+00:00"
 }
