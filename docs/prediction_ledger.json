@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "18aa81150f9cec42",
+      "created_at": "2026-09-12",
+      "root_cause": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "prediction": "Momentum around Anthropic blocks possible attempt to use AI to make biological weapons is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-26",
+      "falsification": "Signals tied to Anthropic blocks possible attempt to use AI to make biological weapons fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "ed7fe71977f98f2c",
       "created_at": "2026-09-08",
       "root_cause": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
@@ -1832,5 +1845,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-10T22:24:30.770546+00:00"
+  "last_updated": "2026-09-11T22:24:10.056196+00:00"
 }
