@@ -1,35 +1,91 @@
 {
-  "report_date": "2026-09-11",
-  "generated_at": "2026-09-10T22:24:30.772036+00:00",
+  "report_date": "2026-09-12",
+  "generated_at": "2026-09-11T22:24:10.057325+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "body": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "body": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:15:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:17:45 GMT"
     },
     {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "body": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "body": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:48:37 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 16:00:59 GMT"
     },
     {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "body": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "body": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:31:30 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:50:23 GMT"
     },
     {
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "body": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "body": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:54:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:04:46 GMT"
+    },
+    {
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "body": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 10:50:04 GMT"
+    },
+    {
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "body": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:15:25 GMT"
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "body": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 17:32:44 GMT"
+    },
+    {
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "body": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:33:15 GMT"
+    },
+    {
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "body": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 21:07:19 GMT"
+    },
+    {
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "body": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:54:20 GMT"
+    },
+    {
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "body": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:28:42 GMT"
+    },
+    {
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "body": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 07:59:26 GMT"
     },
     {
       "title": "More than 20 children killed in DR Congo school fire",
@@ -39,67 +95,46 @@
       "published": "Thu, 10 Sep 2026 19:16:24 GMT"
     },
     {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "body": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "body": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 20:10:51 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
-      "title": "Coach crash kills several people in Swiss Alps",
-      "body": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "body": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 20:44:51 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 00:27:20 GMT"
     },
     {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "body": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "body": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:12:40 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:53:06 GMT"
     },
     {
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "body": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "body": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:32:34 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 09:38:23 GMT"
     },
     {
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "body": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "body": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 12:24:54 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 23:22:11 GMT"
     },
     {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "body": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "body": "Analysts question if the US president's election year offer is workable, legal or affordable.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:43:53 GMT"
-    },
-    {
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "body": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:23:45 GMT"
-    },
-    {
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "body": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 17:13:53 GMT"
-    },
-    {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "body": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 04:43:54 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:48:37 GMT"
     },
     {
       "title": "Four key takeaways from Republican midterms convention",
@@ -107,41 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 04:07:44 GMT"
-    },
-    {
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-      "body": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:35:46 GMT"
-    },
-    {
-      "title": "Why some experts increasingly fear AI will take over",
-      "body": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:17:33 GMT"
-    },
-    {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "body": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:12:32 GMT"
-    },
-    {
-      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
-      "body": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:17:22 GMT"
-    },
-    {
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
-      "body": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 01:37:31 GMT"
     }
   ],
   "signals": [
@@ -149,44 +149,124 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "body": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "body": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 18:15:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 22:17:45 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "body": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "body": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:48:37 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 16:00:59 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "body": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "body": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 16:31:30 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:50:23 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "body": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "body": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 15:54:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:04:46 GMT"
     },
     {
       "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "body": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 10:50:04 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "body": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:15:25 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "body": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 17:32:44 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "body": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:33:15 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "body": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 21:07:19 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "body": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 08:54:20 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "body": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 06:28:42 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "body": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 07:59:26 GMT"
+    },
+    {
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "More than 20 children killed in DR Congo school fire",
@@ -196,97 +276,67 @@
       "published": "Thu, 10 Sep 2026 19:16:24 GMT"
     },
     {
-      "number": 6,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "body": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 20:10:51 GMT"
-    },
-    {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Coach crash kills several people in Swiss Alps",
-      "body": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 20:44:51 GMT"
-    },
-    {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "body": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 13:12:40 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "body": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:32:34 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "body": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 12:24:54 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "body": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:43:53 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "body": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 21:23:45 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "body": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 17:13:53 GMT"
-    },
-    {
       "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "body": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "body": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 04:43:54 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
       "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "body": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 00:27:20 GMT"
+    },
+    {
+      "number": 16,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "body": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 05:53:06 GMT"
+    },
+    {
+      "number": 17,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "body": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 09:38:23 GMT"
+    },
+    {
+      "number": 18,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "body": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 23:22:11 GMT"
+    },
+    {
+      "number": 19,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "body": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:48:37 GMT"
+    },
+    {
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Four key takeaways from Republican midterms convention",
@@ -294,94 +344,152 @@
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 04:07:44 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-      "body": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 09:35:46 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Why some experts increasingly fear AI will take over",
-      "body": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:17:33 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "body": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:12:32 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
-      "body": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:17:22 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
-      "body": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 01:37:31 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.8545510371379326,
-      "contest_score": 2.3984093617269857,
+      "priority_score": 3.8109898755190907,
+      "contest_score": 1.695193279591301,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.257591335232728,
+      "contestedness": 0.07480538899222422,
+      "impact": 0.765,
+      "top_clusters": {
+        "survival_focused": 1.3997170862728652,
+        "stability_seeking": 1.3511458765912376
+      },
+      "bottom_clusters": {
+        "expression_oriented": 1.078914712404157
+      },
+      "cluster_means": {
+        "survival_focused": 1.3997170862728652,
+        "stability_seeking": 1.3511458765912376,
+        "achievement_oriented": 1.1937839149301834,
+        "care_oriented": 1.3272449153555548,
+        "knowledge_oriented": 1.1289850001856225,
+        "governance_oriented": 1.324911697280641,
+        "sovereignty_order_oriented": 1.3334637341415962,
+        "expression_oriented": 1.078914712404157,
+        "ecosystem_oriented": 1.1801550799326936
+      },
+      "priority_raw": 0.8658516343077332,
+      "contest_raw": 0.057226122579051526
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.808544939698678,
+      "contest_score": -0.30233601457755027,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6889939352441298,
-      "contestedness": 0.13614916515950182,
-      "impact": 0.6550000000000001,
+      "central_tendency": 0.7406124547639483,
+      "contestedness": 0.03721162676982137,
+      "impact": 0.685,
       "top_clusters": {
-        "expression_oriented": 0.8757106001423943,
-        "care_oriented": 0.8405621470777862
+        "achievement_oriented": 0.8170277918708908,
+        "survival_focused": 0.7936046265914232
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.47050671499009344
+        "ecosystem_oriented": 0.657334852405484
       },
       "cluster_means": {
-        "survival_focused": 0.5432490026955913,
-        "stability_seeking": 0.5979769887906107,
-        "achievement_oriented": 0.5229701169449439,
-        "care_oriented": 0.8405621470777862,
-        "knowledge_oriented": 0.8062089585917851,
-        "governance_oriented": 0.7341261539501125,
-        "sovereignty_order_oriented": 0.47050671499009344,
-        "expression_oriented": 0.8757106001423943,
-        "ecosystem_oriented": 0.8096347340138516
+        "survival_focused": 0.7936046265914232,
+        "stability_seeking": 0.7782920581059085,
+        "achievement_oriented": 0.8170277918708908,
+        "care_oriented": 0.7130663942161537,
+        "knowledge_oriented": 0.7513957151476824,
+        "governance_oriented": 0.6715242305441919,
+        "sovereignty_order_oriented": 0.7329884030078258,
+        "expression_oriented": 0.7502780209859751,
+        "ecosystem_oriented": 0.657334852405484
       },
-      "priority_raw": 0.27077461655094304,
-      "contest_raw": 0.08917770317947371
+      "priority_raw": 0.3043917189079828,
+      "contest_raw": 0.025489964337327642
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.7599179074528837,
+      "contest_score": -0.14932515110447367,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7150082807469214,
+      "contestedness": 0.0473236541658576,
+      "impact": 0.59,
+      "top_clusters": {
+        "knowledge_oriented": 0.7862970755096697,
+        "expression_oriented": 0.7830584617139632
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.6374050641000841
+      },
+      "cluster_means": {
+        "survival_focused": 0.6766135629108952,
+        "stability_seeking": 0.7051965146587165,
+        "achievement_oriented": 0.6374050641000841,
+        "care_oriented": 0.7239372170767528,
+        "knowledge_oriented": 0.7862970755096697,
+        "governance_oriented": 0.7372106482832879,
+        "sovereignty_order_oriented": 0.6556943878576724,
+        "expression_oriented": 0.7830584617139632,
+        "ecosystem_oriented": 0.729661594611251
+      },
+      "priority_raw": 0.2952984199484785,
+      "contest_raw": 0.027920955957855983
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.5276814404228962,
+      "contest_score": -0.7746430523536346,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7846417159252979,
+      "contestedness": 0.03361885786584884,
+      "impact": 0.535,
+      "top_clusters": {
+        "knowledge_oriented": 0.8420502499934676,
+        "expression_oriented": 0.8284981565965901
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.717974454694548
+      },
+      "cluster_means": {
+        "survival_focused": 0.7520912178215805,
+        "stability_seeking": 0.7948792987307413,
+        "achievement_oriented": 0.7645117571649944,
+        "care_oriented": 0.8165814647782433,
+        "knowledge_oriented": 0.8420502499934676,
+        "governance_oriented": 0.8235058828057935,
+        "sovereignty_order_oriented": 0.7216829607417212,
+        "expression_oriented": 0.8284981565965901,
+        "ecosystem_oriented": 0.717974454694548
+      },
+      "priority_raw": 0.2518699908120206,
+      "contest_raw": 0.01798608895822913
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
@@ -390,286 +498,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.7530892799841833,
-      "contest_score": -0.7479347457462343,
+      "priority_score": 0.43235709558811786,
+      "contest_score": -0.915451766908547,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6789730636789271,
-      "contestedness": 0.04083768061586601,
-      "impact": 0.6,
+      "central_tendency": 0.6965602744408915,
+      "contestedness": 0.028123145522907178,
+      "impact": 0.56,
       "top_clusters": {
-        "achievement_oriented": 0.749569007337449,
-        "care_oriented": 0.7334062251880382
+        "achievement_oriented": 0.7573553869587664,
+        "care_oriented": 0.7471895799316903
       },
       "bottom_clusters": {
-        "knowledge_oriented": 0.6266365176778419
+        "knowledge_oriented": 0.6512045141490681
       },
       "cluster_means": {
-        "survival_focused": 0.711270145870854,
-        "stability_seeking": 0.670432465254988,
-        "achievement_oriented": 0.749569007337449,
-        "care_oriented": 0.7334062251880382,
-        "knowledge_oriented": 0.6266365176778419,
-        "governance_oriented": 0.6574566135153477,
-        "sovereignty_order_oriented": 0.6802652333703681,
-        "expression_oriented": 0.6274705427630562,
-        "ecosystem_oriented": 0.6542508221324006
+        "survival_focused": 0.7308857479059021,
+        "stability_seeking": 0.699429677525137,
+        "achievement_oriented": 0.7573553869587664,
+        "care_oriented": 0.7471895799316903,
+        "knowledge_oriented": 0.6512045141490681,
+        "governance_oriented": 0.6802662342985455,
+        "sovereignty_order_oriented": 0.6842645973020034,
+        "expression_oriented": 0.6561414517790962,
+        "ecosystem_oriented": 0.6623052801178139
       },
-      "priority_raw": 0.20369191910367812,
-      "contest_raw": 0.024502608369519608
+      "priority_raw": 0.23404425221213956,
+      "contest_raw": 0.01574896149282802
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.2377570147694459,
-      "contest_score": 0.119470047586088,
+      "priority_score": 0.3136310712843215,
+      "contest_score": 0.8633302791327558,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3326379615570849,
-      "contestedness": 0.057206301319069786,
-      "impact": 0.74,
-      "top_clusters": {
-        "expression_oriented": 0.5294372945991349,
-        "knowledge_oriented": 0.47137911598644733
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.2089716635756219
-      },
-      "cluster_means": {
-        "survival_focused": 0.2089716635756219,
-        "stability_seeking": 0.2593349395292176,
-        "achievement_oriented": 0.30847530548642643,
-        "care_oriented": 0.3262391085458204,
-        "knowledge_oriented": 0.47137911598644733,
-        "governance_oriented": 0.30933525629961844,
-        "sovereignty_order_oriented": 0.21402741237278897,
-        "expression_oriented": 0.5294372945991349,
-        "ecosystem_oriented": 0.36654155761868823
-      },
-      "priority_raw": 0.17230646408656997,
-      "contest_raw": 0.04233266297611164
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.571559421021066,
-      "contest_score": -1.1669852606794688,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6199190917955038,
-      "contestedness": 0.037385317106105154,
-      "impact": 0.42500000000000004,
-      "top_clusters": {
-        "achievement_oriented": 0.7114136097019514,
-        "knowledge_oriented": 0.6673779855389047
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.5269564612335715
-      },
-      "cluster_means": {
-        "survival_focused": 0.5966609476081322,
-        "stability_seeking": 0.6448850596328943,
-        "achievement_oriented": 0.7114136097019514,
-        "care_oriented": 0.5840180311850199,
-        "knowledge_oriented": 0.6673779855389047,
-        "governance_oriented": 0.6214033482911251,
-        "sovereignty_order_oriented": 0.578630142418744,
-        "expression_oriented": 0.6479262405491906,
-        "ecosystem_oriented": 0.5269564612335715
-      },
-      "priority_raw": 0.13173280700654455,
-      "contest_raw": 0.01588875977009469
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5042534769093348,
-      "contest_score": 0.722798814538199,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2594179885319751,
-      "contestedness": 0.0667493508494573,
+      "central_tendency": 0.43057393985880643,
+      "contestedness": 0.05367039970510046,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.4511079276067497,
-        "knowledge_oriented": 0.3997902661383579
+        "knowledge_oriented": 0.5230831061692195,
+        "achievement_oriented": 0.5171873742447034
       },
       "bottom_clusters": {
-        "survival_focused": 0.1257659372945188
+        "survival_focused": 0.338915359721452
       },
       "cluster_means": {
-        "survival_focused": 0.1257659372945188,
-        "stability_seeking": 0.17161182813769182,
-        "achievement_oriented": 0.29896785127826253,
-        "care_oriented": 0.23221850042880524,
-        "knowledge_oriented": 0.3997902661383579,
-        "governance_oriented": 0.2008393394422261,
-        "sovereignty_order_oriented": 0.1574719647326949,
-        "expression_oriented": 0.4511079276067497,
-        "ecosystem_oriented": 0.29698828172846886
+        "survival_focused": 0.338915359721452,
+        "stability_seeking": 0.3740486363210586,
+        "achievement_oriented": 0.5171873742447034,
+        "care_oriented": 0.3638101697093151,
+        "knowledge_oriented": 0.5230831061692195,
+        "governance_oriented": 0.4174805694144156,
+        "sovereignty_order_oriented": 0.4165568315779344,
+        "expression_oriented": 0.5010714671023226,
+        "ecosystem_oriented": 0.4230119444688361
       },
-      "priority_raw": 0.12763365035773178,
-      "contest_raw": 0.05473446769655499
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "title": "Coach crash kills several people in Swiss Alps",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.31138736387194793,
-      "contest_score": -0.35294221940475934,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.25083865872115596,
-      "contestedness": 0.049427166339984646,
-      "impact": 0.6600000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.42225518157326125,
-        "knowledge_oriented": 0.36755636238256295
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.15009003896968987
-      },
-      "cluster_means": {
-        "survival_focused": 0.15009003896968987,
-        "stability_seeking": 0.20725041545536427,
-        "achievement_oriented": 0.2129111555449668,
-        "care_oriented": 0.21280830756553004,
-        "knowledge_oriented": 0.36755636238256295,
-        "governance_oriented": 0.24016981355994696,
-        "sovereignty_order_oriented": 0.16348398920498217,
-        "expression_oriented": 0.42225518157326125,
-        "ecosystem_oriented": 0.28102266423409955
-      },
-      "priority_raw": 0.11588746032917407,
-      "contest_raw": 0.03262192978438987
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.22962210616312625,
-      "contest_score": -1.0740300858704641,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.606052913772111,
-      "contestedness": 0.02917952824631076,
-      "impact": 0.61,
-      "top_clusters": {
-        "achievement_oriented": 0.6886319136033496,
-        "care_oriented": 0.6492771162227826
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.5482938619768597
-      },
-      "cluster_means": {
-        "survival_focused": 0.6362191087708082,
-        "stability_seeking": 0.5967488031655476,
-        "achievement_oriented": 0.6886319136033496,
-        "care_oriented": 0.6492771162227826,
-        "knowledge_oriented": 0.5739836847649749,
-        "governance_oriented": 0.5482938619768597,
-        "sovereignty_order_oriented": 0.6102082127147384,
-        "expression_oriented": 0.5675692749192368,
-        "ecosystem_oriented": 0.5835442478107008
-      },
-      "priority_raw": 0.1109076832202963,
-      "contest_raw": 0.017799512230249562
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.12039583104657185,
-      "contest_score": -0.2599513987529115,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.21429689309858882,
-      "contestedness": 0.04968836685958089,
-      "impact": 0.695,
-      "top_clusters": {
-        "expression_oriented": 0.4107990043400579,
-        "knowledge_oriented": 0.35433387841204667
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.08154213993261561
-      },
-      "cluster_means": {
-        "survival_focused": 0.08154213993261561,
-        "stability_seeking": 0.15813917952564444,
-        "achievement_oriented": 0.22930577557414525,
-        "care_oriented": 0.20782754638522533,
-        "knowledge_oriented": 0.35433387841204667,
-        "governance_oriented": 0.17613887309036405,
-        "sovereignty_order_oriented": 0.08673399805445917,
-        "expression_oriented": 0.4107990043400579,
-        "ecosystem_oriented": 0.22385164257274143
-      },
-      "priority_raw": 0.10425543849246345,
-      "contest_raw": 0.034533414967408714
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.04622480312447489,
-      "contest_score": 1.6225950694174376,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.24603316530324248,
-      "contestedness": 0.09572594679673535,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.43691061483244936,
-        "knowledge_oriented": 0.37383425342010557
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.13213439769678734
-      },
-      "cluster_means": {
-        "survival_focused": 0.13213439769678734,
-        "stability_seeking": 0.15098703547272582,
-        "achievement_oriented": 0.24868694616908638,
-        "care_oriented": 0.24671298226946117,
-        "knowledge_oriented": 0.37383425342010557,
-        "governance_oriented": 0.17886234119352246,
-        "sovereignty_order_oriented": 0.1368323899987531,
-        "expression_oriented": 0.43691061483244936,
-        "ecosystem_oriented": 0.30933752667629105
-      },
-      "priority_raw": 0.09410768572849025,
-      "contest_raw": 0.07323034929950255
+      "priority_raw": 0.21184237841053277,
+      "contest_raw": 0.044009727758182376
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
@@ -678,152 +570,224 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.1486762121300194,
-      "contest_score": -1.2180652964134522,
+      "priority_score": -0.11602906285942208,
+      "contest_score": -0.7592548848055903,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4506053997939893,
-      "contestedness": 0.03804814692612596,
-      "impact": 0.39,
+      "central_tendency": 0.5367165109051005,
+      "contestedness": 0.03720524824653326,
+      "impact": 0.49,
       "top_clusters": {
-        "achievement_oriented": 0.5322196172682107,
-        "knowledge_oriented": 0.49589963082585475
+        "achievement_oriented": 0.6222196172682106,
+        "knowledge_oriented": 0.5808996308258547
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.3841402585214101
+        "ecosystem_oriented": 0.4741402585214101
       },
       "cluster_means": {
-        "survival_focused": 0.4213303756557967,
-        "stability_seeking": 0.4708974260151526,
-        "achievement_oriented": 0.5322196172682107,
-        "care_oriented": 0.42369217776861945,
-        "knowledge_oriented": 0.49589963082585475,
-        "governance_oriented": 0.43284927908902665,
-        "sovereignty_order_oriented": 0.40161834181388656,
-        "expression_oriented": 0.49280149118794625,
-        "ecosystem_oriented": 0.3841402585214101
+        "survival_focused": 0.5113303756557966,
+        "stability_seeking": 0.5508974260151527,
+        "achievement_oriented": 0.6222196172682106,
+        "care_oriented": 0.5136921777686194,
+        "knowledge_oriented": 0.5808996308258547,
+        "governance_oriented": 0.5078492790890266,
+        "sovereignty_order_oriented": 0.49161834181388653,
+        "expression_oriented": 0.5778014911879463,
+        "ecosystem_oriented": 0.4741402585214101
       },
-      "priority_raw": 0.08786805295982791,
-      "contest_raw": 0.014838777301189125
+      "priority_raw": 0.13149554517174963,
+      "contest_raw": 0.0182305716408013
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.16785073619273927,
-      "contest_score": 0.7917064701925371,
+      "priority_score": -0.11616644792996304,
+      "contest_score": -0.3532888288784063,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.22230836011300692,
-      "contestedness": 0.07198834381802816,
-      "impact": 0.78,
+      "central_tendency": 0.2664029463818544,
+      "contestedness": 0.03500771773270639,
+      "impact": 0.705,
       "top_clusters": {
-        "expression_oriented": 0.3871883433343342,
-        "knowledge_oriented": 0.3297769130145717
+        "expression_oriented": 0.3865828216876443,
+        "knowledge_oriented": 0.3549810341800676
       },
       "bottom_clusters": {
-        "survival_focused": 0.11470173116384541
+        "survival_focused": 0.18865614638787545
       },
       "cluster_means": {
-        "survival_focused": 0.11470173116384541,
-        "stability_seeking": 0.14496170443017908,
-        "achievement_oriented": 0.21322242036630373,
-        "care_oriented": 0.2286398116917708,
-        "knowledge_oriented": 0.3297769130145717,
-        "governance_oriented": 0.16875831778984215,
-        "sovereignty_order_oriented": 0.12831523504188325,
-        "expression_oriented": 0.3871883433343342,
-        "ecosystem_oriented": 0.2852107641843319
+        "survival_focused": 0.18865614638787545,
+        "stability_seeking": 0.22338109693197017,
+        "achievement_oriented": 0.2726685469796478,
+        "care_oriented": 0.25028432916458077,
+        "knowledge_oriented": 0.3549810341800676,
+        "governance_oriented": 0.25927414085110845,
+        "sovereignty_order_oriented": 0.20340958658911856,
+        "expression_oriented": 0.3865828216876443,
+        "ecosystem_oriented": 0.25838881466467656
       },
-      "priority_raw": 0.0867002604440727,
-      "contest_raw": 0.05615090817806196
+      "priority_raw": 0.13146985403944514,
+      "contest_raw": 0.024680441001558005
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.34768354372093385,
-      "contest_score": -0.49836773723208844,
+      "priority_score": -0.2726932018206693,
+      "contest_score": 0.2248312742366005,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.25461459570865974,
-      "contestedness": 0.04980271631767294,
-      "impact": 0.595,
+      "central_tendency": 0.25048825896078564,
+      "contestedness": 0.04980212243891974,
+      "impact": 0.68,
       "top_clusters": {
-        "expression_oriented": 0.44141865237695244,
-        "knowledge_oriented": 0.38662209457410557
+        "expression_oriented": 0.4283381380453496,
+        "knowledge_oriented": 0.3670446672050565
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.15808763540441478
+        "survival_focused": 0.1429315600855123
       },
       "cluster_means": {
-        "survival_focused": 0.18484242107645585,
-        "stability_seeking": 0.2083076929181941,
-        "achievement_oriented": 0.2866376603590604,
-        "care_oriented": 0.21374180194319398,
-        "knowledge_oriented": 0.38662209457410557,
-        "governance_oriented": 0.16393908562552104,
-        "sovereignty_order_oriented": 0.15808763540441478,
-        "expression_oriented": 0.44141865237695244,
-        "ecosystem_oriented": 0.24793431710003913
+        "survival_focused": 0.1429315600855123,
+        "stability_seeking": 0.19187217011888583,
+        "achievement_oriented": 0.197993983369109,
+        "care_oriented": 0.24413226423081483,
+        "knowledge_oriented": 0.3670446672050565,
+        "governance_oriented": 0.2403661256693182,
+        "sovereignty_order_oriented": 0.15154717381478627,
+        "expression_oriented": 0.4283381380453496,
+        "ecosystem_oriented": 0.29016824810823794
       },
-      "priority_raw": 0.07574784222332627,
-      "contest_raw": 0.0296326162090154
+      "priority_raw": 0.10219920965600053,
+      "contest_raw": 0.033865443258465425
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.46194162928921145,
-      "contest_score": -1.1702493823102282,
+      "priority_score": -0.3516611741705912,
+      "contest_score": 1.622114000103426,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2779359331067035,
-      "contestedness": 0.03196295693684592,
-      "impact": 0.495,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.17934795381968024,
+      "contestedness": 0.0690031513459434,
+      "impact": 0.8125,
       "top_clusters": {
-        "expression_oriented": 0.36564285669328345,
-        "knowledge_oriented": 0.3461836593773868
+        "expression_oriented": 0.3603221500897023,
+        "knowledge_oriented": 0.2994534815218376
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.22300992958099797
+        "survival_focused": 0.04370890510510442
       },
       "cluster_means": {
-        "survival_focused": 0.23659372945188206,
-        "stability_seeking": 0.26902512498798886,
-        "achievement_oriented": 0.2629688843138942,
-        "care_oriented": 0.29534007600120993,
-        "knowledge_oriented": 0.3461836593773868,
-        "governance_oriented": 0.268556686388728,
-        "sovereignty_order_oriented": 0.22300992958099797,
-        "expression_oriented": 0.36564285669328345,
-        "ecosystem_oriented": 0.23410245116496076
+        "survival_focused": 0.04370890510510442,
+        "stability_seeking": 0.08280917802072371,
+        "achievement_oriented": 0.1420022268011721,
+        "care_oriented": 0.21001762708549196,
+        "knowledge_oriented": 0.2994534815218376,
+        "governance_oriented": 0.14429358494921823,
+        "sovereignty_order_oriented": 0.07529043360327484,
+        "expression_oriented": 0.3603221500897023,
+        "ecosystem_oriented": 0.24611908760039328
       },
-      "priority_raw": 0.06878914344390911,
-      "contest_raw": 0.015821663683738732
+      "priority_raw": 0.08743212748709413,
+      "contest_raw": 0.05606506046857901
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6451902685077251,
-      "contest_score": 1.007540268908631,
+      "priority_score": -0.3707821806428319,
+      "contest_score": -0.6421960649145616,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3553240762835387,
+      "contestedness": 0.034051470781672144,
+      "impact": 0.59,
+      "top_clusters": {
+        "expression_oriented": 0.4519351457952508,
+        "knowledge_oriented": 0.42545928638967745
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.2979789615619771
+      },
+      "cluster_means": {
+        "survival_focused": 0.3099706949648329,
+        "stability_seeking": 0.33203043234364926,
+        "achievement_oriented": 0.36724929744878587,
+        "care_oriented": 0.37334365176904794,
+        "knowledge_oriented": 0.42545928638967745,
+        "governance_oriented": 0.31464778525829096,
+        "sovereignty_order_oriented": 0.2979789615619771,
+        "expression_oriented": 0.4519351457952508,
+        "ecosystem_oriented": 0.3253014310203354
+      },
+      "priority_raw": 0.08385648200291512,
+      "contest_raw": 0.020090367761186563
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.49408971437124016,
+      "contest_score": 0.4214819039570164,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.1412261598141269,
+      "contestedness": 0.060145968547963086,
+      "impact": 0.615,
+      "top_clusters": {
+        "expression_oriented": 0.31507611788850043,
+        "knowledge_oriented": 0.27123185692043217
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.0030002263309816535
+      },
+      "cluster_means": {
+        "survival_focused": 0.0030002263309816535,
+        "stability_seeking": 0.08838326211549549,
+        "achievement_oriented": 0.14852923066345858,
+        "care_oriented": 0.06237459638113592,
+        "knowledge_oriented": 0.27123185692043217,
+        "governance_oriented": 0.08297198575911269,
+        "sovereignty_order_oriented": 0.03673238485094585,
+        "expression_oriented": 0.31507611788850043,
+        "ecosystem_oriented": 0.15413174870869978
+      },
+      "priority_raw": 0.060797861799981624,
+      "contest_raw": 0.036989770656997295
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5110370770335247,
+      "contest_score": 1.9067647895383366,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.8333333333333334,
@@ -852,40 +816,40 @@
       "contest_raw": 0.06058750853655429
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7202643642097117,
-      "contest_score": -0.4901351854507983,
+      "priority_score": -0.554637791819494,
+      "contest_score": 1.2763651006002097,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8611111111111112,
-      "central_tendency": 0.12324373208569457,
-      "contestedness": 0.048458278897890894,
-      "impact": 0.615,
+      "sign_agreement": 0.6666666666666666,
+      "central_tendency": 0.10055958662230621,
+      "contestedness": 0.061673053156027835,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.2888013194433182,
-        "knowledge_oriented": 0.23689138445536873
+        "expression_oriented": 0.2280566642584812,
+        "knowledge_oriented": 0.18231762371751356
       },
       "bottom_clusters": {
-        "survival_focused": 0.005535723288385308
+        "survival_focused": -0.057758711865643075
       },
       "cluster_means": {
-        "survival_focused": 0.005535723288385308,
-        "stability_seeking": 0.07751687255759979,
-        "achievement_oriented": 0.10308358493682775,
-        "care_oriented": 0.06073047847804586,
-        "knowledge_oriented": 0.23689138445536873,
-        "governance_oriented": 0.06947325346182115,
-        "sovereignty_order_oriented": 0.029058593659708892,
-        "expression_oriented": 0.2888013194433182,
-        "ecosystem_oriented": 0.14199834978179632
+        "survival_focused": -0.057758711865643075,
+        "stability_seeking": -0.013394330315328412,
+        "achievement_oriented": 0.06952280493755819,
+        "care_oriented": 0.05749950286498123,
+        "knowledge_oriented": 0.18231762371751356,
+        "governance_oriented": 0.02975203767927906,
+        "sovereignty_order_oriented": 0.0030122805224697957,
+        "expression_oriented": 0.2280566642584812,
+        "ecosystem_oriented": 0.11917255602100907
       },
-      "priority_raw": 0.05305642666289151,
-      "contest_raw": 0.029801841522202898
+      "priority_raw": 0.049475316618174656,
+      "contest_raw": 0.05057190358794283
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
@@ -894,8 +858,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8295192904420019,
-      "contest_score": 0.0440109641561094,
+      "priority_score": -0.5710702238338092,
+      "contest_score": 0.6601433621831752,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.8055555555555556,
@@ -924,186 +888,330 @@
       "contest_raw": 0.040781553749528854
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9234472593917565,
-      "contest_score": 1.0845430944246999,
+      "priority_score": -0.606172019719112,
+      "contest_score": -0.7440222597896187,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.7222222222222222,
-      "central_tendency": 0.10635793507602348,
-      "contestedness": 0.0812684318417353,
-      "impact": 0.765,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.10347628427286228,
+      "contestedness": 0.03358651474426623,
+      "impact": 0.55,
       "top_clusters": {
-        "expression_oriented": 0.2515729255251113,
-        "knowledge_oriented": 0.19271413875091847
+        "expression_oriented": 0.26171881156746724,
+        "knowledge_oriented": 0.20120492403867823
       },
       "bottom_clusters": {
-        "survival_focused": 0.0023251056836966766
+        "sovereignty_order_oriented": -0.00210415469731301
       },
       "cluster_means": {
-        "survival_focused": 0.0023251056836966766,
-        "stability_seeking": 0.009465310326961823,
-        "achievement_oriented": 0.09073374216869712,
-        "care_oriented": 0.09174314496401495,
-        "knowledge_oriented": 0.19271413875091847,
-        "governance_oriented": 0.02427923150813749,
-        "sovereignty_order_oriented": 0.008310761213140089,
-        "expression_oriented": 0.2515729255251113,
-        "ecosystem_oriented": 0.12252507711508645
+        "survival_focused": 0.014851989191891124,
+        "stability_seeking": 0.06754865669186343,
+        "achievement_oriented": 0.03794038799947018,
+        "care_oriented": 0.09324641192281372,
+        "knowledge_oriented": 0.20120492403867823,
+        "governance_oriented": 0.04853813972578118,
+        "sovereignty_order_oriented": -0.00210415469731301,
+        "expression_oriented": 0.26171881156746724,
+        "ecosystem_oriented": 0.10113517143612966
       },
-      "priority_raw": 0.04068191016657898,
-      "contest_raw": 0.0621703503589275
+      "priority_raw": 0.03983836944505197,
+      "contest_raw": 0.01847258310934643
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "signal_id": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9793085301644843,
-      "contest_score": -1.2357333064149485,
+      "priority_score": -0.6280800686721312,
+      "contest_score": -1.0904889980527535,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.22593801408429645,
-      "contestedness": 0.026319273039100394,
-      "impact": 0.55,
+      "central_tendency": 0.3665799435811296,
+      "contestedness": 0.039901604361554044,
+      "impact": 0.325,
       "top_clusters": {
-        "expression_oriented": 0.3191691872736249,
-        "knowledge_oriented": 0.2913421137528886
+        "expression_oriented": 0.5319441701951396,
+        "knowledge_oriented": 0.5023960986178179
       },
       "bottom_clusters": {
-        "governance_oriented": 0.13779549673332347
+        "sovereignty_order_oriented": 0.2648023373648879
       },
       "cluster_means": {
-        "survival_focused": 0.19497691102188974,
-        "stability_seeking": 0.17835953517129918,
-        "achievement_oriented": 0.288219234702352,
-        "care_oriented": 0.20467880821039958,
-        "knowledge_oriented": 0.2913421137528886,
-        "governance_oriented": 0.13779549673332347,
-        "sovereignty_order_oriented": 0.18983876698438204,
-        "expression_oriented": 0.3191691872736249,
-        "ecosystem_oriented": 0.22906207290850875
+        "survival_focused": 0.2898429466792096,
+        "stability_seeking": 0.3528420367658896,
+        "achievement_oriented": 0.30366346553242735,
+        "care_oriented": 0.3435650698939814,
+        "knowledge_oriented": 0.5023960986178179,
+        "governance_oriented": 0.3412440348330161,
+        "sovereignty_order_oriented": 0.2648023373648879,
+        "expression_oriented": 0.5319441701951396,
+        "ecosystem_oriented": 0.36891933234779706
       },
-      "priority_raw": 0.037279772323908916,
-      "contest_raw": 0.014475600171505218
+      "priority_raw": 0.03574154449916014,
+      "contest_raw": 0.012968021417505065
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "title": "Why some experts increasingly fear AI will take over",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -1.103589123092771,
-      "contest_score": 0.33942619644015143,
+      "priority_score": -0.6542906420097093,
+      "contest_score": -0.3853832337392891,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.75,
-      "central_tendency": 0.09522650446585394,
-      "contestedness": 0.060069231860508415,
-      "impact": 0.78,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3115166020855138,
+      "contestedness": 0.04882936268978588,
+      "impact": 0.49500000000000005,
       "top_clusters": {
-        "expression_oriented": 0.18824930934561607,
-        "knowledge_oriented": 0.14214914311242918
+        "expression_oriented": 0.4376005701945531,
+        "knowledge_oriented": 0.3983517115812027
       },
       "bottom_clusters": {
-        "stability_seeking": -0.016344280185720206
+        "governance_oriented": 0.18827530324481023
       },
       "cluster_means": {
-        "survival_focused": -0.007663907609762571,
-        "stability_seeking": -0.016344280185720206,
-        "achievement_oriented": 0.1163549172696706,
-        "care_oriented": 0.08512090009565645,
-        "knowledge_oriented": 0.14214914311242918,
-        "governance_oriented": 0.007797472318461118,
-        "sovereignty_order_oriented": 0.02505166823514804,
-        "expression_oriented": 0.18824930934561607,
-        "ecosystem_oriented": 0.13383280909600306
+        "survival_focused": 0.30598267870761797,
+        "stability_seeking": 0.2850403859754137,
+        "achievement_oriented": 0.31623315831525844,
+        "care_oriented": 0.232154018210676,
+        "knowledge_oriented": 0.3983517115812027,
+        "governance_oriented": 0.18827530324481023,
+        "sovereignty_order_oriented": 0.2851995511426882,
+        "expression_oriented": 0.4376005701945531,
+        "ecosystem_oriented": 0.35481204139740385
       },
-      "priority_raw": 0.02971066939334643,
-      "contest_raw": 0.046854000851196564
+      "priority_raw": 0.03084014360646587,
+      "contest_raw": 0.024170534531444014
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -1.2089197706377801,
-      "contest_score": 0.08389433088451861,
+      "priority_score": -0.6822814292930752,
+      "contest_score": -1.316076446025465,
       "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.7222222222222222,
-      "central_tendency": 0.09029333871072474,
-      "contestedness": 0.06449826604553976,
-      "impact": 0.645,
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4572471624583642,
+      "contestedness": 0.03351412270252707,
+      "impact": 0.28,
       "top_clusters": {
-        "expression_oriented": 0.055135719352093146,
-        "ecosystem_oriented": 0.029666859234389525
+        "expression_oriented": 0.5476283507733057,
+        "knowledge_oriented": 0.5400176486176552
       },
       "bottom_clusters": {
-        "stability_seeking": -0.14912912596600572
+        "sovereignty_order_oriented": 0.3876595206602771
       },
       "cluster_means": {
-        "survival_focused": -0.11221855849690496,
-        "stability_seeking": -0.14912912596600572,
-        "achievement_oriented": -0.08463085992046596,
-        "care_oriented": 0.0029804417161128083,
-        "knowledge_oriented": -0.006246434027409514,
-        "governance_oriented": -0.10144671431569235,
-        "sovereignty_order_oriented": -0.08925964416406545,
-        "expression_oriented": 0.055135719352093146,
-        "ecosystem_oriented": 0.029666859234389525
+        "survival_focused": 0.4082564523101314,
+        "stability_seeking": 0.4798288996235212,
+        "achievement_oriented": 0.47041403275849675,
+        "care_oriented": 0.43067790626110025,
+        "knowledge_oriented": 0.5400176486176552,
+        "governance_oriented": 0.4368999100559697,
+        "sovereignty_order_oriented": 0.3876595206602771,
+        "expression_oriented": 0.5476283507733057,
+        "ecosystem_oriented": 0.41384174106482047
       },
-      "priority_raw": 0.023295681387366984,
-      "contest_raw": 0.04160138159937315
+      "priority_raw": 0.0256058410976684,
+      "contest_raw": 0.009383954356707582
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7241312957904147,
+      "contest_score": -1.237757288192932,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.7777777777777778,
+      "central_tendency": 0.06395639660287768,
+      "contestedness": 0.01529246922882127,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.15434972090033558,
+        "knowledge_oriented": 0.09142149918947093
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.010062257109849898
+      },
+      "cluster_means": {
+        "survival_focused": -0.010062257109849898,
+        "stability_seeking": 0.005230212118971372,
+        "achievement_oriented": -0.0074375676942704805,
+        "care_oriented": 0.08609792104283548,
+        "knowledge_oriented": 0.09142149918947093,
+        "governance_oriented": -0.006767226603115212,
+        "sovereignty_order_oriented": 0.0007350803463896105,
+        "expression_oriented": 0.15434972090033558,
+        "ecosystem_oriented": 0.09115935890440119
+      },
+      "priority_raw": 0.017779878255599995,
+      "contest_raw": 0.010628266114030782
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.8545510371379326,
-      "contest_score": 2.3984093617269857,
+      "priority_score": 3.8109898755190907,
+      "contest_score": 1.695193279591301,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.257591335232728,
+      "contestedness": 0.07480538899222422,
+      "impact": 0.765,
+      "top_clusters": {
+        "survival_focused": 1.3997170862728652,
+        "stability_seeking": 1.3511458765912376
+      },
+      "bottom_clusters": {
+        "expression_oriented": 1.078914712404157
+      },
+      "cluster_means": {
+        "survival_focused": 1.3997170862728652,
+        "stability_seeking": 1.3511458765912376,
+        "achievement_oriented": 1.1937839149301834,
+        "care_oriented": 1.3272449153555548,
+        "knowledge_oriented": 1.1289850001856225,
+        "governance_oriented": 1.324911697280641,
+        "sovereignty_order_oriented": 1.3334637341415962,
+        "expression_oriented": 1.078914712404157,
+        "ecosystem_oriented": 1.1801550799326936
+      },
+      "priority_raw": 0.8658516343077332,
+      "contest_raw": 0.057226122579051526
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.808544939698678,
+      "contest_score": -0.30233601457755027,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6889939352441298,
-      "contestedness": 0.13614916515950182,
-      "impact": 0.6550000000000001,
+      "central_tendency": 0.7406124547639483,
+      "contestedness": 0.03721162676982137,
+      "impact": 0.685,
       "top_clusters": {
-        "expression_oriented": 0.8757106001423943,
-        "care_oriented": 0.8405621470777862
+        "achievement_oriented": 0.8170277918708908,
+        "survival_focused": 0.7936046265914232
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.47050671499009344
+        "ecosystem_oriented": 0.657334852405484
       },
       "cluster_means": {
-        "survival_focused": 0.5432490026955913,
-        "stability_seeking": 0.5979769887906107,
-        "achievement_oriented": 0.5229701169449439,
-        "care_oriented": 0.8405621470777862,
-        "knowledge_oriented": 0.8062089585917851,
-        "governance_oriented": 0.7341261539501125,
-        "sovereignty_order_oriented": 0.47050671499009344,
-        "expression_oriented": 0.8757106001423943,
-        "ecosystem_oriented": 0.8096347340138516
+        "survival_focused": 0.7936046265914232,
+        "stability_seeking": 0.7782920581059085,
+        "achievement_oriented": 0.8170277918708908,
+        "care_oriented": 0.7130663942161537,
+        "knowledge_oriented": 0.7513957151476824,
+        "governance_oriented": 0.6715242305441919,
+        "sovereignty_order_oriented": 0.7329884030078258,
+        "expression_oriented": 0.7502780209859751,
+        "ecosystem_oriented": 0.657334852405484
       },
-      "priority_raw": 0.27077461655094304,
-      "contest_raw": 0.08917770317947371
+      "priority_raw": 0.3043917189079828,
+      "contest_raw": 0.025489964337327642
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.7599179074528837,
+      "contest_score": -0.14932515110447367,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7150082807469214,
+      "contestedness": 0.0473236541658576,
+      "impact": 0.59,
+      "top_clusters": {
+        "knowledge_oriented": 0.7862970755096697,
+        "expression_oriented": 0.7830584617139632
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.6374050641000841
+      },
+      "cluster_means": {
+        "survival_focused": 0.6766135629108952,
+        "stability_seeking": 0.7051965146587165,
+        "achievement_oriented": 0.6374050641000841,
+        "care_oriented": 0.7239372170767528,
+        "knowledge_oriented": 0.7862970755096697,
+        "governance_oriented": 0.7372106482832879,
+        "sovereignty_order_oriented": 0.6556943878576724,
+        "expression_oriented": 0.7830584617139632,
+        "ecosystem_oriented": 0.729661594611251
+      },
+      "priority_raw": 0.2952984199484785,
+      "contest_raw": 0.027920955957855983
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.5276814404228962,
+      "contest_score": -0.7746430523536346,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7846417159252979,
+      "contestedness": 0.03361885786584884,
+      "impact": 0.535,
+      "top_clusters": {
+        "knowledge_oriented": 0.8420502499934676,
+        "expression_oriented": 0.8284981565965901
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.717974454694548
+      },
+      "cluster_means": {
+        "survival_focused": 0.7520912178215805,
+        "stability_seeking": 0.7948792987307413,
+        "achievement_oriented": 0.7645117571649944,
+        "care_oriented": 0.8165814647782433,
+        "knowledge_oriented": 0.8420502499934676,
+        "governance_oriented": 0.8235058828057935,
+        "sovereignty_order_oriented": 0.7216829607417212,
+        "expression_oriented": 0.8284981565965901,
+        "ecosystem_oriented": 0.717974454694548
+      },
+      "priority_raw": 0.2518699908120206,
+      "contest_raw": 0.01798608895822913
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
@@ -1112,286 +1220,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.7530892799841833,
-      "contest_score": -0.7479347457462343,
+      "priority_score": 0.43235709558811786,
+      "contest_score": -0.915451766908547,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6789730636789271,
-      "contestedness": 0.04083768061586601,
-      "impact": 0.6,
+      "central_tendency": 0.6965602744408915,
+      "contestedness": 0.028123145522907178,
+      "impact": 0.56,
       "top_clusters": {
-        "achievement_oriented": 0.749569007337449,
-        "care_oriented": 0.7334062251880382
+        "achievement_oriented": 0.7573553869587664,
+        "care_oriented": 0.7471895799316903
       },
       "bottom_clusters": {
-        "knowledge_oriented": 0.6266365176778419
+        "knowledge_oriented": 0.6512045141490681
       },
       "cluster_means": {
-        "survival_focused": 0.711270145870854,
-        "stability_seeking": 0.670432465254988,
-        "achievement_oriented": 0.749569007337449,
-        "care_oriented": 0.7334062251880382,
-        "knowledge_oriented": 0.6266365176778419,
-        "governance_oriented": 0.6574566135153477,
-        "sovereignty_order_oriented": 0.6802652333703681,
-        "expression_oriented": 0.6274705427630562,
-        "ecosystem_oriented": 0.6542508221324006
+        "survival_focused": 0.7308857479059021,
+        "stability_seeking": 0.699429677525137,
+        "achievement_oriented": 0.7573553869587664,
+        "care_oriented": 0.7471895799316903,
+        "knowledge_oriented": 0.6512045141490681,
+        "governance_oriented": 0.6802662342985455,
+        "sovereignty_order_oriented": 0.6842645973020034,
+        "expression_oriented": 0.6561414517790962,
+        "ecosystem_oriented": 0.6623052801178139
       },
-      "priority_raw": 0.20369191910367812,
-      "contest_raw": 0.024502608369519608
+      "priority_raw": 0.23404425221213956,
+      "contest_raw": 0.01574896149282802
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.2377570147694459,
-      "contest_score": 0.119470047586088,
+      "priority_score": 0.3136310712843215,
+      "contest_score": 0.8633302791327558,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3326379615570849,
-      "contestedness": 0.057206301319069786,
-      "impact": 0.74,
-      "top_clusters": {
-        "expression_oriented": 0.5294372945991349,
-        "knowledge_oriented": 0.47137911598644733
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.2089716635756219
-      },
-      "cluster_means": {
-        "survival_focused": 0.2089716635756219,
-        "stability_seeking": 0.2593349395292176,
-        "achievement_oriented": 0.30847530548642643,
-        "care_oriented": 0.3262391085458204,
-        "knowledge_oriented": 0.47137911598644733,
-        "governance_oriented": 0.30933525629961844,
-        "sovereignty_order_oriented": 0.21402741237278897,
-        "expression_oriented": 0.5294372945991349,
-        "ecosystem_oriented": 0.36654155761868823
-      },
-      "priority_raw": 0.17230646408656997,
-      "contest_raw": 0.04233266297611164
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.571559421021066,
-      "contest_score": -1.1669852606794688,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6199190917955038,
-      "contestedness": 0.037385317106105154,
-      "impact": 0.42500000000000004,
-      "top_clusters": {
-        "achievement_oriented": 0.7114136097019514,
-        "knowledge_oriented": 0.6673779855389047
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.5269564612335715
-      },
-      "cluster_means": {
-        "survival_focused": 0.5966609476081322,
-        "stability_seeking": 0.6448850596328943,
-        "achievement_oriented": 0.7114136097019514,
-        "care_oriented": 0.5840180311850199,
-        "knowledge_oriented": 0.6673779855389047,
-        "governance_oriented": 0.6214033482911251,
-        "sovereignty_order_oriented": 0.578630142418744,
-        "expression_oriented": 0.6479262405491906,
-        "ecosystem_oriented": 0.5269564612335715
-      },
-      "priority_raw": 0.13173280700654455,
-      "contest_raw": 0.01588875977009469
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5042534769093348,
-      "contest_score": 0.722798814538199,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2594179885319751,
-      "contestedness": 0.0667493508494573,
+      "central_tendency": 0.43057393985880643,
+      "contestedness": 0.05367039970510046,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.4511079276067497,
-        "knowledge_oriented": 0.3997902661383579
+        "knowledge_oriented": 0.5230831061692195,
+        "achievement_oriented": 0.5171873742447034
       },
       "bottom_clusters": {
-        "survival_focused": 0.1257659372945188
+        "survival_focused": 0.338915359721452
       },
       "cluster_means": {
-        "survival_focused": 0.1257659372945188,
-        "stability_seeking": 0.17161182813769182,
-        "achievement_oriented": 0.29896785127826253,
-        "care_oriented": 0.23221850042880524,
-        "knowledge_oriented": 0.3997902661383579,
-        "governance_oriented": 0.2008393394422261,
-        "sovereignty_order_oriented": 0.1574719647326949,
-        "expression_oriented": 0.4511079276067497,
-        "ecosystem_oriented": 0.29698828172846886
+        "survival_focused": 0.338915359721452,
+        "stability_seeking": 0.3740486363210586,
+        "achievement_oriented": 0.5171873742447034,
+        "care_oriented": 0.3638101697093151,
+        "knowledge_oriented": 0.5230831061692195,
+        "governance_oriented": 0.4174805694144156,
+        "sovereignty_order_oriented": 0.4165568315779344,
+        "expression_oriented": 0.5010714671023226,
+        "ecosystem_oriented": 0.4230119444688361
       },
-      "priority_raw": 0.12763365035773178,
-      "contest_raw": 0.05473446769655499
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "title": "Coach crash kills several people in Swiss Alps",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.31138736387194793,
-      "contest_score": -0.35294221940475934,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.25083865872115596,
-      "contestedness": 0.049427166339984646,
-      "impact": 0.6600000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.42225518157326125,
-        "knowledge_oriented": 0.36755636238256295
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.15009003896968987
-      },
-      "cluster_means": {
-        "survival_focused": 0.15009003896968987,
-        "stability_seeking": 0.20725041545536427,
-        "achievement_oriented": 0.2129111555449668,
-        "care_oriented": 0.21280830756553004,
-        "knowledge_oriented": 0.36755636238256295,
-        "governance_oriented": 0.24016981355994696,
-        "sovereignty_order_oriented": 0.16348398920498217,
-        "expression_oriented": 0.42225518157326125,
-        "ecosystem_oriented": 0.28102266423409955
-      },
-      "priority_raw": 0.11588746032917407,
-      "contest_raw": 0.03262192978438987
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.22962210616312625,
-      "contest_score": -1.0740300858704641,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.606052913772111,
-      "contestedness": 0.02917952824631076,
-      "impact": 0.61,
-      "top_clusters": {
-        "achievement_oriented": 0.6886319136033496,
-        "care_oriented": 0.6492771162227826
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.5482938619768597
-      },
-      "cluster_means": {
-        "survival_focused": 0.6362191087708082,
-        "stability_seeking": 0.5967488031655476,
-        "achievement_oriented": 0.6886319136033496,
-        "care_oriented": 0.6492771162227826,
-        "knowledge_oriented": 0.5739836847649749,
-        "governance_oriented": 0.5482938619768597,
-        "sovereignty_order_oriented": 0.6102082127147384,
-        "expression_oriented": 0.5675692749192368,
-        "ecosystem_oriented": 0.5835442478107008
-      },
-      "priority_raw": 0.1109076832202963,
-      "contest_raw": 0.017799512230249562
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.12039583104657185,
-      "contest_score": -0.2599513987529115,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.21429689309858882,
-      "contestedness": 0.04968836685958089,
-      "impact": 0.695,
-      "top_clusters": {
-        "expression_oriented": 0.4107990043400579,
-        "knowledge_oriented": 0.35433387841204667
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.08154213993261561
-      },
-      "cluster_means": {
-        "survival_focused": 0.08154213993261561,
-        "stability_seeking": 0.15813917952564444,
-        "achievement_oriented": 0.22930577557414525,
-        "care_oriented": 0.20782754638522533,
-        "knowledge_oriented": 0.35433387841204667,
-        "governance_oriented": 0.17613887309036405,
-        "sovereignty_order_oriented": 0.08673399805445917,
-        "expression_oriented": 0.4107990043400579,
-        "ecosystem_oriented": 0.22385164257274143
-      },
-      "priority_raw": 0.10425543849246345,
-      "contest_raw": 0.034533414967408714
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.04622480312447489,
-      "contest_score": 1.6225950694174376,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.24603316530324248,
-      "contestedness": 0.09572594679673535,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.43691061483244936,
-        "knowledge_oriented": 0.37383425342010557
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.13213439769678734
-      },
-      "cluster_means": {
-        "survival_focused": 0.13213439769678734,
-        "stability_seeking": 0.15098703547272582,
-        "achievement_oriented": 0.24868694616908638,
-        "care_oriented": 0.24671298226946117,
-        "knowledge_oriented": 0.37383425342010557,
-        "governance_oriented": 0.17886234119352246,
-        "sovereignty_order_oriented": 0.1368323899987531,
-        "expression_oriented": 0.43691061483244936,
-        "ecosystem_oriented": 0.30933752667629105
-      },
-      "priority_raw": 0.09410768572849025,
-      "contest_raw": 0.07323034929950255
+      "priority_raw": 0.21184237841053277,
+      "contest_raw": 0.044009727758182376
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
@@ -1400,78 +1292,255 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.1486762121300194,
-      "contest_score": -1.2180652964134522,
+      "priority_score": -0.11602906285942208,
+      "contest_score": -0.7592548848055903,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4506053997939893,
-      "contestedness": 0.03804814692612596,
-      "impact": 0.39,
+      "central_tendency": 0.5367165109051005,
+      "contestedness": 0.03720524824653326,
+      "impact": 0.49,
       "top_clusters": {
-        "achievement_oriented": 0.5322196172682107,
-        "knowledge_oriented": 0.49589963082585475
+        "achievement_oriented": 0.6222196172682106,
+        "knowledge_oriented": 0.5808996308258547
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.3841402585214101
+        "ecosystem_oriented": 0.4741402585214101
       },
       "cluster_means": {
-        "survival_focused": 0.4213303756557967,
-        "stability_seeking": 0.4708974260151526,
-        "achievement_oriented": 0.5322196172682107,
-        "care_oriented": 0.42369217776861945,
-        "knowledge_oriented": 0.49589963082585475,
-        "governance_oriented": 0.43284927908902665,
-        "sovereignty_order_oriented": 0.40161834181388656,
-        "expression_oriented": 0.49280149118794625,
-        "ecosystem_oriented": 0.3841402585214101
+        "survival_focused": 0.5113303756557966,
+        "stability_seeking": 0.5508974260151527,
+        "achievement_oriented": 0.6222196172682106,
+        "care_oriented": 0.5136921777686194,
+        "knowledge_oriented": 0.5808996308258547,
+        "governance_oriented": 0.5078492790890266,
+        "sovereignty_order_oriented": 0.49161834181388653,
+        "expression_oriented": 0.5778014911879463,
+        "ecosystem_oriented": 0.4741402585214101
       },
-      "priority_raw": 0.08786805295982791,
-      "contest_raw": 0.014838777301189125
+      "priority_raw": 0.13149554517174963,
+      "contest_raw": 0.0182305716408013
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.11616644792996304,
+      "contest_score": -0.3532888288784063,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2664029463818544,
+      "contestedness": 0.03500771773270639,
+      "impact": 0.705,
+      "top_clusters": {
+        "expression_oriented": 0.3865828216876443,
+        "knowledge_oriented": 0.3549810341800676
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.18865614638787545
+      },
+      "cluster_means": {
+        "survival_focused": 0.18865614638787545,
+        "stability_seeking": 0.22338109693197017,
+        "achievement_oriented": 0.2726685469796478,
+        "care_oriented": 0.25028432916458077,
+        "knowledge_oriented": 0.3549810341800676,
+        "governance_oriented": 0.25927414085110845,
+        "sovereignty_order_oriented": 0.20340958658911856,
+        "expression_oriented": 0.3865828216876443,
+        "ecosystem_oriented": 0.25838881466467656
+      },
+      "priority_raw": 0.13146985403944514,
+      "contest_raw": 0.024680441001558005
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2726932018206693,
+      "contest_score": 0.2248312742366005,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.25048825896078564,
+      "contestedness": 0.04980212243891974,
+      "impact": 0.68,
+      "top_clusters": {
+        "expression_oriented": 0.4283381380453496,
+        "knowledge_oriented": 0.3670446672050565
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.1429315600855123
+      },
+      "cluster_means": {
+        "survival_focused": 0.1429315600855123,
+        "stability_seeking": 0.19187217011888583,
+        "achievement_oriented": 0.197993983369109,
+        "care_oriented": 0.24413226423081483,
+        "knowledge_oriented": 0.3670446672050565,
+        "governance_oriented": 0.2403661256693182,
+        "sovereignty_order_oriented": 0.15154717381478627,
+        "expression_oriented": 0.4283381380453496,
+        "ecosystem_oriented": 0.29016824810823794
+      },
+      "priority_raw": 0.10219920965600053,
+      "contest_raw": 0.033865443258465425
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3516611741705912,
+      "contest_score": 1.622114000103426,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.17934795381968024,
+      "contestedness": 0.0690031513459434,
+      "impact": 0.8125,
+      "top_clusters": {
+        "expression_oriented": 0.3603221500897023,
+        "knowledge_oriented": 0.2994534815218376
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.04370890510510442
+      },
+      "cluster_means": {
+        "survival_focused": 0.04370890510510442,
+        "stability_seeking": 0.08280917802072371,
+        "achievement_oriented": 0.1420022268011721,
+        "care_oriented": 0.21001762708549196,
+        "knowledge_oriented": 0.2994534815218376,
+        "governance_oriented": 0.14429358494921823,
+        "sovereignty_order_oriented": 0.07529043360327484,
+        "expression_oriented": 0.3603221500897023,
+        "ecosystem_oriented": 0.24611908760039328
+      },
+      "priority_raw": 0.08743212748709413,
+      "contest_raw": 0.05606506046857901
     }
   ],
   "mood": {
-    "score": 0.027820958905770604,
+    "score": 0.03551686892336357,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "name": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "root_cause": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 2.8545510371379326,
-      "contest_score": 2.3984093617269857,
-      "contestedness": 0.13614916515950182,
+      "target": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "name": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "root_cause": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "severity": "high",
+      "category": "convergent_priority",
+      "priority_score": 3.8109898755190907,
+      "contest_score": 1.695193279591301,
+      "contestedness": 0.07480538899222422,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, care_oriented.",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "'We never recovered him': Quest to identify remains from Ground Zero continues"
+        "Anthropic blocks possible attempt to use AI to make biological weapons"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around 'We never recovered him': Quest to identify remains from Ground Zero continues is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to 'We never recovered him': Quest to identify remains from Ground Zero continues fade or reverse without spillover."
+      "prediction": "Momentum around Anthropic blocks possible attempt to use AI to make biological weapons is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Anthropic blocks possible attempt to use AI to make biological weapons fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "rank": 2,
+      "target": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "name": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "root_cause": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.808544939698678,
+      "contest_score": -0.30233601457755027,
+      "contestedness": 0.03721162676982137,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
+      "signal_count": 1,
+      "signals": [
+        "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "rank": 3,
+      "target": "Six Nigerians accused of romance scams to be extradited to the US",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "name": "Six Nigerians accused of romance scams to be extradited to the US",
+      "root_cause": "Six Nigerians accused of romance scams to be extradited to the US",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.7599179074528837,
+      "contest_score": -0.14932515110447367,
+      "contestedness": 0.0473236541658576,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "Six Nigerians accused of romance scams to be extradited to the US"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Six Nigerians accused of romance scams to be extradited to the US is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Six Nigerians accused of romance scams to be extradited to the US fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "name": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "root_cause": "The student behind 'cockroach' protests that forced an Indian minister to quit",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.5276814404228962,
+      "contest_score": -0.7746430523536346,
+      "contestedness": 0.03361885786584884,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "The student behind 'cockroach' protests that forced an Indian minister to quit"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around The student behind 'cockroach' protests that forced an Indian minister to quit is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to The student behind 'cockroach' protests that forced an Indian minister to quit fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
+      "rank": 5,
       "target": "Can Trump really pay $5,000 to every American adult?",
       "title": "Can Trump really pay $5,000 to every American adult?",
       "name": "Can Trump really pay $5,000 to every American adult?",
       "root_cause": "Can Trump really pay $5,000 to every American adult?",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.7530892799841833,
-      "contest_score": -0.7479347457462343,
-      "contestedness": 0.04083768061586601,
+      "priority_score": 0.43235709558811786,
+      "contest_score": -0.915451766908547,
+      "contestedness": 0.028123145522907178,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, care_oriented.",
       "signal_count": 1,
@@ -1482,194 +1551,131 @@
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
       "prediction": "Momentum around Can Trump really pay $5,000 to every American adult? is likely to compound if current conditions hold.",
       "falsification": "Signals tied to Can Trump really pay $5,000 to every American adult? fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
-      "target": "Twenty-five dead after fire on cargo ship in eastern China",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "name": "Twenty-five dead after fire on cargo ship in eastern China",
-      "root_cause": "Twenty-five dead after fire on cargo ship in eastern China",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 1.2377570147694459,
-      "contest_score": 0.119470047586088,
-      "contestedness": 0.057206301319069786,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Twenty-five dead after fire on cargo ship in eastern China"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Twenty-five dead after fire on cargo ship in eastern China is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Twenty-five dead after fire on cargo ship in eastern China fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "name": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "root_cause": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.571559421021066,
-      "contest_score": -1.1669852606794688,
-      "contestedness": 0.037385317106105154,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, knowledge_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Apple's new boss starts with big gamble on £1,999 first folding iPhone"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Apple's new boss starts with big gamble on £1,999 first folding iPhone is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Apple's new boss starts with big gamble on £1,999 first folding iPhone fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "rank": 5,
-      "target": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "name": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "root_cause": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.5042534769093348,
-      "contest_score": 0.722798814538199,
-      "contestedness": 0.0667493508494573,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches fade or reverse without spillover."
     }
   ],
-  "predictions": [],
-  "narrative": "🟡 **Cautious mood prevails as signals highlight a mix of unresolved tensions and speculative developments.**\n\nToday's structural landscape reflects a cautious sentiment, driven by a mix of emotionally charged narratives and speculative proposals. The top signals reveal a focus on care-oriented and expression-oriented themes, underscoring societal and humanitarian concerns. However, the low contestedness across most signals suggests a lack of significant debate, with the exception of a few narratives that remain unresolved or polarizing.\n\n1. **Humanitarian and societal themes dominate the day's signals.** The ongoing effort to identify remains from Ground Zero, highlighted as the top signal, reflects a deeply care-oriented and expression-driven narrative. While this is not a new development, its persistence underscores the enduring emotional weight of unresolved tragedies. Similarly, the tragic fire on a cargo ship in eastern China and the deaths of over 20 children in a school fire in DR Congo point to recurring structural vulnerabilities in safety and disaster response systems. These events are reminders of the fragility of human systems in the face of both man-made and natural crises.\n\n2. **Speculative economic and technological developments introduce uncertainty.** The proposal by Donald Trump to provide $5,000 to every American adult is a high-profile but speculative signal. While it has captured attention, its feasibility and potential economic impact remain unverified, making it more of a rhetorical device than a concrete policy trajectory at this stage. Similarly, Apple’s gamble on a £1,999 folding iPhone represents a bold but untested move in the tech market. Both signals highlight a broader structural pattern of high-stakes gambles in uncertain environments, whether political or commercial.\n\n3. **Geopolitical and military dynamics continue to evolve, with contested implications.** Russia's reported deployment of jet-powered drones that are outpacing Ukrainian air defenses is a signal of technological escalation in the ongoing conflict. While the direction of this signal is positive in terms of technological achievement, its survival-focused undertones highlight the grim reality of its application. The contestedness here stems from the broader implications for regional stability and the potential for further escalation.\n\nStructurally, these signals point to a world grappling with unresolved legacies, speculative promises, and escalating technological competition. The low contestedness across most signals suggests a lack of immediate pushback or alternative narratives, which could indicate either consensus or a lack of engagement with the deeper implications.\n\n**Key areas to watch include:** the feasibility and reception of Trump’s economic proposal, the market response to Apple’s folding iPhone, and any shifts in the Ukraine conflict driven by technological advancements. Additionally, the humanitarian crises highlighted today warrant attention for potential ripple effects on global aid systems and policy responses. The cautious mood reflects an environment where uncertainty and unresolved challenges dominate, requiring vigilance and a focus on long-term structural shifts.",
+  "predictions": [
+    {
+      "root_cause": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "prediction": "Momentum around Anthropic blocks possible attempt to use AI to make biological weapons is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "falsification": "Signals tied to Anthropic blocks possible attempt to use AI to make biological weapons fade or reverse without downstream spillover.",
+      "severity": "high"
+    }
+  ],
+  "narrative": "🟡 **Cautious mood prevails as today's signals highlight critical advancements in AI safety alongside a mix of geopolitical and societal disruptions.**\n\nThe structural pattern of the day is defined by a significant positive development in AI governance, tempered by background noise from contested geopolitical and societal narratives. The mood remains cautious, reflecting the delicate balance between progress and persistent instability across multiple domains.\n\n**1. Anthropic's intervention to block the misuse of AI for developing biological weapons stands out as the most structurally significant signal today.** This verified action underscores the growing importance of proactive AI governance in mitigating existential risks. The convergence of survival-focused and stability-seeking clusters around this signal highlights its alignment with broader systemic priorities. Unlike speculative headlines, this event represents a completed and impactful action, reinforcing the need for vigilance in AI applications. It also signals a positive trajectory for the integration of ethical safeguards in emerging technologies.\n\n**2. Background noise signals, including lessons from 9/11, Nigerian extraditions, and protests in India, reflect ongoing societal tensions but lack immediate structural weight.** While these narratives offer insights into resilience, justice, and expression-oriented dynamics, they remain contested and localized in impact. For instance, the extradition of Nigerian suspects to the U.S. highlights the transnational nature of cybercrime but does not shift broader systemic trajectories. Similarly, the student-led protests in India, though symbolically potent, are unlikely to influence global stability or governance frameworks in the near term.\n\n**3. Geopolitical signals, such as the Houthis' advance in Yemen and Israel's destruction of a Hezbollah base, reveal persistent volatility in critical regions.** These developments, while fact-based, are part of entrenched conflict patterns rather than transformative shifts. The contested nature of these signals reflects the difficulty of assessing their longer-term implications, given the cyclical nature of such conflicts. These events should be monitored for escalation but do not currently alter the cautious portfolio mood.\n\nThe longer-term trajectory remains focused on the interplay between technological governance and geopolitical stability. Anthropic's intervention is a positive step in addressing systemic risks, but it underscores the need for broader international cooperation to prevent misuse of AI. Meanwhile, societal and geopolitical signals highlight the fragility of progress in regions and domains where instability persists.\n\n**Watch for:** Further developments in AI governance frameworks, particularly actions by other key players in the tech sector. Additionally, monitor escalation risks in Yemen and Lebanon, as well as the societal ripple effects of justice-related narratives, such as the Nigerian extraditions and Indian protests. These signals will inform whether today's cautious mood shifts toward optimism or deepens into concern.",
   "noise_filtered": [
-    "'We never recovered him': Quest to identify remains from Ground Zero continues",
+    "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+    "Six Nigerians accused of romance scams to be extradited to the US",
+    "The student behind 'cockroach' protests that forced an Indian minister to quit",
     "Can Trump really pay $5,000 to every American adult?",
-    "Twenty-five dead after fire on cargo ship in eastern China",
-    "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-    "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-    "Coach crash kills several people in Swiss Alps",
-    "Watch: Is Trump's $5,000 election pledge legal?",
-    "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-    "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+    "Israel says it has destroyed major underground Hezbollah base",
     "Four key takeaways from Republican midterms convention",
-    "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-    "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-    "Watch: Do Republicans blame Trump for high oil prices?",
-    "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-    "Man jailed after threatening to kill son's teacher in French village",
+    "Philippine rescuers board ferry 40 hours after blaze began",
+    "Five dead and dozens injured in coach crash in Swiss Alps",
+    "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+    "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+    "Man jailed after threatening to behead son's teacher in French village",
+    "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+    "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
     "More than 20 children killed in DR Congo school fire",
-    "Watch: How a community living under demolition orders from Israel view UK sanctions",
-    "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-    "Why some experts increasingly fear AI will take over",
-    "Iran war won't end until after crucial November elections, says Trump"
+    "Buddhist monk arrested in suspected $3m embezzlement scandal",
+    "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+    "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+    "Princess Diana's 'revenge dress' goes up for auction",
+    "Hong Kong's Tiananmen activists sentenced to up to seven years in prison"
   ],
   "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [],
+    "new_convergent": [
+      "Anthropic blocks possible attempt to use AI to make biological weapons"
+    ],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Google picks Finland for its largest single investment in Europe",
+        "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "title": "Twenty-five dead after fire on cargo ship in eastern China",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+        "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+        "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+        "title": "Watch: Is Trump's $5,000 election pledge legal?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Europe's royalty pay respects to King Harald V in Norway",
+        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Hong Kong's first leader after British handover dies",
+        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+        "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+        "title": "Watch: Do Republicans blame Trump for high oil prices?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Colombia's new president loosens gun control rules",
+        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+        "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+        "title": "Why some experts increasingly fear AI will take over",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Family of killed teen call for death penalty in D4vd trial",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Iran referred to UN Security Council for nuclear non-compliance",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+        "title": "Iran war won't end until after crucial November elections, says Trump",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
-    "priority_score_changes": [],
-    "mood_shift": "",
-    "structural_shifts": [],
-    "continuing_priorities": [
-      "Spanish intelligence warned of Ceuta mass crossing plans before surge"
+    "priority_score_changes": [
+      "Can Trump really pay $5,000 to every American adult?: 1.75 → 0.43",
+      "Five dead and dozens injured in coach crash in Swiss Alps: 0.31 → -0.27",
+      "More than 20 children killed in DR Congo school fire: -0.83 → -0.57"
     ],
-    "new_stories": 19,
-    "carried_stories": 1,
+    "mood_shift": "",
+    "structural_shifts": [
+      "convergent_priority: 0 → 1",
+      "Priority score movement — Can Trump really pay $5,000 to every American adult?: 1.75 → 0.43",
+      "Priority score movement — Five dead and dozens injured in coach crash in Swiss Alps: 0.31 → -0.27",
+      "Priority score movement — More than 20 children killed in DR Congo school fire: -0.83 → -0.57"
+    ],
+    "continuing_priorities": [
+      "Can Trump really pay $5,000 to every American adult?",
+      "Four key takeaways from Republican midterms convention",
+      "Five dead and dozens injured in coach crash in Swiss Alps",
+      "Man jailed after threatening to behead son's teacher in French village",
+      "More than 20 children killed in DR Congo school fire"
+    ],
+    "new_stories": 17,
+    "carried_stories": 3,
     "total_stories": 20,
-    "summary": "19 priorities dropped: Google picks Finland for its largest single investment in Europe (No longer in today's news feed — story left the RSS cycle); Oil hits $100 a barrel for first time since July after US and Houthi strikes (No longer in today's news feed — story left the RSS cycle); Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement (No longer in today's news feed — story left the RSS cycle); US to ban imports of some Canadian alcohol, dairy goods and motorbikes (No longer in today's news feed — story left the RSS cycle); Baby orangutans found in Indian forest spark trafficking inquiry (No longer in today's news feed — story left the RSS cycle); Europe's royalty pay respects to King Harald V in Norway (No longer in today's news feed — story left the RSS cycle); Hong Kong's first leader after British handover dies (No longer in today's news feed — story left the RSS cycle); Germany's Merz attacks AfD in stormy debate after far-right election win (No longer in today's news feed — story left the RSS cycle); Meta continues to run ads promoting child sexual abuse material in India - report (No longer in today's news feed — story left the RSS cycle); N Korea has built two-storey uranium enrichment facility, says watchdog (No longer in today's news feed — story left the RSS cycle); Colombia's new president loosens gun control rules (No longer in today's news feed — story left the RSS cycle); Two die at Moldovan border as Russia-Ukraine drone war rages (No longer in today's news feed — story left the RSS cycle); White House pulls Tetris-style 'Build The Wall' game after copyright concern (No longer in today's news feed — story left the RSS cycle); Uganda pulling out of Prince Harry's Invictus Games, says military chief (No longer in today's news feed — story left the RSS cycle); Family of killed teen call for death penalty in D4vd trial (No longer in today's news feed — story left the RSS cycle); Iran referred to UN Security Council for nuclear non-compliance (No longer in today's news feed — story left the RSS cycle); 'You're not alone in the darkness': Gambia president urges calm after violent blackout protests (No longer in today's news feed — story left the RSS cycle); Mother demands answers, weeks after black woman found hanging from Mississippi tree (No longer in today's news feed — story left the RSS cycle); Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 19 new, 1 carried, 20 total"
+    "summary": "1 new convergent priorities emerged: Anthropic blocks possible attempt to use AI to make biological weapons · 15 priorities dropped: 'We never recovered him': Quest to identify remains from Ground Zero continues (No longer in today's news feed — story left the RSS cycle); Twenty-five dead after fire on cargo ship in eastern China (No longer in today's news feed — story left the RSS cycle); Apple's new boss starts with big gamble on £1,999 first folding iPhone (No longer in today's news feed — story left the RSS cycle); Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches (No longer in today's news feed — story left the RSS cycle); Watch: Is Trump's $5,000 election pledge legal? (No longer in today's news feed — story left the RSS cycle); Spanish intelligence warned of Ceuta mass crossing plans before surge (No longer in today's news feed — story left the RSS cycle); Pilot warned Amazon cargo plane going too fast before deadly crash, data shows (No longer in today's news feed — story left the RSS cycle); 'People were trampling me': Philippine ferry fire survivor recalls narrow escape (No longer in today's news feed — story left the RSS cycle); Royal family rift after popular TV news presenter chosen to succeed Ugandan king (No longer in today's news feed — story left the RSS cycle); Watch: Do Republicans blame Trump for high oil prices? (No longer in today's news feed — story left the RSS cycle); Yemen's Houthis reportedly seize strategic Red Sea port of Mokha (No longer in today's news feed — story left the RSS cycle); Watch: How a community living under demolition orders from Israel view UK sanctions (No longer in today's news feed — story left the RSS cycle); Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack (No longer in today's news feed — story left the RSS cycle); Why some experts increasingly fear AI will take over (No longer in today's news feed — story left the RSS cycle); Iran war won't end until after crucial November elections, says Trump (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Can Trump really pay $5,000 to every American adult?: 1.75 → 0.43; Five dead and dozens injured in coach crash in Swiss Alps: 0.31 → -0.27; More than 20 children killed in DR Congo school fire: -0.83 → -0.57 · Structural shifts: convergent_priority: 0 → 1; Priority score movement — Can Trump really pay $5,000 to every American adult?: 1.75 → 0.43; Priority score movement — Five dead and dozens injured in coach crash in Swiss Alps: 0.31 → -0.27; Priority score movement — More than 20 children killed in DR Congo school fire: -0.83 → -0.57 · Signal freshness: 17 new, 3 carried, 20 total"
   }
 }
