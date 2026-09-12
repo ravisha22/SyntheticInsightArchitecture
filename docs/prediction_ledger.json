@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "1acb5c732cead59d",
+      "created_at": "2026-09-13",
+      "root_cause": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "prediction": "Momentum around Anthropic boss Dario Amodei calls for AI development to slow down is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-09-27",
+      "falsification": "Signals tied to Anthropic boss Dario Amodei calls for AI development to slow down fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "18aa81150f9cec42",
       "created_at": "2026-09-12",
       "root_cause": "Anthropic blocks possible attempt to use AI to make biological weapons",
@@ -1845,5 +1858,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-11T22:24:10.056196+00:00"
+  "last_updated": "2026-09-12T22:08:07.430718+00:00"
 }
