@@ -191,9 +191,13 @@
       "maturity_date": "2026-09-14",
       "falsification": "Signals tied to Head teacher evacuated 900 children minutes before Nepal floods hit school fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or relevance of the story about the head teacher evacuating 900 children before Nepal floods hit the school. The provided signals are unrelated to the prediction and focus on other global events.",
+      "validated_at": "2026-09-13T22:17:27.157675+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including articles from BBC World, Al Jazeera, and ABC Australia, do not mention or relate to the prediction topic.",
+        "The timeline for the prediction has elapsed without any new developments or signals tied to the original story."
+      ]
     },
     {
       "id": "d9c8207790664383",
@@ -1858,5 +1862,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-12T22:08:07.430718+00:00"
+  "last_updated": "2026-09-13T22:17:24.714656+00:00"
 }
