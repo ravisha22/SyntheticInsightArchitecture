@@ -1,35 +1,98 @@
 {
-  "report_date": "2026-09-14",
-  "generated_at": "2026-09-13T22:17:27.158969+00:00",
+  "report_date": "2026-09-15",
+  "generated_at": "2026-09-14T23:02:51.423287+00:00",
   "story_count": 20,
   "stories": [
     {
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "body": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:31:39 GMT"
+    },
+    {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "body": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "body": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:14:21 GMT"
+      "published": "Mon, 14 Sep 2026 12:18:13 GMT"
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "body": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:49:37 GMT"
-    },
-    {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "body": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:20:22 GMT"
-    },
-    {
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "body": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "body": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 21:17:15 GMT"
+      "published": "Mon, 14 Sep 2026 08:36:09 GMT"
+    },
+    {
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "body": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:08:12 GMT"
+    },
+    {
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "body": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:28:36 GMT"
+    },
+    {
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "body": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:29:12 GMT"
+    },
+    {
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "body": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:58:27 GMT"
+    },
+    {
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "body": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:48:10 GMT"
+    },
+    {
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "body": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:23:42 GMT"
+    },
+    {
+      "title": "Body of missing runner found in South Africa",
+      "body": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:58:48 GMT"
+    },
+    {
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "body": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:35:08 GMT"
+    },
+    {
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "body": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:20:07 GMT"
+    },
+    {
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "body": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -37,6 +100,13 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 13:30:38 GMT"
+    },
+    {
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "body": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 07:15:35 GMT"
     },
     {
       "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
@@ -51,13 +121,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 11:23:42 GMT"
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "body": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
       "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
@@ -79,69 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 00:49:08 GMT"
-    },
-    {
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "body": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:19:11 GMT"
-    },
-    {
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "body": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:51:05 GMT"
-    },
-    {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "body": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 09:05:10 GMT"
-    },
-    {
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "body": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 22:00:28 GMT"
-    },
-    {
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "body": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 02:41:51 GMT"
-    },
-    {
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "body": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:25:28 GMT"
-    },
-    {
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "body": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 17:36:20 GMT"
-    },
-    {
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "body": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 16:13:39 GMT"
-    },
-    {
-      "title": "Has Trump won over voters with his midterm convention?",
-      "body": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:16:54 GMT"
     }
   ],
   "signals": [
@@ -149,74 +149,124 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "body": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "body": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 19:14:21 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:31:39 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "body": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "body": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:49:37 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:18:13 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "body": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "body": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:20:22 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:36:09 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "body": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "body": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 21:17:15 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:08:12 GMT"
     },
     {
       "number": 5,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "body": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "body": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 13:30:38 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:28:36 GMT"
     },
     {
       "number": 6,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "body": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "body": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 14:25:56 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 21:29:12 GMT"
     },
     {
       "number": 7,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "body": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "body": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 11:23:42 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:58:27 GMT"
     },
     {
       "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "body": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:48:10 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "body": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 16:23:42 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Body of missing runner found in South Africa",
+      "body": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:58:48 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "body": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:35:08 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "body": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:20:07 GMT"
+    },
+    {
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
@@ -226,7 +276,47 @@
       "published": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
-      "number": 9,
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "body": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 13:30:38 GMT"
+    },
+    {
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Bali police investigate after Australian man and children found dead in home",
+      "body": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 07:15:35 GMT"
+    },
+    {
+      "number": 16,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "body": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 14:25:56 GMT"
+    },
+    {
+      "number": 17,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Iran war reshapes Brics ties but also exposes divisions",
+      "body": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 11:23:42 GMT"
+    },
+    {
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
@@ -236,7 +326,7 @@
       "published": "Sun, 13 Sep 2026 14:01:44 GMT"
     },
     {
-      "number": 10,
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "US congressman swims to safety after his plane is forced to land on a lake",
@@ -246,7 +336,7 @@
       "published": "Sun, 13 Sep 2026 15:30:43 GMT"
     },
     {
-      "number": 11,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
@@ -254,278 +344,152 @@
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 13 Sep 2026 00:49:08 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "body": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:19:11 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "body": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:51:05 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "body": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 09:05:10 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "body": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 22:00:28 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "body": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 02:41:51 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "body": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 21:25:28 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "body": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 17:36:20 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "body": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 16:13:39 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Has Trump won over voters with his midterm convention?",
-      "body": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:16:54 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Africa's richest man launches continent's biggest share sale",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.157621256864064,
-      "contest_score": -0.17749932537947408,
+      "priority_score": 3.2761223759715064,
+      "contest_score": -0.3707058704393706,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7908277927548188,
-      "contestedness": 0.05246222024090286,
-      "impact": 0.4700000000000001,
+      "central_tendency": 1.158586224877657,
+      "contestedness": 0.03781453337057106,
+      "impact": 0.6250000000000001,
       "top_clusters": {
-        "expression_oriented": 0.9493433697479476,
-        "knowledge_oriented": 0.8938597711011349
+        "achievement_oriented": 1.2629998963714013,
+        "stability_seeking": 1.231173281091986
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6131467495453433
+        "expression_oriented": 1.0140161035744457
       },
       "cluster_means": {
-        "survival_focused": 0.7244017407105077,
-        "stability_seeking": 0.7768639609514105,
-        "achievement_oriented": 0.7343399166807311,
-        "care_oriented": 0.8563364150107268,
-        "knowledge_oriented": 0.8938597711011349,
-        "governance_oriented": 0.7692724070740926,
-        "sovereignty_order_oriented": 0.6131467495453433,
-        "expression_oriented": 0.9493433697479476,
-        "ecosystem_oriented": 0.7998858039714748
+        "survival_focused": 1.194316346352907,
+        "stability_seeking": 1.231173281091986,
+        "achievement_oriented": 1.2629998963714013,
+        "care_oriented": 1.1642936014522283,
+        "knowledge_oriented": 1.0875003775344823,
+        "governance_oriented": 1.2186976564978358,
+        "sovereignty_order_oriented": 1.193358747721415,
+        "expression_oriented": 1.0140161035744457,
+        "ecosystem_oriented": 1.0609200133022134
       },
-      "priority_raw": 0.18584453129738246,
-      "contest_raw": 0.024657243513224347
+      "priority_raw": 0.506881473383975,
+      "contest_raw": 0.023634083356606914
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.9102562866724888,
-      "contest_score": -0.44342814196811664,
+      "priority_score": 1.5064365841702934,
+      "contest_score": -0.470575223521085,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7160167051262485,
-      "contestedness": 0.05104086235677052,
-      "impact": 0.405,
+      "central_tendency": 0.8673172286084079,
+      "contestedness": 0.04383398520233972,
+      "impact": 0.49500000000000005,
       "top_clusters": {
-        "stability_seeking": 0.7831426996222104,
-        "achievement_oriented": 0.7784661144545912
+        "expression_oriented": 0.9739190396166352,
+        "knowledge_oriented": 0.9615696744635971
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6333418089181183
+        "sovereignty_order_oriented": 0.7226635542979533
       },
       "cluster_means": {
-        "survival_focused": 0.717095776620975,
-        "stability_seeking": 0.7831426996222104,
-        "achievement_oriented": 0.7784661144545912,
-        "care_oriented": 0.7057899247300563,
-        "knowledge_oriented": 0.6913096449142799,
-        "governance_oriented": 0.7681366389777455,
-        "sovereignty_order_oriented": 0.7171124384191562,
-        "expression_oriented": 0.6497552994791029,
-        "ecosystem_oriented": 0.6333418089181183
+        "survival_focused": 0.7549616953584987,
+        "stability_seeking": 0.8726435230807255,
+        "achievement_oriented": 0.8400824326460121,
+        "care_oriented": 0.8979728263743667,
+        "knowledge_oriented": 0.9615696744635971,
+        "governance_oriented": 0.9164775082830652,
+        "sovereignty_order_oriented": 0.7226635542979533,
+        "expression_oriented": 0.9739190396166352,
+        "ecosystem_oriented": 0.865564803354818
       },
-      "priority_raw": 0.1739920593456784,
-      "contest_raw": 0.020671549254492064
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.126822899139209,
-      "contest_score": -0.0006683773343471442,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2499155930564861,
-      "contestedness": 0.03500968540144869,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.37483140555929745,
-        "knowledge_oriented": 0.3405192795540818
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.15500203268820067
-      },
-      "cluster_means": {
-        "survival_focused": 0.15500203268820067,
-        "stability_seeking": 0.19877694166840537,
-        "achievement_oriented": 0.2590051105760176,
-        "care_oriented": 0.21299492300382397,
-        "knowledge_oriented": 0.3405192795540818,
-        "governance_oriented": 0.23378662706985406,
-        "sovereignty_order_oriented": 0.20086890052705525,
-        "expression_oriented": 0.37483140555929745,
-        "ecosystem_oriented": 0.27345511686163904
-      },
-      "priority_raw": 0.13645391380884142,
-      "contest_raw": 0.027307554613129982
+      "priority_raw": 0.3005254197128133,
+      "contest_raw": 0.021697822675158164
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.012423173492732,
-      "contest_score": -0.48302419325237494,
+      "priority_score": 1.053531131476005,
+      "contest_score": -0.6248868344099394,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5187028137787818,
-      "contestedness": 0.03975859527292591,
-      "impact": 0.505,
+      "central_tendency": 0.7506482060906827,
+      "contestedness": 0.03401097991522328,
+      "impact": 0.55,
       "top_clusters": {
-        "achievement_oriented": 0.5968027424711525,
-        "knowledge_oriented": 0.566333606853525
+        "governance_oriented": 0.7991311188032685,
+        "care_oriented": 0.7985121793538965
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4502387045694993
+        "ecosystem_oriented": 0.6971995626910479
       },
       "cluster_means": {
-        "survival_focused": 0.48887356893923706,
-        "stability_seeking": 0.5391012445065356,
-        "achievement_oriented": 0.5968027424711525,
-        "care_oriented": 0.4859299062069379,
-        "knowledge_oriented": 0.566333606853525,
-        "governance_oriented": 0.4993426492336097,
-        "sovereignty_order_oriented": 0.4852860379498482,
-        "expression_oriented": 0.5564168632786917,
-        "ecosystem_oriented": 0.4502387045694993
+        "survival_focused": 0.7247163783181355,
+        "stability_seeking": 0.7835881063281901,
+        "achievement_oriented": 0.7282587118364869,
+        "care_oriented": 0.7985121793538965,
+        "knowledge_oriented": 0.7678493457525153,
+        "governance_oriented": 0.7991311188032685,
+        "sovereignty_order_oriented": 0.7070013253196379,
+        "expression_oriented": 0.7495771264129668,
+        "ecosystem_oriented": 0.6971995626910479
       },
-      "priority_raw": 0.1309724604791424,
-      "contest_raw": 0.020078090612827587
+      "priority_raw": 0.24771390800992532,
+      "contest_raw": 0.018706038953372806
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7668340726673878,
-      "contest_score": -0.8117815287199599,
+      "priority_score": 0.5879304288617058,
+      "contest_score": -1.098420971432437,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7690650268404295,
-      "contestedness": 0.04887333413097661,
-      "impact": 0.31000000000000005,
+      "central_tendency": 0.6556679778870808,
+      "contestedness": 0.016144388385804898,
+      "impact": 0.59,
       "top_clusters": {
-        "stability_seeking": 0.8385942492117114,
-        "governance_oriented": 0.8354872809380063
+        "achievement_oriented": 0.7486465707949659,
+        "stability_seeking": 0.6803853443458223
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6850810265756138
+        "ecosystem_oriented": 0.5826865048685692
       },
       "cluster_means": {
-        "survival_focused": 0.7527655876077889,
-        "stability_seeking": 0.8385942492117114,
-        "achievement_oriented": 0.7695019503742455,
-        "care_oriented": 0.8159733828960627,
-        "knowledge_oriented": 0.7662364092743258,
-        "governance_oriented": 0.8354872809380063,
-        "sovereignty_order_oriented": 0.7173630751433492,
-        "expression_oriented": 0.7405822795427615,
-        "ecosystem_oriented": 0.6850810265756138
+        "survival_focused": 0.6664574910727982,
+        "stability_seeking": 0.6803853443458223,
+        "achievement_oriented": 0.7486465707949659,
+        "care_oriented": 0.6503131026869933,
+        "knowledge_oriented": 0.6768738231248466,
+        "governance_oriented": 0.6024418645155171,
+        "sovereignty_order_oriented": 0.6239277595538281,
+        "expression_oriented": 0.6692793400203865,
+        "ecosystem_oriented": 0.5826865048685692
       },
-      "priority_raw": 0.1192050791602666,
-      "contest_raw": 0.015150733580602751
+      "priority_raw": 0.1934220534766888,
+      "contest_raw": 0.00952518914762489
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
@@ -534,178 +498,214 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6146447371916457,
-      "contest_score": -0.14046455627690257,
+      "priority_score": 0.48191409063874635,
+      "contest_score": -1.0206900658897802,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.47622527583775454,
-      "contestedness": 0.05364322150793316,
+      "central_tendency": 0.6420564113994538,
+      "contestedness": 0.023472831941990346,
       "impact": 0.47000000000000003,
       "top_clusters": {
-        "knowledge_oriented": 0.5458276341969633,
-        "expression_oriented": 0.5414739167598301
+        "stability_seeking": 0.7177873224518431,
+        "survival_focused": 0.6952008553380322
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4083095405835407
+        "ecosystem_oriented": 0.5042810485955417
       },
       "cluster_means": {
-        "survival_focused": 0.4270701347152037,
-        "stability_seeking": 0.49265895816686617,
-        "achievement_oriented": 0.46528040219085937,
-        "care_oriented": 0.487830695251897,
-        "knowledge_oriented": 0.5458276341969633,
-        "governance_oriented": 0.4967116305082441,
-        "sovereignty_order_oriented": 0.4208645701663861,
-        "expression_oriented": 0.5414739167598301,
-        "ecosystem_oriented": 0.4083095405835407
+        "survival_focused": 0.6952008553380322,
+        "stability_seeking": 0.7177873224518431,
+        "achievement_oriented": 0.6221937174645298,
+        "care_oriented": 0.6447399870035242,
+        "knowledge_oriented": 0.6456665494065201,
+        "governance_oriented": 0.6679765136898872,
+        "sovereignty_order_oriented": 0.6662077018234078,
+        "expression_oriented": 0.6144540068217983,
+        "ecosystem_oriented": 0.5042810485955417
       },
-      "priority_raw": 0.11191293982187232,
-      "contest_raw": 0.025212314108728585
+      "priority_raw": 0.18105990801464597,
+      "contest_raw": 0.011032231012735464
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.41287636109081677,
-      "contest_score": -0.6461960871495945,
+      "priority_score": 0.4100159807379877,
+      "contest_score": -0.5304685130699021,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3121991599382023,
-      "contestedness": 0.026919845817404975,
-      "impact": 0.655,
+      "central_tendency": 0.7106014571067018,
+      "contestedness": 0.05070769228950256,
+      "impact": 0.405,
       "top_clusters": {
-        "achievement_oriented": 0.41107775622367987,
-        "sovereignty_order_oriented": 0.350371149026467
+        "stability_seeking": 0.7794927722114602,
+        "achievement_oriented": 0.7662878894687568
       },
       "bottom_clusters": {
-        "governance_oriented": 0.25099987880116775
+        "ecosystem_oriented": 0.629050693338521
       },
       "cluster_means": {
-        "survival_focused": 0.3161786963549984,
-        "stability_seeking": 0.2865462136396801,
-        "achievement_oriented": 0.41107775622367987,
-        "care_oriented": 0.26294426529048304,
-        "knowledge_oriented": 0.29647616267280097,
-        "governance_oriented": 0.25099987880116775,
-        "sovereignty_order_oriented": 0.350371149026467,
-        "expression_oriented": 0.31346605945708506,
-        "ecosystem_oriented": 0.32173225797745875
+        "survival_focused": 0.7148239713471413,
+        "stability_seeking": 0.7794927722114602,
+        "achievement_oriented": 0.7662878894687568,
+        "care_oriented": 0.7048029231878664,
+        "knowledge_oriented": 0.6802340281598003,
+        "governance_oriented": 0.7655316636366438,
+        "sovereignty_order_oriented": 0.7164668677278963,
+        "expression_oriented": 0.6387223048822294,
+        "ecosystem_oriented": 0.629050693338521
       },
-      "priority_raw": 0.10224522487976126,
-      "contest_raw": 0.01763249901040026
+      "priority_raw": 0.17267615407692852,
+      "contest_raw": 0.02053661537724854
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2814295633989632,
-      "contest_score": -0.5293026459506681,
+      "priority_score": 0.2294756248476194,
+      "contest_score": 0.5598379815994797,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5200377371940765,
-      "contestedness": 0.031519475310403444,
-      "impact": 0.615,
+      "central_tendency": 0.2776997398698715,
+      "contestedness": 0.05343001092643729,
+      "impact": 0.78,
       "top_clusters": {
-        "care_oriented": 0.6111404011781432,
-        "survival_focused": 0.550881843428303
+        "expression_oriented": 0.43148209056994546,
+        "knowledge_oriented": 0.3935496454585375
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.47205629801293464
+        "survival_focused": 0.16408925378353537
       },
       "cluster_means": {
-        "survival_focused": 0.550881843428303,
-        "stability_seeking": 0.48930010888911857,
-        "achievement_oriented": 0.47205629801293464,
-        "care_oriented": 0.6111404011781432,
-        "knowledge_oriented": 0.477970116006497,
-        "governance_oriented": 0.520819584199522,
-        "sovereignty_order_oriented": 0.5464736674082005,
-        "expression_oriented": 0.4751355239274278,
-        "ecosystem_oriented": 0.5365620916965415
+        "survival_focused": 0.16408925378353537,
+        "stability_seeking": 0.2169380641772252,
+        "achievement_oriented": 0.3077180105193552,
+        "care_oriented": 0.22459543305334656,
+        "knowledge_oriented": 0.3935496454585375,
+        "governance_oriented": 0.25171809940809187,
+        "sovereignty_order_oriented": 0.20405895152427728,
+        "expression_oriented": 0.43148209056994546,
+        "ecosystem_oriented": 0.30514811033452915
       },
-      "priority_raw": 0.09594696251230712,
-      "contest_raw": 0.019384477315898117
+      "priority_raw": 0.15162405796894984,
+      "contest_raw": 0.04167540852262109
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "title": "Has Trump won over voters with his midterm convention?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.04097830508617522,
-      "contest_score": -0.953468267987559,
+      "priority_score": -0.07099603774738965,
+      "contest_score": -0.19573118248683866,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.39267795576584075,
-      "contestedness": 0.030295715560647585,
-      "impact": 0.43000000000000005,
+      "central_tendency": 0.23624568797607504,
+      "contestedness": 0.03833543475965534,
+      "impact": 0.705,
       "top_clusters": {
-        "achievement_oriented": 0.47981952837753283,
-        "expression_oriented": 0.43882751451915164
+        "expression_oriented": 0.33945390517336355,
+        "knowledge_oriented": 0.3270230192548855
       },
       "bottom_clusters": {
-        "care_oriented": 0.3394313249847779
+        "survival_focused": 0.14804457004085744
       },
       "cluster_means": {
-        "survival_focused": 0.3697270405454255,
-        "stability_seeking": 0.4070262910019107,
-        "achievement_oriented": 0.47981952837753283,
-        "care_oriented": 0.3394313249847779,
-        "knowledge_oriented": 0.43828308254150156,
-        "governance_oriented": 0.35634909750120497,
-        "sovereignty_order_oriented": 0.3643865537452288,
-        "expression_oriented": 0.43882751451915164,
-        "ecosystem_oriented": 0.3402511686758321
+        "survival_focused": 0.14804457004085744,
+        "stability_seeking": 0.1933911767073708,
+        "achievement_oriented": 0.267802703530684,
+        "care_oriented": 0.2005306554256931,
+        "knowledge_oriented": 0.3270230192548855,
+        "governance_oriented": 0.23108711326582504,
+        "sovereignty_order_oriented": 0.19027130681317023,
+        "expression_oriented": 0.33945390517336355,
+        "ecosystem_oriented": 0.22860674157282557
       },
-      "priority_raw": 0.08442576048965578,
-      "contest_raw": 0.013027157691078463
+      "priority_raw": 0.11658724701619301,
+      "contest_raw": 0.027026481505557014
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "title": "Body of missing runner found in South Africa",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.31077233554408534,
-      "contest_score": 1.7719698544633833,
+      "priority_score": -0.34061095427655513,
+      "contest_score": 2.4070751623276805,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.2197381136894309,
+      "contestedness": 0.09998648488603912,
+      "impact": 0.775,
+      "top_clusters": {
+        "expression_oriented": 0.440163234682343,
+        "knowledge_oriented": 0.3667992230909777
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.08481123888859693
+      },
+      "cluster_means": {
+        "survival_focused": 0.08481123888859693,
+        "stability_seeking": 0.12251489914493896,
+        "achievement_oriented": 0.23311929480075122,
+        "care_oriented": 0.19220934355704947,
+        "knowledge_oriented": 0.3667992230909777,
+        "governance_oriented": 0.1251300241982724,
+        "sovereignty_order_oriented": 0.09222285867101035,
+        "expression_oriented": 0.440163234682343,
+        "ecosystem_oriented": 0.3146269423308565
+      },
+      "priority_raw": 0.08514851905465447,
+      "contest_raw": 0.07748952578668032
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.46241847822840965,
+      "contest_score": 0.33527427567325824,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17665792896676438,
-      "contestedness": 0.0704255479409703,
-      "impact": 0.765,
+      "central_tendency": 0.25157810618782644,
+      "contestedness": 0.05293841367278998,
+      "impact": 0.7050000000000001,
       "top_clusters": {
-        "expression_oriented": 0.33949465584240857,
-        "knowledge_oriented": 0.28921569800697494
+        "expression_oriented": 0.41622244015542154,
+        "knowledge_oriented": 0.3634077930790827
       },
       "bottom_clusters": {
-        "survival_focused": 0.05667871619918405
+        "governance_oriented": 0.1387398006040262
       },
       "cluster_means": {
-        "survival_focused": 0.05667871619918405,
-        "stability_seeking": 0.09057353136050997,
-        "achievement_oriented": 0.18525495133492484,
-        "care_oriented": 0.1709229981408085,
-        "knowledge_oriented": 0.28921569800697494,
-        "governance_oriented": 0.12793100905164945,
-        "sovereignty_order_oriented": 0.10049745019983819,
-        "expression_oriented": 0.33949465584240857,
-        "ecosystem_oriented": 0.22935235056458078
+        "survival_focused": 0.18500562609478233,
+        "stability_seeking": 0.17097062370322638,
+        "achievement_oriented": 0.29112333401948043,
+        "care_oriented": 0.19167821427681617,
+        "knowledge_oriented": 0.3634077930790827,
+        "governance_oriented": 0.1387398006040262,
+        "sovereignty_order_oriented": 0.1865071130394704,
+        "expression_oriented": 0.41622244015542154,
+        "ecosystem_oriented": 0.32054801071813177
       },
-      "priority_raw": 0.06757165782978737,
-      "contest_raw": 0.053875544174842284
+      "priority_raw": 0.07094502594496707,
+      "contest_raw": 0.03732158163931694
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
@@ -714,178 +714,106 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3438368777873997,
-      "contest_score": 1.920986009402041,
+      "priority_score": -0.47594840754438106,
+      "contest_score": 1.3808437959426205,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.23908468493143095,
-      "contestedness": 0.08131735080484348,
+      "central_tendency": 0.2513309944018279,
+      "contestedness": 0.08346814081639026,
       "impact": 0.69,
       "top_clusters": {
-        "expression_oriented": 0.3708525247126298,
-        "knowledge_oriented": 0.3314465119558748
+        "expression_oriented": 0.3958899379589367,
+        "knowledge_oriented": 0.34890230972894754
       },
       "bottom_clusters": {
-        "stability_seeking": 0.15373763909477756
+        "survival_focused": 0.15510775392780785
       },
       "cluster_means": {
         "survival_focused": 0.15510775392780785,
-        "stability_seeking": 0.15373763909477756,
+        "stability_seeking": 0.16086046482641564,
         "achievement_oriented": 0.2695936709885961,
-        "care_oriented": 0.25012916115103134,
-        "knowledge_oriented": 0.3314465119558748,
-        "governance_oriented": 0.17880742935068217,
-        "sovereignty_order_oriented": 0.16438147527961475,
-        "expression_oriented": 0.3708525247126298,
-        "ecosystem_oriented": 0.27770599792186423
+        "care_oriented": 0.2654341689125573,
+        "knowledge_oriented": 0.34890230972894754,
+        "governance_oriented": 0.19383057129834336,
+        "sovereignty_order_oriented": 0.16559701174398006,
+        "expression_oriented": 0.3958899379589367,
+        "ecosystem_oriented": 0.3067630602308663
       },
-      "priority_raw": 0.06598737304107494,
-      "contest_raw": 0.056108972055341995
+      "priority_raw": 0.06936735445490448,
+      "contest_raw": 0.05759301716330927
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3681412668689458,
-      "contest_score": -1.1811453146903543,
+      "priority_score": -0.48492151830401936,
+      "contest_score": 1.1861002725432928,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6970196802339664,
-      "contestedness": 0.03101540071358444,
-      "impact": 0.31000000000000005,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.17861708636709825,
+      "contestedness": 0.07034946678029852,
+      "impact": 0.765,
       "top_clusters": {
-        "care_oriented": 0.7788608545645118,
-        "stability_seeking": 0.7394394123414937
+        "expression_oriented": 0.3494946558424087,
+        "knowledge_oriented": 0.29421569800697495
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6179950001357898
+        "survival_focused": 0.06667871619918406
       },
       "cluster_means": {
-        "survival_focused": 0.6731686069274443,
-        "stability_seeking": 0.7394394123414937,
-        "achievement_oriented": 0.6793630287672933,
-        "care_oriented": 0.7788608545645118,
-        "knowledge_oriented": 0.7127022076108606,
-        "governance_oriented": 0.7312355062903833,
-        "sovereignty_order_oriented": 0.6179950001357898,
-        "expression_oriented": 0.7084240116279092,
-        "ecosystem_oriented": 0.6319884938400115
+        "survival_focused": 0.06667871619918406,
+        "stability_seeking": 0.09057353136050997,
+        "achievement_oriented": 0.17525495133492483,
+        "care_oriented": 0.1609229981408085,
+        "knowledge_oriented": 0.29421569800697495,
+        "governance_oriented": 0.11793100905164944,
+        "sovereignty_order_oriented": 0.1054974501998383,
+        "expression_oriented": 0.3494946558424087,
+        "ecosystem_oriented": 0.2443523505645809
       },
-      "priority_raw": 0.06482283026175889,
-      "contest_raw": 0.009614774221211177
+      "priority_raw": 0.06832103553541508,
+      "contest_raw": 0.05381734208692837
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "title": "Bali police investigate after Australian man and children found dead in home",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3745633515823656,
-      "contest_score": -1.2656615066379981,
+      "priority_score": -0.5066755823201976,
+      "contest_score": -0.9070489858661492,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.41355843979104506,
-      "contestedness": 0.021405283138781983,
-      "impact": 0.39,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.1636427369622381,
+      "contestedness": 0.01975447322746607,
+      "impact": 0.67,
       "top_clusters": {
-        "care_oriented": 0.4510727999367473,
-        "expression_oriented": 0.4462538739777967
+        "expression_oriented": 0.3434956354766327,
+        "knowledge_oriented": 0.2861860880313712
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.35504360013467806
+        "survival_focused": 0.07234169971349289
       },
       "cluster_means": {
-        "survival_focused": 0.39041484001832105,
-        "stability_seeking": 0.4286170528573418,
-        "achievement_oriented": 0.4390703676940638,
-        "care_oriented": 0.4510727999367473,
-        "knowledge_oriented": 0.43669503059824555,
-        "governance_oriented": 0.4072117697185598,
-        "sovereignty_order_oriented": 0.35504360013467806,
-        "expression_oriented": 0.4462538739777967,
-        "ecosystem_oriented": 0.36764662318365166
+        "survival_focused": 0.07234169971349289,
+        "stability_seeking": 0.09209617294095895,
+        "achievement_oriented": 0.18336847246804436,
+        "care_oriented": 0.08425877994882429,
+        "knowledge_oriented": 0.2861860880313712,
+        "governance_oriented": 0.08854950974209784,
+        "sovereignty_order_oriented": 0.08808543688177531,
+        "expression_oriented": 0.3434956354766327,
+        "ecosystem_oriented": 0.20709765071021013
       },
-      "priority_raw": 0.06451511660740304,
-      "contest_raw": 0.008348060424124974
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4564106092154517,
-      "contest_score": 1.048879511483232,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.15945634755874677,
-      "contestedness": 0.056628938801537076,
-      "impact": 0.76,
-      "top_clusters": {
-        "expression_oriented": 0.3068782053977629,
-        "knowledge_oriented": 0.2705223724371317
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.049358839726557774
-      },
-      "cluster_means": {
-        "survival_focused": 0.049358839726557774,
-        "stability_seeking": 0.07469849398625203,
-        "achievement_oriented": 0.1475673659495034,
-        "care_oriented": 0.16375234280603274,
-        "knowledge_oriented": 0.2705223724371317,
-        "governance_oriented": 0.12030003416808141,
-        "sovereignty_order_oriented": 0.09783316880635834,
-        "expression_oriented": 0.3068782053977629,
-        "ecosystem_oriented": 0.20419630475104047
-      },
-      "priority_raw": 0.06059341207232377,
-      "contest_raw": 0.04303799348916818
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5357354054944522,
-      "contest_score": -1.1987819187762532,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.3473551746973169,
-      "contestedness": 0.017156770469581084,
-      "impact": 0.545,
-      "top_clusters": {
-        "achievement_oriented": 0.4355382464823253,
-        "expression_oriented": 0.4168428410324476
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.27138280333956305
-      },
-      "cluster_means": {
-        "survival_focused": 0.3279594921175676,
-        "stability_seeking": 0.3108027216479865,
-        "achievement_oriented": 0.4355382464823253,
-        "care_oriented": 0.325652123195017,
-        "knowledge_oriented": 0.39357649557736996,
-        "governance_oriented": 0.27138280333956305,
-        "sovereignty_order_oriented": 0.3110404245232037,
-        "expression_oriented": 0.4168428410324476,
-        "ecosystem_oriented": 0.33340142436037146
-      },
-      "priority_raw": 0.05679257106301132,
-      "contest_raw": 0.009350439905921692
+      "priority_raw": 0.06578438025881972,
+      "contest_raw": 0.013235497062402266
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
@@ -894,106 +822,142 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9339646310650709,
-      "contest_score": 0.46302688395154773,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9166666666666666,
-      "central_tendency": 0.1267611794131874,
-      "contestedness": 0.05757535715584611,
-      "impact": 0.595,
-      "top_clusters": {
-        "expression_oriented": 0.3119406434850705,
-        "knowledge_oriented": 0.2512148169511942
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.014745745619249656
-      },
-      "cluster_means": {
-        "survival_focused": 0.03134354790440033,
-        "stability_seeking": 0.06309989867769207,
-        "achievement_oriented": 0.06994256769281915,
-        "care_oriented": 0.13040103857555063,
-        "knowledge_oriented": 0.2512148169511942,
-        "governance_oriented": 0.07282568141970452,
-        "sovereignty_order_oriented": 0.014745745619249656,
-        "expression_oriented": 0.3119406434850705,
-        "ecosystem_oriented": 0.14289905285094381
-      },
-      "priority_raw": 0.03771145087542325,
-      "contest_raw": 0.034257337507728435
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -1.053264534545512,
-      "contest_score": 2.1149334876712422,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.11109446504439971,
-      "contestedness": 0.08196642040987352,
-      "impact": 0.72,
-      "top_clusters": {
-        "expression_oriented": 0.22593862453710833,
-        "knowledge_oriented": 0.15011548633250427
-      },
-      "bottom_clusters": {
-        "stability_seeking": -0.05410212194926095
-      },
-      "cluster_means": {
-        "survival_focused": -0.03856321660304016,
-        "stability_seeking": -0.05410212194926095,
-        "achievement_oriented": 0.029871669166936163,
-        "care_oriented": 0.11183808957680968,
-        "knowledge_oriented": 0.15011548633250427,
-        "governance_oriented": 0.00220087754479506,
-        "sovereignty_order_oriented": -0.030477613533203385,
-        "expression_oriented": 0.22593862453710833,
-        "ecosystem_oriented": 0.14305801526765635
-      },
-      "priority_raw": 0.03199520593278712,
-      "contest_raw": 0.05901582269510893
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -1.2213684617491525,
-      "contest_score": 0.16716000156206123,
+      "priority_score": -0.5282095643813025,
+      "contest_score": 0.538652682716326,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.49876083868254256,
-      "contestedness": 0.06213111831764356,
-      "impact": 0.48,
+      "central_tendency": 0.21268365669801895,
+      "contestedness": 0.06935238536462543,
+      "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.6326610073056553,
-        "knowledge_oriented": 0.5774309839145894
+        "expression_oriented": 0.3980574402115529,
+        "knowledge_oriented": 0.3388693706826915
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.4190410645004743
+        "sovereignty_order_oriented": 0.09706904211410496
       },
       "cluster_means": {
-        "survival_focused": 0.4846495570455976,
-        "stability_seeking": 0.4783241142715471,
-        "achievement_oriented": 0.4190410645004743,
-        "care_oriented": 0.5127481547977012,
-        "knowledge_oriented": 0.5774309839145894,
-        "governance_oriented": 0.422518438727954,
-        "sovereignty_order_oriented": 0.4193886540337861,
-        "expression_oriented": 0.6326610073056553,
-        "ecosystem_oriented": 0.5420855735455783
+        "survival_focused": 0.12132416496203319,
+        "stability_seeking": 0.15323771360582888,
+        "achievement_oriented": 0.14907540236679007,
+        "care_oriented": 0.24235800309372263,
+        "knowledge_oriented": 0.3388693706826915,
+        "governance_oriented": 0.17240469394041064,
+        "sovereignty_order_oriented": 0.09706904211410496,
+        "expression_oriented": 0.3980574402115529,
+        "ecosystem_oriented": 0.24175707930503607
       },
-      "priority_raw": 0.023940520256762046,
-      "contest_raw": 0.029822936792468908
+      "priority_raw": 0.06327338786766064,
+      "contest_raw": 0.041264669291952126
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.531527308713597,
+      "contest_score": 1.8077881374805953,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.7222222222222222,
+      "central_tendency": 0.1278181277167284,
+      "contestedness": 0.08032998410980582,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.29576306692679566,
+        "knowledge_oriented": 0.23877250206482847
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.038130109207380386
+      },
+      "cluster_means": {
+        "survival_focused": -0.038130109207380386,
+        "stability_seeking": 0.010209193832717872,
+        "achievement_oriented": 0.11492113270664375,
+        "care_oriented": 0.0905391779425237,
+        "knowledge_oriented": 0.23877250206482847,
+        "governance_oriented": 0.044598552206456116,
+        "sovereignty_order_oriented": 0.007740678473224544,
+        "expression_oriented": 0.29576306692679566,
+        "ecosystem_oriented": 0.1617031863195048
+      },
+      "priority_raw": 0.06288651883663038,
+      "contest_raw": 0.06587058697004078
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6961522670630312,
+      "contest_score": 0.030591693505895034,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5277777777777778,
+      "central_tendency": 0.0800187806298915,
+      "contestedness": 0.04027489111090016,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.17088454327933103,
+        "knowledge_oriented": 0.10522004572158042
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.08257502442980141
+      },
+      "cluster_means": {
+        "survival_focused": -0.08257502442980141,
+        "stability_seeking": -0.0455009982069548,
+        "achievement_oriented": -0.024012099002529957,
+        "care_oriented": 0.016832145571764767,
+        "knowledge_oriented": 0.10522004572158042,
+        "governance_oriented": -0.02344274553913539,
+        "sovereignty_order_oriented": -0.05508703591374234,
+        "expression_oriented": 0.17088454327933103,
+        "ecosystem_oriented": 0.051745481805656385
+      },
+      "priority_raw": 0.043690254223920755,
+      "contest_raw": 0.031414415066502124
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7475619740980729,
+      "contest_score": -1.140059012390105,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2692540844787722,
+      "contestedness": 0.031135405182916492,
+      "impact": 0.28,
+      "top_clusters": {
+        "expression_oriented": 0.41544310875155416,
+        "knowledge_oriented": 0.390379297032678
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.15374835043220392
+      },
+      "cluster_means": {
+        "survival_focused": 0.16099501964574375,
+        "stability_seeking": 0.2662103617463573,
+        "achievement_oriented": 0.278240231333941,
+        "care_oriented": 0.2478550983885881,
+        "knowledge_oriented": 0.390379297032678,
+        "governance_oriented": 0.27534033641444305,
+        "sovereignty_order_oriented": 0.15374835043220392,
+        "expression_oriented": 0.41544310875155416,
+        "ecosystem_oriented": 0.23507495656344082
+      },
+      "priority_raw": 0.03769557182702811,
+      "contest_raw": 0.008717913451216619
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
@@ -1002,8 +966,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -1.294840583889763,
-      "contest_score": -0.06661646979006283,
+      "priority_score": -0.8957143516640227,
+      "contest_score": -0.23221496626222982,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.5277777777777778,
@@ -1032,222 +996,222 @@
       "contest_raw": 0.02631913622039263
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -1.430988597861283,
-      "contest_score": 0.4110825853801656,
+      "priority_score": -0.8988599878617037,
+      "contest_score": -0.6801727556514128,
       "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.07532026497251235,
-      "contestedness": 0.05443708213156395,
-      "impact": 0.615,
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.41777728038854156,
+      "contestedness": 0.036737831291451306,
+      "impact": 0.48,
       "top_clusters": {
-        "ecosystem_oriented": 0.05929317072852752,
-        "expression_oriented": 0.05584467679683519
+        "expression_oriented": 0.5607594126012115,
+        "knowledge_oriented": 0.5156402923040474
       },
       "bottom_clusters": {
-        "governance_oriented": -0.12690806332603166
+        "governance_oriented": 0.314163200338675
       },
       "cluster_means": {
-        "survival_focused": -0.07402013165812654,
-        "stability_seeking": -0.118322439007115,
-        "achievement_oriented": -0.0659914820436962,
-        "care_oriented": -0.03327188051298324,
-        "knowledge_oriented": -0.007342078753316855,
-        "governance_oriented": -0.12690806332603166,
-        "sovereignty_order_oriented": -0.06388535687555105,
-        "expression_oriented": 0.05584467679683519,
-        "ecosystem_oriented": 0.05929317072852752
+        "survival_focused": 0.40407890262726287,
+        "stability_seeking": 0.3975780399514261,
+        "achievement_oriented": 0.39326555555360987,
+        "care_oriented": 0.3677833312500235,
+        "knowledge_oriented": 0.5156402923040474,
+        "governance_oriented": 0.314163200338675,
+        "sovereignty_order_oriented": 0.3608402086599748,
+        "expression_oriented": 0.5607594126012115,
+        "ecosystem_oriented": 0.4458865802106429
       },
-      "priority_raw": 0.013896588887428526,
-      "contest_raw": 0.03347880551091183
+      "priority_raw": 0.020053309458649998,
+      "contest_raw": 0.017634159019896626
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.9058297845011821,
+      "contest_score": -0.9751896203698939,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.38481178134448457,
+      "contestedness": 0.023828781527500176,
+      "impact": 0.5000000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.512931903051622,
+        "knowledge_oriented": 0.4738451799277912
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.29762365059042384
+      },
+      "cluster_means": {
+        "survival_focused": 0.3586068148151326,
+        "stability_seeking": 0.36060880245712684,
+        "achievement_oriented": 0.3495982228543797,
+        "care_oriented": 0.35705585292151365,
+        "knowledge_oriented": 0.4738451799277912,
+        "governance_oriented": 0.29762365059042384,
+        "sovereignty_order_oriented": 0.33477803328763245,
+        "expression_oriented": 0.512931903051622,
+        "ecosystem_oriented": 0.41825757219473947
+      },
+      "priority_raw": 0.019240589067224236,
+      "contest_raw": 0.011914390763750091
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Africa's richest man launches continent's biggest share sale",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.157621256864064,
-      "contest_score": -0.17749932537947408,
+      "priority_score": 3.2761223759715064,
+      "contest_score": -0.3707058704393706,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7908277927548188,
-      "contestedness": 0.05246222024090286,
-      "impact": 0.4700000000000001,
+      "central_tendency": 1.158586224877657,
+      "contestedness": 0.03781453337057106,
+      "impact": 0.6250000000000001,
       "top_clusters": {
-        "expression_oriented": 0.9493433697479476,
-        "knowledge_oriented": 0.8938597711011349
+        "achievement_oriented": 1.2629998963714013,
+        "stability_seeking": 1.231173281091986
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6131467495453433
+        "expression_oriented": 1.0140161035744457
       },
       "cluster_means": {
-        "survival_focused": 0.7244017407105077,
-        "stability_seeking": 0.7768639609514105,
-        "achievement_oriented": 0.7343399166807311,
-        "care_oriented": 0.8563364150107268,
-        "knowledge_oriented": 0.8938597711011349,
-        "governance_oriented": 0.7692724070740926,
-        "sovereignty_order_oriented": 0.6131467495453433,
-        "expression_oriented": 0.9493433697479476,
-        "ecosystem_oriented": 0.7998858039714748
+        "survival_focused": 1.194316346352907,
+        "stability_seeking": 1.231173281091986,
+        "achievement_oriented": 1.2629998963714013,
+        "care_oriented": 1.1642936014522283,
+        "knowledge_oriented": 1.0875003775344823,
+        "governance_oriented": 1.2186976564978358,
+        "sovereignty_order_oriented": 1.193358747721415,
+        "expression_oriented": 1.0140161035744457,
+        "ecosystem_oriented": 1.0609200133022134
       },
-      "priority_raw": 0.18584453129738246,
-      "contest_raw": 0.024657243513224347
+      "priority_raw": 0.506881473383975,
+      "contest_raw": 0.023634083356606914
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.9102562866724888,
-      "contest_score": -0.44342814196811664,
+      "priority_score": 1.5064365841702934,
+      "contest_score": -0.470575223521085,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7160167051262485,
-      "contestedness": 0.05104086235677052,
-      "impact": 0.405,
+      "central_tendency": 0.8673172286084079,
+      "contestedness": 0.04383398520233972,
+      "impact": 0.49500000000000005,
       "top_clusters": {
-        "stability_seeking": 0.7831426996222104,
-        "achievement_oriented": 0.7784661144545912
+        "expression_oriented": 0.9739190396166352,
+        "knowledge_oriented": 0.9615696744635971
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6333418089181183
+        "sovereignty_order_oriented": 0.7226635542979533
       },
       "cluster_means": {
-        "survival_focused": 0.717095776620975,
-        "stability_seeking": 0.7831426996222104,
-        "achievement_oriented": 0.7784661144545912,
-        "care_oriented": 0.7057899247300563,
-        "knowledge_oriented": 0.6913096449142799,
-        "governance_oriented": 0.7681366389777455,
-        "sovereignty_order_oriented": 0.7171124384191562,
-        "expression_oriented": 0.6497552994791029,
-        "ecosystem_oriented": 0.6333418089181183
+        "survival_focused": 0.7549616953584987,
+        "stability_seeking": 0.8726435230807255,
+        "achievement_oriented": 0.8400824326460121,
+        "care_oriented": 0.8979728263743667,
+        "knowledge_oriented": 0.9615696744635971,
+        "governance_oriented": 0.9164775082830652,
+        "sovereignty_order_oriented": 0.7226635542979533,
+        "expression_oriented": 0.9739190396166352,
+        "ecosystem_oriented": 0.865564803354818
       },
-      "priority_raw": 0.1739920593456784,
-      "contest_raw": 0.020671549254492064
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.126822899139209,
-      "contest_score": -0.0006683773343471442,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2499155930564861,
-      "contestedness": 0.03500968540144869,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.37483140555929745,
-        "knowledge_oriented": 0.3405192795540818
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.15500203268820067
-      },
-      "cluster_means": {
-        "survival_focused": 0.15500203268820067,
-        "stability_seeking": 0.19877694166840537,
-        "achievement_oriented": 0.2590051105760176,
-        "care_oriented": 0.21299492300382397,
-        "knowledge_oriented": 0.3405192795540818,
-        "governance_oriented": 0.23378662706985406,
-        "sovereignty_order_oriented": 0.20086890052705525,
-        "expression_oriented": 0.37483140555929745,
-        "ecosystem_oriented": 0.27345511686163904
-      },
-      "priority_raw": 0.13645391380884142,
-      "contest_raw": 0.027307554613129982
+      "priority_raw": 0.3005254197128133,
+      "contest_raw": 0.021697822675158164
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.012423173492732,
-      "contest_score": -0.48302419325237494,
+      "priority_score": 1.053531131476005,
+      "contest_score": -0.6248868344099394,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5187028137787818,
-      "contestedness": 0.03975859527292591,
-      "impact": 0.505,
+      "central_tendency": 0.7506482060906827,
+      "contestedness": 0.03401097991522328,
+      "impact": 0.55,
       "top_clusters": {
-        "achievement_oriented": 0.5968027424711525,
-        "knowledge_oriented": 0.566333606853525
+        "governance_oriented": 0.7991311188032685,
+        "care_oriented": 0.7985121793538965
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4502387045694993
+        "ecosystem_oriented": 0.6971995626910479
       },
       "cluster_means": {
-        "survival_focused": 0.48887356893923706,
-        "stability_seeking": 0.5391012445065356,
-        "achievement_oriented": 0.5968027424711525,
-        "care_oriented": 0.4859299062069379,
-        "knowledge_oriented": 0.566333606853525,
-        "governance_oriented": 0.4993426492336097,
-        "sovereignty_order_oriented": 0.4852860379498482,
-        "expression_oriented": 0.5564168632786917,
-        "ecosystem_oriented": 0.4502387045694993
+        "survival_focused": 0.7247163783181355,
+        "stability_seeking": 0.7835881063281901,
+        "achievement_oriented": 0.7282587118364869,
+        "care_oriented": 0.7985121793538965,
+        "knowledge_oriented": 0.7678493457525153,
+        "governance_oriented": 0.7991311188032685,
+        "sovereignty_order_oriented": 0.7070013253196379,
+        "expression_oriented": 0.7495771264129668,
+        "ecosystem_oriented": 0.6971995626910479
       },
-      "priority_raw": 0.1309724604791424,
-      "contest_raw": 0.020078090612827587
+      "priority_raw": 0.24771390800992532,
+      "contest_raw": 0.018706038953372806
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7668340726673878,
-      "contest_score": -0.8117815287199599,
+      "priority_score": 0.5879304288617058,
+      "contest_score": -1.098420971432437,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7690650268404295,
-      "contestedness": 0.04887333413097661,
-      "impact": 0.31000000000000005,
+      "central_tendency": 0.6556679778870808,
+      "contestedness": 0.016144388385804898,
+      "impact": 0.59,
       "top_clusters": {
-        "stability_seeking": 0.8385942492117114,
-        "governance_oriented": 0.8354872809380063
+        "achievement_oriented": 0.7486465707949659,
+        "stability_seeking": 0.6803853443458223
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6850810265756138
+        "ecosystem_oriented": 0.5826865048685692
       },
       "cluster_means": {
-        "survival_focused": 0.7527655876077889,
-        "stability_seeking": 0.8385942492117114,
-        "achievement_oriented": 0.7695019503742455,
-        "care_oriented": 0.8159733828960627,
-        "knowledge_oriented": 0.7662364092743258,
-        "governance_oriented": 0.8354872809380063,
-        "sovereignty_order_oriented": 0.7173630751433492,
-        "expression_oriented": 0.7405822795427615,
-        "ecosystem_oriented": 0.6850810265756138
+        "survival_focused": 0.6664574910727982,
+        "stability_seeking": 0.6803853443458223,
+        "achievement_oriented": 0.7486465707949659,
+        "care_oriented": 0.6503131026869933,
+        "knowledge_oriented": 0.6768738231248466,
+        "governance_oriented": 0.6024418645155171,
+        "sovereignty_order_oriented": 0.6239277595538281,
+        "expression_oriented": 0.6692793400203865,
+        "ecosystem_oriented": 0.5826865048685692
       },
-      "priority_raw": 0.1192050791602666,
-      "contest_raw": 0.015150733580602751
+      "priority_raw": 0.1934220534766888,
+      "contest_raw": 0.00952518914762489
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
@@ -1256,437 +1220,444 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6146447371916457,
-      "contest_score": -0.14046455627690257,
+      "priority_score": 0.48191409063874635,
+      "contest_score": -1.0206900658897802,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.47622527583775454,
-      "contestedness": 0.05364322150793316,
+      "central_tendency": 0.6420564113994538,
+      "contestedness": 0.023472831941990346,
       "impact": 0.47000000000000003,
       "top_clusters": {
-        "knowledge_oriented": 0.5458276341969633,
-        "expression_oriented": 0.5414739167598301
+        "stability_seeking": 0.7177873224518431,
+        "survival_focused": 0.6952008553380322
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4083095405835407
+        "ecosystem_oriented": 0.5042810485955417
       },
       "cluster_means": {
-        "survival_focused": 0.4270701347152037,
-        "stability_seeking": 0.49265895816686617,
-        "achievement_oriented": 0.46528040219085937,
-        "care_oriented": 0.487830695251897,
-        "knowledge_oriented": 0.5458276341969633,
-        "governance_oriented": 0.4967116305082441,
-        "sovereignty_order_oriented": 0.4208645701663861,
-        "expression_oriented": 0.5414739167598301,
-        "ecosystem_oriented": 0.4083095405835407
+        "survival_focused": 0.6952008553380322,
+        "stability_seeking": 0.7177873224518431,
+        "achievement_oriented": 0.6221937174645298,
+        "care_oriented": 0.6447399870035242,
+        "knowledge_oriented": 0.6456665494065201,
+        "governance_oriented": 0.6679765136898872,
+        "sovereignty_order_oriented": 0.6662077018234078,
+        "expression_oriented": 0.6144540068217983,
+        "ecosystem_oriented": 0.5042810485955417
       },
-      "priority_raw": 0.11191293982187232,
-      "contest_raw": 0.025212314108728585
+      "priority_raw": 0.18105990801464597,
+      "contest_raw": 0.011032231012735464
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.41287636109081677,
-      "contest_score": -0.6461960871495945,
+      "priority_score": 0.4100159807379877,
+      "contest_score": -0.5304685130699021,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3121991599382023,
-      "contestedness": 0.026919845817404975,
-      "impact": 0.655,
+      "central_tendency": 0.7106014571067018,
+      "contestedness": 0.05070769228950256,
+      "impact": 0.405,
       "top_clusters": {
-        "achievement_oriented": 0.41107775622367987,
-        "sovereignty_order_oriented": 0.350371149026467
+        "stability_seeking": 0.7794927722114602,
+        "achievement_oriented": 0.7662878894687568
       },
       "bottom_clusters": {
-        "governance_oriented": 0.25099987880116775
+        "ecosystem_oriented": 0.629050693338521
       },
       "cluster_means": {
-        "survival_focused": 0.3161786963549984,
-        "stability_seeking": 0.2865462136396801,
-        "achievement_oriented": 0.41107775622367987,
-        "care_oriented": 0.26294426529048304,
-        "knowledge_oriented": 0.29647616267280097,
-        "governance_oriented": 0.25099987880116775,
-        "sovereignty_order_oriented": 0.350371149026467,
-        "expression_oriented": 0.31346605945708506,
-        "ecosystem_oriented": 0.32173225797745875
+        "survival_focused": 0.7148239713471413,
+        "stability_seeking": 0.7794927722114602,
+        "achievement_oriented": 0.7662878894687568,
+        "care_oriented": 0.7048029231878664,
+        "knowledge_oriented": 0.6802340281598003,
+        "governance_oriented": 0.7655316636366438,
+        "sovereignty_order_oriented": 0.7164668677278963,
+        "expression_oriented": 0.6387223048822294,
+        "ecosystem_oriented": 0.629050693338521
       },
-      "priority_raw": 0.10224522487976126,
-      "contest_raw": 0.01763249901040026
+      "priority_raw": 0.17267615407692852,
+      "contest_raw": 0.02053661537724854
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2814295633989632,
-      "contest_score": -0.5293026459506681,
+      "priority_score": 0.2294756248476194,
+      "contest_score": 0.5598379815994797,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5200377371940765,
-      "contestedness": 0.031519475310403444,
-      "impact": 0.615,
+      "central_tendency": 0.2776997398698715,
+      "contestedness": 0.05343001092643729,
+      "impact": 0.78,
       "top_clusters": {
-        "care_oriented": 0.6111404011781432,
-        "survival_focused": 0.550881843428303
+        "expression_oriented": 0.43148209056994546,
+        "knowledge_oriented": 0.3935496454585375
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.47205629801293464
+        "survival_focused": 0.16408925378353537
       },
       "cluster_means": {
-        "survival_focused": 0.550881843428303,
-        "stability_seeking": 0.48930010888911857,
-        "achievement_oriented": 0.47205629801293464,
-        "care_oriented": 0.6111404011781432,
-        "knowledge_oriented": 0.477970116006497,
-        "governance_oriented": 0.520819584199522,
-        "sovereignty_order_oriented": 0.5464736674082005,
-        "expression_oriented": 0.4751355239274278,
-        "ecosystem_oriented": 0.5365620916965415
+        "survival_focused": 0.16408925378353537,
+        "stability_seeking": 0.2169380641772252,
+        "achievement_oriented": 0.3077180105193552,
+        "care_oriented": 0.22459543305334656,
+        "knowledge_oriented": 0.3935496454585375,
+        "governance_oriented": 0.25171809940809187,
+        "sovereignty_order_oriented": 0.20405895152427728,
+        "expression_oriented": 0.43148209056994546,
+        "ecosystem_oriented": 0.30514811033452915
       },
-      "priority_raw": 0.09594696251230712,
-      "contest_raw": 0.019384477315898117
+      "priority_raw": 0.15162405796894984,
+      "contest_raw": 0.04167540852262109
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "title": "Has Trump won over voters with his midterm convention?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.04097830508617522,
-      "contest_score": -0.953468267987559,
+      "priority_score": -0.07099603774738965,
+      "contest_score": -0.19573118248683866,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.39267795576584075,
-      "contestedness": 0.030295715560647585,
-      "impact": 0.43000000000000005,
+      "central_tendency": 0.23624568797607504,
+      "contestedness": 0.03833543475965534,
+      "impact": 0.705,
       "top_clusters": {
-        "achievement_oriented": 0.47981952837753283,
-        "expression_oriented": 0.43882751451915164
+        "expression_oriented": 0.33945390517336355,
+        "knowledge_oriented": 0.3270230192548855
       },
       "bottom_clusters": {
-        "care_oriented": 0.3394313249847779
+        "survival_focused": 0.14804457004085744
       },
       "cluster_means": {
-        "survival_focused": 0.3697270405454255,
-        "stability_seeking": 0.4070262910019107,
-        "achievement_oriented": 0.47981952837753283,
-        "care_oriented": 0.3394313249847779,
-        "knowledge_oriented": 0.43828308254150156,
-        "governance_oriented": 0.35634909750120497,
-        "sovereignty_order_oriented": 0.3643865537452288,
-        "expression_oriented": 0.43882751451915164,
-        "ecosystem_oriented": 0.3402511686758321
+        "survival_focused": 0.14804457004085744,
+        "stability_seeking": 0.1933911767073708,
+        "achievement_oriented": 0.267802703530684,
+        "care_oriented": 0.2005306554256931,
+        "knowledge_oriented": 0.3270230192548855,
+        "governance_oriented": 0.23108711326582504,
+        "sovereignty_order_oriented": 0.19027130681317023,
+        "expression_oriented": 0.33945390517336355,
+        "ecosystem_oriented": 0.22860674157282557
       },
-      "priority_raw": 0.08442576048965578,
-      "contest_raw": 0.013027157691078463
+      "priority_raw": 0.11658724701619301,
+      "contest_raw": 0.027026481505557014
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "title": "Body of missing runner found in South Africa",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.31077233554408534,
-      "contest_score": 1.7719698544633833,
+      "priority_score": -0.34061095427655513,
+      "contest_score": 2.4070751623276805,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.2197381136894309,
+      "contestedness": 0.09998648488603912,
+      "impact": 0.775,
+      "top_clusters": {
+        "expression_oriented": 0.440163234682343,
+        "knowledge_oriented": 0.3667992230909777
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.08481123888859693
+      },
+      "cluster_means": {
+        "survival_focused": 0.08481123888859693,
+        "stability_seeking": 0.12251489914493896,
+        "achievement_oriented": 0.23311929480075122,
+        "care_oriented": 0.19220934355704947,
+        "knowledge_oriented": 0.3667992230909777,
+        "governance_oriented": 0.1251300241982724,
+        "sovereignty_order_oriented": 0.09222285867101035,
+        "expression_oriented": 0.440163234682343,
+        "ecosystem_oriented": 0.3146269423308565
+      },
+      "priority_raw": 0.08514851905465447,
+      "contest_raw": 0.07748952578668032
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.46241847822840965,
+      "contest_score": 0.33527427567325824,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17665792896676438,
-      "contestedness": 0.0704255479409703,
-      "impact": 0.765,
+      "central_tendency": 0.25157810618782644,
+      "contestedness": 0.05293841367278998,
+      "impact": 0.7050000000000001,
       "top_clusters": {
-        "expression_oriented": 0.33949465584240857,
-        "knowledge_oriented": 0.28921569800697494
+        "expression_oriented": 0.41622244015542154,
+        "knowledge_oriented": 0.3634077930790827
       },
       "bottom_clusters": {
-        "survival_focused": 0.05667871619918405
+        "governance_oriented": 0.1387398006040262
       },
       "cluster_means": {
-        "survival_focused": 0.05667871619918405,
-        "stability_seeking": 0.09057353136050997,
-        "achievement_oriented": 0.18525495133492484,
-        "care_oriented": 0.1709229981408085,
-        "knowledge_oriented": 0.28921569800697494,
-        "governance_oriented": 0.12793100905164945,
-        "sovereignty_order_oriented": 0.10049745019983819,
-        "expression_oriented": 0.33949465584240857,
-        "ecosystem_oriented": 0.22935235056458078
+        "survival_focused": 0.18500562609478233,
+        "stability_seeking": 0.17097062370322638,
+        "achievement_oriented": 0.29112333401948043,
+        "care_oriented": 0.19167821427681617,
+        "knowledge_oriented": 0.3634077930790827,
+        "governance_oriented": 0.1387398006040262,
+        "sovereignty_order_oriented": 0.1865071130394704,
+        "expression_oriented": 0.41622244015542154,
+        "ecosystem_oriented": 0.32054801071813177
       },
-      "priority_raw": 0.06757165782978737,
-      "contest_raw": 0.053875544174842284
+      "priority_raw": 0.07094502594496707,
+      "contest_raw": 0.03732158163931694
     }
   ],
   "mood": {
-    "score": 0.023889892175151785,
+    "score": 0.033413389556706224,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Best friends for decades - until a DNA test revealed they were sisters",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "name": "Best friends for decades - until a DNA test revealed they were sisters",
-      "root_cause": "Best friends for decades - until a DNA test revealed they were sisters",
+      "target": "Africa's richest man launches continent's biggest share sale",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "name": "Africa's richest man launches continent's biggest share sale",
+      "root_cause": "Africa's richest man launches continent's biggest share sale",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.157621256864064,
-      "contest_score": -0.17749932537947408,
-      "contestedness": 0.05246222024090286,
+      "priority_score": 3.2761223759715064,
+      "contest_score": -0.3707058704393706,
+      "contestedness": 0.03781453337057106,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Best friends for decades - until a DNA test revealed they were sisters"
+        "Africa's richest man launches continent's biggest share sale"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Best friends for decades - until a DNA test revealed they were sisters is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Best friends for decades - until a DNA test revealed they were sisters fade or reverse without spillover."
+      "prediction": "Momentum around Africa's richest man launches continent's biggest share sale is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Africa's richest man launches continent's biggest share sale fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "name": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "root_cause": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "target": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "name": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "root_cause": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.9102562866724888,
-      "contest_score": -0.44342814196811664,
-      "contestedness": 0.05104086235677052,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, achievement_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Trump says he will remove all Irish whiskey tariffs as he ends two-day visit is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Trump says he will remove all Irish whiskey tariffs as he ends two-day visit fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
-      "target": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "name": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "root_cause": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 1.126822899139209,
-      "contest_score": -0.0006683773343471442,
-      "contestedness": 0.03500968540144869,
+      "priority_score": 1.5064365841702934,
+      "contest_score": -0.470575223521085,
+      "contestedness": 0.04383398520233972,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea"
+        "Wild dogs record 2,500-mile trek across Zambia in search of a mate"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Six dead, 130 missing after Indonesian ferry capsizes in Java Sea is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Six dead, 130 missing after Indonesian ferry capsizes in Java Sea fade or reverse without spillover."
+      "prediction": "Momentum around Wild dogs record 2,500-mile trek across Zambia in search of a mate is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Wild dogs record 2,500-mile trek across Zambia in search of a mate fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "Swedish party blocs tied after Sunday vote, projections say",
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "name": "Swedish party blocs tied after Sunday vote, projections say",
-      "root_cause": "Swedish party blocs tied after Sunday vote, projections say",
+      "rank": 3,
+      "target": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "name": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "root_cause": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.012423173492732,
-      "contest_score": -0.48302419325237494,
-      "contestedness": 0.03975859527292591,
+      "priority_score": 1.053531131476005,
+      "contest_score": -0.6248868344099394,
+      "contestedness": 0.03401097991522328,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Swedish party blocs tied after Sunday vote, projections say"
+        "Swedish left-wing bloc narrowly ahead with election too close to call"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Swedish party blocs tied after Sunday vote, projections say is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Swedish party blocs tied after Sunday vote, projections say fade or reverse without spillover."
+      "prediction": "Momentum around Swedish left-wing bloc narrowly ahead with election too close to call is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Swedish left-wing bloc narrowly ahead with election too close to call fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "rank": 5,
-      "target": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "name": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "root_cause": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
+      "id": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "China criticises idea it is in 'malicious competition' over AI",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "name": "China criticises idea it is in 'malicious competition' over AI",
+      "root_cause": "China criticises idea it is in 'malicious competition' over AI",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7668340726673878,
-      "contest_score": -0.8117815287199599,
-      "contestedness": 0.04887333413097661,
+      "priority_score": 0.5879304288617058,
+      "contest_score": -1.098420971432437,
+      "contestedness": 0.016144388385804898,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, governance_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris"
+        "China criticises idea it is in 'malicious competition' over AI"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris fade or reverse without spillover."
+      "prediction": "Momentum around China criticises idea it is in 'malicious competition' over AI is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to China criticises idea it is in 'malicious competition' over AI fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "rank": 5,
+      "target": "US congressman swims to safety after his plane is forced to land on a lake",
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "name": "US congressman swims to safety after his plane is forced to land on a lake",
+      "root_cause": "US congressman swims to safety after his plane is forced to land on a lake",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.48191409063874635,
+      "contest_score": -1.0206900658897802,
+      "contestedness": 0.023472831941990346,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
+      "signal_count": 1,
+      "signals": [
+        "US congressman swims to safety after his plane is forced to land on a lake"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around US congressman swims to safety after his plane is forced to land on a lake is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to US congressman swims to safety after his plane is forced to land on a lake fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a mix of positive developments tempered by underlying uncertainties, with structural patterns leaning toward cautious optimism amidst contested dynamics.\n\n**1. Structural Highlights:**  \nThe most notable signals today center around personal and geopolitical revelations, with a surprising story of familial discovery and a diplomatic gesture from former President Trump. The revelation of two lifelong friends discovering they are sisters through DNA testing underscores the human capacity for connection and resilience, resonating strongly with expression- and knowledge-oriented clusters. Meanwhile, Trump's announcement to remove Irish whiskey tariffs during his visit to Ireland signals a potential thaw in trade tensions, aligning with stability-seeking and achievement-oriented priorities. Both signals point to positive trajectories but remain rooted in background noise, suggesting limited immediate structural impact.\n\n**2. Contested Signals and Emerging Risks:**  \nSeveral signals highlight contested dynamics, particularly in the geopolitical and social spheres. The Indonesian ferry disaster, with six confirmed dead and over 130 missing, underscores vulnerabilities in infrastructure and disaster preparedness in Southeast Asia. While the signal is categorized as positive due to the ongoing rescue efforts, the survival-focused cluster remains underrepresented, suggesting broader systemic risks. Similarly, the Swedish election results, which show party blocs tied, reflect governance challenges and potential political gridlock. The contestedness of these signals reveals uncertainty around their longer-term implications.\n\n**3. Longer-Term Trajectories:**  \nThe signals collectively point to a cautious recalibration of priorities across different domains. Trump's dismissal of AI risks, alongside questions about an AI \"slowdown,\" highlights the growing tension between technological advancement and regulatory oversight. This aligns with broader concerns about the balance between innovation and stability in global governance. Additionally, the Iranian conflict's impact on BRICS relations signals deeper fractures within emerging economies, emphasizing the need to monitor alignment shifts in multipolar power structures.\n\n**4. What to Watch Next:**  \nKey areas to monitor include the unfolding rescue efforts in Indonesia, which may reveal structural weaknesses in maritime safety, and the aftermath of Sweden's election, where political negotiations could shape the country's governance trajectory. Additionally, the implications of Trump's tariff removal on broader trade relations warrant attention, particularly in the context of U.S.-EU economic ties. Finally, the evolving discourse on AI regulation and its intersection with geopolitical competition remains a critical area for future analysis.\n\nIn summary, while today's signals offer glimpses of positive developments, they are tempered by contested dynamics and long-term uncertainties. The mood remains cautious as structural shifts continue to unfold.",
+  "narrative": "🟡 **Cautious mood persists as today's signals reflect a mix of progress, uncertainty, and contested narratives. Structural patterns suggest a focus on achievement and stability, but with underlying tensions in governance and geopolitical dynamics.**\n\n1. **Structural progress is evident in Africa's economic ambitions, but broader implications remain unclear.** The launch of the continent's largest share sale by Africa's richest man signals a significant milestone in regional economic development. This achievement-oriented signal, paired with stability-seeking undertones, reflects a push for greater financial autonomy and market confidence in Africa. However, the lack of immediate contestedness suggests that while the event is positive, its long-term structural impact on broader economic ecosystems is yet to be determined.\n\n2. **Governance and political uncertainty emerge in Sweden's election dynamics.** The Swedish left-wing bloc's narrow lead in an election \"too close to call\" underscores the fragility of political consensus in Europe. While the direction of this signal is positive, the governance-oriented and care-oriented clusters highlight the electorate's focus on social cohesion and institutional trust. The contested nature of the election, however, introduces a layer of unpredictability, with potential ripple effects on regional stability and policy alignment.\n\n3. **Geopolitical narratives around AI and competition remain contested.** China's criticism of being framed as engaging in \"malicious competition\" over AI reflects a broader tension in global technological rivalry. While the signal's achievement and stability-oriented clusters suggest China's intent to project a cooperative stance, the high contest score indicates skepticism from external observers. This contested narrative aligns with ongoing concerns about technological sovereignty and the strategic implications of AI development.\n\n4. **Peripheral signals highlight resilience and survival, but with limited structural weight.** The story of a US congressman swimming to safety after a plane crash and the record-setting journey of wild dogs in Zambia both reflect themes of endurance and adaptation. While these signals are positive and resonate with stability-seeking and survival-focused clusters, they remain background noise in terms of broader structural significance.\n\n**Looking ahead, the key to watch will be how these signals evolve within their respective trajectories.** In Africa, the success of the share sale could set a precedent for regional economic integration or expose vulnerabilities in governance and financial systems. In Sweden, the resolution of the election will provide clarity on the political direction and its implications for European cohesion. On the global stage, China's positioning on AI competition warrants close monitoring, particularly in the context of US-China relations and technological decoupling. The cautious mood reflects the need for vigilance as these narratives unfold.",
   "noise_filtered": [
-    "Best friends for decades - until a DNA test revealed they were sisters",
+    "Africa's richest man launches continent's biggest share sale",
+    "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+    "Swedish left-wing bloc narrowly ahead with election too close to call",
+    "China criticises idea it is in 'malicious competition' over AI",
+    "US congressman swims to safety after his plane is forced to land on a lake",
     "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
     "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-    "Swedish party blocs tied after Sunday vote, projections say",
-    "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-    "US congressman swims to safety after his plane is forced to land on a lake",
-    "Trump downplays warnings of AI risks, citing rivalry with China",
-    "Questions mount over what an AI 'slowdown' would look like",
-    "Has Trump won over voters with his midterm convention?",
-    "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+    "Body of missing runner found in South Africa",
+    "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
     "Iran war reshapes Brics ties but also exposes divisions",
-    "Céline Dion fans prepare for comeback concert in Paris",
-    "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-    "How global trade and oil prices could be hit by Houthi advance",
-    "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "Bali police investigate after Australian man and children found dead in home",
     "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-    "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-    "Legendary Canadian boxer George Chuvalo dies aged 89",
+    "Thousands demand end to violence in Mexican cartel hotspot",
+    "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+    "Hyrox apologises for allowing race to continue after athlete soils herself",
     "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-    "Afghan woman deported from US in first use of 'alien terrorist' court"
+    "Legendary Canadian boxer George Chuvalo dies aged 89",
+    "Legendary costume designer Bob Mackie dies aged 87"
   ],
-  "matured_predictions": [
-    {
-      "id": "596fe75feefb7892",
-      "created_at": "2026-08-31",
-      "root_cause": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-      "prediction": "Momentum around Head teacher evacuated 900 children minutes before Nepal floods hit school is likely to compound if current conditions hold.",
-      "timeline": "1-2 weeks",
-      "maturity_date": "2026-09-14",
-      "falsification": "Signals tied to Head teacher evacuated 900 children minutes before Nepal floods hit school fade or reverse without downstream spillover.",
-      "severity": "high",
-      "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or relevance of the story about the head teacher evacuating 900 children before Nepal floods hit the school. The provided signals are unrelated to the prediction and focus on other global events.",
-      "validated_at": "2026-09-13T22:17:27.157675+00:00",
-      "evidence_used": [
-        "Fresh signals provided, including articles from BBC World, Al Jazeera, and ABC Australia, do not mention or relate to the prediction topic.",
-        "The timeline for the prediction has elapsed without any new developments or signals tied to the original story."
-      ]
-    }
-  ],
+  "matured_predictions": [],
   "delta": {
     "is_first_run": false,
     "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "title": "Best friends for decades - until a DNA test revealed they were sisters",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Record heatwaves in France set to make champagne stronger",
+        "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Fire at nursing home in Chile kills 16 residents",
+        "title": "Questions mount over what an AI 'slowdown' would look like",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+        "title": "Has Trump won over voters with his midterm convention?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "French officials investigate if malicious act caused train derailment",
+        "title": "How global trade and oil prices could be hit by Houthi advance",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
-    "priority_score_changes": [],
+    "priority_score_changes": [
+      "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit: 1.91 → 0.41",
+      "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea: 1.13 → 0.23",
+      "They lost their jobs after posting about Charlie Kirk, but some have no regrets: -0.93 → -0.53",
+      "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists: -1.29 → -0.90",
+      "Legendary Canadian boxer George Chuvalo dies aged 89: -1.22 → -0.90"
+    ],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 1 → 0"
+      "Priority score movement — Trump says he will remove all Irish whiskey tariffs as he ends two-day visit: 1.91 → 0.41",
+      "Priority score movement — Six dead, 130 missing after Indonesian ferry capsizes in Java Sea: 1.13 → 0.23",
+      "Priority score movement — They lost their jobs after posting about Charlie Kirk, but some have no regrets: -0.93 → -0.53",
+      "Priority score movement — Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists: -1.29 → -0.90",
+      "Priority score movement — Legendary Canadian boxer George Chuvalo dies aged 89: -1.22 → -0.90"
     ],
     "continuing_priorities": [
-      "Céline Dion fans prepare for comeback concert in Paris",
-      "Trump's comments on a united Ireland may have targeted audience across the Atlantic"
+      "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "US congressman swims to safety after his plane is forced to land on a lake",
+      "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "Iran war reshapes Brics ties but also exposes divisions",
+      "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "Legendary Canadian boxer George Chuvalo dies aged 89"
     ],
-    "new_stories": 18,
-    "carried_stories": 2,
+    "new_stories": 12,
+    "carried_stories": 8,
     "total_stories": 20,
-    "summary": "18 priorities dropped: Anthropic boss Dario Amodei calls for AI development to slow down (No longer in today's news feed — story left the RSS cycle); Record heatwaves in France set to make champagne stronger (No longer in today's news feed — story left the RSS cycle); Firefighters say this antioxidant helped them - their union warns it could be risky (No longer in today's news feed — story left the RSS cycle); Fire at nursing home in Chile kills 16 residents (No longer in today's news feed — story left the RSS cycle); When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all (No longer in today's news feed — story left the RSS cycle); Arrest made over the death of black woman found hanged from tree in Mississippi (No longer in today's news feed — story left the RSS cycle); Uganda's King Oyo buried amid calls for unity over his successor (No longer in today's news feed — story left the RSS cycle); French officials investigate if malicious act caused train derailment (No longer in today's news feed — story left the RSS cycle); Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq (No longer in today's news feed — story left the RSS cycle); Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC (No longer in today's news feed — story left the RSS cycle); Tragic death of woman who testified against father in notorious mafia murder of mother (No longer in today's news feed — story left the RSS cycle); Bulgaria investigates fire at weapons site that owner calls sabotage (No longer in today's news feed — story left the RSS cycle); 'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders (No longer in today's news feed — story left the RSS cycle); Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war (No longer in today's news feed — story left the RSS cycle); Death toll from Philippines ferry fire rises to 76, with more still missing (No longer in today's news feed — story left the RSS cycle); Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat (No longer in today's news feed — story left the RSS cycle); Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe (No longer in today's news feed — story left the RSS cycle); Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial (No longer in today's news feed — story left the RSS cycle) · Structural shifts: convergent_priority: 1 → 0 · Signal freshness: 18 new, 2 carried, 20 total"
+    "summary": "11 priorities dropped: Best friends for decades - until a DNA test revealed they were sisters (No longer in today's news feed — story left the RSS cycle); Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris (No longer in today's news feed — story left the RSS cycle); Trump downplays warnings of AI risks, citing rivalry with China (No longer in today's news feed — story left the RSS cycle); Questions mount over what an AI 'slowdown' would look like (No longer in today's news feed — story left the RSS cycle); Has Trump won over voters with his midterm convention? (No longer in today's news feed — story left the RSS cycle); Céline Dion fans prepare for comeback concert in Paris (No longer in today's news feed — story left the RSS cycle); Trump's comments on a united Ireland may have targeted audience across the Atlantic (No longer in today's news feed — story left the RSS cycle); How global trade and oil prices could be hit by Houthi advance (No longer in today's news feed — story left the RSS cycle); Dramatic insider warnings over AI fall flat with some in Silicon Valley (No longer in today's news feed — story left the RSS cycle); Russians seek answers over hundreds missing after Ukraine's 2024 incursion (No longer in today's news feed — story left the RSS cycle); Afghan woman deported from US in first use of 'alien terrorist' court (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Trump says he will remove all Irish whiskey tariffs as he ends two-day visit: 1.91 → 0.41; Six dead, 130 missing after Indonesian ferry capsizes in Java Sea: 1.13 → 0.23; They lost their jobs after posting about Charlie Kirk, but some have no regrets: -0.93 → -0.53; Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists: -1.29 → -0.90; Legendary Canadian boxer George Chuvalo dies aged 89: -1.22 → -0.90 · Structural shifts: Priority score movement — Trump says he will remove all Irish whiskey tariffs as he ends two-day visit: 1.91 → 0.41; Priority score movement — Six dead, 130 missing after Indonesian ferry capsizes in Java Sea: 1.13 → 0.23; Priority score movement — They lost their jobs after posting about Charlie Kirk, but some have no regrets: -0.93 → -0.53; Priority score movement — Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists: -1.29 → -0.90; Priority score movement — Legendary Canadian boxer George Chuvalo dies aged 89: -1.22 → -0.90 · Signal freshness: 12 new, 8 carried, 20 total"
   }
 }
