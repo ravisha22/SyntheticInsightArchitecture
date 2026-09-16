@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "b658986748540528",
+      "created_at": "2026-09-17",
+      "root_cause": "Why Trump is all-in on AI despite the warnings",
+      "prediction": "Momentum around Why Trump is all-in on AI despite the warnings is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-10-01",
+      "falsification": "Signals tied to Why Trump is all-in on AI despite the warnings fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "6ba80aa95995b124",
+      "created_at": "2026-09-17",
+      "root_cause": "Philippines' Duterte seen in person at International Criminal Court for first time",
+      "prediction": "Momentum around Philippines' Duterte seen in person at International Criminal Court for first time is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-10-01",
+      "falsification": "Signals tied to Philippines' Duterte seen in person at International Criminal Court for first time fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "b5c9f6f4741d9980",
       "created_at": "2026-09-16",
       "root_cause": "Data centres and pipelines up for grabs as Carney pitches Canada to investment giants",
@@ -1888,5 +1914,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-15T22:49:30.550949+00:00"
+  "last_updated": "2026-09-16T22:49:41.787052+00:00"
 }
