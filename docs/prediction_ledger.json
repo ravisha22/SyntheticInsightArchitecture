@@ -217,9 +217,19 @@
       "maturity_date": "2026-09-19",
       "falsification": "Signals tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals indicating continued momentum or downstream spillover related to the Nepal tunnel rescues. The available signals focus on unrelated topics, such as sports, wildlife discoveries, and geopolitical events, suggesting that the initial narrative has faded.",
+      "validated_at": "2026-09-18T22:26:55.269639+00:00",
+      "evidence_used": [
+        "Al Jazeera: New cat species found, first in more than 100 years",
+        "ABC Australia: LA Rams coach hopes his NFL team never plays in Australia again",
+        "BBC World: Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+        "Al Jazeera: More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
+        "ABC Australia: How Jack Gunston became an unlikely key to Hawthorn's flag hopes",
+        "ABC Australia: Blistering Head ton leads Australia to victory in second ODI in Zimbabwe",
+        "ABC Australia: First Nations netballers driving change, bringing cultural safety",
+        "ABC Australia: HYROX athlete apologises and withdraws for defecating mid-race"
+      ]
     },
     {
       "id": "0ab3a330bcdfdb2c",
@@ -230,9 +240,14 @@
       "maturity_date": "2026-09-19",
       "falsification": "Signals tied to 'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly tied to the 'Layer upon layer of miracles' narrative or the Nepal rescue adviser have emerged. The provided signals are unrelated to the original prediction, indicating that the momentum around the topic has not compounded or persisted.",
+      "validated_at": "2026-09-18T22:26:57.637651+00:00",
+      "evidence_used": [
+        "Prediction timeline of 1-2 weeks has elapsed.",
+        "No fresh signals directly related to 'Layer upon layer of miracles' or the Nepal rescue adviser were identified.",
+        "Provided signals from ABC Australia are unrelated to the original prediction topic."
+      ]
     },
     {
       "id": "596fe75feefb7892",
@@ -1914,5 +1929,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-17T22:46:52.758522+00:00"
+  "last_updated": "2026-09-18T22:26:51.796637+00:00"
 }
