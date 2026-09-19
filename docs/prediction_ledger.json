@@ -191,9 +191,13 @@
       "maturity_date": "2026-09-20",
       "falsification": "Signals tied to Nepal rescuers try to reach dozens trapped in tunnel after two found alive fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or downstream spillover related to the Nepal rescuers' efforts to reach trapped individuals in the tunnel. The topic appears to have faded from current news cycles.",
+      "validated_at": "2026-09-19T22:16:59.980814+00:00",
+      "evidence_used": [
+        "Fresh signals provided do not include any updates or mentions of the Nepal rescuers or the tunnel incident.",
+        "The timeline for the prediction has elapsed without relevant developments or sustained coverage."
+      ]
     },
     {
       "id": "304aeb4e7856fc72",
@@ -204,9 +208,10 @@
       "maturity_date": "2026-09-20",
       "falsification": "Signals tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating sustained momentum or downstream spillover tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors. The prediction is considered expired as the conditions for validation or falsification are no longer relevant.",
+      "validated_at": "2026-09-19T22:17:02.101348+00:00",
+      "evidence_used": "The fresh signals provided do not reference or connect to the Nepal tunnel rescues or related momentum. Additionally, the timeline for the prediction has elapsed without any relevant updates or developments."
     },
     {
       "id": "3a68164c7a2ccf81",
@@ -1929,5 +1934,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-18T22:26:51.796637+00:00"
+  "last_updated": "2026-09-19T22:16:57.502165+00:00"
 }
