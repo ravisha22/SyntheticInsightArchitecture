@@ -1,35 +1,77 @@
 {
-  "report_date": "2026-09-19",
-  "generated_at": "2026-09-18T22:26:57.638904+00:00",
+  "report_date": "2026-09-20",
+  "generated_at": "2026-09-19T22:17:02.103199+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "US and Denmark reach deal over Greenland's security",
-      "body": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "body": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:23:55 GMT"
+      "published": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "body": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "body": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:04:38 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT"
     },
     {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "body": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "body": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 21:45:19 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 19:13:49 GMT"
     },
     {
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "body": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "body": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:56:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 14:05:01 GMT"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "body": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT"
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "body": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 13:39:32 GMT"
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "body": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:05:47 GMT"
+    },
+    {
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "body": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:04:41 GMT"
+    },
+    {
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "body": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:50:22 GMT"
+    },
+    {
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "body": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:27:37 GMT"
     },
     {
       "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
@@ -39,11 +81,18 @@
       "published": "Fri, 18 Sep 2026 20:17:50 GMT"
     },
     {
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "body": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "body": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:49:46 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 00:03:53 GMT"
+    },
+    {
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "body": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 18:04:38 GMT"
     },
     {
       "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
@@ -53,60 +102,25 @@
       "published": "Fri, 18 Sep 2026 17:10:58 GMT"
     },
     {
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "body": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "body": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:18:09 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:03:38 GMT"
     },
     {
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "body": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "body": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:47:28 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:18:02 GMT"
     },
     {
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "body": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "body": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:59:42 GMT"
-    },
-    {
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "body": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:45:25 GMT"
-    },
-    {
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "body": "The gunman is among the dead in what is the third school shooting in the country since June.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:01:46 GMT"
-    },
-    {
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "body": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:15:02 GMT"
-    },
-    {
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "body": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:57:30 GMT"
-    },
-    {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "body": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:24:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:07:16 GMT"
     },
     {
       "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
@@ -128,20 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 23:29:17 GMT"
-    },
-    {
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "body": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:47:36 GMT"
-    },
-    {
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "body": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 05:00:36 GMT"
     }
   ],
   "signals": [
@@ -149,44 +149,104 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "US and Denmark reach deal over Greenland's security",
-      "body": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "body": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 22:23:55 GMT"
+      "published": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "body": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "body": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:04:38 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "body": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "body": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 21:45:19 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 19:13:49 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "body": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "body": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:56:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 14:05:01 GMT"
     },
     {
       "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "body": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "body": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 13:39:32 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "body": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:05:47 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "body": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:04:41 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "body": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:50:22 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "body": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:27:37 GMT"
+    },
+    {
+      "number": 11,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
@@ -196,17 +256,27 @@
       "published": "Fri, 18 Sep 2026 20:17:50 GMT"
     },
     {
-      "number": 6,
+      "number": 12,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "body": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "body": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:49:46 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 00:03:53 GMT"
     },
     {
-      "number": 7,
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "body": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 18:04:38 GMT"
+    },
+    {
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
@@ -216,87 +286,37 @@
       "published": "Fri, 18 Sep 2026 17:10:58 GMT"
     },
     {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "body": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:18:09 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "body": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:47:28 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "body": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:59:42 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "body": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:45:25 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "body": "The gunman is among the dead in what is the third school shooting in the country since June.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:01:46 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "body": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:15:02 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "body": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 17:57:30 GMT"
-    },
-    {
       "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "body": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "body": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:24:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:03:38 GMT"
     },
     {
       "number": 16,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "body": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:18:02 GMT"
+    },
+    {
+      "number": 17,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "body": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:07:16 GMT"
+    },
+    {
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
@@ -306,7 +326,7 @@
       "published": "Fri, 18 Sep 2026 01:31:43 GMT"
     },
     {
-      "number": 17,
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
@@ -316,7 +336,7 @@
       "published": "Fri, 18 Sep 2026 01:23:10 GMT"
     },
     {
-      "number": 18,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
@@ -324,136 +344,188 @@
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 17 Sep 2026 23:29:17 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-      "body": "BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 13:47:36 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "body": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 05:00:36 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs sweeping Russia sanctions bill",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.8232410899623446,
-      "contest_score": -0.5775703313788907,
+      "priority_score": 2.8093194230127607,
+      "contest_score": 0.2832699187019863,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.931430148288529,
-      "contestedness": 0.045389965856717174,
-      "impact": 0.48,
+      "central_tendency": 0.7764018765051985,
+      "contestedness": 0.061321695548820165,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "achievement_oriented": 1.0413139328335166,
-        "stability_seeking": 0.9759174887127573
+        "care_oriented": 0.8656761783788325,
+        "expression_oriented": 0.8434869761641938
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.8705255207736613
+        "sovereignty_order_oriented": 0.6819305950715966
       },
       "cluster_means": {
-        "survival_focused": 0.9225243413071205,
-        "stability_seeking": 0.9759174887127573,
-        "achievement_oriented": 1.0413139328335166,
-        "care_oriented": 0.881132762711984,
-        "knowledge_oriented": 0.9265227285687012,
-        "governance_oriented": 0.9583410238211356,
-        "sovereignty_order_oriented": 0.9320749931470027,
-        "expression_oriented": 0.8745185427208821,
-        "ecosystem_oriented": 0.8705255207736613
+        "survival_focused": 0.7339504732033773,
+        "stability_seeking": 0.7709514245330013,
+        "achievement_oriented": 0.689906276474626,
+        "care_oriented": 0.8656761783788325,
+        "knowledge_oriented": 0.8322731200818214,
+        "governance_oriented": 0.8133814072991659,
+        "sovereignty_order_oriented": 0.6819305950715966,
+        "expression_oriented": 0.8434869761641938,
+        "ecosystem_oriented": 0.7560604373401715
       },
-      "priority_raw": 0.2682518827070963,
-      "contest_raw": 0.021787183611224243
+      "priority_raw": 0.4285738358308696,
+      "contest_raw": 0.04231196992868592
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.7180934399667307,
-      "contest_score": -1.1466636837981434,
+      "priority_score": 2.761640800357405,
+      "contest_score": -1.1330140638719413,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8286141132618599,
-      "contestedness": 0.021022551565452074,
-      "impact": 0.5900000000000001,
+      "central_tendency": 0.98316839962231,
+      "contestedness": 0.022142492206522757,
+      "impact": 0.615,
       "top_clusters": {
-        "achievement_oriented": 0.9066064216793837,
-        "knowledge_oriented": 0.8547789801474748
+        "achievement_oriented": 1.06374661860581,
+        "survival_focused": 0.9946300346576019
       },
       "bottom_clusters": {
-        "care_oriented": 0.7605244495067425
+        "expression_oriented": 0.9383502190802653
       },
       "cluster_means": {
-        "survival_focused": 0.820521773362238,
-        "stability_seeking": 0.8432311267869532,
-        "achievement_oriented": 0.9066064216793837,
-        "care_oriented": 0.7605244495067425,
-        "knowledge_oriented": 0.8547789801474748,
-        "governance_oriented": 0.7919098866648315,
-        "sovereignty_order_oriented": 0.8188157222470995,
-        "expression_oriented": 0.8389300837405138,
-        "ecosystem_oriented": 0.8222085752215011
+        "survival_focused": 0.9946300346576019,
+        "stability_seeking": 0.98704308222039,
+        "achievement_oriented": 1.06374661860581,
+        "care_oriented": 0.9889421072668645,
+        "knowledge_oriented": 0.9649005900138672,
+        "governance_oriented": 0.991772492088225,
+        "sovereignty_order_oriented": 0.9602405213389127,
+        "expression_oriented": 0.9383502190802653,
+        "ecosystem_oriented": 0.9588899313288524
       },
-      "priority_raw": 0.19555293072979896,
-      "contest_raw": 0.012403305423616725
+      "priority_raw": 0.42325399603740443,
+      "contest_raw": 0.013617632707011496
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "title": "US and Denmark reach deal over Greenland's security",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.4068361115326116,
-      "contest_score": -0.6244750932895111,
+      "priority_score": 0.5241418532278003,
+      "contest_score": 1.3823333067821315,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5354060083916086,
-      "contestedness": 0.03855736316180303,
-      "impact": 0.545,
+      "central_tendency": 0.6429647290073679,
+      "contestedness": 0.09567307110729018,
+      "impact": 0.675,
       "top_clusters": {
-        "survival_focused": 0.6251431516642836,
-        "stability_seeking": 0.5865642368949417
+        "survival_focused": 0.7632584367286914,
+        "achievement_oriented": 0.7520569728492082
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.45426334484661846
+        "expression_oriented": 0.5165268936332013
       },
       "cluster_means": {
-        "survival_focused": 0.6251431516642836,
-        "stability_seeking": 0.5865642368949417,
-        "achievement_oriented": 0.5801814612137036,
-        "care_oriented": 0.5480068737331387,
-        "knowledge_oriented": 0.4712954152228058,
-        "governance_oriented": 0.5155625277230677,
-        "sovereignty_order_oriented": 0.5787276592728691,
-        "expression_oriented": 0.45890940495304827,
-        "ecosystem_oriented": 0.45426334484661846
+        "survival_focused": 0.7632584367286914,
+        "stability_seeking": 0.708066658454225,
+        "achievement_oriented": 0.7520569728492082,
+        "care_oriented": 0.6321277085933067,
+        "knowledge_oriented": 0.5575049484237269,
+        "governance_oriented": 0.5843734169759008,
+        "sovereignty_order_oriented": 0.7363128879220341,
+        "expression_oriented": 0.5165268936332013,
+        "ecosystem_oriented": 0.5364546374860165
       },
-      "priority_raw": 0.17507776474405604,
-      "contest_raw": 0.02101376292318265
+      "priority_raw": 0.17360047683198934,
+      "contest_raw": 0.06457932299742088
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.48513011120596444,
+      "contest_score": -1.35698401896169,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.8420281689708801,
+      "contestedness": 0.027104281814449904,
+      "impact": 0.335,
+      "top_clusters": {
+        "governance_oriented": 0.9028641669530992,
+        "care_oriented": 0.8866137284913032
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.7472411659304856
+      },
+      "cluster_means": {
+        "survival_focused": 0.8011855184642103,
+        "stability_seeking": 0.8766881757417225,
+        "achievement_oriented": 0.8118393730691786,
+        "care_oriented": 0.8866137284913032,
+        "knowledge_oriented": 0.8800095585499602,
+        "governance_oriented": 0.9028641669530992,
+        "sovereignty_order_oriented": 0.7472411659304856,
+        "expression_oriented": 0.8757598851386493,
+        "ecosystem_oriented": 0.796051948399311
+      },
+      "priority_raw": 0.1692476619631469,
+      "contest_raw": 0.009079934407840719
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.286318480816609,
+      "contest_score": -0.730105673320807,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.36583295489173584,
+      "contestedness": 0.032508473499710866,
+      "impact": 0.67,
+      "top_clusters": {
+        "knowledge_oriented": 0.41219651964275483,
+        "expression_oriented": 0.4087389128261719
+      },
+      "bottom_clusters": {
+        "care_oriented": 0.33176404073128546
+      },
+      "cluster_means": {
+        "survival_focused": 0.3327646704846165,
+        "stability_seeking": 0.3336286642331625,
+        "achievement_oriented": 0.3661371377328734,
+        "care_oriented": 0.33176404073128546,
+        "knowledge_oriented": 0.41219651964275483,
+        "governance_oriented": 0.3732657170209833,
+        "sovereignty_order_oriented": 0.3657855419001521,
+        "expression_oriented": 0.4087389128261719,
+        "ecosystem_oriented": 0.3682153894536228
+      },
+      "priority_raw": 0.1470648478664778,
+      "contest_raw": 0.02178067724480628
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
@@ -462,70 +534,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.0497090892580394,
-      "contest_score": 0.5304208623261605,
+      "priority_score": 0.016778529553690674,
+      "contest_score": -0.01805479833317305,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.393727774526965,
-      "contestedness": 0.052022131180401165,
+      "central_tendency": 0.37983888563807616,
+      "contestedness": 0.04702213118040122,
       "impact": 0.77,
       "top_clusters": {
-        "achievement_oriented": 0.5564007789165409,
-        "expression_oriented": 0.4567702960052785
+        "achievement_oriented": 0.5464007789165409,
+        "expression_oriented": 0.4417702960052785
       },
       "bottom_clusters": {
-        "care_oriented": 0.27360665770893666
+        "governance_oriented": 0.24950625527499345
       },
       "cluster_means": {
-        "survival_focused": 0.3703301107091025,
-        "stability_seeking": 0.3411507543975558,
-        "achievement_oriented": 0.5564007789165409,
-        "care_oriented": 0.27360665770893666,
-        "knowledge_oriented": 0.4445636781624509,
-        "governance_oriented": 0.27450625527499345,
-        "sovereignty_order_oriented": 0.40474816482487735,
-        "expression_oriented": 0.4567702960052785,
-        "ecosystem_oriented": 0.4214732747429495
+        "survival_focused": 0.3603301107091025,
+        "stability_seeking": 0.3211507543975558,
+        "achievement_oriented": 0.5464007789165409,
+        "care_oriented": 0.26360665770893665,
+        "knowledge_oriented": 0.4295636781624509,
+        "governance_oriented": 0.24950625527499345,
+        "sovereignty_order_oriented": 0.3947481648248773,
+        "expression_oriented": 0.4417702960052785,
+        "ecosystem_oriented": 0.4114732747429495
       },
-      "priority_raw": 0.15158519319288152,
-      "contest_raw": 0.040057041008908896
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.3675248366458013,
-      "contest_score": 1.6954742295027385,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.18590534650665214,
-      "contestedness": 0.07227781268440797,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3667864043627411,
-        "knowledge_oriented": 0.3017839318770461
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.06686866259842986
-      },
-      "cluster_means": {
-        "survival_focused": 0.06686866259842986,
-        "stability_seeking": 0.10903199654281415,
-        "achievement_oriented": 0.15908204002287157,
-        "care_oriented": 0.2095809517656355,
-        "knowledge_oriented": 0.3017839318770461,
-        "governance_oriented": 0.14148475802254554,
-        "sovereignty_order_oriented": 0.0839304068331565,
-        "expression_oriented": 0.3667864043627411,
-        "ecosystem_oriented": 0.23135985270727955
-      },
-      "priority_raw": 0.10670966889481834,
-      "contest_raw": 0.05926780640121454
+      "priority_raw": 0.11699037677652746,
+      "contest_raw": 0.03620704100890894
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
@@ -534,214 +570,358 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.354731346438887,
-      "contest_score": 0.1232529491382712,
+      "priority_score": -0.21828557074898403,
+      "contest_score": -0.3345460877241402,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3334427906318644,
-      "contestedness": 0.0525089436919306,
+      "central_tendency": 0.2858665172830804,
+      "contestedness": 0.04692099652842774,
       "impact": 0.635,
       "top_clusters": {
-        "achievement_oriented": 0.47536984105261926,
-        "expression_oriented": 0.43683947269918355
+        "achievement_oriented": 0.4396212022601,
+        "expression_oriented": 0.3436385030510927
       },
       "bottom_clusters": {
-        "care_oriented": 0.2389230303519451
+        "care_oriented": 0.18220166155756495
       },
       "cluster_means": {
-        "survival_focused": 0.2486644112230132,
-        "stability_seeking": 0.3011733549149438,
-        "achievement_oriented": 0.47536984105261926,
-        "care_oriented": 0.2389230303519451,
-        "knowledge_oriented": 0.4272421825519342,
-        "governance_oriented": 0.27453056862122854,
-        "sovereignty_order_oriented": 0.28916674911138746,
-        "expression_oriented": 0.43683947269918355,
-        "ecosystem_oriented": 0.30907550516052396
+        "survival_focused": 0.23157067265353226,
+        "stability_seeking": 0.276619283224714,
+        "achievement_oriented": 0.4396212022601,
+        "care_oriented": 0.18220166155756495,
+        "knowledge_oriented": 0.34119417598331236,
+        "governance_oriented": 0.22969828669628628,
+        "sovereignty_order_oriented": 0.28091183884677623,
+        "expression_oriented": 0.3436385030510927,
+        "ecosystem_oriented": 0.24734303127434445
       },
-      "priority_raw": 0.10586808602561694,
-      "contest_raw": 0.03334317924437593
+      "priority_raw": 0.09076261923737802,
+      "contest_raw": 0.029794832795551614
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.30174050100244815,
-      "contest_score": 0.2103168662439966,
+      "priority_score": -0.22378392826769977,
+      "contest_score": 1.760900180294916,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.168345711964121,
+      "contestedness": 0.09444340015338112,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.36106618427516957,
+        "knowledge_oriented": 0.3030377723318307
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.022795809766128244
+      },
+      "cluster_means": {
+        "survival_focused": 0.022795809766128244,
+        "stability_seeking": 0.07702468937285198,
+        "achievement_oriented": 0.17576279409610812,
+        "care_oriented": 0.1714680895262331,
+        "knowledge_oriented": 0.3030377723318307,
+        "governance_oriented": 0.12520261230264282,
+        "sovereignty_order_oriented": 0.03653470345873036,
+        "expression_oriented": 0.36106618427516957,
+        "ecosystem_oriented": 0.19045653085664055
+      },
+      "priority_raw": 0.09014912875678678,
+      "contest_raw": 0.07224920111733656
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.26141087406556823,
+      "contest_score": -0.9284353740280473,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4062787144165151,
-      "contestedness": 0.08280664559737805,
-      "impact": 0.42000000000000004,
+      "central_tendency": 0.30479016084258775,
+      "contestedness": 0.025194976128614877,
+      "impact": 0.705,
       "top_clusters": {
-        "expression_oriented": 0.518364967579783,
-        "care_oriented": 0.49151980725288175
+        "expression_oriented": 0.3636793313602158,
+        "survival_focused": 0.35875696021401693
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.27429485812582144
+        "governance_oriented": 0.20772542048049003
       },
       "cluster_means": {
-        "survival_focused": 0.31605665997685206,
-        "stability_seeking": 0.4062943644960911,
-        "achievement_oriented": 0.3346012654931302,
-        "care_oriented": 0.49151980725288175,
-        "knowledge_oriented": 0.4891010100934691,
-        "governance_oriented": 0.44725942486566456,
-        "sovereignty_order_oriented": 0.27429485812582144,
-        "expression_oriented": 0.518364967579783,
-        "ecosystem_oriented": 0.37901607186494324
+        "survival_focused": 0.35875696021401693,
+        "stability_seeking": 0.27969993256190095,
+        "achievement_oriented": 0.2849357326805242,
+        "care_oriented": 0.28682295717516254,
+        "knowledge_oriented": 0.322719778314542,
+        "governance_oriented": 0.20772542048049003,
+        "sovereignty_order_oriented": 0.34124653261050975,
+        "expression_oriented": 0.3636793313602158,
+        "ecosystem_oriented": 0.29752480218592714
       },
-      "priority_raw": 0.1023822360329618,
-      "contest_raw": 0.03477879115089878
+      "priority_raw": 0.08595082535760974,
+      "contest_raw": 0.017762458170673488
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.23004831279800572,
-      "contest_score": 1.7062267898701717,
+      "priority_score": -0.267757314082296,
+      "contest_score": 2.098890431690813,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.22925184381648991,
-      "contestedness": 0.0808776968963899,
-      "impact": 0.735,
+      "central_tendency": 0.22285675382626113,
+      "contestedness": 0.10339475128514827,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.44152708303245936,
-        "knowledge_oriented": 0.390784203225815
+        "expression_oriented": 0.4107887900248266,
+        "knowledge_oriented": 0.3610337179541493
       },
       "bottom_clusters": {
-        "survival_focused": 0.10519748182648031
+        "survival_focused": 0.08061232720809461
       },
       "cluster_means": {
-        "survival_focused": 0.10519748182648031,
-        "stability_seeking": 0.1389205320791131,
-        "achievement_oriented": 0.2888083046615476,
-        "care_oriented": 0.18607517872287022,
-        "knowledge_oriented": 0.390784203225815,
-        "governance_oriented": 0.12974018105552898,
-        "sovereignty_order_oriented": 0.11308495575659055,
-        "expression_oriented": 0.44152708303245936,
-        "ecosystem_oriented": 0.2691286739880042
+        "survival_focused": 0.08061232720809461,
+        "stability_seeking": 0.12154819544247614,
+        "achievement_oriented": 0.2249429467276244,
+        "care_oriented": 0.23733450463147887,
+        "knowledge_oriented": 0.3610337179541493,
+        "governance_oriented": 0.1784569845411247,
+        "sovereignty_order_oriented": 0.10801892965843324,
+        "expression_oriented": 0.4107887900248266,
+        "ecosystem_oriented": 0.2829743882481425
       },
-      "priority_raw": 0.06740004208204803,
-      "contest_raw": 0.05944510721884658
+      "priority_raw": 0.08524270833854489,
+      "contest_raw": 0.07909698473313843
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3145695028650806,
-      "contest_score": -1.1797182522257859,
+      "priority_score": -0.3717546593481398,
+      "contest_score": -0.3030804255893955,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5424566602710997,
-      "contestedness": 0.04160794020535685,
-      "impact": 0.28500000000000003,
+      "central_tendency": 0.2648884602011916,
+      "contestedness": 0.043787534567683695,
+      "impact": 0.695,
       "top_clusters": {
-        "governance_oriented": 0.604744268220591,
-        "stability_seeking": 0.5962566811162359
+        "expression_oriented": 0.43773462353085413,
+        "knowledge_oriented": 0.38386322437034703
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4718246477472039
+        "sovereignty_order_oriented": 0.17495045261553333
       },
       "cluster_means": {
-        "survival_focused": 0.4931765338750975,
-        "stability_seeking": 0.5962566811162359,
-        "achievement_oriented": 0.5209096712777279,
-        "care_oriented": 0.5736033396173561,
-        "knowledge_oriented": 0.5783675183989833,
-        "governance_oriented": 0.604744268220591,
-        "sovereignty_order_oriented": 0.48009095417146685,
-        "expression_oriented": 0.5631363280152342,
-        "ecosystem_oriented": 0.4718246477472039
+        "survival_focused": 0.20390822117792945,
+        "stability_seeking": 0.209964255056856,
+        "achievement_oriented": 0.2558263363981632,
+        "care_oriented": 0.28913258485248317,
+        "knowledge_oriented": 0.38386322437034703,
+        "governance_oriented": 0.1809206880629456,
+        "sovereignty_order_oriented": 0.17495045261553333,
+        "expression_oriented": 0.43773462353085413,
+        "ecosystem_oriented": 0.24769575574561314
       },
-      "priority_raw": 0.061840059270905384,
-      "contest_raw": 0.011858262958526704
+      "priority_raw": 0.07363899193593126,
+      "contest_raw": 0.030432336524540166
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "title": "North Korean anthem played for South Korea at Asian Games",
+      "signal_id": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3254188625991778,
-      "contest_score": -0.6554863273574993,
+      "priority_score": -0.4516111024207225,
+      "contest_score": 0.1967235434274024,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22390610043906609,
-      "contestedness": 0.05257029064066196,
-      "impact": 0.39,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.1456217008941013,
+      "contestedness": 0.06387167633387897,
+      "impact": 0.635,
       "top_clusters": {
-        "expression_oriented": 0.35267497845301293,
-        "knowledge_oriented": 0.3318865267022692
+        "expression_oriented": 0.32903256843828316,
+        "knowledge_oriented": 0.28556606713801547
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.14081713317569325
+        "survival_focused": 0.029675955175739066
       },
       "cluster_means": {
-        "survival_focused": 0.1541076391533291,
-        "stability_seeking": 0.25979257445648546,
-        "achievement_oriented": 0.28397583655907166,
-        "care_oriented": 0.1542973986834505,
-        "knowledge_oriented": 0.3318865267022692,
-        "governance_oriented": 0.1933874238163552,
-        "sovereignty_order_oriented": 0.1442153929519275,
-        "expression_oriented": 0.35267497845301293,
-        "ecosystem_oriented": 0.14081713317569325
+        "survival_focused": 0.029675955175739066,
+        "stability_seeking": 0.10592808952066876,
+        "achievement_oriented": 0.19511200749466215,
+        "care_oriented": 0.08715295719998394,
+        "knowledge_oriented": 0.28556606713801547,
+        "governance_oriented": 0.08561263369796182,
+        "sovereignty_order_oriented": 0.04205641318678979,
+        "expression_oriented": 0.32903256843828316,
+        "ecosystem_oriented": 0.11159162500209588
       },
-      "priority_raw": 0.06112636541986504,
-      "contest_raw": 0.020502413349858164
+      "priority_raw": 0.06472884604742803,
+      "contest_raw": 0.04055851447201315
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "title": "Three dead and eight injured in Philippines school shooting",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "title": "Google's Gemini AI hacked three companies in security test",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.480186167616126,
-      "contest_score": 0.4913407014489087,
+      "priority_score": -0.47808228686166687,
+      "contest_score": -0.35106997559392344,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.14814213315988856,
+      "contestedness": 0.042388566738943936,
+      "impact": 0.6950000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.34233279452760784,
+        "knowledge_oriented": 0.2854749249649895
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.03419617640086542
+      },
+      "cluster_means": {
+        "survival_focused": 0.03419617640086542,
+        "stability_seeking": 0.08684045030899196,
+        "achievement_oriented": 0.14998762214633363,
+        "care_oriented": 0.12444509858229184,
+        "knowledge_oriented": 0.2854749249649895,
+        "governance_oriented": 0.08205653184334791,
+        "sovereignty_order_oriented": 0.04343910171874843,
+        "expression_oriented": 0.34233279452760784,
+        "ecosystem_oriented": 0.1534004415143057
+      },
+      "priority_raw": 0.06177526952767354,
+      "contest_raw": 0.02946005388356604
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.49378635475979266,
+      "contest_score": 0.6786369467552441,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.12199808139774533,
+      "contestedness": 0.06136856610486699,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.2552043934747965,
+        "knowledge_oriented": 0.20505201403433584
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.004645180598178866
+      },
+      "cluster_means": {
+        "survival_focused": -0.004645180598178866,
+        "stability_seeking": 0.03873277707112205,
+        "achievement_oriented": 0.07742910643896297,
+        "care_oriented": 0.14735701500372214,
+        "knowledge_oriented": 0.20505201403433584,
+        "governance_oriented": 0.10010134317598904,
+        "sovereignty_order_oriented": 0.044498177354841656,
+        "expression_oriented": 0.2552043934747965,
+        "ecosystem_oriented": 0.17317150749639304
+      },
+      "priority_raw": 0.060023056047690704,
+      "contest_raw": 0.05032222420599094
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6274373675025349,
+      "contest_score": 0.4223878913532687,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.13062934476575772,
-      "contestedness": 0.05052902758121941,
+      "central_tendency": 0.11566838737064135,
+      "contestedness": 0.057859668816647614,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.30511821656987526,
-        "knowledge_oriented": 0.24052604519357376
+        "expression_oriented": 0.26763110393673506,
+        "knowledge_oriented": 0.20179710719522323
       },
       "bottom_clusters": {
-        "survival_focused": 0.010396100671162506
+        "survival_focused": 0.01042055728909122
       },
       "cluster_means": {
-        "survival_focused": 0.010396100671162506,
-        "stability_seeking": 0.03963910285396288,
-        "achievement_oriented": 0.1285141792825346,
-        "care_oriented": 0.0779851517013152,
-        "knowledge_oriented": 0.24052604519357376,
-        "governance_oriented": 0.04181425824368645,
-        "sovereignty_order_oriented": 0.050121566756177044,
-        "expression_oriented": 0.30511821656987526,
-        "ecosystem_oriented": 0.18607331966651222
+        "survival_focused": 0.01042055728909122,
+        "stability_seeking": 0.03867132587926772,
+        "achievement_oriented": 0.0959188609252116,
+        "care_oriented": 0.10736678865179855,
+        "knowledge_oriented": 0.20179710719522323,
+        "governance_oriented": 0.05220459675874478,
+        "sovereignty_order_oriented": 0.03805919210856398,
+        "expression_oriented": 0.26763110393673506,
+        "ecosystem_oriented": 0.1696180678796036
       },
-      "priority_raw": 0.05094544445864551,
-      "contest_raw": 0.039412641513351145
+      "priority_raw": 0.04511067107455013,
+      "contest_raw": 0.04513054167698514
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
+      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6570128566521757,
+      "contest_score": -1.0965923728754148,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4977467310798691,
+      "contestedness": 0.05126981094115196,
+      "impact": 0.28,
+      "top_clusters": {
+        "achievement_oriented": 0.575996849378642,
+        "knowledge_oriented": 0.5587861843835622
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.4394718272469029
+      },
+      "cluster_means": {
+        "survival_focused": 0.446097168931943,
+        "stability_seeking": 0.5116563199246678,
+        "achievement_oriented": 0.575996849378642,
+        "care_oriented": 0.4663981336296805,
+        "knowledge_oriented": 0.5587861843835622,
+        "governance_oriented": 0.49736697987309497,
+        "sovereignty_order_oriented": 0.44266833277910544,
+        "expression_oriented": 0.5412787835712237,
+        "ecosystem_oriented": 0.4394718272469029
+      },
+      "priority_raw": 0.04181072541070901,
+      "contest_raw": 0.01435554706352255
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
@@ -750,70 +930,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.49696986044575203,
-      "contest_score": -0.7660387309525968,
+      "priority_score": -0.6768605288345806,
+      "contest_score": -0.93927933874584,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.18987191471922568,
-      "contestedness": 0.049811988663872625,
+      "central_tendency": 0.17598302583033684,
+      "contestedness": 0.046780683202960804,
       "impact": 0.375,
       "top_clusters": {
-        "expression_oriented": 0.32172143138844633,
-        "knowledge_oriented": 0.2968368253784975
+        "expression_oriented": 0.30672143138844643,
+        "knowledge_oriented": 0.2818368253784976
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.10441449828494916
+        "sovereignty_order_oriented": 0.09441449828494915
       },
       "cluster_means": {
-        "survival_focused": 0.11120038015023656,
-        "stability_seeking": 0.2109165095822753,
-        "achievement_oriented": 0.21040325424868084,
-        "care_oriented": 0.14592118001237814,
-        "knowledge_oriented": 0.2968368253784975,
-        "governance_oriented": 0.17862257104572,
-        "sovereignty_order_oriented": 0.10441449828494916,
-        "expression_oriented": 0.32172143138844633,
-        "ecosystem_oriented": 0.12881058238184737
+        "survival_focused": 0.10120038015023655,
+        "stability_seeking": 0.19091650958227535,
+        "achievement_oriented": 0.20040325424868083,
+        "care_oriented": 0.13592118001237813,
+        "knowledge_oriented": 0.2818368253784976,
+        "governance_oriented": 0.15362257104572002,
+        "sovereignty_order_oriented": 0.09441449828494915,
+        "expression_oriented": 0.30672143138844643,
+        "ecosystem_oriented": 0.11881058238184736
       },
-      "priority_raw": 0.049841377613796735,
-      "contest_raw": 0.018679495748952234
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5596078002963365,
-      "contest_score": -0.16512621876751274,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.1417702986914825,
-      "contestedness": 0.04432255121814141,
-      "impact": 0.645,
-      "top_clusters": {
-        "expression_oriented": 0.2567337905994415,
-        "knowledge_oriented": 0.22806339590548283
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.036440323170607414
-      },
-      "cluster_means": {
-        "survival_focused": 0.036440323170607414,
-        "stability_seeking": 0.08482721225990017,
-        "achievement_oriented": 0.17086595378879635,
-        "care_oriented": 0.12654340257065494,
-        "knowledge_oriented": 0.22806339590548283,
-        "governance_oriented": 0.11180686073595764,
-        "sovereignty_order_oriented": 0.08659704698539628,
-        "expression_oriented": 0.2567337905994415,
-        "ecosystem_oriented": 0.17405470220710553
-      },
-      "priority_raw": 0.04572092132800311,
-      "contest_raw": 0.02858804553570121
+      "priority_raw": 0.03959618081182579,
+      "contest_raw": 0.0175427562011103
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
@@ -822,8 +966,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6528040171755083,
-      "contest_score": 1.9724293484528388,
+      "priority_score": -0.6769134422581443,
+      "contest_score": 1.3455739287931665,
       "category": "background_noise",
       "polarity": -1,
       "sign_agreement": 0.6388888888888888,
@@ -852,330 +996,258 @@
       "contest_raw": 0.06383456700141123
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "title": "Millions without power as Cuba hit by latest major blackout",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6725699529778573,
-      "contest_score": -1.1552636016094844,
+      "priority_score": -0.7114203530604989,
+      "contest_score": 0.060986076289912594,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6944444444444444,
+      "central_tendency": 0.09164127633907283,
+      "contestedness": 0.04847234971388331,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.20913410949757413,
+        "knowledge_oriented": 0.1608669297795364
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.02719584494933297
+      },
+      "cluster_means": {
+        "survival_focused": -0.02719584494933297,
+        "stability_seeking": 0.0026028232596859158,
+        "achievement_oriented": 0.03155280522549686,
+        "care_oriented": 0.1118112218522137,
+        "knowledge_oriented": 0.1608669297795364,
+        "governance_oriented": 0.050197056898211856,
+        "sovereignty_order_oriented": 0.012109599663806703,
+        "expression_oriented": 0.20913410949757413,
+        "ecosystem_oriented": 0.09866940661209517
+      },
+      "priority_raw": 0.035740097772238404,
+      "contest_raw": 0.037808432776828986
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7672125593114307,
+      "contest_score": -1.0385400950444692,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.48163561996875814,
-      "contestedness": 0.04626981094115201,
-      "impact": 0.265,
+      "central_tendency": 0.09677038787632479,
+      "contestedness": 0.025461809149023185,
+      "impact": 0.6100000000000001,
       "top_clusters": {
-        "achievement_oriented": 0.560996849378642,
-        "knowledge_oriented": 0.5337861843835622
+        "expression_oriented": 0.1619470815488287,
+        "knowledge_oriented": 0.12741484762848682
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4294718272469029
+        "governance_oriented": 0.058354330893631984
       },
       "cluster_means": {
-        "survival_focused": 0.43609716893194306,
-        "stability_seeking": 0.49165631992466785,
-        "achievement_oriented": 0.560996849378642,
-        "care_oriented": 0.4513981336296805,
-        "knowledge_oriented": 0.5337861843835622,
-        "governance_oriented": 0.48236697987309507,
-        "sovereignty_order_oriented": 0.4326683327791055,
-        "expression_oriented": 0.5162787835712237,
-        "ecosystem_oriented": 0.4294718272469029
+        "survival_focused": 0.06621871725038966,
+        "stability_seeking": 0.09909555174865103,
+        "achievement_oriented": 0.0637233230161188,
+        "care_oriented": 0.11971228106768524,
+        "knowledge_oriented": 0.12741484762848682,
+        "governance_oriented": 0.058354330893631984,
+        "sovereignty_order_oriented": 0.08528222556798887,
+        "expression_oriented": 0.1619470815488287,
+        "ecosystem_oriented": 0.08918513216514198
       },
-      "priority_raw": 0.03829003178751627,
-      "contest_raw": 0.012261499899405283
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.7639619332588758,
-      "contest_score": 0.9116135659020942,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.1231987551559828,
-      "contestedness": 0.07075205049420819,
-      "impact": 0.6549999999999999,
-      "top_clusters": {
-        "expression_oriented": 0.052372551843900966,
-        "knowledge_oriented": -0.01436151870942795
-      },
-      "bottom_clusters": {
-        "stability_seeking": -0.18402525769537112
-      },
-      "cluster_means": {
-        "survival_focused": -0.1644139529295919,
-        "stability_seeking": -0.18402525769537112,
-        "achievement_oriented": -0.09265873202951862,
-        "care_oriented": -0.09366190243538372,
-        "knowledge_oriented": -0.01436151870942795,
-        "governance_oriented": -0.1796551347330787,
-        "sovereignty_order_oriented": -0.14766101307487015,
-        "expression_oriented": 0.052372551843900966,
-        "ecosystem_oriented": -0.03097624049979114
-      },
-      "priority_raw": 0.03227807385086749,
-      "contest_raw": 0.046342593073706355
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.7745044090214974,
-      "contest_score": -0.8498504428544463,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.20246517613547377,
-      "contestedness": 0.033264442333661576,
-      "impact": 0.52,
-      "top_clusters": {
-        "expression_oriented": 0.28798536290895743,
-        "knowledge_oriented": 0.25686037463142714
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.13341520412534025
-      },
-      "cluster_means": {
-        "survival_focused": 0.1786880258038772,
-        "stability_seeking": 0.1955622001759825,
-        "achievement_oriented": 0.23148002786667693,
-        "care_oriented": 0.19450430755324394,
-        "knowledge_oriented": 0.25686037463142714,
-        "governance_oriented": 0.13341520412534025,
-        "sovereignty_order_oriented": 0.16123986521958236,
-        "expression_oriented": 0.28798536290895743,
-        "ecosystem_oriented": 0.18245121693417593
-      },
-      "priority_raw": 0.03158456747713391,
-      "contest_raw": 0.01729751001350402
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.8683833206430094,
-      "contest_score": 0.02212355813748396,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.1399945671193227,
-      "contestedness": 0.05235642862669844,
-      "impact": 0.605,
-      "top_clusters": {
-        "expression_oriented": 0.3101844077024434,
-        "knowledge_oriented": 0.2447806533867724
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.030523441273578145
-      },
-      "cluster_means": {
-        "survival_focused": 0.05844074043483438,
-        "stability_seeking": 0.048923248590017746,
-        "achievement_oriented": 0.15063927855752332,
-        "care_oriented": 0.10127967721671619,
-        "knowledge_oriented": 0.2447806533867724,
-        "governance_oriented": 0.030523441273578145,
-        "sovereignty_order_oriented": 0.0542204922319542,
-        "expression_oriented": 0.3101844077024434,
-        "ecosystem_oriented": 0.2165384873182109
-      },
-      "priority_raw": 0.02540901393215707,
-      "contest_raw": 0.03167563931915256
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.8810734300890682,
-      "contest_score": 0.7848546113277128,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.0910156728454013,
-      "contestedness": 0.06555917461590305,
-      "impact": 0.6749999999999999,
-      "top_clusters": {
-        "expression_oriented": 0.13957704994812317,
-        "knowledge_oriented": 0.08324199000187874
-      },
-      "bottom_clusters": {
-        "stability_seeking": -0.10409467769949668
-      },
-      "cluster_means": {
-        "survival_focused": -0.0825061275627158,
-        "stability_seeking": -0.10409467769949668,
-        "achievement_oriented": -0.03853550308359363,
-        "care_oriented": 0.047366002248346084,
-        "knowledge_oriented": 0.08324199000187874,
-        "governance_oriented": -0.05936214041687124,
-        "sovereignty_order_oriented": -0.0693883994100696,
-        "expression_oriented": 0.13957704994812317,
-        "ecosystem_oriented": 0.05004388700048831
-      },
-      "priority_raw": 0.02457423166825835,
-      "contest_raw": 0.044252442865734556
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -1.0017788450205674,
-      "contest_score": -1.3278608001165009,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.09318752910219003,
-      "contestedness": 0.015824394961010166,
-      "impact": 0.595,
-      "top_clusters": {
-        "expression_oriented": 0.14449685278426022,
-        "achievement_oriented": 0.11438745824294261
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.01902442127601081
-      },
-      "cluster_means": {
-        "survival_focused": 0.09341523797469165,
-        "stability_seeking": 0.08879605886428124,
-        "achievement_oriented": 0.11438745824294261,
-        "care_oriented": 0.09813434205985039,
-        "knowledge_oriented": 0.11395873702086055,
-        "governance_oriented": 0.01902442127601081,
-        "sovereignty_order_oriented": 0.10332432463664955,
-        "expression_oriented": 0.14449685278426022,
-        "ecosystem_oriented": 0.06315032906016316
-      },
-      "priority_raw": 0.016633973944740917,
-      "contest_raw": 0.009415515001801048
+      "priority_raw": 0.029514968302279065,
+      "contest_raw": 0.015531703580904145
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump signs sweeping Russia sanctions bill",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.8232410899623446,
-      "contest_score": -0.5775703313788907,
+      "priority_score": 2.8093194230127607,
+      "contest_score": 0.2832699187019863,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.931430148288529,
-      "contestedness": 0.045389965856717174,
-      "impact": 0.48,
+      "central_tendency": 0.7764018765051985,
+      "contestedness": 0.061321695548820165,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "achievement_oriented": 1.0413139328335166,
-        "stability_seeking": 0.9759174887127573
+        "care_oriented": 0.8656761783788325,
+        "expression_oriented": 0.8434869761641938
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.8705255207736613
+        "sovereignty_order_oriented": 0.6819305950715966
       },
       "cluster_means": {
-        "survival_focused": 0.9225243413071205,
-        "stability_seeking": 0.9759174887127573,
-        "achievement_oriented": 1.0413139328335166,
-        "care_oriented": 0.881132762711984,
-        "knowledge_oriented": 0.9265227285687012,
-        "governance_oriented": 0.9583410238211356,
-        "sovereignty_order_oriented": 0.9320749931470027,
-        "expression_oriented": 0.8745185427208821,
-        "ecosystem_oriented": 0.8705255207736613
+        "survival_focused": 0.7339504732033773,
+        "stability_seeking": 0.7709514245330013,
+        "achievement_oriented": 0.689906276474626,
+        "care_oriented": 0.8656761783788325,
+        "knowledge_oriented": 0.8322731200818214,
+        "governance_oriented": 0.8133814072991659,
+        "sovereignty_order_oriented": 0.6819305950715966,
+        "expression_oriented": 0.8434869761641938,
+        "ecosystem_oriented": 0.7560604373401715
       },
-      "priority_raw": 0.2682518827070963,
-      "contest_raw": 0.021787183611224243
+      "priority_raw": 0.4285738358308696,
+      "contest_raw": 0.04231196992868592
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.7180934399667307,
-      "contest_score": -1.1466636837981434,
+      "priority_score": 2.761640800357405,
+      "contest_score": -1.1330140638719413,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8286141132618599,
-      "contestedness": 0.021022551565452074,
-      "impact": 0.5900000000000001,
+      "central_tendency": 0.98316839962231,
+      "contestedness": 0.022142492206522757,
+      "impact": 0.615,
       "top_clusters": {
-        "achievement_oriented": 0.9066064216793837,
-        "knowledge_oriented": 0.8547789801474748
+        "achievement_oriented": 1.06374661860581,
+        "survival_focused": 0.9946300346576019
       },
       "bottom_clusters": {
-        "care_oriented": 0.7605244495067425
+        "expression_oriented": 0.9383502190802653
       },
       "cluster_means": {
-        "survival_focused": 0.820521773362238,
-        "stability_seeking": 0.8432311267869532,
-        "achievement_oriented": 0.9066064216793837,
-        "care_oriented": 0.7605244495067425,
-        "knowledge_oriented": 0.8547789801474748,
-        "governance_oriented": 0.7919098866648315,
-        "sovereignty_order_oriented": 0.8188157222470995,
-        "expression_oriented": 0.8389300837405138,
-        "ecosystem_oriented": 0.8222085752215011
+        "survival_focused": 0.9946300346576019,
+        "stability_seeking": 0.98704308222039,
+        "achievement_oriented": 1.06374661860581,
+        "care_oriented": 0.9889421072668645,
+        "knowledge_oriented": 0.9649005900138672,
+        "governance_oriented": 0.991772492088225,
+        "sovereignty_order_oriented": 0.9602405213389127,
+        "expression_oriented": 0.9383502190802653,
+        "ecosystem_oriented": 0.9588899313288524
       },
-      "priority_raw": 0.19555293072979896,
-      "contest_raw": 0.012403305423616725
+      "priority_raw": 0.42325399603740443,
+      "contest_raw": 0.013617632707011496
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "title": "US and Denmark reach deal over Greenland's security",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.4068361115326116,
-      "contest_score": -0.6244750932895111,
+      "priority_score": 0.5241418532278003,
+      "contest_score": 1.3823333067821315,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5354060083916086,
-      "contestedness": 0.03855736316180303,
-      "impact": 0.545,
+      "central_tendency": 0.6429647290073679,
+      "contestedness": 0.09567307110729018,
+      "impact": 0.675,
       "top_clusters": {
-        "survival_focused": 0.6251431516642836,
-        "stability_seeking": 0.5865642368949417
+        "survival_focused": 0.7632584367286914,
+        "achievement_oriented": 0.7520569728492082
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.45426334484661846
+        "expression_oriented": 0.5165268936332013
       },
       "cluster_means": {
-        "survival_focused": 0.6251431516642836,
-        "stability_seeking": 0.5865642368949417,
-        "achievement_oriented": 0.5801814612137036,
-        "care_oriented": 0.5480068737331387,
-        "knowledge_oriented": 0.4712954152228058,
-        "governance_oriented": 0.5155625277230677,
-        "sovereignty_order_oriented": 0.5787276592728691,
-        "expression_oriented": 0.45890940495304827,
-        "ecosystem_oriented": 0.45426334484661846
+        "survival_focused": 0.7632584367286914,
+        "stability_seeking": 0.708066658454225,
+        "achievement_oriented": 0.7520569728492082,
+        "care_oriented": 0.6321277085933067,
+        "knowledge_oriented": 0.5575049484237269,
+        "governance_oriented": 0.5843734169759008,
+        "sovereignty_order_oriented": 0.7363128879220341,
+        "expression_oriented": 0.5165268936332013,
+        "ecosystem_oriented": 0.5364546374860165
       },
-      "priority_raw": 0.17507776474405604,
-      "contest_raw": 0.02101376292318265
+      "priority_raw": 0.17360047683198934,
+      "contest_raw": 0.06457932299742088
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.48513011120596444,
+      "contest_score": -1.35698401896169,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.8420281689708801,
+      "contestedness": 0.027104281814449904,
+      "impact": 0.335,
+      "top_clusters": {
+        "governance_oriented": 0.9028641669530992,
+        "care_oriented": 0.8866137284913032
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.7472411659304856
+      },
+      "cluster_means": {
+        "survival_focused": 0.8011855184642103,
+        "stability_seeking": 0.8766881757417225,
+        "achievement_oriented": 0.8118393730691786,
+        "care_oriented": 0.8866137284913032,
+        "knowledge_oriented": 0.8800095585499602,
+        "governance_oriented": 0.9028641669530992,
+        "sovereignty_order_oriented": 0.7472411659304856,
+        "expression_oriented": 0.8757598851386493,
+        "ecosystem_oriented": 0.796051948399311
+      },
+      "priority_raw": 0.1692476619631469,
+      "contest_raw": 0.009079934407840719
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.286318480816609,
+      "contest_score": -0.730105673320807,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.36583295489173584,
+      "contestedness": 0.032508473499710866,
+      "impact": 0.67,
+      "top_clusters": {
+        "knowledge_oriented": 0.41219651964275483,
+        "expression_oriented": 0.4087389128261719
+      },
+      "bottom_clusters": {
+        "care_oriented": 0.33176404073128546
+      },
+      "cluster_means": {
+        "survival_focused": 0.3327646704846165,
+        "stability_seeking": 0.3336286642331625,
+        "achievement_oriented": 0.3661371377328734,
+        "care_oriented": 0.33176404073128546,
+        "knowledge_oriented": 0.41219651964275483,
+        "governance_oriented": 0.3732657170209833,
+        "sovereignty_order_oriented": 0.3657855419001521,
+        "expression_oriented": 0.4087389128261719,
+        "ecosystem_oriented": 0.3682153894536228
+      },
+      "priority_raw": 0.1470648478664778,
+      "contest_raw": 0.02178067724480628
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
@@ -1184,70 +1256,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.0497090892580394,
-      "contest_score": 0.5304208623261605,
+      "priority_score": 0.016778529553690674,
+      "contest_score": -0.01805479833317305,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.393727774526965,
-      "contestedness": 0.052022131180401165,
+      "central_tendency": 0.37983888563807616,
+      "contestedness": 0.04702213118040122,
       "impact": 0.77,
       "top_clusters": {
-        "achievement_oriented": 0.5564007789165409,
-        "expression_oriented": 0.4567702960052785
+        "achievement_oriented": 0.5464007789165409,
+        "expression_oriented": 0.4417702960052785
       },
       "bottom_clusters": {
-        "care_oriented": 0.27360665770893666
+        "governance_oriented": 0.24950625527499345
       },
       "cluster_means": {
-        "survival_focused": 0.3703301107091025,
-        "stability_seeking": 0.3411507543975558,
-        "achievement_oriented": 0.5564007789165409,
-        "care_oriented": 0.27360665770893666,
-        "knowledge_oriented": 0.4445636781624509,
-        "governance_oriented": 0.27450625527499345,
-        "sovereignty_order_oriented": 0.40474816482487735,
-        "expression_oriented": 0.4567702960052785,
-        "ecosystem_oriented": 0.4214732747429495
+        "survival_focused": 0.3603301107091025,
+        "stability_seeking": 0.3211507543975558,
+        "achievement_oriented": 0.5464007789165409,
+        "care_oriented": 0.26360665770893665,
+        "knowledge_oriented": 0.4295636781624509,
+        "governance_oriented": 0.24950625527499345,
+        "sovereignty_order_oriented": 0.3947481648248773,
+        "expression_oriented": 0.4417702960052785,
+        "ecosystem_oriented": 0.4114732747429495
       },
-      "priority_raw": 0.15158519319288152,
-      "contest_raw": 0.040057041008908896
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.3675248366458013,
-      "contest_score": 1.6954742295027385,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.18590534650665214,
-      "contestedness": 0.07227781268440797,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.3667864043627411,
-        "knowledge_oriented": 0.3017839318770461
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.06686866259842986
-      },
-      "cluster_means": {
-        "survival_focused": 0.06686866259842986,
-        "stability_seeking": 0.10903199654281415,
-        "achievement_oriented": 0.15908204002287157,
-        "care_oriented": 0.2095809517656355,
-        "knowledge_oriented": 0.3017839318770461,
-        "governance_oriented": 0.14148475802254554,
-        "sovereignty_order_oriented": 0.0839304068331565,
-        "expression_oriented": 0.3667864043627411,
-        "ecosystem_oriented": 0.23135985270727955
-      },
-      "priority_raw": 0.10670966889481834,
-      "contest_raw": 0.05926780640121454
+      "priority_raw": 0.11699037677652746,
+      "contest_raw": 0.03620704100890894
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
@@ -1256,368 +1292,322 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.354731346438887,
-      "contest_score": 0.1232529491382712,
+      "priority_score": -0.21828557074898403,
+      "contest_score": -0.3345460877241402,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3334427906318644,
-      "contestedness": 0.0525089436919306,
+      "central_tendency": 0.2858665172830804,
+      "contestedness": 0.04692099652842774,
       "impact": 0.635,
       "top_clusters": {
-        "achievement_oriented": 0.47536984105261926,
-        "expression_oriented": 0.43683947269918355
+        "achievement_oriented": 0.4396212022601,
+        "expression_oriented": 0.3436385030510927
       },
       "bottom_clusters": {
-        "care_oriented": 0.2389230303519451
+        "care_oriented": 0.18220166155756495
       },
       "cluster_means": {
-        "survival_focused": 0.2486644112230132,
-        "stability_seeking": 0.3011733549149438,
-        "achievement_oriented": 0.47536984105261926,
-        "care_oriented": 0.2389230303519451,
-        "knowledge_oriented": 0.4272421825519342,
-        "governance_oriented": 0.27453056862122854,
-        "sovereignty_order_oriented": 0.28916674911138746,
-        "expression_oriented": 0.43683947269918355,
-        "ecosystem_oriented": 0.30907550516052396
+        "survival_focused": 0.23157067265353226,
+        "stability_seeking": 0.276619283224714,
+        "achievement_oriented": 0.4396212022601,
+        "care_oriented": 0.18220166155756495,
+        "knowledge_oriented": 0.34119417598331236,
+        "governance_oriented": 0.22969828669628628,
+        "sovereignty_order_oriented": 0.28091183884677623,
+        "expression_oriented": 0.3436385030510927,
+        "ecosystem_oriented": 0.24734303127434445
       },
-      "priority_raw": 0.10586808602561694,
-      "contest_raw": 0.03334317924437593
+      "priority_raw": 0.09076261923737802,
+      "contest_raw": 0.029794832795551614
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.30174050100244815,
-      "contest_score": 0.2103168662439966,
+      "priority_score": -0.22378392826769977,
+      "contest_score": 1.760900180294916,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4062787144165151,
-      "contestedness": 0.08280664559737805,
-      "impact": 0.42000000000000004,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.168345711964121,
+      "contestedness": 0.09444340015338112,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.518364967579783,
-        "care_oriented": 0.49151980725288175
+        "expression_oriented": 0.36106618427516957,
+        "knowledge_oriented": 0.3030377723318307
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.27429485812582144
+        "survival_focused": 0.022795809766128244
       },
       "cluster_means": {
-        "survival_focused": 0.31605665997685206,
-        "stability_seeking": 0.4062943644960911,
-        "achievement_oriented": 0.3346012654931302,
-        "care_oriented": 0.49151980725288175,
-        "knowledge_oriented": 0.4891010100934691,
-        "governance_oriented": 0.44725942486566456,
-        "sovereignty_order_oriented": 0.27429485812582144,
-        "expression_oriented": 0.518364967579783,
-        "ecosystem_oriented": 0.37901607186494324
+        "survival_focused": 0.022795809766128244,
+        "stability_seeking": 0.07702468937285198,
+        "achievement_oriented": 0.17576279409610812,
+        "care_oriented": 0.1714680895262331,
+        "knowledge_oriented": 0.3030377723318307,
+        "governance_oriented": 0.12520261230264282,
+        "sovereignty_order_oriented": 0.03653470345873036,
+        "expression_oriented": 0.36106618427516957,
+        "ecosystem_oriented": 0.19045653085664055
       },
-      "priority_raw": 0.1023822360329618,
-      "contest_raw": 0.03477879115089878
+      "priority_raw": 0.09014912875678678,
+      "contest_raw": 0.07224920111733656
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+      "signal_id": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.23004831279800572,
-      "contest_score": 1.7062267898701717,
+      "priority_score": -0.26141087406556823,
+      "contest_score": -0.9284353740280473,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.22925184381648991,
-      "contestedness": 0.0808776968963899,
-      "impact": 0.735,
+      "central_tendency": 0.30479016084258775,
+      "contestedness": 0.025194976128614877,
+      "impact": 0.705,
       "top_clusters": {
-        "expression_oriented": 0.44152708303245936,
-        "knowledge_oriented": 0.390784203225815
+        "expression_oriented": 0.3636793313602158,
+        "survival_focused": 0.35875696021401693
       },
       "bottom_clusters": {
-        "survival_focused": 0.10519748182648031
+        "governance_oriented": 0.20772542048049003
       },
       "cluster_means": {
-        "survival_focused": 0.10519748182648031,
-        "stability_seeking": 0.1389205320791131,
-        "achievement_oriented": 0.2888083046615476,
-        "care_oriented": 0.18607517872287022,
-        "knowledge_oriented": 0.390784203225815,
-        "governance_oriented": 0.12974018105552898,
-        "sovereignty_order_oriented": 0.11308495575659055,
-        "expression_oriented": 0.44152708303245936,
-        "ecosystem_oriented": 0.2691286739880042
+        "survival_focused": 0.35875696021401693,
+        "stability_seeking": 0.27969993256190095,
+        "achievement_oriented": 0.2849357326805242,
+        "care_oriented": 0.28682295717516254,
+        "knowledge_oriented": 0.322719778314542,
+        "governance_oriented": 0.20772542048049003,
+        "sovereignty_order_oriented": 0.34124653261050975,
+        "expression_oriented": 0.3636793313602158,
+        "ecosystem_oriented": 0.29752480218592714
       },
-      "priority_raw": 0.06740004208204803,
-      "contest_raw": 0.05944510721884658
+      "priority_raw": 0.08595082535760974,
+      "contest_raw": 0.017762458170673488
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3145695028650806,
-      "contest_score": -1.1797182522257859,
+      "priority_score": -0.267757314082296,
+      "contest_score": 2.098890431690813,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5424566602710997,
-      "contestedness": 0.04160794020535685,
-      "impact": 0.28500000000000003,
+      "central_tendency": 0.22285675382626113,
+      "contestedness": 0.10339475128514827,
+      "impact": 0.765,
       "top_clusters": {
-        "governance_oriented": 0.604744268220591,
-        "stability_seeking": 0.5962566811162359
+        "expression_oriented": 0.4107887900248266,
+        "knowledge_oriented": 0.3610337179541493
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4718246477472039
+        "survival_focused": 0.08061232720809461
       },
       "cluster_means": {
-        "survival_focused": 0.4931765338750975,
-        "stability_seeking": 0.5962566811162359,
-        "achievement_oriented": 0.5209096712777279,
-        "care_oriented": 0.5736033396173561,
-        "knowledge_oriented": 0.5783675183989833,
-        "governance_oriented": 0.604744268220591,
-        "sovereignty_order_oriented": 0.48009095417146685,
-        "expression_oriented": 0.5631363280152342,
-        "ecosystem_oriented": 0.4718246477472039
+        "survival_focused": 0.08061232720809461,
+        "stability_seeking": 0.12154819544247614,
+        "achievement_oriented": 0.2249429467276244,
+        "care_oriented": 0.23733450463147887,
+        "knowledge_oriented": 0.3610337179541493,
+        "governance_oriented": 0.1784569845411247,
+        "sovereignty_order_oriented": 0.10801892965843324,
+        "expression_oriented": 0.4107887900248266,
+        "ecosystem_oriented": 0.2829743882481425
       },
-      "priority_raw": 0.061840059270905384,
-      "contest_raw": 0.011858262958526704
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3254188625991778,
-      "contest_score": -0.6554863273574993,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.22390610043906609,
-      "contestedness": 0.05257029064066196,
-      "impact": 0.39,
-      "top_clusters": {
-        "expression_oriented": 0.35267497845301293,
-        "knowledge_oriented": 0.3318865267022692
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.14081713317569325
-      },
-      "cluster_means": {
-        "survival_focused": 0.1541076391533291,
-        "stability_seeking": 0.25979257445648546,
-        "achievement_oriented": 0.28397583655907166,
-        "care_oriented": 0.1542973986834505,
-        "knowledge_oriented": 0.3318865267022692,
-        "governance_oriented": 0.1933874238163552,
-        "sovereignty_order_oriented": 0.1442153929519275,
-        "expression_oriented": 0.35267497845301293,
-        "ecosystem_oriented": 0.14081713317569325
-      },
-      "priority_raw": 0.06112636541986504,
-      "contest_raw": 0.020502413349858164
+      "priority_raw": 0.08524270833854489,
+      "contest_raw": 0.07909698473313843
     }
   ],
   "mood": {
-    "score": 0.015550980238412615,
+    "score": 0.031158275162979285,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "name": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "root_cause": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "target": "Trump signs sweeping Russia sanctions bill",
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "name": "Trump signs sweeping Russia sanctions bill",
+      "root_cause": "Trump signs sweeping Russia sanctions bill",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.8232410899623446,
-      "contest_score": -0.5775703313788907,
-      "contestedness": 0.045389965856717174,
+      "priority_score": 2.8093194230127607,
+      "contest_score": 0.2832699187019863,
+      "contestedness": 0.061321695548820165,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "'This is our company': Nigerians show off oil wealth after share-buying frenzy"
+        "Trump signs sweeping Russia sanctions bill"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around 'This is our company': Nigerians show off oil wealth after share-buying frenzy is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to 'This is our company': Nigerians show off oil wealth after share-buying frenzy fade or reverse without spillover."
+      "prediction": "Momentum around Trump signs sweeping Russia sanctions bill is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump signs sweeping Russia sanctions bill fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "name": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "root_cause": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "target": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "name": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "root_cause": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.7180934399667307,
-      "contest_score": -1.1466636837981434,
-      "contestedness": 0.021022551565452074,
+      "priority_score": 2.761640800357405,
+      "contest_score": -1.1330140638719413,
+      "contestedness": 0.022142492206522757,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
       "signal_count": 1,
       "signals": [
-        "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'"
+        "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' fade or reverse without spillover."
+      "prediction": "Momentum around Trump says US will form 'AI Force' and appoint an artificial intelligence tsar is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump says US will form 'AI Force' and appoint an artificial intelligence tsar fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "US and Denmark reach deal over Greenland's security",
-      "title": "US and Denmark reach deal over Greenland's security",
-      "name": "US and Denmark reach deal over Greenland's security",
-      "root_cause": "US and Denmark reach deal over Greenland's security",
+      "target": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "name": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "root_cause": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.4068361115326116,
-      "contest_score": -0.6244750932895111,
-      "contestedness": 0.03855736316180303,
+      "priority_score": 0.5241418532278003,
+      "contest_score": 1.3823333067821315,
+      "contestedness": 0.09567307110729018,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, achievement_oriented.",
       "signal_count": 1,
       "signals": [
-        "US and Denmark reach deal over Greenland's security"
+        "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around US and Denmark reach deal over Greenland's security is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to US and Denmark reach deal over Greenland's security fade or reverse without spillover."
+      "prediction": "Momentum around Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Nato welcomes Greenland deal as Trump says it will give US 'permanent security control' fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "name": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "root_cause": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "target": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "name": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "root_cause": "I found love at an Irish matchmaking festival - and I want others to do the same",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.0497090892580394,
-      "contest_score": 0.5304208623261605,
-      "contestedness": 0.052022131180401165,
+      "priority_score": 0.48513011120596444,
+      "contest_score": -1.35698401896169,
+      "contestedness": 0.027104281814449904,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, expression_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial"
+        "I found love at an Irish matchmaking festival - and I want others to do the same"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Why US plan to sell F-35 warplanes to Saudi Arabia is controversial is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Why US plan to sell F-35 warplanes to Saudi Arabia is controversial fade or reverse without spillover."
+      "prediction": "Momentum around I found love at an Irish matchmaking festival - and I want others to do the same is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to I found love at an Irish matchmaking festival - and I want others to do the same fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "name": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "root_cause": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "target": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "name": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "root_cause": "Shark attack prompts rare kill order in Western Australia as victim named",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.3675248366458013,
-      "contest_score": 1.6954742295027385,
-      "contestedness": 0.07227781268440797,
+      "priority_score": 0.286318480816609,
+      "contest_score": -0.730105673320807,
+      "contestedness": 0.032508473499710866,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "Russian hybrid attacks against Europe intensifying, says Macron"
+        "Shark attack prompts rare kill order in Western Australia as victim named"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Russian hybrid attacks against Europe intensifying, says Macron is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Russian hybrid attacks against Europe intensifying, says Macron fade or reverse without spillover."
+      "prediction": "Momentum around Shark attack prompts rare kill order in Western Australia as victim named is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Shark attack prompts rare kill order in Western Australia as victim named fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Cautious mood dominates today, reflecting a mix of positive developments and underlying tensions across global and corporate dynamics.**\n\nThe structural pattern today highlights a cautious optimism, driven by signals of achievement and stability, yet tempered by contested narratives and geopolitical undercurrents. Notable developments include Nigeria's public embrace of oil wealth following a share-buying frenzy, Warren Buffett’s retirement after six decades at Berkshire Hathaway, and a security agreement between the US and Denmark over Greenland. While these events signal progress and stability in their respective domains, other signals, such as the controversial US plan to sell F-35 warplanes to Saudi Arabia and Macron’s warning about intensifying Russian hybrid attacks, underscore lingering geopolitical risks.\n\n**1. Structural significance of top signals:** The Nigerian oil wealth story reflects a shift toward national pride and economic empowerment, with citizens actively participating in the country’s energy sector. This achievement-oriented signal suggests a potential for greater economic stability and local ownership in Nigeria’s resource-driven economy. Similarly, Warren Buffett’s retirement marks the end of an era for Berkshire Hathaway, but the positive direction of the signal suggests confidence in the company’s leadership transition and long-term stability. Meanwhile, the US-Denmark agreement over Greenland’s security highlights a strategic alignment in Arctic geopolitics, reinforcing stability in a region of growing importance.\n\n**2. Contested signals and underlying tensions:** The US plan to sell F-35 warplanes to Saudi Arabia is a contested signal, with a positive direction but significant disagreement over its implications. While it may strengthen US-Saudi ties and bolster regional security, it also risks exacerbating tensions in an already volatile region. Similarly, Macron’s warning about Russian hybrid attacks against Europe introduces a survival-focused narrative, highlighting ongoing geopolitical risks that could disrupt stability in the region. These signals reflect the duality of progress and fragility in global affairs.\n\n**3. Longer-term trajectories:** The Nigerian oil wealth story aligns with broader trends of resource nationalism and local economic empowerment, which could reshape global energy markets over time. Buffett’s departure from Berkshire signals generational change in corporate leadership, with implications for how legacy institutions adapt to evolving market dynamics. The Greenland security agreement points to increasing strategic competition in the Arctic, a region likely to grow in geopolitical significance. Conversely, the contested signals around Saudi arms sales and Russian hybrid attacks underscore the persistence of geopolitical flashpoints that could influence global stability.\n\nLooking ahead, **monitor developments in the Arctic region** as nations vie for influence and resources, and track how Nigeria’s oil wealth narrative evolves—particularly in terms of governance and economic impact. Additionally, watch for further clarity on the US-Saudi F-35 deal and its regional implications, as well as any escalations in Russian hybrid activities in Europe. These signals will be critical in shaping the balance between achievement and stability versus geopolitical risk in the coming weeks.",
+  "narrative": "🟡 **Cautious mood prevails as global dynamics shift, with signals pointing to strategic maneuvering and emerging tensions in governance, security, and technology.**\n\nThe day’s signals reflect a mix of assertive geopolitical moves, technological ambitions, and societal undercurrents, with a cautious tone dominating the portfolio. The structural pattern suggests a focus on consolidating power and control, both internationally and domestically, while technological advancements and societal challenges continue to evolve in parallel. While the signals lean positive in direction, the contestedness and low portfolio mood score indicate underlying uncertainties.\n\n**1. Strategic moves in governance and security are shaping long-term trajectories.** The Greenland deal, welcomed by NATO and framed by Trump as a step toward \"permanent security control,\" underscores the U.S.'s intent to solidify its geopolitical influence in the Arctic. This aligns with broader survival-focused and achievement-oriented priorities, as nations increasingly compete for strategic resources and territorial leverage. Similarly, the signing of sweeping Russia sanctions signals a continued hardline stance against perceived adversaries, reinforcing the U.S.'s commitment to maintaining its global dominance. These actions are fact-based and completed, reflecting a clear direction of assertiveness in governance and international relations.\n\n**2. Technological ambitions are accelerating, but risks are emerging.** The announcement of an \"AI Force\" and the appointment of an artificial intelligence tsar highlight the U.S.'s intent to lead in AI innovation and governance. This achievement-oriented signal suggests a recognition of AI’s transformative potential in both civilian and military domains. However, supporting signals, such as the hacking of three companies by Google's Gemini AI during a security test, reveal vulnerabilities that could undermine trust in these technologies. While the AI Force announcement is forward-looking, its implications for national security and global tech leadership are significant and warrant close monitoring.\n\n**3. Societal tensions and contested signals reflect underlying fractures.** The shark attack in Western Australia and the grim discoveries in South Africa highlight ongoing challenges in public safety and governance, with care-oriented clusters underscoring the human impact of these events. Additionally, the denial of White House access to certain journalists signals contested governance practices, raising questions about transparency and media freedom. These signals, while lower in priority, point to broader societal concerns that could influence public sentiment and policy trajectories.\n\n**Long-term implications suggest a pivot toward consolidation and control.** The U.S.'s geopolitical and technological moves align with a broader trend of securing dominance in critical areas, from Arctic security to AI leadership. However, contested signals and emerging vulnerabilities, particularly in technology and governance, highlight the need for careful navigation of risks. The portfolio mood reflects cautious optimism, tempered by the recognition of potential instability.\n\n**Watch for developments in three key areas:** (1) the operationalization of the U.S. AI Force and its impact on global tech competition; (2) international responses to the Greenland deal and Russia sanctions, particularly from adversaries; and (3) societal reactions to governance practices, including media access restrictions and public safety measures. These signals will shape the trajectory of power dynamics and public trust in the months ahead.",
   "noise_filtered": [
-    "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-    "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "US and Denmark reach deal over Greenland's security",
+    "Trump signs sweeping Russia sanctions bill",
+    "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+    "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+    "I found love at an Irish matchmaking festival - and I want others to do the same",
+    "Shark attack prompts rare kill order in Western Australia as victim named",
     "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-    "Russian hybrid attacks against Europe intensifying, says Macron",
     "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-    "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-    "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-    "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-    "North Korean anthem played for South Korea at Asian Games",
-    "Three dead and eight injured in Philippines school shooting",
-    "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-    "Shots heard as police start moving migrants from Ceuta beaches",
-    "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+    "Russian hybrid attacks against Europe intensifying, says Macron",
+    "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+    "Houthis say they targeted Saudi capital with ballistic missiles",
+    "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+    "Converse pulls 'deeply upsetting' advert after backlash",
+    "Google's Gemini AI hacked three companies in security test",
+    "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+    "Grim discoveries of murdered women spark fear in South Africa",
     "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-    "Dozens of suspected illegal miners die in Nigerian custody",
-    "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-    "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-    "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "Trump says he is banning CNN and Politico from White House"
+    "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+    "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+    "Millions without power as Cuba hit by latest major blackout",
+    "Journalists denied White House access after Trump banned some media outlets"
   ],
   "matured_predictions": [
     {
-      "id": "3a68164c7a2ccf81",
-      "created_at": "2026-09-05",
-      "root_cause": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "prediction": "Momentum around 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors is likely to compound if current conditions hold.",
+      "id": "e4dd34687220a050",
+      "created_at": "2026-09-06",
+      "root_cause": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "prediction": "Momentum around Nepal rescuers try to reach dozens trapped in tunnel after two found alive is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "maturity_date": "2026-09-19",
-      "falsification": "Signals tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors fade or reverse without downstream spillover.",
+      "maturity_date": "2026-09-20",
+      "falsification": "Signals tied to Nepal rescuers try to reach dozens trapped in tunnel after two found alive fade or reverse without downstream spillover.",
       "severity": "high",
       "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals indicating continued momentum or downstream spillover related to the Nepal tunnel rescues. The available signals focus on unrelated topics, such as sports, wildlife discoveries, and geopolitical events, suggesting that the initial narrative has faded.",
-      "validated_at": "2026-09-18T22:26:55.269639+00:00",
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or downstream spillover related to the Nepal rescuers' efforts to reach trapped individuals in the tunnel. The topic appears to have faded from current news cycles.",
+      "validated_at": "2026-09-19T22:16:59.980814+00:00",
       "evidence_used": [
-        "Al Jazeera: New cat species found, first in more than 100 years",
-        "ABC Australia: LA Rams coach hopes his NFL team never plays in Australia again",
-        "BBC World: Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-        "Al Jazeera: More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
-        "ABC Australia: How Jack Gunston became an unlikely key to Hawthorn's flag hopes",
-        "ABC Australia: Blistering Head ton leads Australia to victory in second ODI in Zimbabwe",
-        "ABC Australia: First Nations netballers driving change, bringing cultural safety",
-        "ABC Australia: HYROX athlete apologises and withdraws for defecating mid-race"
+        "Fresh signals provided do not include any updates or mentions of the Nepal rescuers or the tunnel incident.",
+        "The timeline for the prediction has elapsed without relevant developments or sustained coverage."
       ]
     },
     {
-      "id": "0ab3a330bcdfdb2c",
-      "created_at": "2026-09-05",
-      "root_cause": "'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC",
-      "prediction": "Momentum around 'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC is likely to compound if current conditions hold.",
+      "id": "304aeb4e7856fc72",
+      "created_at": "2026-09-06",
+      "root_cause": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "prediction": "Momentum around 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "maturity_date": "2026-09-19",
-      "falsification": "Signals tied to 'Layer upon layer of miracles' to find tunnel survivors, Nepal rescue adviser tells BBC fade or reverse without downstream spillover.",
+      "maturity_date": "2026-09-20",
+      "falsification": "Signals tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors fade or reverse without downstream spillover.",
       "severity": "high",
       "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly tied to the 'Layer upon layer of miracles' narrative or the Nepal rescue adviser have emerged. The provided signals are unrelated to the original prediction, indicating that the momentum around the topic has not compounded or persisted.",
-      "validated_at": "2026-09-18T22:26:57.637651+00:00",
-      "evidence_used": [
-        "Prediction timeline of 1-2 weeks has elapsed.",
-        "No fresh signals directly related to 'Layer upon layer of miracles' or the Nepal rescue adviser were identified.",
-        "Provided signals from ABC Australia are unrelated to the original prediction topic."
-      ]
+      "validation_notes": "The prediction timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating sustained momentum or downstream spillover tied to 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors. The prediction is considered expired as the conditions for validation or falsification are no longer relevant.",
+      "validated_at": "2026-09-19T22:17:02.101348+00:00",
+      "evidence_used": "The fresh signals provided do not reference or connect to the Nepal tunnel rescues or related momentum. Additionally, the timeline for the prediction has elapsed without any relevant updates or developments."
     }
   ],
   "delta": {
@@ -1626,94 +1616,84 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Canada welcomes EU proposal to become 'associate member'",
+        "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+        "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Aztec document goes on display in Mexico after 186 years abroad",
+        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Klopp wants to 'reclaim' flag amid German elections",
+        "title": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "EU announces plan to restrict social media access for under-15s",
+        "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "title": "North Korean anthem played for South Korea at Asian Games",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Swedish PM Kristersson resigns after election loss",
+        "title": "Three dead and eight injured in Philippines school shooting",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+        "title": "Shots heard as police start moving migrants from Ceuta beaches",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US interest rates raised for first time in three years",
+        "title": "Dozens of suspected illegal miners die in Nigerian custody",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "One dead after torrential rain and flash floods hit Barcelona region",
+        "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+        "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "India faces 100% tariff threat over Russian oil after US House vote",
+        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Abducted South African journalist found dead with gunshot wounds",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Ninth woman's body found as South African police investigate string of deaths",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Hyrox athlete apologises for continuing race after soiling herself",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+        "title": "Trump says he is banning CNN and Politico from White House",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
-    "priority_score_changes": [],
+    "priority_score_changes": [
+      "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control': 1.41 → 0.52",
+      "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial: 1.05 → 0.02",
+      "This Olympic river has 500 crocodiles in it - but that's not the main concern: 0.35 → -0.22",
+      "Russian hybrid attacks against Europe intensifying, says Macron: 0.37 → -0.22"
+    ],
     "mood_shift": "",
-    "structural_shifts": [],
-    "continuing_priorities": [],
-    "new_stories": 20,
-    "carried_stories": 0,
+    "structural_shifts": [
+      "Priority score movement — Nato welcomes Greenland deal as Trump says it will give US 'permanent security control': 1.41 → 0.52",
+      "Priority score movement — Why US plan to sell F-35 warplanes to Saudi Arabia is controversial: 1.05 → 0.02",
+      "Priority score movement — This Olympic river has 500 crocodiles in it - but that's not the main concern: 0.35 → -0.22",
+      "Priority score movement — Russian hybrid attacks against Europe intensifying, says Macron: 0.37 → -0.22"
+    ],
+    "continuing_priorities": [
+      "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "This Olympic river has 500 crocodiles in it - but that's not the main concern",
+      "Russian hybrid attacks against Europe intensifying, says Macron",
+      "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque"
+    ],
+    "new_stories": 14,
+    "carried_stories": 6,
     "total_stories": 20,
-    "summary": "20 priorities dropped: Canada welcomes EU proposal to become 'associate member' (No longer in today's news feed — story left the RSS cycle); Snapchat open to putting time limits on teens, boss tells BBC (No longer in today's news feed — story left the RSS cycle); Aztec document goes on display in Mexico after 186 years abroad (No longer in today's news feed — story left the RSS cycle); Klopp wants to 'reclaim' flag amid German elections (No longer in today's news feed — story left the RSS cycle); EU announces plan to restrict social media access for under-15s (No longer in today's news feed — story left the RSS cycle); US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark (No longer in today's news feed — story left the RSS cycle); Swedish PM Kristersson resigns after election loss (No longer in today's news feed — story left the RSS cycle); River home to 500 crocodiles chosen as Olympic rowing venue (No longer in today's news feed — story left the RSS cycle); US interest rates raised for first time in three years (No longer in today's news feed — story left the RSS cycle); One dead after torrential rain and flash floods hit Barcelona region (No longer in today's news feed — story left the RSS cycle); International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown (No longer in today's news feed — story left the RSS cycle); India faces 100% tariff threat over Russian oil after US House vote (No longer in today's news feed — story left the RSS cycle); Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting (No longer in today's news feed — story left the RSS cycle); Photos show widespread damage at US sites from Iranian attacks (No longer in today's news feed — story left the RSS cycle); Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft (No longer in today's news feed — story left the RSS cycle); Abducted South African journalist found dead with gunshot wounds (No longer in today's news feed — story left the RSS cycle); Ninth woman's body found as South African police investigate string of deaths (No longer in today's news feed — story left the RSS cycle); Hyrox athlete apologises for continuing race after soiling herself (No longer in today's news feed — story left the RSS cycle); UN experts say grounds to believe US committed war crimes in Iran strikes (No longer in today's news feed — story left the RSS cycle); Assad regime planned US journalist's kidnap for weeks, BBC finds (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 20 new, 0 carried, 20 total"
+    "summary": "13 priorities dropped: 'This is our company': Nigerians show off oil wealth after share-buying frenzy (No longer in today's news feed — story left the RSS cycle); Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' (No longer in today's news feed — story left the RSS cycle); Is the Kennedy Center losing 'hundreds of millions of dollars'? (No longer in today's news feed — story left the RSS cycle); Verified video shows wreckage of Saudi fighter jet shot down over Yemen (No longer in today's news feed — story left the RSS cycle); Ronaldo named in first Portugal squad since World Cup - at age of 41 (No longer in today's news feed — story left the RSS cycle); North Korean anthem played for South Korea at Asian Games (No longer in today's news feed — story left the RSS cycle); Three dead and eight injured in Philippines school shooting (No longer in today's news feed — story left the RSS cycle); Shots heard as police start moving migrants from Ceuta beaches (No longer in today's news feed — story left the RSS cycle); Dozens of suspected illegal miners die in Nigerian custody (No longer in today's news feed — story left the RSS cycle); Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter (No longer in today's news feed — story left the RSS cycle); Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children (No longer in today's news feed — story left the RSS cycle); 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran (No longer in today's news feed — story left the RSS cycle); Trump says he is banning CNN and Politico from White House (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Nato welcomes Greenland deal as Trump says it will give US 'permanent security control': 1.41 → 0.52; Why US plan to sell F-35 warplanes to Saudi Arabia is controversial: 1.05 → 0.02; This Olympic river has 500 crocodiles in it - but that's not the main concern: 0.35 → -0.22; Russian hybrid attacks against Europe intensifying, says Macron: 0.37 → -0.22 · Structural shifts: Priority score movement — Nato welcomes Greenland deal as Trump says it will give US 'permanent security control': 1.41 → 0.52; Priority score movement — Why US plan to sell F-35 warplanes to Saudi Arabia is controversial: 1.05 → 0.02; Priority score movement — This Olympic river has 500 crocodiles in it - but that's not the main concern: 0.35 → -0.22; Priority score movement — Russian hybrid attacks against Europe intensifying, says Macron: 0.37 → -0.22 · Signal freshness: 14 new, 6 carried, 20 total"
   }
 }
