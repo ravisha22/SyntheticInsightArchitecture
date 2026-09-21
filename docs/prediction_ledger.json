@@ -152,9 +152,13 @@
       "maturity_date": "2026-09-22",
       "falsification": "Signals tied to The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs' fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to the volunteers defusing Indonesia's wildfire 'carbon bombs' were identified. The provided signal from BBC World is unrelated to the prediction's subject matter.",
+      "validated_at": "2026-09-21T23:08:14.691518+00:00",
+      "evidence_used": [
+        "Prediction timeline of 1-2 weeks has elapsed.",
+        "No relevant signals tied to the prediction were found in the provided fresh signals or other sources."
+      ]
     },
     {
       "id": "cd715d52472bd5a7",
@@ -1954,5 +1958,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-20T22:20:08.843563+00:00"
+  "last_updated": "2026-09-21T23:08:12.088509+00:00"
 }
