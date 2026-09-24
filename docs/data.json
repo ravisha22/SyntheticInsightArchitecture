@@ -1,14 +1,105 @@
 {
-  "report_date": "2026-09-24",
-  "generated_at": "2026-09-23T22:52:21.496542+00:00",
+  "report_date": "2026-09-25",
+  "generated_at": "2026-09-24T23:08:43.351210+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "body": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "body": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 21:21:47 GMT"
+    },
+    {
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "body": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "body": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 18:06:40 GMT"
+    },
+    {
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "body": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:02:36 GMT"
+    },
+    {
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "body": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:18:12 GMT"
+    },
+    {
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "body": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:32:59 GMT"
+    },
+    {
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "body": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:55:44 GMT"
+    },
+    {
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "body": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:37:45 GMT"
+    },
+    {
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "body": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 14:37:34 GMT"
+    },
+    {
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "body": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 16:00:29 GMT"
+    },
+    {
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "body": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 16:36:33 GMT"
+    },
+    {
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "body": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:42:07 GMT"
+    },
+    {
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "body": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 06:47:12 GMT"
+    },
+    {
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "body": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 10:11:15 GMT"
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -18,25 +109,18 @@
       "published": "Wed, 23 Sep 2026 18:15:31 GMT"
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "body": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:53:37 GMT"
-    },
-    {
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "body": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:26:14 GMT"
-    },
-    {
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
       "body": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 12:31:31 GMT"
+    },
+    {
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "body": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 08:26:19 GMT"
     },
     {
       "title": "UK survivor of Canadian poison seller says he exploited her despair",
@@ -58,90 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 18:51:12 GMT"
-    },
-    {
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "body": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 15:37:20 GMT"
-    },
-    {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "body": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 05:02:26 GMT"
-    },
-    {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "body": "One of those killed is believed to be a pregnant woman, police said.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 14:02:55 GMT"
-    },
-    {
-      "title": "Federal judge delays ruling on White House media ban",
-      "body": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:53:38 GMT"
-    },
-    {
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "body": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 20:59:00 GMT"
-    },
-    {
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "body": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:04:31 GMT"
-    },
-    {
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "body": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 00:05:34 GMT"
-    },
-    {
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "body": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 16:42:23 GMT"
-    },
-    {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "body": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 13:49:22 GMT"
-    },
-    {
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "body": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 14:23:39 GMT"
-    },
-    {
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "body": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:29:04 GMT"
-    },
-    {
-      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "body": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 15:46:28 GMT"
     }
   ],
   "signals": [
@@ -149,14 +149,144 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "body": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "body": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 21:21:47 GMT"
     },
     {
       "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "body": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "body": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 18:06:40 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "body": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:02:36 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "body": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:18:12 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "body": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 19:32:59 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "body": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 17:55:44 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "body": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:37:45 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "body": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 14:37:34 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "body": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 16:00:29 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "body": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 16:36:33 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "body": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 15:42:07 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "body": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 06:47:12 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "body": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 10:11:15 GMT"
+    },
+    {
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -166,27 +296,7 @@
       "published": "Wed, 23 Sep 2026 18:15:31 GMT"
     },
     {
-      "number": 3,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "body": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 16:53:37 GMT"
-    },
-    {
-      "number": 4,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "body": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:26:14 GMT"
-    },
-    {
-      "number": 5,
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
@@ -196,7 +306,17 @@
       "published": "Wed, 23 Sep 2026 12:31:31 GMT"
     },
     {
-      "number": 6,
+      "number": 17,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "body": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 24 Sep 2026 08:26:19 GMT"
+    },
+    {
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "UK survivor of Canadian poison seller says he exploited her despair",
@@ -206,7 +326,7 @@
       "published": "Wed, 23 Sep 2026 21:16:00 GMT"
     },
     {
-      "number": 7,
+      "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
@@ -216,7 +336,7 @@
       "published": "Wed, 23 Sep 2026 12:22:53 GMT"
     },
     {
-      "number": 8,
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
@@ -224,200 +344,44 @@
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 23 Sep 2026 18:51:12 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "body": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 15:37:20 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "body": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 05:02:26 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "body": "One of those killed is believed to be a pregnant woman, police said.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 14:02:55 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Federal judge delays ruling on White House media ban",
-      "body": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:53:38 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "body": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 20:59:00 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "body": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:04:31 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "body": "Authorities are cracking down on \"disruptive behaviours\" including eating onboard and putting feet on seats.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 00:05:34 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "body": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 16:42:23 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "body": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 13:49:22 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "body": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 14:23:39 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "body": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 21:29:04 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "body": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 15:46:28 GMT"
     }
   ],
   "priorities": [
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.4422221275154863,
-      "contest_score": -0.5343331601420391,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.3503469680318907,
-      "contestedness": 0.03569034597992782,
-      "impact": 0.715,
-      "top_clusters": {
-        "survival_focused": 1.474948496293428,
-        "sovereignty_order_oriented": 1.4307902232295029
-      },
-      "bottom_clusters": {
-        "expression_oriented": 1.1448644898955653
-      },
-      "cluster_means": {
-        "survival_focused": 1.474948496293428,
-        "stability_seeking": 1.4163408852206876,
-        "achievement_oriented": 1.3786736514313458,
-        "care_oriented": 1.409235917436843,
-        "knowledge_oriented": 1.2030564143541695,
-        "governance_oriented": 1.395099877249575,
-        "sovereignty_order_oriented": 1.4307902232295029,
-        "expression_oriented": 1.1448644898955653,
-        "ecosystem_oriented": 1.3001127571759
-      },
-      "priority_raw": 0.6758486574999611,
-      "contest_raw": 0.025518597375648388
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 2.2851475893080497,
-      "contest_score": 1.3989317048332328,
+      "priority_score": 3.4015656643582273,
+      "contest_score": -1.2649459757999602,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1968365096600049,
-      "contestedness": 0.08319335408683437,
-      "impact": 0.77,
+      "central_tendency": 1.3643696845890287,
+      "contestedness": 0.024383030384669935,
+      "impact": 0.715,
       "top_clusters": {
-        "achievement_oriented": 1.3381690696760096,
-        "survival_focused": 1.287228603945453
+        "survival_focused": 1.482333311522607,
+        "stability_seeking": 1.4328782964148372
       },
       "bottom_clusters": {
-        "expression_oriented": 1.046280982826235
+        "expression_oriented": 1.1771254913593738
       },
       "cluster_means": {
-        "survival_focused": 1.287228603945453,
-        "stability_seeking": 1.2716561385221006,
-        "achievement_oriented": 1.3381690696760096,
-        "care_oriented": 1.1613412038921584,
-        "knowledge_oriented": 1.1184372447798434,
-        "governance_oriented": 1.2016305988666778,
-        "sovereignty_order_oriented": 1.2571851298436187,
-        "expression_oriented": 1.046280982826235,
-        "ecosystem_oriented": 1.089599614587947
+        "survival_focused": 1.482333311522607,
+        "stability_seeking": 1.4328782964148372,
+        "achievement_oriented": 1.4056605965787554,
+        "care_oriented": 1.417536333458489,
+        "knowledge_oriented": 1.2314777764776967,
+        "governance_oriented": 1.4084952660301673,
+        "sovereignty_order_oriented": 1.4238065363122432,
+        "expression_oriented": 1.1771254913593738,
+        "ecosystem_oriented": 1.300013553147091
       },
-      "priority_raw": 0.6450948787067426,
-      "contest_raw": 0.06405888264686246
+      "priority_raw": 0.7804194595849245,
+      "contest_raw": 0.017433866725039004
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
@@ -426,8 +390,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.2664401269165027,
-      "contest_score": -0.5052643503949267,
+      "priority_score": 1.5543553630201914,
+      "contest_score": -0.5270617413436861,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -456,400 +420,328 @@
       "contest_raw": 0.02609809387426328
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7630826582708199,
-      "contest_score": 2.0904082279602654,
+      "priority_score": 1.0633048435567312,
+      "contest_score": -0.06936268936149896,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9444579164829506,
-      "contestedness": 0.10590979549663593,
-      "impact": 0.735,
+      "central_tendency": 0.9797962137873125,
+      "contestedness": 0.06917008841807193,
+      "impact": 0.455,
       "top_clusters": {
-        "achievement_oriented": 1.068179127337408,
-        "survival_focused": 1.0671687924973963
+        "governance_oriented": 1.092488220164611,
+        "knowledge_oriented": 1.0682158143683544
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8028319152602537
+        "sovereignty_order_oriented": 0.8374634553430327
       },
       "cluster_means": {
-        "survival_focused": 1.0671687924973963,
-        "stability_seeking": 1.0155451206148185,
-        "achievement_oriented": 1.068179127337408,
-        "care_oriented": 0.8843913839498156,
-        "knowledge_oriented": 0.8851062033159879,
-        "governance_oriented": 0.9087417107568896,
-        "sovereignty_order_oriented": 1.058445470504879,
-        "expression_oriented": 0.8028319152602537,
-        "ecosystem_oriented": 0.8097115241091059
+        "survival_focused": 0.8625721765210033,
+        "stability_seeking": 0.9990457259502825,
+        "achievement_oriented": 0.9626524913729144,
+        "care_oriented": 1.0290213063368427,
+        "knowledge_oriented": 1.0682158143683544,
+        "governance_oriented": 1.092488220164611,
+        "sovereignty_order_oriented": 0.8374634553430327,
+        "expression_oriented": 1.0416766375032103,
+        "ecosystem_oriented": 0.9250300965255618
       },
-      "priority_raw": 0.34708828430748434,
-      "contest_raw": 0.0778436996900274
+      "priority_raw": 0.3566458218185818,
+      "contest_raw": 0.031472390230222726
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7080852791031005,
-      "contest_score": -1.0691683296610939,
+      "priority_score": 0.8354874790599293,
+      "contest_score": -1.474310741829444,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6280491002503794,
-      "contestedness": 0.019420233199547776,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.7220722211811139,
-        "care_oriented": 0.7163962317612084
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.481069387072103
-      },
-      "cluster_means": {
-        "survival_focused": 0.481069387072103,
-        "stability_seeking": 0.5543173915017859,
-        "achievement_oriented": 0.5523371917761697,
-        "care_oriented": 0.7163962317612084,
-        "knowledge_oriented": 0.7086606637005922,
-        "governance_oriented": 0.7064976659103444,
-        "sovereignty_order_oriented": 0.5084391613685308,
-        "expression_oriented": 0.7220722211811139,
-        "ecosystem_oriented": 0.7026519879815661
-      },
-      "priority_raw": 0.33632029318407813,
-      "contest_raw": 0.01485647839765405
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.5713008542213963,
-      "contest_score": -0.8683623689746623,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.8365922586366499,
-      "contestedness": 0.025485963186754335,
-      "impact": 0.74,
-      "top_clusters": {
-        "achievement_oriented": 0.9857249530676928,
-        "survival_focused": 0.8720334068819635
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.7599757932583739
-      },
-      "cluster_means": {
-        "survival_focused": 0.8720334068819635,
-        "stability_seeking": 0.848892997804119,
-        "achievement_oriented": 0.9857249530676928,
-        "care_oriented": 0.8114208800001752,
-        "knowledge_oriented": 0.8163688305228989,
-        "governance_oriented": 0.7599757932583739,
-        "sovereignty_order_oriented": 0.8418547937096532,
-        "expression_oriented": 0.7952642963393362,
-        "ecosystem_oriented": 0.7977943761456353
-      },
-      "priority_raw": 0.30953913569556046,
-      "contest_raw": 0.018859612758198207
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.2642697749365046,
-      "contest_score": -1.3308993818154646,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.7390376823385709,
-      "contestedness": 0.02570341826296707,
-      "impact": 0.375,
-      "top_clusters": {
-        "governance_oriented": 0.9169152263036205,
-        "care_oriented": 0.8767642761905825
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.5761579159208114
-      },
-      "cluster_means": {
-        "survival_focused": 0.7058068163168548,
-        "stability_seeking": 0.820323363245308,
-        "achievement_oriented": 0.5761579159208114,
-        "care_oriented": 0.8767642761905825,
-        "knowledge_oriented": 0.6983536330899349,
-        "governance_oriented": 0.9169152263036205,
-        "sovereignty_order_oriented": 0.6791290594752508,
-        "expression_oriented": 0.6760927161209042,
-        "ecosystem_oriented": 0.7017961343838712
-      },
-      "priority_raw": 0.24942521778926766,
-      "contest_raw": 0.009638781848612651
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.1974432904627524,
-      "contest_score": -1.193390482985752,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5629237565464267,
-      "contestedness": 0.02191162476677455,
-      "impact": 0.565,
-      "top_clusters": {
-        "achievement_oriented": 0.6487886674886589,
-        "survival_focused": 0.6023947855916196
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.5012455347407362
-      },
-      "cluster_means": {
-        "survival_focused": 0.6023947855916196,
-        "stability_seeking": 0.5834737472252164,
-        "achievement_oriented": 0.6487886674886589,
-        "care_oriented": 0.5512164525095866,
-        "knowledge_oriented": 0.5615621224584418,
-        "governance_oriented": 0.5012455347407362,
-        "sovereignty_order_oriented": 0.5662080756174981,
-        "expression_oriented": 0.5499631328831798,
-        "ecosystem_oriented": 0.5014612904029023
-      },
-      "priority_raw": 0.15902596122436552,
-      "contest_raw": 0.01238006799322762
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.36980659442633573,
-      "contest_score": -0.8752612679012989,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.25463166646552404,
-      "contestedness": 0.022831805960836005,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.34370632824427433,
-        "knowledge_oriented": 0.33636728597400967
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.18311175065405363
-      },
-      "cluster_means": {
-        "survival_focused": 0.18311175065405363,
-        "stability_seeking": 0.2036460651006926,
-        "achievement_oriented": 0.3231189519823676,
-        "care_oriented": 0.2247924438064917,
-        "knowledge_oriented": 0.33636728597400967,
-        "governance_oriented": 0.22058933406938863,
-        "sovereignty_order_oriented": 0.2264778710615286,
-        "expression_oriented": 0.34370632824427433,
-        "ecosystem_oriented": 0.22987496729690957
-      },
-      "priority_raw": 0.12527877990103783,
-      "contest_raw": 0.018722080887885524
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4806803820961659,
-      "contest_score": -1.0016434347472483,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.24058232667517446,
-      "contestedness": 0.026345707134089458,
-      "impact": 0.615,
-      "top_clusters": {
-        "expression_oriented": 0.4073256881100019,
-        "knowledge_oriented": 0.37314190379299034
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.10726623281198541
-      },
-      "cluster_means": {
-        "survival_focused": 0.10726623281198541,
-        "stability_seeking": 0.20480012302871314,
-        "achievement_oriented": 0.2545108431644538,
-        "care_oriented": 0.2267627161280356,
-        "knowledge_oriented": 0.37314190379299034,
-        "governance_oriented": 0.2311458301628026,
-        "sovereignty_order_oriented": 0.12814159536635863,
-        "expression_oriented": 0.4073256881100019,
-        "ecosystem_oriented": 0.23214600751122902
-      },
-      "priority_raw": 0.1035706916336626,
-      "contest_raw": 0.016202609887465018
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "title": "Federal judge delays ruling on White House media ban",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5310869925439843,
-      "contest_score": -0.9270595597916373,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.37859204705787064,
-      "contestedness": 0.035736291956477984,
+      "central_tendency": 0.9101224970963013,
+      "contestedness": 0.030253552215818935,
       "impact": 0.495,
       "top_clusters": {
-        "achievement_oriented": 0.45744832489017667,
-        "expression_oriented": 0.4544434660712654
+        "governance_oriented": 0.9874136867608981,
+        "care_oriented": 0.9569070160668456
       },
       "bottom_clusters": {
-        "care_oriented": 0.31888968478716095
+        "sovereignty_order_oriented": 0.8147080763733885
       },
       "cluster_means": {
-        "survival_focused": 0.3550244298014616,
-        "stability_seeking": 0.3836699801066996,
-        "achievement_oriented": 0.45744832489017667,
-        "care_oriented": 0.31888968478716095,
-        "knowledge_oriented": 0.44895940779379656,
-        "governance_oriented": 0.3192881378449836,
-        "sovereignty_order_oriented": 0.3476512107638041,
-        "expression_oriented": 0.4544434660712654,
-        "ecosystem_oriented": 0.3219537814614868
+        "survival_focused": 0.8474156219864996,
+        "stability_seeking": 0.9266534638510266,
+        "achievement_oriented": 0.8576281466712513,
+        "care_oriented": 0.9569070160668456,
+        "knowledge_oriented": 0.9437930184351891,
+        "governance_oriented": 0.9874136867608981,
+        "sovereignty_order_oriented": 0.8147080763733885,
+        "expression_oriented": 0.9329407537593515,
+        "ecosystem_oriented": 0.9236426899622623
       },
-      "priority_raw": 0.09370153164682299,
-      "contest_raw": 0.017689464518456603
+      "priority_raw": 0.3153574452438684,
+      "contest_raw": 0.014975508346830372
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6981826674570913,
-      "contest_score": 1.7026807830727257,
+      "priority_score": 0.24489284355800367,
+      "contest_score": -0.3054727052081572,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.20743436942831034,
-      "contestedness": 0.09539350024115073,
+      "central_tendency": 0.47345748804610527,
+      "contestedness": 0.052181799043904964,
+      "impact": 0.55,
+      "top_clusters": {
+        "sovereignty_order_oriented": 0.5563602683747719,
+        "governance_oriented": 0.5301863144578377
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.39026122991069045
+      },
+      "cluster_means": {
+        "survival_focused": 0.5289087628705633,
+        "stability_seeking": 0.5208071185051532,
+        "achievement_oriented": 0.4424430289545954,
+        "care_oriented": 0.44181455171309175,
+        "knowledge_oriented": 0.41682374029879504,
+        "governance_oriented": 0.5301863144578377,
+        "sovereignty_order_oriented": 0.5563602683747719,
+        "expression_oriented": 0.39026122991069045,
+        "ecosystem_oriented": 0.43351237732944886
+      },
+      "priority_raw": 0.20832129474028635,
+      "contest_raw": 0.028699989474147734
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.14599831351135303,
+      "contest_score": 0.2677489164338249,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.5180903115848764,
+      "contestedness": 0.048205102518051046,
       "impact": 0.735,
       "top_clusters": {
-        "expression_oriented": 0.4028802932928005,
-        "knowledge_oriented": 0.3515359351062589
+        "expression_oriented": 0.606820279053364,
+        "knowledge_oriented": 0.5785047688686302
       },
       "bottom_clusters": {
-        "survival_focused": 0.0712239035551126
+        "sovereignty_order_oriented": 0.45024255713423544
       },
       "cluster_means": {
-        "survival_focused": 0.0712239035551126,
-        "stability_seeking": 0.11441528993543743,
-        "achievement_oriented": 0.20980879017658816,
-        "care_oriented": 0.2217831706088405,
-        "knowledge_oriented": 0.3515359351062589,
-        "governance_oriented": 0.15162087017874704,
-        "sovereignty_order_oriented": 0.08994167297001623,
-        "expression_oriented": 0.4028802932928005,
-        "ecosystem_oriented": 0.25369939903099153
+        "survival_focused": 0.5006381246493746,
+        "stability_seeking": 0.49369586996635606,
+        "achievement_oriented": 0.5011553852656471,
+        "care_oriented": 0.57128595406438,
+        "knowledge_oriented": 0.5785047688686302,
+        "governance_oriented": 0.452950282747596,
+        "sovereignty_order_oriented": 0.45024255713423544,
+        "expression_oriented": 0.606820279053364,
+        "ecosystem_oriented": 0.5075195825143042
       },
-      "priority_raw": 0.06098570461192324,
-      "contest_raw": 0.07011422267724579
+      "priority_raw": 0.19039818950744208,
+      "contest_raw": 0.035430750350767516
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6996401553536564,
-      "contest_score": 0.8642154013949279,
+      "priority_score": -0.11472427681057999,
+      "contest_score": -0.5925221866205809,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.7777777777777778,
-      "central_tendency": 0.11335264541327729,
-      "contestedness": 0.06980278863289469,
-      "impact": 0.765,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.5890792151301162,
+      "contestedness": 0.06254187202819717,
+      "impact": 0.405,
       "top_clusters": {
-        "expression_oriented": 0.2438444016278628,
-        "knowledge_oriented": 0.18305850533693652
+        "care_oriented": 0.677531812226523,
+        "expression_oriented": 0.6684746761253101
       },
       "bottom_clusters": {
-        "survival_focused": 0.0057249939126619576
+        "sovereignty_order_oriented": 0.46148230511156246
       },
       "cluster_means": {
-        "survival_focused": 0.0057249939126619576,
-        "stability_seeking": 0.039881205798237535,
-        "achievement_oriented": 0.01861350345073992,
-        "care_oriented": 0.13118985441766504,
-        "knowledge_oriented": 0.18305850533693652,
-        "governance_oriented": 0.0884162920836346,
-        "sovereignty_order_oriented": 0.03456010950252131,
-        "expression_oriented": 0.2438444016278628,
-        "ecosystem_oriented": 0.1707635158097175
+        "survival_focused": 0.5429172025490662,
+        "stability_seeking": 0.6054590745772633,
+        "achievement_oriented": 0.5579194369270808,
+        "care_oriented": 0.677531812226523,
+        "knowledge_oriented": 0.6435552404019016,
+        "governance_oriented": 0.6061081098870293,
+        "sovereignty_order_oriented": 0.46148230511156246,
+        "expression_oriented": 0.6684746761253101,
+        "ecosystem_oriented": 0.5382650783653096
       },
-      "priority_raw": 0.06070034161880999,
-      "contest_raw": 0.05339913330416444
+      "priority_raw": 0.14314624927661823,
+      "contest_raw": 0.025329458171419853
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "title": "Eleven killed in mass shooting at house in South Africa",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7083785250533633,
-      "contest_score": 0.6140581534170816,
+      "priority_score": -0.30569467406854045,
+      "contest_score": 0.6050167978147247,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.7777777777777778,
-      "central_tendency": 0.14387670145050013,
-      "contestedness": 0.05903922491931432,
-      "impact": 0.82,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2602777363853714,
+      "contestedness": 0.056677619362905635,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "expression_oriented": 0.3391787315374478,
-        "knowledge_oriented": 0.26369241777449093
+        "expression_oriented": 0.4203886439197057,
+        "knowledge_oriented": 0.3747929309399598
       },
       "bottom_clusters": {
-        "survival_focused": 0.006424378099313122
+        "sovereignty_order_oriented": 0.17032488188520412
       },
       "cluster_means": {
-        "survival_focused": 0.006424378099313122,
-        "stability_seeking": 0.025946018344276817,
-        "achievement_oriented": 0.13319414840613722,
-        "care_oriented": 0.0741549234868229,
-        "knowledge_oriented": 0.26369241777449093,
-        "governance_oriented": 0.024302313858083346,
-        "sovereignty_order_oriented": 0.03735867119730832,
-        "expression_oriented": 0.3391787315374478,
-        "ecosystem_oriented": 0.22638526306051968
+        "survival_focused": 0.1728130902974805,
+        "stability_seeking": 0.21638889756466378,
+        "achievement_oriented": 0.263486545597727,
+        "care_oriented": 0.2582486390004449,
+        "knowledge_oriented": 0.3747929309399598,
+        "governance_oriented": 0.2015710196375393,
+        "sovereignty_order_oriented": 0.17032488188520412,
+        "expression_oriented": 0.4203886439197057,
+        "ecosystem_oriented": 0.2644849786256176
       },
-      "priority_raw": 0.05898944759470505,
-      "contest_raw": 0.04841216443383774
+      "priority_raw": 0.10853581607269987,
+      "contest_raw": 0.03939094545721942
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.33537147852985505,
+      "contest_score": -0.9853493320426874,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.6655313154583081,
+      "contestedness": 0.06682866743320504,
+      "impact": 0.31000000000000005,
+      "top_clusters": {
+        "knowledge_oriented": 0.7571065874152714,
+        "expression_oriented": 0.7536639859722847
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.545273219152871
+      },
+      "cluster_means": {
+        "survival_focused": 0.5770532188878031,
+        "stability_seeking": 0.6868353185390796,
+        "achievement_oriented": 0.6983071998070993,
+        "care_oriented": 0.6726771898991586,
+        "knowledge_oriented": 0.7571065874152714,
+        "governance_oriented": 0.6975097321747538,
+        "sovereignty_order_oriented": 0.545273219152871,
+        "expression_oriented": 0.7536639859722847,
+        "ecosystem_oriented": 0.6013553872764507
+      },
+      "priority_raw": 0.10315735389603778,
+      "contest_raw": 0.020716886904293564
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.4055138279919398,
+      "contest_score": 0.25214682444017034,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.18070956453853823,
+      "contestedness": 0.04929727382953991,
+      "impact": 0.7150000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.3934200261287778,
+        "knowledge_oriented": 0.3229248054125774
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.05428837677779769
+      },
+      "cluster_means": {
+        "survival_focused": 0.05428837677779769,
+        "stability_seeking": 0.10760085517612525,
+        "achievement_oriented": 0.15937105151490624,
+        "care_oriented": 0.12154755552454638,
+        "knowledge_oriented": 0.3229248054125774,
+        "governance_oriented": 0.10965018735751339,
+        "sovereignty_order_oriented": 0.07225028169500647,
+        "expression_oriented": 0.3934200261287778,
+        "ecosystem_oriented": 0.26025941587705814
+      },
+      "priority_raw": 0.0904451370515384,
+      "contest_raw": 0.03524755078812104
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5155383400162005,
+      "contest_score": 0.6911418532402396,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.23699124232092336,
+      "contestedness": 0.06790289873191407,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.3954229870437737,
+        "knowledge_oriented": 0.3405641003844041
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.12457343774310484
+      },
+      "cluster_means": {
+        "survival_focused": 0.19607942715735793,
+        "stability_seeking": 0.195785303283955,
+        "achievement_oriented": 0.2809177404457729,
+        "care_oriented": 0.1623864176398079,
+        "knowledge_oriented": 0.3405641003844041,
+        "governance_oriented": 0.12457343774310484,
+        "sovereignty_order_oriented": 0.1732094413008619,
+        "expression_oriented": 0.3954229870437737,
+        "ecosystem_oriented": 0.263982325889272
+      },
+      "priority_raw": 0.0705048945904747,
+      "contest_raw": 0.04040222474548887
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
@@ -858,8 +750,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7146330184259515,
-      "contest_score": -0.09773498827147489,
+      "priority_score": -0.5858341016148582,
+      "contest_score": 0.16483434367436217,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -888,258 +780,330 @@
       "contest_raw": 0.03422232876684466
     },
     {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5932680802099725,
+      "contest_score": 1.8278653933937556,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.19189653208532187,
+      "contestedness": 0.07312873179609095,
+      "impact": 0.735,
+      "top_clusters": {
+        "expression_oriented": 0.3712670215284595,
+        "knowledge_oriented": 0.315961366974876
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.06213668245977791
+      },
+      "cluster_means": {
+        "survival_focused": 0.06213668245977791,
+        "stability_seeking": 0.10337699315825571,
+        "achievement_oriented": 0.16109589023325055,
+        "care_oriented": 0.22548766832084383,
+        "knowledge_oriented": 0.315961366974876,
+        "governance_oriented": 0.14871253978817045,
+        "sovereignty_order_oriented": 0.0879671584371596,
+        "expression_oriented": 0.3712670215284595,
+        "ecosystem_oriented": 0.25106346786710343
+      },
+      "priority_raw": 0.056417580433084626,
+      "contest_raw": 0.053749617870126845
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6020022522923766,
+      "contest_score": 1.072115637459215,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.14335855352415974,
+      "contestedness": 0.05866093333135433,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.2957702125375309,
+        "knowledge_oriented": 0.24032761156590837
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.058012545815933986
+      },
+      "cluster_means": {
+        "survival_focused": 0.058012545815933986,
+        "stability_seeking": 0.06569798425654907,
+        "achievement_oriented": 0.149272290356718,
+        "care_oriented": 0.13092085745454005,
+        "knowledge_oriented": 0.24032761156590837,
+        "governance_oriented": 0.07237633492317491,
+        "sovereignty_order_oriented": 0.0783125539193289,
+        "expression_oriented": 0.2957702125375309,
+        "ecosystem_oriented": 0.18958179078589438
+      },
+      "priority_raw": 0.054834646722991105,
+      "contest_raw": 0.044875613998486066
+    },
+    {
       "signal_id": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
       "title": "UK survivor of Canadian poison seller says he exploited her despair",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7161104389813379,
-      "contest_score": -0.2131031997072097,
+      "priority_score": -0.6020398141542912,
+      "contest_score": -1.2827319534371253,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.14737335522830497,
-      "contestedness": 0.04092618547653379,
-      "impact": 0.78,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.12023648950879047,
+      "contestedness": 0.022664505270233143,
+      "impact": 0.76,
       "top_clusters": {
-        "expression_oriented": 0.28619952422563133,
-        "knowledge_oriented": 0.22593902682582653
+        "expression_oriented": 0.2559208939833017,
+        "knowledge_oriented": 0.20026146908590492
       },
       "bottom_clusters": {
-        "survival_focused": 0.05363059565809225
+        "survival_focused": 0.031056327452660848
       },
       "cluster_means": {
-        "survival_focused": 0.05363059565809225,
-        "stability_seeking": 0.08018390323676183,
-        "achievement_oriented": 0.12111008871329562,
-        "care_oriented": 0.15388500844116496,
-        "knowledge_oriented": 0.22593902682582653,
-        "governance_oriented": 0.08937714394607493,
-        "sovereignty_order_oriented": 0.08211591031876095,
-        "expression_oriented": 0.28619952422563133,
-        "ecosystem_oriented": 0.22402849403392858
+        "survival_focused": 0.031056327452660848,
+        "stability_seeking": 0.06572024876778115,
+        "achievement_oriented": 0.10476555089816966,
+        "care_oriented": 0.08210104562793652,
+        "knowledge_oriented": 0.20026146908590492,
+        "governance_oriented": 0.0638637772254303,
+        "sovereignty_order_oriented": 0.07294476076168355,
+        "expression_oriented": 0.2559208939833017,
+        "ecosystem_oriented": 0.18063199100149308
       },
-      "priority_raw": 0.05747560853903894,
-      "contest_raw": 0.031922424671696356
+      "priority_raw": 0.05482783921600846,
+      "contest_raw": 0.01722502400537719
     },
     {
-      "signal_id": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7652176725403853,
-      "contest_score": 0.07091415604780778,
+      "priority_score": -0.6159140644618586,
+      "contest_score": 0.3241406510336475,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.16087682297518135,
-      "contestedness": 0.06316706920715534,
-      "impact": 0.595,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.13111114226445797,
+      "contestedness": 0.05427503965411665,
+      "impact": 0.665,
       "top_clusters": {
-        "expression_oriented": 0.33610846476341627,
-        "knowledge_oriented": 0.30105705339002514
+        "expression_oriented": 0.2536699440368005,
+        "knowledge_oriented": 0.20718754222757582
       },
       "bottom_clusters": {
-        "survival_focused": 0.030018943152307936
+        "survival_focused": 0.04442663711849554
       },
       "cluster_means": {
-        "survival_focused": 0.030018943152307936,
-        "stability_seeking": 0.0988383081403579,
-        "achievement_oriented": 0.20618761481565015,
-        "care_oriented": 0.11562707057719865,
-        "knowledge_oriented": 0.30105705339002514,
-        "governance_oriented": 0.10276442641132708,
-        "sovereignty_order_oriented": 0.05735862350380816,
-        "expression_oriented": 0.33610846476341627,
-        "ecosystem_oriented": 0.178794139784354
+        "survival_focused": 0.04442663711849554,
+        "stability_seeking": 0.07519868915324532,
+        "achievement_oriented": 0.1047304695808676,
+        "care_oriented": 0.15900550923498424,
+        "knowledge_oriented": 0.20718754222757582,
+        "governance_oriented": 0.09813758711531259,
+        "sovereignty_order_oriented": 0.06308504152981359,
+        "expression_oriented": 0.2536699440368005,
+        "ecosystem_oriented": 0.1639550227227763
       },
-      "priority_raw": 0.04786085483511645,
-      "contest_raw": 0.037584406178257423
+      "priority_raw": 0.052313345763518725,
+      "contest_raw": 0.03609290136998757
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7708773602586315,
-      "contest_score": 0.8518911633475309,
+      "priority_score": -0.6196822244624438,
+      "contest_score": -1.894846870430083,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.20326938975353245,
+      "contestedness": 0.015807210326232862,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.28387017203373566,
+        "knowledge_oriented": 0.2508292942783818
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.11265837842438735
+      },
+      "cluster_means": {
+        "survival_focused": 0.19979786819813714,
+        "stability_seeking": 0.19037939657557693,
+        "achievement_oriented": 0.23074681977377454,
+        "care_oriented": 0.19430751943252017,
+        "knowledge_oriented": 0.2508292942783818,
+        "governance_oriented": 0.11265837842438735,
+        "sovereignty_order_oriented": 0.1883347499589911,
+        "expression_oriented": 0.28387017203373566,
+        "ecosystem_oriented": 0.1785003091062873
+      },
+      "priority_raw": 0.05163042499739724,
+      "contest_raw": 0.010037578557157867
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6265311030975032,
+      "contest_score": 1.0567014209035488,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.1713917400982646,
+      "contestedness": 0.06080900743783066,
+      "impact": 0.735,
+      "top_clusters": {
+        "expression_oriented": 0.3421770497623242,
+        "knowledge_oriented": 0.3008718688116027
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.06928153321541233
+      },
+      "cluster_means": {
+        "survival_focused": 0.06928153321541233,
+        "stability_seeking": 0.10074826733433857,
+        "achievement_oriented": 0.24591826642917197,
+        "care_oriented": 0.130090540653243,
+        "knowledge_oriented": 0.3008718688116027,
+        "governance_oriented": 0.07122127255775706,
+        "sovereignty_order_oriented": 0.08949174749538813,
+        "expression_oriented": 0.3421770497623242,
+        "ecosystem_oriented": 0.19272511462514333
+      },
+      "priority_raw": 0.050389171588889795,
+      "contest_raw": 0.044694620466805536
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6275265990671657,
+      "contest_score": 1.451703301869808,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.09502589226290878,
-      "contestedness": 0.06482127496811094,
-      "impact": 0.8200000000000001,
+      "central_tendency": 0.1039518702463873,
+      "contestedness": 0.06128289124297975,
+      "impact": 0.805,
       "top_clusters": {
-        "expression_oriented": 0.20789483532418201,
-        "knowledge_oriented": 0.15893992948593344
+        "expression_oriented": 0.23741141583293413,
+        "knowledge_oriented": 0.19279063797621027
       },
       "bottom_clusters": {
-        "survival_focused": -0.05208548446093009
+        "survival_focused": -0.03326762941358821
       },
       "cluster_means": {
-        "survival_focused": -0.05208548446093009,
-        "stability_seeking": -0.007706872523613045,
-        "achievement_oriented": 0.05838612470096133,
-        "care_oriented": 0.07087171712549276,
-        "knowledge_oriented": 0.15893992948593344,
-        "governance_oriented": 0.028838450405002075,
-        "sovereignty_order_oriented": 0.0015645085470956666,
-        "expression_oriented": 0.20789483532418201,
-        "ecosystem_oriented": 0.12320739966907227
+        "survival_focused": -0.03326762941358821,
+        "stability_seeking": -0.009367142368743947,
+        "achievement_oriented": 0.10867923337267271,
+        "care_oriented": 0.052637620974747,
+        "knowledge_oriented": 0.19279063797621027,
+        "governance_oriented": 0.00827882797925869,
+        "sovereignty_order_oriented": 0.009853561366258645,
+        "expression_oriented": 0.23741141583293413,
+        "ecosystem_oriented": 0.11392051221772675
       },
-      "priority_raw": 0.04675273899335112,
-      "contest_raw": 0.05315344547385097
+      "priority_raw": 0.05020875332900507,
+      "contest_raw": 0.049332727450598704
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8145432123966945,
-      "contest_score": 0.7100068066222492,
+      "priority_score": -0.6959636702868549,
+      "contest_score": 0.6831890558099378,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6388888888888888,
-      "central_tendency": 0.0967173638630102,
-      "contestedness": 0.06370244696778643,
-      "impact": 0.79,
-      "top_clusters": {
-        "expression_oriented": 0.20930286897474246,
-        "knowledge_oriented": 0.15947120357592184
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.03979033813419608
-      },
-      "cluster_means": {
-        "survival_focused": -0.03979033813419608,
-        "stability_seeking": -0.03413505195089006,
-        "achievement_oriented": 0.077608751169773,
-        "care_oriented": 0.05634833849693244,
-        "knowledge_oriented": 0.15947120357592184,
-        "governance_oriented": -0.007354108470853993,
-        "sovereignty_order_oriented": 0.003410082861364988,
-        "expression_oriented": 0.20930286897474246,
-        "ecosystem_oriented": 0.11860855036825543
-      },
-      "priority_raw": 0.038203358725889036,
-      "contest_raw": 0.05032493310455128
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.8339481002755105,
-      "contest_score": 0.3131141276969869,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.08994524597316303,
-      "contestedness": 0.05544149551478783,
+      "sign_agreement": 0.6944444444444444,
+      "central_tendency": 0.09883814852860083,
+      "contestedness": 0.05269129817097262,
       "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.20793816800151071,
-        "knowledge_oriented": 0.14358589678726214
+        "expression_oriented": 0.21384440162786292,
+        "knowledge_oriented": 0.15305850533693657
       },
       "bottom_clusters": {
-        "survival_focused": -0.030625381464243484
+        "survival_focused": -0.01427500608733806
       },
       "cluster_means": {
-        "survival_focused": -0.030625381464243484,
-        "stability_seeking": -0.020788355485532817,
-        "achievement_oriented": 0.06568031517958228,
-        "care_oriented": 0.034286614394595794,
-        "knowledge_oriented": 0.14358589678726214,
-        "governance_oriented": -0.021154881120192037,
-        "sovereignty_order_oriented": -0.0057662240386632535,
-        "expression_oriented": 0.20793816800151071,
-        "ecosystem_oriented": 0.09701927963336782
+        "survival_focused": -0.01427500608733806,
+        "stability_seeking": -0.000118794201762501,
+        "achievement_oriented": -0.0013864965492599857,
+        "care_oriented": 0.11118985441766513,
+        "knowledge_oriented": 0.15305850533693657,
+        "governance_oriented": 0.03841629208363456,
+        "sovereignty_order_oriented": 0.01456010950252129,
+        "expression_oriented": 0.21384440162786292,
+        "ecosystem_oriented": 0.15076351580971747
       },
-      "priority_raw": 0.03440405658473486,
-      "contest_raw": 0.042412744068812694
+      "priority_raw": 0.037805591812189815,
+      "contest_raw": 0.04030884310079406
     }
   ],
   "selected_priorities": [
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.4422221275154863,
-      "contest_score": -0.5343331601420391,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.3503469680318907,
-      "contestedness": 0.03569034597992782,
-      "impact": 0.715,
-      "top_clusters": {
-        "survival_focused": 1.474948496293428,
-        "sovereignty_order_oriented": 1.4307902232295029
-      },
-      "bottom_clusters": {
-        "expression_oriented": 1.1448644898955653
-      },
-      "cluster_means": {
-        "survival_focused": 1.474948496293428,
-        "stability_seeking": 1.4163408852206876,
-        "achievement_oriented": 1.3786736514313458,
-        "care_oriented": 1.409235917436843,
-        "knowledge_oriented": 1.2030564143541695,
-        "governance_oriented": 1.395099877249575,
-        "sovereignty_order_oriented": 1.4307902232295029,
-        "expression_oriented": 1.1448644898955653,
-        "ecosystem_oriented": 1.3001127571759
-      },
-      "priority_raw": 0.6758486574999611,
-      "contest_raw": 0.025518597375648388
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 2.2851475893080497,
-      "contest_score": 1.3989317048332328,
+      "priority_score": 3.4015656643582273,
+      "contest_score": -1.2649459757999602,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1968365096600049,
-      "contestedness": 0.08319335408683437,
-      "impact": 0.77,
+      "central_tendency": 1.3643696845890287,
+      "contestedness": 0.024383030384669935,
+      "impact": 0.715,
       "top_clusters": {
-        "achievement_oriented": 1.3381690696760096,
-        "survival_focused": 1.287228603945453
+        "survival_focused": 1.482333311522607,
+        "stability_seeking": 1.4328782964148372
       },
       "bottom_clusters": {
-        "expression_oriented": 1.046280982826235
+        "expression_oriented": 1.1771254913593738
       },
       "cluster_means": {
-        "survival_focused": 1.287228603945453,
-        "stability_seeking": 1.2716561385221006,
-        "achievement_oriented": 1.3381690696760096,
-        "care_oriented": 1.1613412038921584,
-        "knowledge_oriented": 1.1184372447798434,
-        "governance_oriented": 1.2016305988666778,
-        "sovereignty_order_oriented": 1.2571851298436187,
-        "expression_oriented": 1.046280982826235,
-        "ecosystem_oriented": 1.089599614587947
+        "survival_focused": 1.482333311522607,
+        "stability_seeking": 1.4328782964148372,
+        "achievement_oriented": 1.4056605965787554,
+        "care_oriented": 1.417536333458489,
+        "knowledge_oriented": 1.2314777764776967,
+        "governance_oriented": 1.4084952660301673,
+        "sovereignty_order_oriented": 1.4238065363122432,
+        "expression_oriented": 1.1771254913593738,
+        "ecosystem_oriented": 1.300013553147091
       },
-      "priority_raw": 0.6450948787067426,
-      "contest_raw": 0.06405888264686246
+      "priority_raw": 0.7804194595849245,
+      "contest_raw": 0.017433866725039004
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
@@ -1148,8 +1112,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.2664401269165027,
-      "contest_score": -0.5052643503949267,
+      "priority_score": 1.5543553630201914,
+      "contest_score": -0.5270617413436861,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -1178,260 +1142,296 @@
       "contest_raw": 0.02609809387426328
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7630826582708199,
-      "contest_score": 2.0904082279602654,
+      "priority_score": 1.0633048435567312,
+      "contest_score": -0.06936268936149896,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9444579164829506,
-      "contestedness": 0.10590979549663593,
+      "central_tendency": 0.9797962137873125,
+      "contestedness": 0.06917008841807193,
+      "impact": 0.455,
+      "top_clusters": {
+        "governance_oriented": 1.092488220164611,
+        "knowledge_oriented": 1.0682158143683544
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.8374634553430327
+      },
+      "cluster_means": {
+        "survival_focused": 0.8625721765210033,
+        "stability_seeking": 0.9990457259502825,
+        "achievement_oriented": 0.9626524913729144,
+        "care_oriented": 1.0290213063368427,
+        "knowledge_oriented": 1.0682158143683544,
+        "governance_oriented": 1.092488220164611,
+        "sovereignty_order_oriented": 0.8374634553430327,
+        "expression_oriented": 1.0416766375032103,
+        "ecosystem_oriented": 0.9250300965255618
+      },
+      "priority_raw": 0.3566458218185818,
+      "contest_raw": 0.031472390230222726
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.8354874790599293,
+      "contest_score": -1.474310741829444,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.9101224970963013,
+      "contestedness": 0.030253552215818935,
+      "impact": 0.495,
+      "top_clusters": {
+        "governance_oriented": 0.9874136867608981,
+        "care_oriented": 0.9569070160668456
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.8147080763733885
+      },
+      "cluster_means": {
+        "survival_focused": 0.8474156219864996,
+        "stability_seeking": 0.9266534638510266,
+        "achievement_oriented": 0.8576281466712513,
+        "care_oriented": 0.9569070160668456,
+        "knowledge_oriented": 0.9437930184351891,
+        "governance_oriented": 0.9874136867608981,
+        "sovereignty_order_oriented": 0.8147080763733885,
+        "expression_oriented": 0.9329407537593515,
+        "ecosystem_oriented": 0.9236426899622623
+      },
+      "priority_raw": 0.3153574452438684,
+      "contest_raw": 0.014975508346830372
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.24489284355800367,
+      "contest_score": -0.3054727052081572,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.47345748804610527,
+      "contestedness": 0.052181799043904964,
+      "impact": 0.55,
+      "top_clusters": {
+        "sovereignty_order_oriented": 0.5563602683747719,
+        "governance_oriented": 0.5301863144578377
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.39026122991069045
+      },
+      "cluster_means": {
+        "survival_focused": 0.5289087628705633,
+        "stability_seeking": 0.5208071185051532,
+        "achievement_oriented": 0.4424430289545954,
+        "care_oriented": 0.44181455171309175,
+        "knowledge_oriented": 0.41682374029879504,
+        "governance_oriented": 0.5301863144578377,
+        "sovereignty_order_oriented": 0.5563602683747719,
+        "expression_oriented": 0.39026122991069045,
+        "ecosystem_oriented": 0.43351237732944886
+      },
+      "priority_raw": 0.20832129474028635,
+      "contest_raw": 0.028699989474147734
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.14599831351135303,
+      "contest_score": 0.2677489164338249,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.5180903115848764,
+      "contestedness": 0.048205102518051046,
       "impact": 0.735,
       "top_clusters": {
-        "achievement_oriented": 1.068179127337408,
-        "survival_focused": 1.0671687924973963
+        "expression_oriented": 0.606820279053364,
+        "knowledge_oriented": 0.5785047688686302
       },
       "bottom_clusters": {
-        "expression_oriented": 0.8028319152602537
+        "sovereignty_order_oriented": 0.45024255713423544
       },
       "cluster_means": {
-        "survival_focused": 1.0671687924973963,
-        "stability_seeking": 1.0155451206148185,
-        "achievement_oriented": 1.068179127337408,
-        "care_oriented": 0.8843913839498156,
-        "knowledge_oriented": 0.8851062033159879,
-        "governance_oriented": 0.9087417107568896,
-        "sovereignty_order_oriented": 1.058445470504879,
-        "expression_oriented": 0.8028319152602537,
-        "ecosystem_oriented": 0.8097115241091059
+        "survival_focused": 0.5006381246493746,
+        "stability_seeking": 0.49369586996635606,
+        "achievement_oriented": 0.5011553852656471,
+        "care_oriented": 0.57128595406438,
+        "knowledge_oriented": 0.5785047688686302,
+        "governance_oriented": 0.452950282747596,
+        "sovereignty_order_oriented": 0.45024255713423544,
+        "expression_oriented": 0.606820279053364,
+        "ecosystem_oriented": 0.5075195825143042
       },
-      "priority_raw": 0.34708828430748434,
-      "contest_raw": 0.0778436996900274
+      "priority_raw": 0.19039818950744208,
+      "contest_raw": 0.035430750350767516
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7080852791031005,
-      "contest_score": -1.0691683296610939,
+      "priority_score": -0.11472427681057999,
+      "contest_score": -0.5925221866205809,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6280491002503794,
-      "contestedness": 0.019420233199547776,
-      "impact": 0.765,
+      "central_tendency": 0.5890792151301162,
+      "contestedness": 0.06254187202819717,
+      "impact": 0.405,
       "top_clusters": {
-        "expression_oriented": 0.7220722211811139,
-        "care_oriented": 0.7163962317612084
+        "care_oriented": 0.677531812226523,
+        "expression_oriented": 0.6684746761253101
       },
       "bottom_clusters": {
-        "survival_focused": 0.481069387072103
+        "sovereignty_order_oriented": 0.46148230511156246
       },
       "cluster_means": {
-        "survival_focused": 0.481069387072103,
-        "stability_seeking": 0.5543173915017859,
-        "achievement_oriented": 0.5523371917761697,
-        "care_oriented": 0.7163962317612084,
-        "knowledge_oriented": 0.7086606637005922,
-        "governance_oriented": 0.7064976659103444,
-        "sovereignty_order_oriented": 0.5084391613685308,
-        "expression_oriented": 0.7220722211811139,
-        "ecosystem_oriented": 0.7026519879815661
+        "survival_focused": 0.5429172025490662,
+        "stability_seeking": 0.6054590745772633,
+        "achievement_oriented": 0.5579194369270808,
+        "care_oriented": 0.677531812226523,
+        "knowledge_oriented": 0.6435552404019016,
+        "governance_oriented": 0.6061081098870293,
+        "sovereignty_order_oriented": 0.46148230511156246,
+        "expression_oriented": 0.6684746761253101,
+        "ecosystem_oriented": 0.5382650783653096
       },
-      "priority_raw": 0.33632029318407813,
-      "contest_raw": 0.01485647839765405
+      "priority_raw": 0.14314624927661823,
+      "contest_raw": 0.025329458171419853
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.5713008542213963,
-      "contest_score": -0.8683623689746623,
+      "priority_score": -0.30569467406854045,
+      "contest_score": 0.6050167978147247,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.8365922586366499,
-      "contestedness": 0.025485963186754335,
-      "impact": 0.74,
+      "central_tendency": 0.2602777363853714,
+      "contestedness": 0.056677619362905635,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "achievement_oriented": 0.9857249530676928,
-        "survival_focused": 0.8720334068819635
+        "expression_oriented": 0.4203886439197057,
+        "knowledge_oriented": 0.3747929309399598
       },
       "bottom_clusters": {
-        "governance_oriented": 0.7599757932583739
+        "sovereignty_order_oriented": 0.17032488188520412
       },
       "cluster_means": {
-        "survival_focused": 0.8720334068819635,
-        "stability_seeking": 0.848892997804119,
-        "achievement_oriented": 0.9857249530676928,
-        "care_oriented": 0.8114208800001752,
-        "knowledge_oriented": 0.8163688305228989,
-        "governance_oriented": 0.7599757932583739,
-        "sovereignty_order_oriented": 0.8418547937096532,
-        "expression_oriented": 0.7952642963393362,
-        "ecosystem_oriented": 0.7977943761456353
+        "survival_focused": 0.1728130902974805,
+        "stability_seeking": 0.21638889756466378,
+        "achievement_oriented": 0.263486545597727,
+        "care_oriented": 0.2582486390004449,
+        "knowledge_oriented": 0.3747929309399598,
+        "governance_oriented": 0.2015710196375393,
+        "sovereignty_order_oriented": 0.17032488188520412,
+        "expression_oriented": 0.4203886439197057,
+        "ecosystem_oriented": 0.2644849786256176
       },
-      "priority_raw": 0.30953913569556046,
-      "contest_raw": 0.018859612758198207
+      "priority_raw": 0.10853581607269987,
+      "contest_raw": 0.03939094545721942
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3kg80ve7x0no?at_medium=RSS&at_campaign=rss",
-      "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2642697749365046,
-      "contest_score": -1.3308993818154646,
+      "priority_score": -0.33537147852985505,
+      "contest_score": -0.9853493320426874,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7390376823385709,
-      "contestedness": 0.02570341826296707,
-      "impact": 0.375,
+      "central_tendency": 0.6655313154583081,
+      "contestedness": 0.06682866743320504,
+      "impact": 0.31000000000000005,
       "top_clusters": {
-        "governance_oriented": 0.9169152263036205,
-        "care_oriented": 0.8767642761905825
+        "knowledge_oriented": 0.7571065874152714,
+        "expression_oriented": 0.7536639859722847
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5761579159208114
+        "sovereignty_order_oriented": 0.545273219152871
       },
       "cluster_means": {
-        "survival_focused": 0.7058068163168548,
-        "stability_seeking": 0.820323363245308,
-        "achievement_oriented": 0.5761579159208114,
-        "care_oriented": 0.8767642761905825,
-        "knowledge_oriented": 0.6983536330899349,
-        "governance_oriented": 0.9169152263036205,
-        "sovereignty_order_oriented": 0.6791290594752508,
-        "expression_oriented": 0.6760927161209042,
-        "ecosystem_oriented": 0.7017961343838712
+        "survival_focused": 0.5770532188878031,
+        "stability_seeking": 0.6868353185390796,
+        "achievement_oriented": 0.6983071998070993,
+        "care_oriented": 0.6726771898991586,
+        "knowledge_oriented": 0.7571065874152714,
+        "governance_oriented": 0.6975097321747538,
+        "sovereignty_order_oriented": 0.545273219152871,
+        "expression_oriented": 0.7536639859722847,
+        "ecosystem_oriented": 0.6013553872764507
       },
-      "priority_raw": 0.24942521778926766,
-      "contest_raw": 0.009638781848612651
+      "priority_raw": 0.10315735389603778,
+      "contest_raw": 0.020716886904293564
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.1974432904627524,
-      "contest_score": -1.193390482985752,
+      "priority_score": -0.4055138279919398,
+      "contest_score": 0.25214682444017034,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5629237565464267,
-      "contestedness": 0.02191162476677455,
-      "impact": 0.565,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.18070956453853823,
+      "contestedness": 0.04929727382953991,
+      "impact": 0.7150000000000001,
       "top_clusters": {
-        "achievement_oriented": 0.6487886674886589,
-        "survival_focused": 0.6023947855916196
+        "expression_oriented": 0.3934200261287778,
+        "knowledge_oriented": 0.3229248054125774
       },
       "bottom_clusters": {
-        "governance_oriented": 0.5012455347407362
+        "survival_focused": 0.05428837677779769
       },
       "cluster_means": {
-        "survival_focused": 0.6023947855916196,
-        "stability_seeking": 0.5834737472252164,
-        "achievement_oriented": 0.6487886674886589,
-        "care_oriented": 0.5512164525095866,
-        "knowledge_oriented": 0.5615621224584418,
-        "governance_oriented": 0.5012455347407362,
-        "sovereignty_order_oriented": 0.5662080756174981,
-        "expression_oriented": 0.5499631328831798,
-        "ecosystem_oriented": 0.5014612904029023
+        "survival_focused": 0.05428837677779769,
+        "stability_seeking": 0.10760085517612525,
+        "achievement_oriented": 0.15937105151490624,
+        "care_oriented": 0.12154755552454638,
+        "knowledge_oriented": 0.3229248054125774,
+        "governance_oriented": 0.10965018735751339,
+        "sovereignty_order_oriented": 0.07225028169500647,
+        "expression_oriented": 0.3934200261287778,
+        "ecosystem_oriented": 0.26025941587705814
       },
-      "priority_raw": 0.15902596122436552,
-      "contest_raw": 0.01238006799322762
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.36980659442633573,
-      "contest_score": -0.8752612679012989,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.25463166646552404,
-      "contestedness": 0.022831805960836005,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.34370632824427433,
-        "knowledge_oriented": 0.33636728597400967
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.18311175065405363
-      },
-      "cluster_means": {
-        "survival_focused": 0.18311175065405363,
-        "stability_seeking": 0.2036460651006926,
-        "achievement_oriented": 0.3231189519823676,
-        "care_oriented": 0.2247924438064917,
-        "knowledge_oriented": 0.33636728597400967,
-        "governance_oriented": 0.22058933406938863,
-        "sovereignty_order_oriented": 0.2264778710615286,
-        "expression_oriented": 0.34370632824427433,
-        "ecosystem_oriented": 0.22987496729690957
-      },
-      "priority_raw": 0.12527877990103783,
-      "contest_raw": 0.018722080887885524
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4806803820961659,
-      "contest_score": -1.0016434347472483,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.24058232667517446,
-      "contestedness": 0.026345707134089458,
-      "impact": 0.615,
-      "top_clusters": {
-        "expression_oriented": 0.4073256881100019,
-        "knowledge_oriented": 0.37314190379299034
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.10726623281198541
-      },
-      "cluster_means": {
-        "survival_focused": 0.10726623281198541,
-        "stability_seeking": 0.20480012302871314,
-        "achievement_oriented": 0.2545108431644538,
-        "care_oriented": 0.2267627161280356,
-        "knowledge_oriented": 0.37314190379299034,
-        "governance_oriented": 0.2311458301628026,
-        "sovereignty_order_oriented": 0.12814159536635863,
-        "expression_oriented": 0.4073256881100019,
-        "ecosystem_oriented": 0.23214600751122902
-      },
-      "priority_raw": 0.1035706916336626,
-      "contest_raw": 0.016202609887465018
+      "priority_raw": 0.0904451370515384,
+      "contest_raw": 0.03524755078812104
     }
   ],
   "mood": {
-    "score": 0.04456787634867047,
+    "score": 0.04774382039413217,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
@@ -1440,60 +1440,37 @@
     {
       "id": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "name": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "root_cause": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 2.4422221275154863,
-      "contest_score": -0.5343331601420391,
-      "contestedness": 0.03569034597992782,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, sovereignty_order_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
-      "target": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "name": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "root_cause": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "target": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "name": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "root_cause": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "severity": "high",
       "category": "convergent_priority",
-      "priority_score": 2.2851475893080497,
-      "contest_score": 1.3989317048332328,
-      "contestedness": 0.08319335408683437,
+      "priority_score": 3.4015656643582273,
+      "contest_score": -1.2649459757999602,
+      "contestedness": 0.024383030384669935,
       "mood": "↗ positive",
-      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Huge data centres rise at 'China speed' to power its AI ambitions"
+        "Trump's Board of Peace unveils $2.45bn Gaza recovery plan"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Huge data centres rise at 'China speed' to power its AI ambitions is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Huge data centres rise at 'China speed' to power its AI ambitions fade or reverse without spillover."
+      "prediction": "Momentum around Trump's Board of Peace unveils $2.45bn Gaza recovery plan is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump's Board of Peace unveils $2.45bn Gaza recovery plan fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
+      "rank": 2,
       "target": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "name": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "root_cause": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.2664401269165027,
-      "contest_score": -0.5052643503949267,
+      "priority_score": 1.5543553630201914,
+      "contest_score": -0.5270617413436861,
       "contestedness": 0.04015091365271273,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
@@ -1507,178 +1484,193 @@
       "falsification": "Signals tied to Harvey Weinstein sentenced to 15 years in prison for sexual assault fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "Watch: The arms race in space and how the UK is defending itself",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "name": "Watch: The arms race in space and how the UK is defending itself",
-      "root_cause": "Watch: The arms race in space and how the UK is defending itself",
+      "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "rank": 3,
+      "target": "White House restores access to media outlets banned by Trump after judge's order",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "name": "White House restores access to media outlets banned by Trump after judge's order",
+      "root_cause": "White House restores access to media outlets banned by Trump after judge's order",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7630826582708199,
-      "contest_score": 2.0904082279602654,
-      "contestedness": 0.10590979549663593,
+      "priority_score": 1.0633048435567312,
+      "contest_score": -0.06936268936149896,
+      "contestedness": 0.06917008841807193,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Watch: The arms race in space and how the UK is defending itself"
+        "White House restores access to media outlets banned by Trump after judge's order"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Watch: The arms race in space and how the UK is defending itself is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Watch: The arms race in space and how the UK is defending itself fade or reverse without spillover."
+      "prediction": "Momentum around White House restores access to media outlets banned by Trump after judge's order is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to White House restores access to media outlets banned by Trump after judge's order fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "rank": 5,
-      "target": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "name": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "root_cause": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "id": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "name": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "root_cause": "Greek PM urges UK PM to return Elgin Marbles permanently",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7080852791031005,
-      "contest_score": -1.0691683296610939,
-      "contestedness": 0.019420233199547776,
+      "priority_score": 0.8354874790599293,
+      "contest_score": -1.474310741829444,
+      "contestedness": 0.030253552215818935,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, care_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC"
+        "Greek PM urges UK PM to return Elgin Marbles permanently"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC fade or reverse without spillover."
+      "prediction": "Momentum around Greek PM urges UK PM to return Elgin Marbles permanently is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Greek PM urges UK PM to return Elgin Marbles permanently fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "rank": 5,
+      "target": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "name": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "root_cause": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.24489284355800367,
+      "contest_score": -0.3054727052081572,
+      "contestedness": 0.052181799043904964,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from sovereignty_order_oriented, governance_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Italy ministers agree to ban burqa and niqab in school and cap foreigners in class is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Italy ministers agree to ban burqa and niqab in school and cap foreigners in class fade or reverse without spillover."
     }
   ],
   "predictions": [
     {
-      "root_cause": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "prediction": "Momentum around Huge data centres rise at 'China speed' to power its AI ambitions is likely to compound if current conditions hold.",
+      "root_cause": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "prediction": "Momentum around Trump's Board of Peace unveils $2.45bn Gaza recovery plan is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "falsification": "Signals tied to Huge data centres rise at 'China speed' to power its AI ambitions fade or reverse without downstream spillover.",
+      "falsification": "Signals tied to Trump's Board of Peace unveils $2.45bn Gaza recovery plan fade or reverse without downstream spillover.",
       "severity": "high"
     }
   ],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautiously optimistic structural pattern, with positive developments in global reconstruction and technological ambition tempered by lingering geopolitical tensions and contested narratives.\n\n---\n\n**1. Structural Highlights: Reconstruction and AI Ambitions**  \nThe unveiling of a $2.45 billion plan for Gaza's reconstruction by Trump's Board of Peace signals a significant commitment to post-conflict recovery. This initiative, categorized as \"background noise,\" carries structural weight due to its focus on survival and sovereignty clusters, suggesting a broader attempt to stabilize a volatile region. While the direction is positive, the contestedness score highlights skepticism about implementation or geopolitical buy-in. Similarly, China's rapid development of AI-focused data centers underscores its achievement-oriented trajectory, reinforcing its ambitions as a global technology leader. This signal is less contested, reflecting consensus on China's capacity to execute such plans at scale.\n\n---\n\n**2. Contested Signals: Tensions and Stability**  \nWhile Harvey Weinstein's sentencing to 15 years for sexual assault represents a clear accountability outcome, its structural relevance is limited to stability-seeking clusters. The signal is uncontested but categorized as \"background noise,\" indicating its alignment with broader societal expectations rather than transformative change. In contrast, Lithuania's readiness to \"fight back\" against Russian threats is highly speculative, with a negative contest score reflecting doubts about escalation or the feasibility of evacuation plans. This signal highlights the fragility of Eastern European security dynamics but lacks concrete action to substantiate its weight.\n\n---\n\n**3. Long-Term Trajectories: Reconstruction, AI, and Geopolitical Tensions**  \nThe Gaza reconstruction plan, if executed effectively, could mark a turning point in regional stability, with potential ripple effects on broader Middle Eastern geopolitics. China's AI ambitions, meanwhile, signal a longer-term trajectory of technological dominance that could reshape global power structures. However, contested signals around Lithuania and ongoing tensions in Ethiopia and Tigray suggest that geopolitical volatility remains a persistent undercurrent, potentially undermining stability-focused initiatives.\n\n---\n\n**4. Watch for Next Steps**  \nKey areas to monitor include the operational rollout of Gaza's reconstruction funding—will it translate into tangible progress, or remain mired in political barriers? China's AI infrastructure growth should be tracked for its impact on global tech ecosystems and competitive dynamics. Finally, watch for developments in Lithuania and Eastern Europe, particularly any concrete military or diplomatic actions that could escalate or de-escalate tensions with Russia.",
+  "narrative": "🟡 **Mood: Cautious** — Today's signals reflect a mix of forward-looking recovery initiatives and contentious governance decisions, underscoring a fragile balance between stability and contested sovereignty.\n\nThe standout structural signal is **Trump's Board of Peace unveiling a $2.45bn Gaza recovery plan**, which is framed as a positive step toward regional stability. This initiative emphasizes survival and stability-oriented priorities, suggesting a pivot toward reconstruction in a historically volatile region. While the plan’s financial scope is significant, its contestedness score indicates lingering skepticism about execution and geopolitical buy-in. Structurally, this signal highlights the interplay between humanitarian recovery and broader peace-building efforts, which could recalibrate power dynamics in the region.\n\nOther signals, such as **Harvey Weinstein’s sentencing to 15 years for sexual assault**, reflect accountability within governance and justice systems. While categorized as background noise, its survival and stability-focused clusters suggest societal momentum toward addressing systemic abuses. Similarly, the **White House restoring access to media outlets banned under Trump**, though less structurally impactful, signals a governance-oriented recalibration toward transparency and institutional norms. Both signals reinforce trajectories of institutional correction but remain secondary to larger geopolitical movements.\n\nContested signals emerge in the **Greek PM’s call for the return of the Elgin Marbles** and **Italy’s decision to ban burqas and niqabs in schools while capping foreign students in classrooms**. The former reflects a sovereignty-oriented debate over cultural restitution, with low priority scores suggesting limited immediate impact but potential long-term implications for international cultural diplomacy. The latter, while framed positively, carries higher contestedness and governance implications, highlighting tensions around integration policies and identity politics within Europe.\n\nStructurally, these signals converge on themes of governance, stability, and contested sovereignty. The Gaza recovery plan, if implemented effectively, could mark a turning point in regional dynamics, while domestic governance signals in the U.S. and Europe reflect ongoing recalibrations of institutional norms and cultural policies. Longer-term trajectories point to a cautious optimism in rebuilding efforts, tempered by the persistence of divisive identity and sovereignty debates.\n\n**Next to watch:** Monitor early-stage implementation of the Gaza recovery plan, particularly international funding commitments and local reception. Additionally, track ripple effects of Italy’s integration policies on broader European governance debates, and watch for evolving cultural diplomacy narratives surrounding the Elgin Marbles. These developments will shape the balance between stability and contested sovereignty in the coming weeks.",
   "noise_filtered": [
-    "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
     "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-    "Watch: The arms race in space and how the UK is defending itself",
-    "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-    "AI superpower ambitions take centre stage as Trump and Xi meet",
-    "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
-    "How Ceuta, football and Israel are shaping Morocco's election",
-    "Watch: How toxic smog from wildfires is making Indonesians sick",
-    "Poland accuses Russian military helicopter of violating its airspace",
-    "Federal judge delays ruling on White House media ban",
-    "Iran's president tells Trump it will never 'bend the knee'",
-    "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-    "Eleven killed in mass shooting at house in South Africa",
+    "White House restores access to media outlets banned by Trump after judge's order",
+    "Greek PM urges UK PM to return Elgin Marbles permanently",
+    "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+    "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+    "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+    "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+    "Priest killed and four injured in knife attack at Polish abbey",
+    "105-year-old investigated for crimes at Nazi PoW camp in Germany",
     "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+    "Iran's president tells Trump it will never 'bend the knee'",
+    "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
     "UK survivor of Canadian poison seller says he exploited her despair",
-    "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-    "Reports of violence against women in Gaza surge, UN agency finds",
-    "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-    "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria"
+    "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+    "Why India's Election Commission is in the eye of a storm - again",
+    "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+    "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+    "Dramatic eviction of woman aged 87 highlights Spain's housing shortage"
   ],
   "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [
-      "Huge data centres rise at 'China speed' to power its AI ambitions"
-    ],
+    "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+        "title": "Watch: The arms race in space and how the UK is defending itself",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
+        "title": "Playing loud music on the bus? That will cost you hundreds of dollars in Singapore",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "What is the White House pool and why is it in a row with Trump?",
+        "title": "Poland accuses Russian military helicopter of violating its airspace",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+        "title": "Federal judge delays ruling on White House media ban",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+        "title": "Eleven killed in mass shooting at house in South Africa",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Eleven injured in shooting outside Turkish school",
+        "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Top South African policeman charged with sexual offences",
+        "title": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [
-      "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: convergent_priority → background_noise"
+      "Trump's Board of Peace unveils $2.45bn Gaza recovery plan: background_noise → convergent_priority"
     ],
     "priority_score_changes": [
-      "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: 1.62 → 0.71",
-      "How Ceuta, football and Israel are shaping Morocco's election: 0.21 → -0.20"
+      "Trump's Board of Peace unveils $2.45bn Gaza recovery plan: 2.44 → 3.40",
+      "Harvey Weinstein sentenced to 15 years in prison for sexual assault: 1.27 → 1.55"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "Category change — Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: convergent_priority → background_noise",
-      "Priority score movement — Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: 1.62 → 0.71",
-      "Priority score movement — How Ceuta, football and Israel are shaping Morocco's election: 0.21 → -0.20"
+      "Category change — Trump's Board of Peace unveils $2.45bn Gaza recovery plan: background_noise → convergent_priority",
+      "Priority score movement — Trump's Board of Peace unveils $2.45bn Gaza recovery plan: 2.44 → 3.40",
+      "Priority score movement — Harvey Weinstein sentenced to 15 years in prison for sexual assault: 1.27 → 1.55"
     ],
     "continuing_priorities": [
-      "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "How Ceuta, football and Israel are shaping Morocco's election",
-      "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria"
+      "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "Iran's president tells Trump it will never 'bend the knee'",
+      "UK survivor of Canadian poison seller says he exploited her despair",
+      "Dramatic eviction of woman aged 87 highlights Spain's housing shortage"
     ],
-    "new_stories": 16,
-    "carried_stories": 4,
+    "new_stories": 15,
+    "carried_stories": 5,
     "total_stories": 20,
-    "summary": "1 new convergent priorities emerged: Huge data centres rise at 'China speed' to power its AI ambitions · 16 priorities dropped: US to build two military bases in Greenland under new deal with Denmark (No longer in today's news feed — story left the RSS cycle); Cyclist who dressed as man to avoid Taliban wins silver medal (No longer in today's news feed — story left the RSS cycle); Sri Lanka court convicts 15 men over deadly Easter Sunday bombings (No longer in today's news feed — story left the RSS cycle); Burnham expects to find 'common ground' with Trump in first meeting (No longer in today's news feed — story left the RSS cycle); Lindsay Clancy's lawyer asks judge to investigate juror and check his phone (No longer in today's news feed — story left the RSS cycle); Developing El Niño becomes strongest on record weeks before expected peak (No longer in today's news feed — story left the RSS cycle); Autopsy shows Hayden Panettiere died from a drug overdose (No longer in today's news feed — story left the RSS cycle); What is the White House pool and why is it in a row with Trump? (No longer in today's news feed — story left the RSS cycle); Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly (No longer in today's news feed — story left the RSS cycle); US judge blocks deportation of DoorDash driver shot by ICE (No longer in today's news feed — story left the RSS cycle); Eleven injured in shooting outside Turkish school (No longer in today's news feed — story left the RSS cycle); Ukraine anger as EU removes Russian oligarchs from sanctions list (No longer in today's news feed — story left the RSS cycle); Why a Bollywood celebrity manager's 2020 death case has been reopened (No longer in today's news feed — story left the RSS cycle); Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines (No longer in today's news feed — story left the RSS cycle); Veteran BBC Africa correspondent Mark Doyle dies aged 67 (No longer in today's news feed — story left the RSS cycle); Top South African policeman charged with sexual offences (No longer in today's news feed — story left the RSS cycle) · Priority category shifted: Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: convergent_priority → background_noise · Priority intensity moved: Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: 1.62 → 0.71; How Ceuta, football and Israel are shaping Morocco's election: 0.21 → -0.20 · Structural shifts: Category change — Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: convergent_priority → background_noise; Priority score movement — Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC: 1.62 → 0.71; Priority score movement — How Ceuta, football and Israel are shaping Morocco's election: 0.21 → -0.20 · Signal freshness: 16 new, 4 carried, 20 total"
+    "summary": "14 priorities dropped: Huge data centres rise at 'China speed' to power its AI ambitions (No longer in today's news feed — story left the RSS cycle); Watch: The arms race in space and how the UK is defending itself (No longer in today's news feed — story left the RSS cycle); Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC (No longer in today's news feed — story left the RSS cycle); AI superpower ambitions take centre stage as Trump and Xi meet (No longer in today's news feed — story left the RSS cycle); Playing loud music on the bus? That will cost you hundreds of dollars in Singapore (No longer in today's news feed — story left the RSS cycle); How Ceuta, football and Israel are shaping Morocco's election (No longer in today's news feed — story left the RSS cycle); Watch: How toxic smog from wildfires is making Indonesians sick (No longer in today's news feed — story left the RSS cycle); Poland accuses Russian military helicopter of violating its airspace (No longer in today's news feed — story left the RSS cycle); Federal judge delays ruling on White House media ban (No longer in today's news feed — story left the RSS cycle); Eleven killed in mass shooting at house in South Africa (No longer in today's news feed — story left the RSS cycle); Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious (No longer in today's news feed — story left the RSS cycle); Reports of violence against women in Gaza surge, UN agency finds (No longer in today's news feed — story left the RSS cycle); Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war (No longer in today's news feed — story left the RSS cycle); 'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria (No longer in today's news feed — story left the RSS cycle) · Priority category shifted: Trump's Board of Peace unveils $2.45bn Gaza recovery plan: background_noise → convergent_priority · Priority intensity moved: Trump's Board of Peace unveils $2.45bn Gaza recovery plan: 2.44 → 3.40; Harvey Weinstein sentenced to 15 years in prison for sexual assault: 1.27 → 1.55 · Structural shifts: Category change — Trump's Board of Peace unveils $2.45bn Gaza recovery plan: background_noise → convergent_priority; Priority score movement — Trump's Board of Peace unveils $2.45bn Gaza recovery plan: 2.44 → 3.40; Priority score movement — Harvey Weinstein sentenced to 15 years in prison for sexual assault: 1.27 → 1.55 · Signal freshness: 15 new, 5 carried, 20 total"
   }
 }
