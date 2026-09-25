@@ -178,9 +178,19 @@
       "maturity_date": "2026-09-26",
       "falsification": "Signals tied to Anthropic blocks possible attempt to use AI to make biological weapons fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no relevant signals were identified in the provided evidence to evaluate whether momentum around Anthropic's actions regarding AI and biological weapons has compounded, faded, or reversed. The fresh signals are unrelated to the prediction topic.",
+      "validated_at": "2026-09-25T23:13:06.933494+00:00",
+      "evidence_used": [
+        "BBC World: Jay-Z rape accuser says her allegation was false",
+        "BBC World: Media outlets banned by Trump resume White House coverage after judge's order",
+        "BBC World: Supreme Court allows Trump to use controversial database to check voter citizenship",
+        "BBC World: US backs Elon Musk's bid to overturn €120m EU fine against X",
+        "BBC World: 'Make women feel seen': Why the Dutch have a new word for labia",
+        "Al Jazeera: US top court allows Trump to use controversial voter verification system",
+        "ABC Australia: Fremantle turns purple as Dockers attempt grand final history",
+        "ABC Australia: Why Sarah 4.0 needs no further upgrades following year of injury hell"
+      ]
     },
     {
       "id": "ed7fe71977f98f2c",
@@ -1997,5 +2007,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-24T23:08:43.349531+00:00"
+  "last_updated": "2026-09-25T23:13:04.519316+00:00"
 }
