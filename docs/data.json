@@ -1,8 +1,106 @@
 {
-  "report_date": "2026-09-26",
-  "generated_at": "2026-09-25T23:13:06.935298+00:00",
+  "report_date": "2026-09-27",
+  "generated_at": "2026-09-26T22:37:10.319583+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "body": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 22:15:59 GMT"
+    },
+    {
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "body": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 19:48:06 GMT"
+    },
+    {
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "body": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 12:47:25 GMT"
+    },
+    {
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "body": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:48:51 GMT"
+    },
+    {
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "body": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 22:04:26 GMT"
+    },
+    {
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "body": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 19:59:00 GMT"
+    },
+    {
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "body": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 21:13:13 GMT"
+    },
+    {
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "body": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 07:21:30 GMT"
+    },
+    {
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "body": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:12:25 GMT"
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "body": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:46:40 GMT"
+    },
+    {
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "body": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 18:30:04 GMT"
+    },
+    {
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "body": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 19:16:14 GMT"
+    },
+    {
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "body": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 23:20:48 GMT"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "body": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
     {
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "body": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
@@ -11,137 +109,39 @@
       "published": "Fri, 25 Sep 2026 20:47:49 GMT"
     },
     {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "body": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "body": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 13:56:16 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 10:44:37 GMT"
     },
     {
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "body": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "body": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 15:06:41 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 23:05:40 GMT"
     },
     {
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "body": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 19:13:35 GMT"
     },
     {
-      "title": "Trump's plans for massive arch move ahead",
-      "body": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "body": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 18:27:46 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 17:59:03 GMT"
     },
     {
-      "title": "Students strike across Germany in protest against military service",
-      "body": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "body": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 15:36:22 GMT"
-    },
-    {
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "body": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 13:23:33 GMT"
-    },
-    {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "body": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 03:57:09 GMT"
-    },
-    {
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "body": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 15:29:48 GMT"
-    },
-    {
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "body": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 10:51:28 GMT"
-    },
-    {
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "body": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 17:13:55 GMT"
-    },
-    {
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "body": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 09:48:33 GMT"
-    },
-    {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "body": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 11:44:44 GMT"
-    },
-    {
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "body": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 14:24:19 GMT"
-    },
-    {
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "body": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:32:59 GMT"
-    },
-    {
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "body": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 18:36:30 GMT"
-    },
-    {
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "body": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:02:36 GMT"
-    },
-    {
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "body": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:18:12 GMT"
-    },
-    {
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "body": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:55:44 GMT"
-    },
-    {
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "body": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 14:37:34 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 22:12:48 GMT"
     }
   ],
   "signals": [
@@ -149,6 +149,146 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "body": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 22:15:59 GMT"
+    },
+    {
+      "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "body": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 19:48:06 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "body": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 12:47:25 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "body": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:48:51 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "body": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 22:04:26 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "body": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 19:59:00 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "body": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 21:13:13 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "body": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 07:21:30 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "body": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:12:25 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "body": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 15:46:40 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "body": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 18:30:04 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "body": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 19:16:14 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "body": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 23:20:48 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "body": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
+    {
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
       "body": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
       "labels": [],
@@ -156,556 +296,524 @@
       "published": "Fri, 25 Sep 2026 20:47:49 GMT"
     },
     {
-      "number": 2,
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "body": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "body": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 13:56:16 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 10:44:37 GMT"
     },
     {
-      "number": 3,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "body": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "body": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 15:06:41 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 23:05:40 GMT"
     },
     {
-      "number": 4,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "body": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 25 Sep 2026 19:13:35 GMT"
     },
     {
-      "number": 5,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Trump's plans for massive arch move ahead",
-      "body": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 18:27:46 GMT"
-    },
-    {
-      "number": 6,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Students strike across Germany in protest against military service",
-      "body": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 15:36:22 GMT"
-    },
-    {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "body": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 13:23:33 GMT"
-    },
-    {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "body": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 03:57:09 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "body": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 15:29:48 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "body": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 10:51:28 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "body": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 17:13:55 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "body": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 09:48:33 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "body": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 11:44:44 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "body": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 14:24:19 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "body": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:32:59 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "body": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 18:36:30 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "body": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:02:36 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "body": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 19:18:12 GMT"
-    },
-    {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "body": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "body": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 17:55:44 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 17:59:03 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "body": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "body": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 14:37:34 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 22:12:48 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.5555540552463625,
-      "contest_score": -0.1572682384583417,
+      "priority_score": 2.538714876005847,
+      "contest_score": -0.29887785526111676,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1401209557393472,
-      "contestedness": 0.04795727677441386,
-      "impact": 0.5900000000000001,
+      "central_tendency": 0.6475477765419365,
+      "contestedness": 0.04840041624806346,
+      "impact": 0.565,
       "top_clusters": {
-        "achievement_oriented": 1.2326941561652043,
-        "stability_seeking": 1.2314330455010487
+        "care_oriented": 0.796744487321667,
+        "governance_oriented": 0.7660725157036676
       },
       "bottom_clusters": {
-        "expression_oriented": 0.9860359985702138
+        "achievement_oriented": 0.49866836896288896
       },
       "cluster_means": {
-        "survival_focused": 1.2277431314983005,
-        "stability_seeking": 1.2314330455010487,
-        "achievement_oriented": 1.2326941561652043,
-        "care_oriented": 1.1217342764866864,
-        "knowledge_oriented": 1.0532210005001432,
-        "governance_oriented": 1.1847368793907904,
-        "sovereignty_order_oriented": 1.193541428201299,
-        "expression_oriented": 0.9860359985702138,
-        "ecosystem_oriented": 1.0299486853404383
+        "survival_focused": 0.6450396079217989,
+        "stability_seeking": 0.6751701200096459,
+        "achievement_oriented": 0.49866836896288896,
+        "care_oriented": 0.796744487321667,
+        "knowledge_oriented": 0.594587797760977,
+        "governance_oriented": 0.7660725157036676,
+        "sovereignty_order_oriented": 0.6163552566376445,
+        "expression_oriented": 0.5923036205500983,
+        "ecosystem_oriented": 0.6429882140090405
       },
-      "priority_raw": 0.538137091108972,
-      "contest_raw": 0.02829479329690418
+      "priority_raw": 0.2926915949969553,
+      "contest_raw": 0.027346235180155852
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.3165979932203484,
-      "contest_score": -0.5219624332263101,
+      "priority_score": 2.475001042363514,
+      "contest_score": -0.846340894785936,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9132732637160635,
-      "contestedness": 0.051988748617889824,
-      "impact": 0.43000000000000005,
+      "central_tendency": 1.020725299984639,
+      "contestedness": 0.038070302268157774,
+      "impact": 0.47000000000000003,
       "top_clusters": {
-        "governance_oriented": 0.9940725318317452,
-        "knowledge_oriented": 0.9845224225871798
+        "governance_oriented": 1.1546603985139061,
+        "care_oriented": 1.1378112632198352
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.8324996922262823
+        "sovereignty_order_oriented": 0.9303386554004587
       },
       "cluster_means": {
-        "survival_focused": 0.8349824244875106,
-        "stability_seeking": 0.9507629426869167,
-        "achievement_oriented": 0.93253367396929,
-        "care_oriented": 0.9027023926217604,
-        "knowledge_oriented": 0.9845224225871798,
-        "governance_oriented": 0.9940725318317452,
-        "sovereignty_order_oriented": 0.8324996922262823,
-        "expression_oriented": 0.9456836872596024,
-        "ecosystem_oriented": 0.8416996057742843
+        "survival_focused": 0.9568627093427498,
+        "stability_seeking": 1.0593295556715545,
+        "achievement_oriented": 0.9659238579493186,
+        "care_oriented": 1.1378112632198352,
+        "knowledge_oriented": 1.0266524376130668,
+        "governance_oriented": 1.1546603985139061,
+        "sovereignty_order_oriented": 0.9303386554004587,
+        "expression_oriented": 0.9949330116109075,
+        "ecosystem_oriented": 0.9600158105399529
       },
-      "priority_raw": 0.2748952523785351,
-      "contest_raw": 0.022355161905692627
+      "priority_raw": 0.2878445345956682,
+      "contest_raw": 0.017893042066034155
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7503651833217073,
-      "contest_score": -0.13238913673469851,
+      "priority_score": 0.8842843074290595,
+      "contest_score": -1.081795966734488,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.47345748804610527,
-      "contestedness": 0.052181799043904964,
-      "impact": 0.55,
+      "central_tendency": 0.7414666548058064,
+      "contestedness": 0.03687300090033685,
+      "impact": 0.375,
       "top_clusters": {
-        "sovereignty_order_oriented": 0.5563602683747719,
-        "governance_oriented": 0.5301863144578377
+        "governance_oriented": 0.8098909337461537,
+        "stability_seeking": 0.784248794251029
       },
       "bottom_clusters": {
-        "expression_oriented": 0.39026122991069045
+        "sovereignty_order_oriented": 0.6713397372784897
       },
       "cluster_means": {
-        "survival_focused": 0.5289087628705633,
-        "stability_seeking": 0.5208071185051532,
-        "achievement_oriented": 0.4424430289545954,
-        "care_oriented": 0.44181455171309175,
-        "knowledge_oriented": 0.41682374029879504,
-        "governance_oriented": 0.5301863144578377,
-        "sovereignty_order_oriented": 0.5563602683747719,
-        "expression_oriented": 0.39026122991069045,
-        "ecosystem_oriented": 0.43351237732944886
+        "survival_focused": 0.6961370450184123,
+        "stability_seeking": 0.784248794251029,
+        "achievement_oriented": 0.7229432189536503,
+        "care_oriented": 0.7695581453579312,
+        "knowledge_oriented": 0.7804858540468149,
+        "governance_oriented": 0.8098909337461537,
+        "sovereignty_order_oriented": 0.6713397372784897,
+        "expression_oriented": 0.7598162198539872,
+        "ecosystem_oriented": 0.6787799447457894
       },
-      "priority_raw": 0.20832129474028635,
-      "contest_raw": 0.028699989474147734
+      "priority_raw": 0.16682999733130643,
+      "contest_raw": 0.013827375337626319
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6683531475989787,
-      "contest_score": -0.8062752775201754,
+      "priority_score": 0.8785446580890893,
+      "contest_score": 1.1037152372037469,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7441155615092913,
-      "contestedness": 0.039830719236891854,
-      "impact": 0.445,
+      "central_tendency": 0.3047497266658523,
+      "contestedness": 0.06610921969059261,
+      "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.8041602072714742,
-        "knowledge_oriented": 0.7961398166709355
+        "expression_oriented": 0.43724796352705675,
+        "knowledge_oriented": 0.41347329694273655
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6368549383136349
+        "survival_focused": 0.18954902211071342
       },
       "cluster_means": {
-        "survival_focused": 0.7059924720813762,
-        "stability_seeking": 0.7597147255639559,
-        "achievement_oriented": 0.7563090974340436,
-        "care_oriented": 0.7908001416649488,
-        "knowledge_oriented": 0.7961398166709355,
-        "governance_oriented": 0.7468125118062866,
-        "sovereignty_order_oriented": 0.6368549383136349,
-        "expression_oriented": 0.8041602072714742,
-        "ecosystem_oriented": 0.7002561427769647
+        "survival_focused": 0.18954902211071342,
+        "stability_seeking": 0.24315893257269053,
+        "achievement_oriented": 0.312380181724588,
+        "care_oriented": 0.3265989005917239,
+        "knowledge_oriented": 0.41347329694273655,
+        "governance_oriented": 0.30926815226328314,
+        "sovereignty_order_oriented": 0.21459999602325033,
+        "expression_oriented": 0.43724796352705675,
+        "ecosystem_oriented": 0.2964710942366279
       },
-      "priority_raw": 0.19867885492298076,
-      "contest_raw": 0.017724670060416874
+      "priority_raw": 0.16639335075955536,
+      "contest_raw": 0.051565191358662235
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "title": "Jay-Z rape accuser says her allegation was false",
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.4511021624483717,
-      "contest_score": -0.40854365115345265,
+      "priority_score": 0.8724712018836123,
+      "contest_score": -0.1901041946854823,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.48497451602158065,
-      "contestedness": 0.047455625783349664,
+      "central_tendency": 0.5267660624466036,
+      "contestedness": 0.06494324343115865,
+      "impact": 0.45,
+      "top_clusters": {
+        "knowledge_oriented": 0.6214449304566791,
+        "expression_oriented": 0.6050214919376338
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.43817373959923317
+      },
+      "cluster_means": {
+        "survival_focused": 0.43817373959923317,
+        "stability_seeking": 0.5377779068272657,
+        "achievement_oriented": 0.5511286182486792,
+        "care_oriented": 0.5064707923770344,
+        "knowledge_oriented": 0.6214449304566791,
+        "governance_oriented": 0.5667626846554867,
+        "sovereignty_order_oriented": 0.4412797345213151,
+        "expression_oriented": 0.6050214919376338,
+        "ecosystem_oriented": 0.472834663396107
+      },
+      "priority_raw": 0.16593130967068012,
+      "contest_raw": 0.02922445954402139
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.03550295329924671,
+      "contest_score": -0.07445447949307293,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2815602937972229,
+      "contestedness": 0.03630397047906331,
+      "impact": 0.86,
+      "top_clusters": {
+        "sovereignty_order_oriented": 0.3487599512484384,
+        "expression_oriented": 0.31856671920262203
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.18582570912994667
+      },
+      "cluster_means": {
+        "survival_focused": 0.3124559807693751,
+        "stability_seeking": 0.23952964329150955,
+        "achievement_oriented": 0.31248910318395073,
+        "care_oriented": 0.23666270204505316,
+        "knowledge_oriented": 0.3156700662935943,
+        "governance_oriented": 0.18582570912994667,
+        "sovereignty_order_oriented": 0.3487599512484384,
+        "expression_oriented": 0.31856671920262203,
+        "ecosystem_oriented": 0.26408276901051664
+      },
+      "priority_raw": 0.09685674106624469,
+      "contest_raw": 0.031221414611994444
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2283238938277097,
+      "contest_score": -1.209409262847927,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3320719017800659,
+      "contestedness": 0.023482508820132975,
+      "impact": 0.495,
+      "top_clusters": {
+        "expression_oriented": 0.43004814134410146,
+        "knowledge_oriented": 0.42230334514168844
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.2724034097674154
+      },
+      "cluster_means": {
+        "survival_focused": 0.2724034097674154,
+        "stability_seeking": 0.3195213642574003,
+        "achievement_oriented": 0.40015025708858865,
+        "care_oriented": 0.2766090642195602,
+        "knowledge_oriented": 0.42230334514168844,
+        "governance_oriented": 0.2873153954157465,
+        "sovereignty_order_oriented": 0.2802045657463984,
+        "expression_oriented": 0.43004814134410146,
+        "ecosystem_oriented": 0.3000915730396932
+      },
+      "priority_raw": 0.0821877956905663,
+      "contest_raw": 0.011623841865965823
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2840303976141442,
+      "contest_score": -0.8286474585292587,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.21834704969768107,
+      "contestedness": 0.03568344988094821,
       "impact": 0.51,
       "top_clusters": {
-        "expression_oriented": 0.5426927886615849,
-        "knowledge_oriented": 0.5412529343046503
+        "expression_oriented": 0.32817586035811525,
+        "knowledge_oriented": 0.2982801523986347
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4124784531996151
+        "sovereignty_order_oriented": 0.13782405801448083
       },
       "cluster_means": {
-        "survival_focused": 0.4713108103614538,
-        "stability_seeking": 0.5187664361448034,
-        "achievement_oriented": 0.5263748769725378,
-        "care_oriented": 0.4605967344086864,
-        "knowledge_oriented": 0.5412529343046503,
-        "governance_oriented": 0.45501834665322277,
-        "sovereignty_order_oriented": 0.43627926348767126,
-        "expression_oriented": 0.5426927886615849,
-        "ecosystem_oriented": 0.4124784531996151
+        "survival_focused": 0.16620330314514253,
+        "stability_seeking": 0.2293733962083926,
+        "achievement_oriented": 0.2120065841799225,
+        "care_oriented": 0.22108273516032734,
+        "knowledge_oriented": 0.2982801523986347,
+        "governance_oriented": 0.19585422351513967,
+        "sovereignty_order_oriented": 0.13782405801448083,
+        "expression_oriented": 0.32817586035811525,
+        "ecosystem_oriented": 0.17632313429897428
       },
-      "priority_raw": 0.1731359022197043,
-      "contest_raw": 0.02420236914950833
+      "priority_raw": 0.07794989674207214,
+      "contest_raw": 0.018198559439283588
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Bangkok roads submerged as flood disaster declared",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.09234662360506732,
-      "contest_score": -1.2474580026924345,
+      "priority_score": -0.2905684591983825,
+      "contest_score": 1.3660422937977081,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.49047104037621814,
-      "contestedness": 0.02368382012982778,
-      "impact": 0.445,
+      "central_tendency": 0.19859618096551032,
+      "contestedness": 0.07191649224390778,
+      "impact": 0.78,
       "top_clusters": {
-        "achievement_oriented": 0.5506847757866178,
-        "stability_seeking": 0.5264645017208619
+        "expression_oriented": 0.32785809582287684,
+        "knowledge_oriented": 0.30169278531014465
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.43345569182679794
+        "survival_focused": 0.09487086798467811
       },
       "cluster_means": {
-        "survival_focused": 0.47094498011827135,
-        "stability_seeking": 0.5264645017208619,
-        "achievement_oriented": 0.5506847757866178,
-        "care_oriented": 0.46237794504681906,
-        "knowledge_oriented": 0.5143699194046875,
-        "governance_oriented": 0.48606176517664684,
-        "sovereignty_order_oriented": 0.46256190081393234,
-        "expression_oriented": 0.507317883491329,
-        "ecosystem_oriented": 0.43345569182679794
+        "survival_focused": 0.09487086798467811,
+        "stability_seeking": 0.12527343183696513,
+        "achievement_oriented": 0.20241365987990886,
+        "care_oriented": 0.24278639346382763,
+        "knowledge_oriented": 0.30169278531014465,
+        "governance_oriented": 0.18008596014828934,
+        "sovereignty_order_oriented": 0.11519451016202978,
+        "expression_oriented": 0.32785809582287684,
+        "ecosystem_oriented": 0.1971899240808729
       },
-      "priority_raw": 0.13095576778045023,
-      "contest_raw": 0.010539299957773363
+      "priority_raw": 0.07745251057654903,
+      "contest_raw": 0.05609486395024807
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "title": "Students strike across Germany in protest against military service",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.018725447670745403,
-      "contest_score": -0.4981889725371753,
+      "priority_score": -0.3097474821277929,
+      "contest_score": -0.08502388670789421,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3425766680245533,
-      "contestedness": 0.0382224385559915,
+      "central_tendency": 0.2584811470205723,
+      "contestedness": 0.042229809230822396,
+      "impact": 0.7350000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.45451515136795057,
+        "knowledge_oriented": 0.40457198055054294
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.15289972893915135
+      },
+      "cluster_means": {
+        "survival_focused": 0.15289972893915135,
+        "stability_seeking": 0.1701531974395073,
+        "achievement_oriented": 0.28043468090989565,
+        "care_oriented": 0.19512953816997375,
+        "knowledge_oriented": 0.40457198055054294,
+        "governance_oriented": 0.17068881952528694,
+        "sovereignty_order_oriented": 0.17795229815800806,
+        "expression_oriented": 0.45451515136795057,
+        "ecosystem_oriented": 0.3199849281248338
+      },
+      "priority_raw": 0.07599345722404827,
+      "contest_raw": 0.031038909784654466
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "title": "Tenth woman's body found as South Africa police probe killings",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3208347625396106,
+      "contest_score": 0.31726732134975133,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.13763733893405972,
+      "contestedness": 0.0486992069543922,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.2876311039367351,
+        "knowledge_oriented": 0.22679710719522314
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.020420557289091118
+      },
+      "cluster_means": {
+        "survival_focused": 0.020420557289091118,
+        "stability_seeking": 0.07867132587926776,
+        "achievement_oriented": 0.1259188609252115,
+        "care_oriented": 0.1373667886517987,
+        "knowledge_oriented": 0.22679710719522314,
+        "governance_oriented": 0.11220459675874472,
+        "sovereignty_order_oriented": 0.053059192108563996,
+        "expression_oriented": 0.2876311039367351,
+        "ecosystem_oriented": 0.1746180678796037
+      },
+      "priority_raw": 0.0751499870579966,
+      "contest_raw": 0.03798538142442592
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3242650269028968,
+      "contest_score": -1.1092612635461532,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.20977318782663287,
+      "contestedness": 0.022442226205042493,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.5091431703297244,
-        "knowledge_oriented": 0.46538620957429816
+        "survival_focused": 0.26132009958563196,
+        "sovereignty_order_oriented": 0.25966525959579684
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2205827175247121
+        "governance_oriented": 0.15534770894921632
       },
       "cluster_means": {
-        "survival_focused": 0.24278170430447205,
-        "stability_seeking": 0.29891195004516236,
-        "achievement_oriented": 0.34932865322683987,
-        "care_oriented": 0.35869937453094214,
-        "knowledge_oriented": 0.46538620957429816,
-        "governance_oriented": 0.30122184408367436,
-        "sovereignty_order_oriented": 0.2205827175247121,
-        "expression_oriented": 0.5091431703297244,
-        "ecosystem_oriented": 0.33713438860115386
+        "survival_focused": 0.26132009958563196,
+        "stability_seeking": 0.24891602637187982,
+        "achievement_oriented": 0.1932043808594571,
+        "care_oriented": 0.18454109748638842,
+        "knowledge_oriented": 0.19418294585064957,
+        "governance_oriented": 0.15534770894921632,
+        "sovereignty_order_oriented": 0.25966525959579684,
+        "expression_oriented": 0.21662517205569207,
+        "ecosystem_oriented": 0.17415599968498405
       },
-      "priority_raw": 0.12229987048476551,
-      "contest_raw": 0.02274235094081494
+      "priority_raw": 0.07488902805410794,
+      "contest_raw": 0.013353124592000283
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "title": "Pope warns against 'losing humanity' to AI machines",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.06660590109680968,
-      "contest_score": -0.9545765926709873,
+      "priority_score": -0.3552269848470738,
+      "contest_score": 0.6662628246170132,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6134817896548959,
-      "contestedness": 0.02509728635115327,
-      "impact": 0.6100000000000001,
+      "central_tendency": 0.1896302804667932,
+      "contestedness": 0.05753147927165622,
+      "impact": 0.765,
       "top_clusters": {
-        "care_oriented": 0.7117849396712914,
-        "ecosystem_oriented": 0.656283842372213
+        "expression_oriented": 0.35745867968745626,
+        "knowledge_oriented": 0.2935389379090051
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5698077507486973
+        "survival_focused": 0.09743131498300381
       },
       "cluster_means": {
-        "survival_focused": 0.6238615605253025,
-        "stability_seeking": 0.5741828300020464,
-        "achievement_oriented": 0.5698077507486973,
-        "care_oriented": 0.7117849396712914,
-        "knowledge_oriented": 0.5804094515215792,
-        "governance_oriented": 0.6216046432877438,
-        "sovereignty_order_oriented": 0.5884960516653395,
-        "expression_oriented": 0.5949050370998505,
-        "ecosystem_oriented": 0.656283842372213
+        "survival_focused": 0.09743131498300381,
+        "stability_seeking": 0.11020576922509903,
+        "achievement_oriented": 0.19512463902914773,
+        "care_oriented": 0.16764137055474554,
+        "knowledge_oriented": 0.2935389379090051,
+        "governance_oriented": 0.11010989128308932,
+        "sovereignty_order_oriented": 0.11736914342337737,
+        "expression_oriented": 0.35745867968745626,
+        "ecosystem_oriented": 0.2577927781062145
       },
-      "priority_raw": 0.11226716750684597,
-      "contest_raw": 0.015309344674203498
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.13786111253947667,
-      "contest_score": 0.5634451545538907,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.49471164224754927,
-      "contestedness": 0.07625289487907999,
-      "impact": 0.525,
-      "top_clusters": {
-        "expression_oriented": 0.6661344074437054,
-        "knowledge_oriented": 0.6419339384645073
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.3677956649572063
-      },
-      "cluster_means": {
-        "survival_focused": 0.3677956649572063,
-        "stability_seeking": 0.41642885016060466,
-        "achievement_oriented": 0.4966594829700378,
-        "care_oriented": 0.44266927895048397,
-        "knowledge_oriented": 0.6419339384645073,
-        "governance_oriented": 0.4513476914681472,
-        "sovereignty_order_oriented": 0.3750947965890672,
-        "expression_oriented": 0.6661344074437054,
-        "ecosystem_oriented": 0.5943406692241843
-      },
-      "priority_raw": 0.10388944487198536,
-      "contest_raw": 0.040032769811516995
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.2594262084644535,
-      "contest_score": -1.1298495126995562,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.27911717888859194,
-      "contestedness": 0.023279894078747948,
-      "impact": 0.535,
-      "top_clusters": {
-        "expression_oriented": 0.39771728145725527,
-        "knowledge_oriented": 0.36344847438210415
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2197119464842248
-      },
-      "cluster_means": {
-        "survival_focused": 0.23231917388119017,
-        "stability_seeking": 0.2614009465235515,
-        "achievement_oriented": 0.2700220558423092,
-        "care_oriented": 0.27157914650490134,
-        "knowledge_oriented": 0.36344847438210415,
-        "governance_oriented": 0.23812105244480355,
-        "sovereignty_order_oriented": 0.2197119464842248,
-        "expression_oriented": 0.39771728145725527,
-        "ecosystem_oriented": 0.25773453247698663
-      },
-      "priority_raw": 0.08959661442323802,
-      "contest_raw": 0.012454743332130152
+      "priority_raw": 0.0725335822785484,
+      "contest_raw": 0.04401158164281701
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
@@ -714,891 +822,776 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4509069317056032,
-      "contest_score": 1.8089768326938012,
+      "priority_score": -0.5891634437390929,
+      "contest_score": 1.0066434300573417,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.1363487010100288,
-      "contestedness": 0.07355884879133104,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.11125356535926809,
+      "contestedness": 0.06084027570578149,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.2600307493510291,
-        "knowledge_oriented": 0.20500768088112703
+        "expression_oriented": 0.21464963038155568,
+        "ecosystem_oriented": 0.17196947153575665
       },
       "bottom_clusters": {
-        "survival_focused": 0.028587201251149053
+        "survival_focused": 0.014607369379670776
       },
       "cluster_means": {
-        "survival_focused": 0.028587201251149053,
-        "stability_seeking": 0.06385993675778714,
-        "achievement_oriented": 0.05534351460711409,
-        "care_oriented": 0.19857227491841167,
-        "knowledge_oriented": 0.20500768088112703,
-        "governance_oriented": 0.12890236339844513,
-        "sovereignty_order_oriented": 0.07291463072082388,
-        "expression_oriented": 0.2600307493510291,
-        "ecosystem_oriented": 0.20401000639928052
+        "survival_focused": 0.014607369379670776,
+        "stability_seeking": 0.046911647376151416,
+        "achievement_oriented": 0.031403824958754684,
+        "care_oriented": 0.16452317715089723,
+        "knowledge_oriented": 0.16390404630058256,
+        "governance_oriented": 0.1077519230819329,
+        "sovereignty_order_oriented": 0.06880083544230817,
+        "expression_oriented": 0.21464963038155568,
+        "ecosystem_oriented": 0.17196947153575665
       },
-      "priority_raw": 0.06708356089693417,
-      "contest_raw": 0.06031825600889146
+      "priority_raw": 0.0547367541567599,
+      "contest_raw": 0.04988902607874082
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4620702285747908,
-      "contest_score": 1.366428627360843,
+      "priority_score": -0.6955191671604479,
+      "contest_score": 1.3958383016152267,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.17195046619805548,
-      "contestedness": 0.06942568217795367,
-      "impact": 0.765,
+      "sign_agreement": 0.7777777777777778,
+      "central_tendency": 0.12037597825312574,
+      "contestedness": 0.07304433511786171,
+      "impact": 0.775,
       "top_clusters": {
-        "expression_oriented": 0.3448259976722976,
-        "knowledge_oriented": 0.287460299333411
+        "expression_oriented": 0.2512105634993368,
+        "knowledge_oriented": 0.19784564557080045
       },
       "bottom_clusters": {
-        "survival_focused": 0.06244463204052925
+        "stability_seeking": -0.000790209057390745
       },
       "cluster_means": {
-        "survival_focused": 0.06244463204052925,
-        "stability_seeking": 0.08451204079641156,
-        "achievement_oriented": 0.18018891982531732,
-        "care_oriented": 0.15393772297436523,
-        "knowledge_oriented": 0.287460299333411,
-        "governance_oriented": 0.09662294611655939,
-        "sovereignty_order_oriented": 0.09261288565553252,
-        "expression_oriented": 0.3448259976722976,
-        "ecosystem_oriented": 0.23651037601793573
+        "survival_focused": 0.012061993235814361,
+        "stability_seeking": -0.000790209057390745,
+        "achievement_oriented": 0.07225412606047096,
+        "care_oriented": 0.15197063617875736,
+        "knowledge_oriented": 0.19784564557080045,
+        "governance_oriented": 0.05884240813154781,
+        "sovereignty_order_oriented": 0.035595811991387755,
+        "expression_oriented": 0.2512105634993368,
+        "ecosystem_oriented": 0.16721351840636406
       },
-      "priority_raw": 0.06577105332075622,
-      "contest_raw": 0.05311064686613456
+      "priority_raw": 0.04664569157308623,
+      "contest_raw": 0.05660935971634282
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump's plans for massive arch move ahead",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5517645619038978,
-      "contest_score": 0.24270842969514236,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.17959472877389177,
-      "contestedness": 0.05660009187240214,
-      "impact": 0.615,
-      "top_clusters": {
-        "expression_oriented": 0.2837888222448993,
-        "knowledge_oriented": 0.24275286849443417
-      },
-      "bottom_clusters": {
-        "stability_seeking": 0.1147079779085763
-      },
-      "cluster_means": {
-        "survival_focused": 0.1352887865334138,
-        "stability_seeking": 0.1147079779085763,
-        "achievement_oriented": 0.23030108970058388,
-        "care_oriented": 0.18061701980689493,
-        "knowledge_oriented": 0.24275286849443417,
-        "governance_oriented": 0.11650501107225379,
-        "sovereignty_order_oriented": 0.12401692793449279,
-        "expression_oriented": 0.2837888222448993,
-        "ecosystem_oriented": 0.1883740552694768
-      },
-      "priority_raw": 0.05522537909797172,
-      "contest_raw": 0.03480905650152732
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5935077573802879,
-      "contest_score": 0.8798109915508633,
+      "priority_score": -0.6993307349761875,
+      "contest_score": -0.8953885671907125,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.1315489847251128,
-      "contestedness": 0.059065746646112666,
-      "impact": 0.765,
+      "central_tendency": 0.14441035740336297,
+      "contestedness": 0.03186191135429975,
+      "impact": 0.535,
       "top_clusters": {
-        "expression_oriented": 0.2724509368338719,
-        "knowledge_oriented": 0.22425002231253208
+        "expression_oriented": 0.29625528026682135,
+        "knowledge_oriented": 0.26461048926543784
       },
       "bottom_clusters": {
-        "survival_focused": 0.03858194522361172
+        "survival_focused": 0.02999442753815179
       },
       "cluster_means": {
-        "survival_focused": 0.03858194522361172,
-        "stability_seeking": 0.05484702608426684,
-        "achievement_oriented": 0.13972456054662433,
-        "care_oriented": 0.1139127727303795,
-        "knowledge_oriented": 0.22425002231253208,
-        "governance_oriented": 0.06046836865429231,
-        "sovereignty_order_oriented": 0.07499992316047208,
-        "expression_oriented": 0.2724509368338719,
-        "ecosystem_oriented": 0.1861377711727948
+        "survival_focused": 0.02999442753815179,
+        "stability_seeking": 0.10902736988632498,
+        "achievement_oriented": 0.15733261817861952,
+        "care_oriented": 0.12547070682431977,
+        "knowledge_oriented": 0.26461048926543784,
+        "governance_oriented": 0.12351771287403975,
+        "sovereignty_order_oriented": 0.046280488210733495,
+        "expression_oriented": 0.29625528026682135,
+        "ecosystem_oriented": 0.1287978296226296
       },
-      "priority_raw": 0.05031748665735565,
-      "contest_raw": 0.04518529618427619
+      "priority_raw": 0.046355724726479516,
+      "contest_raw": 0.017046122574550366
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6314951197552405,
-      "contest_score": 0.6554585299982079,
+      "priority_score": -0.7303235224150616,
+      "contest_score": 1.6889455660854393,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8333333333333334,
-      "central_tendency": 0.13585534979607441,
-      "contestedness": 0.06152793420507491,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.3120057278268006,
-        "knowledge_oriented": 0.26019189926364783
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.0006809398206300277
-      },
-      "cluster_means": {
-        "survival_focused": 0.0006809398206300277,
-        "stability_seeking": 0.05404059107670206,
-        "achievement_oriented": 0.1343542552003714,
-        "care_oriented": 0.062208874025704936,
-        "knowledge_oriented": 0.26019189926364783,
-        "governance_oriented": 0.05576193818323223,
-        "sovereignty_order_oriented": 0.04207166162950807,
-        "expression_oriented": 0.3120057278268006,
-        "ecosystem_oriented": 0.1839558065495649
-      },
-      "priority_raw": 0.04585118055617512,
-      "contest_raw": 0.041531355588425564
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6317514118040556,
-      "contest_score": 0.9670787015664065,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.15585390275527614,
-      "contestedness": 0.06341032812058803,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.11972226825129081,
+      "contestedness": 0.08390547282171626,
       "impact": 0.735,
       "top_clusters": {
-        "expression_oriented": 0.3105637779979831,
-        "knowledge_oriented": 0.2652973006802197
+        "expression_oriented": 0.26478502592863346,
+        "knowledge_oriented": 0.19130455608452365
       },
       "bottom_clusters": {
-        "survival_focused": 0.06019431212007764
+        "survival_focused": -0.0855512661126743
       },
       "cluster_means": {
-        "survival_focused": 0.06019431212007764,
-        "stability_seeking": 0.08970997055715679,
-        "achievement_oriented": 0.19720536648583437,
-        "care_oriented": 0.13379503836524634,
-        "knowledge_oriented": 0.2652973006802197,
-        "governance_oriented": 0.06831294216718045,
-        "sovereignty_order_oriented": 0.08751723296253147,
-        "expression_oriented": 0.3105637779979831,
-        "ecosystem_oriented": 0.1900891834612553
+        "survival_focused": -0.0855512661126743,
+        "stability_seeking": -0.03223741725158835,
+        "achievement_oriented": 0.052805627249174494,
+        "care_oriented": 0.05166805557012791,
+        "knowledge_oriented": 0.19130455608452365,
+        "governance_oriented": -0.018477415323150337,
+        "sovereignty_order_oriented": -0.05883251411544424,
+        "expression_oriented": 0.26478502592863346,
+        "ecosystem_oriented": 0.10845342665435188
       },
-      "priority_raw": 0.04582104741005119,
-      "contest_raw": 0.0466065911686322
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6530172470310625,
-      "contest_score": 1.3254547862614445,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.11475695183904398,
-      "contestedness": 0.06946135361293398,
-      "impact": 0.755,
-      "top_clusters": {
-        "expression_oriented": 0.237347875170708,
-        "knowledge_oriented": 0.16098830615418686
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.0749570936527568
-      },
-      "cluster_means": {
-        "survival_focused": -0.0749570936527568,
-        "stability_seeking": -0.032233366973512256,
-        "achievement_oriented": -0.006885088269840772,
-        "care_oriented": 0.08138664764370607,
-        "knowledge_oriented": 0.16098830615418686,
-        "governance_oriented": -0.005495740039822811,
-        "sovereignty_order_oriented": -0.04847727484451303,
-        "expression_oriented": 0.237347875170708,
-        "ecosystem_oriented": 0.14185264316198437
-      },
-      "priority_raw": 0.043320749319239106,
-      "contest_raw": 0.05244332197776516
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6924459688933999,
-      "contest_score": 0.938698161400935,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.6388888888888888,
-      "central_tendency": 0.07862800320766519,
-      "contestedness": 0.056273620043950506,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.09687623760793368,
-        "knowledge_oriented": 0.03539794315397901
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.12215884358812906
-      },
-      "cluster_means": {
-        "survival_focused": -0.12215884358812906,
-        "stability_seeking": -0.0945131462990414,
-        "achievement_oriented": -0.08782551081749337,
-        "care_oriented": 0.0071785341092272525,
-        "knowledge_oriented": 0.03539794315397901,
-        "governance_oriented": -0.06588522354417856,
-        "sovereignty_order_oriented": -0.07181679583787925,
-        "expression_oriented": 0.09687623760793368,
-        "ecosystem_oriented": 0.027893142379183833
-      },
-      "priority_raw": 0.03868497757817128,
-      "contest_raw": 0.04614436843603942
+      "priority_raw": 0.04399793358234937,
+      "contest_raw": 0.06167052252396145
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "title": "US Supreme Court allows Trump to use controversial database to check voter citizenship",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7007180835967388,
-      "contest_score": -0.9969759092406336,
+      "priority_score": -0.8104668550283384,
+      "contest_score": -1.0267845566776892,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.11515235520161997,
-      "contestedness": 0.022318784161270325,
-      "impact": 0.655,
+      "central_tendency": 0.1232552558705915,
+      "contestedness": 0.02402808505398782,
+      "impact": 0.615,
       "top_clusters": {
-        "expression_oriented": 0.15012690766960213,
-        "ecosystem_oriented": 0.14386064028493903
+        "achievement_oriented": 0.1576545459355597,
+        "survival_focused": 0.1514679763114056
       },
       "bottom_clusters": {
-        "governance_oriented": 0.0522730045364069
+        "governance_oriented": 0.06697300245405191
       },
       "cluster_means": {
-        "survival_focused": 0.11282462137830188,
-        "stability_seeking": 0.07589446606242922,
-        "achievement_oriented": 0.1405861689900023,
-        "care_oriented": 0.11826738482873199,
-        "knowledge_oriented": 0.1146988686141142,
-        "governance_oriented": 0.0522730045364069,
-        "sovereignty_order_oriented": 0.1278391344500521,
-        "expression_oriented": 0.15012690766960213,
-        "ecosystem_oriented": 0.14386064028493903
+        "survival_focused": 0.1514679763114056,
+        "stability_seeking": 0.10904623688734635,
+        "achievement_oriented": 0.1576545459355597,
+        "care_oriented": 0.1270850022302894,
+        "knowledge_oriented": 0.09561787041598868,
+        "governance_oriented": 0.06697300245405191,
+        "sovereignty_order_oriented": 0.15111308728427722,
+        "expression_oriented": 0.12996940882057617,
+        "ecosystem_oriented": 0.1203701724958285
       },
-      "priority_raw": 0.03771239632853054,
-      "contest_raw": 0.014618803625632063
+      "priority_raw": 0.037900991180206886,
+      "contest_raw": 0.014777272308202508
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
       "source": "",
       "url": "",
       "published": "",
-      "classifier_fallback": true,
-      "priority_score": -1.0214740803657594,
-      "contest_score": -1.894572488147773,
+      "classifier_fallback": false,
+      "priority_score": -0.9447837336166245,
+      "contest_score": 1.3334951059560654,
       "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.1513317115760468,
-      "contestedness": 0.08723655194512736,
-      "impact": 0.0,
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.09747454341222875,
+      "contestedness": 0.07821529973359832,
+      "impact": 0.7100000000000001,
       "top_clusters": {
-        "expression_oriented": -0.020915032679738564,
-        "knowledge_oriented": -0.05502217152109515
+        "expression_oriented": 0.1988528712425714,
+        "ecosystem_oriented": 0.1516159333991209
       },
       "bottom_clusters": {
-        "survival_focused": -0.30611576347017955
+        "governance_oriented": -0.0680787434753676
       },
       "cluster_means": {
-        "survival_focused": -0.30611576347017955,
-        "stability_seeking": -0.22867094492961337,
-        "achievement_oriented": -0.14865843448963656,
-        "care_oriented": -0.14448665977361672,
-        "knowledge_oriented": -0.05502217152109515,
-        "governance_oriented": -0.1316388563762222,
-        "sovereignty_order_oriented": -0.2692274331158296,
-        "expression_oriented": -0.020915032679738564,
-        "ecosystem_oriented": -0.057250107828489355
+        "survival_focused": -0.031024533849353747,
+        "stability_seeking": -0.052479664030406104,
+        "achievement_oriented": 0.02573563570319222,
+        "care_oriented": 0.027522089056789073,
+        "knowledge_oriented": 0.12157969298042591,
+        "governance_oriented": -0.0680787434753676,
+        "sovereignty_order_oriented": -0.020604280132485858,
+        "expression_oriented": 0.1988528712425714,
+        "ecosystem_oriented": 0.1516159333991209
       },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
+      "priority_raw": 0.027682770329072973,
+      "contest_raw": 0.055532862810854816
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -1.030928668478508,
+      "contest_score": -1.232121694222562,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.08285981632246549,
+      "contestedness": 0.02202286301913392,
+      "impact": 0.51,
+      "top_clusters": {
+        "expression_oriented": 0.14370519904936757,
+        "knowledge_oriented": 0.11545121050598264
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.034633501718878426
+      },
+      "cluster_means": {
+        "survival_focused": 0.0784388418289688,
+        "stability_seeking": 0.10212975952182585,
+        "achievement_oriented": 0.06485569484460257,
+        "care_oriented": 0.08437251172157062,
+        "knowledge_oriented": 0.11545121050598264,
+        "governance_oriented": 0.034633501718878426,
+        "sovereignty_order_oriented": 0.08010689650269193,
+        "expression_oriented": 0.14370519904936757,
+        "ecosystem_oriented": 0.042044731208300976
+      },
+      "priority_raw": 0.0211292531622287,
+      "contest_raw": 0.0112316601397583
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.5555540552463625,
-      "contest_score": -0.1572682384583417,
+      "priority_score": 2.538714876005847,
+      "contest_score": -0.29887785526111676,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1401209557393472,
-      "contestedness": 0.04795727677441386,
-      "impact": 0.5900000000000001,
+      "central_tendency": 0.6475477765419365,
+      "contestedness": 0.04840041624806346,
+      "impact": 0.565,
       "top_clusters": {
-        "achievement_oriented": 1.2326941561652043,
-        "stability_seeking": 1.2314330455010487
+        "care_oriented": 0.796744487321667,
+        "governance_oriented": 0.7660725157036676
       },
       "bottom_clusters": {
-        "expression_oriented": 0.9860359985702138
+        "achievement_oriented": 0.49866836896288896
       },
       "cluster_means": {
-        "survival_focused": 1.2277431314983005,
-        "stability_seeking": 1.2314330455010487,
-        "achievement_oriented": 1.2326941561652043,
-        "care_oriented": 1.1217342764866864,
-        "knowledge_oriented": 1.0532210005001432,
-        "governance_oriented": 1.1847368793907904,
-        "sovereignty_order_oriented": 1.193541428201299,
-        "expression_oriented": 0.9860359985702138,
-        "ecosystem_oriented": 1.0299486853404383
+        "survival_focused": 0.6450396079217989,
+        "stability_seeking": 0.6751701200096459,
+        "achievement_oriented": 0.49866836896288896,
+        "care_oriented": 0.796744487321667,
+        "knowledge_oriented": 0.594587797760977,
+        "governance_oriented": 0.7660725157036676,
+        "sovereignty_order_oriented": 0.6163552566376445,
+        "expression_oriented": 0.5923036205500983,
+        "ecosystem_oriented": 0.6429882140090405
       },
-      "priority_raw": 0.538137091108972,
-      "contest_raw": 0.02829479329690418
+      "priority_raw": 0.2926915949969553,
+      "contest_raw": 0.027346235180155852
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.3165979932203484,
-      "contest_score": -0.5219624332263101,
+      "priority_score": 2.475001042363514,
+      "contest_score": -0.846340894785936,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.9132732637160635,
-      "contestedness": 0.051988748617889824,
-      "impact": 0.43000000000000005,
+      "central_tendency": 1.020725299984639,
+      "contestedness": 0.038070302268157774,
+      "impact": 0.47000000000000003,
       "top_clusters": {
-        "governance_oriented": 0.9940725318317452,
-        "knowledge_oriented": 0.9845224225871798
+        "governance_oriented": 1.1546603985139061,
+        "care_oriented": 1.1378112632198352
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.8324996922262823
+        "sovereignty_order_oriented": 0.9303386554004587
       },
       "cluster_means": {
-        "survival_focused": 0.8349824244875106,
-        "stability_seeking": 0.9507629426869167,
-        "achievement_oriented": 0.93253367396929,
-        "care_oriented": 0.9027023926217604,
-        "knowledge_oriented": 0.9845224225871798,
-        "governance_oriented": 0.9940725318317452,
-        "sovereignty_order_oriented": 0.8324996922262823,
-        "expression_oriented": 0.9456836872596024,
-        "ecosystem_oriented": 0.8416996057742843
+        "survival_focused": 0.9568627093427498,
+        "stability_seeking": 1.0593295556715545,
+        "achievement_oriented": 0.9659238579493186,
+        "care_oriented": 1.1378112632198352,
+        "knowledge_oriented": 1.0266524376130668,
+        "governance_oriented": 1.1546603985139061,
+        "sovereignty_order_oriented": 0.9303386554004587,
+        "expression_oriented": 0.9949330116109075,
+        "ecosystem_oriented": 0.9600158105399529
       },
-      "priority_raw": 0.2748952523785351,
-      "contest_raw": 0.022355161905692627
+      "priority_raw": 0.2878445345956682,
+      "contest_raw": 0.017893042066034155
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7503651833217073,
-      "contest_score": -0.13238913673469851,
+      "priority_score": 0.8842843074290595,
+      "contest_score": -1.081795966734488,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.47345748804610527,
-      "contestedness": 0.052181799043904964,
-      "impact": 0.55,
+      "central_tendency": 0.7414666548058064,
+      "contestedness": 0.03687300090033685,
+      "impact": 0.375,
       "top_clusters": {
-        "sovereignty_order_oriented": 0.5563602683747719,
-        "governance_oriented": 0.5301863144578377
+        "governance_oriented": 0.8098909337461537,
+        "stability_seeking": 0.784248794251029
       },
       "bottom_clusters": {
-        "expression_oriented": 0.39026122991069045
+        "sovereignty_order_oriented": 0.6713397372784897
       },
       "cluster_means": {
-        "survival_focused": 0.5289087628705633,
-        "stability_seeking": 0.5208071185051532,
-        "achievement_oriented": 0.4424430289545954,
-        "care_oriented": 0.44181455171309175,
-        "knowledge_oriented": 0.41682374029879504,
-        "governance_oriented": 0.5301863144578377,
-        "sovereignty_order_oriented": 0.5563602683747719,
-        "expression_oriented": 0.39026122991069045,
-        "ecosystem_oriented": 0.43351237732944886
+        "survival_focused": 0.6961370450184123,
+        "stability_seeking": 0.784248794251029,
+        "achievement_oriented": 0.7229432189536503,
+        "care_oriented": 0.7695581453579312,
+        "knowledge_oriented": 0.7804858540468149,
+        "governance_oriented": 0.8098909337461537,
+        "sovereignty_order_oriented": 0.6713397372784897,
+        "expression_oriented": 0.7598162198539872,
+        "ecosystem_oriented": 0.6787799447457894
       },
-      "priority_raw": 0.20832129474028635,
-      "contest_raw": 0.028699989474147734
+      "priority_raw": 0.16682999733130643,
+      "contest_raw": 0.013827375337626319
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.6683531475989787,
-      "contest_score": -0.8062752775201754,
+      "priority_score": 0.8785446580890893,
+      "contest_score": 1.1037152372037469,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7441155615092913,
-      "contestedness": 0.039830719236891854,
-      "impact": 0.445,
+      "central_tendency": 0.3047497266658523,
+      "contestedness": 0.06610921969059261,
+      "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.8041602072714742,
-        "knowledge_oriented": 0.7961398166709355
+        "expression_oriented": 0.43724796352705675,
+        "knowledge_oriented": 0.41347329694273655
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6368549383136349
+        "survival_focused": 0.18954902211071342
       },
       "cluster_means": {
-        "survival_focused": 0.7059924720813762,
-        "stability_seeking": 0.7597147255639559,
-        "achievement_oriented": 0.7563090974340436,
-        "care_oriented": 0.7908001416649488,
-        "knowledge_oriented": 0.7961398166709355,
-        "governance_oriented": 0.7468125118062866,
-        "sovereignty_order_oriented": 0.6368549383136349,
-        "expression_oriented": 0.8041602072714742,
-        "ecosystem_oriented": 0.7002561427769647
+        "survival_focused": 0.18954902211071342,
+        "stability_seeking": 0.24315893257269053,
+        "achievement_oriented": 0.312380181724588,
+        "care_oriented": 0.3265989005917239,
+        "knowledge_oriented": 0.41347329694273655,
+        "governance_oriented": 0.30926815226328314,
+        "sovereignty_order_oriented": 0.21459999602325033,
+        "expression_oriented": 0.43724796352705675,
+        "ecosystem_oriented": 0.2964710942366279
       },
-      "priority_raw": 0.19867885492298076,
-      "contest_raw": 0.017724670060416874
+      "priority_raw": 0.16639335075955536,
+      "contest_raw": 0.051565191358662235
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "title": "Jay-Z rape accuser says her allegation was false",
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.4511021624483717,
-      "contest_score": -0.40854365115345265,
+      "priority_score": 0.8724712018836123,
+      "contest_score": -0.1901041946854823,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.48497451602158065,
-      "contestedness": 0.047455625783349664,
+      "central_tendency": 0.5267660624466036,
+      "contestedness": 0.06494324343115865,
+      "impact": 0.45,
+      "top_clusters": {
+        "knowledge_oriented": 0.6214449304566791,
+        "expression_oriented": 0.6050214919376338
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.43817373959923317
+      },
+      "cluster_means": {
+        "survival_focused": 0.43817373959923317,
+        "stability_seeking": 0.5377779068272657,
+        "achievement_oriented": 0.5511286182486792,
+        "care_oriented": 0.5064707923770344,
+        "knowledge_oriented": 0.6214449304566791,
+        "governance_oriented": 0.5667626846554867,
+        "sovereignty_order_oriented": 0.4412797345213151,
+        "expression_oriented": 0.6050214919376338,
+        "ecosystem_oriented": 0.472834663396107
+      },
+      "priority_raw": 0.16593130967068012,
+      "contest_raw": 0.02922445954402139
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.03550295329924671,
+      "contest_score": -0.07445447949307293,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2815602937972229,
+      "contestedness": 0.03630397047906331,
+      "impact": 0.86,
+      "top_clusters": {
+        "sovereignty_order_oriented": 0.3487599512484384,
+        "expression_oriented": 0.31856671920262203
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.18582570912994667
+      },
+      "cluster_means": {
+        "survival_focused": 0.3124559807693751,
+        "stability_seeking": 0.23952964329150955,
+        "achievement_oriented": 0.31248910318395073,
+        "care_oriented": 0.23666270204505316,
+        "knowledge_oriented": 0.3156700662935943,
+        "governance_oriented": 0.18582570912994667,
+        "sovereignty_order_oriented": 0.3487599512484384,
+        "expression_oriented": 0.31856671920262203,
+        "ecosystem_oriented": 0.26408276901051664
+      },
+      "priority_raw": 0.09685674106624469,
+      "contest_raw": 0.031221414611994444
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2283238938277097,
+      "contest_score": -1.209409262847927,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3320719017800659,
+      "contestedness": 0.023482508820132975,
+      "impact": 0.495,
+      "top_clusters": {
+        "expression_oriented": 0.43004814134410146,
+        "knowledge_oriented": 0.42230334514168844
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.2724034097674154
+      },
+      "cluster_means": {
+        "survival_focused": 0.2724034097674154,
+        "stability_seeking": 0.3195213642574003,
+        "achievement_oriented": 0.40015025708858865,
+        "care_oriented": 0.2766090642195602,
+        "knowledge_oriented": 0.42230334514168844,
+        "governance_oriented": 0.2873153954157465,
+        "sovereignty_order_oriented": 0.2802045657463984,
+        "expression_oriented": 0.43004814134410146,
+        "ecosystem_oriented": 0.3000915730396932
+      },
+      "priority_raw": 0.0821877956905663,
+      "contest_raw": 0.011623841865965823
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2840303976141442,
+      "contest_score": -0.8286474585292587,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.21834704969768107,
+      "contestedness": 0.03568344988094821,
       "impact": 0.51,
       "top_clusters": {
-        "expression_oriented": 0.5426927886615849,
-        "knowledge_oriented": 0.5412529343046503
+        "expression_oriented": 0.32817586035811525,
+        "knowledge_oriented": 0.2982801523986347
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.4124784531996151
+        "sovereignty_order_oriented": 0.13782405801448083
       },
       "cluster_means": {
-        "survival_focused": 0.4713108103614538,
-        "stability_seeking": 0.5187664361448034,
-        "achievement_oriented": 0.5263748769725378,
-        "care_oriented": 0.4605967344086864,
-        "knowledge_oriented": 0.5412529343046503,
-        "governance_oriented": 0.45501834665322277,
-        "sovereignty_order_oriented": 0.43627926348767126,
-        "expression_oriented": 0.5426927886615849,
-        "ecosystem_oriented": 0.4124784531996151
+        "survival_focused": 0.16620330314514253,
+        "stability_seeking": 0.2293733962083926,
+        "achievement_oriented": 0.2120065841799225,
+        "care_oriented": 0.22108273516032734,
+        "knowledge_oriented": 0.2982801523986347,
+        "governance_oriented": 0.19585422351513967,
+        "sovereignty_order_oriented": 0.13782405801448083,
+        "expression_oriented": 0.32817586035811525,
+        "ecosystem_oriented": 0.17632313429897428
       },
-      "priority_raw": 0.1731359022197043,
-      "contest_raw": 0.02420236914950833
+      "priority_raw": 0.07794989674207214,
+      "contest_raw": 0.018198559439283588
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Bangkok roads submerged as flood disaster declared",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.09234662360506732,
-      "contest_score": -1.2474580026924345,
+      "priority_score": -0.2905684591983825,
+      "contest_score": 1.3660422937977081,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.49047104037621814,
-      "contestedness": 0.02368382012982778,
-      "impact": 0.445,
+      "central_tendency": 0.19859618096551032,
+      "contestedness": 0.07191649224390778,
+      "impact": 0.78,
       "top_clusters": {
-        "achievement_oriented": 0.5506847757866178,
-        "stability_seeking": 0.5264645017208619
+        "expression_oriented": 0.32785809582287684,
+        "knowledge_oriented": 0.30169278531014465
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.43345569182679794
+        "survival_focused": 0.09487086798467811
       },
       "cluster_means": {
-        "survival_focused": 0.47094498011827135,
-        "stability_seeking": 0.5264645017208619,
-        "achievement_oriented": 0.5506847757866178,
-        "care_oriented": 0.46237794504681906,
-        "knowledge_oriented": 0.5143699194046875,
-        "governance_oriented": 0.48606176517664684,
-        "sovereignty_order_oriented": 0.46256190081393234,
-        "expression_oriented": 0.507317883491329,
-        "ecosystem_oriented": 0.43345569182679794
+        "survival_focused": 0.09487086798467811,
+        "stability_seeking": 0.12527343183696513,
+        "achievement_oriented": 0.20241365987990886,
+        "care_oriented": 0.24278639346382763,
+        "knowledge_oriented": 0.30169278531014465,
+        "governance_oriented": 0.18008596014828934,
+        "sovereignty_order_oriented": 0.11519451016202978,
+        "expression_oriented": 0.32785809582287684,
+        "ecosystem_oriented": 0.1971899240808729
       },
-      "priority_raw": 0.13095576778045023,
-      "contest_raw": 0.010539299957773363
+      "priority_raw": 0.07745251057654903,
+      "contest_raw": 0.05609486395024807
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "title": "Students strike across Germany in protest against military service",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.018725447670745403,
-      "contest_score": -0.4981889725371753,
+      "priority_score": -0.3097474821277929,
+      "contest_score": -0.08502388670789421,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3425766680245533,
-      "contestedness": 0.0382224385559915,
-      "impact": 0.595,
+      "central_tendency": 0.2584811470205723,
+      "contestedness": 0.042229809230822396,
+      "impact": 0.7350000000000001,
       "top_clusters": {
-        "expression_oriented": 0.5091431703297244,
-        "knowledge_oriented": 0.46538620957429816
+        "expression_oriented": 0.45451515136795057,
+        "knowledge_oriented": 0.40457198055054294
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2205827175247121
+        "survival_focused": 0.15289972893915135
       },
       "cluster_means": {
-        "survival_focused": 0.24278170430447205,
-        "stability_seeking": 0.29891195004516236,
-        "achievement_oriented": 0.34932865322683987,
-        "care_oriented": 0.35869937453094214,
-        "knowledge_oriented": 0.46538620957429816,
-        "governance_oriented": 0.30122184408367436,
-        "sovereignty_order_oriented": 0.2205827175247121,
-        "expression_oriented": 0.5091431703297244,
-        "ecosystem_oriented": 0.33713438860115386
+        "survival_focused": 0.15289972893915135,
+        "stability_seeking": 0.1701531974395073,
+        "achievement_oriented": 0.28043468090989565,
+        "care_oriented": 0.19512953816997375,
+        "knowledge_oriented": 0.40457198055054294,
+        "governance_oriented": 0.17068881952528694,
+        "sovereignty_order_oriented": 0.17795229815800806,
+        "expression_oriented": 0.45451515136795057,
+        "ecosystem_oriented": 0.3199849281248338
       },
-      "priority_raw": 0.12229987048476551,
-      "contest_raw": 0.02274235094081494
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.06660590109680968,
-      "contest_score": -0.9545765926709873,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6134817896548959,
-      "contestedness": 0.02509728635115327,
-      "impact": 0.6100000000000001,
-      "top_clusters": {
-        "care_oriented": 0.7117849396712914,
-        "ecosystem_oriented": 0.656283842372213
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.5698077507486973
-      },
-      "cluster_means": {
-        "survival_focused": 0.6238615605253025,
-        "stability_seeking": 0.5741828300020464,
-        "achievement_oriented": 0.5698077507486973,
-        "care_oriented": 0.7117849396712914,
-        "knowledge_oriented": 0.5804094515215792,
-        "governance_oriented": 0.6216046432877438,
-        "sovereignty_order_oriented": 0.5884960516653395,
-        "expression_oriented": 0.5949050370998505,
-        "ecosystem_oriented": 0.656283842372213
-      },
-      "priority_raw": 0.11226716750684597,
-      "contest_raw": 0.015309344674203498
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.13786111253947667,
-      "contest_score": 0.5634451545538907,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.49471164224754927,
-      "contestedness": 0.07625289487907999,
-      "impact": 0.525,
-      "top_clusters": {
-        "expression_oriented": 0.6661344074437054,
-        "knowledge_oriented": 0.6419339384645073
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.3677956649572063
-      },
-      "cluster_means": {
-        "survival_focused": 0.3677956649572063,
-        "stability_seeking": 0.41642885016060466,
-        "achievement_oriented": 0.4966594829700378,
-        "care_oriented": 0.44266927895048397,
-        "knowledge_oriented": 0.6419339384645073,
-        "governance_oriented": 0.4513476914681472,
-        "sovereignty_order_oriented": 0.3750947965890672,
-        "expression_oriented": 0.6661344074437054,
-        "ecosystem_oriented": 0.5943406692241843
-      },
-      "priority_raw": 0.10388944487198536,
-      "contest_raw": 0.040032769811516995
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.2594262084644535,
-      "contest_score": -1.1298495126995562,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.27911717888859194,
-      "contestedness": 0.023279894078747948,
-      "impact": 0.535,
-      "top_clusters": {
-        "expression_oriented": 0.39771728145725527,
-        "knowledge_oriented": 0.36344847438210415
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2197119464842248
-      },
-      "cluster_means": {
-        "survival_focused": 0.23231917388119017,
-        "stability_seeking": 0.2614009465235515,
-        "achievement_oriented": 0.2700220558423092,
-        "care_oriented": 0.27157914650490134,
-        "knowledge_oriented": 0.36344847438210415,
-        "governance_oriented": 0.23812105244480355,
-        "sovereignty_order_oriented": 0.2197119464842248,
-        "expression_oriented": 0.39771728145725527,
-        "ecosystem_oriented": 0.25773453247698663
-      },
-      "priority_raw": 0.08959661442323802,
-      "contest_raw": 0.012454743332130152
+      "priority_raw": 0.07599345722404827,
+      "contest_raw": 0.031038909784654466
     }
   ],
   "mood": {
-    "score": 0.02575332817089932,
+    "score": 0.03516346805265063,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "name": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "root_cause": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "target": "Brazil's Lula bans online gambling ahead of presidential election",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "name": "Brazil's Lula bans online gambling ahead of presidential election",
+      "root_cause": "Brazil's Lula bans online gambling ahead of presidential election",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 3.5555540552463625,
-      "contest_score": -0.1572682384583417,
-      "contestedness": 0.04795727677441386,
+      "priority_score": 2.538714876005847,
+      "contest_score": -0.29887785526111676,
+      "contestedness": 0.04840041624806346,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
       "signal_count": 1,
       "signals": [
-        "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti"
+        "Brazil's Lula bans online gambling ahead of presidential election"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti fade or reverse without spillover."
+      "prediction": "Momentum around Brazil's Lula bans online gambling ahead of presidential election is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Brazil's Lula bans online gambling ahead of presidential election fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "name": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "root_cause": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "target": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "name": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "root_cause": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.3165979932203484,
-      "contest_score": -0.5219624332263101,
-      "contestedness": 0.051988748617889824,
+      "priority_score": 2.475001042363514,
+      "contest_score": -0.846340894785936,
+      "contestedness": 0.038070302268157774,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Media outlets banned by Trump resume White House coverage after judge's order"
+        "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Media outlets banned by Trump resume White House coverage after judge's order is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Media outlets banned by Trump resume White House coverage after judge's order fade or reverse without spillover."
+      "prediction": "Momentum around Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "name": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "root_cause": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "target": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "name": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "root_cause": "South African white genocide does not exist, new ambassador to US tells BBC",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.7503651833217073,
-      "contest_score": -0.13238913673469851,
-      "contestedness": 0.052181799043904964,
+      "priority_score": 0.8842843074290595,
+      "contest_score": -1.081795966734488,
+      "contestedness": 0.03687300090033685,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from sovereignty_order_oriented, governance_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class"
+        "South African white genocide does not exist, new ambassador to US tells BBC"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Italy ministers agree to ban burqa and niqab in school and cap foreigners in class is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Italy ministers agree to ban burqa and niqab in school and cap foreigners in class fade or reverse without spillover."
+      "prediction": "Momentum around South African white genocide does not exist, new ambassador to US tells BBC is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to South African white genocide does not exist, new ambassador to US tells BBC fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "name": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "root_cause": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "target": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "name": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "root_cause": "Nor'easter brings flooding as New York and New Jersey declare emergency",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.6683531475989787,
-      "contest_score": -0.8062752775201754,
-      "contestedness": 0.039830719236891854,
+      "priority_score": 0.8785446580890893,
+      "contest_score": 1.1037152372037469,
+      "contestedness": 0.06610921969059261,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout"
+        "Nor'easter brings flooding as New York and New Jersey declare emergency"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout fade or reverse without spillover."
+      "prediction": "Momentum around Nor'easter brings flooding as New York and New Jersey declare emergency is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Nor'easter brings flooding as New York and New Jersey declare emergency fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Jay-Z rape accuser says her allegation was false",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "name": "Jay-Z rape accuser says her allegation was false",
-      "root_cause": "Jay-Z rape accuser says her allegation was false",
+      "target": "Republic of Ireland to wear black armbands for Israel game",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "name": "Republic of Ireland to wear black armbands for Israel game",
+      "root_cause": "Republic of Ireland to wear black armbands for Israel game",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.4511021624483717,
-      "contest_score": -0.40854365115345265,
-      "contestedness": 0.047455625783349664,
+      "priority_score": 0.8724712018836123,
+      "contest_score": -0.1901041946854823,
+      "contestedness": 0.06494324343115865,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
       "signal_count": 1,
       "signals": [
-        "Jay-Z rape accuser says her allegation was false"
+        "Republic of Ireland to wear black armbands for Israel game"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Jay-Z rape accuser says her allegation was false is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Jay-Z rape accuser says her allegation was false fade or reverse without spillover."
+      "prediction": "Momentum around Republic of Ireland to wear black armbands for Israel game is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Republic of Ireland to wear black armbands for Israel game fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Cautious mood persists amid mixed signals of progress and underlying tensions. Today's structural pattern reflects incremental positive developments overshadowed by contested governance and sovereignty dynamics.**\n\nThe most structurally significant signal today is Africa's richest man funding a $660 million fuel pipeline between Ethiopia and Djibouti. **This achievement-oriented and stability-seeking development underscores regional efforts to enhance infrastructure and economic connectivity**, potentially stabilizing Ethiopia's fragile post-conflict recovery. However, its categorization as \"background noise\" suggests limited immediate geopolitical ripple effects. The signal aligns with broader trends of African nations seeking self-reliance and economic integration, but its long-term success hinges on sustained political stability and operational execution.\n\nThe resumption of White House coverage by previously banned media outlets, following a judge's order, is another notable signal. **This governance-oriented move reflects a judicial check on executive overreach**, reinforcing institutional accountability in the U.S. political system. While the direction is positive, contestedness around the signal highlights lingering polarization in American governance. This development fits into a broader trajectory of judicial interventions shaping the balance of power, but its impact will depend on whether it fosters greater transparency or exacerbates partisan divides.\n\nItaly's decision to ban burqas and niqabs in schools and cap foreign students reflects sovereignty and governance-oriented priorities. **This signal underscores Europe's ongoing struggle to balance cultural integration with national identity concerns**, a contested issue across the continent. While the direction is positive in terms of policy clarity, the contestedness score reveals underlying tensions around inclusivity and expression. This signal is emblematic of broader European debates on migration and social cohesion, which remain critical flashpoints for political stability.\n\nContested signals, such as Macklemore's \"Free Palestine\" tour announcement, highlight the intersection of cultural expression and geopolitical advocacy. While the signal is categorized as positive, its high contest score suggests polarized reactions, particularly given the sensitive nature of the Israeli-Palestinian conflict. **This aligns with a broader trend of artists leveraging their platforms for political causes**, but the structural impact of such advocacy remains uncertain, especially in deeply entrenched conflicts.\n\nLooking ahead, **watch for concrete developments in Ethiopia-Djibouti pipeline implementation and potential judicial actions in the U.S. that could further recalibrate executive power dynamics**. Additionally, monitor Europe's evolving policies on migration and cultural integration, as these could signal broader shifts in governance priorities. Finally, the interplay between cultural expression and geopolitical advocacy warrants attention, particularly in how it shapes public discourse and policy debates.",
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a measured optimism across governance and care-oriented developments, tempered by ongoing environmental and geopolitical disruptions. The portfolio mood remains cautious, with limited contested signals and a focus on stability and resilience.\n\n---\n\n**1. Governance and care-oriented priorities dominate the structural landscape.** Brazil's decision to ban online gambling ahead of its presidential election underscores a governance-oriented move to address societal vulnerabilities and potentially reduce risks of manipulation during a politically sensitive period. Similarly, the Pope's praise for youth engagement during a massive gathering in Paris highlights a care-oriented narrative of community-building and intergenerational solidarity. Both signals suggest a broader trend of leadership emphasizing social cohesion and ethical governance as stabilizing forces.\n\n**2. Environmental disruptions remain a persistent undercurrent.** The Nor’easter flooding in New York and New Jersey, coupled with emergency declarations, signals the ongoing vulnerability of critical urban infrastructure to climate-related events. While the immediate response appears organized, the longer-term trajectory points to increasing strain on disaster management systems. This aligns with global patterns of heightened climate volatility, requiring sustained investment in resilience planning.\n\n**3. Contested narratives around sovereignty and stability persist.** South Africa’s new ambassador to the U.S. publicly refuting claims of \"white genocide\" reflects a governance-oriented effort to stabilize international perceptions and counter misinformation. While the signal is positive in direction, its contestedness highlights the enduring challenges of navigating polarized narratives in global diplomacy. Similarly, Ireland's decision to wear black armbands during a game with Israel signals a symbolic act of solidarity, but its contestedness suggests underlying tensions in how such gestures are interpreted across different audiences.\n\n---\n\n**Longer-term trajectories suggest a pivot toward governance and care-oriented stability.** Signals from Brazil, South Africa, and the Vatican collectively point to leadership efforts aimed at fostering trust, reducing divisive narratives, and reinforcing community resilience. However, environmental signals like the Nor’easter and Bangkok floods remind us that structural vulnerabilities remain acute, with climate adaptation emerging as a critical priority.\n\n---\n\n**What to watch for next:**  \n1. **Brazil's election dynamics** — Will the gambling ban shift public sentiment or reveal deeper governance challenges?  \n2. **Climate resilience measures** — Monitor follow-up actions in New York, New Jersey, and Bangkok for signs of systemic adaptation or strain.  \n3. **Symbolic diplomacy** — Track reactions to Ireland's black armband gesture and South Africa's narrative management for ripple effects in international relations.  \n\nThe cautious mood reflects a balance between positive governance signals and persistent systemic risks.",
   "noise_filtered": [
-    "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-    "Media outlets banned by Trump resume White House coverage after judge's order",
-    "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-    "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-    "Jay-Z rape accuser says her allegation was false",
-    "Xi got Trump's red carpet welcome - but not everything he wanted",
-    "Students strike across Germany in protest against military service",
-    "Pope warns against 'losing humanity' to AI machines",
-    "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-    "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    "Brazil's Lula bans online gambling ahead of presidential election",
+    "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+    "South African white genocide does not exist, new ambassador to US tells BBC",
+    "Nor'easter brings flooding as New York and New Jersey declare emergency",
+    "Republic of Ireland to wear black armbands for Israel game",
+    "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+    "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+    "OpenAI bots meddled with multiple US government agency sites",
+    "Bangkok roads submerged as flood disaster declared",
+    "British national among six dead in building explosion close to Acropolis in Athens",
+    "Tenth woman's body found as South Africa police probe killings",
+    "German town bans 'stumbling stone' memorials to Nazi victims",
+    "Security lapses at Utah campus where Charlie Kirk was killed, review says",
     "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-    "Senior Kazakh officials detained after 14 service members swept out to sea",
-    "Trump's plans for massive arch move ahead",
-    "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-    "Priest killed and four injured in knife attack at Polish abbey",
-    "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "Special agents' blood and urine test results stolen in FBI hack",
-    "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-    "Supreme Court allows Trump to use controversial database to check voter citizenship",
-    "Man shot during 2024 Trump campaign rally in Butler dies"
+    "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+    "Two arrested after people seen mysteriously emerging from various New York City sewers",
+    "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+    "US Supreme Court allows Trump to use controversial database to check voter citizenship",
+    "Mother of woman found hanging in tree shocked as police say body was staged",
+    "White House bars CNN from travelling with Trump on Air Force One"
   ],
   "matured_predictions": [
     {
-      "id": "18aa81150f9cec42",
-      "created_at": "2026-09-12",
-      "root_cause": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "prediction": "Momentum around Anthropic blocks possible attempt to use AI to make biological weapons is likely to compound if current conditions hold.",
+      "id": "1acb5c732cead59d",
+      "created_at": "2026-09-13",
+      "root_cause": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "prediction": "Momentum around Anthropic boss Dario Amodei calls for AI development to slow down is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "maturity_date": "2026-09-26",
-      "falsification": "Signals tied to Anthropic blocks possible attempt to use AI to make biological weapons fade or reverse without downstream spillover.",
+      "maturity_date": "2026-09-27",
+      "falsification": "Signals tied to Anthropic boss Dario Amodei calls for AI development to slow down fade or reverse without downstream spillover.",
       "severity": "high",
       "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no relevant signals were identified in the provided evidence to evaluate whether momentum around Anthropic's actions regarding AI and biological weapons has compounded, faded, or reversed. The fresh signals are unrelated to the prediction topic.",
-      "validated_at": "2026-09-25T23:13:06.933494+00:00",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to Anthropic boss Dario Amodei's call for AI development to slow down were identified in the provided evidence. The prediction cannot be validated, falsified, or partially validated based on the available data.",
+      "validated_at": "2026-09-26T22:37:10.317687+00:00",
       "evidence_used": [
-        "BBC World: Jay-Z rape accuser says her allegation was false",
-        "BBC World: Media outlets banned by Trump resume White House coverage after judge's order",
-        "BBC World: Supreme Court allows Trump to use controversial database to check voter citizenship",
-        "BBC World: US backs Elon Musk's bid to overturn €120m EU fine against X",
-        "BBC World: 'Make women feel seen': Why the Dutch have a new word for labia",
-        "Al Jazeera: US top court allows Trump to use controversial voter verification system",
-        "ABC Australia: Fremantle turns purple as Dockers attempt grand final history",
-        "ABC Australia: Why Sarah 4.0 needs no further upgrades following year of injury hell"
+        "BBC World articles provided, none of which mention Dario Amodei, Anthropic, or AI development slowdown momentum."
       ]
     }
   ],
@@ -1608,85 +1601,89 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+        "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+        "title": "Media outlets banned by Trump resume White House coverage after judge's order",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+        "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "title": "Jay-Z rape accuser says her allegation was false",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+        "title": "Students strike across Germany in protest against military service",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "title": "Pope warns against 'losing humanity' to AI machines",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "UK survivor of Canadian poison seller says he exploited her despair",
+        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Why India's Election Commission is in the eye of a storm - again",
+        "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+        "title": "Trump's plans for massive arch move ahead",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Priest killed and four injured in knife attack at Polish abbey",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+        "reason": "No longer in today's news feed — story left the RSS cycle"
+      },
+      {
+        "title": "Man shot during 2024 Trump campaign rally in Butler dies",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
-    "priority_score_changes": [
-      "Media outlets banned by Trump resume White House coverage after judge's order: 1.06 → 1.32",
-      "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class: 0.24 → 0.75",
-      "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout: -0.11 → 0.67",
-      "105-year-old investigated for crimes at Nazi PoW camp in Germany: -0.52 → -0.14"
-    ],
+    "priority_score_changes": [],
     "mood_shift": "",
-    "structural_shifts": [
-      "convergent_priority: 1 → 0",
-      "Priority score movement — Media outlets banned by Trump resume White House coverage after judge's order: 1.06 → 1.32",
-      "Priority score movement — Italy ministers agree to ban burqa and niqab in school and cap foreigners in class: 0.24 → 0.75",
-      "Priority score movement — Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout: -0.11 → 0.67",
-      "Priority score movement — 105-year-old investigated for crimes at Nazi PoW camp in Germany: -0.52 → -0.14"
-    ],
+    "structural_shifts": [],
     "continuing_priorities": [
-      "Media outlets banned by Trump resume White House coverage after judge's order",
-      "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "Priest killed and four injured in knife attack at Polish abbey",
-      "Netanyahu defends Israeli military action as delegates walk out before UN speech"
+      "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "US Supreme Court allows Trump to use controversial database to check voter citizenship"
     ],
-    "new_stories": 14,
-    "carried_stories": 6,
+    "new_stories": 19,
+    "carried_stories": 1,
     "total_stories": 20,
-    "summary": "13 priorities dropped: Trump's Board of Peace unveils $2.45bn Gaza recovery plan (No longer in today's news feed — story left the RSS cycle); Harvey Weinstein sentenced to 15 years in prison for sexual assault (No longer in today's news feed — story left the RSS cycle); Greek PM urges UK PM to return Elgin Marbles permanently (No longer in today's news feed — story left the RSS cycle); Why Australia chose the world's biggest political stage to reveal OpenAI hack (No longer in today's news feed — story left the RSS cycle); Rogue OpenAI agent 'infiltrated' Australian government website in world first (No longer in today's news feed — story left the RSS cycle); Teen rocker Nene Royal becomes first Thai to win America's Got Talent (No longer in today's news feed — story left the RSS cycle); Dolly Parton's manager accuses her nephew of 'threats and intimidation' (No longer in today's news feed — story left the RSS cycle); Iran's president tells Trump it will never 'bend the knee' (No longer in today's news feed — story left the RSS cycle); UK survivor of Canadian poison seller says he exploited her despair (No longer in today's news feed — story left the RSS cycle); Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat (No longer in today's news feed — story left the RSS cycle); Why India's Election Commission is in the eye of a storm - again (No longer in today's news feed — story left the RSS cycle); Ethiopia's army says it has repelled attacks in first comment on fresh fighting (No longer in today's news feed — story left the RSS cycle); Dramatic eviction of woman aged 87 highlights Spain's housing shortage (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Media outlets banned by Trump resume White House coverage after judge's order: 1.06 → 1.32; Italy ministers agree to ban burqa and niqab in school and cap foreigners in class: 0.24 → 0.75; Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout: -0.11 → 0.67; 105-year-old investigated for crimes at Nazi PoW camp in Germany: -0.52 → -0.14 · Structural shifts: convergent_priority: 1 → 0; Priority score movement — Media outlets banned by Trump resume White House coverage after judge's order: 1.06 → 1.32; Priority score movement — Italy ministers agree to ban burqa and niqab in school and cap foreigners in class: 0.24 → 0.75; Priority score movement — Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout: -0.11 → 0.67; Priority score movement — 105-year-old investigated for crimes at Nazi PoW camp in Germany: -0.52 → -0.14 · Signal freshness: 14 new, 6 carried, 20 total"
+    "summary": "18 priorities dropped: Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti (No longer in today's news feed — story left the RSS cycle); Media outlets banned by Trump resume White House coverage after judge's order (No longer in today's news feed — story left the RSS cycle); Italy ministers agree to ban burqa and niqab in school and cap foreigners in class (No longer in today's news feed — story left the RSS cycle); Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout (No longer in today's news feed — story left the RSS cycle); Jay-Z rape accuser says her allegation was false (No longer in today's news feed — story left the RSS cycle); Xi got Trump's red carpet welcome - but not everything he wanted (No longer in today's news feed — story left the RSS cycle); Students strike across Germany in protest against military service (No longer in today's news feed — story left the RSS cycle); Pope warns against 'losing humanity' to AI machines (No longer in today's news feed — story left the RSS cycle); 105-year-old investigated for crimes at Nazi PoW camp in Germany (No longer in today's news feed — story left the RSS cycle); US backs Elon Musk's bid to overturn €120m EU fine against X (No longer in today's news feed — story left the RSS cycle); Senior Kazakh officials detained after 14 service members swept out to sea (No longer in today's news feed — story left the RSS cycle); Trump's plans for massive arch move ahead (No longer in today's news feed — story left the RSS cycle); Four civilians killed in Pakistani strikes in Afghanistan, Taliban says (No longer in today's news feed — story left the RSS cycle); Priest killed and four injured in knife attack at Polish abbey (No longer in today's news feed — story left the RSS cycle); Netanyahu defends Israeli military action as delegates walk out before UN speech (No longer in today's news feed — story left the RSS cycle); Special agents' blood and urine test results stolen in FBI hack (No longer in today's news feed — story left the RSS cycle); Internet restricted after fighting breaks out in Ethiopia's Tigray region (No longer in today's news feed — story left the RSS cycle); Man shot during 2024 Trump campaign rally in Butler dies (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 19 new, 1 carried, 20 total"
   }
 }
