@@ -139,9 +139,13 @@
       "maturity_date": "2026-09-30",
       "falsification": "Signals tied to Data centres and pipelines up for grabs as Carney pitches Canada to investment giants fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction was falsified as the fresh signals indicate a significant trade conflict between the US and Canada, which undermines the momentum around data centres and pipelines investment. The US ban on Canadian goods, including alcohol and dairy, suggests a reversal of favorable conditions for investment, with potential downstream spillover effects.",
+      "validated_at": "2026-09-29T23:35:36.669838+00:00",
+      "evidence_used": [
+        "BBC World: US ban on Canadian alcohol and dairy takes effect as trade war drags on (https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss)",
+        "Al Jazeera: US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation (https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss)"
+      ]
     },
     {
       "id": "5c69ef0c63eb245d",
@@ -152,9 +156,19 @@
       "maturity_date": "2026-09-30",
       "falsification": "Signals tied to More than 100,000 people in Japan are now aged 100 or older fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no relevant signals were found in the provided evidence to assess whether the momentum around the population of centenarians in Japan has compounded, faded, or reversed. The fresh signals provided are unrelated to the prediction topic.",
+      "validated_at": "2026-09-29T23:35:38.587025+00:00",
+      "evidence_used": [
+        "BBC World: Fires and blockades as students stage school protests across France",
+        "ABC Australia: When are the Dally M Awards? Who is the favourite?",
+        "BBC World: South Africa to clean up high-risk areas after 12 women killed",
+        "BBC World: More than 400 detained as France student protests escalate",
+        "BBC World: Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+        "BBC World: Nigerian dances non-stop for seven days in world record bid",
+        "BBC World: Are Trump's US government funded ads illegal?",
+        "BBC World: How an alleged rape sent an Indian university into turmoil and emptied hostels"
+      ]
     },
     {
       "id": "1acb5c732cead59d",
@@ -2010,5 +2024,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-09-29T00:18:18.659272+00:00"
+  "last_updated": "2026-09-29T23:35:34.863570+00:00"
 }
