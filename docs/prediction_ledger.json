@@ -66,6 +66,19 @@
       "validated_at": null
     },
     {
+      "id": "ddb5265b91956a9a",
+      "created_at": "2026-10-05",
+      "root_cause": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "prediction": "Momentum around Ethiopian rebel forces withdraw from Tigray regional capital is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-10-19",
+      "falsification": "Signals tied to Ethiopian rebel forces withdraw from Tigray regional capital fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "88d893efcf35a973",
       "created_at": "2026-09-25",
       "root_cause": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
@@ -2033,5 +2046,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-03T22:48:06.082921+00:00"
+  "last_updated": "2026-10-04T22:57:28.564529+00:00"
 }
