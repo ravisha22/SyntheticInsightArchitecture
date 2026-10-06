@@ -113,9 +113,19 @@
       "maturity_date": "2026-10-07",
       "falsification": "Signals tied to Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to Lithuania's readiness to 'fight back' or evacuation plans in response to Russia threats were identified. The available signals pertain to unrelated geopolitical, sports, and human interest topics, indicating no momentum or downstream spillover tied to the original prediction.",
+      "validated_at": "2026-10-06T23:43:02.108061+00:00",
+      "evidence_used": [
+        "ABC Australia: De Minaur fights back to reach China Open semis",
+        "BBC World: Yemeni military says it has 'secured' Red Sea waterway",
+        "BBC World: Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+        "BBC World: Watch: How Russia responded to US after plague researcher death",
+        "Al Jazeera: British adventurer back in UK after 28-year trek on foot around the world",
+        "Al Jazeera: Russia denies imposing anti-plague measures after lab worker death",
+        "ABC Australia: Athletes drive to make table tennis a smash at national Special Olympics debut",
+        "ABC Australia: Yeo makes World Cup call, Walker earns Kangaroos spot"
+      ]
     },
     {
       "id": "b658986748540528",
@@ -2046,5 +2056,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-06T01:15:19.347949+00:00"
+  "last_updated": "2026-10-06T23:42:59.416008+00:00"
 }
