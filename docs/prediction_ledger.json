@@ -100,9 +100,19 @@
       "maturity_date": "2026-10-08",
       "falsification": "Signals tied to Huge data centres rise at 'China speed' to power its AI ambitions fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly validate or falsify the momentum around 'Huge data centres rise at China speed to power its AI ambitions.' The provided signals are unrelated to the prediction's subject matter.",
+      "validated_at": "2026-10-08T00:06:50.648853+00:00",
+      "evidence_used": [
+        "Al Jazeera: Inside SpaceX’s new look for AI data centres in orbit",
+        "ABC Australia: How a virulent series gave rise to Sandpapergate",
+        "ABC Australia: Gauff hits out at racist abuse after China Open incident",
+        "ABC Australia: Aussies dealt major injury blow ahead of first South Africa Test",
+        "ABC Australia: Demon faces Djokovic in China final after Medvedev disqualified",
+        "Al Jazeera: EU-China trade talks begin in Beijing amid escalating pressure",
+        "Al Jazeera: Israel’s deadline to close UK consulate in East Jerusalem nears",
+        "Al Jazeera: LSD – from counterculture to clinical trials"
+      ]
     },
     {
       "id": "3183b4f619a1d11d",
@@ -2056,5 +2066,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-06T23:42:59.416008+00:00"
+  "last_updated": "2026-10-08T00:06:48.024916+00:00"
 }
