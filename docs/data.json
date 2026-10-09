@@ -1,147 +1,147 @@
 {
-  "report_date": "2026-10-08",
-  "generated_at": "2026-10-08T00:06:50.664660+00:00",
+  "report_date": "2026-10-09",
+  "generated_at": "2026-10-09T00:14:12.604185+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "body": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:11:10 GMT"
+    },
+    {
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "body": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:35:57 GMT"
+    },
+    {
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "body": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:31:29 GMT"
+    },
+    {
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "body": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 15:02:32 GMT"
+    },
+    {
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "body": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 18:17:28 GMT"
+    },
+    {
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "body": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT"
+    },
+    {
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "body": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:33:23 GMT"
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "body": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 17:38:59 GMT"
+    },
+    {
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "body": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 17:16:32 GMT"
+    },
+    {
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "body": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 20:38:11 GMT"
+    },
+    {
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "body": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:04:25 GMT"
+    },
+    {
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "body": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:32:12 GMT"
+    },
+    {
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "body": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 11:31:22 GMT"
+    },
+    {
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "body": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:24:05 GMT"
+    },
+    {
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "body": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:11:31 GMT"
+    },
+    {
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "body": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:23:09 GMT"
+    },
+    {
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "body": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:10:58 GMT"
+    },
+    {
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "body": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 05:00:44 GMT"
+    },
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "body": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 15:21:46 GMT"
+    },
+    {
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "body": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 21:40:24 GMT"
-    },
-    {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "body": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 20:27:03 GMT"
-    },
-    {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "body": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 16:00:18 GMT"
-    },
-    {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "body": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 17:47:31 GMT"
-    },
-    {
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "body": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 19:30:51 GMT"
-    },
-    {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "body": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 18:27:40 GMT"
-    },
-    {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "body": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 18:12:58 GMT"
-    },
-    {
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "body": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 09:49:31 GMT"
-    },
-    {
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "body": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 20:29:31 GMT"
-    },
-    {
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "body": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:51:52 GMT"
-    },
-    {
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "body": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 12:46:39 GMT"
-    },
-    {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "body": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 12:09:59 GMT"
-    },
-    {
-      "title": "What is pneumonic plague and how does it spread?",
-      "body": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 15:35:22 GMT"
-    },
-    {
-      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
-      "body": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 10:01:47 GMT"
-    },
-    {
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "body": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 22:17:56 GMT"
-    },
-    {
-      "title": "The Republican candidates walking a Trump tightrope",
-      "body": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:00:21 GMT"
-    },
-    {
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "body": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 20:40:01 GMT"
-    },
-    {
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "body": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 18:42:58 GMT"
-    },
-    {
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "body": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 23:42:35 GMT"
-    },
-    {
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "body": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 21:22:22 GMT"
+      "published": "Thu, 08 Oct 2026 07:15:45 GMT"
     }
   ],
   "signals": [
@@ -149,1456 +149,1456 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "body": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "body": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 21:40:24 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:11:10 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "body": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "body": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 20:27:03 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:35:57 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "body": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "body": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 16:00:18 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:31:29 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "body": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "body": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 17:47:31 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 15:02:32 GMT"
     },
     {
       "number": 5,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "body": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "body": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 19:30:51 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 18:17:28 GMT"
     },
     {
       "number": 6,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "body": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "body": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 18:27:40 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT"
     },
     {
       "number": 7,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "body": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "body": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 18:12:58 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:33:23 GMT"
     },
     {
       "number": 8,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "body": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "body": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 09:49:31 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 17:38:59 GMT"
     },
     {
       "number": 9,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "body": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "body": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 20:29:31 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 17:16:32 GMT"
     },
     {
       "number": 10,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "body": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "body": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 11:51:52 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 20:38:11 GMT"
     },
     {
       "number": 11,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "body": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "body": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 12:46:39 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:04:25 GMT"
     },
     {
       "number": 12,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "body": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "body": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 12:09:59 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:32:12 GMT"
     },
     {
       "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "What is pneumonic plague and how does it spread?",
-      "body": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "body": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 15:35:22 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 11:31:22 GMT"
     },
     {
       "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
-      "body": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "body": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 10:01:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:24:05 GMT"
     },
     {
       "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "body": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "body": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 22:17:56 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:11:31 GMT"
     },
     {
       "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "The Republican candidates walking a Trump tightrope",
-      "body": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "body": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 05:00:21 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:23:09 GMT"
     },
     {
       "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "body": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "body": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 20:40:01 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:10:58 GMT"
     },
     {
       "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "body": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "body": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 18:42:58 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 05:00:44 GMT"
     },
     {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "body": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "body": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 23:42:35 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 15:21:46 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
-      "body": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
+      "body": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 21:22:22 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 07:15:45 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.9746514354405327,
-      "contest_score": -1.3989724012360423,
+      "priority_score": 4.038946058787699,
+      "contest_score": -0.308755409487635,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7436273619749094,
-      "contestedness": 0.02143373037481544,
-      "impact": 0.635,
+      "central_tendency": 1.0895953240584921,
+      "contestedness": 0.05758726916015022,
+      "impact": 0.53,
       "top_clusters": {
-        "care_oriented": 0.829017265567588,
-        "stability_seeking": 0.778573541044977
+        "stability_seeking": 1.1917095679432184,
+        "survival_focused": 1.1671904494761671
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6599329136984067
+        "expression_oriented": 0.9639103404395049
       },
       "cluster_means": {
-        "survival_focused": 0.7743337609665942,
-        "stability_seeking": 0.778573541044977,
-        "achievement_oriented": 0.6881300997599742,
-        "care_oriented": 0.829017265567588,
-        "knowledge_oriented": 0.7585989437215415,
-        "governance_oriented": 0.737165213346726,
-        "sovereignty_order_oriented": 0.6935143945889056,
-        "expression_oriented": 0.7733801250794716,
-        "ecosystem_oriented": 0.6599329136984067
+        "survival_focused": 1.1671904494761671,
+        "stability_seeking": 1.1917095679432184,
+        "achievement_oriented": 1.109603180316017,
+        "care_oriented": 1.1368806506154732,
+        "knowledge_oriented": 1.009458424753656,
+        "governance_oriented": 1.1607547525978144,
+        "sovereignty_order_oriented": 1.098342349496295,
+        "expression_oriented": 0.9639103404395049,
+        "ecosystem_oriented": 0.9685082008882835
       },
-      "priority_raw": 0.33054236239784723,
-      "contest_raw": 0.013610418788007806
+      "priority_raw": 0.5197369695759008,
+      "contest_raw": 0.030521252654879618
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "title": "Residents airlifted to safety after flooding in central Chile",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.5817755711290737,
-      "contest_score": -1.1526004456459686,
+      "priority_score": 0.9110783097976317,
+      "contest_score": 0.8282588782028957,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0570892729225823,
-      "contestedness": 0.03209002288723495,
-      "impact": 0.5650000000000001,
-      "top_clusters": {
-        "expression_oriented": 1.1489948295961276,
-        "knowledge_oriented": 1.1424857188597
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.9349171397172781
-      },
-      "cluster_means": {
-        "survival_focused": 0.9905940973738097,
-        "stability_seeking": 1.0431150743091337,
-        "achievement_oriented": 1.0835380726122414,
-        "care_oriented": 1.0514480497250065,
-        "knowledge_oriented": 1.1424857188597,
-        "governance_oriented": 1.0414066498689107,
-        "sovereignty_order_oriented": 0.9349171397172781,
-        "expression_oriented": 1.1489948295961276,
-        "ecosystem_oriented": 1.0773038242410333
-      },
-      "priority_raw": 0.2986277196006295,
-      "contest_raw": 0.018130862931287746
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "title": "What is pneumonic plague and how does it spread?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.6413093684153649,
-      "contest_score": 0.5679789853245348,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2582363545732079,
-      "contestedness": 0.06371812135596289,
+      "central_tendency": 0.3358589508507242,
+      "contestedness": 0.06236467324315431,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.4631239549252824,
-        "knowledge_oriented": 0.4185288115793039
+        "expression_oriented": 0.4302432381377555,
+        "knowledge_oriented": 0.4161057595363203
       },
       "bottom_clusters": {
-        "survival_focused": 0.12473983200019728
+        "survival_focused": 0.23180044686960655
       },
       "cluster_means": {
-        "survival_focused": 0.12473983200019728,
-        "stability_seeking": 0.18293985570642093,
-        "achievement_oriented": 0.3254196984116233,
-        "care_oriented": 0.17885554839009016,
-        "knowledge_oriented": 0.4185288115793039,
-        "governance_oriented": 0.18845795335616017,
-        "sovereignty_order_oriented": 0.15634549219667038,
-        "expression_oriented": 0.4631239549252824,
-        "ecosystem_oriented": 0.2857160445931224
+        "survival_focused": 0.23180044686960655,
+        "stability_seeking": 0.28351653834713764,
+        "achievement_oriented": 0.3093700202814831,
+        "care_oriented": 0.37444527918663334,
+        "knowledge_oriented": 0.4161057595363203,
+        "governance_oriented": 0.3618550054295136,
+        "sovereignty_order_oriented": 0.26951305827777594,
+        "expression_oriented": 0.4302432381377555,
+        "ecosystem_oriented": 0.34588121159029195
       },
-      "priority_raw": 0.14099704959697154,
-      "contest_raw": 0.04970013465765105
+      "priority_raw": 0.1833789871644954,
+      "contest_raw": 0.04864444512966037
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "title": "The Republican candidates walking a Trump tightrope",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.4447243917476606,
-      "contest_score": -0.3586810413049479,
+      "priority_score": 0.5238672285102889,
+      "contest_score": -1.7996559326792645,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3894946519392323,
-      "contestedness": 0.06111725836828563,
-      "impact": 0.535,
+      "central_tendency": 0.4804742587139646,
+      "contestedness": 0.011453164970386231,
+      "impact": 0.5900000000000001,
       "top_clusters": {
-        "achievement_oriented": 0.49994855981048103,
-        "expression_oriented": 0.4552873684073897
+        "expression_oriented": 0.5242499752818391,
+        "survival_focused": 0.5007944217457949
       },
       "bottom_clusters": {
-        "care_oriented": 0.300450331988779
+        "governance_oriented": 0.41835229125008044
       },
       "cluster_means": {
-        "survival_focused": 0.3802951849424465,
-        "stability_seeking": 0.4045783003372253,
-        "achievement_oriented": 0.49994855981048103,
-        "care_oriented": 0.300450331988779,
-        "knowledge_oriented": 0.4493372124242072,
-        "governance_oriented": 0.3191779265741609,
-        "sovereignty_order_oriented": 0.37421284685370376,
-        "expression_oriented": 0.4552873684073897,
-        "ecosystem_oriented": 0.32216413611469724
+        "survival_focused": 0.5007944217457949,
+        "stability_seeking": 0.49334839093160293,
+        "achievement_oriented": 0.48959858859430694,
+        "care_oriented": 0.4781454236239207,
+        "knowledge_oriented": 0.5000319169609859,
+        "governance_oriented": 0.41835229125008044,
+        "sovereignty_order_oriented": 0.45697176313515103,
+        "expression_oriented": 0.5242499752818391,
+        "ecosystem_oriented": 0.46277555690199984
       },
-      "priority_raw": 0.12502778327249356,
-      "contest_raw": 0.032697733227032816
+      "priority_raw": 0.14173990632061959,
+      "contest_raw": 0.006757367332527878
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.13649431068102114,
-      "contest_score": -1.4664867154061547,
+      "priority_score": -0.00409223652464777,
+      "contest_score": 1.1089307237420667,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.470537437011011,
-      "contestedness": 0.02910979529327873,
-      "impact": 0.42500000000000004,
+      "central_tendency": 0.2740816950139054,
+      "contestedness": 0.06853955238451748,
+      "impact": 0.775,
       "top_clusters": {
-        "care_oriented": 0.5456498671298503,
-        "stability_seeking": 0.5122972084841859
+        "expression_oriented": 0.4308885319310751,
+        "knowledge_oriented": 0.3766229136762404
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.41004011726150463
+        "governance_oriented": 0.15247684547021245
       },
       "cluster_means": {
-        "survival_focused": 0.4778759480961917,
-        "stability_seeking": 0.5122972084841859,
-        "achievement_oriented": 0.4304391326239081,
-        "care_oriented": 0.5456498671298503,
-        "knowledge_oriented": 0.4551123026769329,
-        "governance_oriented": 0.5076718022228441,
-        "sovereignty_order_oriented": 0.43620162668649454,
-        "expression_oriented": 0.4595489279171868,
-        "ecosystem_oriented": 0.41004011726150463
+        "survival_focused": 0.21702707283245187,
+        "stability_seeking": 0.20986690750720247,
+        "achievement_oriented": 0.3168462854169628,
+        "care_oriented": 0.22101639785472993,
+        "knowledge_oriented": 0.3766229136762404,
+        "governance_oriented": 0.15247684547021245,
+        "sovereignty_order_oriented": 0.2190964756006404,
+        "expression_oriented": 0.4308885319310751,
+        "ecosystem_oriented": 0.32289382483563256
       },
-      "priority_raw": 0.09998920536483984,
-      "contest_raw": 0.01237166299964346
+      "priority_raw": 0.08496532545431068,
+      "contest_raw": 0.053118153098001046
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.023384519203121637,
-      "contest_score": 1.209302217475021,
+      "priority_score": -0.004541426836682229,
+      "contest_score": 1.6799652608033964,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.21350111459368765,
-      "contestedness": 0.07541983222324436,
-      "impact": 0.8150000000000001,
+      "central_tendency": 0.22200528466120634,
+      "contestedness": 0.08133337800136464,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.42582121012989393,
-        "knowledge_oriented": 0.36835495564924964
+        "expression_oriented": 0.35843584030458964,
+        "knowledge_oriented": 0.3304907684028182
       },
       "bottom_clusters": {
-        "survival_focused": 0.08438488924262791
+        "survival_focused": 0.1176465975802965
       },
       "cluster_means": {
-        "survival_focused": 0.08438488924262791,
-        "stability_seeking": 0.11181530574743176,
-        "achievement_oriented": 0.25522769608205986,
-        "care_oriented": 0.15980472146587227,
-        "knowledge_oriented": 0.36835495564924964,
-        "governance_oriented": 0.1144258374359847,
-        "sovereignty_order_oriented": 0.11239191783996588,
-        "expression_oriented": 0.42582121012989393,
-        "ecosystem_oriented": 0.289283497750103
+        "survival_focused": 0.1176465975802965,
+        "stability_seeking": 0.13785005171537787,
+        "achievement_oriented": 0.23126068290104607,
+        "care_oriented": 0.24187961051118967,
+        "knowledge_oriented": 0.3304907684028182,
+        "governance_oriented": 0.18720188736695414,
+        "sovereignty_order_oriented": 0.14992730489968142,
+        "expression_oriented": 0.35843584030458964,
+        "ecosystem_oriented": 0.24335481826890393
       },
-      "priority_raw": 0.08700170419692772,
-      "contest_raw": 0.06146716326194416
+      "priority_raw": 0.08491702138291142,
+      "contest_raw": 0.06222003417104395
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.04404995699629957,
-      "contest_score": 1.6506412482146307,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.17448462248052538,
-      "contestedness": 0.08535567165925698,
-      "impact": 0.8150000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.38724775198489325,
-        "knowledge_oriented": 0.3241615130808158
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.024381770487512583
-      },
-      "cluster_means": {
-        "survival_focused": 0.024381770487512583,
-        "stability_seeking": 0.05940528068747927,
-        "achievement_oriented": 0.20423063781785278,
-        "care_oriented": 0.1188749661585958,
-        "knowledge_oriented": 0.3241615130808158,
-        "governance_oriented": 0.08914190625930815,
-        "sovereignty_order_oriented": 0.05919414951351265,
-        "expression_oriented": 0.38724775198489325,
-        "ecosystem_oriented": 0.23765466377545427
-      },
-      "priority_raw": 0.08532298039297691,
-      "contest_raw": 0.06956487240229445
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.1462324655053345,
-      "contest_score": 0.9699642317802386,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.1746538495698004,
-      "contestedness": 0.077654120716586,
-      "impact": 0.735,
-      "top_clusters": {
-        "expression_oriented": 0.3736863176614205,
-        "knowledge_oriented": 0.318159520612484
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.022212776866613743
-      },
-      "cluster_means": {
-        "survival_focused": 0.022212776866613743,
-        "stability_seeking": 0.09386941628040615,
-        "achievement_oriented": 0.21279391046163082,
-        "care_oriented": 0.1351397897450448,
-        "knowledge_oriented": 0.318159520612484,
-        "governance_oriented": 0.11112136264856426,
-        "sovereignty_order_oriented": 0.05008888377239637,
-        "expression_oriented": 0.3736863176614205,
-        "ecosystem_oriented": 0.21094152695938048
-      },
-      "priority_raw": 0.07702234766028197,
-      "contest_raw": 0.057075778726690715
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.2808920385736612,
-      "contest_score": -0.8888682601736142,
+      "priority_score": -0.021612097788563975,
+      "contest_score": -0.6628135837511371,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.33716067604601935,
-      "contestedness": 0.04687721098556513,
-      "impact": 0.49,
+      "central_tendency": 0.2792649140015173,
+      "contestedness": 0.041811460885245066,
+      "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.4048255001005049,
-        "care_oriented": 0.40223327710977635
+        "expression_oriented": 0.4012381123330899,
+        "knowledge_oriented": 0.37314093496606526
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2756278995498756
+        "survival_focused": 0.20644475861425374
       },
       "cluster_means": {
-        "survival_focused": 0.3019660653699653,
-        "stability_seeking": 0.3273186736389304,
-        "achievement_oriented": 0.2804414626533653,
-        "care_oriented": 0.40223327710977635,
-        "knowledge_oriented": 0.37556258234567297,
-        "governance_oriented": 0.34949721543022166,
-        "sovereignty_order_oriented": 0.2756278995498756,
-        "expression_oriented": 0.4048255001005049,
-        "ecosystem_oriented": 0.31697340821586156
+        "survival_focused": 0.20644475861425374,
+        "stability_seeking": 0.24874869136699607,
+        "achievement_oriented": 0.3047165281468279,
+        "care_oriented": 0.26290506726158286,
+        "knowledge_oriented": 0.37314093496606526,
+        "governance_oriented": 0.23084213251776534,
+        "sovereignty_order_oriented": 0.21226361854148296,
+        "expression_oriented": 0.4012381123330899,
+        "ecosystem_oriented": 0.2730843822655917
       },
-      "priority_raw": 0.0660834925050198,
-      "contest_raw": 0.022969833382926914
+      "priority_raw": 0.0830813119154514,
+      "contest_raw": 0.024877819226720815
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4164811592437747,
-      "contest_score": 1.0480325594981608,
+      "priority_score": -0.051041806967320705,
+      "contest_score": 0.7443920846927028,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.11192911999242823,
-      "contestedness": 0.07135143908335928,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.24682115878148475,
-        "knowledge_oriented": 0.1917618994091903
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.06471887224956913
-      },
-      "cluster_means": {
-        "survival_focused": -0.06471887224956913,
-        "stability_seeking": -0.028442875714265514,
-        "achievement_oriented": 0.042908563369093766,
-        "care_oriented": 0.09159007420785115,
-        "knowledge_oriented": 0.1917618994091903,
-        "governance_oriented": 0.022339917188774455,
-        "sovereignty_order_oriented": -0.02920959592715791,
-        "expression_oriented": 0.24682115878148475,
-        "ecosystem_oriented": 0.10758911387018014
-      },
-      "priority_raw": 0.05506912703627469,
-      "contest_raw": 0.05850818004835461
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4165874342102159,
-      "contest_score": 0.956964197287144,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.10578385006582895,
-      "contestedness": 0.06551844782350688,
-      "impact": 0.8674999999999999,
-      "top_clusters": {
-        "expression_oriented": 0.2473260346082308,
-        "knowledge_oriented": 0.17829344532395064
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.035914795502985764
-      },
-      "cluster_means": {
-        "survival_focused": -0.035914795502985764,
-        "stability_seeking": -0.014718165289165919,
-        "achievement_oriented": 0.05080028253434096,
-        "care_oriented": 0.05087048113659312,
-        "knowledge_oriented": 0.17829344532395064,
-        "governance_oriented": -0.0015016558356558407,
-        "sovereignty_order_oriented": 0.0036357914659344848,
-        "expression_oriented": 0.2473260346082308,
-        "ecosystem_oriented": 0.15531158660240485
-      },
-      "priority_raw": 0.05506049395926396,
-      "contest_raw": 0.05683725348689222
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4331858513011288,
-      "contest_score": 0.42957008874188074,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9166666666666666,
-      "central_tendency": 0.14615550498132962,
-      "contestedness": 0.06416408402911453,
-      "impact": 0.735,
-      "top_clusters": {
-        "expression_oriented": 0.3277055716657785,
-        "knowledge_oriented": 0.2739541819735366
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.03023533058804212
-      },
-      "cluster_means": {
-        "survival_focused": 0.03023533058804212,
-        "stability_seeking": 0.07446150975772628,
-        "achievement_oriented": 0.18858415699776082,
-        "care_oriented": 0.11195160506619306,
-        "knowledge_oriented": 0.2739541819735366,
-        "governance_oriented": 0.05901525647950723,
-        "sovereignty_order_oriented": 0.047787521037078534,
-        "expression_oriented": 0.3277055716657785,
-        "ecosystem_oriented": 0.1707551681811314
-      },
-      "priority_raw": 0.053712148080638636,
-      "contest_raw": 0.047160601761399176
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
-      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.48630460839169387,
-      "contest_score": 0.6417188088239327,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8333333333333334,
-      "central_tendency": 0.14745412167914299,
-      "contestedness": 0.076198681166915,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2385569030117053,
+      "contestedness": 0.0706084605611069,
       "impact": 0.67,
       "top_clusters": {
-        "expression_oriented": 0.35562122439910293,
-        "knowledge_oriented": 0.28269778467416534
+        "expression_oriented": 0.4111902033682414,
+        "knowledge_oriented": 0.3567006328260766
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.019161390581135834
+        "governance_oriented": 0.11578716321625798
       },
       "cluster_means": {
-        "survival_focused": 0.025854694437084796,
-        "stability_seeking": 0.06707752499579439,
-        "achievement_oriented": 0.13719550910565015,
-        "care_oriented": 0.1020533756039998,
-        "knowledge_oriented": 0.28269778467416534,
-        "governance_oriented": 0.04008936128747562,
-        "sovereignty_order_oriented": 0.019161390581135834,
-        "expression_oriented": 0.35562122439910293,
-        "ecosystem_oriented": 0.2081823217078297
+        "survival_focused": 0.17664235843318887,
+        "stability_seeking": 0.19704133435229818,
+        "achievement_oriented": 0.2971803323898786,
+        "care_oriented": 0.15745471275112669,
+        "knowledge_oriented": 0.3567006328260766,
+        "governance_oriented": 0.11578716321625798,
+        "sovereignty_order_oriented": 0.1673655948548745,
+        "expression_oriented": 0.4111902033682414,
+        "ecosystem_oriented": 0.26764979491340507
       },
-      "priority_raw": 0.049397130762512904,
-      "contest_raw": 0.051053116381833054
+      "priority_raw": 0.07991656250892128,
+      "contest_raw": 0.047307668575941625
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1600055618994482,
+      "contest_score": -0.7503301769219137,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.699477438225888,
+      "contestedness": 0.07225497687206361,
+      "impact": 0.32500000000000007,
+      "top_clusters": {
+        "knowledge_oriented": 0.8005791276349892,
+        "expression_oriented": 0.7947877300306968
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.5605500555869134
+      },
+      "cluster_means": {
+        "survival_focused": 0.5999148898969497,
+        "stability_seeking": 0.7069447418295461,
+        "achievement_oriented": 0.7225327531586332,
+        "care_oriented": 0.7407584008686605,
+        "knowledge_oriented": 0.8005791276349892,
+        "governance_oriented": 0.7331602971664867,
+        "sovereignty_order_oriented": 0.5605500555869134,
+        "expression_oriented": 0.7947877300306968,
+        "ecosystem_oriented": 0.6360689478601169
+      },
+      "priority_raw": 0.06819905022702409,
+      "contest_raw": 0.02348286748342068
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2195383967825094,
+      "contest_score": -0.4767688347491196,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.1337600324273126,
+      "contestedness": 0.04218672594928917,
+      "impact": 0.66,
+      "top_clusters": {
+        "expression_oriented": 0.27644203526648137,
+        "ecosystem_oriented": 0.21663151040841605
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.050766194732602354
+      },
+      "cluster_means": {
+        "survival_focused": 0.050766194732602354,
+        "stability_seeking": 0.056633242167181685,
+        "achievement_oriented": 0.09881996811647085,
+        "care_oriented": 0.1097180880898121,
+        "knowledge_oriented": 0.21407656247854406,
+        "governance_oriented": 0.07978197474037,
+        "sovereignty_order_oriented": 0.059875949976410825,
+        "expression_oriented": 0.27644203526648137,
+        "ecosystem_oriented": 0.21663151040841605
+      },
+      "priority_raw": 0.06179713498141842,
+      "contest_raw": 0.027843239126530854
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.24439209245874519,
+      "contest_score": -0.7906643614951246,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2433105809550576,
+      "contestedness": 0.056394986424841365,
+      "impact": 0.405,
+      "top_clusters": {
+        "expression_oriented": 0.35058715954438713,
+        "knowledge_oriented": 0.33275230963278046
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.1683703326593164
+      },
+      "cluster_means": {
+        "survival_focused": 0.17753965887308626,
+        "stability_seeking": 0.2545193958498302,
+        "achievement_oriented": 0.19601065804571643,
+        "care_oriented": 0.2524056444705578,
+        "knowledge_oriented": 0.33275230963278046,
+        "governance_oriented": 0.26062793165066184,
+        "sovereignty_order_oriented": 0.1683703326593164,
+        "expression_oriented": 0.35058715954438713,
+        "ecosystem_oriented": 0.19698213786918206
+      },
+      "priority_raw": 0.059124471172078995,
+      "contest_raw": 0.022839969502060756
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2984188194034089,
+      "contest_score": -0.4011044079119611,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.20990023637336402,
+      "contestedness": 0.045746891081586555,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.3425982286242716,
+        "knowledge_oriented": 0.3078629208984597
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.13017577657806859
+      },
+      "cluster_means": {
+        "survival_focused": 0.13017577657806859,
+        "stability_seeking": 0.15894331985681517,
+        "achievement_oriented": 0.2354923695390088,
+        "care_oriented": 0.1936086130889646,
+        "knowledge_oriented": 0.3078629208984597,
+        "governance_oriented": 0.14573773958042457,
+        "sovereignty_order_oriented": 0.14786172200737804,
+        "expression_oriented": 0.3425982286242716,
+        "ecosystem_oriented": 0.22682143718688502
+      },
+      "priority_raw": 0.05331466003883446,
+      "contest_raw": 0.029049275836807463
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.33355631717698836,
+      "contest_score": -0.25414972929691826,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.14898080786440052,
+      "contestedness": 0.04720545570424295,
+      "impact": 0.6649999999999999,
+      "top_clusters": {
+        "expression_oriented": 0.3034820526602466,
+        "knowledge_oriented": 0.2522984488278571
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.06312581320936257
+      },
+      "cluster_means": {
+        "survival_focused": 0.06312581320936257,
+        "stability_seeking": 0.08251711327091946,
+        "achievement_oriented": 0.1297225689751624,
+        "care_oriented": 0.17000097244477574,
+        "knowledge_oriented": 0.2522984488278571,
+        "governance_oriented": 0.10566103179049947,
+        "sovereignty_order_oriented": 0.06434754008185417,
+        "expression_oriented": 0.3034820526602466,
+        "ecosystem_oriented": 0.1652567817216264
+      },
+      "priority_raw": 0.049536118614913166,
+      "contest_raw": 0.03139162804332156
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.536041113440319,
-      "contest_score": 0.10267297800269587,
+      "priority_score": -0.39849679386170733,
+      "contest_score": -0.06594793708977821,
       "category": "background_noise",
       "polarity": 1,
+      "sign_agreement": 0.7222222222222222,
+      "central_tendency": 0.10981338812571272,
+      "contestedness": 0.04437603827762712,
+      "impact": 0.775,
+      "top_clusters": {
+        "expression_oriented": 0.25781140703098926,
+        "knowledge_oriented": 0.1819828885824568
+      },
+      "bottom_clusters": {
+        "achievement_oriented": -0.0035647215350942396
+      },
+      "cluster_means": {
+        "survival_focused": 0.0034531886388284305,
+        "stability_seeking": 0.016231278387487336,
+        "achievement_oriented": -0.0035647215350942396,
+        "care_oriented": 0.12020285287547508,
+        "knowledge_oriented": 0.1819828885824568,
+        "governance_oriented": 0.04081131674253288,
+        "sovereignty_order_oriented": 0.018914538811261455,
+        "expression_oriented": 0.25781140703098926,
+        "ecosystem_oriented": 0.1814724002301201
+      },
+      "priority_raw": 0.04255268789871368,
+      "contest_raw": 0.03439142966516102
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.44709964995296886,
+      "contest_score": 0.9167460225233987,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.13212792014610975,
+      "contestedness": 0.08859268453517674,
+      "impact": 0.565,
+      "top_clusters": {
+        "expression_oriented": 0.29048032974446264,
+        "knowledge_oriented": 0.22127409569881962
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.055714181513156824
+      },
+      "cluster_means": {
+        "survival_focused": -0.055714181513156824,
+        "stability_seeking": -0.011691619090720501,
+        "achievement_oriented": 0.06590183017680931,
+        "care_oriented": 0.06637549574488921,
+        "knowledge_oriented": 0.22127409569881962,
+        "governance_oriented": 0.02143621936148317,
+        "sovereignty_order_oriented": -0.05311895907712777,
+        "expression_oriented": 0.29048032974446264,
+        "ecosystem_oriented": 0.15449451471198605
+      },
+      "priority_raw": 0.037326137441276,
+      "contest_raw": 0.050054866762374854
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.46018243881939663,
+      "contest_score": 1.127057827353923,
+      "category": "background_noise",
+      "polarity": -1,
       "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.11629965456985321,
-      "contestedness": 0.0527726645026263,
-      "impact": 0.78,
+      "central_tendency": 0.09151405948248546,
+      "contestedness": 0.06803450462666799,
+      "impact": 0.785,
       "top_clusters": {
-        "expression_oriented": 0.2270729382605465,
-        "knowledge_oriented": 0.13442988147673351
+        "expression_oriented": 0.17865443208273377,
+        "knowledge_oriented": 0.12175172964164405
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": -0.09403378807186852
+        "survival_focused": -0.08003083357378771
       },
       "cluster_means": {
-        "survival_focused": -0.09034598605758243,
-        "stability_seeking": -0.07073301260199844,
-        "achievement_oriented": -0.06976005719808717,
-        "care_oriented": 0.07527248671766543,
-        "knowledge_oriented": 0.13442988147673351,
-        "governance_oriented": -0.04126112356924222,
-        "sovereignty_order_oriented": -0.09403378807186852,
-        "expression_oriented": 0.2270729382605465,
-        "ecosystem_oriented": 0.0940586502619056
+        "survival_focused": -0.08003083357378771,
+        "stability_seeking": -0.0688670431511321,
+        "achievement_oriented": 0.019892247303322397,
+        "care_oriented": -0.0008325385244641048,
+        "knowledge_oriented": 0.12175172964164405,
+        "governance_oriented": -0.05235224069897476,
+        "sovereignty_order_oriented": -0.03836353484619112,
+        "expression_oriented": 0.17865443208273377,
+        "ecosystem_oriented": 0.07658295253377104
       },
-      "priority_raw": 0.04535686528224275,
-      "contest_raw": 0.04116267831204851
+      "priority_raw": 0.035919268346875546,
+      "contest_raw": 0.05340708613193437
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5761354329671592,
-      "contest_score": 0.8703449134937578,
+      "priority_score": -0.4780912264842131,
+      "contest_score": 0.366282557784052,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.1514383716874558,
-      "contestedness": 0.07949346593373531,
-      "impact": 0.6950000000000001,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.09508652103156355,
+      "contestedness": 0.057735487877078134,
+      "impact": 0.715,
       "top_clusters": {
-        "expression_oriented": 0.356324232080587,
-        "knowledge_oriented": 0.29165190032923016
+        "expression_oriented": 0.21044978443648343,
+        "knowledge_oriented": 0.14117203377018475
       },
       "bottom_clusters": {
-        "survival_focused": 0.019556573627828228
+        "survival_focused": -0.06630572595930553
       },
       "cluster_means": {
-        "survival_focused": 0.019556573627828228,
-        "stability_seeking": 0.05921670113980507,
-        "achievement_oriented": 0.16840206509711378,
-        "care_oriented": 0.10793614294650718,
-        "knowledge_oriented": 0.29165190032923016,
-        "governance_oriented": 0.04632600809066026,
-        "sovereignty_order_oriented": 0.028442677012771866,
-        "expression_oriented": 0.356324232080587,
-        "ecosystem_oriented": 0.19970486936519638
+        "survival_focused": -0.06630572595930553,
+        "stability_seeking": -0.02318860267426312,
+        "achievement_oriented": -0.017335607746309323,
+        "care_oriented": 0.06643115123392734,
+        "knowledge_oriented": 0.14117203377018475,
+        "governance_oriented": 0.00869566335684921,
+        "sovereignty_order_oriented": -0.03813159000568825,
+        "expression_oriented": 0.21044978443648343,
+        "ecosystem_oriented": 0.10989250825550703
       },
-      "priority_raw": 0.04209986732911272,
-      "contest_raw": 0.05524795882394604
+      "priority_raw": 0.033993431268783965,
+      "contest_raw": 0.04128087383211086
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5829293327643005,
-      "contest_score": -1.2395118871172244,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.12943294622936422,
-      "contestedness": 0.030908799524538982,
-      "impact": 0.535,
-      "top_clusters": {
-        "expression_oriented": 0.27510819577654916,
-        "knowledge_oriented": 0.22729550750203567
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.040802503189381556
-      },
-      "cluster_means": {
-        "survival_focused": 0.07014554369314244,
-        "stability_seeking": 0.11426465084767051,
-        "achievement_oriented": 0.08755874913327719,
-        "care_oriented": 0.1551222403963523,
-        "knowledge_oriented": 0.22729550750203567,
-        "governance_oriented": 0.10105434321768142,
-        "sovereignty_order_oriented": 0.040802503189381556,
-        "expression_oriented": 0.27510819577654916,
-        "ecosystem_oriented": 0.08204225244248672
-      },
-      "priority_raw": 0.04154797573962591,
-      "contest_raw": 0.016536207745628355
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.6524094782497563,
-      "contest_score": 0.05014890953208601,
+      "priority_score": -0.4802277616743754,
+      "contest_score": 0.8098396035250969,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.7777777777777778,
-      "central_tendency": 0.11581892641964164,
-      "contestedness": 0.06483703911550447,
-      "impact": 0.6200000000000001,
+      "central_tendency": 0.13292786258435485,
+      "contestedness": 0.07614307889516651,
+      "impact": 0.635,
       "top_clusters": {
-        "expression_oriented": 0.23739510464496488,
-        "knowledge_oriented": 0.19648173620789564
+        "expression_oriented": 0.3092539521066228,
+        "knowledge_oriented": 0.2537299788890326
       },
       "bottom_clusters": {
-        "survival_focused": 0.006110260731145539
+        "survival_focused": 0.005892736277209279
       },
       "cluster_means": {
-        "survival_focused": 0.006110260731145539,
-        "stability_seeking": 0.014320822436112393,
-        "achievement_oriented": 0.1450954047182099,
-        "care_oriented": 0.08712717255411061,
-        "knowledge_oriented": 0.19648173620789564,
-        "governance_oriented": 0.049320279691121766,
-        "sovereignty_order_oriented": 0.030502672991551127,
-        "expression_oriented": 0.23739510464496488,
-        "ecosystem_oriented": 0.15196421166961507
+        "survival_focused": 0.005892736277209279,
+        "stability_seeking": 0.051399786774946096,
+        "achievement_oriented": 0.17294247215661618,
+        "care_oriented": 0.09679939326144966,
+        "knowledge_oriented": 0.2537299788890326,
+        "governance_oriented": 0.035955763779225616,
+        "sovereignty_order_oriented": 0.010266674259600511,
+        "expression_oriented": 0.3092539521066228,
+        "ecosystem_oriented": 0.14629310247698904
       },
-      "priority_raw": 0.035903867190088916,
-      "contest_raw": 0.040198964251612776
+      "priority_raw": 0.03376367709642613,
+      "contest_raw": 0.048350855098430734
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6703907902473095,
-      "contest_score": -1.3917485087465433,
+      "priority_score": -0.49685485367643273,
+      "contest_score": 0.9224684371658869,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.11502038948792534,
+      "contestedness": 0.07215263014193521,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.26827940636702297,
+        "knowledge_oriented": 0.19356179173171315
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": -0.05383733728213483
+      },
+      "cluster_means": {
+        "survival_focused": -0.048376509633011294,
+        "stability_seeking": -0.015916899544503954,
+        "achievement_oriented": 0.05162274986301535,
+        "care_oriented": 0.0644866661166956,
+        "knowledge_oriented": 0.19356179173171315,
+        "governance_oriented": -0.02052988027891986,
+        "sovereignty_order_oriented": -0.05383733728213483,
+        "expression_oriented": 0.26827940636702297,
+        "ecosystem_oriented": 0.10707340573700316
+      },
+      "priority_raw": 0.03197566827764325,
+      "contest_raw": 0.050146077948644965
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5815364062747383,
+      "contest_score": -0.7701508417767023,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.1159703166814105,
-      "contestedness": 0.02776356182759504,
-      "impact": 0.495,
+      "central_tendency": 0.43149742963777515,
+      "contestedness": 0.04371120810869006,
+      "impact": 0.53,
       "top_clusters": {
-        "expression_oriented": 0.20864131893099067,
-        "knowledge_oriented": 0.18301076979256864
+        "expression_oriented": 0.5546165885402656,
+        "knowledge_oriented": 0.5193391240423012
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.06498631548402081
+        "governance_oriented": 0.331550327439448
       },
       "cluster_means": {
-        "survival_focused": 0.09043751602283906,
-        "stability_seeking": 0.12392552205233037,
-        "achievement_oriented": 0.13840800311661544,
-        "care_oriented": 0.06855792955324935,
-        "knowledge_oriented": 0.18301076979256864,
-        "governance_oriented": 0.069603514955345,
-        "sovereignty_order_oriented": 0.09616196022473533,
-        "expression_oriented": 0.20864131893099067,
-        "ecosystem_oriented": 0.06498631548402081
+        "survival_focused": 0.421814793679466,
+        "stability_seeking": 0.3979983205899543,
+        "achievement_oriented": 0.421116101497348,
+        "care_oriented": 0.37567817604924203,
+        "knowledge_oriented": 0.5193391240423012,
+        "governance_oriented": 0.331550327439448,
+        "sovereignty_order_oriented": 0.39653612529591353,
+        "expression_oriented": 0.5546165885402656,
+        "ecosystem_oriented": 0.4648273096060381
       },
-      "priority_raw": 0.03444318405437892,
-      "contest_raw": 0.013742963104659545
+      "priority_raw": 0.022869363770802086,
+      "contest_raw": 0.023166940297605732
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "source": "",
       "url": "",
       "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.7114341036090811,
-      "contest_score": 0.4613188508420884,
+      "classifier_fallback": true,
+      "priority_score": -0.7942037105134743,
+      "contest_score": -2.2236001806338677,
       "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6388888888888888,
-      "central_tendency": 0.11190322339605269,
-      "contestedness": 0.06869515040379207,
-      "impact": 0.695,
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
       "top_clusters": {
-        "expression_oriented": 0.2576276652013436,
-        "knowledge_oriented": 0.1995445989555657
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
       },
       "bottom_clusters": {
-        "survival_focused": -0.042630920673672607
+        "achievement_oriented": 0.0
       },
       "cluster_means": {
-        "survival_focused": -0.042630920673672607,
-        "stability_seeking": 0.01170167905039532,
-        "achievement_oriented": 0.08039682945418739,
-        "care_oriented": 0.11260976189851972,
-        "knowledge_oriented": 0.1995445989555657,
-        "governance_oriented": 0.035748193962275965,
-        "sovereignty_order_oriented": -0.016698965596623982,
-        "expression_oriented": 0.2576276652013436,
-        "ecosystem_oriented": 0.12939308499801458
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
       },
-      "priority_raw": 0.031109096104102646,
-      "contest_raw": 0.04774312953063548
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.8024967927104979,
-      "contest_score": -1.061788729385673,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.12646274200085436,
-      "contestedness": 0.05279221477563878,
-      "impact": 0.375,
-      "top_clusters": {
-        "expression_oriented": 0.2716175981373664,
-        "knowledge_oriented": 0.22797835866251237
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.006445438776976328
-      },
-      "cluster_means": {
-        "survival_focused": 0.03768711189868092,
-        "stability_seeking": 0.12099843580765632,
-        "achievement_oriented": 0.07797184082620444,
-        "care_oriented": 0.16491431142737026,
-        "knowledge_oriented": 0.22797835866251237,
-        "governance_oriented": 0.11212209665173148,
-        "sovereignty_order_oriented": 0.006445438776976328,
-        "expression_oriented": 0.2716175981373664,
-        "ecosystem_oriented": 0.10105065286279241
-      },
-      "priority_raw": 0.02371176412516019,
-      "contest_raw": 0.019797080540864542
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.9746514354405327,
-      "contest_score": -1.3989724012360423,
+      "priority_score": 4.038946058787699,
+      "contest_score": -0.308755409487635,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7436273619749094,
-      "contestedness": 0.02143373037481544,
-      "impact": 0.635,
+      "central_tendency": 1.0895953240584921,
+      "contestedness": 0.05758726916015022,
+      "impact": 0.53,
       "top_clusters": {
-        "care_oriented": 0.829017265567588,
-        "stability_seeking": 0.778573541044977
+        "stability_seeking": 1.1917095679432184,
+        "survival_focused": 1.1671904494761671
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6599329136984067
+        "expression_oriented": 0.9639103404395049
       },
       "cluster_means": {
-        "survival_focused": 0.7743337609665942,
-        "stability_seeking": 0.778573541044977,
-        "achievement_oriented": 0.6881300997599742,
-        "care_oriented": 0.829017265567588,
-        "knowledge_oriented": 0.7585989437215415,
-        "governance_oriented": 0.737165213346726,
-        "sovereignty_order_oriented": 0.6935143945889056,
-        "expression_oriented": 0.7733801250794716,
-        "ecosystem_oriented": 0.6599329136984067
+        "survival_focused": 1.1671904494761671,
+        "stability_seeking": 1.1917095679432184,
+        "achievement_oriented": 1.109603180316017,
+        "care_oriented": 1.1368806506154732,
+        "knowledge_oriented": 1.009458424753656,
+        "governance_oriented": 1.1607547525978144,
+        "sovereignty_order_oriented": 1.098342349496295,
+        "expression_oriented": 0.9639103404395049,
+        "ecosystem_oriented": 0.9685082008882835
       },
-      "priority_raw": 0.33054236239784723,
-      "contest_raw": 0.013610418788007806
+      "priority_raw": 0.5197369695759008,
+      "contest_raw": 0.030521252654879618
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "title": "Residents airlifted to safety after flooding in central Chile",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.5817755711290737,
-      "contest_score": -1.1526004456459686,
+      "priority_score": 0.9110783097976317,
+      "contest_score": 0.8282588782028957,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0570892729225823,
-      "contestedness": 0.03209002288723495,
-      "impact": 0.5650000000000001,
-      "top_clusters": {
-        "expression_oriented": 1.1489948295961276,
-        "knowledge_oriented": 1.1424857188597
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.9349171397172781
-      },
-      "cluster_means": {
-        "survival_focused": 0.9905940973738097,
-        "stability_seeking": 1.0431150743091337,
-        "achievement_oriented": 1.0835380726122414,
-        "care_oriented": 1.0514480497250065,
-        "knowledge_oriented": 1.1424857188597,
-        "governance_oriented": 1.0414066498689107,
-        "sovereignty_order_oriented": 0.9349171397172781,
-        "expression_oriented": 1.1489948295961276,
-        "ecosystem_oriented": 1.0773038242410333
-      },
-      "priority_raw": 0.2986277196006295,
-      "contest_raw": 0.018130862931287746
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "title": "What is pneumonic plague and how does it spread?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.6413093684153649,
-      "contest_score": 0.5679789853245348,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2582363545732079,
-      "contestedness": 0.06371812135596289,
+      "central_tendency": 0.3358589508507242,
+      "contestedness": 0.06236467324315431,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.4631239549252824,
-        "knowledge_oriented": 0.4185288115793039
+        "expression_oriented": 0.4302432381377555,
+        "knowledge_oriented": 0.4161057595363203
       },
       "bottom_clusters": {
-        "survival_focused": 0.12473983200019728
+        "survival_focused": 0.23180044686960655
       },
       "cluster_means": {
-        "survival_focused": 0.12473983200019728,
-        "stability_seeking": 0.18293985570642093,
-        "achievement_oriented": 0.3254196984116233,
-        "care_oriented": 0.17885554839009016,
-        "knowledge_oriented": 0.4185288115793039,
-        "governance_oriented": 0.18845795335616017,
-        "sovereignty_order_oriented": 0.15634549219667038,
-        "expression_oriented": 0.4631239549252824,
-        "ecosystem_oriented": 0.2857160445931224
+        "survival_focused": 0.23180044686960655,
+        "stability_seeking": 0.28351653834713764,
+        "achievement_oriented": 0.3093700202814831,
+        "care_oriented": 0.37444527918663334,
+        "knowledge_oriented": 0.4161057595363203,
+        "governance_oriented": 0.3618550054295136,
+        "sovereignty_order_oriented": 0.26951305827777594,
+        "expression_oriented": 0.4302432381377555,
+        "ecosystem_oriented": 0.34588121159029195
       },
-      "priority_raw": 0.14099704959697154,
-      "contest_raw": 0.04970013465765105
+      "priority_raw": 0.1833789871644954,
+      "contest_raw": 0.04864444512966037
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "title": "The Republican candidates walking a Trump tightrope",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.4447243917476606,
-      "contest_score": -0.3586810413049479,
+      "priority_score": 0.5238672285102889,
+      "contest_score": -1.7996559326792645,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3894946519392323,
-      "contestedness": 0.06111725836828563,
-      "impact": 0.535,
+      "central_tendency": 0.4804742587139646,
+      "contestedness": 0.011453164970386231,
+      "impact": 0.5900000000000001,
       "top_clusters": {
-        "achievement_oriented": 0.49994855981048103,
-        "expression_oriented": 0.4552873684073897
+        "expression_oriented": 0.5242499752818391,
+        "survival_focused": 0.5007944217457949
       },
       "bottom_clusters": {
-        "care_oriented": 0.300450331988779
+        "governance_oriented": 0.41835229125008044
       },
       "cluster_means": {
-        "survival_focused": 0.3802951849424465,
-        "stability_seeking": 0.4045783003372253,
-        "achievement_oriented": 0.49994855981048103,
-        "care_oriented": 0.300450331988779,
-        "knowledge_oriented": 0.4493372124242072,
-        "governance_oriented": 0.3191779265741609,
-        "sovereignty_order_oriented": 0.37421284685370376,
-        "expression_oriented": 0.4552873684073897,
-        "ecosystem_oriented": 0.32216413611469724
+        "survival_focused": 0.5007944217457949,
+        "stability_seeking": 0.49334839093160293,
+        "achievement_oriented": 0.48959858859430694,
+        "care_oriented": 0.4781454236239207,
+        "knowledge_oriented": 0.5000319169609859,
+        "governance_oriented": 0.41835229125008044,
+        "sovereignty_order_oriented": 0.45697176313515103,
+        "expression_oriented": 0.5242499752818391,
+        "ecosystem_oriented": 0.46277555690199984
       },
-      "priority_raw": 0.12502778327249356,
-      "contest_raw": 0.032697733227032816
+      "priority_raw": 0.14173990632061959,
+      "contest_raw": 0.006757367332527878
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.13649431068102114,
-      "contest_score": -1.4664867154061547,
+      "priority_score": -0.00409223652464777,
+      "contest_score": 1.1089307237420667,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.470537437011011,
-      "contestedness": 0.02910979529327873,
-      "impact": 0.42500000000000004,
+      "central_tendency": 0.2740816950139054,
+      "contestedness": 0.06853955238451748,
+      "impact": 0.775,
       "top_clusters": {
-        "care_oriented": 0.5456498671298503,
-        "stability_seeking": 0.5122972084841859
+        "expression_oriented": 0.4308885319310751,
+        "knowledge_oriented": 0.3766229136762404
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.41004011726150463
+        "governance_oriented": 0.15247684547021245
       },
       "cluster_means": {
-        "survival_focused": 0.4778759480961917,
-        "stability_seeking": 0.5122972084841859,
-        "achievement_oriented": 0.4304391326239081,
-        "care_oriented": 0.5456498671298503,
-        "knowledge_oriented": 0.4551123026769329,
-        "governance_oriented": 0.5076718022228441,
-        "sovereignty_order_oriented": 0.43620162668649454,
-        "expression_oriented": 0.4595489279171868,
-        "ecosystem_oriented": 0.41004011726150463
+        "survival_focused": 0.21702707283245187,
+        "stability_seeking": 0.20986690750720247,
+        "achievement_oriented": 0.3168462854169628,
+        "care_oriented": 0.22101639785472993,
+        "knowledge_oriented": 0.3766229136762404,
+        "governance_oriented": 0.15247684547021245,
+        "sovereignty_order_oriented": 0.2190964756006404,
+        "expression_oriented": 0.4308885319310751,
+        "ecosystem_oriented": 0.32289382483563256
       },
-      "priority_raw": 0.09998920536483984,
-      "contest_raw": 0.01237166299964346
+      "priority_raw": 0.08496532545431068,
+      "contest_raw": 0.053118153098001046
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.023384519203121637,
-      "contest_score": 1.209302217475021,
+      "priority_score": -0.004541426836682229,
+      "contest_score": 1.6799652608033964,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.21350111459368765,
-      "contestedness": 0.07541983222324436,
-      "impact": 0.8150000000000001,
+      "central_tendency": 0.22200528466120634,
+      "contestedness": 0.08133337800136464,
+      "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.42582121012989393,
-        "knowledge_oriented": 0.36835495564924964
+        "expression_oriented": 0.35843584030458964,
+        "knowledge_oriented": 0.3304907684028182
       },
       "bottom_clusters": {
-        "survival_focused": 0.08438488924262791
+        "survival_focused": 0.1176465975802965
       },
       "cluster_means": {
-        "survival_focused": 0.08438488924262791,
-        "stability_seeking": 0.11181530574743176,
-        "achievement_oriented": 0.25522769608205986,
-        "care_oriented": 0.15980472146587227,
-        "knowledge_oriented": 0.36835495564924964,
-        "governance_oriented": 0.1144258374359847,
-        "sovereignty_order_oriented": 0.11239191783996588,
-        "expression_oriented": 0.42582121012989393,
-        "ecosystem_oriented": 0.289283497750103
+        "survival_focused": 0.1176465975802965,
+        "stability_seeking": 0.13785005171537787,
+        "achievement_oriented": 0.23126068290104607,
+        "care_oriented": 0.24187961051118967,
+        "knowledge_oriented": 0.3304907684028182,
+        "governance_oriented": 0.18720188736695414,
+        "sovereignty_order_oriented": 0.14992730489968142,
+        "expression_oriented": 0.35843584030458964,
+        "ecosystem_oriented": 0.24335481826890393
       },
-      "priority_raw": 0.08700170419692772,
-      "contest_raw": 0.06146716326194416
+      "priority_raw": 0.08491702138291142,
+      "contest_raw": 0.06222003417104395
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.04404995699629957,
-      "contest_score": 1.6506412482146307,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.17448462248052538,
-      "contestedness": 0.08535567165925698,
-      "impact": 0.8150000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.38724775198489325,
-        "knowledge_oriented": 0.3241615130808158
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.024381770487512583
-      },
-      "cluster_means": {
-        "survival_focused": 0.024381770487512583,
-        "stability_seeking": 0.05940528068747927,
-        "achievement_oriented": 0.20423063781785278,
-        "care_oriented": 0.1188749661585958,
-        "knowledge_oriented": 0.3241615130808158,
-        "governance_oriented": 0.08914190625930815,
-        "sovereignty_order_oriented": 0.05919414951351265,
-        "expression_oriented": 0.38724775198489325,
-        "ecosystem_oriented": 0.23765466377545427
-      },
-      "priority_raw": 0.08532298039297691,
-      "contest_raw": 0.06956487240229445
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.1462324655053345,
-      "contest_score": 0.9699642317802386,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.1746538495698004,
-      "contestedness": 0.077654120716586,
-      "impact": 0.735,
-      "top_clusters": {
-        "expression_oriented": 0.3736863176614205,
-        "knowledge_oriented": 0.318159520612484
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.022212776866613743
-      },
-      "cluster_means": {
-        "survival_focused": 0.022212776866613743,
-        "stability_seeking": 0.09386941628040615,
-        "achievement_oriented": 0.21279391046163082,
-        "care_oriented": 0.1351397897450448,
-        "knowledge_oriented": 0.318159520612484,
-        "governance_oriented": 0.11112136264856426,
-        "sovereignty_order_oriented": 0.05008888377239637,
-        "expression_oriented": 0.3736863176614205,
-        "ecosystem_oriented": 0.21094152695938048
-      },
-      "priority_raw": 0.07702234766028197,
-      "contest_raw": 0.057075778726690715
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.2808920385736612,
-      "contest_score": -0.8888682601736142,
+      "priority_score": -0.021612097788563975,
+      "contest_score": -0.6628135837511371,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.33716067604601935,
-      "contestedness": 0.04687721098556513,
-      "impact": 0.49,
+      "central_tendency": 0.2792649140015173,
+      "contestedness": 0.041811460885245066,
+      "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.4048255001005049,
-        "care_oriented": 0.40223327710977635
+        "expression_oriented": 0.4012381123330899,
+        "knowledge_oriented": 0.37314093496606526
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.2756278995498756
+        "survival_focused": 0.20644475861425374
       },
       "cluster_means": {
-        "survival_focused": 0.3019660653699653,
-        "stability_seeking": 0.3273186736389304,
-        "achievement_oriented": 0.2804414626533653,
-        "care_oriented": 0.40223327710977635,
-        "knowledge_oriented": 0.37556258234567297,
-        "governance_oriented": 0.34949721543022166,
-        "sovereignty_order_oriented": 0.2756278995498756,
-        "expression_oriented": 0.4048255001005049,
-        "ecosystem_oriented": 0.31697340821586156
+        "survival_focused": 0.20644475861425374,
+        "stability_seeking": 0.24874869136699607,
+        "achievement_oriented": 0.3047165281468279,
+        "care_oriented": 0.26290506726158286,
+        "knowledge_oriented": 0.37314093496606526,
+        "governance_oriented": 0.23084213251776534,
+        "sovereignty_order_oriented": 0.21226361854148296,
+        "expression_oriented": 0.4012381123330899,
+        "ecosystem_oriented": 0.2730843822655917
       },
-      "priority_raw": 0.0660834925050198,
-      "contest_raw": 0.022969833382926914
+      "priority_raw": 0.0830813119154514,
+      "contest_raw": 0.024877819226720815
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.4164811592437747,
-      "contest_score": 1.0480325594981608,
+      "priority_score": -0.051041806967320705,
+      "contest_score": 0.7443920846927028,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.11192911999242823,
-      "contestedness": 0.07135143908335928,
-      "impact": 0.8200000000000001,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2385569030117053,
+      "contestedness": 0.0706084605611069,
+      "impact": 0.67,
       "top_clusters": {
-        "expression_oriented": 0.24682115878148475,
-        "knowledge_oriented": 0.1917618994091903
+        "expression_oriented": 0.4111902033682414,
+        "knowledge_oriented": 0.3567006328260766
       },
       "bottom_clusters": {
-        "survival_focused": -0.06471887224956913
+        "governance_oriented": 0.11578716321625798
       },
       "cluster_means": {
-        "survival_focused": -0.06471887224956913,
-        "stability_seeking": -0.028442875714265514,
-        "achievement_oriented": 0.042908563369093766,
-        "care_oriented": 0.09159007420785115,
-        "knowledge_oriented": 0.1917618994091903,
-        "governance_oriented": 0.022339917188774455,
-        "sovereignty_order_oriented": -0.02920959592715791,
-        "expression_oriented": 0.24682115878148475,
-        "ecosystem_oriented": 0.10758911387018014
+        "survival_focused": 0.17664235843318887,
+        "stability_seeking": 0.19704133435229818,
+        "achievement_oriented": 0.2971803323898786,
+        "care_oriented": 0.15745471275112669,
+        "knowledge_oriented": 0.3567006328260766,
+        "governance_oriented": 0.11578716321625798,
+        "sovereignty_order_oriented": 0.1673655948548745,
+        "expression_oriented": 0.4111902033682414,
+        "ecosystem_oriented": 0.26764979491340507
       },
-      "priority_raw": 0.05506912703627469,
-      "contest_raw": 0.05850818004835461
+      "priority_raw": 0.07991656250892128,
+      "contest_raw": 0.047307668575941625
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.1600055618994482,
+      "contest_score": -0.7503301769219137,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.699477438225888,
+      "contestedness": 0.07225497687206361,
+      "impact": 0.32500000000000007,
+      "top_clusters": {
+        "knowledge_oriented": 0.8005791276349892,
+        "expression_oriented": 0.7947877300306968
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.5605500555869134
+      },
+      "cluster_means": {
+        "survival_focused": 0.5999148898969497,
+        "stability_seeking": 0.7069447418295461,
+        "achievement_oriented": 0.7225327531586332,
+        "care_oriented": 0.7407584008686605,
+        "knowledge_oriented": 0.8005791276349892,
+        "governance_oriented": 0.7331602971664867,
+        "sovereignty_order_oriented": 0.5605500555869134,
+        "expression_oriented": 0.7947877300306968,
+        "ecosystem_oriented": 0.6360689478601169
+      },
+      "priority_raw": 0.06819905022702409,
+      "contest_raw": 0.02348286748342068
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.2195383967825094,
+      "contest_score": -0.4767688347491196,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.1337600324273126,
+      "contestedness": 0.04218672594928917,
+      "impact": 0.66,
+      "top_clusters": {
+        "expression_oriented": 0.27644203526648137,
+        "ecosystem_oriented": 0.21663151040841605
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.050766194732602354
+      },
+      "cluster_means": {
+        "survival_focused": 0.050766194732602354,
+        "stability_seeking": 0.056633242167181685,
+        "achievement_oriented": 0.09881996811647085,
+        "care_oriented": 0.1097180880898121,
+        "knowledge_oriented": 0.21407656247854406,
+        "governance_oriented": 0.07978197474037,
+        "sovereignty_order_oriented": 0.059875949976410825,
+        "expression_oriented": 0.27644203526648137,
+        "ecosystem_oriented": 0.21663151040841605
+      },
+      "priority_raw": 0.06179713498141842,
+      "contest_raw": 0.027843239126530854
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.24439209245874519,
+      "contest_score": -0.7906643614951246,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2433105809550576,
+      "contestedness": 0.056394986424841365,
+      "impact": 0.405,
+      "top_clusters": {
+        "expression_oriented": 0.35058715954438713,
+        "knowledge_oriented": 0.33275230963278046
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.1683703326593164
+      },
+      "cluster_means": {
+        "survival_focused": 0.17753965887308626,
+        "stability_seeking": 0.2545193958498302,
+        "achievement_oriented": 0.19601065804571643,
+        "care_oriented": 0.2524056444705578,
+        "knowledge_oriented": 0.33275230963278046,
+        "governance_oriented": 0.26062793165066184,
+        "sovereignty_order_oriented": 0.1683703326593164,
+        "expression_oriented": 0.35058715954438713,
+        "ecosystem_oriented": 0.19698213786918206
+      },
+      "priority_raw": 0.059124471172078995,
+      "contest_raw": 0.022839969502060756
     }
   ],
   "mood": {
-    "score": 0.030802860787346672,
+    "score": 0.01882567747064683,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "name": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "root_cause": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "target": "Zambia signs US health deal after disputes over data-sharing",
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "name": "Zambia signs US health deal after disputes over data-sharing",
+      "root_cause": "Zambia signs US health deal after disputes over data-sharing",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.9746514354405327,
-      "contest_score": -1.3989724012360423,
-      "contestedness": 0.02143373037481544,
+      "priority_score": 4.038946058787699,
+      "contest_score": -0.308755409487635,
+      "contestedness": 0.05758726916015022,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
       "signal_count": 1,
       "signals": [
-        "France halts use of stun grenades after boy's hand blown off in student protests"
+        "Zambia signs US health deal after disputes over data-sharing"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around France halts use of stun grenades after boy's hand blown off in student protests is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to France halts use of stun grenades after boy's hand blown off in student protests fade or reverse without spillover."
+      "prediction": "Momentum around Zambia signs US health deal after disputes over data-sharing is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Zambia signs US health deal after disputes over data-sharing fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "name": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "root_cause": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "target": "Residents airlifted to safety after flooding in central Chile",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "name": "Residents airlifted to safety after flooding in central Chile",
+      "root_cause": "Residents airlifted to safety after flooding in central Chile",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.5817755711290737,
-      "contest_score": -1.1526004456459686,
-      "contestedness": 0.03209002288723495,
+      "priority_score": 0.9110783097976317,
+      "contest_score": 0.8282588782028957,
+      "contestedness": 0.06236467324315431,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Chemistry Nobel awarded for solving mystery of life's asymmetry"
+        "Residents airlifted to safety after flooding in central Chile"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Chemistry Nobel awarded for solving mystery of life's asymmetry is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Chemistry Nobel awarded for solving mystery of life's asymmetry fade or reverse without spillover."
+      "prediction": "Momentum around Residents airlifted to safety after flooding in central Chile is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Residents airlifted to safety after flooding in central Chile fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "What is pneumonic plague and how does it spread?",
-      "title": "What is pneumonic plague and how does it spread?",
-      "name": "What is pneumonic plague and how does it spread?",
-      "root_cause": "What is pneumonic plague and how does it spread?",
+      "target": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "name": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "root_cause": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.6413093684153649,
-      "contest_score": 0.5679789853245348,
-      "contestedness": 0.06371812135596289,
+      "priority_score": 0.5238672285102889,
+      "contest_score": -1.7996559326792645,
+      "contestedness": 0.011453164970386231,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, survival_focused.",
+      "signal_count": 1,
+      "signals": [
+        "Italy approves elections overhaul as opposition accuse Meloni of 'scam'"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Italy approves elections overhaul as opposition accuse Meloni of 'scam' is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Italy approves elections overhaul as opposition accuse Meloni of 'scam' fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "name": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "root_cause": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": -0.00409223652464777,
+      "contest_score": 1.1089307237420667,
+      "contestedness": 0.06853955238451748,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "What is pneumonic plague and how does it spread?"
+        "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around What is pneumonic plague and how does it spread? is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to What is pneumonic plague and how does it spread? fade or reverse without spillover."
+      "prediction": "Momentum around Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "The Republican candidates walking a Trump tightrope",
-      "title": "The Republican candidates walking a Trump tightrope",
-      "name": "The Republican candidates walking a Trump tightrope",
-      "root_cause": "The Republican candidates walking a Trump tightrope",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.4447243917476606,
-      "contest_score": -0.3586810413049479,
-      "contestedness": 0.06111725836828563,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, expression_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "The Republican candidates walking a Trump tightrope"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around The Republican candidates walking a Trump tightrope is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to The Republican candidates walking a Trump tightrope fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "name": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "root_cause": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "target": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "name": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "root_cause": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.13649431068102114,
-      "contest_score": -1.4664867154061547,
-      "contestedness": 0.02910979529327873,
+      "priority_score": -0.004541426836682229,
+      "contest_score": 1.6799652608033964,
+      "contestedness": 0.08133337800136464,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Canada suspends plans to expand assisted dying to people with mental illness"
+        "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Canada suspends plans to expand assisted dying to people with mental illness is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Canada suspends plans to expand assisted dying to people with mental illness fade or reverse without spillover."
+      "prediction": "Momentum around Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals suggest a structural pattern of restrained optimism amid a backdrop of contested social and political dynamics. While several developments point toward incremental progress or stability, underlying tensions and unresolved systemic issues temper the outlook.\n\n**1. Structural Significance of Top Signals**  \nThe decision by France to halt the use of stun grenades following a tragic injury during student protests reflects a care-oriented and stability-seeking shift. This move signals institutional responsiveness to public outcry, aligning with broader trends of governments recalibrating crowd control measures in response to societal pressure. However, the contestedness of this signal highlights lingering questions about whether this action adequately addresses deeper systemic concerns around protest management.\n\nThe awarding of the Chemistry Nobel for solving the mystery of life's asymmetry underscores the enduring importance of knowledge-oriented achievements in advancing human understanding. This signal, while categorized as background noise, reflects a broader trajectory of scientific progress driving optimism in long-term innovation ecosystems. The absence of significant contestedness here suggests a strong consensus around the positive implications of such breakthroughs.\n\n**2. Contested Signals and Underlying Tensions**  \nCanada's suspension of plans to expand assisted dying to individuals with mental illness reveals a care-oriented and stability-seeking recalibration, but its high contest score indicates deeper societal and ethical divisions. This decision may reflect political caution in navigating sensitive moral terrain, but it also raises questions about the adequacy of support systems for vulnerable populations. The contestedness here mirrors broader debates about the intersection of personal autonomy and institutional responsibility.\n\nSignals related to pneumonic plague and its spread, while less prioritized, highlight the enduring relevance of survival-focused narratives in public health discourse. The speculative nature of this signal, coupled with its relatively low priority score, suggests that while the topic remains important, it is not yet structurally disruptive.\n\n**3. Longer-Term Trajectories**  \nThe ensemble of signals points to a cautious recalibration across multiple domains—scientific, social, and political. France's policy shift and Canada's suspension of assisted dying plans reflect governments responding to immediate pressures while avoiding deeper structural reforms. Meanwhile, the Nobel Prize signal reinforces the importance of long-term investments in knowledge and innovation, which may serve as stabilizing forces amid contested short-term dynamics.\n\nThe contested signals around ethical and survival-focused issues suggest that societal divisions remain unresolved, with implications for future policy debates and public trust. These tensions are likely to persist as governments navigate increasingly complex intersections of care, autonomy, and stability.\n\n**4. What to Watch Next**  \nMonitor whether France's decision on stun grenades leads to broader reforms in protest management or remains a symbolic gesture. Similarly, track Canada's next steps in addressing mental health-related assisted dying, particularly whether this pause translates into substantive policy shifts or further delays. On the scientific front, watch for ripple effects from the Chemistry Nobel, such as increased funding or collaboration in asymmetric molecular research. Finally, keep an eye on emerging public health narratives, especially speculative signals around pneumonic plague, for signs of structural disruption.",
+  "narrative": "🟡 **Cautious mood persists amid mixed signals of stability and disruption. Today's structural pattern reflects a blend of resilience in crisis management and contested governance shifts.**\n\nThe top signal today centers on Zambia's signing of a US health deal after disputes over data-sharing. **This reflects a stability-seeking trajectory**, as Zambia navigates international partnerships to bolster its health infrastructure. The positive direction here underscores the importance of resolving data-sharing disputes, which are increasingly pivotal in global health diplomacy. While the agreement signals progress, the contestedness score suggests lingering concerns about transparency and sovereignty in such partnerships.\n\nFlooding in central Chile and the subsequent airlift of residents highlights **effective crisis management**. The signal is less contested and leans toward a positive direction, emphasizing the importance of coordinated disaster response. However, the relatively low priority score suggests this event may not significantly alter broader structural trends. Still, it reinforces the need for resilience-focused governance in regions prone to climate-related disasters.\n\nItaly's elections overhaul, approved amid accusations of a \"scam\" by opposition parties, illustrates **contested governance dynamics**. While the signal direction is technically positive, the high contest score (-1.799) reveals deep divisions over the legitimacy and implications of the reforms. This event is emblematic of broader tensions in European politics, where governance-oriented clusters are underperforming relative to survival-focused and expression-oriented ones. The structural undertone here is one of fragility in political consensus.\n\nTwo signals—Fort Hood attacker's execution and the tanker hit in the Gulf—reflect **disruptive undertones**. Both are contested and carry implications for governance and security. The execution's livestreaming raises ethical and governance-oriented questions, while the Gulf tanker attack underscores vulnerabilities in maritime security. These signals, though categorized as background noise, hint at longer-term trajectories of heightened geopolitical and ethical tensions.\n\nLooking ahead, watch for developments in Zambia's health partnership, particularly regarding data governance and implementation. In Chile, monitor whether disaster response translates into broader resilience-building efforts. Italy's political reforms warrant close attention for potential ripple effects on European governance stability. Finally, security signals from the Gulf and Fort Hood suggest a need to track escalating tensions in both regions.",
   "noise_filtered": [
-    "France halts use of stun grenades after boy's hand blown off in student protests",
-    "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-    "What is pneumonic plague and how does it spread?",
-    "The Republican candidates walking a Trump tightrope",
-    "Canada suspends plans to expand assisted dying to people with mental illness",
-    "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-    "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-    "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-    "From films to streaming prices - how the Warner Bros deal could affect you",
-    "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-    "Children killed while they slept as Russian missile kills 19 in block of flats",
-    "Israelis demand accountability over 7 October failures three years after attacks",
-    "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
-    "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-    "What happened in the failed execution of Christa Pike - and how did she survive?",
-    "Japan beer giants raided over alleged price-fixing cartel",
-    "Trump to speak to Putin about plague lab worker's death in Russia",
-    "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-    "Watch: Riot police clash with school protesters and use tear gas in France",
-    "Chinese runner dropped by sponsor after riding bike during marathon"
+    "Zambia signs US health deal after disputes over data-sharing",
+    "Residents airlifted to safety after flooding in central Chile",
+    "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+    "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+    "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+    "South Korea recalls Ukraine envoy over prisoner-of-war row",
+    "Christa Pike now walking after failed US execution, lawyer tells BBC",
+    "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+    "Arizona congressional candidate says she was raped while repairing campaign sign",
+    "Adidas sues Australian label White Fox over four stripes design",
+    "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "Protesters blame 'vulture funds' for Spain's housing crisis",
+    "Spanish pensioner whose eviction sparked nationwide protests dies",
+    "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+    "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+    "US deportations to African countries unlawful and exploit suffering, rights group says",
+    "US and Lebanon protecting wanted Syrian general, BBC finds",
+    "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+    "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+    "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation"
   ],
   "matured_predictions": [
     {
-      "id": "a1ec385c479b9b53",
-      "created_at": "2026-09-24",
-      "root_cause": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "prediction": "Momentum around Huge data centres rise at 'China speed' to power its AI ambitions is likely to compound if current conditions hold.",
+      "id": "88d893efcf35a973",
+      "created_at": "2026-09-25",
+      "root_cause": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "prediction": "Momentum around Trump's Board of Peace unveils $2.45bn Gaza recovery plan is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "maturity_date": "2026-10-08",
-      "falsification": "Signals tied to Huge data centres rise at 'China speed' to power its AI ambitions fade or reverse without downstream spillover.",
+      "maturity_date": "2026-10-09",
+      "falsification": "Signals tied to Trump's Board of Peace unveils $2.45bn Gaza recovery plan fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly validate or falsify the momentum around 'Huge data centres rise at China speed to power its AI ambitions.' The provided signals are unrelated to the prediction's subject matter.",
-      "validated_at": "2026-10-08T00:06:50.648853+00:00",
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around Trump's Board of Peace unveiling a $2.45bn Gaza recovery plan would compound has been falsified. None of the fresh signals indicate sustained or growing momentum around the recovery plan. Instead, the signals suggest a lack of focus on the plan, with attention diverted to other topics such as ongoing violence in Gaza, unrelated international events, and Trump's activities unrelated to the recovery plan.",
+      "validated_at": "2026-10-09T00:14:12.602316+00:00",
       "evidence_used": [
-        "Al Jazeera: Inside SpaceX’s new look for AI data centres in orbit",
-        "ABC Australia: How a virulent series gave rise to Sandpapergate",
-        "ABC Australia: Gauff hits out at racist abuse after China Open incident",
-        "ABC Australia: Aussies dealt major injury blow ahead of first South Africa Test",
-        "ABC Australia: Demon faces Djokovic in China final after Medvedev disqualified",
-        "Al Jazeera: EU-China trade talks begin in Beijing amid escalating pressure",
-        "Al Jazeera: Israel’s deadline to close UK consulate in East Jerusalem nears",
-        "Al Jazeera: LSD – from counterculture to clinical trials"
+        "BBC World: Trump wants a new Camp David-like retreat at his Florida golf club - No mention of the Gaza recovery plan.",
+        "BBC World: 'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls - Indicates stalled peace efforts, not momentum around the recovery plan.",
+        "Al Jazeera: Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire - Highlights ongoing violence, not recovery plan progress.",
+        "BBC World: Zambia signs US health deal after disputes over data-sharing - Unrelated to the Gaza recovery plan.",
+        "Al Jazeera: Trump gives top US science awards to Elon Musk and other tech executives - Focuses on unrelated Trump activities.",
+        "Al Jazeera: India’s Cockroach movement says members detained as protests continue - Unrelated international event.",
+        "Al Jazeera: At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war - Unrelated geopolitical development.",
+        "Al Jazeera: ‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award - Focuses on cultural recognition, not recovery plan momentum."
       ]
     }
   ],
@@ -1608,83 +1608,79 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
+        "title": "France halts use of stun grenades after boy's hand blown off in student protests",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+        "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Finland orders halt to work on two Google data centres",
+        "title": "What is pneumonic plague and how does it spread?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Yemeni military says it has 'secured' Red Sea waterway",
+        "title": "The Republican candidates walking a Trump tightrope",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "title": "Canada suspends plans to expand assisted dying to people with mental illness",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+        "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Kenya confirms its first Ebola death as outbreak spreads",
+        "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Former German spy chief arrested for espionage and treason",
+        "title": "From films to streaming prices - how the Warner Bros deal could affect you",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+        "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+        "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "AfD candidate elected speaker of German regional parliament for first time",
+        "title": "Israelis demand accountability over 7 October failures three years after attacks",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
+        "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+        "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+        "title": "Japan beer giants raided over alleged price-fixing cartel",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+        "title": "Trump to speak to Putin about plague lab worker's death in Russia",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ship sinks and crew missing after Black Sea drone attack",
+        "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "title": "Watch: Riot police clash with school protesters and use tear gas in France",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Indian opposition MPs detained in protest against election chief",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+        "title": "Chinese runner dropped by sponsor after riding bike during marathon",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
@@ -1692,10 +1688,12 @@
     "priority_score_changes": [],
     "mood_shift": "",
     "structural_shifts": [],
-    "continuing_priorities": [],
+    "continuing_priorities": [
+      "Spanish pensioner whose eviction sparked nationwide protests dies"
+    ],
     "new_stories": 20,
     "carried_stories": 0,
     "total_stories": 20,
-    "summary": "20 priorities dropped: 'Ghost particles' from space telescope wins physics Nobel (No longer in today's news feed — story left the RSS cycle); Fort Hood shooter to be executed by firing squad - a first for US military since World War Two (No longer in today's news feed — story left the RSS cycle); Finland orders halt to work on two Google data centres (No longer in today's news feed — story left the RSS cycle); Yemeni military says it has 'secured' Red Sea waterway (No longer in today's news feed — story left the RSS cycle); OpenAI admits response to Australian government hacks 'not good enough' (No longer in today's news feed — story left the RSS cycle); A beautiful Himalayan bird is changing its voice due to human activity, research shows (No longer in today's news feed — story left the RSS cycle); Kenya confirms its first Ebola death as outbreak spreads (No longer in today's news feed — story left the RSS cycle); Separatist party projected to win Quebec election, adding new test to Canada's unity (No longer in today's news feed — story left the RSS cycle); Former German spy chief arrested for espionage and treason (No longer in today's news feed — story left the RSS cycle); Seven arrested for using Ghanaian banknotes to make 'money bouquets' (No longer in today's news feed — story left the RSS cycle); Samoa leader apologises for Nazi salute after video from 2007 emerges (No longer in today's news feed — story left the RSS cycle); AfD candidate elected speaker of German regional parliament for first time (No longer in today's news feed — story left the RSS cycle); Tear gas in Paris and Marseille as school protests grow across France (No longer in today's news feed — story left the RSS cycle); Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments (No longer in today's news feed — story left the RSS cycle); US death row inmate Christa Pike awake and speaking after failed execution, lawyers say (No longer in today's news feed — story left the RSS cycle); Nigeria mourns 25 killed as military plane crashes into swamp (No longer in today's news feed — story left the RSS cycle); Ship sinks and crew missing after Black Sea drone attack (No longer in today's news feed — story left the RSS cycle); White House defends Trump comment to let Iran 'take out' LA and San Diego (No longer in today's news feed — story left the RSS cycle); Indian opposition MPs detained in protest against election chief (No longer in today's news feed — story left the RSS cycle); US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86 (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 20 new, 0 carried, 20 total"
+    "summary": "19 priorities dropped: France halts use of stun grenades after boy's hand blown off in student protests (No longer in today's news feed — story left the RSS cycle); Chemistry Nobel awarded for solving mystery of life's asymmetry (No longer in today's news feed — story left the RSS cycle); What is pneumonic plague and how does it spread? (No longer in today's news feed — story left the RSS cycle); The Republican candidates walking a Trump tightrope (No longer in today's news feed — story left the RSS cycle); Canada suspends plans to expand assisted dying to people with mental illness (No longer in today's news feed — story left the RSS cycle); Israelis mourn 7 October attack victims three years after deadly Hamas raid (No longer in today's news feed — story left the RSS cycle); Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow (No longer in today's news feed — story left the RSS cycle); Drinking and consent - Cornell rape allegations expose 'loopholes' in laws (No longer in today's news feed — story left the RSS cycle); From films to streaming prices - how the Warner Bros deal could affect you (No longer in today's news feed — story left the RSS cycle); Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo (No longer in today's news feed — story left the RSS cycle); Children killed while they slept as Russian missile kills 19 in block of flats (No longer in today's news feed — story left the RSS cycle); Israelis demand accountability over 7 October failures three years after attacks (No longer in today's news feed — story left the RSS cycle); What we know about Christa Pike’s ‘unprecedented' recovery after failed execution (No longer in today's news feed — story left the RSS cycle); What happened in the failed execution of Christa Pike - and how did she survive? (No longer in today's news feed — story left the RSS cycle); Japan beer giants raided over alleged price-fixing cartel (No longer in today's news feed — story left the RSS cycle); Trump to speak to Putin about plague lab worker's death in Russia (No longer in today's news feed — story left the RSS cycle); Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations (No longer in today's news feed — story left the RSS cycle); Watch: Riot police clash with school protesters and use tear gas in France (No longer in today's news feed — story left the RSS cycle); Chinese runner dropped by sponsor after riding bike during marathon (No longer in today's news feed — story left the RSS cycle) · Signal freshness: 20 new, 0 carried, 20 total"
   }
 }
