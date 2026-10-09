@@ -87,9 +87,19 @@
       "maturity_date": "2026-10-09",
       "falsification": "Signals tied to Trump's Board of Peace unveils $2.45bn Gaza recovery plan fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "falsified",
+      "validation_notes": "The prediction that momentum around Trump's Board of Peace unveiling a $2.45bn Gaza recovery plan would compound has been falsified. None of the fresh signals indicate sustained or growing momentum around the recovery plan. Instead, the signals suggest a lack of focus on the plan, with attention diverted to other topics such as ongoing violence in Gaza, unrelated international events, and Trump's activities unrelated to the recovery plan.",
+      "validated_at": "2026-10-09T00:14:12.602316+00:00",
+      "evidence_used": [
+        "BBC World: Trump wants a new Camp David-like retreat at his Florida golf club - No mention of the Gaza recovery plan.",
+        "BBC World: 'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls - Indicates stalled peace efforts, not momentum around the recovery plan.",
+        "Al Jazeera: Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire - Highlights ongoing violence, not recovery plan progress.",
+        "BBC World: Zambia signs US health deal after disputes over data-sharing - Unrelated to the Gaza recovery plan.",
+        "Al Jazeera: Trump gives top US science awards to Elon Musk and other tech executives - Focuses on unrelated Trump activities.",
+        "Al Jazeera: India’s Cockroach movement says members detained as protests continue - Unrelated international event.",
+        "Al Jazeera: At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war - Unrelated geopolitical development.",
+        "Al Jazeera: ‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award - Focuses on cultural recognition, not recovery plan momentum."
+      ]
     },
     {
       "id": "a1ec385c479b9b53",
@@ -2066,5 +2076,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-08T00:06:48.024916+00:00"
+  "last_updated": "2026-10-09T00:14:09.836520+00:00"
 }
