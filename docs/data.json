@@ -1,28 +1,98 @@
 {
-  "report_date": "2026-10-11",
-  "generated_at": "2026-10-10T23:23:14.568879+00:00",
+  "report_date": "2026-10-12",
+  "generated_at": "2026-10-11T23:33:04.563102+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "body": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "body": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 19:28:28 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 21:36:40 GMT"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "body": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "body": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 20:51:12 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 22:45:58 GMT"
     },
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "body": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "body": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 22:40:56 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 17:27:24 GMT"
+    },
+    {
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "body": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 21:12:44 GMT"
+    },
+    {
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "body": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 12:03:52 GMT"
+    },
+    {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "body": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT"
+    },
+    {
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "body": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 19:08:04 GMT"
+    },
+    {
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "body": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 15:18:52 GMT"
+    },
+    {
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "body": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 15:32:23 GMT"
+    },
+    {
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "body": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 13:38:55 GMT"
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "body": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 05:05:43 GMT"
+    },
+    {
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "body": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 18:22:29 GMT"
+    },
+    {
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "body": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 11:11:42 GMT"
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -32,18 +102,11 @@
       "published": "Sat, 10 Oct 2026 17:44:26 GMT"
     },
     {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "body": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "body": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 23:19:55 GMT"
-    },
-    {
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "body": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 18:22:29 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:28:51 GMT"
     },
     {
       "title": "Woman injures three people in third Poland school knife attack in a week",
@@ -60,88 +123,25 @@
       "published": "Sat, 10 Oct 2026 15:23:47 GMT"
     },
     {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "body": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "body": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 12:29:31 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 15:32:32 GMT"
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "body": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "body": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 10:06:23 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 23:31:35 GMT"
     },
     {
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "body": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "body": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 12:28:51 GMT"
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "body": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 14:49:32 GMT"
-    },
-    {
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "body": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 02:02:54 GMT"
-    },
-    {
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "body": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 04:34:55 GMT"
-    },
-    {
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "body": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 21:55:51 GMT"
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "body": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 21:50:47 GMT"
-    },
-    {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "body": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 16:32:22 GMT"
-    },
-    {
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "body": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 17:14:44 GMT"
-    },
-    {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "body": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 22:30:22 GMT"
-    },
-    {
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "body": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 04:51:57 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:13:08 GMT"
     }
   ],
   "signals": [
@@ -149,54 +149,114 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "body": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "body": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 19:28:28 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 21:36:40 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "body": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "body": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 20:51:12 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 22:45:58 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "body": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "body": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 22:40:56 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 17:27:24 GMT"
     },
     {
       "number": 4,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "body": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "body": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 17:44:26 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 21:12:44 GMT"
     },
     {
       "number": 5,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "body": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "body": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 23:19:55 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 12:03:52 GMT"
     },
     {
       "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "body": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "body": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 19:08:04 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "body": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 15:18:52 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "body": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 15:32:23 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "body": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 13:38:55 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "body": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 05:05:43 GMT"
+    },
+    {
+      "number": 12,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
@@ -206,47 +266,27 @@
       "published": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
-      "number": 7,
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "body": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "body": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 14:58:55 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 11:11:42 GMT"
     },
     {
-      "number": 8,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "body": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "body": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 15:23:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 17:44:26 GMT"
     },
     {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "body": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 12:29:31 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "body": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 10:06:23 GMT"
-    },
-    {
-      "number": 11,
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
@@ -256,168 +296,272 @@
       "published": "Sat, 10 Oct 2026 12:28:51 GMT"
     },
     {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "body": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 14:49:32 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "body": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 02:02:54 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "body": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 04:34:55 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "body": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 21:55:51 GMT"
-    },
-    {
       "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "body": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "body": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 21:50:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 14:58:55 GMT"
     },
     {
       "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "body": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "body": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 16:32:22 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 15:23:47 GMT"
     },
     {
       "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "body": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "body": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 17:14:44 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 15:32:32 GMT"
     },
     {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "body": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "body": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 22:30:22 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 23:31:35 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "body": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "body": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 04:51:57 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:13:08 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.508177801672955,
-      "contest_score": 0.2652763289955168,
+      "priority_score": 3.2915662217848354,
+      "contest_score": -0.35888815530594054,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7225725189478284,
-      "contestedness": 0.06803864765564815,
-      "impact": 0.65,
+      "central_tendency": 1.235582028054518,
+      "contestedness": 0.041031016045620206,
+      "impact": 0.695,
       "top_clusters": {
-        "achievement_oriented": 0.8630371346072373,
-        "survival_focused": 0.8244237409400565
+        "care_oriented": 1.323022422740169,
+        "stability_seeking": 1.2782464154805826
       },
       "bottom_clusters": {
-        "expression_oriented": 0.6252461933855108
+        "achievement_oriented": 1.130469875801437
       },
       "cluster_means": {
-        "survival_focused": 0.8244237409400565,
-        "stability_seeking": 0.7656682161933268,
-        "achievement_oriented": 0.8630371346072373,
-        "care_oriented": 0.693284841041159,
-        "knowledge_oriented": 0.6662697088751869,
-        "governance_oriented": 0.6452347807216754,
-        "sovereignty_order_oriented": 0.7888845380542545,
-        "expression_oriented": 0.6252461933855108,
-        "ecosystem_oriented": 0.6311035167120481
+        "survival_focused": 1.2766683221365644,
+        "stability_seeking": 1.2782464154805826,
+        "achievement_oriented": 1.130469875801437,
+        "care_oriented": 1.323022422740169,
+        "knowledge_oriented": 1.2008714528536284,
+        "governance_oriented": 1.2764887304093988,
+        "sovereignty_order_oriented": 1.1977579266791016,
+        "expression_oriented": 1.2012553920260014,
+        "ecosystem_oriented": 1.2354577143637786
       },
-      "priority_raw": 0.23483606865804424,
-      "contest_raw": 0.0442251209761713
+      "priority_raw": 0.6011106566485229,
+      "contest_raw": 0.028516556151706042
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.7961792893350836,
-      "contest_score": -0.9125389661322535,
+      "priority_score": 2.0531869241461496,
+      "contest_score": 1.3772900504078387,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.42244194163631915,
-      "contestedness": 0.047429630379594134,
-      "impact": 0.44500000000000006,
+      "central_tendency": 0.9336433066758629,
+      "contestedness": 0.10041857503995755,
+      "impact": 0.645,
       "top_clusters": {
-        "stability_seeking": 0.49393949713557633,
-        "survival_focused": 0.48018682496248377
+        "survival_focused": 1.0784020174564475,
+        "sovereignty_order_oriented": 1.039092388263291
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.32046787954403644
+        "expression_oriented": 0.7922328912038692
       },
       "cluster_means": {
-        "survival_focused": 0.48018682496248377,
-        "stability_seeking": 0.49393949713557633,
-        "achievement_oriented": 0.38045002596791433,
-        "care_oriented": 0.42787965634750846,
-        "knowledge_oriented": 0.3990231485640595,
-        "governance_oriented": 0.46070703204452107,
-        "sovereignty_order_oriented": 0.461010636897592,
-        "expression_oriented": 0.3783127732631807,
-        "ecosystem_oriented": 0.32046787954403644
+        "survival_focused": 1.0784020174564475,
+        "stability_seeking": 1.0255410137630157,
+        "achievement_oriented": 0.9240652669584248,
+        "care_oriented": 0.9230215142778928,
+        "knowledge_oriented": 0.8539349344965694,
+        "governance_oriented": 0.9428530417447895,
+        "sovereignty_order_oriented": 1.039092388263291,
+        "expression_oriented": 0.7922328912038692,
+        "ecosystem_oriented": 0.8236466919184673
       },
-      "priority_raw": 0.15038933122252965,
-      "contest_raw": 0.021106185518919393
+      "priority_raw": 0.42153995296415214,
+      "contest_raw": 0.06476998090077261
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.9098224089719725,
+      "contest_score": -0.9360590954914758,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7749903954372085,
+      "contestedness": 0.029935552961479206,
+      "impact": 0.5499999999999999,
+      "top_clusters": {
+        "survival_focused": 0.8531825354004182,
+        "sovereignty_order_oriented": 0.8298482586100526
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.6641927829365152
+      },
+      "cluster_means": {
+        "survival_focused": 0.8531825354004182,
+        "stability_seeking": 0.8262854094933462,
+        "achievement_oriented": 0.7913300633355808,
+        "care_oriented": 0.7999127056485734,
+        "knowledge_oriented": 0.6992643024590188,
+        "governance_oriented": 0.8011369180000929,
+        "sovereignty_order_oriented": 0.8298482586100526,
+        "expression_oriented": 0.6641927829365152,
+        "ecosystem_oriented": 0.709760583051279
+      },
+      "priority_raw": 0.25574683049427877,
+      "contest_raw": 0.01646455412881356
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.5903041747568543,
+      "contest_score": -0.9840071613089786,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4759436691630374,
+      "contestedness": 0.028115168405166813,
+      "impact": 0.55,
+      "top_clusters": {
+        "expression_oriented": 0.592796389514757,
+        "knowledge_oriented": 0.5635657742729525
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.38602910328896795
+      },
+      "cluster_means": {
+        "survival_focused": 0.4128132565595759,
+        "stability_seeking": 0.4863030128752065,
+        "achievement_oriented": 0.45666796274822363,
+        "care_oriented": 0.46508420874652245,
+        "knowledge_oriented": 0.5635657742729525,
+        "governance_oriented": 0.48326427411977363,
+        "sovereignty_order_oriented": 0.38602910328896795,
+        "expression_oriented": 0.592796389514757,
+        "ecosystem_oriented": 0.43696904034135564
+      },
+      "priority_raw": 0.20941521443173647,
+      "contest_raw": 0.015463342622841748
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.09200447195875286,
+      "contest_score": 0.8916968712862579,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2512078053721616,
+      "contestedness": 0.07003875548525376,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.4341755182604856,
+        "knowledge_oriented": 0.3804591498227664
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10152510611275994
+      },
+      "cluster_means": {
+        "survival_focused": 0.10152510611275994,
+        "stability_seeking": 0.1705098986652944,
+        "achievement_oriented": 0.2112300467842867,
+        "care_oriented": 0.2760390023434821,
+        "knowledge_oriented": 0.3804591498227664,
+        "governance_oriented": 0.24054865415054816,
+        "sovereignty_order_oriented": 0.1360444151255766,
+        "expression_oriented": 0.4341755182604856,
+        "ecosystem_oriented": 0.31033845708425445
+      },
+      "priority_raw": 0.13715946173320023,
+      "contest_raw": 0.054630229278497935
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.12323189225193971,
+      "contest_score": 0.6705788038022541,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2102166612584531,
+      "contestedness": 0.05953931699805132,
+      "impact": 0.8400000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.3545984071069094,
+        "knowledge_oriented": 0.3039577138487193
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10502735279636752
+      },
+      "cluster_means": {
+        "survival_focused": 0.10502735279636752,
+        "stability_seeking": 0.13282080141899413,
+        "achievement_oriented": 0.19236011841704545,
+        "care_oriented": 0.1961025121726443,
+        "knowledge_oriented": 0.3039577138487193,
+        "governance_oriented": 0.1802510119255567,
+        "sovereignty_order_oriented": 0.15439364007892292,
+        "expression_oriented": 0.3545984071069094,
+        "ecosystem_oriented": 0.27243839356091826
+      },
+      "priority_raw": 0.10594919727426037,
+      "contest_raw": 0.05001302627836311
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
@@ -426,106 +570,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.839347521505899,
-      "contest_score": -1.2148393718259296,
+      "priority_score": -0.13186814549146458,
+      "contest_score": -1.1023146290305643,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5459907771220895,
-      "contestedness": 0.04816645641117623,
-      "impact": 0.315,
+      "central_tendency": 0.545296358151695,
+      "contestedness": 0.040602952466095577,
+      "impact": 0.32,
       "top_clusters": {
-        "expression_oriented": 0.6090139220225663,
-        "knowledge_oriented": 0.6073911673794133
+        "knowledge_oriented": 0.6055426448424652,
+        "expression_oriented": 0.600991449898535
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.4638559674879841
+        "sovereignty_order_oriented": 0.45663022126390473
       },
       "cluster_means": {
-        "survival_focused": 0.5012629697842776,
-        "stability_seeking": 0.5791054523469168,
-        "achievement_oriented": 0.5494294261954539,
-        "care_oriented": 0.5269909751546952,
-        "knowledge_oriented": 0.6073911673794133,
-        "governance_oriented": 0.5792240264069738,
-        "sovereignty_order_oriented": 0.4638559674879841,
-        "expression_oriented": 0.6090139220225663,
-        "ecosystem_oriented": 0.49764308732052365
+        "survival_focused": 0.49688786318882117,
+        "stability_seeking": 0.5798402312770096,
+        "achievement_oriented": 0.5443595504405871,
+        "care_oriented": 0.5603884974324395,
+        "knowledge_oriented": 0.6055426448424652,
+        "governance_oriented": 0.5964125378518969,
+        "sovereignty_order_oriented": 0.45663022126390473,
+        "expression_oriented": 0.600991449898535,
+        "ecosystem_oriented": 0.4666142271695948
       },
-      "priority_raw": 0.10319225687607492,
-      "contest_raw": 0.015172433769520512
+      "priority_raw": 0.10469690076512543,
+      "contest_raw": 0.012992944789150584
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.14421188225255327,
-      "contest_score": 0.8326340889368334,
+      "priority_score": -0.27980192433832113,
+      "contest_score": 0.6850789243254477,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17667618612505331,
-      "contestedness": 0.07097640166283709,
-      "impact": 0.78,
+      "central_tendency": 0.18876603461220318,
+      "contestedness": 0.0684568784996833,
+      "impact": 0.735,
       "top_clusters": {
-        "expression_oriented": 0.33622404276452805,
-        "knowledge_oriented": 0.2999355174611379
+        "expression_oriented": 0.342385055142345,
+        "knowledge_oriented": 0.2888932395773683
       },
       "bottom_clusters": {
-        "survival_focused": 0.05732848992183534
+        "survival_focused": 0.07575346227405783
       },
       "cluster_means": {
-        "survival_focused": 0.05732848992183534,
-        "stability_seeking": 0.09474605241027204,
-        "achievement_oriented": 0.19507873951834975,
-        "care_oriented": 0.1681273796330729,
-        "knowledge_oriented": 0.2999355174611379,
-        "governance_oriented": 0.15059470362007443,
-        "sovereignty_order_oriented": 0.09715097797023581,
-        "expression_oriented": 0.33622404276452805,
-        "ecosystem_oriented": 0.1908997718259734
+        "survival_focused": 0.07575346227405783,
+        "stability_seeking": 0.1223841148431336,
+        "achievement_oriented": 0.11122391878008425,
+        "care_oriented": 0.24261456573035511,
+        "knowledge_oriented": 0.2888932395773683,
+        "governance_oriented": 0.17968079727976755,
+        "sovereignty_order_oriented": 0.10116871140714112,
+        "expression_oriented": 0.342385055142345,
+        "ecosystem_oriented": 0.23479044647557568
       },
-      "priority_raw": 0.06890371258877079,
-      "contest_raw": 0.05536159329701293
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.039169178203612195,
-      "contest_score": 0.529013724709095,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.1773575808797102,
-      "contestedness": 0.07318804819394138,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.4103410146232978,
-        "knowledge_oriented": 0.33343531682885885
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.04549868438412763
-      },
-      "cluster_means": {
-        "survival_focused": 0.04549868438412763,
-        "stability_seeking": 0.07857655367478908,
-        "achievement_oriented": 0.16522956126924626,
-        "care_oriented": 0.12298351433827491,
-        "knowledge_oriented": 0.33343531682885885,
-        "governance_oriented": 0.08117953600116076,
-        "sovereignty_order_oriented": 0.04979546614433353,
-        "expression_oriented": 0.4103410146232978,
-        "ecosystem_oriented": 0.27029626319576827
-      },
-      "priority_raw": 0.0598581835469022,
-      "contest_raw": 0.049401932530910436
+      "priority_raw": 0.0832458212639816,
+      "contest_raw": 0.05031580569726722
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
@@ -534,466 +642,142 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.08893811589831102,
-      "contest_score": -0.39896947588095727,
+      "priority_score": -0.33146808633874053,
+      "contest_score": 0.3482185396762934,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.13966730075700362,
-      "contestedness": 0.0455282718328216,
-      "impact": 0.6849999999999999,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.15571220911580635,
+      "contestedness": 0.06227592546357261,
+      "impact": 0.695,
       "top_clusters": {
-        "expression_oriented": 0.28051152939675156,
-        "knowledge_oriented": 0.24342702256468698
+        "expression_oriented": 0.3601007504251187,
+        "knowledge_oriented": 0.2868472161592014
       },
       "bottom_clusters": {
-        "survival_focused": 0.00989995312481562
+        "survival_focused": 0.009857776185475564
       },
       "cluster_means": {
-        "survival_focused": 0.00989995312481562,
-        "stability_seeking": 0.07546794966908657,
-        "achievement_oriented": 0.15923689496386986,
-        "care_oriented": 0.12099622150190817,
-        "knowledge_oriented": 0.24342702256468698,
-        "governance_oriented": 0.1028140729951357,
-        "sovereignty_order_oriented": 0.05417302500658941,
-        "expression_oriented": 0.28051152939675156,
-        "ecosystem_oriented": 0.16098442665990698
+        "survival_focused": 0.009857776185475564,
+        "stability_seeking": 0.08174989700384294,
+        "achievement_oriented": 0.13482332170481254,
+        "care_oriented": 0.13453947080038578,
+        "knowledge_oriented": 0.2868472161592014,
+        "governance_oriented": 0.1027422210886309,
+        "sovereignty_order_oriented": 0.018937650936149575,
+        "expression_oriented": 0.3601007504251187,
+        "ecosystem_oriented": 0.1968153962639584
       },
-      "priority_raw": 0.057403260611128486,
-      "contest_raw": 0.03118686620548279
+      "priority_raw": 0.07575398973483978,
+      "contest_raw": 0.043281768197182956
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.124066431626957,
-      "contest_score": 1.1660046434350007,
+      "priority_score": -0.37256262575598864,
+      "contest_score": 1.7778557451572516,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.14459871940407085,
-      "contestedness": 0.08039637716869583,
-      "impact": 0.77,
-      "top_clusters": {
-        "expression_oriented": 0.32780359347680527,
-        "knowledge_oriented": 0.2693911262646447
-      },
-      "bottom_clusters": {
-        "stability_seeking": 0.017981915854866887
-      },
-      "cluster_means": {
-        "survival_focused": 0.04566831462795368,
-        "stability_seeking": 0.017981915854866887,
-        "achievement_oriented": 0.1538902968030817,
-        "care_oriented": 0.11995700682433952,
-        "knowledge_oriented": 0.2693911262646447,
-        "governance_oriented": 0.03145452036428198,
-        "sovereignty_order_oriented": 0.03956062965564369,
-        "expression_oriented": 0.32780359347680527,
-        "ecosystem_oriented": 0.19031574932826445
-      },
-      "priority_raw": 0.055670506970567274,
-      "contest_raw": 0.06190521041989579
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.16301594746525924,
-      "contest_score": -0.40899810224215005,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.3011163431576026,
-      "contestedness": 0.05208406338276486,
-      "impact": 0.595,
-      "top_clusters": {
-        "expression_oriented": 0.4039941480721944,
-        "knowledge_oriented": 0.3711092425536606
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.19298962878713447
-      },
-      "cluster_means": {
-        "survival_focused": 0.2837696175864535,
-        "stability_seeking": 0.2624308154014102,
-        "achievement_oriented": 0.3502248921195442,
-        "care_oriented": 0.23168555420368867,
-        "knowledge_oriented": 0.3711092425536606,
-        "governance_oriented": 0.19298962878713447,
-        "sovereignty_order_oriented": 0.28025587818038145,
-        "expression_oriented": 0.4039941480721944,
-        "ecosystem_oriented": 0.3335873115139558
-      },
-      "priority_raw": 0.053749267253632056,
-      "contest_raw": 0.03099001771274509
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.1676232292904897,
-      "contest_score": -1.4986684967974786,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.31953436769962457,
-      "contestedness": 0.028660443286943393,
-      "impact": 0.335,
-      "top_clusters": {
-        "expression_oriented": 0.39579484277964416,
-        "knowledge_oriented": 0.38008216167009456
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.26301983283428687
-      },
-      "cluster_means": {
-        "survival_focused": 0.28408802558934554,
-        "stability_seeking": 0.3421257363752641,
-        "achievement_oriented": 0.3270630103314951,
-        "care_oriented": 0.28987099455855925,
-        "knowledge_oriented": 0.38008216167009456,
-        "governance_oriented": 0.2984025670445517,
-        "sovereignty_order_oriented": 0.26301983283428687,
-        "expression_oriented": 0.39579484277964416,
-        "ecosystem_oriented": 0.2953621381133802
-      },
-      "priority_raw": 0.053522006589687116,
-      "contest_raw": 0.009601248501126038
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.28674260100167903,
-      "contest_score": 1.3364765740069051,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6388888888888888,
-      "central_tendency": 0.12216993804526712,
-      "contestedness": 0.08365557167986858,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.17896177483691764,
+      "contestedness": 0.09376187119900772,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.2960497844036514,
-        "knowledge_oriented": 0.22520781255393676
+        "expression_oriented": 0.38145905862774654,
+        "knowledge_oriented": 0.3140578997830096
       },
       "bottom_clusters": {
-        "survival_focused": -0.0367490611554894
+        "survival_focused": 0.0242037493711538
       },
       "cluster_means": {
-        "survival_focused": -0.0367490611554894,
-        "stability_seeking": 5.716222977930618e-06,
-        "achievement_oriented": 0.0836612879028465,
-        "care_oriented": 0.10295295690545656,
-        "knowledge_oriented": 0.22520781255393676,
-        "governance_oriented": 0.036012054212697486,
-        "sovereignty_order_oriented": -0.012179274634046361,
-        "expression_oriented": 0.2960497844036514,
-        "ecosystem_oriented": 0.13440797029787072
+        "survival_focused": 0.0242037493711538,
+        "stability_seeking": 0.07257799466686513,
+        "achievement_oriented": 0.1344836277228587,
+        "care_oriented": 0.22427916875093842,
+        "knowledge_oriented": 0.3140578997830096,
+        "governance_oriented": 0.12360800122162977,
+        "sovereignty_order_oriented": 0.04072175652385099,
+        "expression_oriented": 0.38145905862774654,
+        "ecosystem_oriented": 0.24929680164739798
       },
-      "priority_raw": 0.04764627583765418,
-      "contest_raw": 0.06525134591029749
+      "priority_raw": 0.06979509218639789,
+      "contest_raw": 0.07313425953522602
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3048048290063698,
-      "contest_score": -0.6437397933371839,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.12880256475571328,
-      "contestedness": 0.04360719499632995,
-      "impact": 0.605,
-      "top_clusters": {
-        "expression_oriented": 0.2809129797320633,
-        "knowledge_oriented": 0.23168461810110438
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.021528822875089962
-      },
-      "cluster_means": {
-        "survival_focused": 0.021528822875089962,
-        "stability_seeking": 0.07527149508851284,
-        "achievement_oriented": 0.1492414947779758,
-        "care_oriented": 0.1188786900848428,
-        "knowledge_oriented": 0.23168461810110438,
-        "governance_oriented": 0.0871142472830633,
-        "sovereignty_order_oriented": 0.025882487590121295,
-        "expression_oriented": 0.2809129797320633,
-        "ecosystem_oriented": 0.12560551350651927
-      },
-      "priority_raw": 0.04675533100632392,
-      "contest_raw": 0.02638235297277962
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.3681552869428957,
-      "contest_score": -1.2234849857649162,
+      "priority_score": -0.4260750642883452,
+      "contest_score": 0.47794697771419764,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.11017798095782491,
-      "contestedness": 0.022731412055743916,
-      "impact": 0.66,
+      "central_tendency": 0.15204789719083836,
+      "contestedness": 0.06763330765320659,
+      "impact": 0.68,
       "top_clusters": {
-        "expression_oriented": 0.22289101154101293,
-        "ecosystem_oriented": 0.17409083110141918
+        "expression_oriented": 0.30409723109477443,
+        "knowledge_oriented": 0.26569411641575746
       },
       "bottom_clusters": {
-        "survival_focused": 0.03090287826503893
+        "survival_focused": 0.03629251616764792
       },
       "cluster_means": {
-        "survival_focused": 0.03090287826503893,
-        "stability_seeking": 0.0612505852566938,
-        "achievement_oriented": 0.08398199731243772,
-        "care_oriented": 0.10094237629736066,
-        "knowledge_oriented": 0.17189819458975447,
-        "governance_oriented": 0.06230103502710593,
-        "sovereignty_order_oriented": 0.06816539665574237,
-        "expression_oriented": 0.22289101154101293,
-        "ecosystem_oriented": 0.17409083110141918
+        "survival_focused": 0.03629251616764792,
+        "stability_seeking": 0.09190768556966342,
+        "achievement_oriented": 0.179220098649335,
+        "care_oriented": 0.09165754000306675,
+        "knowledge_oriented": 0.26569411641575746,
+        "governance_oriented": 0.10392582382085451,
+        "sovereignty_order_oriented": 0.08899440494109107,
+        "expression_oriented": 0.30409723109477443,
+        "ecosystem_oriented": 0.19968081733241386
       },
-      "priority_raw": 0.04363048045929867,
-      "contest_raw": 0.015002731956790985
+      "priority_raw": 0.06203554205386205,
+      "contest_raw": 0.045990649204180487
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3794983071127863,
-      "contest_score": 1.181081160890293,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.11043838465723747,
-      "contestedness": 0.07974505416466071,
-      "impact": 0.78,
-      "top_clusters": {
-        "expression_oriented": 0.24721136570676852,
-        "knowledge_oriented": 0.17896898642381245
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.07040191448121397
-      },
-      "cluster_means": {
-        "survival_focused": -0.07040191448121397,
-        "stability_seeking": -0.047002146443851395,
-        "achievement_oriented": 0.03274290772080932,
-        "care_oriented": 0.04189967251957055,
-        "knowledge_oriented": 0.17896898642381245,
-        "governance_oriented": -0.03051799410847622,
-        "sovereignty_order_oriented": -0.04851266045021793,
-        "expression_oriented": 0.24721136570676852,
-        "ecosystem_oriented": 0.09788353958540649
-      },
-      "priority_raw": 0.04307097001632262,
-      "contest_raw": 0.06220114224843536
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4095523421280695,
-      "contest_score": 0.961303671166146,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.10595799342034483,
-      "contestedness": 0.07374166206729313,
-      "impact": 0.785,
-      "top_clusters": {
-        "expression_oriented": 0.2137527748819446,
-        "knowledge_oriented": 0.1450526183004754
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.08361964917625184
-      },
-      "cluster_means": {
-        "survival_focused": -0.08361964917625184,
-        "stability_seeking": -0.07258493185062392,
-        "achievement_oriented": 0.022522909003152708,
-        "care_oriented": 0.011499606388795797,
-        "knowledge_oriented": 0.1450526183004754,
-        "governance_oriented": -0.05768264373768128,
-        "sovereignty_order_oriented": -0.05391086598761352,
-        "expression_oriented": 0.2137527748819446,
-        "ecosystem_oriented": 0.08524126845608893
-      },
-      "priority_raw": 0.041588512417485346,
-      "contest_raw": 0.05788720472282511
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.4696568985910206,
-      "contest_score": 1.1183629596372135,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6111111111111112,
-      "central_tendency": 0.09967424653285467,
-      "contestedness": 0.07867105551945375,
-      "impact": 0.775,
-      "top_clusters": {
-        "expression_oriented": 0.20236275434508064,
-        "ecosystem_oriented": 0.1486944728281864
-      },
-      "bottom_clusters": {
-        "stability_seeking": -0.04774700514934491
-      },
-      "cluster_means": {
-        "survival_focused": -0.045415231538739664,
-        "stability_seeking": -0.04774700514934491,
-        "achievement_oriented": 0.06267862692463967,
-        "care_oriented": 0.03325582398071408,
-        "knowledge_oriented": 0.14377552388594275,
-        "governance_oriented": -0.019519477968115817,
-        "sovereignty_order_oriented": 0.0018513655498094972,
-        "expression_oriented": 0.20236275434508064,
-        "ecosystem_oriented": 0.1486944728281864
-      },
-      "priority_raw": 0.03862377053148119,
-      "contest_raw": 0.06097006802757666
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5303691544632768,
-      "contest_score": 0.44123966142945603,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.1319594556161426,
-      "contestedness": 0.07063562270259499,
-      "impact": 0.6749999999999999,
-      "top_clusters": {
-        "expression_oriented": 0.2592876344505749,
-        "knowledge_oriented": 0.2041422913775517
-      },
-      "bottom_clusters": {
-        "stability_seeking": 0.03970988425131497
-      },
-      "cluster_means": {
-        "survival_focused": 0.051242052939996424,
-        "stability_seeking": 0.03970988425131497,
-        "achievement_oriented": 0.13126514453837076,
-        "care_oriented": 0.15961901774231704,
-        "knowledge_oriented": 0.2041422913775517,
-        "governance_oriented": 0.06346408411244868,
-        "sovereignty_order_oriented": 0.060629521835775774,
-        "expression_oriented": 0.2592876344505749,
-        "ecosystem_oriented": 0.19635690061606914
-      },
-      "priority_raw": 0.035629053016358506,
-      "contest_raw": 0.047679045324251615
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5470186128677019,
-      "contest_score": -0.727909472791815,
+      "priority_score": -0.4279540415693084,
+      "contest_score": -1.224926202937853,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.13703856312994278,
-      "contestedness": 0.03894522045536947,
-      "impact": 0.635,
+      "central_tendency": 0.31193475601615467,
+      "contestedness": 0.021076105456822758,
+      "impact": 0.495,
       "top_clusters": {
-        "expression_oriented": 0.2709780352898815,
-        "knowledge_oriented": 0.22481290618211885
+        "expression_oriented": 0.4105855785931687,
+        "knowledge_oriented": 0.39922782215558433
       },
       "bottom_clusters": {
-        "governance_oriented": 0.06563775155248742
+        "governance_oriented": 0.2601148550754164
       },
       "cluster_means": {
-        "survival_focused": 0.07615160099671439,
-        "stability_seeking": 0.0923255334526824,
-        "achievement_oriented": 0.14342910783926327,
-        "care_oriented": 0.12751667001845682,
-        "knowledge_oriented": 0.22481290618211885,
-        "governance_oriented": 0.06563775155248742,
-        "sovereignty_order_oriented": 0.08857144956308735,
-        "expression_oriented": 0.2709780352898815,
-        "ecosystem_oriented": 0.14392401327479282
+        "survival_focused": 0.2678114115866445,
+        "stability_seeking": 0.2938578526447958,
+        "achievement_oriented": 0.34783211406893116,
+        "care_oriented": 0.28406387913762826,
+        "knowledge_oriented": 0.39922782215558433,
+        "governance_oriented": 0.2601148550754164,
+        "sovereignty_order_oriented": 0.2629877736808055,
+        "expression_oriented": 0.4105855785931687,
+        "ecosystem_oriented": 0.2809315172024178
       },
-      "priority_raw": 0.034807795035005466,
-      "contest_raw": 0.024730214989159612
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5771700097050364,
-      "contest_score": 0.4058476491256745,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8333333333333334,
-      "central_tendency": 0.11985803930644545,
-      "contestedness": 0.06760337778914861,
-      "impact": 0.6950000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.25031906594859776,
-        "knowledge_oriented": 0.20174200606840859
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.011209851726390552
-      },
-      "cluster_means": {
-        "survival_focused": 0.011209851726390552,
-        "stability_seeking": 0.04508426002163321,
-        "achievement_oriented": 0.026867468808415396,
-        "care_oriented": 0.18064056264597533,
-        "knowledge_oriented": 0.20174200606840859,
-        "governance_oriented": 0.09447084659756401,
-        "sovereignty_order_oriented": 0.044877570024621394,
-        "expression_oriented": 0.25031906594859776,
-        "ecosystem_oriented": 0.16120821531638105
-      },
-      "priority_raw": 0.033320534927191836,
-      "contest_raw": 0.04698434756345829
+      "priority_raw": 0.06176308169119863,
+      "contest_raw": 0.010432672201127265
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
@@ -1002,34 +786,250 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.579454467648559,
-      "contest_score": 0.7797210786519796,
+      "priority_score": -0.48346611985190413,
+      "contest_score": -0.29136455409967377,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.17029667088299014,
-      "contestedness": 0.08357381820250591,
-      "impact": 0.65,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.16033902860308008,
+      "contestedness": 0.044666459186929006,
+      "impact": 0.67,
       "top_clusters": {
-        "expression_oriented": 0.42005754942998846,
-        "knowledge_oriented": 0.3375344181859889
+        "expression_oriented": 0.37218931782737474,
+        "knowledge_oriented": 0.3027018456070938
       },
       "bottom_clusters": {
-        "governance_oriented": -0.006170476574531056
+        "governance_oriented": 0.04306942162401482
       },
       "cluster_means": {
-        "survival_focused": 0.02750049074134657,
-        "stability_seeking": 0.049443756478938644,
-        "achievement_oriented": 0.19408332968665168,
-        "care_oriented": 0.07740334162797485,
-        "knowledge_oriented": 0.3375344181859889,
-        "governance_oriented": -0.006170476574531056,
-        "sovereignty_order_oriented": 0.010902853999280149,
-        "expression_oriented": 0.42005754942998846,
-        "ecosystem_oriented": 0.2055961154993513
+        "survival_focused": 0.0485451154877969,
+        "stability_seeking": 0.08652769012260778,
+        "achievement_oriented": 0.18254832168096916,
+        "care_oriented": 0.08773588081094383,
+        "knowledge_oriented": 0.3027018456070938,
+        "governance_oriented": 0.04306942162401482,
+        "sovereignty_order_oriented": 0.049726684073151256,
+        "expression_oriented": 0.37218931782737474,
+        "ecosystem_oriented": 0.21210032884891886
       },
-      "priority_raw": 0.033207850822183076,
-      "contest_raw": 0.05432298183162884
+      "priority_raw": 0.05371357458203183,
+      "contest_raw": 0.029926527655242435
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.48762529773178437,
+      "contest_score": 0.9774447200953447,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.7222222222222222,
+      "central_tendency": 0.16468364225446308,
+      "contestedness": 0.0874740221945279,
+      "impact": 0.645,
+      "top_clusters": {
+        "expression_oriented": 0.36622634620498745,
+        "knowledge_oriented": 0.31672326160404213
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.023804371727720652
+      },
+      "cluster_means": {
+        "survival_focused": -0.023804371727720652,
+        "stability_seeking": 0.034664579550620814,
+        "achievement_oriented": 0.2000399301583818,
+        "care_oriented": 0.08866010731616106,
+        "knowledge_oriented": 0.31672326160404213,
+        "governance_oriented": 0.054800950621645875,
+        "sovereignty_order_oriented": 0.007202915945692556,
+        "expression_oriented": 0.36622634620498745,
+        "ecosystem_oriented": 0.17613412951068896
+      },
+      "priority_raw": 0.05311047462706434,
+      "contest_raw": 0.0564207443154705
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5467262442171515,
+      "contest_score": -0.06405593818888787,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.75,
+      "central_tendency": 0.0905296038489264,
+      "contestedness": 0.04228414210082371,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.2048762764690127,
+        "knowledge_oriented": 0.16495089992917186
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.038418997643368896
+      },
+      "cluster_means": {
+        "survival_focused": -0.038418997643368896,
+        "stability_seeking": -0.007377017189512863,
+        "achievement_oriented": 0.051821118327569554,
+        "care_oriented": 0.08730387437443857,
+        "knowledge_oriented": 0.16495089992917186,
+        "governance_oriented": 0.04382300172764503,
+        "sovereignty_order_oriented": 0.010833040111910136,
+        "expression_oriented": 0.2048762764690127,
+        "ecosystem_oriented": 0.09410526042839326
+      },
+      "priority_raw": 0.0445405650936718,
+      "contest_raw": 0.03467299652267544
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5577160053123817,
+      "contest_score": 0.4903710945803688,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.08729064858181587,
+      "contestedness": 0.056402535666813775,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.1719674997514193,
+        "knowledge_oriented": 0.11470835054407374
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.08473350331397908
+      },
+      "cluster_means": {
+        "survival_focused": -0.08473350331397908,
+        "stability_seeking": -0.04587924354343331,
+        "achievement_oriented": -0.003929271178387594,
+        "care_oriented": 0.05315610223704967,
+        "knowledge_oriented": 0.11470835054407374,
+        "governance_oriented": -0.003246433429764106,
+        "sovereignty_order_oriented": -0.03702385130393834,
+        "expression_oriented": 0.1719674997514193,
+        "ecosystem_oriented": 0.08089106567979479
+      },
+      "priority_raw": 0.04294699910225341,
+      "contest_raw": 0.0462500792467873
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5730426661469018,
+      "contest_score": -1.4692487821736377,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.13688928627712119,
+      "contestedness": 0.008959549490374946,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.16528758054649761,
+        "sovereignty_order_oriented": 0.15734159688525737
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.08805593848870233
+      },
+      "cluster_means": {
+        "survival_focused": 0.15259705683911087,
+        "stability_seeking": 0.15499669004903543,
+        "achievement_oriented": 0.11767730333467859,
+        "care_oriented": 0.15003228208415004,
+        "knowledge_oriented": 0.1410727325937751,
+        "governance_oriented": 0.08805593848870233,
+        "sovereignty_order_oriented": 0.15734159688525737,
+        "expression_oriented": 0.16528758054649761,
+        "ecosystem_oriented": 0.10494239567288331
+      },
+      "priority_raw": 0.04072456266744355,
+      "contest_raw": 0.005330931946773093
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6363927291176281,
+      "contest_score": 1.1423554211610807,
+      "category": "background_noise",
+      "polarity": -1,
+      "sign_agreement": 0.6388888888888888,
+      "central_tendency": 0.10950872106569155,
+      "contestedness": 0.08314482220202327,
+      "impact": 0.72,
+      "top_clusters": {
+        "expression_oriented": 0.13221136570676856,
+        "knowledge_oriented": 0.06396898642381246
+      },
+      "bottom_clusters": {
+        "stability_seeking": -0.14700214644385137
+      },
+      "cluster_means": {
+        "survival_focused": -0.12040191448121401,
+        "stability_seeking": -0.14700214644385137,
+        "achievement_oriented": -0.037257092279190746,
+        "care_oriented": -0.0281003274804294,
+        "knowledge_oriented": 0.06396898642381246,
+        "governance_oriented": -0.1155179941084763,
+        "sovereignty_order_oriented": -0.09851266045021798,
+        "expression_oriented": 0.13221136570676856,
+        "ecosystem_oriented": 0.04788353958540645
+      },
+      "priority_raw": 0.03153851166691917,
+      "contest_raw": 0.05986427198545675
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7050605639574742,
+      "contest_score": -0.683425267397563,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.09809708747750873,
+      "contestedness": 0.03952698717729608,
+      "impact": 0.55,
+      "top_clusters": {
+        "expression_oriented": 0.24125666553221123,
+        "knowledge_oriented": 0.19049046392204055
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.01274259912016476
+      },
+      "cluster_means": {
+        "survival_focused": 0.013725869202145774,
+        "stability_seeking": 0.051789187921663066,
+        "achievement_oriented": 0.06977364565438934,
+        "care_oriented": 0.10930063283168542,
+        "knowledge_oriented": 0.19049046392204055,
+        "governance_oriented": 0.03615111827313222,
+        "sovereignty_order_oriented": 0.01274259912016476,
+        "expression_oriented": 0.24125666553221123,
+        "ecosystem_oriented": 0.1023205163072285
+      },
+      "priority_raw": 0.02158135924505192,
+      "contest_raw": 0.021739842947512845
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
@@ -1038,8 +1038,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": true,
-      "priority_score": -1.2526810828144637,
-      "contest_score": -1.9878128762114362,
+      "priority_score": -0.8538927952492297,
+      "contest_score": -1.7245473622717589,
       "category": "background_noise",
       "polarity": 0,
       "sign_agreement": 1.0,
@@ -1070,76 +1070,220 @@
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.508177801672955,
-      "contest_score": 0.2652763289955168,
+      "priority_score": 3.2915662217848354,
+      "contest_score": -0.35888815530594054,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7225725189478284,
-      "contestedness": 0.06803864765564815,
-      "impact": 0.65,
+      "central_tendency": 1.235582028054518,
+      "contestedness": 0.041031016045620206,
+      "impact": 0.695,
       "top_clusters": {
-        "achievement_oriented": 0.8630371346072373,
-        "survival_focused": 0.8244237409400565
+        "care_oriented": 1.323022422740169,
+        "stability_seeking": 1.2782464154805826
       },
       "bottom_clusters": {
-        "expression_oriented": 0.6252461933855108
+        "achievement_oriented": 1.130469875801437
       },
       "cluster_means": {
-        "survival_focused": 0.8244237409400565,
-        "stability_seeking": 0.7656682161933268,
-        "achievement_oriented": 0.8630371346072373,
-        "care_oriented": 0.693284841041159,
-        "knowledge_oriented": 0.6662697088751869,
-        "governance_oriented": 0.6452347807216754,
-        "sovereignty_order_oriented": 0.7888845380542545,
-        "expression_oriented": 0.6252461933855108,
-        "ecosystem_oriented": 0.6311035167120481
+        "survival_focused": 1.2766683221365644,
+        "stability_seeking": 1.2782464154805826,
+        "achievement_oriented": 1.130469875801437,
+        "care_oriented": 1.323022422740169,
+        "knowledge_oriented": 1.2008714528536284,
+        "governance_oriented": 1.2764887304093988,
+        "sovereignty_order_oriented": 1.1977579266791016,
+        "expression_oriented": 1.2012553920260014,
+        "ecosystem_oriented": 1.2354577143637786
       },
-      "priority_raw": 0.23483606865804424,
-      "contest_raw": 0.0442251209761713
+      "priority_raw": 0.6011106566485229,
+      "contest_raw": 0.028516556151706042
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.7961792893350836,
-      "contest_score": -0.9125389661322535,
+      "priority_score": 2.0531869241461496,
+      "contest_score": 1.3772900504078387,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.42244194163631915,
-      "contestedness": 0.047429630379594134,
-      "impact": 0.44500000000000006,
+      "central_tendency": 0.9336433066758629,
+      "contestedness": 0.10041857503995755,
+      "impact": 0.645,
       "top_clusters": {
-        "stability_seeking": 0.49393949713557633,
-        "survival_focused": 0.48018682496248377
+        "survival_focused": 1.0784020174564475,
+        "sovereignty_order_oriented": 1.039092388263291
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.32046787954403644
+        "expression_oriented": 0.7922328912038692
       },
       "cluster_means": {
-        "survival_focused": 0.48018682496248377,
-        "stability_seeking": 0.49393949713557633,
-        "achievement_oriented": 0.38045002596791433,
-        "care_oriented": 0.42787965634750846,
-        "knowledge_oriented": 0.3990231485640595,
-        "governance_oriented": 0.46070703204452107,
-        "sovereignty_order_oriented": 0.461010636897592,
-        "expression_oriented": 0.3783127732631807,
-        "ecosystem_oriented": 0.32046787954403644
+        "survival_focused": 1.0784020174564475,
+        "stability_seeking": 1.0255410137630157,
+        "achievement_oriented": 0.9240652669584248,
+        "care_oriented": 0.9230215142778928,
+        "knowledge_oriented": 0.8539349344965694,
+        "governance_oriented": 0.9428530417447895,
+        "sovereignty_order_oriented": 1.039092388263291,
+        "expression_oriented": 0.7922328912038692,
+        "ecosystem_oriented": 0.8236466919184673
       },
-      "priority_raw": 0.15038933122252965,
-      "contest_raw": 0.021106185518919393
+      "priority_raw": 0.42153995296415214,
+      "contest_raw": 0.06476998090077261
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.9098224089719725,
+      "contest_score": -0.9360590954914758,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7749903954372085,
+      "contestedness": 0.029935552961479206,
+      "impact": 0.5499999999999999,
+      "top_clusters": {
+        "survival_focused": 0.8531825354004182,
+        "sovereignty_order_oriented": 0.8298482586100526
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.6641927829365152
+      },
+      "cluster_means": {
+        "survival_focused": 0.8531825354004182,
+        "stability_seeking": 0.8262854094933462,
+        "achievement_oriented": 0.7913300633355808,
+        "care_oriented": 0.7999127056485734,
+        "knowledge_oriented": 0.6992643024590188,
+        "governance_oriented": 0.8011369180000929,
+        "sovereignty_order_oriented": 0.8298482586100526,
+        "expression_oriented": 0.6641927829365152,
+        "ecosystem_oriented": 0.709760583051279
+      },
+      "priority_raw": 0.25574683049427877,
+      "contest_raw": 0.01646455412881356
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.5903041747568543,
+      "contest_score": -0.9840071613089786,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.4759436691630374,
+      "contestedness": 0.028115168405166813,
+      "impact": 0.55,
+      "top_clusters": {
+        "expression_oriented": 0.592796389514757,
+        "knowledge_oriented": 0.5635657742729525
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.38602910328896795
+      },
+      "cluster_means": {
+        "survival_focused": 0.4128132565595759,
+        "stability_seeking": 0.4863030128752065,
+        "achievement_oriented": 0.45666796274822363,
+        "care_oriented": 0.46508420874652245,
+        "knowledge_oriented": 0.5635657742729525,
+        "governance_oriented": 0.48326427411977363,
+        "sovereignty_order_oriented": 0.38602910328896795,
+        "expression_oriented": 0.592796389514757,
+        "ecosystem_oriented": 0.43696904034135564
+      },
+      "priority_raw": 0.20941521443173647,
+      "contest_raw": 0.015463342622841748
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 0.09200447195875286,
+      "contest_score": 0.8916968712862579,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2512078053721616,
+      "contestedness": 0.07003875548525376,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.4341755182604856,
+        "knowledge_oriented": 0.3804591498227664
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10152510611275994
+      },
+      "cluster_means": {
+        "survival_focused": 0.10152510611275994,
+        "stability_seeking": 0.1705098986652944,
+        "achievement_oriented": 0.2112300467842867,
+        "care_oriented": 0.2760390023434821,
+        "knowledge_oriented": 0.3804591498227664,
+        "governance_oriented": 0.24054865415054816,
+        "sovereignty_order_oriented": 0.1360444151255766,
+        "expression_oriented": 0.4341755182604856,
+        "ecosystem_oriented": 0.31033845708425445
+      },
+      "priority_raw": 0.13715946173320023,
+      "contest_raw": 0.054630229278497935
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.12323189225193971,
+      "contest_score": 0.6705788038022541,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2102166612584531,
+      "contestedness": 0.05953931699805132,
+      "impact": 0.8400000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.3545984071069094,
+        "knowledge_oriented": 0.3039577138487193
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.10502735279636752
+      },
+      "cluster_means": {
+        "survival_focused": 0.10502735279636752,
+        "stability_seeking": 0.13282080141899413,
+        "achievement_oriented": 0.19236011841704545,
+        "care_oriented": 0.1961025121726443,
+        "knowledge_oriented": 0.3039577138487193,
+        "governance_oriented": 0.1802510119255567,
+        "sovereignty_order_oriented": 0.15439364007892292,
+        "expression_oriented": 0.3545984071069094,
+        "ecosystem_oriented": 0.27243839356091826
+      },
+      "priority_raw": 0.10594919727426037,
+      "contest_raw": 0.05001302627836311
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
@@ -1148,106 +1292,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.839347521505899,
-      "contest_score": -1.2148393718259296,
+      "priority_score": -0.13186814549146458,
+      "contest_score": -1.1023146290305643,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.5459907771220895,
-      "contestedness": 0.04816645641117623,
-      "impact": 0.315,
+      "central_tendency": 0.545296358151695,
+      "contestedness": 0.040602952466095577,
+      "impact": 0.32,
       "top_clusters": {
-        "expression_oriented": 0.6090139220225663,
-        "knowledge_oriented": 0.6073911673794133
+        "knowledge_oriented": 0.6055426448424652,
+        "expression_oriented": 0.600991449898535
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.4638559674879841
+        "sovereignty_order_oriented": 0.45663022126390473
       },
       "cluster_means": {
-        "survival_focused": 0.5012629697842776,
-        "stability_seeking": 0.5791054523469168,
-        "achievement_oriented": 0.5494294261954539,
-        "care_oriented": 0.5269909751546952,
-        "knowledge_oriented": 0.6073911673794133,
-        "governance_oriented": 0.5792240264069738,
-        "sovereignty_order_oriented": 0.4638559674879841,
-        "expression_oriented": 0.6090139220225663,
-        "ecosystem_oriented": 0.49764308732052365
+        "survival_focused": 0.49688786318882117,
+        "stability_seeking": 0.5798402312770096,
+        "achievement_oriented": 0.5443595504405871,
+        "care_oriented": 0.5603884974324395,
+        "knowledge_oriented": 0.6055426448424652,
+        "governance_oriented": 0.5964125378518969,
+        "sovereignty_order_oriented": 0.45663022126390473,
+        "expression_oriented": 0.600991449898535,
+        "ecosystem_oriented": 0.4666142271695948
       },
-      "priority_raw": 0.10319225687607492,
-      "contest_raw": 0.015172433769520512
+      "priority_raw": 0.10469690076512543,
+      "contest_raw": 0.012992944789150584
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.14421188225255327,
-      "contest_score": 0.8326340889368334,
+      "priority_score": -0.27980192433832113,
+      "contest_score": 0.6850789243254477,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.17667618612505331,
-      "contestedness": 0.07097640166283709,
-      "impact": 0.78,
+      "central_tendency": 0.18876603461220318,
+      "contestedness": 0.0684568784996833,
+      "impact": 0.735,
       "top_clusters": {
-        "expression_oriented": 0.33622404276452805,
-        "knowledge_oriented": 0.2999355174611379
+        "expression_oriented": 0.342385055142345,
+        "knowledge_oriented": 0.2888932395773683
       },
       "bottom_clusters": {
-        "survival_focused": 0.05732848992183534
+        "survival_focused": 0.07575346227405783
       },
       "cluster_means": {
-        "survival_focused": 0.05732848992183534,
-        "stability_seeking": 0.09474605241027204,
-        "achievement_oriented": 0.19507873951834975,
-        "care_oriented": 0.1681273796330729,
-        "knowledge_oriented": 0.2999355174611379,
-        "governance_oriented": 0.15059470362007443,
-        "sovereignty_order_oriented": 0.09715097797023581,
-        "expression_oriented": 0.33622404276452805,
-        "ecosystem_oriented": 0.1908997718259734
+        "survival_focused": 0.07575346227405783,
+        "stability_seeking": 0.1223841148431336,
+        "achievement_oriented": 0.11122391878008425,
+        "care_oriented": 0.24261456573035511,
+        "knowledge_oriented": 0.2888932395773683,
+        "governance_oriented": 0.17968079727976755,
+        "sovereignty_order_oriented": 0.10116871140714112,
+        "expression_oriented": 0.342385055142345,
+        "ecosystem_oriented": 0.23479044647557568
       },
-      "priority_raw": 0.06890371258877079,
-      "contest_raw": 0.05536159329701293
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.039169178203612195,
-      "contest_score": 0.529013724709095,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.1773575808797102,
-      "contestedness": 0.07318804819394138,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.4103410146232978,
-        "knowledge_oriented": 0.33343531682885885
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.04549868438412763
-      },
-      "cluster_means": {
-        "survival_focused": 0.04549868438412763,
-        "stability_seeking": 0.07857655367478908,
-        "achievement_oriented": 0.16522956126924626,
-        "care_oriented": 0.12298351433827491,
-        "knowledge_oriented": 0.33343531682885885,
-        "governance_oriented": 0.08117953600116076,
-        "sovereignty_order_oriented": 0.04979546614433353,
-        "expression_oriented": 0.4103410146232978,
-        "ecosystem_oriented": 0.27029626319576827
-      },
-      "priority_raw": 0.0598581835469022,
-      "contest_raw": 0.049401932530910436
+      "priority_raw": 0.0832458212639816,
+      "contest_raw": 0.05031580569726722
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
@@ -1256,325 +1364,217 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.08893811589831102,
-      "contest_score": -0.39896947588095727,
+      "priority_score": -0.33146808633874053,
+      "contest_score": 0.3482185396762934,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.13966730075700362,
-      "contestedness": 0.0455282718328216,
-      "impact": 0.6849999999999999,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.15571220911580635,
+      "contestedness": 0.06227592546357261,
+      "impact": 0.695,
       "top_clusters": {
-        "expression_oriented": 0.28051152939675156,
-        "knowledge_oriented": 0.24342702256468698
+        "expression_oriented": 0.3601007504251187,
+        "knowledge_oriented": 0.2868472161592014
       },
       "bottom_clusters": {
-        "survival_focused": 0.00989995312481562
+        "survival_focused": 0.009857776185475564
       },
       "cluster_means": {
-        "survival_focused": 0.00989995312481562,
-        "stability_seeking": 0.07546794966908657,
-        "achievement_oriented": 0.15923689496386986,
-        "care_oriented": 0.12099622150190817,
-        "knowledge_oriented": 0.24342702256468698,
-        "governance_oriented": 0.1028140729951357,
-        "sovereignty_order_oriented": 0.05417302500658941,
-        "expression_oriented": 0.28051152939675156,
-        "ecosystem_oriented": 0.16098442665990698
+        "survival_focused": 0.009857776185475564,
+        "stability_seeking": 0.08174989700384294,
+        "achievement_oriented": 0.13482332170481254,
+        "care_oriented": 0.13453947080038578,
+        "knowledge_oriented": 0.2868472161592014,
+        "governance_oriented": 0.1027422210886309,
+        "sovereignty_order_oriented": 0.018937650936149575,
+        "expression_oriented": 0.3601007504251187,
+        "ecosystem_oriented": 0.1968153962639584
       },
-      "priority_raw": 0.057403260611128486,
-      "contest_raw": 0.03118686620548279
+      "priority_raw": 0.07575398973483978,
+      "contest_raw": 0.043281768197182956
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.124066431626957,
-      "contest_score": 1.1660046434350007,
+      "priority_score": -0.37256262575598864,
+      "contest_score": 1.7778557451572516,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.14459871940407085,
-      "contestedness": 0.08039637716869583,
-      "impact": 0.77,
-      "top_clusters": {
-        "expression_oriented": 0.32780359347680527,
-        "knowledge_oriented": 0.2693911262646447
-      },
-      "bottom_clusters": {
-        "stability_seeking": 0.017981915854866887
-      },
-      "cluster_means": {
-        "survival_focused": 0.04566831462795368,
-        "stability_seeking": 0.017981915854866887,
-        "achievement_oriented": 0.1538902968030817,
-        "care_oriented": 0.11995700682433952,
-        "knowledge_oriented": 0.2693911262646447,
-        "governance_oriented": 0.03145452036428198,
-        "sovereignty_order_oriented": 0.03956062965564369,
-        "expression_oriented": 0.32780359347680527,
-        "ecosystem_oriented": 0.19031574932826445
-      },
-      "priority_raw": 0.055670506970567274,
-      "contest_raw": 0.06190521041989579
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.16301594746525924,
-      "contest_score": -0.40899810224215005,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.3011163431576026,
-      "contestedness": 0.05208406338276486,
-      "impact": 0.595,
-      "top_clusters": {
-        "expression_oriented": 0.4039941480721944,
-        "knowledge_oriented": 0.3711092425536606
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.19298962878713447
-      },
-      "cluster_means": {
-        "survival_focused": 0.2837696175864535,
-        "stability_seeking": 0.2624308154014102,
-        "achievement_oriented": 0.3502248921195442,
-        "care_oriented": 0.23168555420368867,
-        "knowledge_oriented": 0.3711092425536606,
-        "governance_oriented": 0.19298962878713447,
-        "sovereignty_order_oriented": 0.28025587818038145,
-        "expression_oriented": 0.4039941480721944,
-        "ecosystem_oriented": 0.3335873115139558
-      },
-      "priority_raw": 0.053749267253632056,
-      "contest_raw": 0.03099001771274509
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.1676232292904897,
-      "contest_score": -1.4986684967974786,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.31953436769962457,
-      "contestedness": 0.028660443286943393,
-      "impact": 0.335,
-      "top_clusters": {
-        "expression_oriented": 0.39579484277964416,
-        "knowledge_oriented": 0.38008216167009456
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.26301983283428687
-      },
-      "cluster_means": {
-        "survival_focused": 0.28408802558934554,
-        "stability_seeking": 0.3421257363752641,
-        "achievement_oriented": 0.3270630103314951,
-        "care_oriented": 0.28987099455855925,
-        "knowledge_oriented": 0.38008216167009456,
-        "governance_oriented": 0.2984025670445517,
-        "sovereignty_order_oriented": 0.26301983283428687,
-        "expression_oriented": 0.39579484277964416,
-        "ecosystem_oriented": 0.2953621381133802
-      },
-      "priority_raw": 0.053522006589687116,
-      "contest_raw": 0.009601248501126038
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.28674260100167903,
-      "contest_score": 1.3364765740069051,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6388888888888888,
-      "central_tendency": 0.12216993804526712,
-      "contestedness": 0.08365557167986858,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.17896177483691764,
+      "contestedness": 0.09376187119900772,
       "impact": 0.78,
       "top_clusters": {
-        "expression_oriented": 0.2960497844036514,
-        "knowledge_oriented": 0.22520781255393676
+        "expression_oriented": 0.38145905862774654,
+        "knowledge_oriented": 0.3140578997830096
       },
       "bottom_clusters": {
-        "survival_focused": -0.0367490611554894
+        "survival_focused": 0.0242037493711538
       },
       "cluster_means": {
-        "survival_focused": -0.0367490611554894,
-        "stability_seeking": 5.716222977930618e-06,
-        "achievement_oriented": 0.0836612879028465,
-        "care_oriented": 0.10295295690545656,
-        "knowledge_oriented": 0.22520781255393676,
-        "governance_oriented": 0.036012054212697486,
-        "sovereignty_order_oriented": -0.012179274634046361,
-        "expression_oriented": 0.2960497844036514,
-        "ecosystem_oriented": 0.13440797029787072
+        "survival_focused": 0.0242037493711538,
+        "stability_seeking": 0.07257799466686513,
+        "achievement_oriented": 0.1344836277228587,
+        "care_oriented": 0.22427916875093842,
+        "knowledge_oriented": 0.3140578997830096,
+        "governance_oriented": 0.12360800122162977,
+        "sovereignty_order_oriented": 0.04072175652385099,
+        "expression_oriented": 0.38145905862774654,
+        "ecosystem_oriented": 0.24929680164739798
       },
-      "priority_raw": 0.04764627583765418,
-      "contest_raw": 0.06525134591029749
+      "priority_raw": 0.06979509218639789,
+      "contest_raw": 0.07313425953522602
     }
   ],
   "mood": {
-    "score": 0.02036724307506587,
+    "score": 0.020796490153148748,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "name": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "root_cause": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "target": "Orangutans released back into Borneo forest after devastating fires",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "name": "Orangutans released back into Borneo forest after devastating fires",
+      "root_cause": "Orangutans released back into Borneo forest after devastating fires",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 3.508177801672955,
-      "contest_score": 0.2652763289955168,
-      "contestedness": 0.06803864765564815,
+      "priority_score": 3.2915662217848354,
+      "contest_score": -0.35888815530594054,
+      "contestedness": 0.041031016045620206,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices"
+        "Orangutans released back into Borneo forest after devastating fires"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices fade or reverse without spillover."
+      "prediction": "Momentum around Orangutans released back into Borneo forest after devastating fires is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Orangutans released back into Borneo forest after devastating fires fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "US country music star Ella Langley cancels show due to 'security threat'",
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "name": "US country music star Ella Langley cancels show due to 'security threat'",
-      "root_cause": "US country music star Ella Langley cancels show due to 'security threat'",
+      "target": "Poland detains man suspected of planning assassination of PM Tusk",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "name": "Poland detains man suspected of planning assassination of PM Tusk",
+      "root_cause": "Poland detains man suspected of planning assassination of PM Tusk",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.7961792893350836,
-      "contest_score": -0.9125389661322535,
-      "contestedness": 0.047429630379594134,
+      "priority_score": 2.0531869241461496,
+      "contest_score": 1.3772900504078387,
+      "contestedness": 0.10041857503995755,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, sovereignty_order_oriented.",
       "signal_count": 1,
       "signals": [
-        "US country music star Ella Langley cancels show due to 'security threat'"
+        "Poland detains man suspected of planning assassination of PM Tusk"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around US country music star Ella Langley cancels show due to 'security threat' is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to US country music star Ella Langley cancels show due to 'security threat' fade or reverse without spillover."
+      "prediction": "Momentum around Poland detains man suspected of planning assassination of PM Tusk is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Poland detains man suspected of planning assassination of PM Tusk fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "name": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "root_cause": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "target": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "name": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "root_cause": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.839347521505899,
-      "contest_score": -1.2148393718259296,
-      "contestedness": 0.04816645641117623,
+      "priority_score": 0.9098224089719725,
+      "contest_score": -0.9360590954914758,
+      "contestedness": 0.029935552961479206,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, sovereignty_order_oriented.",
       "signal_count": 1,
       "signals": [
-        "Expedition hopes to find aviator Amelia Earhart's plane on remote island"
+        "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Expedition hopes to find aviator Amelia Earhart's plane on remote island is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Expedition hopes to find aviator Amelia Earhart's plane on remote island fade or reverse without spillover."
+      "prediction": "Momentum around Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "name": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "root_cause": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "target": "Pope Leo to have surgery after lump found on lung",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "name": "Pope Leo to have surgery after lump found on lung",
+      "root_cause": "Pope Leo to have surgery after lump found on lung",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.14421188225255327,
-      "contest_score": 0.8326340889368334,
-      "contestedness": 0.07097640166283709,
+      "priority_score": 0.5903041747568543,
+      "contest_score": -0.9840071613089786,
+      "contestedness": 0.028115168405166813,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Four dead and thousands without power after Hurricane Isaias lashes US"
+        "Pope Leo to have surgery after lump found on lung"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Four dead and thousands without power after Hurricane Isaias lashes US is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Four dead and thousands without power after Hurricane Isaias lashes US fade or reverse without spillover."
+      "prediction": "Momentum around Pope Leo to have surgery after lump found on lung is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Pope Leo to have surgery after lump found on lung fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "name": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "root_cause": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "target": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "name": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "root_cause": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": -0.039169178203612195,
-      "contest_score": 0.529013724709095,
-      "contestedness": 0.07318804819394138,
+      "priority_score": 0.09200447195875286,
+      "contest_score": 0.8916968712862579,
+      "contestedness": 0.07003875548525376,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Three men found guilty of murdering Australian brothers and US friend in Mexico"
+        "One killed, 11 injured in second Houthi strike on Riyadh airport in two days"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Three men found guilty of murdering Australian brothers and US friend in Mexico is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Three men found guilty of murdering Australian brothers and US friend in Mexico fade or reverse without spillover."
+      "prediction": "Momentum around One killed, 11 injured in second Houthi strike on Riyadh airport in two days is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to One killed, 11 injured in second Houthi strike on Riyadh airport in two days fade or reverse without spillover."
     }
   ],
   "predictions": [],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals suggest a complex interplay of geopolitical maneuvers, domestic instability, and historical curiosity, with a cautious undertone driven by contested narratives and survival-focused priorities. The structural pattern highlights mounting pressures in energy markets and security concerns across multiple regions.\n\n---\n\n**1. Energy markets and geopolitical maneuvering dominate the structural landscape.**  \nThe headline regarding Trump's unexpected Russia fuel deal underscores the growing urgency to stabilize energy prices amidst global inflationary pressures. While framed positively, the deal raises questions about long-term dependencies and the geopolitical cost of such alignments. The agreement appears achievement-oriented, but its survival-focused undertones suggest a reactive rather than strategic approach. Supporting signals, such as Zelensky's condemnation of the deal, point to contested narratives that could further strain US-Ukraine relations. Structurally, this highlights the fragility of alliances in the face of economic imperatives.\n\n---\n\n**2. Security threats and instability remain prominent across multiple regions.**  \nThe cancellation of Ella Langley's concert due to a security threat reflects broader concerns about domestic safety and stability, particularly in public spaces. This signal aligns with other supporting narratives, such as the knife attack in Poland and the airport assault in Riyadh, emphasizing a global trend of localized violence. While these events are isolated, they collectively reinforce the survival-focused mood and the need for heightened vigilance. The contestedness of these signals suggests disagreement over their broader implications but does not diminish their immediate significance.\n\n---\n\n**3. Historical curiosity and resilience emerge as counterpoints to the day's heavier themes.**  \nThe expedition to locate Amelia Earhart's plane, while lower in priority, provides a knowledge-oriented counterbalance to the day's survival-driven signals. This effort reflects humanity's enduring pursuit of exploration and understanding, even amidst crises. Similarly, the aftermath of Hurricane Isaias, though tragic, showcases resilience and recovery in the face of natural disasters. These signals, while less contested, offer a glimpse of stability-seeking behaviors that could shape longer-term trajectories.\n\n---\n\n**What to watch for next:**  \n- **Energy dependencies:** Monitor reactions to the US-Russia fuel deal, particularly from European allies and Ukraine, as this could reshape geopolitical alignments.  \n- **Localized violence:** Pay attention to patterns in domestic security threats, especially in regions experiencing repeated incidents, as they may signal deeper systemic instability.  \n- **Resilience narratives:** Track recovery efforts from Hurricane Isaias and similar events to assess the capacity for adaptation in crisis-prone areas.  \n\nToday's signals suggest a cautious outlook, with structural tensions in energy markets and security concerns requiring close attention. Longer-term trajectories may hinge on how these immediate pressures are managed.",
+  "narrative": "🟡 **Cautious mood persists as signals highlight a mix of positive developments and underlying tensions. Structural patterns suggest a focus on survival and stability, tempered by contested dynamics in geopolitics and security.**\n\nThe release of orangutans back into the Borneo forest after devastating fires stands out as a rare positive signal in today’s briefing. **This development reflects care-oriented and stability-seeking priorities**, underscoring efforts to restore ecological balance after environmental crises. While the act itself is a small step, it signals broader momentum toward conservation and recovery in regions affected by climate disasters. This is a reminder of the interplay between environmental resilience and long-term stability, particularly in regions vulnerable to ecological shocks.\n\nPoland’s detention of a suspect allegedly plotting to assassinate Prime Minister Tusk highlights **the survival-focused and sovereignty-oriented undertones of today’s signals**. While the immediate threat appears neutralized, the contestedness of this signal suggests broader concerns about political stability and the role of online radicalization in fueling violence. This event ties into longer-term trajectories of rising political polarization and security challenges in Europe, where sovereignty and order remain fragile amid external and internal pressures.\n\nSignals from the Middle East and Eastern Europe reflect ongoing geopolitical volatility. The second Houthi strike on Riyadh airport in two days and Ukraine’s attack on a Russian tech giant’s data center both underscore **persistent survival-focused dynamics** in regions marked by conflict. These actions are fact-based and completed events, but their contested nature highlights the difficulty in assessing their broader implications. The Houthi strike signals a continuation of instability in Yemen’s proxy conflict, while Ukraine’s targeting of Russian infrastructure reflects an escalation in hybrid warfare tactics. Both developments warrant close monitoring for ripple effects on regional alliances and civilian security.\n\nStructurally, today’s signals align with longer-term trends of heightened geopolitical contestation and environmental recovery efforts. The cautious mood reflects the tension between positive signals of care and stability—such as the orangutan release—and the survival-oriented signals of conflict and political instability. **The contestedness in several signals suggests that narratives around sovereignty, security, and resilience remain deeply polarized.**\n\nLooking ahead, watch for **concrete responses to the Houthi strikes and Ukraine’s escalation against Russian tech infrastructure**, as these could influence broader regional dynamics. Additionally, monitor Poland’s handling of political violence and its implications for European stability. On the environmental front, the success of Borneo’s orangutan release could serve as a model for post-crisis recovery efforts in other regions.",
   "noise_filtered": [
-    "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    "US country music star Ella Langley cancels show due to 'security threat'",
+    "Orangutans released back into Borneo forest after devastating fires",
+    "Poland detains man suspected of planning assassination of PM Tusk",
+    "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+    "Pope Leo to have surgery after lump found on lung",
+    "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+    "Children among 139 dead after boat capsizes off Djibouti, UN says",
     "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-    "Four dead and thousands without power after Hurricane Isaias lashes US",
-    "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+    "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
     "Woman injures three people in third Poland school knife attack in a week",
-    "Nord Stream trial: How German police followed the evidence - to Ukraine",
-    "JD Vance casts doubt on firing squad execution and says he would not watch it",
-    "Man named Hitler Mussolini elected mayor in Peru",
-    "Twelve killed in attack on airport in Saudi capital Riyadh",
-    "'Cockroach' group leaders among hundreds detained in Delhi protest",
-    "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-    "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-    "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-    "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-    "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-    "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+    "Riyadh airport attacks another dangerous moment in already tense conflict",
+    "Poland stabbings driven by online glorification of violence, Tusk says",
+    "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
     "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+    "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+    "Homes and bridges swept away as fresh floods hit Nepal",
+    "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "US justice department investigates TV networks over Trump pool coverage",
+    "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+    "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
     "Headmaster detained after BBC investigation into alleged sexual abuse of students"
   ],
   "matured_predictions": [],
@@ -1584,87 +1584,86 @@
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "France promises 3,000 extra teachers in first step to calm student protests",
+        "title": "US country music star Ella Langley cancels show due to 'security threat'",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Two Renoir paintings stolen from French museum are recovered",
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Crazy Rich Asians to return as TV show with original film's stars",
+        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+        "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "title": "Man named Hitler Mussolini elected mayor in Peru",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "US immigration officials defend ICE agents who shot man in same car as child",
+        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+        "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "JD Vance casts doubt on firing squad execution and says he would not watch it: -0.57 → -0.16"
+      "Expedition hopes to find aviator Amelia Earhart's plane on remote island: 0.84 → -0.13",
+      "Headmaster detained after BBC investigation into alleged sexual abuse of students: -1.25 → -0.85"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "Priority score movement — JD Vance casts doubt on firing squad execution and says he would not watch it: -0.57 → -0.16"
+      "Priority score movement — Expedition hopes to find aviator Amelia Earhart's plane on remote island: 0.84 → -0.13",
+      "Priority score movement — Headmaster detained after BBC investigation into alleged sexual abuse of students: -1.25 → -0.85"
     ],
     "continuing_priorities": [
-      "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "Man named Hitler Mussolini elected mayor in Peru",
-      "Russian search engine Yandex struggles after Ukrainian strikes on data centres"
+      "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "Woman injures three people in third Poland school knife attack in a week",
+      "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "Headmaster detained after BBC investigation into alleged sexual abuse of students"
     ],
-    "new_stories": 18,
-    "carried_stories": 2,
+    "new_stories": 15,
+    "carried_stories": 5,
     "total_stories": 20,
-    "summary": "16 priorities dropped: Navi Pillay, former UN human rights chief, wins Nobel Peace Prize (No longer in today's news feed — story left the RSS cycle); France promises 3,000 extra teachers in first step to calm student protests (No longer in today's news feed — story left the RSS cycle); Two Renoir paintings stolen from French museum are recovered (No longer in today's news feed — story left the RSS cycle); Crazy Rich Asians to return as TV show with original film's stars (No longer in today's news feed — story left the RSS cycle); Powerful magnitude 7.7 earthquake hits Panama, damaging buildings (No longer in today's news feed — story left the RSS cycle); Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say (No longer in today's news feed — story left the RSS cycle); Commentator Katie Zacharia picked as new White House press secretary (No longer in today's news feed — story left the RSS cycle); Ethiopia warns Eritrea it will defend itself after troops cross border (No longer in today's news feed — story left the RSS cycle); Three Saudi nationals killed in Houthi attacks on Riyadh airport (No longer in today's news feed — story left the RSS cycle); Doctor accused of 1994 Rwanda genocide offences to face trial in UK (No longer in today's news feed — story left the RSS cycle); Christa Pike has 'profound' health turnaround after botched execution, lawyers say (No longer in today's news feed — story left the RSS cycle); Cars torched and shops looted as anti-migrant violence erupts in South Africa (No longer in today's news feed — story left the RSS cycle); US immigration officials defend ICE agents who shot man in same car as child (No longer in today's news feed — story left the RSS cycle); Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' (No longer in today's news feed — story left the RSS cycle); Suspect linked to Monaco bomb attack on millionaire speaks to BBC (No longer in today's news feed — story left the RSS cycle); US unveils sanctions on ICC in move court condemns as 'assault on rule of law' (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: JD Vance casts doubt on firing squad execution and says he would not watch it: -0.57 → -0.16 · Structural shifts: Priority score movement — JD Vance casts doubt on firing squad execution and says he would not watch it: -0.57 → -0.16 · Signal freshness: 18 new, 2 carried, 20 total"
+    "summary": "15 priorities dropped: Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices (No longer in today's news feed — story left the RSS cycle); US country music star Ella Langley cancels show due to 'security threat' (No longer in today's news feed — story left the RSS cycle); Four dead and thousands without power after Hurricane Isaias lashes US (No longer in today's news feed — story left the RSS cycle); Three men found guilty of murdering Australian brothers and US friend in Mexico (No longer in today's news feed — story left the RSS cycle); Nord Stream trial: How German police followed the evidence - to Ukraine (No longer in today's news feed — story left the RSS cycle); JD Vance casts doubt on firing squad execution and says he would not watch it (No longer in today's news feed — story left the RSS cycle); Man named Hitler Mussolini elected mayor in Peru (No longer in today's news feed — story left the RSS cycle); Twelve killed in attack on airport in Saudi capital Riyadh (No longer in today's news feed — story left the RSS cycle); 'Cockroach' group leaders among hundreds detained in Delhi protest (No longer in today's news feed — story left the RSS cycle); Rogue Anthropic AI agent gave police fake tip in unsolved murder case (No longer in today's news feed — story left the RSS cycle); Russian glide bomb attack on Zaporizhzhia kills at least 20 people (No longer in today's news feed — story left the RSS cycle); Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says (No longer in today's news feed — story left the RSS cycle); Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says (No longer in today's news feed — story left the RSS cycle); 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal (No longer in today's news feed — story left the RSS cycle); Russian search engine Yandex struggles after Ukrainian strikes on data centres (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Expedition hopes to find aviator Amelia Earhart's plane on remote island: 0.84 → -0.13; Headmaster detained after BBC investigation into alleged sexual abuse of students: -1.25 → -0.85 · Structural shifts: Priority score movement — Expedition hopes to find aviator Amelia Earhart's plane on remote island: 0.84 → -0.13; Priority score movement — Headmaster detained after BBC investigation into alleged sexual abuse of students: -1.25 → -0.85 · Signal freshness: 15 new, 5 carried, 20 total"
   }
 }
