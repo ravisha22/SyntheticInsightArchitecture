@@ -1,105 +1,140 @@
 {
-  "report_date": "2026-10-14",
-  "generated_at": "2026-10-13T23:41:21.330801+00:00",
+  "report_date": "2026-10-15",
+  "generated_at": "2026-10-14T23:06:08.942721+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "body": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "body": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 20:46:06 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 20:55:24 GMT"
     },
     {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "title": "Student protesters attack government buildings in Tirana",
+      "body": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 20:29:05 GMT"
+    },
+    {
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "body": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:12:46 GMT"
+    },
+    {
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "body": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:26:14 GMT"
+    },
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "body": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:41:51 GMT"
+    },
+    {
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "body": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 22:31:10 GMT"
+    },
+    {
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "body": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 17:23:01 GMT"
+    },
+    {
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "body": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 16:47:32 GMT"
+    },
+    {
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "body": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 14:18:18 GMT"
+    },
+    {
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "body": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:34:19 GMT"
+    },
+    {
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "body": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 10:50:11 GMT"
+    },
+    {
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "body": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 05:00:35 GMT"
+    },
+    {
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "body": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:24:25 GMT"
+    },
+    {
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "body": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "body": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "body": "It comes as the prime minister meets President Zelensky at Downing Street.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 15:52:15 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:56:57 GMT"
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "body": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "body": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:29:55 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 19:52:04 GMT"
     },
     {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "body": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "body": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:51:14 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:54:04 GMT"
     },
     {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "body": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "body": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 18:25:28 GMT"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:25:56 GMT"
     },
     {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "body": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "body": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:23:28 GMT"
-    },
-    {
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "body": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:31:10 GMT"
-    },
-    {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "body": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:14:33 GMT"
-    },
-    {
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "body": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:10:50 GMT"
-    },
-    {
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "body": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:36:43 GMT"
-    },
-    {
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "body": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 12:03:51 GMT"
-    },
-    {
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "body": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 08:03:34 GMT"
-    },
-    {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "body": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 14:51:59 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:26:54 GMT"
     },
     {
       "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
@@ -107,41 +142,6 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 22:02:09 GMT"
-    },
-    {
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
-      "body": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:01:43 GMT"
-    },
-    {
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "body": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:07:40 GMT"
-    },
-    {
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "body": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 13:27:31 GMT"
-    },
-    {
-      "title": "The island where locals say data centres are taking their water",
-      "body": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 22:30:55 GMT"
-    },
-    {
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "body": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:00:20 GMT"
     }
   ],
   "signals": [
@@ -149,144 +149,194 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "body": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "body": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 20:46:06 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 20:55:24 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "title": "Student protesters attack government buildings in Tirana",
+      "body": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 20:29:05 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "body": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:12:46 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "body": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:26:14 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "body": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:41:51 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "body": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 22:31:10 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "body": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 17:23:01 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "body": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 16:47:32 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "body": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 14:18:18 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "body": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:34:19 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "body": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 10:50:11 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "body": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 05:00:35 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "body": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:24:25 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "body": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
-      "number": 3,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "body": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 15:52:15 GMT"
-    },
-    {
-      "number": 4,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "body": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:29:55 GMT"
-    },
-    {
-      "number": 5,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "body": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:51:14 GMT"
-    },
-    {
-      "number": 6,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "body": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 18:25:28 GMT"
-    },
-    {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "body": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 19:23:28 GMT"
-    },
-    {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "body": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 23:31:10 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "body": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:14:33 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "body": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:10:50 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "body": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 17:36:43 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "body": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 12:03:51 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "body": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 08:03:34 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "body": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 14:51:59 GMT"
-    },
-    {
       "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "body": "It comes as the prime minister meets President Zelensky at Downing Street.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:56:57 GMT"
+    },
+    {
+      "number": 16,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "body": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 19:52:04 GMT"
+    },
+    {
+      "number": 17,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "body": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 15:54:04 GMT"
+    },
+    {
+      "number": 18,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "body": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 13:25:56 GMT"
+    },
+    {
+      "number": 19,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "body": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 23:26:54 GMT"
+    },
+    {
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
@@ -294,166 +344,116 @@
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 22:02:09 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
-      "body": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:01:43 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-      "body": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:07:40 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "body": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 13:27:31 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "The island where locals say data centres are taking their water",
-      "body": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 22:30:55 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "body": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 22:00:20 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.043586069975625,
-      "contest_score": -0.3414746816117468,
+      "priority_score": 3.3078542215570095,
+      "contest_score": 0.47303047524693886,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.4204004958768124,
+      "contestedness": 0.04847016593497511,
+      "impact": 0.78,
+      "top_clusters": {
+        "survival_focused": 1.4885950852924552,
+        "care_oriented": 1.4814138968308284
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 1.3412518632041077
+      },
+      "cluster_means": {
+        "survival_focused": 1.4885950852924552,
+        "stability_seeking": 1.4655388488693937,
+        "achievement_oriented": 1.4129549972108668,
+        "care_oriented": 1.4814138968308284,
+        "knowledge_oriented": 1.3970399533022304,
+        "governance_oriented": 1.4392851699413638,
+        "sovereignty_order_oriented": 1.3930398169641736,
+        "expression_oriented": 1.3644848312758917,
+        "ecosystem_oriented": 1.3412518632041077
+      },
+      "priority_raw": 0.8863299094271311,
+      "contest_raw": 0.03780672942928059
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.7710767967533474,
+      "contest_score": 0.6349723226549969,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.864492712602234,
-      "contestedness": 0.043618102715217266,
+      "central_tendency": 1.2306476405198075,
+      "contestedness": 0.06188075780186075,
+      "impact": 0.655,
+      "top_clusters": {
+        "governance_oriented": 1.31289097411678,
+        "care_oriented": 1.2994185596808792
+      },
+      "bottom_clusters": {
+        "expression_oriented": 1.1134658302677536
+      },
+      "cluster_means": {
+        "survival_focused": 1.260427223862794,
+        "stability_seeking": 1.2876638134715923,
+        "achievement_oriented": 1.2375378018790184,
+        "care_oriented": 1.2994185596808792,
+        "knowledge_oriented": 1.167807017815345,
+        "governance_oriented": 1.31289097411678,
+        "sovereignty_order_oriented": 1.2311828049509979,
+        "expression_oriented": 1.1134658302677536,
+        "ecosystem_oriented": 1.165434738633106
+      },
+      "priority_raw": 0.5642519431783317,
+      "contest_raw": 0.0405318963602188
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.3774250141251363,
+      "contest_score": 0.2595029705166612,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.0564700948256376,
+      "contestedness": 0.0600236421464988,
       "impact": 0.5700000000000001,
       "top_clusters": {
-        "stability_seeking": 0.9390673132650542,
-        "survival_focused": 0.9299666939479525
+        "survival_focused": 1.139083177172107,
+        "stability_seeking": 1.13541590126081
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.7811816171368183
+        "ecosystem_oriented": 0.9542616476680155
       },
       "cluster_means": {
-        "survival_focused": 0.9299666939479525,
-        "stability_seeking": 0.9390673132650542,
-        "achievement_oriented": 0.78875978613632,
-        "care_oriented": 0.9057438487487062,
-        "knowledge_oriented": 0.8400072152473959,
-        "governance_oriented": 0.906951481852934,
-        "sovereignty_order_oriented": 0.8633333791377167,
-        "expression_oriented": 0.8254230779472095,
-        "ecosystem_oriented": 0.7811816171368183
+        "survival_focused": 1.139083177172107,
+        "stability_seeking": 1.13541590126081,
+        "achievement_oriented": 0.9802087722584863,
+        "care_oriented": 1.1060291903016803,
+        "knowledge_oriented": 1.0363299207072494,
+        "governance_oriented": 1.098900555902516,
+        "sovereignty_order_oriented": 1.0460055481551815,
+        "expression_oriented": 1.0119961400046926,
+        "ecosystem_oriented": 0.9542616476680155
       },
-      "priority_raw": 0.3942086769466188,
-      "contest_raw": 0.024862318547673845
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.7979947544861044,
-      "contest_score": 0.32449770971859404,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5749864306866149,
-      "contestedness": 0.05479938577915994,
-      "impact": 0.6849999999999999,
-      "top_clusters": {
-        "care_oriented": 0.7061412124659822,
-        "survival_focused": 0.6475725304983679
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.4942891945422191
-      },
-      "cluster_means": {
-        "survival_focused": 0.6475725304983679,
-        "stability_seeking": 0.6147516116422245,
-        "achievement_oriented": 0.4942891945422191,
-        "care_oriented": 0.7061412124659822,
-        "knowledge_oriented": 0.5482869089046533,
-        "governance_oriented": 0.5572518802679219,
-        "sovereignty_order_oriented": 0.5538762272095668,
-        "expression_oriented": 0.5536314692181918,
-        "ecosystem_oriented": 0.4990768414304068
-      },
-      "priority_raw": 0.2757059935142318,
-      "contest_raw": 0.03753757925872456
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.18899970222935,
-      "contest_score": -1.220511187803134,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.764096875641845,
-      "contestedness": 0.017119726116054945,
-      "impact": 0.475,
-      "top_clusters": {
-        "stability_seeking": 0.8101621803411573,
-        "governance_oriented": 0.7945235460556483
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.6875528313272214
-      },
-      "cluster_means": {
-        "survival_focused": 0.7830573132259888,
-        "stability_seeking": 0.8101621803411573,
-        "achievement_oriented": 0.6875528313272214,
-        "care_oriented": 0.7695229899611069,
-        "knowledge_oriented": 0.7829493910717412,
-        "governance_oriented": 0.7945235460556483,
-        "sovereignty_order_oriented": 0.7414221669351706,
-        "expression_oriented": 0.7774038199395934,
-        "ecosystem_oriented": 0.7302776419189768
-      },
-      "priority_raw": 0.21776760955792582,
-      "contest_raw": 0.008131869905126099
+      "priority_raw": 0.48175036324049086,
+      "contest_raw": 0.03421347602350432
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
@@ -462,720 +462,720 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.8296330506136848,
-      "contest_score": -0.7124875149660688,
+      "priority_score": 0.22382353910492137,
+      "contest_score": -0.7808076489681067,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.746253234133186,
-      "contestedness": 0.04341692231568295,
-      "impact": 0.41000000000000003,
+      "central_tendency": 0.816253234133186,
+      "contestedness": 0.034096056622158866,
+      "impact": 0.49,
       "top_clusters": {
-        "care_oriented": 0.8160512116110625,
-        "stability_seeking": 0.8032833782978924
+        "care_oriented": 0.8860512116110625,
+        "stability_seeking": 0.8632833782978925
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.672495546057529
+        "ecosystem_oriented": 0.752495546057529
       },
       "cluster_means": {
-        "survival_focused": 0.7697696894545852,
-        "stability_seeking": 0.8032833782978924,
-        "achievement_oriented": 0.7071186577981027,
-        "care_oriented": 0.8160512116110625,
-        "knowledge_oriented": 0.7263527671389023,
-        "governance_oriented": 0.7928753485244658,
-        "sovereignty_order_oriented": 0.7053099071401897,
-        "expression_oriented": 0.7230226011759439,
-        "ecosystem_oriented": 0.672495546057529
+        "survival_focused": 0.8297696894545853,
+        "stability_seeking": 0.8632833782978925,
+        "achievement_oriented": 0.8071186577981027,
+        "care_oriented": 0.8860512116110625,
+        "knowledge_oriented": 0.7863527671389022,
+        "governance_oriented": 0.8628753485244658,
+        "sovereignty_order_oriented": 0.7853099071401897,
+        "expression_oriented": 0.7730226011759438,
+        "ecosystem_oriented": 0.752495546057529
       },
-      "priority_raw": 0.18357829559676378,
-      "contest_raw": 0.01780093814943001
+      "priority_raw": 0.23997845083515668,
+      "contest_raw": 0.016707067744857845
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "title": "Why the lonely in China are hiring 'temporary children'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.5677058538271533,
-      "contest_score": -1.0784518817614754,
+      "priority_score": 0.17471546357532963,
+      "contest_score": -1.2087314506901632,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7466312777271177,
-      "contestedness": 0.025495632379163302,
-      "impact": 0.42500000000000004,
-      "top_clusters": {
-        "care_oriented": 0.855515314015372,
-        "stability_seeking": 0.7913648228902914
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6725967250228256
-      },
-      "cluster_means": {
-        "survival_focused": 0.7682449105027229,
-        "stability_seeking": 0.7913648228902914,
-        "achievement_oriented": 0.723476731996862,
-        "care_oriented": 0.855515314015372,
-        "knowledge_oriented": 0.7289441414691048,
-        "governance_oriented": 0.7600002357474845,
-        "sovereignty_order_oriented": 0.6725967250228256,
-        "expression_oriented": 0.7427492781235596,
-        "ecosystem_oriented": 0.6767893397758349
-      },
-      "priority_raw": 0.15865914651701252,
-      "contest_raw": 0.010835643761144405
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.021537663442594,
-      "contest_score": 0.965017130386363,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.2045982075170159,
-      "contestedness": 0.066749531422967,
-      "impact": 0.7450000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4286045834030966,
-        "knowledge_oriented": 0.34367601513425683
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.0831235874425994
-      },
-      "cluster_means": {
-        "survival_focused": 0.0831235874425994,
-        "stability_seeking": 0.11582536010856723,
-        "achievement_oriented": 0.18412439910253056,
-        "care_oriented": 0.150067145133684,
-        "knowledge_oriented": 0.34367601513425683,
-        "governance_oriented": 0.1253737076743225,
-        "sovereignty_order_oriented": 0.083317613710717,
-        "expression_oriented": 0.4286045834030966,
-        "ecosystem_oriented": 0.2944066736668218
-      },
-      "priority_raw": 0.1066979652201238,
-      "contest_raw": 0.04972840091011042
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.012214095630445508,
-      "contest_score": -0.17586858501019195,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.29638919465971114,
-      "contestedness": 0.04708277594366406,
+      "central_tendency": 0.6433792029654605,
+      "contestedness": 0.015976371169816317,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.44628402410859846,
-        "knowledge_oriented": 0.403001693537832
+        "achievement_oriented": 0.6797673176975167,
+        "knowledge_oriented": 0.6733263249918602
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.18973914237785958
+        "ecosystem_oriented": 0.5657052134669837
       },
       "cluster_means": {
-        "survival_focused": 0.22597042894547992,
-        "stability_seeking": 0.25862552643344744,
-        "achievement_oriented": 0.2550323067579023,
-        "care_oriented": 0.3413930573583823,
-        "knowledge_oriented": 0.403001693537832,
-        "governance_oriented": 0.273053204889144,
-        "sovereignty_order_oriented": 0.18973914237785958,
-        "expression_oriented": 0.44628402410859846,
-        "ecosystem_oriented": 0.274403367528754
+        "survival_focused": 0.6573499538220439,
+        "stability_seeking": 0.6681010088955095,
+        "achievement_oriented": 0.6797673176975167,
+        "care_oriented": 0.645595658664049,
+        "knowledge_oriented": 0.6733263249918602,
+        "governance_oriented": 0.6138126243863188,
+        "sovereignty_order_oriented": 0.6163242930598766,
+        "expression_oriented": 0.6704304317049874,
+        "ecosystem_oriented": 0.5657052134669837
       },
-      "priority_raw": 0.10581094249351687,
-      "contest_raw": 0.028014251686480113
+      "priority_raw": 0.22968637545866938,
+      "contest_raw": 0.009505940846040709
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "signal_id": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.005326911676465824,
-      "contest_score": 2.482734766503093,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.21373112135159156,
-      "contestedness": 0.09587156529976498,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4296178854951967,
-        "knowledge_oriented": 0.3678412879728468
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.06506761503996192
-      },
-      "cluster_means": {
-        "survival_focused": 0.06506761503996192,
-        "stability_seeking": 0.11423602964942126,
-        "achievement_oriented": 0.23294101908194267,
-        "care_oriented": 0.21010759494918624,
-        "knowledge_oriented": 0.3678412879728468,
-        "governance_oriented": 0.1503191586175752,
-        "sovereignty_order_oriented": 0.08278804238217291,
-        "expression_oriented": 0.4296178854951967,
-        "ecosystem_oriented": 0.2642761775907389
-      },
-      "priority_raw": 0.10515571170498306,
-      "contest_raw": 0.07861468354580729
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.29534434682957106,
-      "contest_score": 0.8326495123380847,
+      "priority_score": 0.06677215962254449,
+      "contest_score": -0.9397289303190661,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2001321359449262,
-      "contestedness": 0.061711223738919574,
-      "impact": 0.765,
+      "central_tendency": 0.8417219797979411,
+      "contestedness": 0.03422617335889877,
+      "impact": 0.41000000000000003,
       "top_clusters": {
-        "expression_oriented": 0.3887920222398492,
-        "knowledge_oriented": 0.33897795169453127
+        "stability_seeking": 0.9051334088367056,
+        "achievement_oriented": 0.9046044413039442
       },
       "bottom_clusters": {
-        "survival_focused": 0.09246865959498562
+        "ecosystem_oriented": 0.7875286173058188
       },
       "cluster_means": {
-        "survival_focused": 0.09246865959498562,
-        "stability_seeking": 0.1058126734141395,
-        "achievement_oriented": 0.223146138722592,
-        "care_oriented": 0.17225361878088488,
-        "knowledge_oriented": 0.33897795169453127,
-        "governance_oriented": 0.13482844214170134,
-        "sovereignty_order_oriented": 0.11094487439584741,
-        "expression_oriented": 0.3887920222398492,
-        "ecosystem_oriented": 0.23396484251980446
+        "survival_focused": 0.8172894129660837,
+        "stability_seeking": 0.9051334088367056,
+        "achievement_oriented": 0.9046044413039442,
+        "care_oriented": 0.8310749095155395,
+        "knowledge_oriented": 0.832952504167392,
+        "governance_oriented": 0.8897942975549449,
+        "sovereignty_order_oriented": 0.8102714903744004,
+        "expression_oriented": 0.7968487361566408,
+        "ecosystem_oriented": 0.7875286173058188
       },
-      "priority_raw": 0.07655054199893428,
-      "contest_raw": 0.04720908616027347
+      "priority_raw": 0.20706360703029353,
+      "contest_raw": 0.014032731077148497
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3298151512411207,
-      "contest_score": -1.055238327749246,
+      "priority_score": -0.2026332837525753,
+      "contest_score": 0.42519219971260214,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3645326826465583,
-      "contestedness": 0.03366406163790836,
-      "impact": 0.335,
+      "central_tendency": 0.2758270829452465,
+      "contestedness": 0.047438082199395354,
+      "impact": 0.78,
       "top_clusters": {
-        "governance_oriented": 0.4254918305896872,
-        "care_oriented": 0.40501576273554185
+        "expression_oriented": 0.4163372746063486,
+        "knowledge_oriented": 0.38246257817976426
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.2970996865971721
+        "survival_focused": 0.16311175065405362
       },
       "cluster_means": {
-        "survival_focused": 0.32587987509962324,
-        "stability_seeking": 0.3808557623602803,
-        "achievement_oriented": 0.2970996865971721,
-        "care_oriented": 0.40501576273554185,
-        "knowledge_oriented": 0.3877890775461892,
-        "governance_oriented": 0.4254918305896872,
-        "sovereignty_order_oriented": 0.3222846801115604,
-        "expression_oriented": 0.38918576805659827,
-        "ecosystem_oriented": 0.34719170072237193
+        "survival_focused": 0.16311175065405362,
+        "stability_seeking": 0.21857595516142586,
+        "achievement_oriented": 0.2831189519823674,
+        "care_oriented": 0.23835997097183237,
+        "knowledge_oriented": 0.38246257817976426,
+        "governance_oriented": 0.2581703308862028,
+        "sovereignty_order_oriented": 0.21073224868680743,
+        "expression_oriented": 0.4163372746063486,
+        "ecosystem_oriented": 0.3115746853784168
       },
-      "priority_raw": 0.07327106921195822,
-      "contest_raw": 0.011277460648699302
+      "priority_raw": 0.15060158728810458,
+      "contest_raw": 0.037001704115528375
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.49133785844039446,
-      "contest_score": 0.6267315608911681,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9166666666666666,
-      "central_tendency": 0.11877778785312643,
-      "contestedness": 0.0532798881216025,
-      "impact": 0.8125,
-      "top_clusters": {
-        "expression_oriented": 0.248149656430716,
-        "knowledge_oriented": 0.21495351637025256
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.037649649294244275
-      },
-      "cluster_means": {
-        "survival_focused": 0.037649649294244275,
-        "stability_seeking": 0.04767474788969639,
-        "achievement_oriented": 0.15169940025937317,
-        "care_oriented": 0.11472607712409164,
-        "knowledge_oriented": 0.21495351637025256,
-        "governance_oriented": 0.05935162639382782,
-        "sovereignty_order_oriented": 0.06757466583079647,
-        "expression_oriented": 0.248149656430716,
-        "ecosystem_oriented": 0.11263151451543033
-      },
-      "priority_raw": 0.05790417157839913,
-      "contest_raw": 0.04328990909880204
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5391734155651349,
-      "contest_score": -1.0690949118062303,
+      "priority_score": -0.29044171564269644,
+      "contest_score": -0.6096297998060732,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.30487546890719297,
-      "contestedness": 0.031467806500889456,
-      "impact": 0.35,
+      "central_tendency": 0.7243763690879236,
+      "contestedness": 0.053664818236771605,
+      "impact": 0.365,
       "top_clusters": {
-        "achievement_oriented": 0.3782763117192268,
-        "expression_oriented": 0.3681553474092594
+        "expression_oriented": 0.8247251655777263,
+        "knowledge_oriented": 0.807866169985002
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.24554817504080004
+        "sovereignty_order_oriented": 0.5817821372691994
       },
       "cluster_means": {
-        "survival_focused": 0.2770159815416895,
-        "stability_seeking": 0.32611690831083084,
-        "achievement_oriented": 0.3782763117192268,
-        "care_oriented": 0.2487328760241675,
-        "knowledge_oriented": 0.3680652944761522,
-        "governance_oriented": 0.2676848450272103,
-        "sovereignty_order_oriented": 0.2642834806154006,
-        "expression_oriented": 0.3681553474092594,
-        "ecosystem_oriented": 0.24554817504080004
+        "survival_focused": 0.6143816337235308,
+        "stability_seeking": 0.738988377244632,
+        "achievement_oriented": 0.6853235590078604,
+        "care_oriented": 0.7572243349683019,
+        "knowledge_oriented": 0.807866169985002,
+        "governance_oriented": 0.7759569128308303,
+        "sovereignty_order_oriented": 0.5817821372691994,
+        "expression_oriented": 0.8247251655777263,
+        "ecosystem_oriented": 0.7331390311842293
       },
-      "priority_raw": 0.05335320705875877,
-      "contest_raw": 0.011013732275311309
+      "priority_raw": 0.13219868735854606,
+      "contest_raw": 0.019587658656421637
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5582973350773559,
-      "contest_score": 1.0427613776975306,
+      "priority_score": -0.3010223431744625,
+      "contest_score": 0.5907563505330928,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.10255482882920015,
-      "contestedness": 0.06114398182365663,
-      "impact": 0.8375,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.29242114371922856,
+      "contestedness": 0.06265799587605558,
+      "impact": 0.635,
       "top_clusters": {
-        "expression_oriented": 0.23998241274082568,
-        "knowledge_oriented": 0.2012728109060693
+        "expression_oriented": 0.3990878993244953,
+        "knowledge_oriented": 0.3655617314453762
       },
       "bottom_clusters": {
-        "survival_focused": -0.05157540575996267
+        "achievement_oriented": 0.21310187213414314
       },
       "cluster_means": {
-        "survival_focused": -0.05157540575996267,
-        "stability_seeking": -0.013385157642292728,
-        "achievement_oriented": 0.08178402427162433,
-        "care_oriented": 0.06505367364463435,
-        "knowledge_oriented": 0.2012728109060693,
-        "governance_oriented": 0.026479629123504045,
-        "sovereignty_order_oriented": 0.003909691820977723,
-        "expression_oriented": 0.23998241274082568,
-        "ecosystem_oriented": 0.099806350812561
+        "survival_focused": 0.2364715053584664,
+        "stability_seeking": 0.28499985267809375,
+        "achievement_oriented": 0.21310187213414314,
+        "care_oriented": 0.34765784855414933,
+        "knowledge_oriented": 0.3655617314453762,
+        "governance_oriented": 0.30903507801532243,
+        "sovereignty_order_oriented": 0.21890682709941095,
+        "expression_oriented": 0.3990878993244953,
+        "ecosystem_oriented": 0.25696767886359934
       },
-      "priority_raw": 0.051533801486673074,
-      "contest_raw": 0.05120808477731243
+      "priority_raw": 0.1299811983831971,
+      "contest_raw": 0.0397878273812953
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.31308175652870623,
+      "contest_score": 1.2689519487042942,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.25465291773708193,
+      "contestedness": 0.07160915075192806,
+      "impact": 0.7150000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.435112312211699,
+        "knowledge_oriented": 0.3802032509710268
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.11999284787384651
+      },
+      "cluster_means": {
+        "survival_focused": 0.12699825585698457,
+        "stability_seeking": 0.1968139823911902,
+        "achievement_oriented": 0.21388904832854366,
+        "care_oriented": 0.3191511618110449,
+        "knowledge_oriented": 0.3802032509710268,
+        "governance_oriented": 0.24754201105911686,
+        "sovereignty_order_oriented": 0.11999284787384651,
+        "expression_oriented": 0.435112312211699,
+        "ecosystem_oriented": 0.2521733891302851
+      },
+      "priority_raw": 0.1274537853274095,
+      "contest_raw": 0.05120054278762857
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+      "title": "Are the European Women's World Cup play-offs working?",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3908280905757876,
+      "contest_score": -1.3494459797686855,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.457447328679934,
+      "contestedness": 0.017624662904181687,
+      "impact": 0.405,
+      "top_clusters": {
+        "expression_oriented": 0.5012538739777966,
+        "knowledge_oriented": 0.4916950305982455
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.3850436001346781
+      },
+      "cluster_means": {
+        "survival_focused": 0.4204148400183211,
+        "stability_seeking": 0.48861705285734175,
+        "achievement_oriented": 0.4740703676940638,
+        "care_oriented": 0.48607279993674724,
+        "knowledge_oriented": 0.4916950305982455,
+        "governance_oriented": 0.4722117697185598,
+        "sovereignty_order_oriented": 0.3850436001346781,
+        "expression_oriented": 0.5012538739777966,
+        "ecosystem_oriented": 0.3976466231836517
+      },
+      "priority_raw": 0.11115970086922396,
+      "contest_raw": 0.007137988476193584
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.4339549511827923,
+      "contest_score": -1.4299679385795394,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7649525776319822,
+      "contestedness": 0.012995416221005751,
+      "impact": 0.44500000000000006,
+      "top_clusters": {
+        "expression_oriented": 0.8408607952090797,
+        "knowledge_oriented": 0.8314577364551431
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.6811402276841871
+      },
+      "cluster_means": {
+        "survival_focused": 0.72955571013759,
+        "stability_seeking": 0.768555399662751,
+        "achievement_oriented": 0.7609435217342917,
+        "care_oriented": 0.7479481055132859,
+        "knowledge_oriented": 0.8314577364551431,
+        "governance_oriented": 0.7507349687822924,
+        "sovereignty_order_oriented": 0.6811402276841871,
+        "expression_oriented": 0.8408607952090797,
+        "ecosystem_oriented": 0.7733767335092192
+      },
+      "priority_raw": 0.10212116911386963,
+      "contest_raw": 0.00578296021834756
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "title": "Student protesters attack government buildings in Tirana",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.43555918987604064,
+      "contest_score": 1.902916912586675,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8333333333333334,
+      "central_tendency": 0.2092188131721261,
+      "contestedness": 0.08902006112119609,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.47654770815089453,
+        "knowledge_oriented": 0.40843807574036156
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": -0.0034158620504328996
+      },
+      "cluster_means": {
+        "survival_focused": 0.002325717099144836,
+        "stability_seeking": 0.09191572500743242,
+        "achievement_oriented": 0.22573790360269844,
+        "care_oriented": 0.1809357861286285,
+        "knowledge_oriented": 0.40843807574036156,
+        "governance_oriented": 0.1278573319455465,
+        "sovereignty_order_oriented": -0.0034158620504328996,
+        "expression_oriented": 0.47654770815089453,
+        "ecosystem_oriented": 0.210305572200788
+      },
+      "priority_raw": 0.10178495260823932,
+      "contest_raw": 0.06186894247923128
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.43837547590738685,
+      "contest_score": -0.30447313188466385,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.27648829262398855,
+      "contestedness": 0.04052926722704636,
+      "impact": 0.61,
+      "top_clusters": {
+        "expression_oriented": 0.38779881281045464,
+        "knowledge_oriented": 0.3556037978254488
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.21956362901762377
+      },
+      "cluster_means": {
+        "survival_focused": 0.22253920835644014,
+        "stability_seeking": 0.2657166977198018,
+        "achievement_oriented": 0.2251874304927554,
+        "care_oriented": 0.3010364654954238,
+        "knowledge_oriented": 0.3556037978254488,
+        "governance_oriented": 0.2700939692847461,
+        "sovereignty_order_oriented": 0.21956362901762377,
+        "expression_oriented": 0.38779881281045464,
+        "ecosystem_oriented": 0.24085462261320273
+      },
+      "priority_raw": 0.10119471510037979,
+      "contest_raw": 0.02472285300849828
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.4682496091353421,
+      "contest_score": 0.41433731065270335,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.2276587320704332,
+      "contestedness": 0.05297703223614733,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.4279181712603047,
+        "knowledge_oriented": 0.3702901542304444
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.10635609825753567
+      },
+      "cluster_means": {
+        "survival_focused": 0.11550578538459641,
+        "stability_seeking": 0.15586948382099441,
+        "achievement_oriented": 0.17932390481184984,
+        "care_oriented": 0.24998719867425398,
+        "knowledge_oriented": 0.3702901542304444,
+        "governance_oriented": 0.19701016643810665,
+        "sovereignty_order_oriented": 0.10635609825753567,
+        "expression_oriented": 0.4279181712603047,
+        "ecosystem_oriented": 0.2466676257558129
+      },
+      "priority_raw": 0.09493369127337063,
+      "contest_raw": 0.036819037404122394
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.642905567814346,
+      "contest_score": 0.6381564291696898,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.21764655970666805,
+      "contestedness": 0.06057534133117137,
+      "impact": 0.6699999999999999,
+      "top_clusters": {
+        "expression_oriented": 0.3486734919383948,
+        "knowledge_oriented": 0.29927902857835553
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.1232060283525618
+      },
+      "cluster_means": {
+        "survival_focused": 0.17810611383268457,
+        "stability_seeking": 0.13514790417654565,
+        "achievement_oriented": 0.22640307100073173,
+        "care_oriented": 0.21165538547340335,
+        "knowledge_oriented": 0.29927902857835553,
+        "governance_oriented": 0.1232060283525618,
+        "sovereignty_order_oriented": 0.16411728720276036,
+        "expression_oriented": 0.3486734919383948,
+        "ecosystem_oriented": 0.2722307268045747
+      },
+      "priority_raw": 0.058329278001387035,
+      "contest_raw": 0.040585478691884815
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5824099765202634,
-      "contest_score": -0.5870829758361843,
+      "priority_score": -0.6809539499369116,
+      "contest_score": -0.7391644076911339,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.13792655580409988,
-      "contestedness": 0.033928952308767676,
+      "central_tendency": 0.14105068424161096,
+      "contestedness": 0.029256878416533003,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.26815768174159027,
-        "knowledge_oriented": 0.21726361365860103
+        "expression_oriented": 0.2703889631170566,
+        "knowledge_oriented": 0.22130137515165305
       },
       "bottom_clusters": {
-        "survival_focused": 0.07691045338064473
+        "survival_focused": 0.07420645247103011
       },
       "cluster_means": {
-        "survival_focused": 0.07691045338064473,
-        "stability_seeking": 0.1108394056894124,
-        "achievement_oriented": 0.0782389706968861,
-        "care_oriented": 0.15133962820511573,
-        "knowledge_oriented": 0.21726361365860103,
-        "governance_oriented": 0.09833619224982676,
-        "sovereignty_order_oriented": 0.0808058870463852,
-        "expression_oriented": 0.26815768174159027,
-        "ecosystem_oriented": 0.15944716956843663
+        "survival_focused": 0.07420645247103011,
+        "stability_seeking": 0.11367116149571463,
+        "achievement_oriented": 0.09939804220671487,
+        "care_oriented": 0.1426122207460817,
+        "knowledge_oriented": 0.22130137515165305,
+        "governance_oriented": 0.09943646241999184,
+        "sovereignty_order_oriented": 0.08441428307918163,
+        "expression_oriented": 0.2703889631170566,
+        "ecosystem_oriented": 0.16402719748707434
       },
-      "priority_raw": 0.04923978042206365,
-      "contest_raw": 0.020187726623716765
+      "priority_raw": 0.05035509427425511,
+      "contest_raw": 0.017407842657837135
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5936067273971619,
-      "contest_score": 0.4370555893244309,
+      "priority_score": -0.7187589613284312,
+      "contest_score": 2.066390940364506,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8611111111111112,
-      "central_tendency": 0.12594652910125173,
-      "contestedness": 0.05186909929722952,
+      "sign_agreement": 0.5277777777777778,
+      "central_tendency": 0.11093311427255936,
+      "contestedness": 0.08447044840722834,
       "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.2635353440486863,
-        "knowledge_oriented": 0.23343468604759102
+        "expression_oriented": 0.21594959279308748,
+        "knowledge_oriented": 0.15093003611249134
       },
       "bottom_clusters": {
-        "survival_focused": 0.012569789855437719
+        "survival_focused": -0.09334169649551688
       },
       "cluster_means": {
-        "survival_focused": 0.012569789855437719,
-        "stability_seeking": 0.03700407034277739,
-        "achievement_oriented": 0.14614535377295793,
-        "care_oriented": 0.1112312450442689,
-        "knowledge_oriented": 0.23343468604759102,
-        "governance_oriented": 0.06857550152833958,
-        "sovereignty_order_oriented": 0.05936214574703938,
-        "expression_oriented": 0.2635353440486863,
-        "ecosystem_oriented": 0.15112304545544875
+        "survival_focused": -0.09334169649551688,
+        "stability_seeking": -0.0642144057471799,
+        "achievement_oriented": 0.020256042660048434,
+        "care_oriented": 0.05231844069456609,
+        "knowledge_oriented": 0.15093003611249134,
+        "governance_oriented": -0.04025727925052314,
+        "sovereignty_order_oriented": -0.06847058890855112,
+        "expression_oriented": 0.21594959279308748,
+        "ecosystem_oriented": 0.09028778681674712
       },
-      "priority_raw": 0.04817454738122879,
-      "contest_raw": 0.03967986096238058
+      "priority_raw": 0.042431916209253955,
+      "contest_raw": 0.06461989303152968
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7191642326171231,
-      "contest_score": 0.5951462558199451,
+      "priority_score": -0.7774167426468093,
+      "contest_score": -0.6093133201005113,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.130321208887679,
-      "contestedness": 0.06142266918643191,
-      "impact": 0.6950000000000001,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.1225138721110713,
+      "contestedness": 0.031858511212222704,
+      "impact": 0.615,
       "top_clusters": {
-        "expression_oriented": 0.2985955681998821,
-        "knowledge_oriented": 0.22576259714724595
+        "expression_oriented": 0.24599994234636588,
+        "knowledge_oriented": 0.19037295266070278
       },
       "bottom_clusters": {
-        "survival_focused": -0.04837708886869904
+        "sovereignty_order_oriented": 0.05813754725195261
       },
       "cluster_means": {
-        "survival_focused": -0.04837708886869904,
-        "stability_seeking": -0.012590079599310189,
-        "achievement_oriented": 0.1157465820959312,
-        "care_oriented": 0.013045580317732869,
-        "knowledge_oriented": 0.22576259714724595,
-        "governance_oriented": -0.04692422700206689,
-        "sovereignty_order_oriented": -0.039542381970386314,
-        "expression_oriented": 0.2985955681998821,
-        "ecosystem_oriented": 0.11551908195531145
+        "survival_focused": 0.061747623792856726,
+        "stability_seeking": 0.08145824266295845,
+        "achievement_oriented": 0.08999605846417531,
+        "care_oriented": 0.14547631684625084,
+        "knowledge_oriented": 0.19037295266070278,
+        "governance_oriented": 0.06799781960358306,
+        "sovereignty_order_oriented": 0.05813754725195261,
+        "expression_oriented": 0.24599994234636588,
+        "ecosystem_oriented": 0.15571260052740432
       },
-      "priority_raw": 0.03622929607077477,
-      "contest_raw": 0.04268875508457018
+      "priority_raw": 0.03013841253932354,
+      "contest_raw": 0.019592984395516964
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "signal_id": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7833467435906855,
-      "contest_score": 1.210646252218768,
+      "priority_score": -0.8274855572360005,
+      "contest_score": -0.7029452523342247,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.1068195747664743,
-      "contestedness": 0.0771679279999024,
-      "impact": 0.705,
+      "sign_agreement": 0.5833333333333334,
+      "central_tendency": 0.06868876005148974,
+      "contestedness": 0.02519907794964768,
+      "impact": 0.715,
       "top_clusters": {
-        "expression_oriented": 0.24088521411422897,
-        "knowledge_oriented": 0.18514172663541678
+        "expression_oriented": 0.14899394166002167,
+        "ecosystem_oriented": 0.1015632046233173
       },
       "bottom_clusters": {
-        "survival_focused": -0.01789264402856286
+        "achievement_oriented": -0.030640707638897285
       },
       "cluster_means": {
-        "survival_focused": -0.01789264402856286,
-        "stability_seeking": -0.005337657452120503,
-        "achievement_oriented": 0.08297731158241521,
-        "care_oriented": 0.09136551978640106,
-        "knowledge_oriented": 0.18514172663541678,
-        "governance_oriented": 0.007179655210504066,
-        "sovereignty_order_oriented": 0.005809383582512817,
-        "expression_oriented": 0.24088521411422897,
-        "ecosystem_oriented": 0.14518799047868478
+        "survival_focused": -0.0252416378210871,
+        "stability_seeking": -0.009118565591042321,
+        "achievement_oriented": -0.030640707638897285,
+        "care_oriented": 0.08938966098231793,
+        "knowledge_oriented": 0.08580590378982955,
+        "governance_oriented": -0.008636357752004303,
+        "sovereignty_order_oriented": -0.005441629689249605,
+        "expression_oriented": 0.14899394166002167,
+        "ecosystem_oriented": 0.1015632046233173
       },
-      "priority_raw": 0.03012312008414575,
-      "contest_raw": 0.05440338923993118
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.7904883505106691,
-      "contest_score": -1.250571216360016,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.14648599045637856,
-      "contestedness": 0.02256640608800621,
-      "impact": 0.335,
-      "top_clusters": {
-        "expression_oriented": 0.2412334930282661,
-        "knowledge_oriented": 0.21262827096163361
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.08444882632641153
-      },
-      "cluster_means": {
-        "survival_focused": 0.1034648055323444,
-        "stability_seeking": 0.15231901436880058,
-        "achievement_oriented": 0.13500504095334404,
-        "care_oriented": 0.1403713750604148,
-        "knowledge_oriented": 0.21262827096163361,
-        "governance_oriented": 0.1357347469820991,
-        "sovereignty_order_oriented": 0.08444882632641153,
-        "expression_oriented": 0.2412334930282661,
-        "ecosystem_oriented": 0.1131683408940929
-      },
-      "priority_raw": 0.029443684081732088,
-      "contest_raw": 0.007559746039482081
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
-      "title": "The island where locals say data centres are taking their water",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.877714351346585,
-      "contest_score": 0.041462617933758536,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.05638720971918973,
-      "contestedness": 0.04286753850193842,
-      "impact": 0.75,
-      "top_clusters": {
-        "expression_oriented": 0.08185091895837254,
-        "knowledge_oriented": 0.05697140387750052
-      },
-      "bottom_clusters": {
-        "stability_seeking": -0.056406610964729736
-      },
-      "cluster_means": {
-        "survival_focused": -0.03717196756709212,
-        "stability_seeking": -0.056406610964729736,
-        "achievement_oriented": 0.02308131910108971,
-        "care_oriented": -0.011163250280843307,
-        "knowledge_oriented": 0.05697140387750052,
-        "governance_oriented": -0.05587637715286051,
-        "sovereignty_order_oriented": 0.005695570934846295,
-        "expression_oriented": 0.08185091895837254,
-        "ecosystem_oriented": 0.008488644116488836
-      },
-      "priority_raw": 0.02114520364469615,
-      "contest_raw": 0.032150653876453814
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.9062996127453609,
-      "contest_score": -1.0679214899274339,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.3962509212578837,
-      "contestedness": 0.02373347457196101,
-      "impact": 0.465,
-      "top_clusters": {
-        "expression_oriented": 0.5247264180043378,
-        "knowledge_oriented": 0.47956467554956744
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.2965582249975732
-      },
-      "cluster_means": {
-        "survival_focused": 0.3918070973534292,
-        "stability_seeking": 0.3739281125406759,
-        "achievement_oriented": 0.3660873305677754,
-        "care_oriented": 0.3517963297078335,
-        "knowledge_oriented": 0.47956467554956744,
-        "governance_oriented": 0.2965582249975732,
-        "sovereignty_order_oriented": 0.3501946379687149,
-        "expression_oriented": 0.5247264180043378,
-        "ecosystem_oriented": 0.4315954646310456
-      },
-      "priority_raw": 0.018425667838491595,
-      "contest_raw": 0.011036065675961871
+      "priority_raw": 0.019644985374726066,
+      "contest_raw": 0.01801734073399809
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.043586069975625,
-      "contest_score": -0.3414746816117468,
+      "priority_score": 3.3078542215570095,
+      "contest_score": 0.47303047524693886,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.4204004958768124,
+      "contestedness": 0.04847016593497511,
+      "impact": 0.78,
+      "top_clusters": {
+        "survival_focused": 1.4885950852924552,
+        "care_oriented": 1.4814138968308284
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 1.3412518632041077
+      },
+      "cluster_means": {
+        "survival_focused": 1.4885950852924552,
+        "stability_seeking": 1.4655388488693937,
+        "achievement_oriented": 1.4129549972108668,
+        "care_oriented": 1.4814138968308284,
+        "knowledge_oriented": 1.3970399533022304,
+        "governance_oriented": 1.4392851699413638,
+        "sovereignty_order_oriented": 1.3930398169641736,
+        "expression_oriented": 1.3644848312758917,
+        "ecosystem_oriented": 1.3412518632041077
+      },
+      "priority_raw": 0.8863299094271311,
+      "contest_raw": 0.03780672942928059
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.7710767967533474,
+      "contest_score": 0.6349723226549969,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.864492712602234,
-      "contestedness": 0.043618102715217266,
+      "central_tendency": 1.2306476405198075,
+      "contestedness": 0.06188075780186075,
+      "impact": 0.655,
+      "top_clusters": {
+        "governance_oriented": 1.31289097411678,
+        "care_oriented": 1.2994185596808792
+      },
+      "bottom_clusters": {
+        "expression_oriented": 1.1134658302677536
+      },
+      "cluster_means": {
+        "survival_focused": 1.260427223862794,
+        "stability_seeking": 1.2876638134715923,
+        "achievement_oriented": 1.2375378018790184,
+        "care_oriented": 1.2994185596808792,
+        "knowledge_oriented": 1.167807017815345,
+        "governance_oriented": 1.31289097411678,
+        "sovereignty_order_oriented": 1.2311828049509979,
+        "expression_oriented": 1.1134658302677536,
+        "ecosystem_oriented": 1.165434738633106
+      },
+      "priority_raw": 0.5642519431783317,
+      "contest_raw": 0.0405318963602188
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": 1.3774250141251363,
+      "contest_score": 0.2595029705166612,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 1.0564700948256376,
+      "contestedness": 0.0600236421464988,
       "impact": 0.5700000000000001,
       "top_clusters": {
-        "stability_seeking": 0.9390673132650542,
-        "survival_focused": 0.9299666939479525
+        "survival_focused": 1.139083177172107,
+        "stability_seeking": 1.13541590126081
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.7811816171368183
+        "ecosystem_oriented": 0.9542616476680155
       },
       "cluster_means": {
-        "survival_focused": 0.9299666939479525,
-        "stability_seeking": 0.9390673132650542,
-        "achievement_oriented": 0.78875978613632,
-        "care_oriented": 0.9057438487487062,
-        "knowledge_oriented": 0.8400072152473959,
-        "governance_oriented": 0.906951481852934,
-        "sovereignty_order_oriented": 0.8633333791377167,
-        "expression_oriented": 0.8254230779472095,
-        "ecosystem_oriented": 0.7811816171368183
+        "survival_focused": 1.139083177172107,
+        "stability_seeking": 1.13541590126081,
+        "achievement_oriented": 0.9802087722584863,
+        "care_oriented": 1.1060291903016803,
+        "knowledge_oriented": 1.0363299207072494,
+        "governance_oriented": 1.098900555902516,
+        "sovereignty_order_oriented": 1.0460055481551815,
+        "expression_oriented": 1.0119961400046926,
+        "ecosystem_oriented": 0.9542616476680155
       },
-      "priority_raw": 0.3942086769466188,
-      "contest_raw": 0.024862318547673845
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.7979947544861044,
-      "contest_score": 0.32449770971859404,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5749864306866149,
-      "contestedness": 0.05479938577915994,
-      "impact": 0.6849999999999999,
-      "top_clusters": {
-        "care_oriented": 0.7061412124659822,
-        "survival_focused": 0.6475725304983679
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.4942891945422191
-      },
-      "cluster_means": {
-        "survival_focused": 0.6475725304983679,
-        "stability_seeking": 0.6147516116422245,
-        "achievement_oriented": 0.4942891945422191,
-        "care_oriented": 0.7061412124659822,
-        "knowledge_oriented": 0.5482869089046533,
-        "governance_oriented": 0.5572518802679219,
-        "sovereignty_order_oriented": 0.5538762272095668,
-        "expression_oriented": 0.5536314692181918,
-        "ecosystem_oriented": 0.4990768414304068
-      },
-      "priority_raw": 0.2757059935142318,
-      "contest_raw": 0.03753757925872456
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.18899970222935,
-      "contest_score": -1.220511187803134,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.764096875641845,
-      "contestedness": 0.017119726116054945,
-      "impact": 0.475,
-      "top_clusters": {
-        "stability_seeking": 0.8101621803411573,
-        "governance_oriented": 0.7945235460556483
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.6875528313272214
-      },
-      "cluster_means": {
-        "survival_focused": 0.7830573132259888,
-        "stability_seeking": 0.8101621803411573,
-        "achievement_oriented": 0.6875528313272214,
-        "care_oriented": 0.7695229899611069,
-        "knowledge_oriented": 0.7829493910717412,
-        "governance_oriented": 0.7945235460556483,
-        "sovereignty_order_oriented": 0.7414221669351706,
-        "expression_oriented": 0.7774038199395934,
-        "ecosystem_oriented": 0.7302776419189768
-      },
-      "priority_raw": 0.21776760955792582,
-      "contest_raw": 0.008131869905126099
+      "priority_raw": 0.48175036324049086,
+      "contest_raw": 0.03421347602350432
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
@@ -1184,327 +1184,327 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.8296330506136848,
-      "contest_score": -0.7124875149660688,
+      "priority_score": 0.22382353910492137,
+      "contest_score": -0.7808076489681067,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.746253234133186,
-      "contestedness": 0.04341692231568295,
-      "impact": 0.41000000000000003,
+      "central_tendency": 0.816253234133186,
+      "contestedness": 0.034096056622158866,
+      "impact": 0.49,
       "top_clusters": {
-        "care_oriented": 0.8160512116110625,
-        "stability_seeking": 0.8032833782978924
+        "care_oriented": 0.8860512116110625,
+        "stability_seeking": 0.8632833782978925
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.672495546057529
+        "ecosystem_oriented": 0.752495546057529
       },
       "cluster_means": {
-        "survival_focused": 0.7697696894545852,
-        "stability_seeking": 0.8032833782978924,
-        "achievement_oriented": 0.7071186577981027,
-        "care_oriented": 0.8160512116110625,
-        "knowledge_oriented": 0.7263527671389023,
-        "governance_oriented": 0.7928753485244658,
-        "sovereignty_order_oriented": 0.7053099071401897,
-        "expression_oriented": 0.7230226011759439,
-        "ecosystem_oriented": 0.672495546057529
+        "survival_focused": 0.8297696894545853,
+        "stability_seeking": 0.8632833782978925,
+        "achievement_oriented": 0.8071186577981027,
+        "care_oriented": 0.8860512116110625,
+        "knowledge_oriented": 0.7863527671389022,
+        "governance_oriented": 0.8628753485244658,
+        "sovereignty_order_oriented": 0.7853099071401897,
+        "expression_oriented": 0.7730226011759438,
+        "ecosystem_oriented": 0.752495546057529
       },
-      "priority_raw": 0.18357829559676378,
-      "contest_raw": 0.01780093814943001
+      "priority_raw": 0.23997845083515668,
+      "contest_raw": 0.016707067744857845
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "title": "Why the lonely in China are hiring 'temporary children'",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.5677058538271533,
-      "contest_score": -1.0784518817614754,
+      "priority_score": 0.17471546357532963,
+      "contest_score": -1.2087314506901632,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7466312777271177,
-      "contestedness": 0.025495632379163302,
-      "impact": 0.42500000000000004,
-      "top_clusters": {
-        "care_oriented": 0.855515314015372,
-        "stability_seeking": 0.7913648228902914
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.6725967250228256
-      },
-      "cluster_means": {
-        "survival_focused": 0.7682449105027229,
-        "stability_seeking": 0.7913648228902914,
-        "achievement_oriented": 0.723476731996862,
-        "care_oriented": 0.855515314015372,
-        "knowledge_oriented": 0.7289441414691048,
-        "governance_oriented": 0.7600002357474845,
-        "sovereignty_order_oriented": 0.6725967250228256,
-        "expression_oriented": 0.7427492781235596,
-        "ecosystem_oriented": 0.6767893397758349
-      },
-      "priority_raw": 0.15865914651701252,
-      "contest_raw": 0.010835643761144405
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.021537663442594,
-      "contest_score": 0.965017130386363,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.2045982075170159,
-      "contestedness": 0.066749531422967,
-      "impact": 0.7450000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4286045834030966,
-        "knowledge_oriented": 0.34367601513425683
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.0831235874425994
-      },
-      "cluster_means": {
-        "survival_focused": 0.0831235874425994,
-        "stability_seeking": 0.11582536010856723,
-        "achievement_oriented": 0.18412439910253056,
-        "care_oriented": 0.150067145133684,
-        "knowledge_oriented": 0.34367601513425683,
-        "governance_oriented": 0.1253737076743225,
-        "sovereignty_order_oriented": 0.083317613710717,
-        "expression_oriented": 0.4286045834030966,
-        "ecosystem_oriented": 0.2944066736668218
-      },
-      "priority_raw": 0.1066979652201238,
-      "contest_raw": 0.04972840091011042
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.012214095630445508,
-      "contest_score": -0.17586858501019195,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.29638919465971114,
-      "contestedness": 0.04708277594366406,
+      "central_tendency": 0.6433792029654605,
+      "contestedness": 0.015976371169816317,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.44628402410859846,
-        "knowledge_oriented": 0.403001693537832
+        "achievement_oriented": 0.6797673176975167,
+        "knowledge_oriented": 0.6733263249918602
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.18973914237785958
+        "ecosystem_oriented": 0.5657052134669837
       },
       "cluster_means": {
-        "survival_focused": 0.22597042894547992,
-        "stability_seeking": 0.25862552643344744,
-        "achievement_oriented": 0.2550323067579023,
-        "care_oriented": 0.3413930573583823,
-        "knowledge_oriented": 0.403001693537832,
-        "governance_oriented": 0.273053204889144,
-        "sovereignty_order_oriented": 0.18973914237785958,
-        "expression_oriented": 0.44628402410859846,
-        "ecosystem_oriented": 0.274403367528754
+        "survival_focused": 0.6573499538220439,
+        "stability_seeking": 0.6681010088955095,
+        "achievement_oriented": 0.6797673176975167,
+        "care_oriented": 0.645595658664049,
+        "knowledge_oriented": 0.6733263249918602,
+        "governance_oriented": 0.6138126243863188,
+        "sovereignty_order_oriented": 0.6163242930598766,
+        "expression_oriented": 0.6704304317049874,
+        "ecosystem_oriented": 0.5657052134669837
       },
-      "priority_raw": 0.10581094249351687,
-      "contest_raw": 0.028014251686480113
+      "priority_raw": 0.22968637545866938,
+      "contest_raw": 0.009505940846040709
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "signal_id": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.005326911676465824,
-      "contest_score": 2.482734766503093,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.21373112135159156,
-      "contestedness": 0.09587156529976498,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4296178854951967,
-        "knowledge_oriented": 0.3678412879728468
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.06506761503996192
-      },
-      "cluster_means": {
-        "survival_focused": 0.06506761503996192,
-        "stability_seeking": 0.11423602964942126,
-        "achievement_oriented": 0.23294101908194267,
-        "care_oriented": 0.21010759494918624,
-        "knowledge_oriented": 0.3678412879728468,
-        "governance_oriented": 0.1503191586175752,
-        "sovereignty_order_oriented": 0.08278804238217291,
-        "expression_oriented": 0.4296178854951967,
-        "ecosystem_oriented": 0.2642761775907389
-      },
-      "priority_raw": 0.10515571170498306,
-      "contest_raw": 0.07861468354580729
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.29534434682957106,
-      "contest_score": 0.8326495123380847,
+      "priority_score": 0.06677215962254449,
+      "contest_score": -0.9397289303190661,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2001321359449262,
-      "contestedness": 0.061711223738919574,
-      "impact": 0.765,
+      "central_tendency": 0.8417219797979411,
+      "contestedness": 0.03422617335889877,
+      "impact": 0.41000000000000003,
       "top_clusters": {
-        "expression_oriented": 0.3887920222398492,
-        "knowledge_oriented": 0.33897795169453127
+        "stability_seeking": 0.9051334088367056,
+        "achievement_oriented": 0.9046044413039442
       },
       "bottom_clusters": {
-        "survival_focused": 0.09246865959498562
+        "ecosystem_oriented": 0.7875286173058188
       },
       "cluster_means": {
-        "survival_focused": 0.09246865959498562,
-        "stability_seeking": 0.1058126734141395,
-        "achievement_oriented": 0.223146138722592,
-        "care_oriented": 0.17225361878088488,
-        "knowledge_oriented": 0.33897795169453127,
-        "governance_oriented": 0.13482844214170134,
-        "sovereignty_order_oriented": 0.11094487439584741,
-        "expression_oriented": 0.3887920222398492,
-        "ecosystem_oriented": 0.23396484251980446
+        "survival_focused": 0.8172894129660837,
+        "stability_seeking": 0.9051334088367056,
+        "achievement_oriented": 0.9046044413039442,
+        "care_oriented": 0.8310749095155395,
+        "knowledge_oriented": 0.832952504167392,
+        "governance_oriented": 0.8897942975549449,
+        "sovereignty_order_oriented": 0.8102714903744004,
+        "expression_oriented": 0.7968487361566408,
+        "ecosystem_oriented": 0.7875286173058188
       },
-      "priority_raw": 0.07655054199893428,
-      "contest_raw": 0.04720908616027347
+      "priority_raw": 0.20706360703029353,
+      "contest_raw": 0.014032731077148497
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3298151512411207,
-      "contest_score": -1.055238327749246,
+      "priority_score": -0.2026332837525753,
+      "contest_score": 0.42519219971260214,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3645326826465583,
-      "contestedness": 0.03366406163790836,
-      "impact": 0.335,
+      "central_tendency": 0.2758270829452465,
+      "contestedness": 0.047438082199395354,
+      "impact": 0.78,
       "top_clusters": {
-        "governance_oriented": 0.4254918305896872,
-        "care_oriented": 0.40501576273554185
+        "expression_oriented": 0.4163372746063486,
+        "knowledge_oriented": 0.38246257817976426
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.2970996865971721
+        "survival_focused": 0.16311175065405362
       },
       "cluster_means": {
-        "survival_focused": 0.32587987509962324,
-        "stability_seeking": 0.3808557623602803,
-        "achievement_oriented": 0.2970996865971721,
-        "care_oriented": 0.40501576273554185,
-        "knowledge_oriented": 0.3877890775461892,
-        "governance_oriented": 0.4254918305896872,
-        "sovereignty_order_oriented": 0.3222846801115604,
-        "expression_oriented": 0.38918576805659827,
-        "ecosystem_oriented": 0.34719170072237193
+        "survival_focused": 0.16311175065405362,
+        "stability_seeking": 0.21857595516142586,
+        "achievement_oriented": 0.2831189519823674,
+        "care_oriented": 0.23835997097183237,
+        "knowledge_oriented": 0.38246257817976426,
+        "governance_oriented": 0.2581703308862028,
+        "sovereignty_order_oriented": 0.21073224868680743,
+        "expression_oriented": 0.4163372746063486,
+        "ecosystem_oriented": 0.3115746853784168
       },
-      "priority_raw": 0.07327106921195822,
-      "contest_raw": 0.011277460648699302
+      "priority_raw": 0.15060158728810458,
+      "contest_raw": 0.037001704115528375
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.29044171564269644,
+      "contest_score": -0.6096297998060732,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.7243763690879236,
+      "contestedness": 0.053664818236771605,
+      "impact": 0.365,
+      "top_clusters": {
+        "expression_oriented": 0.8247251655777263,
+        "knowledge_oriented": 0.807866169985002
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.5817821372691994
+      },
+      "cluster_means": {
+        "survival_focused": 0.6143816337235308,
+        "stability_seeking": 0.738988377244632,
+        "achievement_oriented": 0.6853235590078604,
+        "care_oriented": 0.7572243349683019,
+        "knowledge_oriented": 0.807866169985002,
+        "governance_oriented": 0.7759569128308303,
+        "sovereignty_order_oriented": 0.5817821372691994,
+        "expression_oriented": 0.8247251655777263,
+        "ecosystem_oriented": 0.7331390311842293
+      },
+      "priority_raw": 0.13219868735854606,
+      "contest_raw": 0.019587658656421637
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.3010223431744625,
+      "contest_score": 0.5907563505330928,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.29242114371922856,
+      "contestedness": 0.06265799587605558,
+      "impact": 0.635,
+      "top_clusters": {
+        "expression_oriented": 0.3990878993244953,
+        "knowledge_oriented": 0.3655617314453762
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.21310187213414314
+      },
+      "cluster_means": {
+        "survival_focused": 0.2364715053584664,
+        "stability_seeking": 0.28499985267809375,
+        "achievement_oriented": 0.21310187213414314,
+        "care_oriented": 0.34765784855414933,
+        "knowledge_oriented": 0.3655617314453762,
+        "governance_oriented": 0.30903507801532243,
+        "sovereignty_order_oriented": 0.21890682709941095,
+        "expression_oriented": 0.3990878993244953,
+        "ecosystem_oriented": 0.25696767886359934
+      },
+      "priority_raw": 0.1299811983831971,
+      "contest_raw": 0.0397878273812953
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.31308175652870623,
+      "contest_score": 1.2689519487042942,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.25465291773708193,
+      "contestedness": 0.07160915075192806,
+      "impact": 0.7150000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.435112312211699,
+        "knowledge_oriented": 0.3802032509710268
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.11999284787384651
+      },
+      "cluster_means": {
+        "survival_focused": 0.12699825585698457,
+        "stability_seeking": 0.1968139823911902,
+        "achievement_oriented": 0.21388904832854366,
+        "care_oriented": 0.3191511618110449,
+        "knowledge_oriented": 0.3802032509710268,
+        "governance_oriented": 0.24754201105911686,
+        "sovereignty_order_oriented": 0.11999284787384651,
+        "expression_oriented": 0.435112312211699,
+        "ecosystem_oriented": 0.2521733891302851
+      },
+      "priority_raw": 0.1274537853274095,
+      "contest_raw": 0.05120054278762857
     }
   ],
   "mood": {
-    "score": 0.024465142553062355,
+    "score": 0.04907735385575741,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "name": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "root_cause": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 3.043586069975625,
-      "contest_score": -0.3414746816117468,
-      "contestedness": 0.043618102715217266,
+      "target": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "name": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "root_cause": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "severity": "high",
+      "category": "convergent_priority",
+      "priority_score": 3.3078542215570095,
+      "contest_score": 0.47303047524693886,
+      "contestedness": 0.04847016593497511,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, survival_focused.",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from survival_focused, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Pope diagnosed with lung cancer but had successful surgery, Vatican says"
+        "Why is Starlink internet so important on the battlefield in Ukraine?"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Pope diagnosed with lung cancer but had successful surgery, Vatican says is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Pope diagnosed with lung cancer but had successful surgery, Vatican says fade or reverse without spillover."
+      "prediction": "Momentum around Why is Starlink internet so important on the battlefield in Ukraine? is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Why is Starlink internet so important on the battlefield in Ukraine? fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "name": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "root_cause": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "target": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "name": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "root_cause": "Burnham says he wants to 'repair bridges' between Ukraine and US",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.7979947544861044,
-      "contest_score": 0.32449770971859404,
-      "contestedness": 0.05479938577915994,
+      "priority_score": 1.7710767967533474,
+      "contest_score": 0.6349723226549969,
+      "contestedness": 0.06188075780186075,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Cornell bans all fraternity parties over gang sex assault allegations"
+        "Burnham says he wants to 'repair bridges' between Ukraine and US"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Cornell bans all fraternity parties over gang sex assault allegations is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Cornell bans all fraternity parties over gang sex assault allegations fade or reverse without spillover."
+      "prediction": "Momentum around Burnham says he wants to 'repair bridges' between Ukraine and US is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Burnham says he wants to 'repair bridges' between Ukraine and US fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
       "rank": 3,
-      "target": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "name": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "root_cause": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "target": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "name": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "root_cause": "Pope walking and recovering 'as expected' after surgery, doctors say",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.18899970222935,
-      "contest_score": -1.220511187803134,
-      "contestedness": 0.017119726116054945,
+      "priority_score": 1.3774250141251363,
+      "contest_score": 0.2595029705166612,
+      "contestedness": 0.0600236421464988,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, governance_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder"
+        "Pope walking and recovering 'as expected' after surgery, doctors say"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder fade or reverse without spillover."
+      "prediction": "Momentum around Pope walking and recovering 'as expected' after surgery, doctors say is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Pope walking and recovering 'as expected' after surgery, doctors say fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
@@ -1515,9 +1515,9 @@
       "root_cause": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.8296330506136848,
-      "contest_score": -0.7124875149660688,
-      "contestedness": 0.04341692231568295,
+      "priority_score": 0.22382353910492137,
+      "contest_score": -0.7808076489681067,
+      "contestedness": 0.034096056622158866,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
       "signal_count": 1,
@@ -1530,150 +1530,157 @@
       "falsification": "Signals tied to 'I'd talk to the TV': The paid companions bringing warmth to China's lonely fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Why the lonely in China are hiring 'temporary children'",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "name": "Why the lonely in China are hiring 'temporary children'",
-      "root_cause": "Why the lonely in China are hiring 'temporary children'",
+      "target": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "name": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "root_cause": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.5677058538271533,
-      "contest_score": -1.0784518817614754,
-      "contestedness": 0.025495632379163302,
+      "priority_score": 0.17471546357532963,
+      "contest_score": -1.2087314506901632,
+      "contestedness": 0.015976371169816317,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Why the lonely in China are hiring 'temporary children'"
+        "Musk says any limits on Ukraine's Starlink access down to US, not his firm"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Why the lonely in China are hiring 'temporary children' is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Why the lonely in China are hiring 'temporary children' fade or reverse without spillover."
+      "prediction": "Momentum around Musk says any limits on Ukraine's Starlink access down to US, not his firm is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Musk says any limits on Ukraine's Starlink access down to US, not his firm fade or reverse without spillover."
     }
   ],
-  "predictions": [],
-  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a mix of stability-seeking and care-oriented narratives, with a cautious undertone driven by contested developments and underlying vulnerabilities in governance, societal trust, and geopolitical dynamics.\n\n---\n\n**1. Structural resilience emerges as a dominant theme.**  \nThe Vatican's announcement of the Pope's successful lung cancer surgery highlights institutional stability amidst potential disruption. While the health of a global religious leader carries symbolic weight, the positive outcome reinforces continuity within the Catholic Church's leadership. This aligns with strong \"stability-seeking\" and \"survival-focused\" clusters, underscoring the importance of leadership durability in maintaining societal cohesion during uncertain times.\n\nSimilarly, Cornell University's decision to ban fraternity parties following gang-related sexual assault allegations signals a governance-oriented response to systemic risks within social institutions. This action reflects a broader trend of care-oriented measures aimed at safeguarding vulnerable populations, though it also highlights the fragility of trust within community structures.\n\n---\n\n**2. Contestation and governance vulnerabilities remain critical.**  \nThe sentencing of an ex-gang boss for orchestrating Tupac Shakur's murder marks a significant milestone in justice and accountability, resonating with governance-oriented and stability-seeking signals. However, contestedness in this signal suggests lingering societal divisions over the broader implications of organized crime and its historical impact on cultural narratives. This case serves as a reminder of the long-term challenges in addressing systemic criminal networks and their ripple effects on public trust.\n\nOn the global stage, speculative signals such as the MI5 chief's warnings about threats from Russia, Iran, and AI highlight vulnerabilities in governance and security frameworks. While these warnings are future-oriented and thus weighted lower, they underscore the growing complexity of hybrid threats that intertwine technological, geopolitical, and intelligence dimensions.\n\n---\n\n**3. Care-oriented signals reflect evolving societal dynamics.**  \nThe emergence of paid companionship services in China, including \"temporary children\" for the lonely, reflects a profound shift in societal care structures. These signals, while seemingly niche, point to broader trends of atomization and the monetization of emotional labor in aging populations. Stability-seeking and care-oriented clusters dominate this narrative, suggesting that societal fragmentation may increasingly drive innovative yet fragile solutions to loneliness and social isolation.\n\n---\n\n**4. Longer-term trajectories and watchpoints.**  \nThe structural patterns today emphasize the interplay between institutional resilience and societal vulnerabilities. Signals around governance responses—whether addressing crime, health, or community risks—highlight the need for sustained efforts to rebuild trust and stability. Meanwhile, speculative signals around AI and geopolitical threats suggest that emerging technologies will continue to challenge traditional security paradigms.\n\nLooking ahead, watch for concrete developments in governance reforms, particularly in response to contested societal issues like fraternity culture and organized crime. Additionally, monitor how institutions adapt to demographic shifts and emotional care needs, as these trends could redefine societal priorities in the coming years.\n\n---\n\n**Closing note:**  \nThe cautious mood reflects both resilience and fragility. While positive outcomes in leadership health and justice systems offer stability, contested signals and speculative risks highlight the need for vigilance. Focus on tracking actionable governance responses and structural adaptations to societal fragmentation.",
+  "predictions": [
+    {
+      "root_cause": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "prediction": "Momentum around Why is Starlink internet so important on the battlefield in Ukraine? is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "falsification": "Signals tied to Why is Starlink internet so important on the battlefield in Ukraine? fade or reverse without downstream spillover.",
+      "severity": "high"
+    }
+  ],
+  "narrative": "🟡 **Mood: Cautious. Today's signals highlight critical dependencies and contested narratives in global stability, with Ukraine's battlefield connectivity emerging as a pivotal theme.**\n\nThe structural pattern today underscores the importance of technological infrastructure in conflict zones, particularly the role of Starlink internet in Ukraine. **Starlink's battlefield significance** is not merely about connectivity; it reflects broader dependencies on private-sector innovation in modern warfare. The convergent priority signal around Starlink suggests its operational impact is both survival-focused and care-oriented, emphasizing its role in enabling critical communications and humanitarian coordination. Elon Musk's statement deflecting responsibility for access limitations to the U.S. government further complicates the narrative, raising questions about the intersection of corporate autonomy and geopolitical strategy. While the direction of this signal is positive, its contestedness highlights underlying tensions about accountability and control.\n\n**Burnham's remarks on repairing Ukraine-U.S. relations** signal a governance-oriented effort to stabilize diplomatic ties amid ongoing geopolitical strain. This aligns with broader care-oriented clusters, suggesting a focus on rebuilding trust and cooperation. However, the contestedness of this signal reflects skepticism about the feasibility of such efforts, given the complex backdrop of military aid, political alliances, and economic pressures. The trial of a Ukrainian accused of sabotaging Nord Stream pipelines adds another layer of contested narratives, potentially straining perceptions of Ukraine's role in regional stability.\n\nOther signals, such as the Pope's recovery post-surgery, provide a momentary reprieve from geopolitical intensity, emphasizing stability-seeking themes. However, background noise around student protests in Tirana and Kenya's confirmation of a second Ebola case point to localized disruptions that could escalate if left unchecked. These signals, while less prioritized, reflect vulnerabilities in governance and public health systems that could ripple outward.\n\nThe ensemble's contested signals reveal deeper structural tensions. For instance, the contestedness of Musk's Starlink statement and Burnham's diplomatic overtures suggests unresolved debates about power dynamics between private entities, governments, and international alliances. These narratives are not isolated but feed into longer-term trajectories of technological reliance, geopolitical realignment, and the fragility of global systems.\n\n**What to watch next:** Monitor Starlink's operational role in Ukraine for signs of expanded or restricted access, as this could shift battlefield dynamics and broader perceptions of corporate influence in war. Pay attention to Burnham's follow-through on repairing Ukraine-U.S. relations—any concrete actions or policy shifts will signal whether this narrative moves beyond rhetoric. Finally, track localized disruptions like the Tirana protests and Kenya's Ebola outbreak for potential escalation, as these could intersect with broader governance challenges.",
   "noise_filtered": [
-    "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-    "Cornell bans all fraternity parties over gang sex assault allegations",
-    "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+    "Burnham says he wants to 'repair bridges' between Ukraine and US",
+    "Pope walking and recovering 'as expected' after surgery, doctors say",
     "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-    "Why the lonely in China are hiring 'temporary children'",
-    "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-    "Argentina targets UK in legal claim over Falklands oil exploration",
-    "MI5 chief warns of threats to UK from Russia, Iran and AI",
-    "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-    "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-    "Who's to blame for the toxic smog choking South East Asia?",
-    "Zimbabwean author denies using AI to write award-winning story",
-    "Russian strikes hit key power plant in Kyiv, Zelensky says",
-    "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-    "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-    "Watch: Emergency calls from botched Christa Pike execution released",
-    "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-    "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-    "The island where locals say data centres are taking their water",
-    "Breaking Bad actor RJ Mitte dies aged 34"
+    "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+    "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+    "Kenya confirms second Ebola case - a relative of the first victim",
+    "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+    "US inflation rises more than expected - here's what is happening with prices",
+    "Hundreds of thousands of workers on strike across Republic of Ireland",
+    "Are the European Women's World Cup play-offs working?",
+    "World's oldest shipwreck found off coast of Turkey",
+    "Student protesters attack government buildings in Tirana",
+    "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+    "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+    "Saudi employee charged with planting recording device in OpenAI office",
+    "Mauritius reels from worst riots in decades after woman shot by police",
+    "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+    "Turkish police raid opposition TV station, halting live broadcasts"
   ],
   "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [],
+    "new_convergent": [
+      "Why is Starlink internet so important on the battlefield in Ukraine?"
+    ],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Poland detains man suspected of planning assassination of PM Tusk",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+        "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+        "title": "Why the lonely in China are hiring 'temporary children'",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Pupil arrested after two teachers shot at French school",
+        "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "title": "Argentina targets UK in legal claim over Falklands oil exploration",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "title": "Who's to blame for the toxic smog choking South East Asia?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Fridges in French supermarkets hit by cyber attack",
+        "title": "Zimbabwean author denies using AI to write award-winning story",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Qantas flight grounded after bedbug outbreak",
+        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+        "title": "Watch: Emergency calls from botched Christa Pike execution released",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+        "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+        "title": "The island where locals say data centres are taking their water",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+        "title": "Breaking Bad actor RJ Mitte dies aged 34",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "Breaking Bad actor RJ Mitte dies aged 34: -0.65 → -0.91"
+      "'I'd talk to the TV': The paid companions bringing warmth to China's lonely: 0.83 → 0.22"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "Priority score movement — Breaking Bad actor RJ Mitte dies aged 34: -0.65 → -0.91"
+      "convergent_priority: 0 → 1",
+      "Priority score movement — 'I'd talk to the TV': The paid companions bringing warmth to China's lonely: 0.83 → 0.22"
     ],
     "continuing_priorities": [
-      "Breaking Bad actor RJ Mitte dies aged 34"
+      "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "Saudi employee charged with planting recording device in OpenAI office"
     ],
     "new_stories": 19,
     "carried_stories": 1,
     "total_stories": 20,
-    "summary": "19 priorities dropped: US detains man accused in multi-billion Venezuelan money laundering scheme (No longer in today's news feed — story left the RSS cycle); Poland detains man suspected of planning assassination of PM Tusk (No longer in today's news feed — story left the RSS cycle); Women's billion-dollar boom leaves players behind, says Fifpro (No longer in today's news feed — story left the RSS cycle); Thousands march to Indian Supreme Court to demand election chief resign (No longer in today's news feed — story left the RSS cycle); Pupil arrested after two teachers shot at French school (No longer in today's news feed — story left the RSS cycle); Trump faces growing backlash over plans to import diesel from Russia (No longer in today's news feed — story left the RSS cycle); Saudi minister vows 'serious response' to Houthi attacks on airports (No longer in today's news feed — story left the RSS cycle); Ukraine strikes Yandex data centre in third attack on Russian tech giant (No longer in today's news feed — story left the RSS cycle); Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says (No longer in today's news feed — story left the RSS cycle); Why Moscow is staying tight-lipped on Trump's energy ceasefire (No longer in today's news feed — story left the RSS cycle); Fridges in French supermarkets hit by cyber attack (No longer in today's news feed — story left the RSS cycle); Children among 139 dead after boat capsizes off Djibouti, UN says (No longer in today's news feed — story left the RSS cycle); Qantas flight grounded after bedbug outbreak (No longer in today's news feed — story left the RSS cycle); Poland stabbings driven by online glorification of violence, Tusk says (No longer in today's news feed — story left the RSS cycle); Documents falsified to evade tax on Abramovich's wealth, BBC finds (No longer in today's news feed — story left the RSS cycle); Immigration agents search Congresswoman Ilhan Omar's home (No longer in today's news feed — story left the RSS cycle); Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds (No longer in today's news feed — story left the RSS cycle); Tom Cruise film Digger forecast to become one of Hollywood's biggest flops (No longer in today's news feed — story left the RSS cycle); South Africa's deputy police chief resigns after being charged with sexual offences (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Breaking Bad actor RJ Mitte dies aged 34: -0.65 → -0.91 · Structural shifts: Priority score movement — Breaking Bad actor RJ Mitte dies aged 34: -0.65 → -0.91 · Signal freshness: 19 new, 1 carried, 20 total"
+    "summary": "1 new convergent priorities emerged: Why is Starlink internet so important on the battlefield in Ukraine? · 18 priorities dropped: Pope diagnosed with lung cancer but had successful surgery, Vatican says (No longer in today's news feed — story left the RSS cycle); Cornell bans all fraternity parties over gang sex assault allegations (No longer in today's news feed — story left the RSS cycle); Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder (No longer in today's news feed — story left the RSS cycle); Why the lonely in China are hiring 'temporary children' (No longer in today's news feed — story left the RSS cycle); Horrified witnesses recount fatal rollercoaster incident at Six Flags (No longer in today's news feed — story left the RSS cycle); Argentina targets UK in legal claim over Falklands oil exploration (No longer in today's news feed — story left the RSS cycle); MI5 chief warns of threats to UK from Russia, Iran and AI (No longer in today's news feed — story left the RSS cycle); Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack (No longer in today's news feed — story left the RSS cycle); Is Zelensky right to say data centre strikes have taken down Russian bots? (No longer in today's news feed — story left the RSS cycle); Who's to blame for the toxic smog choking South East Asia? (No longer in today's news feed — story left the RSS cycle); Zimbabwean author denies using AI to write award-winning story (No longer in today's news feed — story left the RSS cycle); Russian strikes hit key power plant in Kyiv, Zelensky says (No longer in today's news feed — story left the RSS cycle); Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot (No longer in today's news feed — story left the RSS cycle); Watch: Emergency calls from botched Christa Pike execution released (No longer in today's news feed — story left the RSS cycle); Pakistan has locked down Imran Khan's stronghold - but it could backfire (No longer in today's news feed — story left the RSS cycle); Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations (No longer in today's news feed — story left the RSS cycle); The island where locals say data centres are taking their water (No longer in today's news feed — story left the RSS cycle); Breaking Bad actor RJ Mitte dies aged 34 (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: 'I'd talk to the TV': The paid companions bringing warmth to China's lonely: 0.83 → 0.22 · Structural shifts: convergent_priority: 0 → 1; Priority score movement — 'I'd talk to the TV': The paid companions bringing warmth to China's lonely: 0.83 → 0.22 · Signal freshness: 19 new, 1 carried, 20 total"
   }
 }
