@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "a6251baabb0f0bc2",
+      "created_at": "2026-10-25",
+      "root_cause": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "prediction": "Momentum around Father who killed Oregon school gunman describes anguish over children he couldn't save is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-08",
+      "falsification": "Signals tied to Father who killed Oregon school gunman describes anguish over children he couldn't save fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "43abb7d4c6b7a0e9",
       "created_at": "2026-10-19",
       "root_cause": "Brazil sees record fall in Amazon deforestation as key election looms",
@@ -2121,5 +2134,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-23T22:59:48.691442+00:00"
+  "last_updated": "2026-10-24T22:22:38.045547+00:00"
 }
