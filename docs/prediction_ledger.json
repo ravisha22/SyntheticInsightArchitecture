@@ -53,6 +53,45 @@
       "validated_at": null
     },
     {
+      "id": "b0f4686b1042e9f3",
+      "created_at": "2026-10-27",
+      "root_cause": "Lula wins fourth term in dramatic Brazil election comeback",
+      "prediction": "Momentum around Lula wins fourth term in dramatic Brazil election comeback is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-10",
+      "falsification": "Signals tied to Lula wins fourth term in dramatic Brazil election comeback fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "a646ad6637122f88",
+      "created_at": "2026-10-27",
+      "root_cause": "Why Israel's election is one of the most important in its history",
+      "prediction": "Momentum around Why Israel's election is one of the most important in its history is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-10",
+      "falsification": "Signals tied to Why Israel's election is one of the most important in its history fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "9cca8eec464594c8",
+      "created_at": "2026-10-27",
+      "root_cause": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "prediction": "Momentum around Watch: How President Lula turned it around to beat Flávio Bolsonaro is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-10",
+      "falsification": "Signals tied to Watch: How President Lula turned it around to beat Flávio Bolsonaro fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "a6251baabb0f0bc2",
       "created_at": "2026-10-25",
       "root_cause": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
@@ -113,9 +152,13 @@
       "maturity_date": "2026-10-27",
       "falsification": "Oil prices stabilize below $100/barrel within 6 months and no significant escalation occurs.",
       "severity": "High",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 6 months has passed, and the provided fresh signals do not offer relevant evidence regarding oil price volatility or Middle East conflict escalation. No validation or falsification criteria can be assessed based on the given information.",
+      "validated_at": "2026-10-26T23:41:33.251167+00:00",
+      "evidence_used": [
+        "BBC World article discussing Israel's election, which does not directly address oil prices or conflict escalation.",
+        "ABC Australia article about F1 racing, which is unrelated to the prediction topic."
+      ]
     },
     {
       "id": "ddb5265b91956a9a",
@@ -2134,5 +2177,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-25T22:24:53.438450+00:00"
+  "last_updated": "2026-10-26T23:41:31.013333+00:00"
 }
