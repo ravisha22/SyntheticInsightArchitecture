@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "4a0742091dda2288",
+      "created_at": "2026-10-28",
+      "root_cause": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "prediction": "Momentum around Alexander brothers each sentenced to 30 years in prison for sex trafficking case is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-11",
+      "falsification": "Signals tied to Alexander brothers each sentenced to 30 years in prison for sex trafficking case fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "b0f4686b1042e9f3",
       "created_at": "2026-10-27",
       "root_cause": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -2177,5 +2190,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-26T23:41:31.013333+00:00"
+  "last_updated": "2026-10-27T23:40:22.865223+00:00"
 }
