@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "d3a6e17d90b266c7",
+      "created_at": "2026-10-31",
+      "root_cause": "US approves sale of 500 Patriot missiles to Ukraine",
+      "prediction": "Momentum around US approves sale of 500 Patriot missiles to Ukraine is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-14",
+      "falsification": "Signals tied to US approves sale of 500 Patriot missiles to Ukraine fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "4a0742091dda2288",
       "created_at": "2026-10-28",
       "root_cause": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
@@ -2197,5 +2210,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-10-29T23:53:16.782421+00:00"
+  "last_updated": "2026-10-30T23:33:52.685097+00:00"
 }
