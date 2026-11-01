@@ -1,35 +1,84 @@
 {
-  "report_date": "2026-11-01",
-  "generated_at": "2026-10-31T23:16:10.095066+00:00",
+  "report_date": "2026-11-02",
+  "generated_at": "2026-11-01T23:27:36.040489+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "body": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "body": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 19:22:26 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:55:01 GMT"
     },
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "body": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "body": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 17:53:35 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "body": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "body": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 21:29:01 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:05:18 GMT"
+    },
+    {
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "body": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 11:57:48 GMT"
+    },
+    {
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "body": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:56:47 GMT"
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "body": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:16:45 GMT"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "body": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 07:00:55 GMT"
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "body": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 22:11:45 GMT"
+      "published": "Sun, 01 Nov 2026 13:11:37 GMT"
+    },
+    {
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "body": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:41:24 GMT"
+    },
+    {
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "body": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:27:33 GMT"
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "body": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:46:12 GMT"
     },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -53,6 +102,13 @@
       "published": "Sat, 31 Oct 2026 05:44:21 GMT"
     },
     {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "body": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 17:53:35 GMT"
+    },
+    {
       "title": "Global nature talks reach deal but money remains an issue",
       "body": "Countries have been trying to get a global agreement to halt nature decline back on track.",
       "source": "BBC World",
@@ -74,74 +130,18 @@
       "published": "Fri, 30 Oct 2026 22:11:52 GMT"
     },
     {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "body": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "body": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 20:41:51 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 18:51:56 GMT"
     },
     {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "body": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "body": "The supermodel and TV host provided a gory new shock at her New York event.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 02:39:25 GMT"
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "body": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 21:13:14 GMT"
-    },
-    {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "body": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 17:07:19 GMT"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "body": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 14:48:22 GMT"
-    },
-    {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "body": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 20:34:46 GMT"
-    },
-    {
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "body": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 16:55:47 GMT"
-    },
-    {
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "body": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 12:50:45 GMT"
-    },
-    {
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "body": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 09:16:14 GMT"
-    },
-    {
-      "title": "What's at stake for Trump in the US midterms?",
-      "body": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:19:48 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 05:26:02 GMT"
     }
   ],
   "signals": [
@@ -149,44 +149,114 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "body": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "body": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 19:22:26 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:55:01 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "body": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "body": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 17:53:35 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:06:32 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "body": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "body": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 21:29:01 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:05:18 GMT"
     },
     {
       "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "body": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 11:57:48 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "body": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 17:56:47 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "body": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 21:16:45 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "body": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 07:00:55 GMT"
+    },
+    {
+      "number": 8,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "body": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 22:11:45 GMT"
+      "published": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
-      "number": 5,
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "body": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:41:24 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "body": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:27:33 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "body": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 00:46:12 GMT"
+    },
+    {
+      "number": 12,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -196,7 +266,7 @@
       "published": "Sat, 31 Oct 2026 15:16:20 GMT"
     },
     {
-      "number": 6,
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Ethiopian PM puts ministers through military training",
@@ -206,7 +276,7 @@
       "published": "Sat, 31 Oct 2026 14:28:15 GMT"
     },
     {
-      "number": 7,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -216,7 +286,17 @@
       "published": "Sat, 31 Oct 2026 05:44:21 GMT"
     },
     {
-      "number": 8,
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "body": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 17:53:35 GMT"
+    },
+    {
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Global nature talks reach deal but money remains an issue",
@@ -226,7 +306,7 @@
       "published": "Sat, 31 Oct 2026 01:27:05 GMT"
     },
     {
-      "number": 9,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Police deployed during stand-off over control of top Poland court",
@@ -236,7 +316,7 @@
       "published": "Sat, 31 Oct 2026 01:11:43 GMT"
     },
     {
-      "number": 10,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -246,104 +326,24 @@
       "published": "Fri, 30 Oct 2026 22:11:52 GMT"
     },
     {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "body": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 20:41:51 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "body": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 02:39:25 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "body": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 21:13:14 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "body": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 17:07:19 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "body": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 14:48:22 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "body": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 20:34:46 GMT"
-    },
-    {
-      "number": 17,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "body": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 16:55:47 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "body": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 12:50:45 GMT"
-    },
-    {
       "number": 19,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "body": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "body": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 09:16:14 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 18:51:56 GMT"
     },
     {
       "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "What's at stake for Trump in the US midterms?",
-      "body": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "body": "The supermodel and TV host provided a gory new shock at her New York event.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 10:19:48 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 05:26:02 GMT"
     }
   ],
   "priorities": [
@@ -354,70 +354,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.1419225441518663,
-      "contest_score": -0.04950460960828886,
+      "priority_score": 2.250529342249062,
+      "contest_score": -0.1345446786567413,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0316724641130293,
-      "contestedness": 0.048841825257106786,
+      "central_tendency": 1.0327876243247773,
+      "contestedness": 0.04427108211269137,
       "impact": 0.705,
       "top_clusters": {
-        "care_oriented": 1.1904008433130044,
-        "survival_focused": 1.0897308431204498
+        "care_oriented": 1.182804294106754,
+        "survival_focused": 1.104593322914242
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.8643990233610624
+        "achievement_oriented": 0.8731571240270916
       },
       "cluster_means": {
-        "survival_focused": 1.0897308431204498,
-        "stability_seeking": 1.040889017863343,
-        "achievement_oriented": 0.8643990233610624,
-        "care_oriented": 1.1904008433130044,
-        "knowledge_oriented": 1.0270754887197284,
-        "governance_oriented": 1.0712924880364847,
-        "sovereignty_order_oriented": 0.975900620621823,
-        "expression_oriented": 1.041814359939469,
-        "ecosystem_oriented": 0.9835494920418988
+        "survival_focused": 1.104593322914242,
+        "stability_seeking": 1.0484355073935192,
+        "achievement_oriented": 0.8731571240270916,
+        "care_oriented": 1.182804294106754,
+        "knowledge_oriented": 1.023549422404183,
+        "governance_oriented": 1.0649959057569485,
+        "sovereignty_order_oriented": 0.9892290399792226,
+        "expression_oriented": 1.033500122091914,
+        "ecosystem_oriented": 0.9748238802491227
       },
-      "priority_raw": 0.5091303610397799,
-      "contest_raw": 0.03443348680626028
+      "priority_raw": 0.5096806926042776,
+      "contest_raw": 0.031211112889447418
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.006881121892326,
-      "contest_score": 0.5740728215866573,
+      "priority_score": 2.071511115405654,
+      "contest_score": -0.034984141418097914,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1518671526841322,
-      "contestedness": 0.0758913849489391,
-      "impact": 0.605,
+      "central_tendency": 1.0817009500672417,
+      "contestedness": 0.051994491854667535,
+      "impact": 0.635,
       "top_clusters": {
-        "care_oriented": 1.2756452233315985,
-        "survival_focused": 1.248017533678801
+        "governance_oriented": 1.1463355274822664,
+        "care_oriented": 1.1374601490658978
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 1.0289276126711921
+        "ecosystem_oriented": 0.9921666891654376
       },
       "cluster_means": {
-        "survival_focused": 1.248017533678801,
-        "stability_seeking": 1.2247105764289414,
-        "achievement_oriented": 1.0742289110737917,
-        "care_oriented": 1.2756452233315985,
-        "knowledge_oriented": 1.0872004401909163,
-        "governance_oriented": 1.219414955731384,
-        "sovereignty_order_oriented": 1.1488191914800023,
-        "expression_oriented": 1.0598399295705625,
-        "ecosystem_oriented": 1.0289276126711921
+        "survival_focused": 1.1134961647088857,
+        "stability_seeking": 1.1305258113837549,
+        "achievement_oriented": 1.0408046055116373,
+        "care_oriented": 1.1374601490658978,
+        "knowledge_oriented": 1.0694614856734148,
+        "governance_oriented": 1.1463355274822664,
+        "sovereignty_order_oriented": 1.0785313195290873,
+        "expression_oriented": 1.026526798084792,
+        "ecosystem_oriented": 0.9921666891654376
       },
-      "priority_raw": 0.48781573916172993,
-      "contest_raw": 0.045914287894108154
+      "priority_raw": 0.4808160723048889,
+      "contest_raw": 0.03301650232771389
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
@@ -426,17 +426,17 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.6845802815236168,
-      "contest_score": -0.336073910373686,
+      "priority_score": 1.7906964316199439,
+      "contest_score": -0.5210241421673695,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1498540242467514,
-      "contestedness": 0.03836500742202631,
-      "impact": 0.76,
+      "central_tendency": 1.15374291313564,
+      "contestedness": 0.03205676131071389,
+      "impact": 0.755,
       "top_clusters": {
-        "care_oriented": 1.2413869203418832,
-        "ecosystem_oriented": 1.1850675461558482
+        "care_oriented": 1.2313869203418832,
+        "ecosystem_oriented": 1.205067546155848
       },
       "bottom_clusters": {
         "sovereignty_order_oriented": 1.0940198171816733
@@ -444,196 +444,52 @@
       "cluster_means": {
         "survival_focused": 1.1380910858845628,
         "stability_seeking": 1.138137512549029,
-        "achievement_oriented": 1.0997260784625364,
-        "care_oriented": 1.2413869203418832,
-        "knowledge_oriented": 1.1338035267719468,
-        "governance_oriented": 1.1808602880826613,
+        "achievement_oriented": 1.1047260784625363,
+        "care_oriented": 1.2313869203418832,
+        "knowledge_oriented": 1.143803526771947,
+        "governance_oriented": 1.175860288082661,
         "sovereignty_order_oriented": 1.0940198171816733,
-        "expression_oriented": 1.1375934427906214,
-        "ecosystem_oriented": 1.1850675461558482
+        "expression_oriented": 1.1525934427906215,
+        "ecosystem_oriented": 1.205067546155848
       },
-      "priority_raw": 0.43694452921376553,
-      "contest_raw": 0.029157405640739997
+      "priority_raw": 0.43553794970870413,
+      "contest_raw": 0.024202854789588987
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.518256516153091,
-      "contest_score": -1.065041406024467,
+      "priority_score": 1.610645084021611,
+      "contest_score": -0.08802634015769983,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1282757570039612,
-      "contestedness": 0.0345851611028789,
-      "impact": 0.455,
+      "central_tendency": 0.7465688716741669,
+      "contestedness": 0.05298290433445507,
+      "impact": 0.605,
       "top_clusters": {
-        "governance_oriented": 1.2293354175456113,
-        "stability_seeking": 1.2222671582259292
+        "survival_focused": 0.8421789934814532,
+        "stability_seeking": 0.837677306701871
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.9916147042163939
+        "expression_oriented": 0.6049453761011299
       },
       "cluster_means": {
-        "survival_focused": 1.1454965658832323,
-        "stability_seeking": 1.2222671582259292,
-        "achievement_oriented": 1.1337817724612174,
-        "care_oriented": 1.158979585579932,
-        "knowledge_oriented": 1.1176503362349952,
-        "governance_oriented": 1.2293354175456113,
-        "sovereignty_order_oriented": 1.0991966113583385,
-        "expression_oriented": 1.0561596615300013,
-        "ecosystem_oriented": 0.9916147042163939
+        "survival_focused": 0.8421789934814532,
+        "stability_seeking": 0.837677306701871,
+        "achievement_oriented": 0.6843865202746205,
+        "care_oriented": 0.7891960891469981,
+        "knowledge_oriented": 0.6585811829694859,
+        "governance_oriented": 0.8323856548267762,
+        "sovereignty_order_oriented": 0.8271452426866839,
+        "expression_oriented": 0.6049453761011299,
+        "ecosystem_oriented": 0.6426234788784819
       },
-      "priority_raw": 0.41069237554944193,
-      "contest_raw": 0.0157362483018099
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.8721300659189566,
-      "contest_score": 0.8047924879425554,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5592559594321262,
-      "contestedness": 0.07269871153829388,
-      "impact": 0.6900000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.6778251443253871,
-        "care_oriented": 0.6589654853728542
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.4334000010146143
-      },
-      "cluster_means": {
-        "survival_focused": 0.4882575946916268,
-        "stability_seeking": 0.5375957466155094,
-        "achievement_oriented": 0.46915200386587486,
-        "care_oriented": 0.6589654853728542,
-        "knowledge_oriented": 0.6330298358592475,
-        "governance_oriented": 0.5747466988230687,
-        "sovereignty_order_oriented": 0.4334000010146143,
-        "expression_oriented": 0.6778251443253871,
-        "ecosystem_oriented": 0.5603311243209537
-      },
-      "priority_raw": 0.30870928960653377,
-      "contest_raw": 0.050162110961422784
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "title": "What's at stake for Trump in the US midterms?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.03371658616380638,
-      "contest_score": -0.3362567851999024,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4642369052145333,
-      "contestedness": 0.048998384366389314,
-      "impact": 0.595,
-      "top_clusters": {
-        "achievement_oriented": 0.5744675186910021,
-        "expression_oriented": 0.5137164735751212
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.3823763107528045
-      },
-      "cluster_means": {
-        "survival_focused": 0.46471808920873187,
-        "stability_seeking": 0.486359050460229,
-        "achievement_oriented": 0.5744675186910021,
-        "care_oriented": 0.39857657037153094,
-        "knowledge_oriented": 0.5106403531848497,
-        "governance_oriented": 0.39609379040116877,
-        "sovereignty_order_oriented": 0.451183990285362,
-        "expression_oriented": 0.5137164735751212,
-        "ecosystem_oriented": 0.3823763107528045
-      },
-      "priority_raw": 0.16573257516158837,
-      "contest_raw": 0.02915403869800164
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.22729076963200787,
-      "contest_score": -0.5230034183276115,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2747546327520002,
-      "contestedness": 0.031360745605038376,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4276896917328125,
-        "knowledge_oriented": 0.3689182423708452
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.19539829279022375
-      },
-      "cluster_means": {
-        "survival_focused": 0.20120651575789233,
-        "stability_seeking": 0.2116179371451897,
-        "achievement_oriented": 0.22074834691444362,
-        "care_oriented": 0.3160631788187491,
-        "knowledge_oriented": 0.3689182423708452,
-        "governance_oriented": 0.22675903839526212,
-        "sovereignty_order_oriented": 0.19539829279022375,
-        "expression_oriented": 0.4276896917328125,
-        "ecosystem_oriented": 0.30439045084258287
-      },
-      "priority_raw": 0.1351792793139841,
-      "contest_raw": 0.02571581139613147
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.25867100274844546,
-      "contest_score": -0.8634520473509096,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6890280253887197,
-      "contestedness": 0.07202869558760017,
-      "impact": 0.27,
-      "top_clusters": {
-        "governance_oriented": 0.8190584070166826,
-        "care_oriented": 0.7843041532691559
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.5709328917756671
-      },
-      "cluster_means": {
-        "survival_focused": 0.6074677800148671,
-        "stability_seeking": 0.7396859380977838,
-        "achievement_oriented": 0.5893676834419097,
-        "care_oriented": 0.7843041532691559,
-        "knowledge_oriented": 0.7267158233216214,
-        "governance_oriented": 0.8190584070166826,
-        "sovereignty_order_oriented": 0.5709328917756671,
-        "expression_oriented": 0.7178741235741941,
-        "ecosystem_oriented": 0.645845427986594
-      },
-      "priority_raw": 0.130226296798468,
-      "contest_raw": 0.019447747808652046
+      "priority_raw": 0.4065067506265838,
+      "contest_raw": 0.032054657122345315
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
@@ -642,214 +498,214 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3302007215290031,
-      "contest_score": -1.4590869745493937,
+      "priority_score": 0.14243606738711034,
+      "contest_score": -1.4619428490060273,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.48055035749207103,
-      "contestedness": 0.01713414425201576,
-      "impact": 0.495,
+      "central_tendency": 0.5338836908254043,
+      "contestedness": 0.013472878661325627,
+      "impact": 0.53,
       "top_clusters": {
-        "stability_seeking": 0.5185160150977208,
-        "sovereignty_order_oriented": 0.509530275348568
+        "stability_seeking": 0.568516015097721,
+        "governance_oriented": 0.5622497443150187
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.42877599217815676
+        "ecosystem_oriented": 0.4887759921781568
       },
       "cluster_means": {
-        "survival_focused": 0.5005062090847754,
-        "stability_seeking": 0.5185160150977208,
-        "achievement_oriented": 0.47105739668724234,
-        "care_oriented": 0.48511560006300314,
-        "knowledge_oriented": 0.4680216613309471,
-        "governance_oriented": 0.5022497443150189,
-        "sovereignty_order_oriented": 0.509530275348568,
-        "expression_oriented": 0.44118032332320667,
-        "ecosystem_oriented": 0.42877599217815676
+        "survival_focused": 0.5405062090847754,
+        "stability_seeking": 0.568516015097721,
+        "achievement_oriented": 0.5360573966872424,
+        "care_oriented": 0.5351156000630031,
+        "knowledge_oriented": 0.5230216613309471,
+        "governance_oriented": 0.5622497443150187,
+        "sovereignty_order_oriented": 0.549530275348568,
+        "expression_oriented": 0.5011803233232067,
+        "ecosystem_oriented": 0.4887759921781568
       },
-      "priority_raw": 0.11893621347928758,
-      "contest_raw": 0.0084814014047478
+      "priority_raw": 0.16977501368247858,
+      "contest_raw": 0.0071406256905025825
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3603947411584637,
-      "contest_score": -0.9674652320124961,
+      "priority_score": -0.0318364027167399,
+      "contest_score": -0.7464487404584232,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6089091206556398,
-      "contestedness": 0.046753977466150176,
-      "impact": 0.375,
+      "central_tendency": 0.3855118144604066,
+      "contestedness": 0.027367481272317473,
+      "impact": 0.735,
       "top_clusters": {
-        "knowledge_oriented": 0.6877267610803015,
-        "expression_oriented": 0.6735881575644981
+        "expression_oriented": 0.5008977966010757,
+        "knowledge_oriented": 0.46883064808888825
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.531370253640113
+        "sovereignty_order_oriented": 0.33650034109140337
       },
       "cluster_means": {
-        "survival_focused": 0.5355617245348148,
-        "stability_seeking": 0.6268341800983479,
-        "achievement_oriented": 0.6367992640678924,
-        "care_oriented": 0.5923710184078901,
-        "knowledge_oriented": 0.6877267610803015,
-        "governance_oriented": 0.638983764086734,
-        "sovereignty_order_oriented": 0.531370253640113,
-        "expression_oriented": 0.6735881575644981,
-        "ecosystem_oriented": 0.5569469624201677
+        "survival_focused": 0.33935462417794116,
+        "stability_seeking": 0.34666647995205246,
+        "achievement_oriented": 0.36672210545025863,
+        "care_oriented": 0.39399747012199354,
+        "knowledge_oriented": 0.46883064808888825,
+        "governance_oriented": 0.33790889530805157,
+        "sovereignty_order_oriented": 0.33650034109140337,
+        "expression_oriented": 0.5008977966010757,
+        "ecosystem_oriented": 0.3787279693519945
       },
-      "priority_raw": 0.11417046012293247,
-      "contest_raw": 0.017532741549806316
+      "priority_raw": 0.14167559181419942,
+      "contest_raw": 0.020115098735153342
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5259328624010594,
-      "contest_score": -1.061883483249954,
+      "priority_score": -0.12255053290048008,
+      "contest_score": -0.06969196412797442,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.3166989593097352,
-      "contestedness": 0.022725740159041663,
+      "central_tendency": 0.36825793228144876,
+      "contestedness": 0.05632543492807196,
+      "impact": 0.575,
+      "top_clusters": {
+        "expression_oriented": 0.5291770608580278,
+        "knowledge_oriented": 0.4881513238994193
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.23159193640723114
+      },
+      "cluster_means": {
+        "survival_focused": 0.273239037696444,
+        "stability_seeking": 0.3330698409928011,
+        "achievement_oriented": 0.38526492682836255,
+        "care_oriented": 0.4035739650164669,
+        "knowledge_oriented": 0.4881513238994193,
+        "governance_oriented": 0.323004768745891,
+        "sovereignty_order_oriented": 0.23159193640723114,
+        "expression_oriented": 0.5291770608580278,
+        "ecosystem_oriented": 0.34724853008839496
+      },
+      "priority_raw": 0.12704898663709982,
+      "contest_raw": 0.032387125083641374
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.32374180123073376,
+      "contest_score": -1.3720677160544235,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3180141836475094,
+      "contestedness": 0.014740141225947079,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.436151753005698,
+        "knowledge_oriented": 0.41704511415377105
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.24059539216759285
+      },
+      "cluster_means": {
+        "survival_focused": 0.27489488481254754,
+        "stability_seeking": 0.2974917618038505,
+        "achievement_oriented": 0.3714551894236081,
+        "care_oriented": 0.27248786600605374,
+        "knowledge_oriented": 0.41704511415377105,
+        "governance_oriented": 0.24059539216759285,
+        "sovereignty_order_oriented": 0.2692540708765592,
+        "expression_oriented": 0.436151753005698,
+        "ecosystem_oriented": 0.28275162057790343
+      },
+      "priority_raw": 0.09460921963513404,
+      "contest_raw": 0.008770384029438512
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.47756919149530697,
+      "contest_score": 1.2914872911392818,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.16740127247605663,
+      "contestedness": 0.08211537330702473,
       "impact": 0.695,
       "top_clusters": {
-        "expression_oriented": 0.4465750119576354,
-        "knowledge_oriented": 0.40929066944372683
+        "expression_oriented": 0.37599883042553717,
+        "knowledge_oriented": 0.31907586704832247
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.250969201747024
+        "survival_focused": -0.002529275537053316
       },
       "cluster_means": {
-        "survival_focused": 0.2614470487405378,
-        "stability_seeking": 0.27096762965278887,
-        "achievement_oriented": 0.2806971904914662,
-        "care_oriented": 0.3532762116036659,
-        "knowledge_oriented": 0.40929066944372683,
-        "governance_oriented": 0.27364473950026424,
-        "sovereignty_order_oriented": 0.250969201747024,
-        "expression_oriented": 0.4465750119576354,
-        "ecosystem_oriented": 0.30342293065050785
+        "survival_focused": -0.002529275537053316,
+        "stability_seeking": 0.07586488280387166,
+        "achievement_oriented": 0.16424130533234246,
+        "care_oriented": 0.1579802561108964,
+        "knowledge_oriented": 0.31907586704832247,
+        "governance_oriented": 0.1093495700987406,
+        "sovereignty_order_oriented": 0.011844102336265483,
+        "expression_oriented": 0.37599883042553717,
+        "ecosystem_oriented": 0.1922715034868762
       },
-      "priority_raw": 0.08804231068810638,
-      "contest_raw": 0.015794389410533953
+      "priority_raw": 0.06980633062251561,
+      "contest_raw": 0.05707018444838218
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.5721580020468165,
-      "contest_score": -0.29555041778792657,
+      "priority_score": -0.47896809595426687,
+      "contest_score": 0.7029390783542638,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.1816563394525532,
-      "contestedness": 0.047092112230201266,
-      "impact": 0.635,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.14142433626950374,
+      "contestedness": 0.05658255556254474,
+      "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.3916413271427069,
-        "knowledge_oriented": 0.33612677293707205
+        "expression_oriented": 0.286311283069893,
+        "knowledge_oriented": 0.2343668150227833
       },
       "bottom_clusters": {
-        "survival_focused": 0.024031153226074575
+        "survival_focused": 0.034536059030552596
       },
       "cluster_means": {
-        "survival_focused": 0.024031153226074575,
-        "stability_seeking": 0.12001018290414561,
-        "achievement_oriented": 0.18618460047317192,
-        "care_oriented": 0.16710229513434688,
-        "knowledge_oriented": 0.33612677293707205,
-        "governance_oriented": 0.1526322032538711,
-        "sovereignty_order_oriented": 0.03310085926463388,
-        "expression_oriented": 0.3916413271427069,
-        "ecosystem_oriented": 0.17957244174632603
+        "survival_focused": 0.034536059030552596,
+        "stability_seeking": 0.06826022820107011,
+        "achievement_oriented": 0.12484278376361485,
+        "care_oriented": 0.15781386922905918,
+        "knowledge_oriented": 0.2343668150227833,
+        "governance_oriented": 0.10273851366553355,
+        "sovereignty_order_oriented": 0.07281040491519825,
+        "expression_oriented": 0.286311283069893,
+        "ecosystem_oriented": 0.18340925032742153
       },
-      "priority_raw": 0.0807462428866599,
-      "contest_raw": 0.029903491266177803
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5841332411471968,
-      "contest_score": -0.40988675484852655,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.16208859031476672,
-      "contestedness": 0.03999773167133244,
-      "impact": 0.695,
-      "top_clusters": {
-        "expression_oriented": 0.2842599396266128,
-        "knowledge_oriented": 0.2336645770609345
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.06395251508136929
-      },
-      "cluster_means": {
-        "survival_focused": 0.11513871085734395,
-        "stability_seeking": 0.13802566150814372,
-        "achievement_oriented": 0.06395251508136929,
-        "care_oriented": 0.19413860858012694,
-        "knowledge_oriented": 0.2336645770609345,
-        "governance_oriented": 0.15106593536461344,
-        "sovereignty_order_oriented": 0.11106820369328099,
-        "expression_oriented": 0.2842599396266128,
-        "ecosystem_oriented": 0.16748316106047462
-      },
-      "priority_raw": 0.07885609918813401,
-      "contest_raw": 0.027798423511576045
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5966398702484148,
-      "contest_score": 1.824678770204052,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9444444444444444,
-      "central_tendency": 0.22779876188495526,
-      "contestedness": 0.10213248691239604,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.471088686242689,
-        "knowledge_oriented": 0.40488201417800734
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.05717282596386289
-      },
-      "cluster_means": {
-        "survival_focused": 0.06644906533885822,
-        "stability_seeking": 0.13678558026585086,
-        "achievement_oriented": 0.2389180671782469,
-        "care_oriented": 0.2519750817498152,
-        "knowledge_oriented": 0.40488201417800734,
-        "governance_oriented": 0.1604911725453474,
-        "sovereignty_order_oriented": 0.05717282596386289,
-        "expression_oriented": 0.471088686242689,
-        "ecosystem_oriented": 0.2507128688641238
-      },
-      "priority_raw": 0.07688208213617241,
-      "contest_raw": 0.06893942866586733
+      "priority_raw": 0.06958077344459584,
+      "contest_raw": 0.04639769556128669
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
@@ -858,34 +714,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6044228135929419,
-      "contest_score": 2.082716740406348,
+      "priority_score": -0.5042851035992971,
+      "contest_score": 0.6461346137536469,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8888888888888888,
-      "central_tendency": 0.15376756216081353,
-      "contestedness": 0.08986611481834608,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.1331274360395644,
+      "contestedness": 0.05532637437699059,
       "impact": 0.8200000000000001,
       "top_clusters": {
-        "expression_oriented": 0.32140236105603837,
-        "knowledge_oriented": 0.27150571456121486
+        "expression_oriented": 0.2911237308137088,
+        "knowledge_oriented": 0.2458281568212932
       },
       "bottom_clusters": {
-        "survival_focused": 0.008985651044823184
+        "survival_focused": -0.008588617160608103
       },
       "cluster_means": {
-        "survival_focused": 0.008985651044823184,
-        "stability_seeking": 0.060632341535623274,
-        "achievement_oriented": 0.15049845635396936,
-        "care_oriented": 0.15327902425686163,
-        "knowledge_oriented": 0.27150571456121486,
-        "governance_oriented": 0.11573119522259984,
-        "sovereignty_order_oriented": 0.04837160150240069,
-        "expression_oriented": 0.32140236105603837,
-        "ecosystem_oriented": 0.19891820097397667
+        "survival_focused": -0.008588617160608103,
+        "stability_seeking": 0.04116868706664256,
+        "achievement_oriented": 0.14915391853884333,
+        "care_oriented": 0.09649506144363315,
+        "knowledge_oriented": 0.2458281568212932,
+        "governance_oriented": 0.08521782850195503,
+        "sovereignty_order_oriented": 0.04420045194532332,
+        "expression_oriented": 0.2911237308137088,
+        "ecosystem_oriented": 0.16052169794154103
       },
-      "priority_raw": 0.07565364058312025,
-      "contest_raw": 0.07369021415104379
+      "priority_raw": 0.06549869853146568,
+      "contest_raw": 0.045367626989132284
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
@@ -894,8 +750,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6974844366205751,
-      "contest_score": 1.0983552685110554,
+      "priority_score": -0.532403004699972,
+      "contest_score": 1.2085895037148544,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
@@ -924,148 +780,292 @@
       "contest_raw": 0.055566950395787795
     },
     {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.5475906932291282,
+      "contest_score": 0.9545993105128595,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6944444444444444,
+      "central_tendency": 0.11893531027197048,
+      "contestedness": 0.06214780207991771,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.28072565368048874,
+        "knowledge_oriented": 0.22631670429175588
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.028130109207380377
+      },
+      "cluster_means": {
+        "survival_focused": -0.028130109207380377,
+        "stability_seeking": 0.003086368101079817,
+        "achievement_oriented": 0.10492113270664374,
+        "care_oriented": 0.06523417018099753,
+        "knowledge_oriented": 0.22631670429175588,
+        "governance_oriented": 0.019575410258794862,
+        "sovereignty_order_oriented": 0.01152514200885918,
+        "expression_oriented": 0.28072565368048874,
+        "ecosystem_oriented": 0.14764612401050278
+      },
+      "priority_raw": 0.05851617265380948,
+      "contest_raw": 0.05096119770553253
+    },
+    {
       "signal_id": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "title": "Spain train disaster clouds Sánchez chances of re-election",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7473129596138641,
-      "contest_score": 1.4333154435135593,
+      "priority_score": -0.5711581653698399,
+      "contest_score": 1.1268083561380804,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.8611111111111112,
-      "central_tendency": 0.13882403797399323,
-      "contestedness": 0.08069799349867876,
+      "sign_agreement": 0.8888888888888888,
+      "central_tendency": 0.14304886306583975,
+      "contestedness": 0.07069799349867865,
       "impact": 0.765,
       "top_clusters": {
-        "expression_oriented": 0.30065209121759273,
-        "knowledge_oriented": 0.24585168369505914
+        "expression_oriented": 0.33065209121759276,
+        "knowledge_oriented": 0.2558516836950593
       },
       "bottom_clusters": {
-        "survival_focused": 0.013031483604948352
+        "survival_focused": 0.03303148360494848
       },
       "cluster_means": {
-        "survival_focused": 0.013031483604948352,
+        "survival_focused": 0.03303148360494848,
         "stability_seeking": 0.0423631450815338,
-        "achievement_oriented": 0.1243720810194846,
-        "care_oriented": 0.1549367237138967,
-        "knowledge_oriented": 0.24585168369505914,
-        "governance_oriented": 0.07543348409590181,
-        "sovereignty_order_oriented": 0.04367408752080584,
-        "expression_oriented": 0.30065209121759273,
-        "ecosystem_oriented": 0.19284220394334622
+        "achievement_oriented": 0.1043720810194846,
+        "care_oriented": 0.1649367237138966,
+        "knowledge_oriented": 0.2558516836950593,
+        "governance_oriented": 0.0654334840959018,
+        "sovereignty_order_oriented": 0.033674087520805945,
+        "expression_oriented": 0.33065209121759276,
+        "ecosystem_oriented": 0.20284220394334623
       },
-      "priority_raw": 0.053100194525052415,
-      "contest_raw": 0.06173396502648925
+      "priority_raw": 0.0547161901226837,
+      "contest_raw": 0.05408396502648917
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.835912336621922,
-      "contest_score": 0.7082514419131671,
+      "priority_score": -0.6120055388225639,
+      "contest_score": 0.7002331808676119,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.75,
-      "central_tendency": 0.13214823081538174,
-      "contestedness": 0.06538469682288545,
-      "impact": 0.7400000000000001,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.17312957984111174,
+      "contestedness": 0.0666886732948613,
+      "impact": 0.6950000000000001,
       "top_clusters": {
-        "expression_oriented": 0.3062477706879068,
-        "knowledge_oriented": 0.22987243801885618
+        "expression_oriented": 0.360799004340058,
+        "knowledge_oriented": 0.30933387841204657
       },
       "bottom_clusters": {
-        "governance_oriented": -0.0062772051266862805
+        "survival_focused": 0.05154213993261558
       },
       "cluster_means": {
-        "survival_focused": 0.01543450185194517,
-        "stability_seeking": 0.02117397066048507,
-        "achievement_oriented": 0.12382353264617124,
-        "care_oriented": 0.08081919867483062,
-        "knowledge_oriented": 0.22987243801885618,
-        "governance_oriented": -0.0062772051266862805,
-        "sovereignty_order_oriented": 0.015480818160539367,
-        "expression_oriented": 0.3062477706879068,
-        "ecosystem_oriented": 0.20326208168462073
+        "survival_focused": 0.05154213993261558,
+        "stability_seeking": 0.09813917952564448,
+        "achievement_oriented": 0.19930577557414533,
+        "care_oriented": 0.1628275463852254,
+        "knowledge_oriented": 0.30933387841204657,
+        "governance_oriented": 0.09613887309036409,
+        "sovereignty_order_oriented": 0.06673399805445915,
+        "expression_oriented": 0.360799004340058,
+        "ecosystem_oriented": 0.2038516425727414
       },
-      "priority_raw": 0.039115876321353,
-      "contest_raw": 0.048384675648935234
+      "priority_raw": 0.04813002319582907,
+      "contest_raw": 0.04634862793992861
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.8937492659523714,
-      "contest_score": -0.7937756917517101,
+      "priority_score": -0.6653659441430965,
+      "contest_score": -1.0824992592153109,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.07839746621203648,
-      "contestedness": 0.027098787274503627,
-      "impact": 0.765,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3407437455516874,
+      "contestedness": 0.0483493040623349,
+      "impact": 0.29000000000000004,
       "top_clusters": {
-        "expression_oriented": 0.178684855315588,
-        "knowledge_oriented": 0.11779909815447204
+        "knowledge_oriented": 0.4208420501250304,
+        "expression_oriented": 0.4054147505544988
       },
       "bottom_clusters": {
-        "survival_focused": -0.014226618454234369
+        "survival_focused": 0.26776904156874193
       },
       "cluster_means": {
-        "survival_focused": -0.014226618454234369,
-        "stability_seeking": -0.01243937600811551,
-        "achievement_oriented": 0.006575196498728703,
-        "care_oriented": 0.08880352477292822,
-        "knowledge_oriented": 0.11779909815447204,
-        "governance_oriented": 0.012872168820269259,
-        "sovereignty_order_oriented": 0.0036624554890465344,
-        "expression_oriented": 0.178684855315588,
-        "ecosystem_oriented": 0.1027557470242951
+        "survival_focused": 0.26776904156874193,
+        "stability_seeking": 0.3669528482775515,
+        "achievement_oriented": 0.35960521961889813,
+        "care_oriented": 0.31125591555656323,
+        "knowledge_oriented": 0.4208420501250304,
+        "governance_oriented": 0.3673667027532833,
+        "sovereignty_order_oriented": 0.28303083424711384,
+        "expression_oriented": 0.4054147505544988,
+        "ecosystem_oriented": 0.28445634726350455
       },
-      "priority_raw": 0.029987030826103957,
-      "contest_raw": 0.020730572264995275
+      "priority_raw": 0.039526274483995746,
+      "contest_raw": 0.014021298178077122
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9557509201629668,
-      "contest_score": -0.36520224299250686,
+      "priority_score": -0.6828208971731269,
+      "contest_score": 1.8170614862315588,
       "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5833333333333334,
-      "central_tendency": 0.06871032281579309,
-      "contestedness": 0.03894029720208511,
-      "impact": 0.735,
+      "polarity": 1,
+      "sign_agreement": 0.5277777777777778,
+      "central_tendency": 0.13205706842330095,
+      "contestedness": 0.09582838654611645,
+      "impact": 0.695,
       "top_clusters": {
-        "expression_oriented": 0.10884332460962554,
-        "knowledge_oriented": 0.0465961168853391
+        "expression_oriented": 0.24637591399505984,
+        "knowledge_oriented": 0.18113492429425085
       },
       "bottom_clusters": {
-        "survival_focused": -0.0902540913883744
+        "survival_focused": -0.14550034700508332
       },
       "cluster_means": {
-        "survival_focused": -0.0902540913883744,
-        "stability_seeking": -0.06553602616870899,
-        "achievement_oriented": -0.0597546622367163,
-        "care_oriented": 0.03151425301950919,
-        "knowledge_oriented": 0.0465961168853391,
-        "governance_oriented": -0.05909850819249121,
-        "sovereignty_order_oriented": -0.051313794186289285,
-        "expression_oriented": 0.10884332460962554,
-        "ecosystem_oriented": 0.04422707288878194
+        "survival_focused": -0.14550034700508332,
+        "stability_seeking": -0.08161858886428819,
+        "achievement_oriented": -0.009256475423003202,
+        "care_oriented": 0.053033755519182935,
+        "knowledge_oriented": 0.18113492429425085,
+        "governance_oriented": -0.030768461411432302,
+        "sovereignty_order_oriented": -0.1157857509705551,
+        "expression_oriented": 0.24637591399505984,
+        "ecosystem_oriented": 0.08657191112311324
       },
-      "priority_raw": 0.02020083490784317,
-      "contest_raw": 0.028621118443532555
+      "priority_raw": 0.03671186502167766,
+      "contest_raw": 0.06660072864955092
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7145276190379707,
+      "contest_score": -0.13990726740961074,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.15721155488421767,
+      "contestedness": 0.04643861183865519,
+      "impact": 0.67,
+      "top_clusters": {
+        "expression_oriented": 0.33188637566352097,
+        "knowledge_oriented": 0.26785695021190736
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.07245316504033733
+      },
+      "cluster_means": {
+        "survival_focused": 0.07245316504033733,
+        "stability_seeking": 0.08260389104934016,
+        "achievement_oriented": 0.12337832338898463,
+        "care_oriented": 0.11920649220453516,
+        "knowledge_oriented": 0.26785695021190736,
+        "governance_oriented": 0.07276788036587997,
+        "sovereignty_order_oriented": 0.10262745372363369,
+        "expression_oriented": 0.33188637566352097,
+        "ecosystem_oriented": 0.24212346230981974
+      },
+      "priority_raw": 0.03159952253172776,
+      "contest_raw": 0.03111386993189898
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7500326755758265,
+      "contest_score": -1.3528365905705995,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.12873006204106444,
+      "contestedness": 0.027221233650586332,
+      "impact": 0.335,
+      "top_clusters": {
+        "expression_oriented": 0.19264932058980955,
+        "knowledge_oriented": 0.16934722179983083
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.0835598067939247
+      },
+      "cluster_means": {
+        "survival_focused": 0.11153574688687638,
+        "stability_seeking": 0.15127476463722478,
+        "achievement_oriented": 0.13875698053746272,
+        "care_oriented": 0.10775437237911525,
+        "knowledge_oriented": 0.16934722179983083,
+        "governance_oriented": 0.10561923047116858,
+        "sovereignty_order_oriented": 0.09807311427416701,
+        "expression_oriented": 0.19264932058980955,
+        "ecosystem_oriented": 0.0835598067939247
+      },
+      "priority_raw": 0.025874742470253953,
+      "contest_raw": 0.009119113272946422
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.8509623747350337,
+      "contest_score": -1.4438791314698691,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.25948634728415326,
+      "contestedness": 0.04036857104362879,
+      "impact": 0.185,
+      "top_clusters": {
+        "knowledge_oriented": 0.3086721623349516,
+        "expression_oriented": 0.30616726147137097
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.18349739943233387
+      },
+      "cluster_means": {
+        "survival_focused": 0.21667757381768882,
+        "stability_seeking": 0.30498998763558405,
+        "achievement_oriented": 0.260418625510496,
+        "care_oriented": 0.2657986904277422,
+        "knowledge_oriented": 0.3086721623349516,
+        "governance_oriented": 0.2807900669832062,
+        "sovereignty_order_oriented": 0.20836535794400626,
+        "expression_oriented": 0.30616726147137097,
+        "ecosystem_oriented": 0.18349739943233387
+      },
+      "priority_raw": 0.009600994849513671,
+      "contest_raw": 0.007468185643071326
     }
   ],
   "selected_priorities": [
@@ -1076,70 +1076,70 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.1419225441518663,
-      "contest_score": -0.04950460960828886,
+      "priority_score": 2.250529342249062,
+      "contest_score": -0.1345446786567413,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.0316724641130293,
-      "contestedness": 0.048841825257106786,
+      "central_tendency": 1.0327876243247773,
+      "contestedness": 0.04427108211269137,
       "impact": 0.705,
       "top_clusters": {
-        "care_oriented": 1.1904008433130044,
-        "survival_focused": 1.0897308431204498
+        "care_oriented": 1.182804294106754,
+        "survival_focused": 1.104593322914242
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.8643990233610624
+        "achievement_oriented": 0.8731571240270916
       },
       "cluster_means": {
-        "survival_focused": 1.0897308431204498,
-        "stability_seeking": 1.040889017863343,
-        "achievement_oriented": 0.8643990233610624,
-        "care_oriented": 1.1904008433130044,
-        "knowledge_oriented": 1.0270754887197284,
-        "governance_oriented": 1.0712924880364847,
-        "sovereignty_order_oriented": 0.975900620621823,
-        "expression_oriented": 1.041814359939469,
-        "ecosystem_oriented": 0.9835494920418988
+        "survival_focused": 1.104593322914242,
+        "stability_seeking": 1.0484355073935192,
+        "achievement_oriented": 0.8731571240270916,
+        "care_oriented": 1.182804294106754,
+        "knowledge_oriented": 1.023549422404183,
+        "governance_oriented": 1.0649959057569485,
+        "sovereignty_order_oriented": 0.9892290399792226,
+        "expression_oriented": 1.033500122091914,
+        "ecosystem_oriented": 0.9748238802491227
       },
-      "priority_raw": 0.5091303610397799,
-      "contest_raw": 0.03443348680626028
+      "priority_raw": 0.5096806926042776,
+      "contest_raw": 0.031211112889447418
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 2.006881121892326,
-      "contest_score": 0.5740728215866573,
+      "priority_score": 2.071511115405654,
+      "contest_score": -0.034984141418097914,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1518671526841322,
-      "contestedness": 0.0758913849489391,
-      "impact": 0.605,
+      "central_tendency": 1.0817009500672417,
+      "contestedness": 0.051994491854667535,
+      "impact": 0.635,
       "top_clusters": {
-        "care_oriented": 1.2756452233315985,
-        "survival_focused": 1.248017533678801
+        "governance_oriented": 1.1463355274822664,
+        "care_oriented": 1.1374601490658978
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 1.0289276126711921
+        "ecosystem_oriented": 0.9921666891654376
       },
       "cluster_means": {
-        "survival_focused": 1.248017533678801,
-        "stability_seeking": 1.2247105764289414,
-        "achievement_oriented": 1.0742289110737917,
-        "care_oriented": 1.2756452233315985,
-        "knowledge_oriented": 1.0872004401909163,
-        "governance_oriented": 1.219414955731384,
-        "sovereignty_order_oriented": 1.1488191914800023,
-        "expression_oriented": 1.0598399295705625,
-        "ecosystem_oriented": 1.0289276126711921
+        "survival_focused": 1.1134961647088857,
+        "stability_seeking": 1.1305258113837549,
+        "achievement_oriented": 1.0408046055116373,
+        "care_oriented": 1.1374601490658978,
+        "knowledge_oriented": 1.0694614856734148,
+        "governance_oriented": 1.1463355274822664,
+        "sovereignty_order_oriented": 1.0785313195290873,
+        "expression_oriented": 1.026526798084792,
+        "ecosystem_oriented": 0.9921666891654376
       },
-      "priority_raw": 0.48781573916172993,
-      "contest_raw": 0.045914287894108154
+      "priority_raw": 0.4808160723048889,
+      "contest_raw": 0.03301650232771389
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
@@ -1148,17 +1148,17 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.6845802815236168,
-      "contest_score": -0.336073910373686,
+      "priority_score": 1.7906964316199439,
+      "contest_score": -0.5210241421673695,
       "category": "convergent_priority",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1498540242467514,
-      "contestedness": 0.03836500742202631,
-      "impact": 0.76,
+      "central_tendency": 1.15374291313564,
+      "contestedness": 0.03205676131071389,
+      "impact": 0.755,
       "top_clusters": {
-        "care_oriented": 1.2413869203418832,
-        "ecosystem_oriented": 1.1850675461558482
+        "care_oriented": 1.2313869203418832,
+        "ecosystem_oriented": 1.205067546155848
       },
       "bottom_clusters": {
         "sovereignty_order_oriented": 1.0940198171816733
@@ -1166,196 +1166,52 @@
       "cluster_means": {
         "survival_focused": 1.1380910858845628,
         "stability_seeking": 1.138137512549029,
-        "achievement_oriented": 1.0997260784625364,
-        "care_oriented": 1.2413869203418832,
-        "knowledge_oriented": 1.1338035267719468,
-        "governance_oriented": 1.1808602880826613,
+        "achievement_oriented": 1.1047260784625363,
+        "care_oriented": 1.2313869203418832,
+        "knowledge_oriented": 1.143803526771947,
+        "governance_oriented": 1.175860288082661,
         "sovereignty_order_oriented": 1.0940198171816733,
-        "expression_oriented": 1.1375934427906214,
-        "ecosystem_oriented": 1.1850675461558482
+        "expression_oriented": 1.1525934427906215,
+        "ecosystem_oriented": 1.205067546155848
       },
-      "priority_raw": 0.43694452921376553,
-      "contest_raw": 0.029157405640739997
+      "priority_raw": 0.43553794970870413,
+      "contest_raw": 0.024202854789588987
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 1.518256516153091,
-      "contest_score": -1.065041406024467,
+      "priority_score": 1.610645084021611,
+      "contest_score": -0.08802634015769983,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 1.1282757570039612,
-      "contestedness": 0.0345851611028789,
-      "impact": 0.455,
+      "central_tendency": 0.7465688716741669,
+      "contestedness": 0.05298290433445507,
+      "impact": 0.605,
       "top_clusters": {
-        "governance_oriented": 1.2293354175456113,
-        "stability_seeking": 1.2222671582259292
+        "survival_focused": 0.8421789934814532,
+        "stability_seeking": 0.837677306701871
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.9916147042163939
+        "expression_oriented": 0.6049453761011299
       },
       "cluster_means": {
-        "survival_focused": 1.1454965658832323,
-        "stability_seeking": 1.2222671582259292,
-        "achievement_oriented": 1.1337817724612174,
-        "care_oriented": 1.158979585579932,
-        "knowledge_oriented": 1.1176503362349952,
-        "governance_oriented": 1.2293354175456113,
-        "sovereignty_order_oriented": 1.0991966113583385,
-        "expression_oriented": 1.0561596615300013,
-        "ecosystem_oriented": 0.9916147042163939
+        "survival_focused": 0.8421789934814532,
+        "stability_seeking": 0.837677306701871,
+        "achievement_oriented": 0.6843865202746205,
+        "care_oriented": 0.7891960891469981,
+        "knowledge_oriented": 0.6585811829694859,
+        "governance_oriented": 0.8323856548267762,
+        "sovereignty_order_oriented": 0.8271452426866839,
+        "expression_oriented": 0.6049453761011299,
+        "ecosystem_oriented": 0.6426234788784819
       },
-      "priority_raw": 0.41069237554944193,
-      "contest_raw": 0.0157362483018099
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 0.8721300659189566,
-      "contest_score": 0.8047924879425554,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.5592559594321262,
-      "contestedness": 0.07269871153829388,
-      "impact": 0.6900000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.6778251443253871,
-        "care_oriented": 0.6589654853728542
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.4334000010146143
-      },
-      "cluster_means": {
-        "survival_focused": 0.4882575946916268,
-        "stability_seeking": 0.5375957466155094,
-        "achievement_oriented": 0.46915200386587486,
-        "care_oriented": 0.6589654853728542,
-        "knowledge_oriented": 0.6330298358592475,
-        "governance_oriented": 0.5747466988230687,
-        "sovereignty_order_oriented": 0.4334000010146143,
-        "expression_oriented": 0.6778251443253871,
-        "ecosystem_oriented": 0.5603311243209537
-      },
-      "priority_raw": 0.30870928960653377,
-      "contest_raw": 0.050162110961422784
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "title": "What's at stake for Trump in the US midterms?",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.03371658616380638,
-      "contest_score": -0.3362567851999024,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.4642369052145333,
-      "contestedness": 0.048998384366389314,
-      "impact": 0.595,
-      "top_clusters": {
-        "achievement_oriented": 0.5744675186910021,
-        "expression_oriented": 0.5137164735751212
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": 0.3823763107528045
-      },
-      "cluster_means": {
-        "survival_focused": 0.46471808920873187,
-        "stability_seeking": 0.486359050460229,
-        "achievement_oriented": 0.5744675186910021,
-        "care_oriented": 0.39857657037153094,
-        "knowledge_oriented": 0.5106403531848497,
-        "governance_oriented": 0.39609379040116877,
-        "sovereignty_order_oriented": 0.451183990285362,
-        "expression_oriented": 0.5137164735751212,
-        "ecosystem_oriented": 0.3823763107528045
-      },
-      "priority_raw": 0.16573257516158837,
-      "contest_raw": 0.02915403869800164
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.22729076963200787,
-      "contest_score": -0.5230034183276115,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2747546327520002,
-      "contestedness": 0.031360745605038376,
-      "impact": 0.8200000000000001,
-      "top_clusters": {
-        "expression_oriented": 0.4276896917328125,
-        "knowledge_oriented": 0.3689182423708452
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.19539829279022375
-      },
-      "cluster_means": {
-        "survival_focused": 0.20120651575789233,
-        "stability_seeking": 0.2116179371451897,
-        "achievement_oriented": 0.22074834691444362,
-        "care_oriented": 0.3160631788187491,
-        "knowledge_oriented": 0.3689182423708452,
-        "governance_oriented": 0.22675903839526212,
-        "sovereignty_order_oriented": 0.19539829279022375,
-        "expression_oriented": 0.4276896917328125,
-        "ecosystem_oriented": 0.30439045084258287
-      },
-      "priority_raw": 0.1351792793139841,
-      "contest_raw": 0.02571581139613147
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Blood donors get a Halloween fright in Thailand",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.25867100274844546,
-      "contest_score": -0.8634520473509096,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.6890280253887197,
-      "contestedness": 0.07202869558760017,
-      "impact": 0.27,
-      "top_clusters": {
-        "governance_oriented": 0.8190584070166826,
-        "care_oriented": 0.7843041532691559
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": 0.5709328917756671
-      },
-      "cluster_means": {
-        "survival_focused": 0.6074677800148671,
-        "stability_seeking": 0.7396859380977838,
-        "achievement_oriented": 0.5893676834419097,
-        "care_oriented": 0.7843041532691559,
-        "knowledge_oriented": 0.7267158233216214,
-        "governance_oriented": 0.8190584070166826,
-        "sovereignty_order_oriented": 0.5709328917756671,
-        "expression_oriented": 0.7178741235741941,
-        "ecosystem_oriented": 0.645845427986594
-      },
-      "priority_raw": 0.130226296798468,
-      "contest_raw": 0.019447747808652046
+      "priority_raw": 0.4065067506265838,
+      "contest_raw": 0.032054657122345315
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
@@ -1364,74 +1220,218 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3302007215290031,
-      "contest_score": -1.4590869745493937,
+      "priority_score": 0.14243606738711034,
+      "contest_score": -1.4619428490060273,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.48055035749207103,
-      "contestedness": 0.01713414425201576,
-      "impact": 0.495,
+      "central_tendency": 0.5338836908254043,
+      "contestedness": 0.013472878661325627,
+      "impact": 0.53,
       "top_clusters": {
-        "stability_seeking": 0.5185160150977208,
-        "sovereignty_order_oriented": 0.509530275348568
+        "stability_seeking": 0.568516015097721,
+        "governance_oriented": 0.5622497443150187
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.42877599217815676
+        "ecosystem_oriented": 0.4887759921781568
       },
       "cluster_means": {
-        "survival_focused": 0.5005062090847754,
-        "stability_seeking": 0.5185160150977208,
-        "achievement_oriented": 0.47105739668724234,
-        "care_oriented": 0.48511560006300314,
-        "knowledge_oriented": 0.4680216613309471,
-        "governance_oriented": 0.5022497443150189,
-        "sovereignty_order_oriented": 0.509530275348568,
-        "expression_oriented": 0.44118032332320667,
-        "ecosystem_oriented": 0.42877599217815676
+        "survival_focused": 0.5405062090847754,
+        "stability_seeking": 0.568516015097721,
+        "achievement_oriented": 0.5360573966872424,
+        "care_oriented": 0.5351156000630031,
+        "knowledge_oriented": 0.5230216613309471,
+        "governance_oriented": 0.5622497443150187,
+        "sovereignty_order_oriented": 0.549530275348568,
+        "expression_oriented": 0.5011803233232067,
+        "ecosystem_oriented": 0.4887759921781568
       },
-      "priority_raw": 0.11893621347928758,
-      "contest_raw": 0.0084814014047478
+      "priority_raw": 0.16977501368247858,
+      "contest_raw": 0.0071406256905025825
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.3603947411584637,
-      "contest_score": -0.9674652320124961,
+      "priority_score": -0.0318364027167399,
+      "contest_score": -0.7464487404584232,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6089091206556398,
-      "contestedness": 0.046753977466150176,
-      "impact": 0.375,
+      "central_tendency": 0.3855118144604066,
+      "contestedness": 0.027367481272317473,
+      "impact": 0.735,
       "top_clusters": {
-        "knowledge_oriented": 0.6877267610803015,
-        "expression_oriented": 0.6735881575644981
+        "expression_oriented": 0.5008977966010757,
+        "knowledge_oriented": 0.46883064808888825
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.531370253640113
+        "sovereignty_order_oriented": 0.33650034109140337
       },
       "cluster_means": {
-        "survival_focused": 0.5355617245348148,
-        "stability_seeking": 0.6268341800983479,
-        "achievement_oriented": 0.6367992640678924,
-        "care_oriented": 0.5923710184078901,
-        "knowledge_oriented": 0.6877267610803015,
-        "governance_oriented": 0.638983764086734,
-        "sovereignty_order_oriented": 0.531370253640113,
-        "expression_oriented": 0.6735881575644981,
-        "ecosystem_oriented": 0.5569469624201677
+        "survival_focused": 0.33935462417794116,
+        "stability_seeking": 0.34666647995205246,
+        "achievement_oriented": 0.36672210545025863,
+        "care_oriented": 0.39399747012199354,
+        "knowledge_oriented": 0.46883064808888825,
+        "governance_oriented": 0.33790889530805157,
+        "sovereignty_order_oriented": 0.33650034109140337,
+        "expression_oriented": 0.5008977966010757,
+        "ecosystem_oriented": 0.3787279693519945
       },
-      "priority_raw": 0.11417046012293247,
-      "contest_raw": 0.017532741549806316
+      "priority_raw": 0.14167559181419942,
+      "contest_raw": 0.020115098735153342
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.12255053290048008,
+      "contest_score": -0.06969196412797442,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.36825793228144876,
+      "contestedness": 0.05632543492807196,
+      "impact": 0.575,
+      "top_clusters": {
+        "expression_oriented": 0.5291770608580278,
+        "knowledge_oriented": 0.4881513238994193
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": 0.23159193640723114
+      },
+      "cluster_means": {
+        "survival_focused": 0.273239037696444,
+        "stability_seeking": 0.3330698409928011,
+        "achievement_oriented": 0.38526492682836255,
+        "care_oriented": 0.4035739650164669,
+        "knowledge_oriented": 0.4881513238994193,
+        "governance_oriented": 0.323004768745891,
+        "sovereignty_order_oriented": 0.23159193640723114,
+        "expression_oriented": 0.5291770608580278,
+        "ecosystem_oriented": 0.34724853008839496
+      },
+      "priority_raw": 0.12704898663709982,
+      "contest_raw": 0.032387125083641374
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.32374180123073376,
+      "contest_score": -1.3720677160544235,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.3180141836475094,
+      "contestedness": 0.014740141225947079,
+      "impact": 0.595,
+      "top_clusters": {
+        "expression_oriented": 0.436151753005698,
+        "knowledge_oriented": 0.41704511415377105
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.24059539216759285
+      },
+      "cluster_means": {
+        "survival_focused": 0.27489488481254754,
+        "stability_seeking": 0.2974917618038505,
+        "achievement_oriented": 0.3714551894236081,
+        "care_oriented": 0.27248786600605374,
+        "knowledge_oriented": 0.41704511415377105,
+        "governance_oriented": 0.24059539216759285,
+        "sovereignty_order_oriented": 0.2692540708765592,
+        "expression_oriented": 0.436151753005698,
+        "ecosystem_oriented": 0.28275162057790343
+      },
+      "priority_raw": 0.09460921963513404,
+      "contest_raw": 0.008770384029438512
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.47756919149530697,
+      "contest_score": 1.2914872911392818,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.16740127247605663,
+      "contestedness": 0.08211537330702473,
+      "impact": 0.695,
+      "top_clusters": {
+        "expression_oriented": 0.37599883042553717,
+        "knowledge_oriented": 0.31907586704832247
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.002529275537053316
+      },
+      "cluster_means": {
+        "survival_focused": -0.002529275537053316,
+        "stability_seeking": 0.07586488280387166,
+        "achievement_oriented": 0.16424130533234246,
+        "care_oriented": 0.1579802561108964,
+        "knowledge_oriented": 0.31907586704832247,
+        "governance_oriented": 0.1093495700987406,
+        "sovereignty_order_oriented": 0.011844102336265483,
+        "expression_oriented": 0.37599883042553717,
+        "ecosystem_oriented": 0.1922715034868762
+      },
+      "priority_raw": 0.06980633062251561,
+      "contest_raw": 0.05707018444838218
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.47896809595426687,
+      "contest_score": 0.7029390783542638,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.14142433626950374,
+      "contestedness": 0.05658255556254474,
+      "impact": 0.8200000000000001,
+      "top_clusters": {
+        "expression_oriented": 0.286311283069893,
+        "knowledge_oriented": 0.2343668150227833
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.034536059030552596
+      },
+      "cluster_means": {
+        "survival_focused": 0.034536059030552596,
+        "stability_seeking": 0.06826022820107011,
+        "achievement_oriented": 0.12484278376361485,
+        "care_oriented": 0.15781386922905918,
+        "knowledge_oriented": 0.2343668150227833,
+        "governance_oriented": 0.10273851366553355,
+        "sovereignty_order_oriented": 0.07281040491519825,
+        "expression_oriented": 0.286311283069893,
+        "ecosystem_oriented": 0.18340925032742153
+      },
+      "priority_raw": 0.06958077344459584,
+      "contest_raw": 0.04639769556128669
     }
   ],
   "mood": {
-    "score": 0.03757281556807239,
+    "score": 0.03300966508506786,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
@@ -1446,9 +1446,9 @@
       "root_cause": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.1419225441518663,
-      "contest_score": -0.04950460960828886,
-      "contestedness": 0.048841825257106786,
+      "priority_score": 2.250529342249062,
+      "contest_score": -0.1345446786567413,
+      "contestedness": 0.04427108211269137,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, survival_focused.",
       "signal_count": 1,
@@ -1461,27 +1461,27 @@
       "falsification": "Signals tied to Ukrainian evacuees reunite with family after years trapped in Russia-occupied city fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Emotional reunions with loved ones for Oleshky evacuees",
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "name": "Emotional reunions with loved ones for Oleshky evacuees",
-      "root_cause": "Emotional reunions with loved ones for Oleshky evacuees",
+      "target": "Judge orders Trump administration to stop threatening US election officials",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "name": "Judge orders Trump administration to stop threatening US election officials",
+      "root_cause": "Judge orders Trump administration to stop threatening US election officials",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 2.006881121892326,
-      "contest_score": 0.5740728215866573,
-      "contestedness": 0.0758913849489391,
+      "priority_score": 2.071511115405654,
+      "contest_score": -0.034984141418097914,
+      "contestedness": 0.051994491854667535,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, survival_focused.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
       "signal_count": 1,
       "signals": [
-        "Emotional reunions with loved ones for Oleshky evacuees"
+        "Judge orders Trump administration to stop threatening US election officials"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Emotional reunions with loved ones for Oleshky evacuees is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Emotional reunions with loved ones for Oleshky evacuees fade or reverse without spillover."
+      "prediction": "Momentum around Judge orders Trump administration to stop threatening US election officials is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Judge orders Trump administration to stop threatening US election officials fade or reverse without spillover."
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
@@ -1492,9 +1492,9 @@
       "root_cause": "Global nature talks reach deal but money remains an issue",
       "severity": "high",
       "category": "convergent_priority",
-      "priority_score": 1.6845802815236168,
-      "contest_score": -0.336073910373686,
-      "contestedness": 0.03836500742202631,
+      "priority_score": 1.7906964316199439,
+      "contest_score": -0.5210241421673695,
+      "contestedness": 0.03205676131071389,
       "mood": "↗ positive",
       "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from care_oriented, ecosystem_oriented.",
       "signal_count": 1,
@@ -1507,50 +1507,50 @@
       "falsification": "Signals tied to Global nature talks reach deal but money remains an issue fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
       "rank": 4,
-      "target": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "name": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "root_cause": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "target": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "name": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "root_cause": "Armed police start patrols in Sydney after Bondi Beach attack",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.518256516153091,
-      "contest_score": -1.065041406024467,
-      "contestedness": 0.0345851611028789,
+      "priority_score": 1.610645084021611,
+      "contest_score": -0.08802634015769983,
+      "contestedness": 0.05298290433445507,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "CCTV and zip ties: How US mail-in votes are secured and counted"
+        "Armed police start patrols in Sydney after Bondi Beach attack"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around CCTV and zip ties: How US mail-in votes are secured and counted is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to CCTV and zip ties: How US mail-in votes are secured and counted fade or reverse without spillover."
+      "prediction": "Momentum around Armed police start patrols in Sydney after Bondi Beach attack is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Armed police start patrols in Sydney after Bondi Beach attack fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "name": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "root_cause": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "target": "Ethiopian PM puts ministers through military training",
+      "title": "Ethiopian PM puts ministers through military training",
+      "name": "Ethiopian PM puts ministers through military training",
+      "root_cause": "Ethiopian PM puts ministers through military training",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.8721300659189566,
-      "contest_score": 0.8047924879425554,
-      "contestedness": 0.07269871153829388,
+      "priority_score": 0.14243606738711034,
+      "contest_score": -1.4619428490060273,
+      "contestedness": 0.013472878661325627,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, care_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from stability_seeking, governance_oriented.",
       "signal_count": 1,
       "signals": [
-        "Crypto firm Binance covers 90% of losses after $6.3bn hack"
+        "Ethiopian PM puts ministers through military training"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Crypto firm Binance covers 90% of losses after $6.3bn hack is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Crypto firm Binance covers 90% of losses after $6.3bn hack fade or reverse without spillover."
+      "prediction": "Momentum around Ethiopian PM puts ministers through military training is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Ethiopian PM puts ministers through military training fade or reverse without spillover."
     }
   ],
   "predictions": [
@@ -1562,143 +1562,130 @@
       "severity": "high"
     }
   ],
-  "narrative": "🟡 **Cautious mood prevails as positive signals emerge amid underlying uncertainties.**\n\nToday's signals reflect a cautiously optimistic tone, with several developments pointing to progress in humanitarian and environmental spheres. However, the broader structural patterns reveal persistent challenges, particularly in governance, financial stability, and geopolitical tensions. The ensemble's low contestedness suggests a general agreement on the direction of these signals, but the modest portfolio mood score underscores the fragility of these gains.\n\n1. **Humanitarian progress is evident, but it underscores deeper geopolitical fractures.** The reunification of Ukrainian evacuees with their families after years of separation in Russian-occupied territories is a significant positive development, as highlighted by multiple signals. These stories are deeply care- and survival-oriented, reflecting the human cost of protracted conflict. However, the framing of these events as \"background noise\" suggests that while emotionally resonant, they do little to shift the structural dynamics of the ongoing war. The contestedness around these signals remains low, indicating consensus on their positive impact, but their broader implications for the conflict's resolution are limited.\n\n2. **Global environmental negotiations show progress but remain financially constrained.** The agreement reached at international nature talks is a convergent priority, signaling structural alignment on the need for ecosystem-oriented solutions. However, the unresolved issue of funding highlights a recurring barrier to meaningful implementation. This signal is less contested, with broad agreement on its positive direction, but the negative contest score (-0.336) reflects skepticism about the adequacy of financial commitments. This aligns with longer-term patterns of stalled progress in global environmental governance due to resource allocation disputes.\n\n3. **Governance and financial systems face ongoing stress tests.** The signal on the security of U.S. mail-in voting processes is stability-seeking and governance-oriented, reflecting efforts to reinforce trust in democratic systems. However, its categorization as \"background noise\" suggests that these measures are seen as routine rather than transformative. Meanwhile, Binance's response to a $6.3 billion hack, covering 90% of losses, demonstrates resilience in the crypto sector. Yet, the high contest score (0.804) signals ongoing concerns about the systemic vulnerabilities of decentralized financial systems, which remain a critical area to monitor.\n\n**Longer-term trajectories suggest a world grappling with systemic fragilities.** The humanitarian signals from Ukraine and the environmental negotiations highlight the enduring impact of geopolitical and ecological crises. The financial and governance signals, while positive in the short term, point to structural weaknesses that could undermine stability if left unaddressed. The cautious portfolio mood reflects these underlying tensions, even as individual signals offer glimmers of progress.\n\n**Key areas to watch next:** Monitor follow-up actions from the global nature talks, particularly around funding commitments, as these will determine the agreement's viability. In Ukraine, observe whether the humanitarian momentum translates into broader conflict resolution efforts. Finally, track developments in the crypto sector and U.S. electoral processes for signs of either increased resilience or further vulnerabilities.",
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautiously positive trajectory across governance, care, and ecosystem priorities, but underlying tensions and contested dynamics persist, particularly in areas of stability and resource allocation.\n\n**1. Structural Insights: Governance and Care Signals Dominate**  \nThe most structurally significant signals today center on governance and care-oriented developments. The Ukrainian evacuees reuniting with family after years of displacement in Russian-occupied territories highlights resilience and humanitarian progress amidst ongoing geopolitical strain. Similarly, the judicial intervention to curb threats against U.S. election officials signals institutional reinforcement of democratic norms. Both signals are grounded in verified outcomes, underscoring incremental stabilization in governance and care-oriented domains. These developments suggest a slow but positive recalibration of systems under stress.\n\n**2. Contested Signals: Ecosystem and Stability Dynamics**  \nThe global nature talks reaching a deal, though positive in direction, reveal a contested undercurrent around financial commitments. While agreements signal progress on ecosystem priorities, the unresolved funding issues highlight structural fragility in global cooperation. Additionally, armed police patrols in Sydney following the Bondi Beach attack reflect a reactive stability-seeking measure. While the immediate response may reassure local communities, it underscores broader societal tensions and the need for proactive strategies to address underlying causes of violence.\n\n**3. Longer-Term Trajectories: Governance and Resource Allocation**  \nThe Ethiopian PM's decision to put ministers through military training, while low in priority, signals a governance-oriented attempt to consolidate authority amidst regional instability. This aligns with broader patterns of leadership in fragile states prioritizing stability over democratic processes. Similarly, the contested financial dynamics in the nature talks connect to longer-term trajectories of resource allocation in climate negotiations, where funding gaps remain a recurring obstacle to meaningful progress.\n\n**4. What to Watch Next**  \nKey areas to monitor include the implementation of the Ukrainian evacuation efforts and how they might influence broader humanitarian strategies in conflict zones. In governance, the judicial ruling against threats to U.S. election officials could set a precedent for safeguarding democratic processes in the face of rising polarization. Finally, the financial commitments following the global nature talks will be critical in assessing whether ecosystem priorities can translate into actionable change or remain stalled by resource constraints.\n\nToday's signals reflect cautious optimism but highlight the need for sustained attention to contested dynamics in governance, stability, and resource allocation.",
   "noise_filtered": [
     "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-    "Emotional reunions with loved ones for Oleshky evacuees",
-    "CCTV and zip ties: How US mail-in votes are secured and counted",
-    "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "What's at stake for Trump in the US midterms?",
-    "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    "Watch: Blood donors get a Halloween fright in Thailand",
+    "Judge orders Trump administration to stop threatening US election officials",
+    "Armed police start patrols in Sydney after Bondi Beach attack",
     "Ethiopian PM puts ministers through military training",
-    "Pope Leo XIV becomes first pontiff to vote in a US election",
-    "US tech stocks see sharp falls as AI spending nears $1tn",
-    "G20 'family photo' cancelled after protests over presence of Russian minister",
-    "The fight to save Canadian town threatened by Trump's tariffs",
-    "Thousands demonstrate in Paris as protests spread across Europe",
+    "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "India's opposition holds mega rally seeking election chief's resignation",
+    "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "Peaceful protests in Germany spiral into violence and looting",
+    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
     "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
     "Police deployed during stand-off over control of top Poland court",
+    "Israeli strikes in Gaza kill eight including child, hospitals say",
     "Spain train disaster clouds Sánchez chances of re-election",
-    "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-    "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    "They strangled us, says founder of Russian newspaper shut under pressure from authorities"
+    "G20 'family photo' cancelled after protests over presence of Russian minister",
+    "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+    "Shops looted as German cost-of-living protests turn violent",
+    "University of Cambridge scientist among those who died in Spanish train crash",
+    "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+    "Watch: Heidi Klum as giant severed hand for Halloween bash"
   ],
   "matured_predictions": [
     {
-      "id": "3cd3c35d3b7ca199",
-      "created_at": "2026-10-18",
+      "id": "43abb7d4c6b7a0e9",
+      "created_at": "2026-10-19",
       "root_cause": "Brazil sees record fall in Amazon deforestation as key election looms",
       "prediction": "Momentum around Brazil sees record fall in Amazon deforestation as key election looms is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "maturity_date": "2026-11-01",
+      "maturity_date": "2026-11-02",
       "falsification": "Signals tied to Brazil sees record fall in Amazon deforestation as key election looms fade or reverse without downstream spillover.",
       "severity": "high",
       "status": "expired",
-      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly address the momentum around Brazil's record fall in Amazon deforestation or its connection to the election. The provided signals focus on unrelated topics such as elections in other countries, US tech stocks, and voting mechanisms, with only one tangential mention of Flavio Bolsonaro's potential presidential run, which does not provide evidence of the prediction's validation or falsification.",
-      "validated_at": "2026-10-31T23:16:10.093247+00:00",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and no fresh signals directly related to Brazil's Amazon deforestation trends or the election context were identified in the provided evidence. The absence of relevant updates or developments means the prediction cannot be validated, falsified, or partially validated within the specified timeframe.",
+      "validated_at": "2026-11-01T23:27:36.039050+00:00",
       "evidence_used": [
+        "BBC World: India's opposition holds mega rally seeking election chief's resignation",
+        "BBC World: Judge orders Trump administration to stop threatening US election officials",
         "BBC World: Spain train disaster clouds Sánchez chances of re-election",
-        "BBC World: Pope Leo XIV becomes first pontiff to vote in a US election",
-        "BBC World: US tech stocks see sharp falls as AI spending nears $1tn",
         "BBC World: CCTV and zip ties: How US mail-in votes are secured and counted",
-        "Al Jazeera: Israel’s allegations of Qatari election interference rejected",
-        "Al Jazeera: What is ranked-choice voting and how does it work in US elections?",
-        "Al Jazeera: Flavio Bolsonaro says he may run again for Brazilian presidency",
-        "BBC World: What's at stake for Trump in the US midterms?"
+        "BBC World: How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+        "BBC World: Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "BBC World: Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+        "Al Jazeera: High-ranking US Democratic senator suffers stroke"
       ]
     }
   ],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [
-      "Global nature talks reach deal but money remains an issue"
-    ],
+    "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "title": "Emotional reunions with loved ones for Oleshky evacuees",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+        "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+        "title": "What's at stake for Trump in the US midterms?",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Six dead after helicopter crashes in northern Indian state",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "title": "Watch: Blood donors get a Halloween fright in Thailand",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "China denies allegations of spy operation targeting Nvidia CEO",
+        "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+        "title": "The fight to save Canadian town threatened by Trump's tariffs",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+        "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+        "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea: 0.20 → -0.23",
-      "Pope Leo XIV becomes first pontiff to vote in a US election: 0.06 → -0.36",
-      "US tech stocks see sharp falls as AI spending nears $1tn: -0.05 → -0.53",
-      "Police deployed during stand-off over control of top Poland court: -0.23 → -0.70",
-      "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution: -0.41 → -0.84",
-      "They strangled us, says founder of Russian newspaper shut under pressure from authorities: -0.50 → -0.96"
+      "Ethiopian PM puts ministers through military training: -0.33 → 0.14",
+      "Crypto firm Binance covers 90% of losses after $6.3bn hack: 0.87 → -0.03"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "Priority score movement — Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea: 0.20 → -0.23",
-      "Priority score movement — Pope Leo XIV becomes first pontiff to vote in a US election: 0.06 → -0.36",
-      "Priority score movement — US tech stocks see sharp falls as AI spending nears $1tn: -0.05 → -0.53",
-      "Priority score movement — Police deployed during stand-off over control of top Poland court: -0.23 → -0.70",
-      "Priority score movement — US inmate Christa Pike says she woke up 'confused and in pain' after failed execution: -0.41 → -0.84",
-      "Priority score movement — They strangled us, says founder of Russian newspaper shut under pressure from authorities: -0.50 → -0.96"
+      "Priority score movement — Ethiopian PM puts ministers through military training: -0.33 → 0.14",
+      "Priority score movement — Crypto firm Binance covers 90% of losses after $6.3bn hack: 0.87 → -0.03"
     ],
     "continuing_priorities": [
-      "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "US tech stocks see sharp falls as AI spending nears $1tn",
-      "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "Global nature talks reach deal but money remains an issue",
+      "Ethiopian PM puts ministers through military training",
+      "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "Police deployed during stand-off over control of top Poland court",
-      "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "They strangled us, says founder of Russian newspaper shut under pressure from authorities"
+      "Spain train disaster clouds Sánchez chances of re-election",
+      "G20 'family photo' cancelled after protests over presence of Russian minister"
     ],
-    "new_stories": 13,
-    "carried_stories": 7,
+    "new_stories": 12,
+    "carried_stories": 8,
     "total_stories": 20,
-    "summary": "1 new convergent priorities emerged: Global nature talks reach deal but money remains an issue · 13 priorities dropped: US approves sale of 500 Patriot missiles to Ukraine (No longer in today's news feed — story left the RSS cycle); Google value plunges by $500bn as its own AI search hits ad sales (No longer in today's news feed — story left the RSS cycle); Mushroom murderer fails to overturn convictions in Australian court challenge (No longer in today's news feed — story left the RSS cycle); Six dead after helicopter crashes in northern Indian state (No longer in today's news feed — story left the RSS cycle); Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire (No longer in today's news feed — story left the RSS cycle); China denies allegations of spy operation targeting Nvidia CEO (No longer in today's news feed — story left the RSS cycle); Spain transport minister says he won't resign over high-speed rail disaster (No longer in today's news feed — story left the RSS cycle); Swedish academic says he has been barred from UK over event with Palestine Action founder (No longer in today's news feed — story left the RSS cycle); Democratic senator blames Egypt press crackdown on US military aid decision (No longer in today's news feed — story left the RSS cycle); Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage (No longer in today's news feed — story left the RSS cycle); Syrians struggle with soaring prices as crisis challenges post-Assad recovery (No longer in today's news feed — story left the RSS cycle); Human rights lawyer couple sentenced to 10 years' prison in Pakistan (No longer in today's news feed — story left the RSS cycle); Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea: 0.20 → -0.23; Pope Leo XIV becomes first pontiff to vote in a US election: 0.06 → -0.36; US tech stocks see sharp falls as AI spending nears $1tn: -0.05 → -0.53; Police deployed during stand-off over control of top Poland court: -0.23 → -0.70; US inmate Christa Pike says she woke up 'confused and in pain' after failed execution: -0.41 → -0.84; They strangled us, says founder of Russian newspaper shut under pressure from authorities: -0.50 → -0.96 · Structural shifts: Priority score movement — Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea: 0.20 → -0.23; Priority score movement — Pope Leo XIV becomes first pontiff to vote in a US election: 0.06 → -0.36; Priority score movement — US tech stocks see sharp falls as AI spending nears $1tn: -0.05 → -0.53; Priority score movement — Police deployed during stand-off over control of top Poland court: -0.23 → -0.70; Priority score movement — US inmate Christa Pike says she woke up 'confused and in pain' after failed execution: -0.41 → -0.84; Priority score movement — They strangled us, says founder of Russian newspaper shut under pressure from authorities: -0.50 → -0.96 · Signal freshness: 13 new, 7 carried, 20 total"
+    "summary": "12 priorities dropped: Emotional reunions with loved ones for Oleshky evacuees (No longer in today's news feed — story left the RSS cycle); CCTV and zip ties: How US mail-in votes are secured and counted (No longer in today's news feed — story left the RSS cycle); What's at stake for Trump in the US midterms? (No longer in today's news feed — story left the RSS cycle); Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (No longer in today's news feed — story left the RSS cycle); Watch: Blood donors get a Halloween fright in Thailand (No longer in today's news feed — story left the RSS cycle); Pope Leo XIV becomes first pontiff to vote in a US election (No longer in today's news feed — story left the RSS cycle); US tech stocks see sharp falls as AI spending nears $1tn (No longer in today's news feed — story left the RSS cycle); The fight to save Canadian town threatened by Trump's tariffs (No longer in today's news feed — story left the RSS cycle); Thousands demonstrate in Paris as protests spread across Europe (No longer in today's news feed — story left the RSS cycle); US inmate Christa Pike says she woke up 'confused and in pain' after failed execution (No longer in today's news feed — story left the RSS cycle); 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city (No longer in today's news feed — story left the RSS cycle); They strangled us, says founder of Russian newspaper shut under pressure from authorities (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Ethiopian PM puts ministers through military training: -0.33 → 0.14; Crypto firm Binance covers 90% of losses after $6.3bn hack: 0.87 → -0.03 · Structural shifts: Priority score movement — Ethiopian PM puts ministers through military training: -0.33 → 0.14; Priority score movement — Crypto firm Binance covers 90% of losses after $6.3bn hack: 0.87 → -0.03 · Signal freshness: 12 new, 8 carried, 20 total"
   }
 }
