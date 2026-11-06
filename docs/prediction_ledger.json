@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "bc1f024ee96a3473",
+      "created_at": "2026-11-06",
+      "root_cause": "California governor commutes sentences for state's 548 death row inmates",
+      "prediction": "Momentum around California governor commutes sentences for state's 548 death row inmates is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-20",
+      "falsification": "Signals tied to California governor commutes sentences for state's 548 death row inmates fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "79fe04d826f71bf5",
       "created_at": "2026-11-03",
       "root_cause": "Uganda begins withdrawing troops from Somalia after 20 years",
@@ -2269,5 +2282,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-05T00:49:10.899573+00:00"
+  "last_updated": "2026-11-06T00:55:29.525507+00:00"
 }
