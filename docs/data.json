@@ -1,28 +1,105 @@
 {
-  "report_date": "2026-11-07",
-  "generated_at": "2026-11-07T00:01:57.535060+00:00",
+  "report_date": "2026-11-08",
+  "generated_at": "2026-11-07T23:33:10.920903+00:00",
   "story_count": 20,
   "stories": [
+    {
+      "title": "What we know so far after Krakow gun attack",
+      "body": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:58:49 GMT"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "body": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:19:59 GMT"
+    },
+    {
+      "title": "No clear winner after tight New Zealand general election",
+      "body": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:56:28 GMT"
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "body": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
+    },
+    {
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "body": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:09:24 GMT"
+    },
+    {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "body": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:19:35 GMT"
+    },
+    {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "body": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 23:24:15 GMT"
+    },
+    {
+      "title": "Paraguay's former president charged after bank collapse",
+      "body": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 19:17:22 GMT"
+    },
+    {
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "body": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 06:59:48 GMT"
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "body": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 16:50:06 GMT"
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "body": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 12:49:36 GMT"
+    },
+    {
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "body": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 07:27:44 GMT"
+    },
+    {
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "body": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 08:15:55 GMT"
+    },
     {
       "title": "AI stocks climb after trillions wiped from market values",
       "body": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 21:06:25 GMT"
-    },
-    {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "body": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:12:22 GMT"
-    },
-    {
-      "title": "Two dead after bus crashes in France, officials say",
-      "body": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:33:52 GMT"
     },
     {
       "title": "New wave of bomb threats hit European airlines",
@@ -32,13 +109,6 @@
       "published": "Fri, 06 Nov 2026 15:25:35 GMT"
     },
     {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "body": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:46:03 GMT"
-    },
-    {
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
       "body": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
       "source": "BBC World",
@@ -46,88 +116,18 @@
       "published": "Fri, 06 Nov 2026 17:44:02 GMT"
     },
     {
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "body": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "body": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:30:42 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:46:03 GMT"
     },
     {
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "body": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "body": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:51:38 GMT"
-    },
-    {
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "body": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:02:57 GMT"
-    },
-    {
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "body": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:51:01 GMT"
-    },
-    {
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "body": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:57:08 GMT"
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "body": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:49:50 GMT"
-    },
-    {
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "body": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 08:18:10 GMT"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "body": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 07:33:41 GMT"
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "body": "California has historically had the largest population of people on death row in the US.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 23:09:33 GMT"
-    },
-    {
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "body": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:35:55 GMT"
-    },
-    {
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "body": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 06:46:21 GMT"
-    },
-    {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "body": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:40:40 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:58:41 GMT"
     },
     {
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
@@ -149,6 +149,136 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
+      "title": "What we know so far after Krakow gun attack",
+      "body": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:58:49 GMT"
+    },
+    {
+      "number": 2,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "body": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 22:19:59 GMT"
+    },
+    {
+      "number": 3,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "No clear winner after tight New Zealand general election",
+      "body": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:56:28 GMT"
+    },
+    {
+      "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "body": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "body": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:09:24 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "body": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:19:35 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "body": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 23:24:15 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Paraguay's former president charged after bank collapse",
+      "body": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 19:17:22 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "body": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 06:59:48 GMT"
+    },
+    {
+      "number": 10,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "body": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 16:50:06 GMT"
+    },
+    {
+      "number": 11,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "body": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 12:49:36 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "body": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 07:27:44 GMT"
+    },
+    {
+      "number": 13,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "body": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 08:15:55 GMT"
+    },
+    {
+      "number": 14,
+      "signal_type": "community_report",
+      "source": "bbc-world",
       "title": "AI stocks climb after trillions wiped from market values",
       "body": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "labels": [],
@@ -156,27 +286,7 @@
       "published": "Fri, 06 Nov 2026 21:06:25 GMT"
     },
     {
-      "number": 2,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "body": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:12:22 GMT"
-    },
-    {
-      "number": 3,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Two dead after bus crashes in France, officials say",
-      "body": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:33:52 GMT"
-    },
-    {
-      "number": 4,
+      "number": 15,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "New wave of bomb threats hit European airlines",
@@ -186,17 +296,7 @@
       "published": "Fri, 06 Nov 2026 15:25:35 GMT"
     },
     {
-      "number": 5,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "body": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:46:03 GMT"
-    },
-    {
-      "number": 6,
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
@@ -206,124 +306,24 @@
       "published": "Fri, 06 Nov 2026 17:44:02 GMT"
     },
     {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "body": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:30:42 GMT"
-    },
-    {
-      "number": 8,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "body": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:51:38 GMT"
-    },
-    {
-      "number": 9,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "body": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 00:02:57 GMT"
-    },
-    {
-      "number": 10,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "body": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:51:01 GMT"
-    },
-    {
-      "number": 11,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "body": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:57:08 GMT"
-    },
-    {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "body": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:49:50 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "body": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 08:18:10 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "body": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 07:33:41 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "body": "California has historically had the largest population of people on death row in the US.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 23:09:33 GMT"
-    },
-    {
-      "number": 16,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "body": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 17:35:55 GMT"
-    },
-    {
       "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "body": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "body": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 06:46:21 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 14:46:03 GMT"
     },
     {
       "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "body": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "body": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 17:40:40 GMT"
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:58:41 GMT"
     },
     {
       "number": 19,
@@ -348,184 +348,148 @@
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.5553311436018458,
-      "contest_score": -0.8368016789626743,
-      "category": "convergent_priority",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.0897059388933872,
-      "contestedness": 0.020681549836809587,
-      "impact": 0.755,
-      "top_clusters": {
-        "care_oriented": 1.1644021867265608,
-        "governance_oriented": 1.121892365371274
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 1.0251225866355322
-      },
-      "cluster_means": {
-        "survival_focused": 1.104054692720831,
-        "stability_seeking": 1.089963697249291,
-        "achievement_oriented": 1.0251225866355322,
-        "care_oriented": 1.1644021867265608,
-        "knowledge_oriented": 1.0729385340221933,
-        "governance_oriented": 1.121892365371274,
-        "sovereignty_order_oriented": 1.0562412348293848,
-        "expression_oriented": 1.0692821474124814,
-        "ecosystem_oriented": 1.1034560050729356
-      },
-      "priority_raw": 0.5759095887051551,
-      "contest_raw": 0.015614570126791238
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.0848025073228844,
-      "contest_score": -0.7910753100254431,
+      "priority_score": 2.6247981956992854,
+      "contest_score": -0.849557346741985,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6517170373548156,
-      "contestedness": 0.027923150076501924,
-      "impact": 0.5900000000000001,
+      "central_tendency": 0.8305380838481561,
+      "contestedness": 0.027189451972183587,
+      "impact": 0.595,
       "top_clusters": {
-        "care_oriented": 0.774079484306738,
-        "governance_oriented": 0.697937289280469
+        "governance_oriented": 0.8771644121078754,
+        "stability_seeking": 0.8688928339577393
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5467779089562474
+        "ecosystem_oriented": 0.766086542206532
       },
       "cluster_means": {
-        "survival_focused": 0.6475184470476679,
-        "stability_seeking": 0.6754415971241698,
-        "achievement_oriented": 0.5467779089562474,
-        "care_oriented": 0.774079484306738,
-        "knowledge_oriented": 0.6470156359196572,
-        "governance_oriented": 0.697937289280469,
-        "sovereignty_order_oriented": 0.5824865797898386,
-        "expression_oriented": 0.666825193360637,
-        "ecosystem_oriented": 0.6273712004079144
+        "survival_focused": 0.8417033819855557,
+        "stability_seeking": 0.8688928339577393,
+        "achievement_oriented": 0.8418292006150565,
+        "care_oriented": 0.847655110454454,
+        "knowledge_oriented": 0.813184162688988,
+        "governance_oriented": 0.8771644121078754,
+        "sovereignty_order_oriented": 0.8388863241546278,
+        "expression_oriented": 0.7794407864625761,
+        "ecosystem_oriented": 0.766086542206532
       },
-      "priority_raw": 0.26915913642753886,
-      "contest_raw": 0.016474658545136137
+      "priority_raw": 0.2965020959337917,
+      "contest_raw": 0.016177723923449235
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.9167279333681839,
-      "contest_score": -0.7595753780974702,
+      "priority_score": 1.760163441298898,
+      "contest_score": -0.42223900066870823,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.626995815851135,
-      "contestedness": 0.034479101679025015,
-      "impact": 0.495,
+      "central_tendency": 0.9666759467278229,
+      "contestedness": 0.05118279690688676,
+      "impact": 0.48000000000000004,
       "top_clusters": {
-        "governance_oriented": 0.7024450346200818,
-        "care_oriented": 0.676501813358883
+        "governance_oriented": 1.0422592496202085,
+        "stability_seeking": 1.0298161948101534
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5321974513284896
+        "expression_oriented": 0.875067631801858
       },
       "cluster_means": {
-        "survival_focused": 0.5744324938348943,
-        "stability_seeking": 0.642022711679858,
-        "achievement_oriented": 0.5321974513284896,
-        "care_oriented": 0.676501813358883,
-        "knowledge_oriented": 0.664376364597772,
-        "governance_oriented": 0.7024450346200818,
-        "sovereignty_order_oriented": 0.5552347979848296,
-        "expression_oriented": 0.6756016946549448,
-        "ecosystem_oriented": 0.6201499806004618
+        "survival_focused": 0.9964110610417876,
+        "stability_seeking": 1.0298161948101534,
+        "achievement_oriented": 0.9529556437572473,
+        "care_oriented": 1.0142484950375095,
+        "knowledge_oriented": 0.9265659311400549,
+        "governance_oriented": 1.0422592496202085,
+        "sovereignty_order_oriented": 0.9777487280469417,
+        "expression_oriented": 0.875067631801858,
+        "ecosystem_oriented": 0.8850105852946448
       },
-      "priority_raw": 0.24829034307704945,
-      "contest_raw": 0.01706715533111738
+      "priority_raw": 0.2320022272146775,
+      "contest_raw": 0.02456774251530565
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7514342639788746,
-      "contest_score": 0.49768607092224676,
+      "priority_score": 1.4448315787849857,
+      "contest_score": -0.8104220190387417,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6748647041847934,
-      "contestedness": 0.06031935898449592,
-      "impact": 0.675,
+      "central_tendency": 0.5839752306725523,
+      "contestedness": 0.028480859737310404,
+      "impact": 0.595,
       "top_clusters": {
-        "knowledge_oriented": 0.7751648834886364,
-        "expression_oriented": 0.765417287456173
+        "expression_oriented": 0.6334938106176728,
+        "knowledge_oriented": 0.6287659625453526
       },
       "bottom_clusters": {
-        "survival_focused": 0.5518400118850582
+        "ecosystem_oriented": 0.5325728111368135
       },
       "cluster_means": {
-        "survival_focused": 0.5518400118850582,
-        "stability_seeking": 0.6204648629690466,
-        "achievement_oriented": 0.6453141087928869,
-        "care_oriented": 0.7129989385187594,
-        "knowledge_oriented": 0.7751648834886364,
-        "governance_oriented": 0.7104579120290488,
-        "sovereignty_order_oriented": 0.5870264040518538,
-        "expression_oriented": 0.765417287456173,
-        "ecosystem_oriented": 0.7050979284716771
+        "survival_focused": 0.5825641476707754,
+        "stability_seeking": 0.5962751061344853,
+        "achievement_oriented": 0.6066037504391768,
+        "care_oriented": 0.5804407010639631,
+        "knowledge_oriented": 0.6287659625453526,
+        "governance_oriented": 0.5409774985112659,
+        "sovereignty_order_oriented": 0.554083287933465,
+        "expression_oriented": 0.6334938106176728,
+        "ecosystem_oriented": 0.5325728111368135
       },
-      "priority_raw": 0.22776683766236777,
-      "contest_raw": 0.04071556731453475
+      "priority_raw": 0.20847915735010117,
+      "contest_raw": 0.01694611154369969
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "title": "Four midterms takeaways for 2028 White House race",
+      "signal_id": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.35190778374752846,
-      "contest_score": -0.8617977529487076,
+      "priority_score": 1.2069489537477902,
+      "contest_score": -0.30689947960166714,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7662798910849238,
-      "contestedness": 0.03256861809115008,
-      "impact": 0.465,
+      "central_tendency": 0.8383895905343437,
+      "contestedness": 0.058972158720047796,
+      "impact": 0.455,
       "top_clusters": {
-        "achievement_oriented": 0.8274210919815105,
-        "knowledge_oriented": 0.8075823853896604
+        "care_oriented": 0.9522573078437174,
+        "governance_oriented": 0.9235612475356206
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.716783023654326
+        "sovereignty_order_oriented": 0.7213259875392958
       },
       "cluster_means": {
-        "survival_focused": 0.7168495960903737,
-        "stability_seeking": 0.7788466890412814,
-        "achievement_oriented": 0.8274210919815105,
-        "care_oriented": 0.7442310934675657,
-        "knowledge_oriented": 0.8075823853896604,
-        "governance_oriented": 0.8030502315248639,
-        "sovereignty_order_oriented": 0.7249551970560165,
-        "expression_oriented": 0.7767997115587157,
-        "ecosystem_oriented": 0.716783023654326
+        "survival_focused": 0.754869146367495,
+        "stability_seeking": 0.8533073604335075,
+        "achievement_oriented": 0.7943352017134597,
+        "care_oriented": 0.9522573078437174,
+        "knowledge_oriented": 0.8745062417492995,
+        "governance_oriented": 0.9235612475356206,
+        "sovereignty_order_oriented": 0.7213259875392958,
+        "expression_oriented": 0.8684978782712743,
+        "ecosystem_oriented": 0.8028459433554228
       },
-      "priority_raw": 0.1781600746772448,
-      "contest_raw": 0.015144407412384788
+      "priority_raw": 0.1907336318465632,
+      "contest_raw": 0.026832332217621747
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
@@ -534,34 +498,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2699134268808274,
-      "contest_score": -0.8770668669096414,
+      "priority_score": 0.7752281545896381,
+      "contest_score": -1.1870043452687313,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4705303533805672,
-      "contestedness": 0.024970090062315042,
+      "central_tendency": 0.44405658517942315,
+      "contestedness": 0.016054201552904213,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.5848589458119751,
-        "knowledge_oriented": 0.546965048458982
+        "expression_oriented": 0.5593138895752816,
+        "knowledge_oriented": 0.525097986121366
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.39216172170994584
+        "sovereignty_order_oriented": 0.37648182297722366
       },
       "cluster_means": {
-        "survival_focused": 0.4404667030655512,
-        "stability_seeking": 0.4577175687863656,
-        "achievement_oriented": 0.4238371993980775,
-        "care_oriented": 0.5053068434872963,
-        "knowledge_oriented": 0.546965048458982,
-        "governance_oriented": 0.44880728946039256,
-        "sovereignty_order_oriented": 0.39216172170994584,
-        "expression_oriented": 0.5848589458119751,
-        "ecosystem_oriented": 0.4346518602465185
+        "survival_focused": 0.41593047240960973,
+        "stability_seeking": 0.43266513658909017,
+        "achievement_oriented": 0.4170571877075799,
+        "care_oriented": 0.45486964689706955,
+        "knowledge_oriented": 0.525097986121366,
+        "governance_oriented": 0.4140901381829116,
+        "sovereignty_order_oriented": 0.37648182297722366,
+        "expression_oriented": 0.5593138895752816,
+        "ecosystem_oriented": 0.40100298615467567
       },
-      "priority_raw": 0.16797933615686247,
-      "contest_raw": 0.01485720358707745
+      "priority_raw": 0.15852820090905403,
+      "contest_raw": 0.009552249923978006
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -570,322 +534,214 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.03129833736635172,
-      "contest_score": -1.1255599732953345,
+      "priority_score": 0.44228550537109396,
+      "contest_score": -1.201851698129376,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6068068324910625,
-      "contestedness": 0.01786523129773243,
+      "central_tendency": 0.586365810213103,
+      "contestedness": 0.016246903954757252,
       "impact": 0.57,
       "top_clusters": {
-        "achievement_oriented": 0.7006493803937694,
-        "knowledge_oriented": 0.6250135326303935
+        "achievement_oriented": 0.6888879157312445,
+        "stability_seeking": 0.6108132794308758
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.5408012653918085
+        "ecosystem_oriented": 0.5130518461078819
       },
       "cluster_means": {
-        "survival_focused": 0.5978323874271532,
-        "stability_seeking": 0.6241116414017612,
-        "achievement_oriented": 0.7006493803937694,
-        "care_oriented": 0.6071483013326611,
-        "knowledge_oriented": 0.6250135326303935,
-        "governance_oriented": 0.5714763613009464,
-        "sovereignty_order_oriented": 0.5822068354368275,
-        "expression_oriented": 0.6120217871042428,
-        "ecosystem_oriented": 0.5408012653918085
+        "survival_focused": 0.5861243608295084,
+        "stability_seeking": 0.6108132794308758,
+        "achievement_oriented": 0.6888879157312445,
+        "care_oriented": 0.5740862051073365,
+        "knowledge_oriented": 0.5949855148043289,
+        "governance_oriented": 0.5529308963255358,
+        "sovereignty_order_oriented": 0.5787386108495717,
+        "expression_oriented": 0.577673662731643,
+        "ecosystem_oriented": 0.5130518461078819
       },
-      "priority_raw": 0.13835195780796225,
-      "contest_raw": 0.010183181839707485
+      "priority_raw": 0.13369140472858748,
+      "contest_raw": 0.009260735254211633
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.06668583475083271,
-      "contest_score": -1.0776845519590228,
+      "priority_score": -0.022015469448427426,
+      "contest_score": -0.23998988561419304,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6008850551619624,
-      "contestedness": 0.03166769365257627,
-      "impact": 0.35000000000000003,
+      "central_tendency": 0.3588969698403239,
+      "contestedness": 0.04079136673037359,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "governance_oriented": 0.6598615967664072,
-        "knowledge_oriented": 0.6556231404610815
+        "expression_oriented": 0.49014343224653156,
+        "knowledge_oriented": 0.44343258907433014
       },
       "bottom_clusters": {
-        "survival_focused": 0.5233937472580162
+        "sovereignty_order_oriented": 0.2750259199572209
       },
       "cluster_means": {
-        "survival_focused": 0.5233937472580162,
-        "stability_seeking": 0.6411612557857763,
-        "achievement_oriented": 0.643032088655555,
-        "care_oriented": 0.5891118119696092,
-        "knowledge_oriented": 0.6556231404610815,
-        "governance_oriented": 0.6598615967664072,
-        "sovereignty_order_oriented": 0.5319817735001534,
-        "expression_oriented": 0.6281939031138309,
-        "ecosystem_oriented": 0.5356061789472324
+        "survival_focused": 0.3046570871095388,
+        "stability_seeking": 0.312480207010283,
+        "achievement_oriented": 0.3108884182795502,
+        "care_oriented": 0.4197944313930322,
+        "knowledge_oriented": 0.44343258907433014,
+        "governance_oriented": 0.3158172866875945,
+        "sovereignty_order_oriented": 0.2750259199572209,
+        "expression_oriented": 0.49014343224653156,
+        "ecosystem_oriented": 0.35783335680483286
       },
-      "priority_raw": 0.12618586158401213,
-      "contest_raw": 0.011083692778401695
+      "priority_raw": 0.09905556367592941,
+      "contest_raw": 0.02814604304395778
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "title": "No clear winner after tight New Zealand general election",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.15494061861923059,
-      "contest_score": -1.0032625110905928,
+      "priority_score": -0.2805859021568666,
+      "contest_score": -0.5987484551022199,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7292898992260554,
-      "contestedness": 0.0316038768599729,
-      "impact": 0.395,
+      "central_tendency": 0.31590801107697436,
+      "contestedness": 0.0417864062522032,
+      "impact": 0.505,
       "top_clusters": {
-        "governance_oriented": 0.8130385649807839,
-        "care_oriented": 0.798685311366616
+        "expression_oriented": 0.41599150444432736,
+        "knowledge_oriented": 0.3938097604371448
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6725983594682208
+        "sovereignty_order_oriented": 0.24700135173071164
       },
       "cluster_means": {
-        "survival_focused": 0.7164877454108981,
-        "stability_seeking": 0.779091575907445,
-        "achievement_oriented": 0.689904172107224,
-        "care_oriented": 0.798685311366616,
-        "knowledge_oriented": 0.7098254431037503,
-        "governance_oriented": 0.8130385649807839,
-        "sovereignty_order_oriented": 0.7057563544457823,
-        "expression_oriented": 0.6782215662437774,
-        "ecosystem_oriented": 0.6725983594682208
+        "survival_focused": 0.26091630795172605,
+        "stability_seeking": 0.31214050491461803,
+        "achievement_oriented": 0.3328387385322067,
+        "care_oriented": 0.3204116765103776,
+        "knowledge_oriented": 0.3938097604371448,
+        "governance_oriented": 0.28970815650924214,
+        "sovereignty_order_oriented": 0.24700135173071164,
+        "expression_oriented": 0.41599150444432736,
+        "ecosystem_oriented": 0.27035409866241483
       },
-      "priority_raw": 0.11522780407771677,
-      "contest_raw": 0.012483531359689297
+      "priority_raw": 0.07976677279693603,
+      "contest_raw": 0.021102135157362617
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "title": "Two dead after bus crashes in France, officials say",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know so far after Krakow gun attack",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.2556356129623018,
-      "contest_score": -0.10387254023427434,
+      "priority_score": -0.41544907217062127,
+      "contest_score": 0.8052003218325212,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.17873403632893103,
+      "contestedness": 0.062394141443627954,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.3828481009033586,
+        "knowledge_oriented": 0.32158365920479093
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.046488190564250714
+      },
+      "cluster_means": {
+        "survival_focused": 0.046488190564250714,
+        "stability_seeking": 0.08455342513822658,
+        "achievement_oriented": 0.19811934685109192,
+        "care_oriented": 0.13572520540746397,
+        "knowledge_oriented": 0.32158365920479093,
+        "governance_oriented": 0.09465549259762107,
+        "sovereignty_order_oriented": 0.07518762983715066,
+        "expression_oriented": 0.3828481009033586,
+        "ecosystem_oriented": 0.25007830463043657
+      },
+      "priority_raw": 0.06970627416828311,
+      "contest_raw": 0.048667430326029805
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.45322598923828306,
+      "contest_score": 0.8134396443746376,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2613870778983074,
-      "contestedness": 0.04488637133084597,
-      "impact": 0.655,
+      "central_tendency": 0.18580055129845452,
+      "contestedness": 0.06781833632286519,
+      "impact": 0.72,
       "top_clusters": {
-        "expression_oriented": 0.43537967943810874,
-        "knowledge_oriented": 0.37913419628915224
+        "expression_oriented": 0.35546922381818663,
+        "knowledge_oriented": 0.3182096789932035
       },
       "bottom_clusters": {
-        "survival_focused": 0.17297342059054155
+        "survival_focused": 0.07849539239463536
       },
       "cluster_means": {
-        "survival_focused": 0.17297342059054155,
-        "stability_seeking": 0.21376743735907577,
-        "achievement_oriented": 0.23495522397976482,
-        "care_oriented": 0.20824397508508175,
-        "knowledge_oriented": 0.37913419628915224,
-        "governance_oriented": 0.22593867453867095,
-        "sovereignty_order_oriented": 0.18105230320782498,
-        "expression_oriented": 0.43537967943810874,
-        "ecosystem_oriented": 0.30103879059654576
+        "survival_focused": 0.07849539239463536,
+        "stability_seeking": 0.10699678045785802,
+        "achievement_oriented": 0.23953468251402105,
+        "care_oriented": 0.1748151167807232,
+        "knowledge_oriented": 0.3182096789932035,
+        "governance_oriented": 0.11968025858737422,
+        "sovereignty_order_oriented": 0.08742592605514427,
+        "expression_oriented": 0.35546922381818663,
+        "ecosystem_oriented": 0.19157790208494388
       },
-      "priority_raw": 0.1027251216140348,
-      "contest_raw": 0.029400573221704113
+      "priority_raw": 0.06688819846744362,
+      "contest_raw": 0.04882920215246293
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "title": "Italian foreign minister says hackers leaked his personal data",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.40031221146444157,
-      "contest_score": 1.4728432218307757,
+      "priority_score": -0.4812699872122137,
+      "contest_score": -1.2170343473577867,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.23064356999961866,
-      "contestedness": 0.08035067905138848,
-      "impact": 0.735,
+      "central_tendency": 0.20408244826414498,
+      "contestedness": 0.014114389505799574,
+      "impact": 0.635,
       "top_clusters": {
-        "expression_oriented": 0.4244610938387122,
-        "knowledge_oriented": 0.3786329697168552
+        "expression_oriented": 0.2876815481803152,
+        "knowledge_oriented": 0.2470309878117073
       },
       "bottom_clusters": {
-        "survival_focused": 0.10065387127881287
+        "governance_oriented": 0.1492735529606011
       },
       "cluster_means": {
-        "survival_focused": 0.10065387127881287,
-        "stability_seeking": 0.1516206772576127,
-        "achievement_oriented": 0.2844518546898789,
-        "care_oriented": 0.2041011756384904,
-        "knowledge_oriented": 0.3786329697168552,
-        "governance_oriented": 0.15953023037332542,
-        "sovereignty_order_oriented": 0.11679381437407085,
-        "expression_oriented": 0.4244610938387122,
-        "ecosystem_oriented": 0.2555464428288097
+        "survival_focused": 0.17652743914539126,
+        "stability_seeking": 0.18780788927378975,
+        "achievement_oriented": 0.18966363109002263,
+        "care_oriented": 0.2037780205958222,
+        "knowledge_oriented": 0.2470309878117073,
+        "governance_oriented": 0.1492735529606011,
+        "sovereignty_order_oriented": 0.17825125233695527,
+        "expression_oriented": 0.2876815481803152,
+        "ecosystem_oriented": 0.21672771298270027
       },
-      "priority_raw": 0.08476151197485986,
-      "contest_raw": 0.059057749102770535
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.42513876549422985,
-      "contest_score": 2.4088774264496324,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6111111111111112,
-      "central_tendency": 0.15252838540896688,
-      "contestedness": 0.1002144435331051,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.3652043513902179,
-        "knowledge_oriented": 0.28090438586244737
-      },
-      "bottom_clusters": {
-        "sovereignty_order_oriented": -0.03237436270498906
-      },
-      "cluster_means": {
-        "survival_focused": -0.023429826132754378,
-        "stability_seeking": 0.02207768347044131,
-        "achievement_oriented": 0.12486877575745056,
-        "care_oriented": 0.12229212700354641,
-        "knowledge_oriented": 0.28090438586244737,
-        "governance_oriented": 0.05300941315915672,
-        "sovereignty_order_oriented": -0.03237436270498906,
-        "expression_oriented": 0.3652043513902179,
-        "ecosystem_oriented": 0.15354869388518336
-      },
-      "priority_raw": 0.08167895038650176,
-      "contest_raw": 0.0766640493028254
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5727289384223306,
-      "contest_score": -0.5840463548232081,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.2278905755582702,
-      "contestedness": 0.02930757107747753,
-      "impact": 0.695,
-      "top_clusters": {
-        "expression_oriented": 0.36284025709155654,
-        "knowledge_oriented": 0.3135895864874074
-      },
-      "bottom_clusters": {
-        "governance_oriented": 0.12770434657529178
-      },
-      "cluster_means": {
-        "survival_focused": 0.2009542264361023,
-        "stability_seeking": 0.1927693406868229,
-        "achievement_oriented": 0.24541890080506135,
-        "care_oriented": 0.2086411372684873,
-        "knowledge_oriented": 0.3135895864874074,
-        "governance_oriented": 0.12770434657529178,
-        "sovereignty_order_oriented": 0.17933356619100976,
-        "expression_oriented": 0.36284025709155654,
-        "ecosystem_oriented": 0.21976381848269275
-      },
-      "priority_raw": 0.06335358000519911,
-      "contest_raw": 0.02036876189884688
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5728462333472188,
-      "contest_score": 0.22315006139103158,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9166666666666666,
-      "central_tendency": 0.16559219924376975,
-      "contestedness": 0.046472800730742225,
-      "impact": 0.765,
-      "top_clusters": {
-        "expression_oriented": 0.3384195787935853,
-        "knowledge_oriented": 0.2750371522477392
-      },
-      "bottom_clusters": {
-        "survival_focused": 0.06326063567898754
-      },
-      "cluster_means": {
-        "survival_focused": 0.06326063567898754,
-        "stability_seeking": 0.07674643043702162,
-        "achievement_oriented": 0.10555263378600246,
-        "care_oriented": 0.20649985669126422,
-        "knowledge_oriented": 0.2750371522477392,
-        "governance_oriented": 0.10973343640972977,
-        "sovereignty_order_oriented": 0.0737870697565293,
-        "expression_oriented": 0.3384195787935853,
-        "ecosystem_oriented": 0.21771879549788584
-      },
-      "priority_raw": 0.06333901621074194,
-      "contest_raw": 0.0355516925590178
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": -0.5938735799843003,
-      "contest_score": 0.8813934669656006,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.6666666666666666,
-      "central_tendency": 0.1499461209903305,
-      "contestedness": 0.07101169950001351,
-      "impact": 0.675,
-      "top_clusters": {
-        "expression_oriented": 0.3387116573905801,
-        "knowledge_oriented": 0.28364755979338696
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.05898677197314492
-      },
-      "cluster_means": {
-        "survival_focused": -0.05898677197314492,
-        "stability_seeking": 0.03646892795202822,
-        "achievement_oriented": 0.13353046016536335,
-        "care_oriented": 0.10748062745204173,
-        "knowledge_oriented": 0.28364755979338696,
-        "governance_oriented": 0.07540267181618743,
-        "sovereignty_order_oriented": -0.03197403098472704,
-        "expression_oriented": 0.3387116573905801,
-        "ecosystem_oriented": 0.1533859075418204
-      },
-      "priority_raw": 0.060728179001083855,
-      "contest_raw": 0.047932897162509126
+      "priority_raw": 0.06479617732386603,
+      "contest_raw": 0.00896263733618273
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
@@ -894,70 +750,214 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.6185927912357955,
-      "contest_score": 1.0736312234488958,
+      "priority_score": -0.5199229627525751,
+      "contest_score": 0.18146567732386104,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.11174214246108896,
-      "contestedness": 0.05994044886011515,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.1199859487787084,
+      "contestedness": 0.04234994309674556,
       "impact": 0.86,
       "top_clusters": {
-        "expression_oriented": 0.24377856778515872,
-        "knowledge_oriented": 0.16692885956294382
+        "expression_oriented": 0.2443351002961504,
+        "knowledge_oriented": 0.18802987439733615
       },
       "bottom_clusters": {
-        "survival_focused": -0.0776301429961288
+        "survival_focused": 0.0503989217634937
       },
       "cluster_means": {
-        "survival_focused": -0.0776301429961288,
-        "stability_seeking": -0.05804664752136726,
-        "achievement_oriented": 0.04041269458499838,
-        "care_oriented": 0.0018938013387478914,
-        "knowledge_oriented": 0.16692885956294382,
-        "governance_oriented": -0.046695116167390444,
-        "sovereignty_order_oriented": -0.03791093406261384,
-        "expression_oriented": 0.24377856778515872,
-        "ecosystem_oriented": 0.11955184104525846
+        "survival_focused": 0.0503989217634937,
+        "stability_seeking": 0.05665914601892347,
+        "achievement_oriented": 0.12540723573931428,
+        "care_oriented": 0.08694824967115397,
+        "knowledge_oriented": 0.18802987439733615,
+        "governance_oriented": 0.05190012797805055,
+        "sovereignty_order_oriented": 0.0942500710747961,
+        "expression_oriented": 0.2443351002961504,
+        "ecosystem_oriented": 0.18103699439663323
       },
-      "priority_raw": 0.0576589455099219,
-      "contest_raw": 0.05154878601969903
+      "priority_raw": 0.06191274956981353,
+      "contest_raw": 0.03642095106320118
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "title": "Russian extremist group denies sending hoax bomb threats",
+      "signal_id": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7243073493688971,
-      "contest_score": 0.26466770237769344,
+      "priority_score": -0.6174136548876429,
+      "contest_score": 0.7842902549130358,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.7222222222222222,
-      "central_tendency": 0.12687468509082703,
-      "contestedness": 0.062107037721573485,
-      "impact": 0.585,
+      "sign_agreement": 0.6388888888888888,
+      "central_tendency": 0.13903347674233626,
+      "contestedness": 0.07367462536857382,
+      "impact": 0.655,
       "top_clusters": {
-        "expression_oriented": 0.28593831946122283,
-        "knowledge_oriented": 0.23217265728200742
+        "expression_oriented": 0.3026786627937065,
+        "knowledge_oriented": 0.25257194303890707
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": -0.021180427167002164
+        "survival_focused": -0.08625857724697863
       },
       "cluster_means": {
-        "survival_focused": -0.019670725964668734,
-        "stability_seeking": 0.047871006760134796,
-        "achievement_oriented": 0.10997804448170828,
-        "care_oriented": 0.1312195277918396,
-        "knowledge_oriented": 0.23217265728200742,
-        "governance_oriented": 0.0813955564506864,
-        "sovereignty_order_oriented": -0.021180427167002164,
-        "expression_oriented": 0.28593831946122283,
-        "ecosystem_oriented": 0.11304989408895924
+        "survival_focused": -0.08625857724697863,
+        "stability_seeking": 0.017819000541277885,
+        "achievement_oriented": 0.10635223517952905,
+        "care_oriented": 0.0914936259098517,
+        "knowledge_oriented": 0.25257194303890707,
+        "governance_oriented": 0.06279769647508562,
+        "sovereignty_order_oriented": -0.05261960167598698,
+        "expression_oriented": 0.3026786627937065,
+        "ecosystem_oriented": 0.11909479196222324
       },
-      "priority_raw": 0.04453301446688028,
-      "contest_raw": 0.03633261706712049
+      "priority_raw": 0.05464015635973815,
+      "contest_raw": 0.04825687961641585
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6296658751471903,
+      "contest_score": 2.4280346401414286,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.6111111111111112,
+      "central_tendency": 0.14046056843092963,
+      "contestedness": 0.10526843126844254,
+      "impact": 0.765,
+      "top_clusters": {
+        "expression_oriented": 0.3259955421387829,
+        "knowledge_oriented": 0.23871514690634377
+      },
+      "bottom_clusters": {
+        "sovereignty_order_oriented": -0.04875701251370637
+      },
+      "cluster_means": {
+        "survival_focused": -0.03635071862768327,
+        "stability_seeking": -0.0214888512659539,
+        "achievement_oriented": 0.08377958000248864,
+        "care_oriented": 0.08762201218483617,
+        "knowledge_oriented": 0.23871514690634377,
+        "governance_oriented": -0.010279368455931415,
+        "sovereignty_order_oriented": -0.04875701251370637,
+        "expression_oriented": 0.3259955421387829,
+        "ecosystem_oriented": 0.13999752611747443
+      },
+      "priority_raw": 0.053726167424830586,
+      "contest_raw": 0.08053034992035854
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.6915371510839203,
+      "contest_score": 1.2924049481140627,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.12592488474804603,
+      "contestedness": 0.07465802971365429,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.2833825046676479,
+        "knowledge_oriented": 0.23393178967289519
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.0014367833969598787
+      },
+      "cluster_means": {
+        "survival_focused": 0.0014367833969598787,
+        "stability_seeking": 0.03521363945328193,
+        "achievement_oriented": 0.10987166916693622,
+        "care_oriented": 0.1388805779345208,
+        "knowledge_oriented": 0.23393178967289519,
+        "governance_oriented": 0.06466616462330332,
+        "sovereignty_order_oriented": 0.03269908177024852,
+        "expression_oriented": 0.2833825046676479,
+        "ecosystem_oriented": 0.15447242180415321
+      },
+      "priority_raw": 0.04911070505173795,
+      "contest_raw": 0.05823326317665035
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "title": "Paraguay's former president charged after bank collapse",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7635195763567157,
+      "contest_score": -0.3338907903482572,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9166666666666666,
+      "central_tendency": 0.11902305569914017,
+      "contestedness": 0.035785553268726455,
+      "impact": 0.735,
+      "top_clusters": {
+        "expression_oriented": 0.2506793499923422,
+        "knowledge_oriented": 0.19398164015261687
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.04177878989083547
+      },
+      "cluster_means": {
+        "survival_focused": 0.04177878989083547,
+        "stability_seeking": 0.06188223866480666,
+        "achievement_oriented": 0.04212217109084834,
+        "care_oriented": 0.1565721937215009,
+        "knowledge_oriented": 0.19398164015261687,
+        "governance_oriented": 0.07756434315956193,
+        "sovereignty_order_oriented": 0.0581851474809022,
+        "expression_oriented": 0.2506793499923422,
+        "ecosystem_oriented": 0.14500982030219609
+      },
+      "priority_raw": 0.04374097296943401,
+      "contest_raw": 0.026302381652513945
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.7992427366610234,
+      "contest_score": -0.27362882202083433,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.8611111111111112,
+      "central_tendency": 0.12261523297968571,
+      "contestedness": 0.04102324211333004,
+      "impact": 0.67,
+      "top_clusters": {
+        "expression_oriented": 0.3072445022943239,
+        "knowledge_oriented": 0.23921971142684337
+      },
+      "bottom_clusters": {
+        "governance_oriented": 0.011404975898297753
+      },
+      "cluster_means": {
+        "survival_focused": 0.02576371152775553,
+        "stability_seeking": 0.053859012384874644,
+        "achievement_oriented": 0.10765763667574059,
+        "care_oriented": 0.06678695364108557,
+        "knowledge_oriented": 0.23921971142684337,
+        "governance_oriented": 0.011404975898297753,
+        "sovereignty_order_oriented": 0.029204602203674546,
+        "expression_oriented": 0.3072445022943239,
+        "ecosystem_oriented": 0.17164516384815556
+      },
+      "priority_raw": 0.041076103048194715,
+      "contest_raw": 0.02748557221593113
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
@@ -966,8 +966,8 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.7537073056859857,
-      "contest_score": 1.4151447762998954,
+      "priority_score": -0.8018366676537513,
+      "contest_score": 1.279122414899539,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.5555555555555556,
@@ -996,258 +996,222 @@
       "contest_raw": 0.05797247235959122
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "signal_id": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9048796727211899,
-      "contest_score": 0.39327483863416984,
+      "priority_score": -0.8186391059731822,
+      "contest_score": -1.1300892953618353,
       "category": "background_noise",
       "polarity": 1,
-      "sign_agreement": 0.5277777777777778,
-      "central_tendency": 0.08705689725337892,
-      "contestedness": 0.06102621758124535,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.15602037858426107,
+      "contestedness": 0.01680271920954063,
       "impact": 0.635,
       "top_clusters": {
-        "expression_oriented": 0.1825405986814103,
-        "knowledge_oriented": 0.12357609820113742
+        "expression_oriented": 0.2459395600795283,
+        "knowledge_oriented": 0.2133248809625401
       },
       "bottom_clusters": {
-        "survival_focused": -0.0711236957811262
+        "governance_oriented": 0.08338471538104966
       },
       "cluster_means": {
-        "survival_focused": -0.0711236957811262,
-        "stability_seeking": -0.04378812729602463,
-        "achievement_oriented": 0.017693032068588715,
-        "care_oriented": -0.0029834026447564665,
-        "knowledge_oriented": 0.12357609820113742,
-        "governance_oriented": -0.06400962022600182,
-        "sovereignty_order_oriented": -0.05044033241922072,
-        "expression_oriented": 0.1825405986814103,
-        "ecosystem_oriented": 0.06429959028314498
+        "survival_focused": 0.11916300443115296,
+        "stability_seeking": 0.1310013868501245,
+        "achievement_oriented": 0.18786507237155242,
+        "care_oriented": 0.1359657236406936,
+        "knowledge_oriented": 0.2133248809625401,
+        "governance_oriented": 0.08338471538104966,
+        "sovereignty_order_oriented": 0.1353596794587668,
+        "expression_oriented": 0.2459395600795283,
+        "ecosystem_oriented": 0.15217938408294132
       },
-      "priority_raw": 0.02211245190235825,
-      "contest_raw": 0.038751648164090796
+      "priority_raw": 0.03962917616040232,
+      "contest_raw": 0.0106697266980583
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.9177664822097455,
-      "contest_score": -0.6099258699735682,
+      "priority_score": -0.9599316787492767,
+      "contest_score": 0.9873975836552504,
       "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.07378552328407738,
-      "contestedness": 0.028607168533892877,
-      "impact": 0.6950000000000001,
+      "polarity": -1,
+      "sign_agreement": 0.6388888888888888,
+      "central_tendency": 0.09632138441971118,
+      "contestedness": 0.0691982950493236,
+      "impact": 0.755,
       "top_clusters": {
-        "expression_oriented": 0.17413446684340178,
-        "knowledge_oriented": 0.12112228313736484
+        "expression_oriented": 0.11365443208273382,
+        "knowledge_oriented": 0.05675172964164399
       },
       "bottom_clusters": {
-        "governance_oriented": -0.010248882859346164
+        "stability_seeking": -0.12886704315113204
       },
       "cluster_means": {
-        "survival_focused": 0.011615638505443171,
-        "stability_seeking": 0.023726483881398253,
-        "achievement_oriented": 0.03785520792926171,
-        "care_oriented": 0.06646237646315459,
-        "knowledge_oriented": 0.12112228313736484,
-        "governance_oriented": -0.010248882859346164,
-        "sovereignty_order_oriented": 0.026000211777568616,
-        "expression_oriented": 0.17413446684340178,
-        "ecosystem_oriented": 0.10530709385041698
+        "survival_focused": -0.11003083357378773,
+        "stability_seeking": -0.12886704315113204,
+        "achievement_oriented": -0.02010775269667764,
+        "care_oriented": -0.04083253852446414,
+        "knowledge_oriented": 0.05675172964164399,
+        "governance_oriented": -0.10735224069897481,
+        "sovereignty_order_oriented": -0.06836353484619115,
+        "expression_oriented": 0.11365443208273382,
+        "ecosystem_oriented": 0.04658295253377101
       },
-      "priority_raw": 0.020512375472973514,
-      "contest_raw": 0.01988198213105555
+      "priority_raw": 0.02908905809475278,
+      "contest_raw": 0.05224471276223931
     }
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 3.5553311436018458,
-      "contest_score": -0.8368016789626743,
-      "category": "convergent_priority",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 1.0897059388933872,
-      "contestedness": 0.020681549836809587,
-      "impact": 0.755,
-      "top_clusters": {
-        "care_oriented": 1.1644021867265608,
-        "governance_oriented": 1.121892365371274
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 1.0251225866355322
-      },
-      "cluster_means": {
-        "survival_focused": 1.104054692720831,
-        "stability_seeking": 1.089963697249291,
-        "achievement_oriented": 1.0251225866355322,
-        "care_oriented": 1.1644021867265608,
-        "knowledge_oriented": 1.0729385340221933,
-        "governance_oriented": 1.121892365371274,
-        "sovereignty_order_oriented": 1.0562412348293848,
-        "expression_oriented": 1.0692821474124814,
-        "ecosystem_oriented": 1.1034560050729356
-      },
-      "priority_raw": 0.5759095887051551,
-      "contest_raw": 0.015614570126791238
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": false,
-      "priority_score": 1.0848025073228844,
-      "contest_score": -0.7910753100254431,
+      "priority_score": 2.6247981956992854,
+      "contest_score": -0.849557346741985,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6517170373548156,
-      "contestedness": 0.027923150076501924,
-      "impact": 0.5900000000000001,
+      "central_tendency": 0.8305380838481561,
+      "contestedness": 0.027189451972183587,
+      "impact": 0.595,
       "top_clusters": {
-        "care_oriented": 0.774079484306738,
-        "governance_oriented": 0.697937289280469
+        "governance_oriented": 0.8771644121078754,
+        "stability_seeking": 0.8688928339577393
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5467779089562474
+        "ecosystem_oriented": 0.766086542206532
       },
       "cluster_means": {
-        "survival_focused": 0.6475184470476679,
-        "stability_seeking": 0.6754415971241698,
-        "achievement_oriented": 0.5467779089562474,
-        "care_oriented": 0.774079484306738,
-        "knowledge_oriented": 0.6470156359196572,
-        "governance_oriented": 0.697937289280469,
-        "sovereignty_order_oriented": 0.5824865797898386,
-        "expression_oriented": 0.666825193360637,
-        "ecosystem_oriented": 0.6273712004079144
+        "survival_focused": 0.8417033819855557,
+        "stability_seeking": 0.8688928339577393,
+        "achievement_oriented": 0.8418292006150565,
+        "care_oriented": 0.847655110454454,
+        "knowledge_oriented": 0.813184162688988,
+        "governance_oriented": 0.8771644121078754,
+        "sovereignty_order_oriented": 0.8388863241546278,
+        "expression_oriented": 0.7794407864625761,
+        "ecosystem_oriented": 0.766086542206532
       },
-      "priority_raw": 0.26915913642753886,
-      "contest_raw": 0.016474658545136137
+      "priority_raw": 0.2965020959337917,
+      "contest_raw": 0.016177723923449235
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.9167279333681839,
-      "contest_score": -0.7595753780974702,
+      "priority_score": 1.760163441298898,
+      "contest_score": -0.42223900066870823,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.626995815851135,
-      "contestedness": 0.034479101679025015,
-      "impact": 0.495,
+      "central_tendency": 0.9666759467278229,
+      "contestedness": 0.05118279690688676,
+      "impact": 0.48000000000000004,
       "top_clusters": {
-        "governance_oriented": 0.7024450346200818,
-        "care_oriented": 0.676501813358883
+        "governance_oriented": 1.0422592496202085,
+        "stability_seeking": 1.0298161948101534
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.5321974513284896
+        "expression_oriented": 0.875067631801858
       },
       "cluster_means": {
-        "survival_focused": 0.5744324938348943,
-        "stability_seeking": 0.642022711679858,
-        "achievement_oriented": 0.5321974513284896,
-        "care_oriented": 0.676501813358883,
-        "knowledge_oriented": 0.664376364597772,
-        "governance_oriented": 0.7024450346200818,
-        "sovereignty_order_oriented": 0.5552347979848296,
-        "expression_oriented": 0.6756016946549448,
-        "ecosystem_oriented": 0.6201499806004618
+        "survival_focused": 0.9964110610417876,
+        "stability_seeking": 1.0298161948101534,
+        "achievement_oriented": 0.9529556437572473,
+        "care_oriented": 1.0142484950375095,
+        "knowledge_oriented": 0.9265659311400549,
+        "governance_oriented": 1.0422592496202085,
+        "sovereignty_order_oriented": 0.9777487280469417,
+        "expression_oriented": 0.875067631801858,
+        "ecosystem_oriented": 0.8850105852946448
       },
-      "priority_raw": 0.24829034307704945,
-      "contest_raw": 0.01706715533111738
+      "priority_raw": 0.2320022272146775,
+      "contest_raw": 0.02456774251530565
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.7514342639788746,
-      "contest_score": 0.49768607092224676,
+      "priority_score": 1.4448315787849857,
+      "contest_score": -0.8104220190387417,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6748647041847934,
-      "contestedness": 0.06031935898449592,
-      "impact": 0.675,
+      "central_tendency": 0.5839752306725523,
+      "contestedness": 0.028480859737310404,
+      "impact": 0.595,
       "top_clusters": {
-        "knowledge_oriented": 0.7751648834886364,
-        "expression_oriented": 0.765417287456173
+        "expression_oriented": 0.6334938106176728,
+        "knowledge_oriented": 0.6287659625453526
       },
       "bottom_clusters": {
-        "survival_focused": 0.5518400118850582
+        "ecosystem_oriented": 0.5325728111368135
       },
       "cluster_means": {
-        "survival_focused": 0.5518400118850582,
-        "stability_seeking": 0.6204648629690466,
-        "achievement_oriented": 0.6453141087928869,
-        "care_oriented": 0.7129989385187594,
-        "knowledge_oriented": 0.7751648834886364,
-        "governance_oriented": 0.7104579120290488,
-        "sovereignty_order_oriented": 0.5870264040518538,
-        "expression_oriented": 0.765417287456173,
-        "ecosystem_oriented": 0.7050979284716771
+        "survival_focused": 0.5825641476707754,
+        "stability_seeking": 0.5962751061344853,
+        "achievement_oriented": 0.6066037504391768,
+        "care_oriented": 0.5804407010639631,
+        "knowledge_oriented": 0.6287659625453526,
+        "governance_oriented": 0.5409774985112659,
+        "sovereignty_order_oriented": 0.554083287933465,
+        "expression_oriented": 0.6334938106176728,
+        "ecosystem_oriented": 0.5325728111368135
       },
-      "priority_raw": 0.22776683766236777,
-      "contest_raw": 0.04071556731453475
+      "priority_raw": 0.20847915735010117,
+      "contest_raw": 0.01694611154369969
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "title": "Four midterms takeaways for 2028 White House race",
+      "signal_id": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.35190778374752846,
-      "contest_score": -0.8617977529487076,
+      "priority_score": 1.2069489537477902,
+      "contest_score": -0.30689947960166714,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7662798910849238,
-      "contestedness": 0.03256861809115008,
-      "impact": 0.465,
+      "central_tendency": 0.8383895905343437,
+      "contestedness": 0.058972158720047796,
+      "impact": 0.455,
       "top_clusters": {
-        "achievement_oriented": 0.8274210919815105,
-        "knowledge_oriented": 0.8075823853896604
+        "care_oriented": 0.9522573078437174,
+        "governance_oriented": 0.9235612475356206
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.716783023654326
+        "sovereignty_order_oriented": 0.7213259875392958
       },
       "cluster_means": {
-        "survival_focused": 0.7168495960903737,
-        "stability_seeking": 0.7788466890412814,
-        "achievement_oriented": 0.8274210919815105,
-        "care_oriented": 0.7442310934675657,
-        "knowledge_oriented": 0.8075823853896604,
-        "governance_oriented": 0.8030502315248639,
-        "sovereignty_order_oriented": 0.7249551970560165,
-        "expression_oriented": 0.7767997115587157,
-        "ecosystem_oriented": 0.716783023654326
+        "survival_focused": 0.754869146367495,
+        "stability_seeking": 0.8533073604335075,
+        "achievement_oriented": 0.7943352017134597,
+        "care_oriented": 0.9522573078437174,
+        "knowledge_oriented": 0.8745062417492995,
+        "governance_oriented": 0.9235612475356206,
+        "sovereignty_order_oriented": 0.7213259875392958,
+        "expression_oriented": 0.8684978782712743,
+        "ecosystem_oriented": 0.8028459433554228
       },
-      "priority_raw": 0.1781600746772448,
-      "contest_raw": 0.015144407412384788
+      "priority_raw": 0.1907336318465632,
+      "contest_raw": 0.026832332217621747
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
@@ -1256,34 +1220,34 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.2699134268808274,
-      "contest_score": -0.8770668669096414,
+      "priority_score": 0.7752281545896381,
+      "contest_score": -1.1870043452687313,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.4705303533805672,
-      "contestedness": 0.024970090062315042,
+      "central_tendency": 0.44405658517942315,
+      "contestedness": 0.016054201552904213,
       "impact": 0.595,
       "top_clusters": {
-        "expression_oriented": 0.5848589458119751,
-        "knowledge_oriented": 0.546965048458982
+        "expression_oriented": 0.5593138895752816,
+        "knowledge_oriented": 0.525097986121366
       },
       "bottom_clusters": {
-        "sovereignty_order_oriented": 0.39216172170994584
+        "sovereignty_order_oriented": 0.37648182297722366
       },
       "cluster_means": {
-        "survival_focused": 0.4404667030655512,
-        "stability_seeking": 0.4577175687863656,
-        "achievement_oriented": 0.4238371993980775,
-        "care_oriented": 0.5053068434872963,
-        "knowledge_oriented": 0.546965048458982,
-        "governance_oriented": 0.44880728946039256,
-        "sovereignty_order_oriented": 0.39216172170994584,
-        "expression_oriented": 0.5848589458119751,
-        "ecosystem_oriented": 0.4346518602465185
+        "survival_focused": 0.41593047240960973,
+        "stability_seeking": 0.43266513658909017,
+        "achievement_oriented": 0.4170571877075799,
+        "care_oriented": 0.45486964689706955,
+        "knowledge_oriented": 0.525097986121366,
+        "governance_oriented": 0.4140901381829116,
+        "sovereignty_order_oriented": 0.37648182297722366,
+        "expression_oriented": 0.5593138895752816,
+        "ecosystem_oriented": 0.40100298615467567
       },
-      "priority_raw": 0.16797933615686247,
-      "contest_raw": 0.01485720358707745
+      "priority_raw": 0.15852820090905403,
+      "contest_raw": 0.009552249923978006
     },
     {
       "signal_id": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
@@ -1292,388 +1256,430 @@
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": 0.03129833736635172,
-      "contest_score": -1.1255599732953345,
+      "priority_score": 0.44228550537109396,
+      "contest_score": -1.201851698129376,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6068068324910625,
-      "contestedness": 0.01786523129773243,
+      "central_tendency": 0.586365810213103,
+      "contestedness": 0.016246903954757252,
       "impact": 0.57,
       "top_clusters": {
-        "achievement_oriented": 0.7006493803937694,
-        "knowledge_oriented": 0.6250135326303935
+        "achievement_oriented": 0.6888879157312445,
+        "stability_seeking": 0.6108132794308758
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.5408012653918085
+        "ecosystem_oriented": 0.5130518461078819
       },
       "cluster_means": {
-        "survival_focused": 0.5978323874271532,
-        "stability_seeking": 0.6241116414017612,
-        "achievement_oriented": 0.7006493803937694,
-        "care_oriented": 0.6071483013326611,
-        "knowledge_oriented": 0.6250135326303935,
-        "governance_oriented": 0.5714763613009464,
-        "sovereignty_order_oriented": 0.5822068354368275,
-        "expression_oriented": 0.6120217871042428,
-        "ecosystem_oriented": 0.5408012653918085
+        "survival_focused": 0.5861243608295084,
+        "stability_seeking": 0.6108132794308758,
+        "achievement_oriented": 0.6888879157312445,
+        "care_oriented": 0.5740862051073365,
+        "knowledge_oriented": 0.5949855148043289,
+        "governance_oriented": 0.5529308963255358,
+        "sovereignty_order_oriented": 0.5787386108495717,
+        "expression_oriented": 0.577673662731643,
+        "ecosystem_oriented": 0.5130518461078819
       },
-      "priority_raw": 0.13835195780796225,
-      "contest_raw": 0.010183181839707485
+      "priority_raw": 0.13369140472858748,
+      "contest_raw": 0.009260735254211633
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.06668583475083271,
-      "contest_score": -1.0776845519590228,
+      "priority_score": -0.022015469448427426,
+      "contest_score": -0.23998988561419304,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.6008850551619624,
-      "contestedness": 0.03166769365257627,
-      "impact": 0.35000000000000003,
+      "central_tendency": 0.3588969698403239,
+      "contestedness": 0.04079136673037359,
+      "impact": 0.6900000000000001,
       "top_clusters": {
-        "governance_oriented": 0.6598615967664072,
-        "knowledge_oriented": 0.6556231404610815
+        "expression_oriented": 0.49014343224653156,
+        "knowledge_oriented": 0.44343258907433014
       },
       "bottom_clusters": {
-        "survival_focused": 0.5233937472580162
+        "sovereignty_order_oriented": 0.2750259199572209
       },
       "cluster_means": {
-        "survival_focused": 0.5233937472580162,
-        "stability_seeking": 0.6411612557857763,
-        "achievement_oriented": 0.643032088655555,
-        "care_oriented": 0.5891118119696092,
-        "knowledge_oriented": 0.6556231404610815,
-        "governance_oriented": 0.6598615967664072,
-        "sovereignty_order_oriented": 0.5319817735001534,
-        "expression_oriented": 0.6281939031138309,
-        "ecosystem_oriented": 0.5356061789472324
+        "survival_focused": 0.3046570871095388,
+        "stability_seeking": 0.312480207010283,
+        "achievement_oriented": 0.3108884182795502,
+        "care_oriented": 0.4197944313930322,
+        "knowledge_oriented": 0.44343258907433014,
+        "governance_oriented": 0.3158172866875945,
+        "sovereignty_order_oriented": 0.2750259199572209,
+        "expression_oriented": 0.49014343224653156,
+        "ecosystem_oriented": 0.35783335680483286
       },
-      "priority_raw": 0.12618586158401213,
-      "contest_raw": 0.011083692778401695
+      "priority_raw": 0.09905556367592941,
+      "contest_raw": 0.02814604304395778
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "title": "No clear winner after tight New Zealand general election",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.15494061861923059,
-      "contest_score": -1.0032625110905928,
+      "priority_score": -0.2805859021568666,
+      "contest_score": -0.5987484551022199,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.7292898992260554,
-      "contestedness": 0.0316038768599729,
-      "impact": 0.395,
+      "central_tendency": 0.31590801107697436,
+      "contestedness": 0.0417864062522032,
+      "impact": 0.505,
       "top_clusters": {
-        "governance_oriented": 0.8130385649807839,
-        "care_oriented": 0.798685311366616
+        "expression_oriented": 0.41599150444432736,
+        "knowledge_oriented": 0.3938097604371448
       },
       "bottom_clusters": {
-        "ecosystem_oriented": 0.6725983594682208
+        "sovereignty_order_oriented": 0.24700135173071164
       },
       "cluster_means": {
-        "survival_focused": 0.7164877454108981,
-        "stability_seeking": 0.779091575907445,
-        "achievement_oriented": 0.689904172107224,
-        "care_oriented": 0.798685311366616,
-        "knowledge_oriented": 0.7098254431037503,
-        "governance_oriented": 0.8130385649807839,
-        "sovereignty_order_oriented": 0.7057563544457823,
-        "expression_oriented": 0.6782215662437774,
-        "ecosystem_oriented": 0.6725983594682208
+        "survival_focused": 0.26091630795172605,
+        "stability_seeking": 0.31214050491461803,
+        "achievement_oriented": 0.3328387385322067,
+        "care_oriented": 0.3204116765103776,
+        "knowledge_oriented": 0.3938097604371448,
+        "governance_oriented": 0.28970815650924214,
+        "sovereignty_order_oriented": 0.24700135173071164,
+        "expression_oriented": 0.41599150444432736,
+        "ecosystem_oriented": 0.27035409866241483
       },
-      "priority_raw": 0.11522780407771677,
-      "contest_raw": 0.012483531359689297
+      "priority_raw": 0.07976677279693603,
+      "contest_raw": 0.021102135157362617
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "title": "Two dead after bus crashes in France, officials say",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know so far after Krakow gun attack",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": false,
-      "priority_score": -0.2556356129623018,
-      "contest_score": -0.10387254023427434,
+      "priority_score": -0.41544907217062127,
+      "contest_score": 0.8052003218325212,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9444444444444444,
+      "central_tendency": 0.17873403632893103,
+      "contestedness": 0.062394141443627954,
+      "impact": 0.78,
+      "top_clusters": {
+        "expression_oriented": 0.3828481009033586,
+        "knowledge_oriented": 0.32158365920479093
+      },
+      "bottom_clusters": {
+        "survival_focused": 0.046488190564250714
+      },
+      "cluster_means": {
+        "survival_focused": 0.046488190564250714,
+        "stability_seeking": 0.08455342513822658,
+        "achievement_oriented": 0.19811934685109192,
+        "care_oriented": 0.13572520540746397,
+        "knowledge_oriented": 0.32158365920479093,
+        "governance_oriented": 0.09465549259762107,
+        "sovereignty_order_oriented": 0.07518762983715066,
+        "expression_oriented": 0.3828481009033586,
+        "ecosystem_oriented": 0.25007830463043657
+      },
+      "priority_raw": 0.06970627416828311,
+      "contest_raw": 0.048667430326029805
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": false,
+      "priority_score": -0.45322598923828306,
+      "contest_score": 0.8134396443746376,
       "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 1.0,
-      "central_tendency": 0.2613870778983074,
-      "contestedness": 0.04488637133084597,
-      "impact": 0.655,
+      "central_tendency": 0.18580055129845452,
+      "contestedness": 0.06781833632286519,
+      "impact": 0.72,
       "top_clusters": {
-        "expression_oriented": 0.43537967943810874,
-        "knowledge_oriented": 0.37913419628915224
+        "expression_oriented": 0.35546922381818663,
+        "knowledge_oriented": 0.3182096789932035
       },
       "bottom_clusters": {
-        "survival_focused": 0.17297342059054155
+        "survival_focused": 0.07849539239463536
       },
       "cluster_means": {
-        "survival_focused": 0.17297342059054155,
-        "stability_seeking": 0.21376743735907577,
-        "achievement_oriented": 0.23495522397976482,
-        "care_oriented": 0.20824397508508175,
-        "knowledge_oriented": 0.37913419628915224,
-        "governance_oriented": 0.22593867453867095,
-        "sovereignty_order_oriented": 0.18105230320782498,
-        "expression_oriented": 0.43537967943810874,
-        "ecosystem_oriented": 0.30103879059654576
+        "survival_focused": 0.07849539239463536,
+        "stability_seeking": 0.10699678045785802,
+        "achievement_oriented": 0.23953468251402105,
+        "care_oriented": 0.1748151167807232,
+        "knowledge_oriented": 0.3182096789932035,
+        "governance_oriented": 0.11968025858737422,
+        "sovereignty_order_oriented": 0.08742592605514427,
+        "expression_oriented": 0.35546922381818663,
+        "ecosystem_oriented": 0.19157790208494388
       },
-      "priority_raw": 0.1027251216140348,
-      "contest_raw": 0.029400573221704113
+      "priority_raw": 0.06688819846744362,
+      "contest_raw": 0.04882920215246293
     }
   ],
   "mood": {
-    "score": 0.03323166677501292,
+    "score": 0.02606817919284005,
     "label": "cautious",
     "contested_share": 0.0,
     "emoji": "🟡"
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "California governor commutes sentences for state's 548 death row inmates",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "name": "California governor commutes sentences for state's 548 death row inmates",
-      "root_cause": "California governor commutes sentences for state's 548 death row inmates",
-      "severity": "high",
-      "category": "convergent_priority",
-      "priority_score": 3.5553311436018458,
-      "contest_score": -0.8368016789626743,
-      "contestedness": 0.020681549836809587,
+      "target": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "name": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "root_cause": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 2.6247981956992854,
+      "contest_score": -0.849557346741985,
+      "contestedness": 0.027189451972183587,
       "mood": "↗ positive",
-      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "California governor commutes sentences for state's 548 death row inmates"
+        "Israel's president tasks opposition leader Eisenkot with forming government"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around California governor commutes sentences for state's 548 death row inmates is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to California governor commutes sentences for state's 548 death row inmates fade or reverse without spillover."
+      "prediction": "Momentum around Israel's president tasks opposition leader Eisenkot with forming government is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Israel's president tasks opposition leader Eisenkot with forming government fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
       "rank": 2,
-      "target": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "name": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "root_cause": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "target": "Pope in 'pretty good health' as he starts Latin America tour",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "name": "Pope in 'pretty good health' as he starts Latin America tour",
+      "root_cause": "Pope in 'pretty good health' as he starts Latin America tour",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 1.0848025073228844,
-      "contest_score": -0.7910753100254431,
-      "contestedness": 0.027923150076501924,
+      "priority_score": 1.760163441298898,
+      "contest_score": -0.42223900066870823,
+      "contestedness": 0.05118279690688676,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, stability_seeking.",
+      "signal_count": 1,
+      "signals": [
+        "Pope in 'pretty good health' as he starts Latin America tour"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Pope in 'pretty good health' as he starts Latin America tour is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Pope in 'pretty good health' as he starts Latin America tour fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "rank": 3,
+      "target": "Texas mayor instructs police to limit co-operation with ICE",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "name": "Texas mayor instructs police to limit co-operation with ICE",
+      "root_cause": "Texas mayor instructs police to limit co-operation with ICE",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 1.4448315787849857,
+      "contest_score": -0.8104220190387417,
+      "contestedness": 0.028480859737310404,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "Texas mayor instructs police to limit co-operation with ICE"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Texas mayor instructs police to limit co-operation with ICE is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Texas mayor instructs police to limit co-operation with ICE fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "Gaza wedding festival sees 250 couples married at the same time",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "name": "Gaza wedding festival sees 250 couples married at the same time",
+      "root_cause": "Gaza wedding festival sees 250 couples married at the same time",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 1.2069489537477902,
+      "contest_score": -0.30689947960166714,
+      "contestedness": 0.058972158720047796,
       "mood": "↗ positive",
       "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, governance_oriented.",
       "signal_count": 1,
       "signals": [
-        "Elon Musk appears to signal the end of the road for Cybertruck"
+        "Gaza wedding festival sees 250 couples married at the same time"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Elon Musk appears to signal the end of the road for Cybertruck is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Elon Musk appears to signal the end of the road for Cybertruck fade or reverse without spillover."
+      "prediction": "Momentum around Gaza wedding festival sees 250 couples married at the same time is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Gaza wedding festival sees 250 couples married at the same time fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
-      "target": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "name": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "root_cause": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.9167279333681839,
-      "contest_score": -0.7595753780974702,
-      "contestedness": 0.034479101679025015,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from governance_oriented, care_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Judge blocks construction of Trump's massive arch after federal agency approval"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Judge blocks construction of Trump's massive arch after federal agency approval is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Judge blocks construction of Trump's massive arch after federal agency approval fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "Somalia's top court rejects president's term extension amid political crisis",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "name": "Somalia's top court rejects president's term extension amid political crisis",
-      "root_cause": "Somalia's top court rejects president's term extension amid political crisis",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.7514342639788746,
-      "contest_score": 0.49768607092224676,
-      "contestedness": 0.06031935898449592,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "Somalia's top court rejects president's term extension amid political crisis"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Somalia's top court rejects president's term extension amid political crisis is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Somalia's top court rejects president's term extension amid political crisis fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "rank": 5,
-      "target": "Four midterms takeaways for 2028 White House race",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "name": "Four midterms takeaways for 2028 White House race",
-      "root_cause": "Four midterms takeaways for 2028 White House race",
+      "target": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "name": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "root_cause": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "severity": "low",
       "category": "background_noise",
-      "priority_score": 0.35190778374752846,
-      "contest_score": -0.8617977529487076,
-      "contestedness": 0.03256861809115008,
+      "priority_score": 0.7752281545896381,
+      "contest_score": -1.1870043452687313,
+      "contestedness": 0.016054201552904213,
       "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from achievement_oriented, knowledge_oriented.",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Four midterms takeaways for 2028 White House race"
+        "Watch: Is it the end of the road for Tesla's Cybertruck?"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around Four midterms takeaways for 2028 White House race is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to Four midterms takeaways for 2028 White House race fade or reverse without spillover."
+      "prediction": "Momentum around Watch: Is it the end of the road for Tesla's Cybertruck? is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Watch: Is it the end of the road for Tesla's Cybertruck? fade or reverse without spillover."
     }
   ],
-  "predictions": [
-    {
-      "root_cause": "California governor commutes sentences for state's 548 death row inmates",
-      "prediction": "Momentum around California governor commutes sentences for state's 548 death row inmates is likely to compound if current conditions hold.",
-      "timeline": "1-2 weeks",
-      "falsification": "Signals tied to California governor commutes sentences for state's 548 death row inmates fade or reverse without downstream spillover.",
-      "severity": "high"
-    }
-  ],
-  "narrative": "🟡 **Mood: Cautious** — Today's signals reflect a measured optimism, with a focus on governance and care-oriented priorities, but tempered by contested and background noise signals that suggest underlying uncertainty.\n\n---\n\n**1. Structural shifts in governance and justice dominate the day’s signals, with California’s commutation of death row sentences standing out as a pivotal development.** Governor Gavin Newsom’s decision to commute the sentences of 548 death row inmates marks a significant move toward criminal justice reform in the U.S. This action, categorized as a \"convergent priority,\" reflects strong alignment across care- and governance-oriented clusters, signaling a broader societal shift toward re-evaluating punitive justice systems. The low contestedness and high sign agreement suggest a rare moment of consensus, underscoring the structural importance of this decision in reshaping the narrative around capital punishment.\n\n**2. Background noise signals highlight governance challenges and political recalibrations, but their structural weight is limited.** The Somali Supreme Court’s rejection of the president’s term extension is a notable assertion of judicial independence in a politically fragile state. While this is a positive signal for governance, its contestedness and lower priority score indicate it may not yet represent a broader trend. Similarly, the blocking of a federally approved Trump-era construction project reflects ongoing tensions in U.S. governance, but its categorization as \"background noise\" suggests limited systemic impact for now.\n\n**3. Speculative signals, such as Elon Musk’s potential pivot away from the Cybertruck, remain low-priority distractions.** While the possible end of the Cybertruck project has garnered attention, its structural relevance is minimal. The signal’s classification as \"background noise\" and its relatively low priority score suggest that this development is more reflective of Musk’s unpredictable leadership style than a meaningful shift in the broader EV market. This reinforces the importance of distinguishing between high-visibility events and those with lasting systemic impact.\n\n---\n\n**Longer-term trajectories point to a recalibration of governance and justice systems globally, but the path forward is uneven.** California’s commutations may catalyze similar reforms in other U.S. states, while Somalia’s judicial decision could inspire greater institutional checks on executive power in fragile democracies. However, the contested nature of some signals, coupled with the persistence of background noise, highlights the fragility of these trajectories. Governance-oriented actions are emerging as a key theme, but their sustainability will depend on broader societal buy-in and institutional resilience.\n\n**What to watch next:** Monitor for follow-on actions in California, such as legislative or public responses to the commutations, to gauge the durability of this reform. In Somalia, track whether the judiciary’s decision leads to broader political stabilization or further conflict. Finally, keep an eye on governance-related signals globally, particularly in regions where judicial independence or executive overreach are under scrutiny. These will serve as bellwethers for the broader trajectory of institutional accountability.",
+  "predictions": [],
+  "narrative": "🟡 **Mood: Cautious**  \nToday's signals reflect a cautious yet slightly positive structural pattern, with governance and stability-oriented developments dominating the landscape. While several signals point toward incremental progress, contested dynamics and unresolved tensions temper the overall outlook.\n\n**1. Governance and stability emerge as central themes.**  \nThe decision by Israel's president to task opposition leader Eisenkot with forming a government signals a potential shift in political stability. Structurally, this move aligns with governance-oriented and stability-seeking clusters, suggesting a recalibration of power dynamics in Israel. While the signal is positive, it remains fragile, as contestedness metrics indicate lingering uncertainty around its broader implications. Similarly, the Pope's Latin America tour, paired with reports of his \"pretty good health,\" reinforces stability-oriented undertones, emphasizing continuity in leadership within a region often marked by volatility.\n\n**2. Localized governance shifts highlight contested priorities.**  \nThe Texas mayor's directive to limit police cooperation with ICE introduces a governance-oriented signal with expression-oriented undertones. While this move is framed positively, it reflects deeper tensions in U.S. immigration policy and local-state dynamics. The contestedness score, though low, underscores the polarizing nature of such decisions. This signal is emblematic of broader debates around sovereignty and governance, which continue to shape domestic policy trajectories.\n\n**3. Signals of social cohesion and innovation face mixed structural weight.**  \nThe Gaza wedding festival, where 250 couples were married simultaneously, offers a rare care-oriented and governance-oriented signal from a region typically associated with conflict. While the event is structurally positive, its contestedness score suggests that such moments of social cohesion may not fully offset underlying instability. Meanwhile, the question of Tesla's Cybertruck viability introduces a speculative signal tied to innovation and expression-oriented clusters. Despite its low priority score, the contestedness around this signal highlights broader uncertainties in the tech and automotive sectors.\n\n**4. Longer-term trajectories remain uncertain but suggest incremental shifts.**  \nThe signals collectively point to a cautious optimism in governance and social stability, but contested dynamics persist across multiple domains. The structural undertones of these developments suggest incremental shifts rather than transformative change. Signals from Israel, Texas, and Gaza highlight localized governance recalibrations, while broader geopolitical tensions, such as the Krakow gun attack and Saudi airstrikes in Yemen, remain unresolved and absent from today's priority signals.\n\n**What to watch next:**  \nMonitor the formation of Israel's government for signs of structural stability or further fragmentation. Pay attention to local governance shifts in the U.S., particularly around immigration, as they may foreshadow broader policy debates. Finally, track signals of social cohesion in conflict-prone regions, as they could offer early indicators of longer-term stability or renewed volatility.",
   "noise_filtered": [
-    "Elon Musk appears to signal the end of the road for Cybertruck",
-    "Judge blocks construction of Trump's massive arch after federal agency approval",
-    "Somalia's top court rejects president's term extension amid political crisis",
-    "Four midterms takeaways for 2028 White House race",
+    "Israel's president tasks opposition leader Eisenkot with forming government",
+    "Pope in 'pretty good health' as he starts Latin America tour",
+    "Texas mayor instructs police to limit co-operation with ICE",
+    "Gaza wedding festival sees 250 couples married at the same time",
     "Watch: Is it the end of the road for Tesla's Cybertruck?",
     "AI stocks climb after trillions wiped from market values",
-    "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-    "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-    "Two dead after bus crashes in France, officials say",
-    "Major construction ongoing near Iran missile bases, satellite images suggest",
-    "Spain's rail authorities face European fraud probe after Urda rail disaster",
-    "Nigerian court rules opposition candidate cannot stand in elections",
-    "Paraguay President Santiago Peña resigns after bank collapse",
-    "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+    "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+    "No clear winner after tight New Zealand general election",
+    "What we know so far after Krakow gun attack",
+    "US offers $20m reward for information about Iran's nuclear programme",
+    "Italian foreign minister says hackers leaked his personal data",
     "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-    "Russian extremist group denies sending hoax bomb threats",
+    "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+    "Spain's rail authorities face European fraud probe after Urda rail disaster",
+    "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+    "Paraguay's former president charged after bank collapse",
+    "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
     "New wave of bomb threats hit European airlines",
-    "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-    "Macau jails pro-democracy campaigner in city's first national security case"
+    "With Stephen Miller pick, Trump readies for a battle",
+    "Houthis say at least 25 killed in Saudi air strike"
   ],
-  "matured_predictions": [],
+  "matured_predictions": [
+    {
+      "id": "a6251baabb0f0bc2",
+      "created_at": "2026-10-25",
+      "root_cause": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "prediction": "Momentum around Father who killed Oregon school gunman describes anguish over children he couldn't save is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-08",
+      "falsification": "Signals tied to Father who killed Oregon school gunman describes anguish over children he couldn't save fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or relevance around the topic of 'Father who killed Oregon school gunman describes anguish over children he couldn't save.' The prediction has not matured as validated, falsified, or partially validated within the specified timeframe.",
+      "validated_at": "2026-11-07T23:33:10.919292+00:00",
+      "evidence_used": [
+        "Fresh signals provided do not reference or relate to the prediction topic.",
+        "No downstream spillover or sustained coverage of the prediction topic was observed in the provided signals."
+      ]
+    }
+  ],
   "delta": {
     "is_first_run": false,
     "new_convergent": [],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+        "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+        "title": "Somalia's top court rejects president's term extension amid political crisis",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+        "title": "Four midterms takeaways for 2028 White House race",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "French protests see numbers surge as unions join strikes over high cost of living",
+        "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Australia's oldest department store David Jones folds after 188 years",
+        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+        "title": "Two dead after bus crashes in France, officials say",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Nigerian court rules opposition candidate cannot stand in elections",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Eight killed in series of shootings in western Turkey",
+        "title": "Paraguay President Santiago Peña resigns after bank collapse",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+        "title": "Russian extremist group denies sending hoax bomb threats",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+        "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Who could be behind hoax bomb threats to European air travel?",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+        "title": "Macau jails pro-democracy campaigner in city's first national security case",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
     "category_changes": [],
     "priority_score_changes": [
-      "California governor commutes sentences for state's 548 death row inmates: 2.86 → 3.56",
-      "Pope begins lengthy trip to Latin America weeks after lung cancer surgery: 0.10 → -0.15"
+      "Watch: Is it the end of the road for Tesla's Cybertruck?: 0.27 → 0.78",
+      "AI stocks climb after trillions wiped from market values: 0.03 → 0.44"
     ],
     "mood_shift": "",
     "structural_shifts": [
-      "Priority score movement — California governor commutes sentences for state's 548 death row inmates: 2.86 → 3.56",
-      "Priority score movement — Pope begins lengthy trip to Latin America weeks after lung cancer surgery: 0.10 → -0.15"
+      "convergent_priority: 1 → 0",
+      "Priority score movement — Watch: Is it the end of the road for Tesla's Cybertruck?: 0.27 → 0.78",
+      "Priority score movement — AI stocks climb after trillions wiped from market values: 0.03 → 0.44"
     ],
     "continuing_priorities": [
-      "California governor commutes sentences for state's 548 death row inmates",
-      "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "Paraguay President Santiago Peña resigns after bank collapse",
-      "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control"
+      "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "AI stocks climb after trillions wiped from market values",
+      "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "New wave of bomb threats hit European airlines"
     ],
-    "new_stories": 16,
-    "carried_stories": 4,
+    "new_stories": 14,
+    "carried_stories": 6,
     "total_stories": 20,
-    "summary": "16 priorities dropped: Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials (No longer in today's news feed — story left the RSS cycle); Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race (No longer in today's news feed — story left the RSS cycle); Chris vs Chris: Who's running and what's at stake this New Zealand election (No longer in today's news feed — story left the RSS cycle); Would you take a test to see if your life will be cut short? I did - and it changed me (No longer in today's news feed — story left the RSS cycle); Delhi's toxic winter air is back - is the Indian capital prepared for pollution? (No longer in today's news feed — story left the RSS cycle); French protests see numbers surge as unions join strikes over high cost of living (No longer in today's news feed — story left the RSS cycle); Australia's oldest department store David Jones folds after 188 years (No longer in today's news feed — story left the RSS cycle); 'I'm not a quitter': Kim Kardashian on retaking the bar exam (No longer in today's news feed — story left the RSS cycle); Vance walks Trump tightrope with scathing election critique blaming Iran war (No longer in today's news feed — story left the RSS cycle); Major tech stocks plunge as US midterms add to fears of AI slowdown (No longer in today's news feed — story left the RSS cycle); Eight killed in series of shootings in western Turkey (No longer in today's news feed — story left the RSS cycle); The Pitt and ER are similar enough for lawsuit to proceed, judge rules (No longer in today's news feed — story left the RSS cycle); Film star Ranbir Kapoor on AI, movies and fatherhood (No longer in today's news feed — story left the RSS cycle); Hoax bomb threats target European airlines and airports for second time in a week (No longer in today's news feed — story left the RSS cycle); Who could be behind hoax bomb threats to European air travel? (No longer in today's news feed — story left the RSS cycle); Was an Italian chef really fired over refusal to put pineapple on pizza? (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: California governor commutes sentences for state's 548 death row inmates: 2.86 → 3.56; Pope begins lengthy trip to Latin America weeks after lung cancer surgery: 0.10 → -0.15 · Structural shifts: Priority score movement — California governor commutes sentences for state's 548 death row inmates: 2.86 → 3.56; Priority score movement — Pope begins lengthy trip to Latin America weeks after lung cancer surgery: 0.10 → -0.15 · Signal freshness: 16 new, 4 carried, 20 total"
+    "summary": "14 priorities dropped: California governor commutes sentences for state's 548 death row inmates (No longer in today's news feed — story left the RSS cycle); Elon Musk appears to signal the end of the road for Cybertruck (No longer in today's news feed — story left the RSS cycle); Judge blocks construction of Trump's massive arch after federal agency approval (No longer in today's news feed — story left the RSS cycle); Somalia's top court rejects president's term extension amid political crisis (No longer in today's news feed — story left the RSS cycle); Four midterms takeaways for 2028 White House race (No longer in today's news feed — story left the RSS cycle); Dozens of Democrats eyeing 2028 presidential run, says former Obama aide (No longer in today's news feed — story left the RSS cycle); Pope begins lengthy trip to Latin America weeks after lung cancer surgery (No longer in today's news feed — story left the RSS cycle); Two dead after bus crashes in France, officials say (No longer in today's news feed — story left the RSS cycle); Major construction ongoing near Iran missile bases, satellite images suggest (No longer in today's news feed — story left the RSS cycle); Nigerian court rules opposition candidate cannot stand in elections (No longer in today's news feed — story left the RSS cycle); Paraguay President Santiago Peña resigns after bank collapse (No longer in today's news feed — story left the RSS cycle); Russian extremist group denies sending hoax bomb threats (No longer in today's news feed — story left the RSS cycle); Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason (No longer in today's news feed — story left the RSS cycle); Macau jails pro-democracy campaigner in city's first national security case (No longer in today's news feed — story left the RSS cycle) · Priority intensity moved: Watch: Is it the end of the road for Tesla's Cybertruck?: 0.27 → 0.78; AI stocks climb after trillions wiped from market values: 0.03 → 0.44 · Structural shifts: convergent_priority: 1 → 0; Priority score movement — Watch: Is it the end of the road for Tesla's Cybertruck?: 0.27 → 0.78; Priority score movement — AI stocks climb after trillions wiped from market values: 0.03 → 0.44 · Signal freshness: 14 new, 6 carried, 20 total"
   }
 }
