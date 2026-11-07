@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "2c679733b65a387d",
+      "created_at": "2026-11-07",
+      "root_cause": "California governor commutes sentences for state's 548 death row inmates",
+      "prediction": "Momentum around California governor commutes sentences for state's 548 death row inmates is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-21",
+      "falsification": "Signals tied to California governor commutes sentences for state's 548 death row inmates fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "bc1f024ee96a3473",
       "created_at": "2026-11-06",
       "root_cause": "California governor commutes sentences for state's 548 death row inmates",
@@ -2282,5 +2295,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-06T00:55:29.525507+00:00"
+  "last_updated": "2026-11-07T00:01:57.533872+00:00"
 }
