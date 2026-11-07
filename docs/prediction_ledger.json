@@ -191,9 +191,13 @@
       "maturity_date": "2026-11-08",
       "falsification": "Signals tied to Father who killed Oregon school gunman describes anguish over children he couldn't save fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum or relevance around the topic of 'Father who killed Oregon school gunman describes anguish over children he couldn't save.' The prediction has not matured as validated, falsified, or partially validated within the specified timeframe.",
+      "validated_at": "2026-11-07T23:33:10.919292+00:00",
+      "evidence_used": [
+        "Fresh signals provided do not reference or relate to the prediction topic.",
+        "No downstream spillover or sustained coverage of the prediction topic was observed in the provided signals."
+      ]
     },
     {
       "id": "43abb7d4c6b7a0e9",
@@ -2295,5 +2299,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-07T00:01:57.533872+00:00"
+  "last_updated": "2026-11-07T23:33:08.894382+00:00"
 }
