@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "ee77175167e764a2",
+      "created_at": "2026-11-10",
+      "root_cause": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "prediction": "Momentum around Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-24",
+      "falsification": "Signals tied to Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "2c679733b65a387d",
       "created_at": "2026-11-07",
       "root_cause": "California governor commutes sentences for state's 548 death row inmates",
@@ -152,9 +165,18 @@
       "maturity_date": "2026-11-10",
       "falsification": "Signals tied to Lula wins fourth term in dramatic Brazil election comeback fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and no fresh signals directly related to Lula's fourth-term momentum or its downstream effects were identified in the provided evidence. The prediction cannot be validated, falsified, or partially validated based on the available data.",
+      "validated_at": "2026-11-10T02:38:13.766799+00:00",
+      "evidence_used": [
+        "BBC World: Trump questions midterm elections integrity after previously accepting results",
+        "Al Jazeera: Israel’s Shin Bet finds no evidence of foreign election interference",
+        "ABC Australia: Focus on Sheffield Shield as Test selection comes to the crunch",
+        "Al Jazeera: Cameroon sets date for twice-delayed legislative and local elections",
+        "ABC Australia: Fagan's understudy Bruce named Brisbane's new senior coach",
+        "ABC Australia: Alcaraz downs Shelton in final to claim maiden Paris Masters title",
+        "ABC Australia: Norris suffers champagne mishap as Mercedes spins to world title"
+      ]
     },
     {
       "id": "a646ad6637122f88",
@@ -165,9 +187,19 @@
       "maturity_date": "2026-11-10",
       "falsification": "Signals tied to Why Israel's election is one of the most important in its history fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there is no evidence in the provided signals indicating sustained or compounded momentum around the topic of 'Why Israel's election is one of the most important in its history.' The fresh signals do not reference or build upon this narrative, suggesting that the prediction has not matured as validated or partially validated.",
+      "validated_at": "2026-11-10T02:38:15.734507+00:00",
+      "evidence_used": [
+        "Al Jazeera: Israel’s Shin Bet finds no evidence of foreign election interference",
+        "BBC World: Qantas to outsource 850 local jobs with most roles moving to India",
+        "BBC World: Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+        "ABC Australia: Coach Aloisi oversees stunning capitulation in Chinese Super League title race",
+        "BBC World: Russia's leading independent newspaper closes after eviction",
+        "BBC World: Turkey steel factory blast kills at least 17 people",
+        "BBC World: Trump questions midterm elections integrity after previously accepting results",
+        "Al Jazeera: Cameroon sets date for twice-delayed legislative and local elections"
+      ]
     },
     {
       "id": "9cca8eec464594c8",
@@ -178,9 +210,12 @@
       "maturity_date": "2026-11-10",
       "falsification": "Signals tied to Watch: How President Lula turned it around to beat Flávio Bolsonaro fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has passed, and there are no fresh signals or evidence indicating continued momentum around 'Watch: How President Lula turned it around to beat Flávio Bolsonaro.' The provided signals are unrelated to the prediction's subject matter, suggesting the prediction has not matured as validated or falsified.",
+      "validated_at": "2026-11-10T02:38:17.616382+00:00",
+      "evidence_used": [
+        "Fresh signals provided, including topics on France's drug gangs, Gaza's winter conditions, Trump-related news, a cruise ship pianist rescue, a train crash in Egypt, and Cameroon's election date, none of which are tied to the prediction's focus on President Lula or Flávio Bolsonaro."
+      ]
     },
     {
       "id": "a6251baabb0f0bc2",
@@ -2299,5 +2334,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-08T23:33:20.244996+00:00"
+  "last_updated": "2026-11-10T02:38:11.779017+00:00"
 }
