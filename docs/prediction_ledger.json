@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "5cbe0776eafccfa6",
+      "created_at": "2026-11-11",
+      "root_cause": "Spain's king and queen attend memorial service for rail crash victims",
+      "prediction": "Momentum around Spain's king and queen attend memorial service for rail crash victims is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-11-25",
+      "falsification": "Signals tied to Spain's king and queen attend memorial service for rail crash victims fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "ee77175167e764a2",
       "created_at": "2026-11-10",
       "root_cause": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
@@ -152,9 +165,19 @@
       "maturity_date": "2026-11-11",
       "falsification": "Signals tied to Alexander brothers each sentenced to 30 years in prison for sex trafficking case fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "expired",
+      "validation_notes": "The prediction's timeline of 1-2 weeks has elapsed, and there is no evidence in the fresh signals to suggest that momentum around the Alexander brothers' sentencing has compounded. The signals provided do not directly relate to the case or indicate any downstream spillover effects. As such, the prediction cannot be validated or falsified within the given timeframe.",
+      "validated_at": "2026-11-11T00:30:48.427431+00:00",
+      "evidence_used": [
+        "BBC World: 'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+        "Al Jazeera: Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+        "BBC World: Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "BBC World: Anti-homosexuality laws in Trinidad and Tobago overturned",
+        "BBC World: US federal authorities could have prevented Epstein crimes, report finds",
+        "BBC World: 'Cruise for life' ship seized in Singapore",
+        "Al Jazeera: US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
+        "Al Jazeera: US poll shows death penalty lost majority support for first time since 1971"
+      ]
     },
     {
       "id": "b0f4686b1042e9f3",
@@ -2334,5 +2357,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-10T02:38:11.779017+00:00"
+  "last_updated": "2026-11-11T00:30:45.077542+00:00"
 }
