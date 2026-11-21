@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "20f1d92ae625353e",
+      "created_at": "2026-11-21",
+      "root_cause": "Trump threatens ban on US firms building AI data centres overseas",
+      "prediction": "Momentum around Trump threatens ban on US firms building AI data centres overseas is likely to compound if current conditions hold.",
+      "timeline": "4-8 weeks",
+      "maturity_date": "2027-01-16",
+      "falsification": "Signals tied to Trump threatens ban on US firms building AI data centres overseas fade or reverse without downstream spillover.",
+      "severity": "medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "042a108a6af32952",
       "created_at": "2026-11-20",
       "root_cause": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
@@ -165,9 +178,15 @@
       "maturity_date": "2026-11-21",
       "falsification": "Signals tied to California governor commutes sentences for state's 548 death row inmates fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-11-21T01:17:01.367593+00:00",
+      "evidence_used": [
+        "- BBC World: Texas death-row inmate screams as execution takes more than one hour (https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss)",
+        "- Al Jazeera: Iraq PM targets militia stronghold in bid to assert state control (https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss)",
+        "- BBC World: Mamdani announces plan to close New York's Rikers Island jail by 2032 (https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss)",
+        "- Al Jazeera: Two Salvadoran soldiers killed in Haiti while handling explosives (https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss)"
+      ]
     },
     {
       "id": "bc1f024ee96a3473",
@@ -2466,5 +2485,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-20T01:43:36.743142+00:00"
+  "last_updated": "2026-11-21T01:17:00.763873+00:00"
 }
