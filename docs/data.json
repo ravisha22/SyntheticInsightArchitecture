@@ -1,28 +1,70 @@
 {
-  "report_date": "2026-11-21",
-  "generated_at": "2026-11-21T01:17:01.369306+00:00",
+  "report_date": "2026-11-22",
+  "generated_at": "2026-11-22T00:12:33.142334+00:00",
   "story_count": 20,
   "stories": [
     {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "body": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "body": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
     {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "body": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "body": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 17:49:48 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "body": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "body": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 16:54:29 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 22:19:43 GMT"
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "body": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 23:31:17 GMT"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "body": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 00:10:44 GMT"
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "body": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 10:26:36 GMT"
+    },
+    {
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "body": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 04:34:00 GMT"
+    },
+    {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "body": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 22:01:19 GMT"
+    },
+    {
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "body": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 09:40:55 GMT"
     },
     {
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
@@ -32,25 +74,18 @@
       "published": "Fri, 20 Nov 2026 22:37:09 GMT"
     },
     {
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "body": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+    },
+    {
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "body": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 23:08:57 GMT"
-    },
-    {
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "body": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 19:45:20 GMT"
-    },
-    {
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "body": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 13:01:16 GMT"
     },
     {
       "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
@@ -60,11 +95,18 @@
       "published": "Sat, 21 Nov 2026 00:01:39 GMT"
     },
     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "body": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "body": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
       "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 21:57:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 08:10:03 GMT"
+    },
+    {
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "body": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 08:10:25 GMT"
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -81,34 +123,6 @@
       "published": "Fri, 20 Nov 2026 19:27:49 GMT"
     },
     {
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "body": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 15:55:16 GMT"
-    },
-    {
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "body": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 12:42:37 GMT"
-    },
-    {
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "body": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 15:55:02 GMT"
-    },
-    {
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "body": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 10:16:19 GMT"
-    },
-    {
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "body": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
       "source": "BBC World",
@@ -116,32 +130,18 @@
       "published": "Fri, 20 Nov 2026 23:15:20 GMT"
     },
     {
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "body": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+      "source": "BBC World",
+      "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 18:48:48 GMT"
+    },
+    {
       "title": "What the new UK-EU deal could mean for future post-Brexit relations",
       "body": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 21:43:22 GMT"
-    },
-    {
-      "title": "Cost of living protests sweep across Europe",
-      "body": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 16:45:34 GMT"
-    },
-    {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "body": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 15:14:01 GMT"
-    },
-    {
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "body": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 22:54:03 GMT"
     }
   ],
   "signals": [
@@ -149,34 +149,94 @@
       "number": 1,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "body": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "body": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
     {
       "number": 2,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "body": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "body": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 17:49:48 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 19:20:22 GMT"
     },
     {
       "number": 3,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "body": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "body": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 16:54:29 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 22:19:43 GMT"
     },
     {
       "number": 4,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "body": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 23:31:17 GMT"
+    },
+    {
+      "number": 5,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "body": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 00:10:44 GMT"
+    },
+    {
+      "number": 6,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "body": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 10:26:36 GMT"
+    },
+    {
+      "number": 7,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "body": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 04:34:00 GMT"
+    },
+    {
+      "number": 8,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "body": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 22:01:19 GMT"
+    },
+    {
+      "number": 9,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "body": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 09:40:55 GMT"
+    },
+    {
+      "number": 10,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
@@ -186,37 +246,27 @@
       "published": "Fri, 20 Nov 2026 22:37:09 GMT"
     },
     {
-      "number": 5,
+      "number": 11,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "body": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+    },
+    {
+      "number": 12,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "body": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "labels": [],
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 23:08:57 GMT"
     },
     {
-      "number": 6,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "body": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 19:45:20 GMT"
-    },
-    {
-      "number": 7,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "body": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 13:01:16 GMT"
-    },
-    {
-      "number": 8,
+      "number": 13,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
@@ -226,17 +276,27 @@
       "published": "Sat, 21 Nov 2026 00:01:39 GMT"
     },
     {
-      "number": 9,
+      "number": 14,
       "signal_type": "community_report",
       "source": "bbc-world",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "body": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "body": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
       "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 21:57:07 GMT"
+      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 08:10:03 GMT"
     },
     {
-      "number": 10,
+      "number": 15,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "body": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 08:10:25 GMT"
+    },
+    {
+      "number": 16,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -246,7 +306,7 @@
       "published": "Fri, 20 Nov 2026 20:54:12 GMT"
     },
     {
-      "number": 11,
+      "number": 17,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
@@ -256,47 +316,7 @@
       "published": "Fri, 20 Nov 2026 19:27:49 GMT"
     },
     {
-      "number": 12,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "body": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 15:55:16 GMT"
-    },
-    {
-      "number": 13,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "body": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 12:42:37 GMT"
-    },
-    {
-      "number": 14,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "body": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 15:55:02 GMT"
-    },
-    {
-      "number": 15,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "body": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 10:16:19 GMT"
-    },
-    {
-      "number": 16,
+      "number": 18,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "US declassifies more UFO footage filmed in the Middle East",
@@ -306,7 +326,17 @@
       "published": "Fri, 20 Nov 2026 23:15:20 GMT"
     },
     {
-      "number": 17,
+      "number": 19,
+      "signal_type": "community_report",
+      "source": "bbc-world",
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "body": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+      "labels": [],
+      "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 18:48:48 GMT"
+    },
+    {
+      "number": 20,
       "signal_type": "community_report",
       "source": "bbc-world",
       "title": "What the new UK-EU deal could mean for future post-Brexit relations",
@@ -314,264 +344,18 @@
       "labels": [],
       "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 21:43:22 GMT"
-    },
-    {
-      "number": 18,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "Cost of living protests sweep across Europe",
-      "body": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 16:45:34 GMT"
-    },
-    {
-      "number": 19,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "body": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 15:14:01 GMT"
-    },
-    {
-      "number": 20,
-      "signal_type": "community_report",
-      "source": "bbc-world",
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "body": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-      "labels": [],
-      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 22:54:03 GMT"
     }
   ],
   "priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.062176503647755905,
-      "contestedness": 0.050071356493228525,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "achievement_oriented": 0.0
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": -0.14528531154501026
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": -0.035614128658190386,
-        "achievement_oriented": 0.0,
-        "care_oriented": -0.07652503880762979,
-        "knowledge_oriented": -0.08727898886536355,
-        "governance_oriented": -0.075115709738306,
-        "sovereignty_order_oriented": -0.006077682321826762,
-        "expression_oriented": -0.12518706623153453,
-        "ecosystem_oriented": -0.14528531154501026
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": 2.5902443136595337,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.6111111111111112,
-      "central_tendency": 0.11981515650138913,
-      "contestedness": 0.059736551945127364,
-      "impact": 0.0825,
-      "top_clusters": {
-        "expression_oriented": 0.11658496732026144,
-        "knowledge_oriented": 0.08247782847890486
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.2511157634701796
-      },
-      "cluster_means": {
-        "survival_focused": -0.2511157634701796,
-        "stability_seeking": -0.11867094492961339,
-        "achievement_oriented": -0.06615843448963654,
-        "care_oriented": -0.06198665977361671,
-        "knowledge_oriented": 0.08247782847890486,
-        "governance_oriented": -0.04913885637622219,
-        "sovereignty_order_oriented": -0.2142274331158296,
-        "expression_oriented": 0.11658496732026144,
-        "ecosystem_oriented": -0.0022501078284893512
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.004928265535473008
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.24163394389549403,
-      "contestedness": 0.05073824424516707,
-      "impact": 0.0,
-      "top_clusters": {
-        "sovereignty_order_oriented": 0.3190695471304037,
-        "governance_oriented": 0.3136843418604117
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.13725016819187635
-      },
-      "cluster_means": {
-        "survival_focused": 0.25179697145547986,
-        "stability_seeking": 0.2617156313506726,
-        "achievement_oriented": 0.2565547259302827,
-        "care_oriented": 0.19053299907772886,
-        "knowledge_oriented": 0.2010587272103128,
-        "governance_oriented": 0.3136843418604117,
-        "sovereignty_order_oriented": 0.3190695471304037,
-        "expression_oriented": 0.13725016819187635,
-        "ecosystem_oriented": 0.22894642188724662
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": -1,
       "sign_agreement": 0.8055555555555556,
@@ -600,50 +384,86 @@
       "contest_raw": 0.0
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.13194444444444442,
-      "contestedness": 0.0,
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.1513317115760468,
+      "contestedness": 0.08723655194512736,
       "impact": 0.0,
       "top_clusters": {
-        "governance_oriented": 0.23750000000000002,
-        "stability_seeking": 0.19000000000000003
+        "expression_oriented": -0.020915032679738564,
+        "knowledge_oriented": -0.05502217152109515
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.09500000000000001
+        "survival_focused": -0.30611576347017955
       },
       "cluster_means": {
-        "survival_focused": 0.09500000000000001,
-        "stability_seeking": 0.19000000000000003,
-        "achievement_oriented": 0.09500000000000001,
-        "care_oriented": 0.09500000000000001,
-        "knowledge_oriented": 0.14250000000000002,
-        "governance_oriented": 0.23750000000000002,
-        "sovereignty_order_oriented": 0.09500000000000001,
-        "expression_oriented": 0.14250000000000002,
-        "ecosystem_oriented": 0.09500000000000001
+        "survival_focused": -0.30611576347017955,
+        "stability_seeking": -0.22867094492961337,
+        "achievement_oriented": -0.14865843448963656,
+        "care_oriented": -0.14448665977361672,
+        "knowledge_oriented": -0.05502217152109515,
+        "governance_oriented": -0.1316388563762222,
+        "sovereignty_order_oriented": -0.2692274331158296,
+        "expression_oriented": -0.020915032679738564,
+        "ecosystem_oriented": -0.057250107828489355
       },
       "priority_raw": 0.0,
       "contest_raw": 0.0
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0977777777777778,
+      "contestedness": 0.0,
+      "impact": 0.11000000000000001,
+      "top_clusters": {
+        "care_oriented": 0.1375,
+        "achievement_oriented": 0.1375
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.0825
+      },
+      "cluster_means": {
+        "survival_focused": 0.0825,
+        "stability_seeking": 0.0825,
+        "achievement_oriented": 0.1375,
+        "care_oriented": 0.1375,
+        "knowledge_oriented": 0.0825,
+        "governance_oriented": 0.11000000000000001,
+        "sovereignty_order_oriented": 0.0825,
+        "expression_oriented": 0.0825,
+        "ecosystem_oriented": 0.0825
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": 0,
       "sign_agreement": 1.0,
@@ -672,6 +492,402 @@
       "contest_raw": 0.0
     },
     {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": 3.3383507799920267,
+      "category": "convergent_priority",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.1611111111111111,
+      "contestedness": 0.04999999999999999,
+      "impact": 0.15,
+      "top_clusters": {
+        "knowledge_oriented": 0.25,
+        "expression_oriented": 0.25
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.1
+      },
+      "cluster_means": {
+        "survival_focused": 0.1,
+        "stability_seeking": 0.2,
+        "achievement_oriented": 0.15,
+        "care_oriented": 0.15,
+        "knowledge_oriented": 0.25,
+        "governance_oriented": 0.15,
+        "sovereignty_order_oriented": 0.1,
+        "expression_oriented": 0.25,
+        "ecosystem_oriented": 0.1
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.007499999999999998
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": 1.972488296130076,
+      "category": "convergent_priority",
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.11742396417721605,
+      "contestedness": 0.043273375006557285,
+      "impact": 0.11000000000000001,
+      "top_clusters": {
+        "expression_oriented": -0.008602098911273077,
+        "knowledge_oriented": -0.03230116038645868
+      },
+      "bottom_clusters": {
+        "stability_seeking": -0.18178507358780377
+      },
+      "cluster_means": {
+        "survival_focused": -0.16861576347017954,
+        "stability_seeking": -0.18178507358780377,
+        "achievement_oriented": -0.06615843448963654,
+        "care_oriented": -0.13851169858124648,
+        "knowledge_oriented": -0.03230116038645868,
+        "governance_oriented": -0.1517545661145282,
+        "sovereignty_order_oriented": -0.16530511543765636,
+        "expression_oriented": -0.008602098911273077,
+        "ecosystem_oriented": -0.037535419373499614
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.004760071250721302
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.1513317115760468,
+      "contestedness": 0.08723655194512736,
+      "impact": 0.0,
+      "top_clusters": {
+        "expression_oriented": -0.020915032679738564,
+        "knowledge_oriented": -0.05502217152109515
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.30611576347017955
+      },
+      "cluster_means": {
+        "survival_focused": -0.30611576347017955,
+        "stability_seeking": -0.22867094492961337,
+        "achievement_oriented": -0.14865843448963656,
+        "care_oriented": -0.14448665977361672,
+        "knowledge_oriented": -0.05502217152109515,
+        "governance_oriented": -0.1316388563762222,
+        "sovereignty_order_oriented": -0.2692274331158296,
+        "expression_oriented": -0.020915032679738564,
+        "ecosystem_oriented": -0.057250107828489355
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.24163394389549403,
+      "contestedness": 0.05073824424516707,
+      "impact": 0.0,
+      "top_clusters": {
+        "sovereignty_order_oriented": 0.3190695471304037,
+        "governance_oriented": 0.3136843418604117
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.13725016819187635
+      },
+      "cluster_means": {
+        "survival_focused": 0.25179697145547986,
+        "stability_seeking": 0.2617156313506726,
+        "achievement_oriented": 0.2565547259302827,
+        "care_oriented": 0.19053299907772886,
+        "knowledge_oriented": 0.2010587272103128,
+        "governance_oriented": 0.3136843418604117,
+        "sovereignty_order_oriented": 0.3190695471304037,
+        "expression_oriented": 0.13725016819187635,
+        "ecosystem_oriented": 0.22894642188724662
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.13194444444444442,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "governance_oriented": 0.23750000000000002,
+        "stability_seeking": 0.19000000000000003
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.09500000000000001
+      },
+      "cluster_means": {
+        "survival_focused": 0.09500000000000001,
+        "stability_seeking": 0.19000000000000003,
+        "achievement_oriented": 0.09500000000000001,
+        "care_oriented": 0.09500000000000001,
+        "knowledge_oriented": 0.14250000000000002,
+        "governance_oriented": 0.23750000000000002,
+        "sovereignty_order_oriented": 0.09500000000000001,
+        "expression_oriented": 0.14250000000000002,
+        "ecosystem_oriented": 0.09500000000000001
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": -1,
+      "sign_agreement": 0.5555555555555556,
+      "central_tendency": 0.09866735125391873,
+      "contestedness": 0.05199545477230463,
+      "impact": 0.0,
+      "top_clusters": {
+        "ecosystem_oriented": 0.08725611792776036,
+        "expression_oriented": 0.0831423784755468
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.14862479793792094
+      },
+      "cluster_means": {
+        "survival_focused": -0.14862479793792094,
+        "stability_seeking": -0.07546489530176252,
+        "achievement_oriented": -0.08758100666029058,
+        "care_oriented": 0.07596549206250626,
+        "knowledge_oriented": 0.03526066315545573,
+        "governance_oriented": 0.06296582279536336,
+        "sovereignty_order_oriented": -0.13328419357399465,
+        "expression_oriented": 0.0831423784755468,
+        "ecosystem_oriented": 0.08725611792776036
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.1513317115760468,
+      "contestedness": 0.08723655194512736,
+      "impact": 0.0,
+      "top_clusters": {
+        "expression_oriented": -0.020915032679738564,
+        "knowledge_oriented": -0.05502217152109515
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.30611576347017955
+      },
+      "cluster_means": {
+        "survival_focused": -0.30611576347017955,
+        "stability_seeking": -0.22867094492961337,
+        "achievement_oriented": -0.14865843448963656,
+        "care_oriented": -0.14448665977361672,
+        "knowledge_oriented": -0.05502217152109515,
+        "governance_oriented": -0.1316388563762222,
+        "sovereignty_order_oriented": -0.2692274331158296,
+        "expression_oriented": -0.020915032679738564,
+        "ecosystem_oriented": -0.057250107828489355
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
       "signal_id": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "source": "",
@@ -679,8 +895,8 @@
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": 1.9047972487861409,
-      "category": "niche_concern",
+      "contest_score": 1.4963200456608083,
+      "category": "background_noise",
       "polarity": 1,
       "sign_agreement": 0.6944444444444444,
       "central_tendency": 0.0709923225637174,
@@ -715,7 +931,7 @@
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": 0,
       "sign_agreement": 1.0,
@@ -744,150 +960,6 @@
       "contest_raw": 0.0
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": 2.5902443136595337,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.6111111111111112,
-      "central_tendency": 0.11981515650138913,
-      "contestedness": 0.059736551945127364,
-      "impact": 0.0825,
-      "top_clusters": {
-        "expression_oriented": 0.11658496732026144,
-        "knowledge_oriented": 0.08247782847890486
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.2511157634701796
-      },
-      "cluster_means": {
-        "survival_focused": -0.2511157634701796,
-        "stability_seeking": -0.11867094492961339,
-        "achievement_oriented": -0.06615843448963654,
-        "care_oriented": -0.06198665977361671,
-        "knowledge_oriented": 0.08247782847890486,
-        "governance_oriented": -0.04913885637622219,
-        "sovereignty_order_oriented": -0.2142274331158296,
-        "expression_oriented": 0.11658496732026144,
-        "ecosystem_oriented": -0.0022501078284893512
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.004928265535473008
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.1513317115760468,
-      "contestedness": 0.08723655194512736,
-      "impact": 0.0,
-      "top_clusters": {
-        "expression_oriented": -0.020915032679738564,
-        "knowledge_oriented": -0.05502217152109515
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.30611576347017955
-      },
-      "cluster_means": {
-        "survival_focused": -0.30611576347017955,
-        "stability_seeking": -0.22867094492961337,
-        "achievement_oriented": -0.14865843448963656,
-        "care_oriented": -0.14448665977361672,
-        "knowledge_oriented": -0.05502217152109515,
-        "governance_oriented": -0.1316388563762222,
-        "sovereignty_order_oriented": -0.2692274331158296,
-        "expression_oriented": -0.020915032679738564,
-        "ecosystem_oriented": -0.057250107828489355
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.1513317115760468,
-      "contestedness": 0.08723655194512736,
-      "impact": 0.0,
-      "top_clusters": {
-        "expression_oriented": -0.020915032679738564,
-        "knowledge_oriented": -0.05502217152109515
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.30611576347017955
-      },
-      "cluster_means": {
-        "survival_focused": -0.30611576347017955,
-        "stability_seeking": -0.22867094492961337,
-        "achievement_oriented": -0.14865843448963656,
-        "care_oriented": -0.14448665977361672,
-        "knowledge_oriented": -0.05502217152109515,
-        "governance_oriented": -0.1316388563762222,
-        "sovereignty_order_oriented": -0.2692274331158296,
-        "expression_oriented": -0.020915032679738564,
-        "ecosystem_oriented": -0.057250107828489355
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.75,
-      "central_tendency": 0.08323298169126934,
-      "contestedness": 0.032874650099930014,
-      "impact": 0.0,
-      "top_clusters": {
-        "sovereignty_order_oriented": -0.01382649808717254,
-        "survival_focused": -0.02920892494929006
-      },
-      "bottom_clusters": {
-        "expression_oriented": -0.19208809251434994
-      },
-      "cluster_means": {
-        "survival_focused": -0.02920892494929006,
-        "stability_seeking": -0.035665347363951765,
-        "achievement_oriented": -0.11089195754962013,
-        "care_oriented": -0.046701148187102554,
-        "knowledge_oriented": -0.17189238956103794,
-        "governance_oriented": -0.0328878161508807,
-        "sovereignty_order_oriented": -0.01382649808717254,
-        "expression_oriented": -0.19208809251434994,
-        "ecosystem_oriented": -0.08551167767708809
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
       "signal_id": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "title": "US declassifies more UFO footage filmed in the Middle East",
       "source": "",
@@ -895,7 +967,43 @@
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": 0,
       "sign_agreement": 1.0,
@@ -931,115 +1039,7 @@
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-      "title": "Cost of living protests sweep across Europe",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.8055555555555556,
-      "central_tendency": 0.1513317115760468,
-      "contestedness": 0.08723655194512736,
-      "impact": 0.0,
-      "top_clusters": {
-        "expression_oriented": -0.020915032679738564,
-        "knowledge_oriented": -0.05502217152109515
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.30611576347017955
-      },
-      "cluster_means": {
-        "survival_focused": -0.30611576347017955,
-        "stability_seeking": -0.22867094492961337,
-        "achievement_oriented": -0.14865843448963656,
-        "care_oriented": -0.14448665977361672,
-        "knowledge_oriented": -0.05502217152109515,
-        "governance_oriented": -0.1316388563762222,
-        "sovereignty_order_oriented": -0.2692274331158296,
-        "expression_oriented": -0.020915032679738564,
-        "ecosystem_oriented": -0.057250107828489355
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": 0,
       "sign_agreement": 1.0,
@@ -1070,230 +1070,14 @@
   ],
   "selected_priorities": [
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.5555555555555556,
-      "central_tendency": 0.062176503647755905,
-      "contestedness": 0.050071356493228525,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "achievement_oriented": 0.0
-      },
-      "bottom_clusters": {
-        "ecosystem_oriented": -0.14528531154501026
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": -0.035614128658190386,
-        "achievement_oriented": 0.0,
-        "care_oriented": -0.07652503880762979,
-        "knowledge_oriented": -0.08727898886536355,
-        "governance_oriented": -0.075115709738306,
-        "sovereignty_order_oriented": -0.006077682321826762,
-        "expression_oriented": -0.12518706623153453,
-        "ecosystem_oriented": -0.14528531154501026
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": 2.5902443136595337,
-      "category": "background_noise",
-      "polarity": -1,
-      "sign_agreement": 0.6111111111111112,
-      "central_tendency": 0.11981515650138913,
-      "contestedness": 0.059736551945127364,
-      "impact": 0.0825,
-      "top_clusters": {
-        "expression_oriented": 0.11658496732026144,
-        "knowledge_oriented": 0.08247782847890486
-      },
-      "bottom_clusters": {
-        "survival_focused": -0.2511157634701796
-      },
-      "cluster_means": {
-        "survival_focused": -0.2511157634701796,
-        "stability_seeking": -0.11867094492961339,
-        "achievement_oriented": -0.06615843448963654,
-        "care_oriented": -0.06198665977361671,
-        "knowledge_oriented": 0.08247782847890486,
-        "governance_oriented": -0.04913885637622219,
-        "sovereignty_order_oriented": -0.2142274331158296,
-        "expression_oriented": 0.11658496732026144,
-        "ecosystem_oriented": -0.0022501078284893512
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.004928265535473008
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 0.9722222222222222,
-      "central_tendency": 0.24163394389549403,
-      "contestedness": 0.05073824424516707,
-      "impact": 0.0,
-      "top_clusters": {
-        "sovereignty_order_oriented": 0.3190695471304037,
-        "governance_oriented": 0.3136843418604117
-      },
-      "bottom_clusters": {
-        "expression_oriented": 0.13725016819187635
-      },
-      "cluster_means": {
-        "survival_focused": 0.25179697145547986,
-        "stability_seeking": 0.2617156313506726,
-        "achievement_oriented": 0.2565547259302827,
-        "care_oriented": 0.19053299907772886,
-        "knowledge_oriented": 0.2010587272103128,
-        "governance_oriented": 0.3136843418604117,
-        "sovereignty_order_oriented": 0.3190695471304037,
-        "expression_oriented": 0.13725016819187635,
-        "ecosystem_oriented": 0.22894642188724662
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "category": "background_noise",
-      "polarity": 0,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.0,
-      "contestedness": 0.0,
-      "impact": 0.0,
-      "top_clusters": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0
-      },
-      "bottom_clusters": {
-        "achievement_oriented": 0.0
-      },
-      "cluster_means": {
-        "survival_focused": 0.0,
-        "stability_seeking": 0.0,
-        "achievement_oriented": 0.0,
-        "care_oriented": 0.0,
-        "knowledge_oriented": 0.0,
-        "governance_oriented": 0.0,
-        "sovereignty_order_oriented": 0.0,
-        "expression_oriented": 0.0,
-        "ecosystem_oriented": 0.0
-      },
-      "priority_raw": 0.0,
-      "contest_raw": 0.0
-    },
-    {
-      "signal_id": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "source": "",
-      "url": "",
-      "published": "",
-      "classifier_fallback": true,
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": -1,
       "sign_agreement": 0.8055555555555556,
@@ -1322,50 +1106,86 @@
       "contest_raw": 0.0
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
-      "polarity": 1,
-      "sign_agreement": 1.0,
-      "central_tendency": 0.13194444444444442,
-      "contestedness": 0.0,
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.1513317115760468,
+      "contestedness": 0.08723655194512736,
       "impact": 0.0,
       "top_clusters": {
-        "governance_oriented": 0.23750000000000002,
-        "stability_seeking": 0.19000000000000003
+        "expression_oriented": -0.020915032679738564,
+        "knowledge_oriented": -0.05502217152109515
       },
       "bottom_clusters": {
-        "achievement_oriented": 0.09500000000000001
+        "survival_focused": -0.30611576347017955
       },
       "cluster_means": {
-        "survival_focused": 0.09500000000000001,
-        "stability_seeking": 0.19000000000000003,
-        "achievement_oriented": 0.09500000000000001,
-        "care_oriented": 0.09500000000000001,
-        "knowledge_oriented": 0.14250000000000002,
-        "governance_oriented": 0.23750000000000002,
-        "sovereignty_order_oriented": 0.09500000000000001,
-        "expression_oriented": 0.14250000000000002,
-        "ecosystem_oriented": 0.09500000000000001
+        "survival_focused": -0.30611576347017955,
+        "stability_seeking": -0.22867094492961337,
+        "achievement_oriented": -0.14865843448963656,
+        "care_oriented": -0.14448665977361672,
+        "knowledge_oriented": -0.05502217152109515,
+        "governance_oriented": -0.1316388563762222,
+        "sovereignty_order_oriented": -0.2692274331158296,
+        "expression_oriented": -0.020915032679738564,
+        "ecosystem_oriented": -0.057250107828489355
       },
       "priority_raw": 0.0,
       "contest_raw": 0.0
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "signal_id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0977777777777778,
+      "contestedness": 0.0,
+      "impact": 0.11000000000000001,
+      "top_clusters": {
+        "care_oriented": 0.1375,
+        "achievement_oriented": 0.1375
+      },
+      "bottom_clusters": {
+        "ecosystem_oriented": 0.0825
+      },
+      "cluster_means": {
+        "survival_focused": 0.0825,
+        "stability_seeking": 0.0825,
+        "achievement_oriented": 0.1375,
+        "care_oriented": 0.1375,
+        "knowledge_oriented": 0.0825,
+        "governance_oriented": 0.11000000000000001,
+        "sovereignty_order_oriented": 0.0825,
+        "expression_oriented": 0.0825,
+        "ecosystem_oriented": 0.0825
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
       "category": "background_noise",
       "polarity": 0,
       "sign_agreement": 1.0,
@@ -1394,40 +1214,220 @@
       "contest_raw": 0.0
     },
     {
-      "signal_id": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "signal_id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
       "source": "",
       "url": "",
       "published": "",
       "classifier_fallback": true,
       "priority_score": 0.0,
-      "contest_score": 1.9047972487861409,
-      "category": "niche_concern",
+      "contest_score": 3.3383507799920267,
+      "category": "convergent_priority",
       "polarity": 1,
-      "sign_agreement": 0.6944444444444444,
-      "central_tendency": 0.0709923225637174,
-      "contestedness": 0.03382110879840934,
-      "impact": 0.11249999999999999,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.1611111111111111,
+      "contestedness": 0.04999999999999999,
+      "impact": 0.15,
       "top_clusters": {
-        "stability_seeking": 0.11433465263604826,
-        "governance_oriented": 0.07961218384911929
+        "knowledge_oriented": 0.25,
+        "expression_oriented": 0.25
       },
       "bottom_clusters": {
-        "ecosystem_oriented": -0.010511677677088079
+        "ecosystem_oriented": 0.1
       },
       "cluster_means": {
-        "survival_focused": 0.04579107505070995,
-        "stability_seeking": 0.11433465263604826,
-        "achievement_oriented": 0.0016080424503798624,
-        "care_oriented": 0.06579885181289744,
-        "knowledge_oriented": 0.015607610438962055,
-        "governance_oriented": 0.07961218384911929,
-        "sovereignty_order_oriented": 0.061173501912827465,
-        "expression_oriented": -0.004588092514349967,
-        "ecosystem_oriented": -0.010511677677088079
+        "survival_focused": 0.1,
+        "stability_seeking": 0.2,
+        "achievement_oriented": 0.15,
+        "care_oriented": 0.15,
+        "knowledge_oriented": 0.25,
+        "governance_oriented": 0.15,
+        "sovereignty_order_oriented": 0.1,
+        "expression_oriented": 0.25,
+        "ecosystem_oriented": 0.1
       },
       "priority_raw": 0.0,
-      "contest_raw": 0.0038048747398210505
+      "contest_raw": 0.007499999999999998
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": 1.972488296130076,
+      "category": "convergent_priority",
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.11742396417721605,
+      "contestedness": 0.043273375006557285,
+      "impact": 0.11000000000000001,
+      "top_clusters": {
+        "expression_oriented": -0.008602098911273077,
+        "knowledge_oriented": -0.03230116038645868
+      },
+      "bottom_clusters": {
+        "stability_seeking": -0.18178507358780377
+      },
+      "cluster_means": {
+        "survival_focused": -0.16861576347017954,
+        "stability_seeking": -0.18178507358780377,
+        "achievement_oriented": -0.06615843448963654,
+        "care_oriented": -0.13851169858124648,
+        "knowledge_oriented": -0.03230116038645868,
+        "governance_oriented": -0.1517545661145282,
+        "sovereignty_order_oriented": -0.16530511543765636,
+        "expression_oriented": -0.008602098911273077,
+        "ecosystem_oriented": -0.037535419373499614
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.004760071250721302
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": -1,
+      "sign_agreement": 0.8055555555555556,
+      "central_tendency": 0.1513317115760468,
+      "contestedness": 0.08723655194512736,
+      "impact": 0.0,
+      "top_clusters": {
+        "expression_oriented": -0.020915032679738564,
+        "knowledge_oriented": -0.05502217152109515
+      },
+      "bottom_clusters": {
+        "survival_focused": -0.30611576347017955
+      },
+      "cluster_means": {
+        "survival_focused": -0.30611576347017955,
+        "stability_seeking": -0.22867094492961337,
+        "achievement_oriented": -0.14865843448963656,
+        "care_oriented": -0.14448665977361672,
+        "knowledge_oriented": -0.05502217152109515,
+        "governance_oriented": -0.1316388563762222,
+        "sovereignty_order_oriented": -0.2692274331158296,
+        "expression_oriented": -0.020915032679738564,
+        "ecosystem_oriented": -0.057250107828489355
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 0,
+      "sign_agreement": 1.0,
+      "central_tendency": 0.0,
+      "contestedness": 0.0,
+      "impact": 0.0,
+      "top_clusters": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0
+      },
+      "bottom_clusters": {
+        "achievement_oriented": 0.0
+      },
+      "cluster_means": {
+        "survival_focused": 0.0,
+        "stability_seeking": 0.0,
+        "achievement_oriented": 0.0,
+        "care_oriented": 0.0,
+        "knowledge_oriented": 0.0,
+        "governance_oriented": 0.0,
+        "sovereignty_order_oriented": 0.0,
+        "expression_oriented": 0.0,
+        "ecosystem_oriented": 0.0
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
+    },
+    {
+      "signal_id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "source": "",
+      "url": "",
+      "published": "",
+      "classifier_fallback": true,
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
+      "category": "background_noise",
+      "polarity": 1,
+      "sign_agreement": 0.9722222222222222,
+      "central_tendency": 0.24163394389549403,
+      "contestedness": 0.05073824424516707,
+      "impact": 0.0,
+      "top_clusters": {
+        "sovereignty_order_oriented": 0.3190695471304037,
+        "governance_oriented": 0.3136843418604117
+      },
+      "bottom_clusters": {
+        "expression_oriented": 0.13725016819187635
+      },
+      "cluster_means": {
+        "survival_focused": 0.25179697145547986,
+        "stability_seeking": 0.2617156313506726,
+        "achievement_oriented": 0.2565547259302827,
+        "care_oriented": 0.19053299907772886,
+        "knowledge_oriented": 0.2010587272103128,
+        "governance_oriented": 0.3136843418604117,
+        "sovereignty_order_oriented": 0.3190695471304037,
+        "expression_oriented": 0.13725016819187635,
+        "ecosystem_oriented": 0.22894642188724662
+      },
+      "priority_raw": 0.0,
+      "contest_raw": 0.0
     }
   ],
   "mood": {
@@ -1438,270 +1438,236 @@
   },
   "root_causes": [
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "rank": 1,
-      "target": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "name": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "root_cause": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "target": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "name": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "root_cause": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "severity": "low",
       "category": "background_noise",
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "contestedness": 0.0,
-      "mood": "→ flat",
-      "rationale": "Classified as Background Noise with → flat ensemble direction and strongest pull from survival_focused, stability_seeking.",
-      "signal_count": 1,
-      "signals": [
-        "Tech stock sell-off drags markets down as Anthropic shares slide"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Tech stock sell-off drags markets down as Anthropic shares slide is likely to remain unstable until clearer directional evidence appears.",
-      "falsification": "Signals tied to Tech stock sell-off drags markets down as Anthropic shares slide fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "rank": 2,
-      "target": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "name": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "root_cause": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "contestedness": 0.050071356493228525,
-      "mood": "↔ mixed",
-      "rationale": "Classified as Background Noise with ↔ mixed ensemble direction and strongest pull from survival_focused, achievement_oriented.",
-      "signal_count": 1,
-      "signals": [
-        "UK to explore even closer ties with EU after agreeing deal, says Burnham"
-      ],
-      "timeline": "1-4 weeks",
-      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Pressure around UK to explore even closer ties with EU after agreeing deal, says Burnham is likely to intensify or spill over without intervention.",
-      "falsification": "Signals tied to UK to explore even closer ties with EU after agreeing deal, says Burnham fade or reverse without spillover."
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "rank": 3,
-      "target": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "name": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "root_cause": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "severity": "low",
-      "category": "background_noise",
-      "priority_score": 0.0,
-      "contest_score": 2.5902443136595337,
-      "contestedness": 0.059736551945127364,
+      "contest_score": -0.4004211248107595,
+      "contestedness": 0.08723655194512736,
       "mood": "↘ negative",
       "rationale": "Classified as Background Noise with ↘ negative ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk"
+        "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Pressure around Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk is likely to intensify or spill over without intervention.",
-      "falsification": "Signals tied to Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk fade or reverse without spillover."
+      "prediction": "Pressure around Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting is likely to intensify or spill over without intervention.",
+      "falsification": "Signals tied to Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "rank": 4,
-      "target": "French police officers sentenced for beating of music producer Michel Zecler",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "name": "French police officers sentenced for beating of music producer Michel Zecler",
-      "root_cause": "French police officers sentenced for beating of music producer Michel Zecler",
+      "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "rank": 2,
+      "target": "Russia-bound ship attacked in Gulf of Finland",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "name": "Russia-bound ship attacked in Gulf of Finland",
+      "root_cause": "Russia-bound ship attacked in Gulf of Finland",
       "severity": "low",
       "category": "background_noise",
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
-      "contestedness": 0.05073824424516707,
-      "mood": "↗ positive",
-      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from sovereignty_order_oriented, governance_oriented.",
+      "contest_score": -0.4004211248107595,
+      "contestedness": 0.08723655194512736,
+      "mood": "↘ negative",
+      "rationale": "Classified as Background Noise with ↘ negative ensemble direction and strongest pull from expression_oriented, knowledge_oriented.",
       "signal_count": 1,
       "signals": [
-        "French police officers sentenced for beating of music producer Michel Zecler"
+        "Russia-bound ship attacked in Gulf of Finland"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "Momentum around French police officers sentenced for beating of music producer Michel Zecler is likely to compound if current conditions hold.",
-      "falsification": "Signals tied to French police officers sentenced for beating of music producer Michel Zecler fade or reverse without spillover."
+      "prediction": "Pressure around Russia-bound ship attacked in Gulf of Finland is likely to intensify or spill over without intervention.",
+      "falsification": "Signals tied to Russia-bound ship attacked in Gulf of Finland fade or reverse without spillover."
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "rank": 5,
-      "target": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "name": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "root_cause": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "rank": 3,
+      "target": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "name": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "root_cause": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "severity": "low",
       "category": "background_noise",
       "priority_score": 0.0,
-      "contest_score": -0.41678152212383573,
+      "contest_score": -0.4004211248107595,
+      "contestedness": 0.0,
+      "mood": "↗ positive",
+      "rationale": "Classified as Background Noise with ↗ positive ensemble direction and strongest pull from care_oriented, achievement_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "Fight over fossil fuels leaves COP31 climate talks in deadlock"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around Fight over fossil fuels leaves COP31 climate talks in deadlock is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to Fight over fossil fuels leaves COP31 climate talks in deadlock fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "rank": 4,
+      "target": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "name": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "root_cause": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "severity": "low",
+      "category": "background_noise",
+      "priority_score": 0.0,
+      "contest_score": -0.4004211248107595,
       "contestedness": 0.0,
       "mood": "→ flat",
       "rationale": "Classified as Background Noise with → flat ensemble direction and strongest pull from survival_focused, stability_seeking.",
       "signal_count": 1,
       "signals": [
-        "In a year of AI solving maths problems, Anthropic may have just solved the biggest"
+        "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
       ],
       "timeline": "1-4 weeks",
       "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
-      "prediction": "In a year of AI solving maths problems, Anthropic may have just solved the biggest is likely to remain unstable until clearer directional evidence appears.",
-      "falsification": "Signals tied to In a year of AI solving maths problems, Anthropic may have just solved the biggest fade or reverse without spillover."
+      "prediction": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out is likely to remain unstable until clearer directional evidence appears.",
+      "falsification": "Signals tied to Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out fade or reverse without spillover."
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "rank": 5,
+      "target": "FBI reportedly investigating apparent hack of its criminal database",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "name": "FBI reportedly investigating apparent hack of its criminal database",
+      "root_cause": "FBI reportedly investigating apparent hack of its criminal database",
+      "severity": "high",
+      "category": "convergent_priority",
+      "priority_score": 0.0,
+      "contest_score": 3.3383507799920267,
+      "contestedness": 0.04999999999999999,
+      "mood": "↗ positive",
+      "rationale": "Classified as Convergent Priority with ↗ positive ensemble direction and strongest pull from knowledge_oriented, expression_oriented.",
+      "signal_count": 1,
+      "signals": [
+        "FBI reportedly investigating apparent hack of its criminal database"
+      ],
+      "timeline": "1-4 weeks",
+      "intervention": "Monitor the structural drivers and prepare targeted mitigations around the exposed subsystem.",
+      "prediction": "Momentum around FBI reportedly investigating apparent hack of its criminal database is likely to compound if current conditions hold.",
+      "falsification": "Signals tied to FBI reportedly investigating apparent hack of its criminal database fade or reverse without spillover."
     }
   ],
   "predictions": [
     {
-      "root_cause": "Trump threatens ban on US firms building AI data centres overseas",
-      "prediction": "Momentum around Trump threatens ban on US firms building AI data centres overseas is likely to compound if current conditions hold.",
-      "timeline": "4-8 weeks",
-      "falsification": "Signals tied to Trump threatens ban on US firms building AI data centres overseas fade or reverse without downstream spillover.",
-      "severity": "medium"
-    }
-  ],
-  "narrative": "Today reads as cautious 🟡: the ensemble sees Tech stock sell-off drags markets down as Anthropic shares slide as the clearest structural priority. The emphasis is less about headline volume than about compounding exposure across multiple value clusters. Watch whether these pressures broaden into adjacent systems over the next reporting cycle.",
-  "noise_filtered": [
-    "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "French police officers sentenced for beating of music producer Michel Zecler",
-    "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-    "Gérard Depardieu and French author investigated over sexual allegations",
-    "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-    "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-    "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "Nearly 600 women killed in South Africa within three months",
-    "Texas death-row inmate screams as execution takes more than one hour",
-    "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-    "South Korea catches 111 students with new measures against exam cheating",
-    "US declassifies more UFO footage filmed in the Middle East",
-    "What the new UK-EU deal could mean for future post-Brexit relations",
-    "Cost of living protests sweep across Europe",
-    "What we know about the latest Russian missile strikes on Ukraine",
-    "From premature baby to social media star - Famed hippo Fiona dies"
-  ],
-  "matured_predictions": [
-    {
-      "id": "2c679733b65a387d",
-      "created_at": "2026-11-07",
-      "root_cause": "California governor commutes sentences for state's 548 death row inmates",
-      "prediction": "Momentum around California governor commutes sentences for state's 548 death row inmates is likely to compound if current conditions hold.",
+      "root_cause": "FBI reportedly investigating apparent hack of its criminal database",
+      "prediction": "Momentum around FBI reportedly investigating apparent hack of its criminal database is likely to compound if current conditions hold.",
       "timeline": "1-2 weeks",
-      "maturity_date": "2026-11-21",
-      "falsification": "Signals tied to California governor commutes sentences for state's 548 death row inmates fade or reverse without downstream spillover.",
-      "severity": "high",
-      "status": "validated",
-      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
-      "validated_at": "2026-11-21T01:17:01.367593+00:00",
-      "evidence_used": [
-        "- BBC World: Texas death-row inmate screams as execution takes more than one hour (https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss)",
-        "- Al Jazeera: Iraq PM targets militia stronghold in bid to assert state control (https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss)",
-        "- BBC World: Mamdani announces plan to close New York's Rikers Island jail by 2032 (https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss)",
-        "- Al Jazeera: Two Salvadoran soldiers killed in Haiti while handling explosives (https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss)"
-      ]
+      "falsification": "Signals tied to FBI reportedly investigating apparent hack of its criminal database fade or reverse without downstream spillover.",
+      "severity": "high"
+    },
+    {
+      "root_cause": "Man convicted of starting Palisades fire in Los Angeles",
+      "prediction": "Pressure around Man convicted of starting Palisades fire in Los Angeles is likely to intensify or spill over without intervention.",
+      "timeline": "1-2 weeks",
+      "falsification": "Signals tied to Man convicted of starting Palisades fire in Los Angeles fade or reverse without downstream spillover.",
+      "severity": "high"
     }
   ],
+  "narrative": "Today reads as cautious 🟡: the ensemble sees Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting as the clearest structural priority. The emphasis is less about headline volume than about compounding exposure across multiple value clusters. Watch whether these pressures broaden into adjacent systems over the next reporting cycle.",
+  "noise_filtered": [
+    "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "Russia-bound ship attacked in Gulf of Finland",
+    "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "Lock of former US President George Washington's hair sells for $4,000",
+    "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "French police officers sentenced for beating of music producer Michel Zecler",
+    "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+    "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "Trafalgar Square Christmas tree felled in Norway",
+    "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "Trump threatens ban on US firms building AI data centres overseas",
+    "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "US declassifies more UFO footage filmed in the Middle East",
+    "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+    "What the new UK-EU deal could mean for future post-Brexit relations"
+  ],
+  "matured_predictions": [],
   "delta": {
     "is_first_run": false,
-    "new_convergent": [],
+    "new_convergent": [
+      "FBI reportedly investigating apparent hack of its criminal database",
+      "Man convicted of starting Palisades fire in Los Angeles"
+    ],
     "new_contested": [],
     "removed_priorities": [
       {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "title": "Gérard Depardieu and French author investigated over sexual allegations",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+        "title": "Nearly 600 women killed in South Africa within three months",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "California targets Nvidia in China AI chip probe",
+        "title": "Texas death-row inmate screams as execution takes more than one hour",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+        "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+        "title": "South Korea catches 111 students with new measures against exam cheating",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Trump posthumously pardons US baseball legend Pete Rose",
+        "title": "Cost of living protests sweep across Europe",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+        "title": "What we know about the latest Russian missile strikes on Ukraine",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       },
       {
-        "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Florida pastor found guilty over role in assassination of Haitian president",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-        "reason": "No longer in today's news feed — story left the RSS cycle"
-      },
-      {
-        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "title": "From premature baby to social media star - Famed hippo Fiona dies",
         "reason": "No longer in today's news feed — story left the RSS cycle"
       }
     ],
-    "category_changes": [],
+    "category_changes": [
+      "Trump threatens ban on US firms building AI data centres overseas: niche_concern → background_noise"
+    ],
     "priority_score_changes": [],
     "mood_shift": "",
     "structural_shifts": [
-      "convergent_priority: 1 → 0",
-      "niche_concern: 0 → 1"
+      "convergent_priority: 0 → 2",
+      "niche_concern: 1 → 0",
+      "Category change — Trump threatens ban on US firms building AI data centres overseas: niche_concern → background_noise"
     ],
-    "continuing_priorities": [],
-    "new_stories": 20,
-    "carried_stories": 0,
+    "continuing_priorities": [
+      "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "French police officers sentenced for beating of music producer Michel Zecler",
+      "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "Trump threatens ban on US firms building AI data centres overseas",
+      "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "US declassifies more UFO footage filmed in the Middle East",
+      "What the new UK-EU deal could mean for future post-Brexit relations"
+    ],
+    "new_stories": 12,
+    "carried_stories": 8,
     "total_stories": 20,
-    "summary": "20 priorities dropped: Anthropic becomes one of world's most valuable public companies in stock market debut (No longer in today's news feed — story left the RSS cycle); 'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC (No longer in today's news feed — story left the RSS cycle); Myanmar committed genocide against Rohingya minority, top UN court rules (No longer in today's news feed — story left the RSS cycle); Europe ready for talks with Russia on ending war in Ukraine, leaders say (No longer in today's news feed — story left the RSS cycle); Trump, Putin and Xi release 'peace declaration' after historic meeting (No longer in today's news feed — story left the RSS cycle); California targets Nvidia in China AI chip probe (No longer in today's news feed — story left the RSS cycle); Fiona the hippo dies after swallowing a hat at Cincinnati Zoo (No longer in today's news feed — story left the RSS cycle); Judge finds Thomas Markle mentally fit to stand trial on child abuse charges (No longer in today's news feed — story left the RSS cycle); Trump posthumously pardons US baseball legend Pete Rose (No longer in today's news feed — story left the RSS cycle); Dozens missing after boat carrying migrants sinks off Senegal's coast (No longer in today's news feed — story left the RSS cycle); Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge (No longer in today's news feed — story left the RSS cycle); Van Gogh painting sells for record $190.4m after row over its Nazi history (No longer in today's news feed — story left the RSS cycle); Venezuela signs military deal with US less than a year after Maduro's removal (No longer in today's news feed — story left the RSS cycle); Susan Smith denied parole again 32 years after drowning her two sons (No longer in today's news feed — story left the RSS cycle); US consortium wins huge Kenya mining deal, beating Chinese rivals (No longer in today's news feed — story left the RSS cycle); Survivors of Uganda's deadly landslide seek justice at the UN (No longer in today's news feed — story left the RSS cycle); Florida pastor found guilty over role in assassination of Haitian president (No longer in today's news feed — story left the RSS cycle); Israeli military completes ground operation in Gaza beyond Yellow Line (No longer in today's news feed — story left the RSS cycle); Elon Musk says record $446m spending on US midterms was 'pretty foolish' (No longer in today's news feed — story left the RSS cycle); Inside the old gas pipeline where Ukraine is fighting an underground war with Russia (No longer in today's news feed — story left the RSS cycle) · Structural shifts: convergent_priority: 1 → 0; niche_concern: 0 → 1 · Signal freshness: 20 new, 0 carried, 20 total"
+    "summary": "2 new convergent priorities emerged: FBI reportedly investigating apparent hack of its criminal database, Man convicted of starting Palisades fire in Los Angeles · 11 priorities dropped: UK to explore even closer ties with EU after agreeing deal, says Burnham (No longer in today's news feed — story left the RSS cycle); Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk (No longer in today's news feed — story left the RSS cycle); Gérard Depardieu and French author investigated over sexual allegations (No longer in today's news feed — story left the RSS cycle); Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge (No longer in today's news feed — story left the RSS cycle); Nearly 600 women killed in South Africa within three months (No longer in today's news feed — story left the RSS cycle); Texas death-row inmate screams as execution takes more than one hour (No longer in today's news feed — story left the RSS cycle); Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label (No longer in today's news feed — story left the RSS cycle); South Korea catches 111 students with new measures against exam cheating (No longer in today's news feed — story left the RSS cycle); Cost of living protests sweep across Europe (No longer in today's news feed — story left the RSS cycle); What we know about the latest Russian missile strikes on Ukraine (No longer in today's news feed — story left the RSS cycle); From premature baby to social media star - Famed hippo Fiona dies (No longer in today's news feed — story left the RSS cycle) · Priority category shifted: Trump threatens ban on US firms building AI data centres overseas: niche_concern → background_noise · Structural shifts: convergent_priority: 0 → 2; niche_concern: 1 → 0; Category change — Trump threatens ban on US firms building AI data centres overseas: niche_concern → background_noise · Signal freshness: 12 new, 8 carried, 20 total"
   }
 }
