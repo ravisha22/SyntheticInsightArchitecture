@@ -66,6 +66,32 @@
       "validated_at": null
     },
     {
+      "id": "727628ec93fa141c",
+      "created_at": "2026-11-22",
+      "root_cause": "Man convicted of starting Palisades fire in Los Angeles",
+      "prediction": "Pressure around Man convicted of starting Palisades fire in Los Angeles is likely to intensify or spill over without intervention.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-12-06",
+      "falsification": "Signals tied to Man convicted of starting Palisades fire in Los Angeles fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "5ffcd8e8e85b35ca",
+      "created_at": "2026-11-22",
+      "root_cause": "FBI reportedly investigating apparent hack of its criminal database",
+      "prediction": "Momentum around FBI reportedly investigating apparent hack of its criminal database is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-12-06",
+      "falsification": "Signals tied to FBI reportedly investigating apparent hack of its criminal database fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "042a108a6af32952",
       "created_at": "2026-11-20",
       "root_cause": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
@@ -2485,5 +2511,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-21T01:17:00.763873+00:00"
+  "last_updated": "2026-11-22T00:12:33.140966+00:00"
 }
