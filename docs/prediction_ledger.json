@@ -53,6 +53,32 @@
       "validated_at": null
     },
     {
+      "id": "cd27e390c89f06a8",
+      "created_at": "2026-11-23",
+      "root_cause": "What's next after no deal at COP31 climate talks?",
+      "prediction": "Momentum around What's next after no deal at COP31 climate talks? is likely to compound if current conditions hold.",
+      "timeline": "4-8 weeks",
+      "maturity_date": "2027-01-18",
+      "falsification": "Signals tied to What's next after no deal at COP31 climate talks? fade or reverse without downstream spillover.",
+      "severity": "medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
+      "id": "49e31289cf4f44b7",
+      "created_at": "2026-11-23",
+      "root_cause": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "prediction": "Momentum around Democrats win largest House majority since 1992 after flipping North Carolina seat is likely to compound if current conditions hold.",
+      "timeline": "4-8 weeks",
+      "maturity_date": "2027-01-18",
+      "falsification": "Signals tied to Democrats win largest House majority since 1992 after flipping North Carolina seat fade or reverse without downstream spillover.",
+      "severity": "medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "20f1d92ae625353e",
       "created_at": "2026-11-21",
       "root_cause": "Trump threatens ban on US firms building AI data centres overseas",
@@ -2511,5 +2537,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-22T00:12:33.140966+00:00"
+  "last_updated": "2026-11-23T00:42:00.661287+00:00"
 }
