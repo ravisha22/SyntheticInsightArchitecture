@@ -53,6 +53,19 @@
       "validated_at": null
     },
     {
+      "id": "bbe27002b16713ad",
+      "created_at": "2026-11-24",
+      "root_cause": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "prediction": "Momentum around Iranian authorities flog singer who performed without hijab, lawyers say is likely to compound if current conditions hold.",
+      "timeline": "4-8 weeks",
+      "maturity_date": "2027-01-19",
+      "falsification": "Signals tied to Iranian authorities flog singer who performed without hijab, lawyers say fade or reverse without downstream spillover.",
+      "severity": "medium",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "cd27e390c89f06a8",
       "created_at": "2026-11-23",
       "root_cause": "What's next after no deal at COP31 climate talks?",
@@ -217,9 +230,16 @@
       "maturity_date": "2026-11-24",
       "falsification": "Signals tied to Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-11-24T04:40:52.521860+00:00",
+      "evidence_used": [
+        "- BBC World: What strike on Russian ship in Libya says about spread of Ukraine war (https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says (https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner (https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Five takeaways from the failed climate talks COP31 (https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss)",
+        "- Al Jazeera: Qatar PM looks to revive US-Iran talks after meeting Rubio (https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss)"
+      ]
     },
     {
       "id": "2c679733b65a387d",
@@ -2537,5 +2557,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-23T00:42:00.661287+00:00"
+  "last_updated": "2026-11-24T04:40:51.920864+00:00"
 }
