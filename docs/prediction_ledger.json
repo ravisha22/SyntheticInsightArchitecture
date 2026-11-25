@@ -105,6 +105,19 @@
       "validated_at": null
     },
     {
+      "id": "dfa7154887856479",
+      "created_at": "2026-11-25",
+      "root_cause": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "prediction": "Momentum around DR Congo says military aircraft missing as rebels claim to shoot down plane is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-12-09",
+      "falsification": "Signals tied to DR Congo says military aircraft missing as rebels claim to shoot down plane fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "727628ec93fa141c",
       "created_at": "2026-11-22",
       "root_cause": "Man convicted of starting Palisades fire in Los Angeles",
@@ -217,9 +230,16 @@
       "maturity_date": "2026-11-25",
       "falsification": "Signals tied to Spain's king and queen attend memorial service for rail crash victims fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-11-25T03:27:39.338915+00:00",
+      "evidence_used": [
+        "- Al Jazeera: Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle (https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss)",
+        "- Al Jazeera: Turkish military helicopter crash kills five in western Turkiye (https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss)",
+        "- ABC Australia: Devastating injury blow for Adams days after making Socceroos debut (https://www.abc.net.au/news/2026-11-23/socceroo-eli-adams-suffers-injury-blow/107418142)",
+        "- BBC World: King Charles and Elton John pay tribute to Australian music legend Molly Meldrum (https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Dad who discovered daughter's murder on Facebook feels ignored by South African police (https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss)"
+      ]
     },
     {
       "id": "ee77175167e764a2",
@@ -2557,5 +2577,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-24T04:40:51.920864+00:00"
+  "last_updated": "2026-11-25T03:27:38.577178+00:00"
 }
