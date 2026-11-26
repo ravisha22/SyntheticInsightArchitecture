@@ -105,6 +105,19 @@
       "validated_at": null
     },
     {
+      "id": "9eaba70cb933871d",
+      "created_at": "2026-11-26",
+      "root_cause": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "prediction": "Momentum around US Army says controlled blast of explosives in Iowa was 'huge success' is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-12-10",
+      "falsification": "Signals tied to US Army says controlled blast of explosives in Iowa was 'huge success' fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "dfa7154887856479",
       "created_at": "2026-11-25",
       "root_cause": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
@@ -2577,5 +2590,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-25T03:27:38.577178+00:00"
+  "last_updated": "2026-11-26T02:43:11.842019+00:00"
 }
