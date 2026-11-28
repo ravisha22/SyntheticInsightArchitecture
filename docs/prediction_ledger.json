@@ -105,6 +105,19 @@
       "validated_at": null
     },
     {
+      "id": "89652a4329481683",
+      "created_at": "2026-11-28",
+      "root_cause": "Millions of wives in South Asia unprotected from marital rape - study",
+      "prediction": "Momentum around Millions of wives in South Asia unprotected from marital rape - study is likely to compound if current conditions hold.",
+      "timeline": "1-2 weeks",
+      "maturity_date": "2026-12-12",
+      "falsification": "Signals tied to Millions of wives in South Asia unprotected from marital rape - study fade or reverse without downstream spillover.",
+      "severity": "high",
+      "status": "open",
+      "validation_notes": "",
+      "validated_at": null
+    },
+    {
       "id": "9eaba70cb933871d",
       "created_at": "2026-11-26",
       "root_cause": "US Army says controlled blast of explosives in Iowa was 'huge success'",
@@ -217,9 +230,16 @@
       "maturity_date": "2026-11-28",
       "falsification": "Signals tied to German spies handed new powers to tackle 'hybrid threats' from abroad fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-11-28T02:34:05.946803+00:00",
+      "evidence_used": [
+        "- Al Jazeera: Putin unveils new Russian nuclear-powered submarine with hypersonic weapons (https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss)",
+        "- BBC World: 'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged (https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Watch: BBC confronts German man suspected of supplying migrant gangs with small boats (https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: The Indian 'Tamasha queen' whose fans paid for a show that never happened (https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss)",
+        "- Al Jazeera: Kenyan cult leader guilty of manslaughter more than 123 starvation deaths (https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss)"
+      ]
     },
     {
       "id": "a8ef181163499481",
@@ -230,9 +250,16 @@
       "maturity_date": "2026-11-28",
       "falsification": "Signals tied to Watch: Divers explore US ship sunk off Florida coast to create new reef fade or reverse without downstream spillover.",
       "severity": "high",
-      "status": "open",
-      "validation_notes": "",
-      "validated_at": null
+      "status": "validated",
+      "validation_notes": "Fresh signals materially overlapped with the predicted topic.",
+      "validated_at": "2026-11-28T02:34:07.294147+00:00",
+      "evidence_used": [
+        "- BBC World: Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza (https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss)",
+        "- BBC World: Watch: Roofs torn off and streets under water as severe weather hits US (https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss)",
+        "- Al Jazeera: US disables ship attempting to breach Iran blockade (https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss)",
+        "- Al Jazeera: US military says it disabled merchant ship trying to breach Iran blockade (https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss)",
+        "- Al Jazeera: Putin unveils new Russian nuclear-powered submarine with hypersonic weapons (https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss)"
+      ]
     },
     {
       "id": "5cbe0776eafccfa6",
@@ -2590,5 +2617,5 @@
       "validated_at": null
     }
   ],
-  "last_updated": "2026-11-27T02:43:49.989020+00:00"
+  "last_updated": "2026-11-28T02:34:04.832006+00:00"
 }
